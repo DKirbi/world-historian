@@ -1,0 +1,238 @@
+.section {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+.h3 {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  margin: 0;
+  font-size: var(--fs-sm);
+  font-weight: 600;
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+
+  .swatch {
+    margin-right: 6px;
+  }
+}
+
+.muted {
+  color: var(--ink-2);
+}
+
+.note {
+  margin: 0;
+  color: var(--ink-2);
+}
+
+.footnote {
+  margin: 0;
+  color: var(--ink-2);
+  font-size: var(--fs-xs);
+  line-height: 1.45;
+}
+
+.swatch {
+  display: inline-block;
+  flex: none;
+  width: 10px;
+  height: 10px;
+  border-radius: 2px;
+  background: var(--swatch);
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: var(--fs-sm);
+
+  th,
+  td {
+    padding: 6px 4px;
+    border-bottom: 1px solid var(--hairline);
+    text-align: left;
+    vertical-align: top;
+  }
+  thead th {
+    color: var(--ink-2);
+    font-size: var(--fs-xs);
+    font-weight: 500;
+  }
+  tbody th {
+    font-weight: 500;
+    width: 40%;
+  }
+  tr[data-group-start] > * {
+    border-top: 1px solid var(--axis);
+  }
+}
+
+.num {
+  text-align: right !important;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.years {
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.realmMark {
+  margin-left: 1px;
+  color: var(--ink-2);
+}
+
+.rowLink,
+.inlineLink {
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--ink);
+  text-align: left;
+  text-decoration: underline;
+  text-decoration-color: var(--axis);
+  text-underline-offset: 2px;
+  cursor: pointer;
+
+  &:hover {
+    text-decoration-color: currentColor;
+  }
+}
+
+.groupTag {
+  display: block;
+  color: var(--ink-2);
+  font-size: var(--fs-xs);
+  font-weight: 400;
+}
+
+.holders {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+
+  li {
+    display: flex;
+    align-items: baseline;
+    gap: 6px;
+  }
+  .swatch {
+    transform: translateY(1px);
+  }
+}
+
+.share {
+  margin-left: auto;
+  padding-left: 6px;
+  color: var(--ink-2);
+  font-variant-numeric: tabular-nums;
+}
+
+.links {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    text-underline-offset: 2px;
+  }
+}
+
+.notes {
+  margin: 0;
+  padding-left: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  color: var(--ink-2);
+}
+
+.badge {
+  padding: 1px 7px;
+  border-radius: 999px;
+  border: 1px solid var(--axis);
+  color: var(--ink-2);
+  font-size: var(--fs-xs);
+  font-weight: 500;
+}
+
+.stepper {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+}
+
+.yearField input {
+  width: 96px;
+  height: var(--control-h);
+  padding: 0 10px;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--hairline);
+  background: var(--surface);
+  font-family: var(--font-display);
+  font-size: var(--fs-md);
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  text-align: center;
+}
+
+.source {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding-bottom: var(--space-3);
+  border-bottom: 1px solid var(--hairline);
+
+  p {
+    margin: 0;
+    color: var(--ink-2);
+    font-size: var(--fs-xs);
+    line-height: 1.45;
+  }
+}
+
+.sourceTitle {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-weight: 500;
+  text-underline-offset: 2px;
+}
+
+.linkMeta {
+  display: block;
+  margin-top: 2px;
+  color: var(--ink-2);
+  font-size: var(--fs-xs);
+}
+
+.eventFacts {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 4px 12px;
+  margin: 0;
+
+  dt {
+    color: var(--ink-2);
+  }
+  dd {
+    margin: 0;
+  }
+}
