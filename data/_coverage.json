@@ -1,0 +1,2058 @@
+{
+ "generated": "2026-10-17",
+ "source": "cliopatria@v0.2.1",
+ "note": "Land and polities that no column shows, with the reason. Regenerate with tools/audit_coverage.py.",
+ "landMissed": 0,
+ "politiesNotShown": 92,
+ "politiesByReason": {
+  "below the share and inside thresholds in every country": 10,
+  "micro-state or excluded territory without a column": 7,
+  "shorter than 10 years and under 100,000 km² in any country": 75
+ },
+ "land": [
+  {
+   "continent": "Africa",
+   "admin": "South Africa",
+   "sovereign": "South Africa",
+   "km2": 243,
+   "reason": "no state in the source",
+   "whole": false,
+   "specific": {},
+   "states": 0
+  },
+  {
+   "continent": "Antarctica",
+   "admin": "Antarctica",
+   "sovereign": "Antarctica",
+   "km2": 12356515,
+   "reason": "no state in the source",
+   "whole": true,
+   "specific": {},
+   "states": 0
+  },
+  {
+   "continent": "Asia",
+   "admin": "Indian Ocean Territories",
+   "sovereign": "Australia",
+   "km2": 143,
+   "reason": "no state in the source",
+   "whole": true,
+   "specific": {},
+   "states": 0
+  },
+  {
+   "continent": "Asia",
+   "admin": "Siachen Glacier",
+   "sovereign": "Kashmir",
+   "km2": 2118,
+   "reason": "only wider states, already shown in other columns",
+   "whole": true,
+   "specific": {},
+   "states": 29
+  },
+  {
+   "continent": "Europe",
+   "admin": "Aland",
+   "sovereign": "Finland",
+   "km2": 764,
+   "reason": "only wider states, already shown in other columns",
+   "whole": true,
+   "specific": {},
+   "states": 6
+  },
+  {
+   "continent": "Europe",
+   "admin": "France",
+   "sovereign": "France",
+   "km2": 2953,
+   "reason": "excluded: An overseas department of France. The source has no state specific to the island, only French colonial records under other names (French India, French Indochina).",
+   "whole": false,
+   "specific": {
+    "French India": [
+     1673,
+     1847
+    ]
+   },
+   "states": 20
+  },
+  {
+   "continent": "Europe",
+   "admin": "Jersey",
+   "sovereign": "United Kingdom",
+   "km2": 127,
+   "reason": "no state in the source",
+   "whole": true,
+   "specific": {},
+   "states": 0
+  },
+  {
+   "continent": "Europe",
+   "admin": "Liechtenstein",
+   "sovereign": "Liechtenstein",
+   "km2": 138,
+   "reason": "excluded: At this map scale the neighbouring Swiss and earlier polygons cover all of Liechtenstein, so the column would show Switzerland ruling it; the source's Principality of Liechtenstein (1721–1814) barely overlaps the modern border.",
+   "whole": true,
+   "specific": {},
+   "states": 29
+  },
+  {
+   "continent": "Europe",
+   "admin": "Norway",
+   "sovereign": "Norway",
+   "km2": 62101,
+   "reason": "only wider states, already shown in other columns",
+   "whole": false,
+   "specific": {},
+   "states": 1
+  },
+  {
+   "continent": "Europe",
+   "admin": "Portugal",
+   "sovereign": "Portugal",
+   "km2": 717,
+   "reason": "only wider states, already shown in other columns",
+   "whole": false,
+   "specific": {},
+   "states": 7
+  },
+  {
+   "continent": "Europe",
+   "admin": "Russia",
+   "sovereign": "Russia",
+   "km2": 53479,
+   "reason": "only wider states, already shown in other columns",
+   "whole": false,
+   "specific": {},
+   "states": 5
+  },
+  {
+   "continent": "Europe",
+   "admin": "Spain",
+   "sovereign": "Spain",
+   "km2": 7122,
+   "reason": "only wider states, already shown in other columns",
+   "whole": false,
+   "specific": {},
+   "states": 6
+  },
+  {
+   "continent": "North America",
+   "admin": "Cayman Islands",
+   "sovereign": "United Kingdom",
+   "km2": 300,
+   "reason": "no state in the source",
+   "whole": true,
+   "specific": {},
+   "states": 0
+  },
+  {
+   "continent": "North America",
+   "admin": "Saint Pierre and Miquelon",
+   "sovereign": "France",
+   "km2": 206,
+   "reason": "only wider states, already shown in other columns",
+   "whole": true,
+   "specific": {},
+   "states": 14
+  },
+  {
+   "continent": "North America",
+   "admin": "Turks and Caicos Islands",
+   "sovereign": "United Kingdom",
+   "km2": 329,
+   "reason": "only wider states, already shown in other columns",
+   "whole": true,
+   "specific": {},
+   "states": 5
+  },
+  {
+   "continent": "North America",
+   "admin": "United States of America",
+   "sovereign": "United States of America",
+   "km2": 9243,
+   "reason": "only wider states, already shown in other columns",
+   "whole": false,
+   "specific": {},
+   "states": 2
+  },
+  {
+   "continent": "Seven seas (open ocean)",
+   "admin": "British Indian Ocean Territory",
+   "sovereign": "United Kingdom",
+   "km2": 132,
+   "reason": "no state in the source",
+   "whole": true,
+   "specific": {},
+   "states": 0
+  },
+  {
+   "continent": "Seven seas (open ocean)",
+   "admin": "French Southern and Antarctic Lands",
+   "sovereign": "France",
+   "km2": 6994,
+   "reason": "only wider states, already shown in other columns",
+   "whole": true,
+   "specific": {},
+   "states": 5
+  },
+  {
+   "continent": "Seven seas (open ocean)",
+   "admin": "Heard Island and McDonald Islands",
+   "sovereign": "Australia",
+   "km2": 420,
+   "reason": "no state in the source",
+   "whole": true,
+   "specific": {},
+   "states": 0
+  },
+  {
+   "continent": "Seven seas (open ocean)",
+   "admin": "Saint Helena",
+   "sovereign": "United Kingdom",
+   "km2": 185,
+   "reason": "no state in the source",
+   "whole": true,
+   "specific": {},
+   "states": 0
+  },
+  {
+   "continent": "Seven seas (open ocean)",
+   "admin": "Seychelles",
+   "sovereign": "Seychelles",
+   "km2": 174,
+   "reason": "excluded: The source's polygons are offset from the islands (about 10% overlap at this map scale), so the column's shares would be unreliable.",
+   "whole": true,
+   "specific": {},
+   "states": 12
+  },
+  {
+   "continent": "Seven seas (open ocean)",
+   "admin": "South Georgia and the Islands",
+   "sovereign": "United Kingdom",
+   "km2": 3684,
+   "reason": "only wider states, already shown in other columns",
+   "whole": true,
+   "specific": {},
+   "states": 4
+  },
+  {
+   "continent": "South America",
+   "admin": "Ecuador",
+   "sovereign": "Ecuador",
+   "km2": 7242,
+   "reason": "only wider states, already shown in other columns",
+   "whole": false,
+   "specific": {},
+   "states": 1
+  },
+  {
+   "continent": "South America",
+   "admin": "Falkland Islands",
+   "sovereign": "United Kingdom",
+   "km2": 11430,
+   "reason": "excluded: The source maps British rule continuously from 1769. Britain left Port Egmont in 1774, Spain withdrew from Puerto Soledad in 1811, the United Provinces of the Río de la Plata claimed the islands from 1820, and Britain reasserted control in January 1833. Left out until a cited correction layer exists.",
+   "whole": true,
+   "specific": {
+    "British Colonial Empire": [
+     1996,
+     1999
+    ],
+    "British Overseas Territories": [
+     2000,
+     2024
+    ]
+   },
+   "states": 5
+  }
+ ],
+ "polities": [
+  {
+   "id": "kingdom-of-adiabene",
+   "name": "Kingdom of Adiabene",
+   "years": [
+    -63,
+    370
+   ],
+   "maxKm2": 13758,
+   "mostlyIn": "Iraq",
+   "continent": "Asia",
+   "reason": "below the share and inside thresholds in every country"
+  },
+  {
+   "id": "western-satraps-476",
+   "name": "Western Satraps",
+   "years": [
+    476,
+    489
+   ],
+   "maxKm2": 55,
+   "mostlyIn": "India",
+   "continent": "Asia",
+   "reason": "below the share and inside thresholds in every country"
+  },
+  {
+   "id": "duchy-of-spoleto-741",
+   "name": "Duchy of Spoleto",
+   "years": [
+    741,
+    777
+   ],
+   "maxKm2": 22755,
+   "mostlyIn": "Italy",
+   "continent": "Europe",
+   "reason": "below the share and inside thresholds in every country"
+  },
+  {
+   "id": "republic-of-amalfi",
+   "name": "Republic of Amalfi",
+   "years": [
+    960,
+    1033
+   ],
+   "maxKm2": 96,
+   "mostlyIn": "Italy",
+   "continent": "Europe",
+   "reason": "below the share and inside thresholds in every country"
+  },
+  {
+   "id": "duchy-of-burgundy-1003",
+   "name": "Duchy of Burgundy",
+   "years": [
+    1003,
+    1017
+   ],
+   "maxKm2": 31613,
+   "mostlyIn": "France",
+   "continent": "Europe",
+   "reason": "below the share and inside thresholds in every country"
+  },
+  {
+   "id": "principality-of-valona",
+   "name": "Principality of Valona",
+   "years": [
+    1333,
+    1374
+   ],
+   "maxKm2": 774,
+   "mostlyIn": "Albania",
+   "continent": "Europe",
+   "reason": "below the share and inside thresholds in every country"
+  },
+  {
+   "id": "ligurian-republic",
+   "name": "Ligurian Republic",
+   "years": [
+    1797,
+    1814
+   ],
+   "maxKm2": 3461,
+   "mostlyIn": "Italy",
+   "continent": "Europe",
+   "reason": "below the share and inside thresholds in every country"
+  },
+  {
+   "id": "first-french-colonial-empire",
+   "name": "First French colonial empire",
+   "years": [
+    1805,
+    1814
+   ],
+   "maxKm2": 439,
+   "mostlyIn": "United States of America",
+   "continent": "North America",
+   "reason": "below the share and inside thresholds in every country"
+  },
+  {
+   "id": "chechen-republic",
+   "name": "Chechen Republic",
+   "years": [
+    1992,
+    2005
+   ],
+   "maxKm2": 17433,
+   "mostlyIn": "Russia",
+   "continent": "Europe",
+   "reason": "below the share and inside thresholds in every country"
+  },
+  {
+   "id": "gaza-hamas",
+   "name": "Gaza/Hamas",
+   "years": [
+    2014,
+    2024
+   ],
+   "maxKm2": 155,
+   "mostlyIn": "Israel",
+   "continent": "Asia",
+   "reason": "below the share and inside thresholds in every country"
+  },
+  {
+   "id": "principality-of-monaco-1642",
+   "name": "Principality of Monaco",
+   "years": [
+    1642,
+    1814
+   ],
+   "maxKm2": 164,
+   "mostlyIn": "France",
+   "continent": "Europe",
+   "reason": "micro-state or excluded territory without a column"
+  },
+  {
+   "id": "principality-of-liechtenstein",
+   "name": "Principality of Liechtenstein",
+   "years": [
+    1721,
+    1814
+   ],
+   "maxKm2": 137,
+   "mostlyIn": "Liechtenstein",
+   "continent": "Europe",
+   "reason": "micro-state or excluded territory without a column"
+  },
+  {
+   "id": "republic-of-san-marino",
+   "name": "Republic of San Marino",
+   "years": [
+    1797,
+    1799
+   ],
+   "maxKm2": 47,
+   "mostlyIn": "Italy",
+   "continent": "Europe",
+   "reason": "micro-state or excluded territory without a column"
+  },
+  {
+   "id": "kingdom-of-monaco",
+   "name": "Kingdom of Monaco",
+   "years": [
+    1815,
+    1939
+   ],
+   "maxKm2": 164,
+   "mostlyIn": "France",
+   "continent": "Europe",
+   "reason": "micro-state or excluded territory without a column"
+  },
+  {
+   "id": "principality-of-monaco-1945",
+   "name": "Principality of Monaco",
+   "years": [
+    1945,
+    2024
+   ],
+   "maxKm2": 94,
+   "mostlyIn": "France",
+   "continent": "Europe",
+   "reason": "micro-state or excluded territory without a column"
+  },
+  {
+   "id": "seychelles",
+   "name": "Seychelles",
+   "years": [
+    1976,
+    2024
+   ],
+   "maxKm2": 259,
+   "mostlyIn": "Seychelles",
+   "continent": "Seven seas (open ocean)",
+   "reason": "micro-state or excluded territory without a column"
+  },
+  {
+   "id": "british-overseas-territories",
+   "name": "British Overseas Territories",
+   "years": [
+    2000,
+    2024
+   ],
+   "maxKm2": 20560,
+   "mostlyIn": "Falkland Islands",
+   "continent": "South America",
+   "reason": "micro-state or excluded territory without a column"
+  },
+  {
+   "id": "athenian-coalition-323bce",
+   "name": "Athenian Coalition",
+   "years": [
+    -323,
+    -319
+   ],
+   "maxKm2": 23257,
+   "mostlyIn": "Greece",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "perdiccas",
+   "name": "Perdiccas",
+   "years": [
+    -323,
+    -319
+   ],
+   "maxKm2": 117037,
+   "mostlyIn": "Iraq",
+   "continent": "Asia",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "athenian-coalition-264bce",
+   "name": "Athenian Coalition",
+   "years": [
+    -264,
+    -257
+   ],
+   "maxKm2": 10805,
+   "mostlyIn": "Greece",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "dai",
+   "name": "Dai",
+   "years": [
+    -208,
+    -204
+   ],
+   "maxKm2": 57016,
+   "mostlyIn": "China",
+   "continent": "Asia",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "chang-shan",
+   "name": "Chang-shan",
+   "years": [
+    -206,
+    -204
+   ],
+   "maxKm2": 34632,
+   "mostlyIn": "China",
+   "continent": "Asia",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "han-q5349053",
+   "name": "Hán",
+   "years": [
+    -206,
+    -204
+   ],
+   "maxKm2": 86684,
+   "mostlyIn": "China",
+   "continent": "Asia",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "henan",
+   "name": "Henan",
+   "years": [
+    -206,
+    -204
+   ],
+   "maxKm2": 40946,
+   "mostlyIn": "China",
+   "continent": "Asia",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "jiaodong",
+   "name": "Jiaodong",
+   "years": [
+    -206,
+    -204
+   ],
+   "maxKm2": 51055,
+   "mostlyIn": "China",
+   "continent": "Asia",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "jiujiang",
+   "name": "Jiujiang",
+   "years": [
+    -206,
+    -204
+   ],
+   "maxKm2": 86995,
+   "mostlyIn": "China",
+   "continent": "Asia",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "liaodong",
+   "name": "Liaodong",
+   "years": [
+    -206,
+    -204
+   ],
+   "maxKm2": 70288,
+   "mostlyIn": "China",
+   "continent": "Asia",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "sai",
+   "name": "Sai",
+   "years": [
+    -206,
+    -204
+   ],
+   "maxKm2": 16521,
+   "mostlyIn": "China",
+   "continent": "Asia",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "yin",
+   "name": "Yin",
+   "years": [
+    -206,
+    -204
+   ],
+   "maxKm2": 14022,
+   "mostlyIn": "China",
+   "continent": "Asia",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "yong",
+   "name": "Yong",
+   "years": [
+    -206,
+    -204
+   ],
+   "maxKm2": 61876,
+   "mostlyIn": "China",
+   "continent": "Asia",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "molossians",
+   "name": "Molossians",
+   "years": [
+    -170,
+    -165
+   ],
+   "maxKm2": 4708,
+   "mostlyIn": "Greece",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "italian-city-states",
+   "name": "Italian City-States",
+   "years": [
+    -91,
+    -88
+   ],
+   "maxKm2": 36109,
+   "mostlyIn": "Italy",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "trung-sisters",
+   "name": "Trưng sisters",
+   "years": [
+    43,
+    50
+   ],
+   "maxKm2": 99741,
+   "mostlyIn": "Vietnam",
+   "continent": "Asia",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "burgundians-407",
+   "name": "Burgundians",
+   "years": [
+    407,
+    409
+   ],
+   "maxKm2": 9094,
+   "mostlyIn": "Germany",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "western-liang",
+   "name": "Western Liang",
+   "years": [
+    407,
+    409
+   ],
+   "maxKm2": 88385,
+   "mostlyIn": "China",
+   "continent": "Asia",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "thuringian-states",
+   "name": "Thuringian states",
+   "years": [
+    469,
+    475
+   ],
+   "maxKm2": 40557,
+   "mostlyIn": "Germany",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "gao-kaidao",
+   "name": "Gao Kaidao",
+   "years": [
+    623,
+    625
+   ],
+   "maxKm2": 81783,
+   "mostlyIn": "China",
+   "continent": "Asia",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "georgia-638",
+   "name": "Georgia",
+   "years": [
+    638,
+    646
+   ],
+   "maxKm2": 34660,
+   "mostlyIn": "Georgia",
+   "continent": "Asia",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "kingdom-of-alamannia-724",
+   "name": "Kingdom of Alamannia",
+   "years": [
+    724,
+    731
+   ],
+   "maxKm2": 57419,
+   "mostlyIn": "Germany",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "frisia",
+   "name": "Frisia",
+   "years": [
+    783,
+    787
+   ],
+   "maxKm2": 12911,
+   "mostlyIn": "Netherlands",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "frisians",
+   "name": "Frisians",
+   "years": [
+    793,
+    799
+   ],
+   "maxKm2": 8793,
+   "mostlyIn": "Germany",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "kingdom-of-sobrarbe",
+   "name": "Kingdom of Sobrarbe",
+   "years": [
+    825,
+    829
+   ],
+   "maxKm2": 3490,
+   "mostlyIn": "Spain",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "county-of-portugal",
+   "name": "County of Portugal",
+   "years": [
+    1139,
+    1146
+   ],
+   "maxKm2": 46123,
+   "mostlyIn": "Portugal",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "duchy-of-leczyca",
+   "name": "Duchy of Łęczyca",
+   "years": [
+    1139,
+    1146
+   ],
+   "maxKm2": 8826,
+   "mostlyIn": "Poland",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "taifa-of-almeria-1147",
+   "name": "Taifa of Almería",
+   "years": [
+    1147,
+    1151
+   ],
+   "maxKm2": 8968,
+   "mostlyIn": "Spain",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "taifa-of-badajoz-1147",
+   "name": "Taifa of Badajoz",
+   "years": [
+    1147,
+    1151
+   ],
+   "maxKm2": 4454,
+   "mostlyIn": "Portugal",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "taifa-of-carmona-1147",
+   "name": "Taifa of Carmona",
+   "years": [
+    1147,
+    1151
+   ],
+   "maxKm2": 4258,
+   "mostlyIn": "Spain",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "taifa-of-cordoba-1147",
+   "name": "Taifa of Córdoba",
+   "years": [
+    1147,
+    1151
+   ],
+   "maxKm2": 15320,
+   "mostlyIn": "Spain",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "taifa-of-niebla-1147",
+   "name": "Taifa of Niebla",
+   "years": [
+    1147,
+    1151
+   ],
+   "maxKm2": 1455,
+   "mostlyIn": "Spain",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "taifa-of-saltes-and-huelva-1147",
+   "name": "Taifa of Saltés and Huelva",
+   "years": [
+    1147,
+    1151
+   ],
+   "maxKm2": 4223,
+   "mostlyIn": "Spain",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "taifa-of-tejada",
+   "name": "Taifa of Tejada",
+   "years": [
+    1147,
+    1151
+   ],
+   "maxKm2": 2252,
+   "mostlyIn": "Portugal",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "negroponte",
+   "name": "Negroponte",
+   "years": [
+    1206,
+    1209
+   ],
+   "maxKm2": 2178,
+   "mostlyIn": "Greece",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "earldom-of-ulster",
+   "name": "Earldom of Ulster",
+   "years": [
+    1326,
+    1332
+   ],
+   "maxKm2": 2333,
+   "mostlyIn": "United Kingdom",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "commune-of-the-zealots",
+   "name": "Commune of the Zealots",
+   "years": [
+    1344,
+    1351
+   ],
+   "maxKm2": 1760,
+   "mostlyIn": "Greece",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "ambrosian-republic",
+   "name": "Ambrosian Republic",
+   "years": [
+    1450,
+    1452
+   ],
+   "maxKm2": 29911,
+   "mostlyIn": "Italy",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "galuh-kingdom-1475",
+   "name": "Galuh Kingdom",
+   "years": [
+    1475,
+    1481
+   ],
+   "maxKm2": 35841,
+   "mostlyIn": "Indonesia",
+   "continent": "Asia",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "catalonia",
+   "name": "Catalonia",
+   "years": [
+    1640,
+    1641
+   ],
+   "maxKm2": 33801,
+   "mostlyIn": "Spain",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "sikhs",
+   "name": "Sikhs",
+   "years": [
+    1709,
+    1717
+   ],
+   "maxKm2": 24700,
+   "mostlyIn": "India",
+   "continent": "Asia",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "vermont-republic",
+   "name": "Vermont Republic",
+   "years": [
+    1783,
+    1790
+   ],
+   "maxKm2": 28159,
+   "mostlyIn": "United States of America",
+   "continent": "North America",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "freetown-colony",
+   "name": "Freetown Colony",
+   "years": [
+    1788,
+    1796
+   ],
+   "maxKm2": 3430,
+   "mostlyIn": "Sierra Leone",
+   "continent": "Africa",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "french-colony-of-guiana",
+   "name": "French Colony of Guiana",
+   "years": [
+    1791,
+    1791
+   ],
+   "maxKm2": 19565,
+   "mostlyIn": "France",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "cisalpine-republic",
+   "name": "Cisalpine Republic",
+   "years": [
+    1797,
+    1799
+   ],
+   "maxKm2": 42059,
+   "mostlyIn": "Italy",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "revolutionary-roman-republic",
+   "name": "Revolutionary Roman Republic",
+   "years": [
+    1799,
+    1799
+   ],
+   "maxKm2": 30084,
+   "mostlyIn": "Italy",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "cispadane-republic",
+   "name": "Cispadane Republic",
+   "years": [
+    1800,
+    1802
+   ],
+   "maxKm2": 7095,
+   "mostlyIn": "Italy",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "electorate-of-baden",
+   "name": "Electorate of Baden",
+   "years": [
+    1803,
+    1805
+   ],
+   "maxKm2": 7391,
+   "mostlyIn": "Germany",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "electorate-of-salzburg",
+   "name": "Electorate of Salzburg",
+   "years": [
+    1803,
+    1805
+   ],
+   "maxKm2": 8669,
+   "mostlyIn": "Austria",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "electorate-of-wurttemberg",
+   "name": "Electorate of Württemberg",
+   "years": [
+    1803,
+    1805
+   ],
+   "maxKm2": 10032,
+   "mostlyIn": "Germany",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "kingdom-of-etruria",
+   "name": "Kingdom of Etruria",
+   "years": [
+    1803,
+    1806
+   ],
+   "maxKm2": 23127,
+   "mostlyIn": "Italy",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "grand-duchy-of-wurzburg",
+   "name": "Grand Duchy of Würzburg",
+   "years": [
+    1806,
+    1814
+   ],
+   "maxKm2": 9827,
+   "mostlyIn": "Germany",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "principality-of-regensberg",
+   "name": "Principality of Regensberg",
+   "years": [
+    1806,
+    1813
+   ],
+   "maxKm2": 6179,
+   "mostlyIn": "Germany",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "free-city-of-danzig-1809",
+   "name": "Free City of Danzig",
+   "years": [
+    1809,
+    1811
+   ],
+   "maxKm2": 1192,
+   "mostlyIn": "Poland",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "kingdom-of-westphalia",
+   "name": "Kingdom of Westphalia",
+   "years": [
+    1809,
+    1813
+   ],
+   "maxKm2": 43140,
+   "mostlyIn": "Germany",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "bessarabia",
+   "name": "Bessarabia",
+   "years": [
+    1812,
+    1813
+   ],
+   "maxKm2": 42009,
+   "mostlyIn": "Romania",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "principality-of-lichtenberg",
+   "name": "Principality of Lichtenberg",
+   "years": [
+    1820,
+    1827
+   ],
+   "maxKm2": 179,
+   "mostlyIn": "Germany",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "saxe-coburg-and-gotha",
+   "name": "Saxe-Coburg and Gotha",
+   "years": [
+    1836,
+    1839
+   ],
+   "maxKm2": 2942,
+   "mostlyIn": "Germany",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "los-altos",
+   "name": "Los Altos",
+   "years": [
+    1840,
+    1841
+   ],
+   "maxKm2": 35593,
+   "mostlyIn": "Guatemala",
+   "continent": "North America",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "california-republic",
+   "name": "California Republic",
+   "years": [
+    1846,
+    1847
+   ],
+   "maxKm2": 15546,
+   "mostlyIn": "United States of America",
+   "continent": "North America",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "duchy-of-holstein",
+   "name": "Duchy of Holstein",
+   "years": [
+    1848,
+    1852
+   ],
+   "maxKm2": 20119,
+   "mostlyIn": "Germany",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "italian-nationalists",
+   "name": "Italian Nationalists",
+   "years": [
+    1848,
+    1848
+   ],
+   "maxKm2": 21788,
+   "mostlyIn": "Italy",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "republic-of-baden",
+   "name": "Republic of Baden",
+   "years": [
+    1849,
+    1852
+   ],
+   "maxKm2": 17733,
+   "mostlyIn": "Germany",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "mosquito-kingdom",
+   "name": "Mosquito Kingdom",
+   "years": [
+    1853,
+    1859
+   ],
+   "maxKm2": 26801,
+   "mostlyIn": "Nicaragua",
+   "continent": "North America",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "kamerun",
+   "name": "Kamerun",
+   "years": [
+    1868,
+    1870
+   ],
+   "maxKm2": 1898,
+   "mostlyIn": "Cameroon",
+   "continent": "Africa",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "nieuwe-republiek",
+   "name": "Nieuwe Republiek",
+   "years": [
+    1885,
+    1889
+   ],
+   "maxKm2": 10205,
+   "mostlyIn": "South Africa",
+   "continent": "Africa",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "cuban-nationalists",
+   "name": "Cuban Nationalists",
+   "years": [
+    1895,
+    1899
+   ],
+   "maxKm2": 56839,
+   "mostlyIn": "Cuba",
+   "continent": "North America",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "maderistas",
+   "name": "Maderistas",
+   "years": [
+    1911,
+    1911
+   ],
+   "maxKm2": 34589,
+   "mostlyIn": "Mexico",
+   "continent": "North America",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "asir",
+   "name": "Asir",
+   "years": [
+    1917,
+    1923
+   ],
+   "maxKm2": 95604,
+   "mostlyIn": "Saudi Arabia",
+   "continent": "Asia",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "polish-armed-forces",
+   "name": "Polish Armed Forces",
+   "years": [
+    1918,
+    1918
+   ],
+   "maxKm2": 50817,
+   "mostlyIn": "Belarus",
+   "continent": "Europe",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "republic-of-the-rif",
+   "name": "Republic of the Rif",
+   "years": [
+    1922,
+    1925
+   ],
+   "maxKm2": 9674,
+   "mostlyIn": "Morocco",
+   "continent": "Africa",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "chinese-communists",
+   "name": "Chinese Communists",
+   "years": [
+    1928,
+    1931
+   ],
+   "maxKm2": 38942,
+   "mostlyIn": "China",
+   "continent": "Asia",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "kashmir-and-jammu-1947",
+   "name": "Kashmir and Jammu",
+   "years": [
+    1947,
+    1947
+   ],
+   "maxKm2": 182006,
+   "mostlyIn": "India",
+   "continent": "Asia",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "cuban-communists",
+   "name": "Cuban Communists",
+   "years": [
+    1958,
+    1959
+   ],
+   "maxKm2": 3144,
+   "mostlyIn": "Cuba",
+   "continent": "North America",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  },
+  {
+   "id": "sultanate-of-zanzibar",
+   "name": "Sultanate of Zanzibar",
+   "years": [
+    1963,
+    1966
+   ],
+   "maxKm2": 4245,
+   "mostlyIn": "United Republic of Tanzania",
+   "continent": "Africa",
+   "reason": "shorter than 10 years and under 100,000 km² in any country"
+  }
+ ],
+ "events": {
+  "note": "Key events from data/sources/wikidata-events.json that no lane shows, by reason (placement as in tools/enrich.py).",
+  "snapshot": 5010,
+  "shown": 4086,
+  "notShown": 924,
+  "reasons": {
+   "no coordinates, location or country on Wikidata": {
+    "count": 414,
+    "mostKnown": [
+     {
+      "id": "Q8683",
+      "name": "Cold War",
+      "languages": 210
+     },
+     {
+      "id": "Q12199",
+      "name": "HIV/AIDS",
+      "languages": 209
+     },
+     {
+      "id": "Q12546",
+      "name": "Crusades",
+      "languages": 169
+     },
+     {
+      "id": "Q78994",
+      "name": "Napoleonic Wars",
+      "languages": 102
+     },
+     {
+      "id": "Q178275",
+      "name": "1918–1920 flu pandemic",
+      "languages": 102
+     },
+     {
+      "id": "Q83085",
+      "name": "Soviet-Afghan War",
+      "languages": 101
+     },
+     {
+      "id": "Q80330",
+      "name": "English Civil War",
+      "languages": 99
+     },
+     {
+      "id": "Q47359",
+      "name": "Kyoto Protocol",
+      "languages": 93
+     },
+     {
+      "id": "Q170314",
+      "name": "Second Sino-Japanese War",
+      "languages": 90
+     },
+     {
+      "id": "Q124988",
+      "name": "Punic Wars",
+      "languages": 84
+     },
+     {
+      "id": "Q182814",
+      "name": "Antarctic Treaty System",
+      "languages": 81
+     },
+     {
+      "id": "Q165725",
+      "name": "Balkan Wars",
+      "languages": 80
+     },
+     {
+      "id": "Q76026",
+      "name": "Greco-Persian Wars",
+      "languages": 79
+     },
+     {
+      "id": "Q151616",
+      "name": "Great Northern War",
+      "languages": 79
+     },
+     {
+      "id": "Q177918",
+      "name": "First Balkan War",
+      "languages": 78
+     }
+    ]
+   },
+   "no date or English label on Wikidata": {
+    "count": 143,
+    "mostKnown": [
+     {
+      "id": "Q363",
+      "name": "World War III",
+      "languages": 82
+     },
+     {
+      "id": "Q64000",
+      "name": "FEMEN",
+      "languages": 55
+     },
+     {
+      "id": "Q60433",
+      "name": "Q60433",
+      "languages": 49
+     },
+     {
+      "id": "Q51662",
+      "name": "Northern Crusades",
+      "languages": 49
+     },
+     {
+      "id": "Q265236",
+      "name": "Charter of Fundamental Rights of the European Union",
+      "languages": 47
+     },
+     {
+      "id": "Q1566316",
+      "name": "Hague Conventions of 1899 and 1907",
+      "languages": 40
+     },
+     {
+      "id": "Q651219",
+      "name": "International Convention for the Prevention of Pollution From Ships",
+      "languages": 36
+     },
+     {
+      "id": "Q2066389",
+      "name": "Statute of the International Court of Justice",
+      "languages": 36
+     },
+     {
+      "id": "Q2088170",
+      "name": "Battle of Tabouk",
+      "languages": 34
+     },
+     {
+      "id": "Q316900",
+      "name": "Treaties of Nijmegen",
+      "languages": 33
+     },
+     {
+      "id": "Q1361299",
+      "name": "Treaty of Perpetual Peace",
+      "languages": 31
+     },
+     {
+      "id": "Q799867",
+      "name": "Bagaudae",
+      "languages": 30
+     },
+     {
+      "id": "Q331520",
+      "name": "United Nations Convention to Combat Desertification",
+      "languages": 30
+     },
+     {
+      "id": "Q1786449",
+      "name": "Alma-Ata Protocol",
+      "languages": 30
+     },
+     {
+      "id": "Q537096",
+      "name": "Second Servile War",
+      "languages": 29
+     }
+    ]
+   },
+   "places in more than 3 countries": {
+    "count": 139,
+    "mostKnown": [
+     {
+      "id": "Q362",
+      "name": "World War II",
+      "languages": 291
+     },
+     {
+      "id": "Q361",
+      "name": "World War I",
+      "languages": 265
+     },
+     {
+      "id": "Q8740",
+      "name": "Vietnam War",
+      "languages": 168
+     },
+     {
+      "id": "Q8663",
+      "name": "Korean War",
+      "languages": 145
+     },
+     {
+      "id": "Q42005",
+      "name": "Black Death",
+      "languages": 130
+     },
+     {
+      "id": "Q10859",
+      "name": "Spanish Civil War",
+      "languages": 128
+     },
+     {
+      "id": "Q122962941",
+      "name": "Gaza War",
+      "languages": 120
+     },
+     {
+      "id": "Q40949",
+      "name": "American Revolutionary War",
+      "languages": 115
+     },
+     {
+      "id": "Q37643",
+      "name": "Gulf War",
+      "languages": 114
+     },
+     {
+      "id": "Q33761",
+      "name": "Arab Spring",
+      "languages": 112
+     },
+     {
+      "id": "Q49077",
+      "name": "Six-Day War",
+      "languages": 109
+     },
+     {
+      "id": "Q79911",
+      "name": "Russian Civil War",
+      "languages": 105
+     },
+     {
+      "id": "Q254106",
+      "name": "Crimean War",
+      "languages": 100
+     },
+     {
+      "id": "Q33143",
+      "name": "Seven Years' War",
+      "languages": 98
+     },
+     {
+      "id": "Q82664",
+      "name": "Iran–Iraq War",
+      "languages": 96
+     }
+    ]
+   },
+   "its countries have no whole-country column": {
+    "count": 93,
+    "mostKnown": [
+     {
+      "id": "Q2487",
+      "name": "Thirty Years' War",
+      "languages": 133
+     },
+     {
+      "id": "Q127751",
+      "name": "Wars of the Roses",
+      "languages": 81
+     },
+     {
+      "id": "Q164432",
+      "name": "Eighty Years' War",
+      "languages": 76
+     },
+     {
+      "id": "Q190517",
+      "name": "Xinhai Revolution",
+      "languages": 69
+     },
+     {
+      "id": "Q418151",
+      "name": "Second Opium War",
+      "languages": 67
+     },
+     {
+      "id": "Q199955",
+      "name": "Hundred Days",
+      "languages": 65
+     },
+     {
+      "id": "Q223933",
+      "name": "Belgian Revolution",
+      "languages": 55
+     },
+     {
+      "id": "Q309184",
+      "name": "Boshin War",
+      "languages": 53
+     },
+     {
+      "id": "Q238262",
+      "name": "Treaty of Nanjing",
+      "languages": 53
+     },
+     {
+      "id": "Q821711",
+      "name": "Plague of Justinian",
+      "languages": 51
+     },
+     {
+      "id": "Q154031",
+      "name": "German Peasants' War",
+      "languages": 49
+     },
+     {
+      "id": "Q7126013",
+      "name": "Jacquerie",
+      "languages": 47
+     },
+     {
+      "id": "Q656186",
+      "name": "Fronde",
+      "languages": 46
+     },
+     {
+      "id": "Q1134220",
+      "name": "Mongol invasion of Kievan Rus'",
+      "languages": 43
+     },
+     {
+      "id": "Q599141",
+      "name": "Antonine Plague",
+      "languages": 42
+     }
+    ]
+   },
+   "its coordinates are in no column (at sea, or a territory without a column)": {
+    "count": 86,
+    "mostKnown": [
+     {
+      "id": "Q48249",
+      "name": "Falklands War",
+      "languages": 93
+     },
+     {
+      "id": "Q173034",
+      "name": "Battle of Midway",
+      "languages": 67
+     },
+     {
+      "id": "Q180182",
+      "name": "Battle of Iwo Jima",
+      "languages": 65
+     },
+     {
+      "id": "Q156554",
+      "name": "Battle of Jutland",
+      "languages": 57
+     },
+     {
+      "id": "Q207165",
+      "name": "Battle of the Coral Sea",
+      "languages": 49
+     },
+     {
+      "id": "Q749811",
+      "name": "Mutiny on the Bounty",
+      "languages": 47
+     },
+     {
+      "id": "Q713529",
+      "name": "Battle of the River Plate",
+      "languages": 41
+     },
+     {
+      "id": "Q111012552",
+      "name": "Snake Island campaign",
+      "languages": 41
+     },
+     {
+      "id": "Q504347",
+      "name": "Battle of the Philippine Sea",
+      "languages": 40
+     },
+     {
+      "id": "Q160011",
+      "name": "Battle of the Falkland Islands",
+      "languages": 39
+     },
+     {
+      "id": "Q482402",
+      "name": "Gulf of Tonkin incident",
+      "languages": 38
+     },
+     {
+      "id": "Q379433",
+      "name": "Operation Ten-Go",
+      "languages": 38
+     },
+     {
+      "id": "Q609030",
+      "name": "Battle of Peleliu",
+      "languages": 36
+     },
+     {
+      "id": "Q158054",
+      "name": "Battle of Lissa",
+      "languages": 34
+     },
+     {
+      "id": "Q249708",
+      "name": "Aleutian Islands Campaign",
+      "languages": 32
+     }
+    ]
+   },
+   "its places are in no column": {
+    "count": 14,
+    "mostKnown": [
+     {
+      "id": "Q1332160",
+      "name": "Indonesian National Revolution",
+      "languages": 48
+     },
+     {
+      "id": "Q217429",
+      "name": "Metre Convention",
+      "languages": 47
+     },
+     {
+      "id": "Q691565",
+      "name": "Case Anton",
+      "languages": 27
+     },
+     {
+      "id": "Q742813",
+      "name": "Chincha Islands War",
+      "languages": 24
+     },
+     {
+      "id": "Q708173",
+      "name": "Dodecanese Campaign",
+      "languages": 21
+     },
+     {
+      "id": "Q387020",
+      "name": "Social War of 357-355 BCE",
+      "languages": 21
+     },
+     {
+      "id": "Q2604253",
+      "name": "Gulf of Sidra incident",
+      "languages": 16
+     },
+     {
+      "id": "Q581542",
+      "name": "Battle of Ponza",
+      "languages": 15
+     },
+     {
+      "id": "Q881762",
+      "name": "Samoan Civil War",
+      "languages": 14
+     },
+     {
+      "id": "Q2440134",
+      "name": "Second Battle of the Java Sea",
+      "languages": 14
+     },
+     {
+      "id": "Q4060498",
+      "name": "Invasion of Åland",
+      "languages": 13
+     },
+     {
+      "id": "Q327513",
+      "name": "Byzantine–Genoese War of 1348–1349",
+      "languages": 13
+     },
+     {
+      "id": "Q4120277",
+      "name": "Second Samoan Civil War",
+      "languages": 12
+     },
+     {
+      "id": "Q1634613",
+      "name": "1988 Maldives coup d'état attempt",
+      "languages": 12
+     }
+    ]
+   },
+   "outside the chart's years": {
+    "count": 14,
+    "mostKnown": [
+     {
+      "id": "Q134900605",
+      "name": "Twelve-Day War",
+      "languages": 77
+     },
+     {
+      "id": "Q137612545",
+      "name": "2025–2026 Iranian protests",
+      "languages": 65
+     },
+     {
+      "id": "Q134884640",
+      "name": "Operation Rising Lion",
+      "languages": 48
+     },
+     {
+      "id": "Q138414208",
+      "name": "2026 Afghanistan–Pakistan War",
+      "languages": 43
+     },
+     {
+      "id": "Q140932341",
+      "name": "Mecca Joint Defence Agreement",
+      "languages": 36
+     },
+     {
+      "id": "Q133821305",
+      "name": "Armenia-Azerbaijan peace agreement",
+      "languages": 26
+     },
+     {
+      "id": "Q136202496",
+      "name": "2025 Russian drone incursion into Poland",
+      "languages": 23
+     },
+     {
+      "id": "Q136332482",
+      "name": "Strategic Mutual Defense Agreement",
+      "languages": 20
+     },
+     {
+      "id": "Q137036104",
+      "name": "2025 Guinea-Bissau coup d'état",
+      "languages": 19
+     },
+     {
+      "id": "Q136487699",
+      "name": "2025 Malagasy coup d'état",
+      "languages": 15
+     },
+     {
+      "id": "Q141349562",
+      "name": "2026 Yemen offensives",
+      "languages": 14
+     },
+     {
+      "id": "Q137209864",
+      "name": "2025–2026 southern Yemen campaign",
+      "languages": 14
+     },
+     {
+      "id": "Q135319143",
+      "name": "Southern Syria clashes",
+      "languages": 14
+     },
+     {
+      "id": "Q137266485",
+      "name": "2025 Beninese coup attempt",
+      "languages": 13
+     }
+    ]
+   },
+   "date coarser than a decade": {
+    "count": 13,
+    "mostKnown": [
+     {
+      "id": "Q180548",
+      "name": "neolithic revolution",
+      "languages": 80
+     },
+     {
+      "id": "Q830912",
+      "name": "Celtic settlement of Southeast Europe",
+      "languages": 29
+     },
+     {
+      "id": "Q3435247",
+      "name": "Anglo-Saxon settlement of England",
+      "languages": 25
+     },
+     {
+      "id": "Q513097",
+      "name": "Battle of the Ten Kings",
+      "languages": 24
+     },
+     {
+      "id": "Q282226",
+      "name": "Hungarian invasions of Europe",
+      "languages": 24
+     },
+     {
+      "id": "Q1073446",
+      "name": "Swedish–Novgorodian Wars",
+      "languages": 20
+     },
+     {
+      "id": "Q939211",
+      "name": "Battle of Brávellier",
+      "languages": 19
+     },
+     {
+      "id": "Q2603206",
+      "name": "Batavian Revolution",
+      "languages": 17
+     },
+     {
+      "id": "Q755758",
+      "name": "Battle of Banquan",
+      "languages": 16
+     },
+     {
+      "id": "Q1283007",
+      "name": "Baqt",
+      "languages": 16
+     },
+     {
+      "id": "Q3417663",
+      "name": "Roman–Gallic Wars",
+      "languages": 15
+     },
+     {
+      "id": "Q2738355",
+      "name": "Great Turkish Invasion",
+      "languages": 13
+     },
+     {
+      "id": "Q492126",
+      "name": "Frisian–Frankish wars",
+      "languages": 12
+     }
+    ]
+   },
+   "end before start on Wikidata": {
+    "count": 4,
+    "mostKnown": [
+     {
+      "id": "Q856650",
+      "name": "Iraqi invasion of Kuwait",
+      "languages": 45
+     },
+     {
+      "id": "Q714820",
+      "name": "Satsuma Rebellion",
+      "languages": 32
+     },
+     {
+      "id": "Q154552",
+      "name": "Illyro-Roman Wars",
+      "languages": 31
+     },
+     {
+      "id": "Q1187198",
+      "name": "Ten Tragic Days",
+      "languages": 15
+     }
+    ]
+   },
+   "no place, and more than 3 countries": {
+    "count": 4,
+    "mostKnown": [
+     {
+      "id": "Q86458103",
+      "name": "COVID-19 pandemic in Europe",
+      "languages": 30
+     },
+     {
+      "id": "Q1197115",
+      "name": "UKUSA Agreement",
+      "languages": 24
+     },
+     {
+      "id": "Q2478583",
+      "name": "Compact of Free Association",
+      "languages": 23
+     },
+     {
+      "id": "Q338935",
+      "name": "Treaty of Chaumont",
+      "languages": 18
+     }
+    ]
+   }
+  },
+  "lanesPerEvent": {
+   "1": 3731,
+   "2": 326,
+   "3": 25,
+   "4": 4
+  }
+ }
+}
