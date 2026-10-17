@@ -1,0 +1,1380 @@
+{
+ "retrieved": "2026-10-17",
+ "source": "https://perio.do",
+ "license": "CC0 1.0",
+ "note": "PeriodO period definitions whose label names an era and whose spatial coverage includes one of the era's countries.",
+ "eras": {
+  "africa-middle-east|egypt|Dynasties of ancient Egypt|[[Early Dynastic Period of Egypt|Early Dynastic Period]] (3000–2700 BC)": [
+   {
+    "id": "p0m64td23g3",
+    "label": "Early Dynastic",
+    "from": -3001,
+    "to": -2701,
+    "startLabel": "-3000",
+    "stopLabel": "-2700",
+    "url": "https://n2t.net/ark:/99152/p0m64td23g3",
+    "source": {
+     "title": "EAMENA Database",
+     "year": "2021",
+     "creators": "University of Oxford; University of Southampton",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0m63njzbxk",
+    "label": "Early Dynastic",
+    "from": -3151,
+    "to": -2664,
+    "startLabel": "-3150",
+    "stopLabel": "-2663",
+    "url": "https://n2t.net/ark:/99152/p0m63njzbxk",
+    "source": {
+     "title": "The Levantine Ceramics Project",
+     "year": 2012,
+     "creators": "Andrea Berlin",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0bd664nvzc",
+    "label": "Early Dynastic",
+    "from": -3100,
+    "to": -2600,
+    "startLabel": "3100 B.C.",
+    "stopLabel": "2600 B.C.",
+    "url": "https://n2t.net/ark:/99152/p0bd664nvzc",
+    "source": {
+     "title": "Egypt, Greece and Rome",
+     "year": 2004,
+     "creators": "Freeman, Charles.",
+     "locator": null
+    }
+   },
+   {
+    "id": "p083p5rwbk3",
+    "label": "Early Dynastic (Archaic)",
+    "from": -3050,
+    "to": -2675,
+    "startLabel": "ca. 3050 BC",
+    "stopLabel": "2675 BC",
+    "url": "https://n2t.net/ark:/99152/p083p5rwbk3",
+    "source": {
+     "title": "Ancient cities : the archaeology of urban life in the Ancient Near East and Egypt, Greece and Rome",
+     "year": 2003,
+     "creators": "Gates, Charles, 1950-",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0cp447dmgg",
+    "label": "Early Dynastic Period",
+    "from": -2920,
+    "to": -2649,
+    "startLabel": "2920 BC",
+    "stopLabel": "2649 BC",
+    "url": "https://n2t.net/ark:/99152/p0cp447dmgg",
+    "source": {
+     "title": "The art of ancient Egypt",
+     "year": 2000,
+     "creators": "Robins, Gay.",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0qk76zkc72",
+    "label": "Early Dynastic",
+    "from": -2950,
+    "to": -2670,
+    "startLabel": "2950 BCE",
+    "stopLabel": "2670 BCE",
+    "url": "https://n2t.net/ark:/99152/p0qk76zkc72",
+    "source": {
+     "title": "UCLA Encyclopedia of Egyptology",
+     "year": null,
+     "creators": "Willeke Wendrich",
+     "locator": null
+    }
+   }
+  ],
+  "africa-middle-east|egypt|Dynasties of ancient Egypt|[[Old Kingdom of Egypt|Old Kingdom]] (2700–2200 BC)": [
+   {
+    "id": "p0m64tdjsnt",
+    "label": "Old Kingdom",
+    "from": -2701,
+    "to": 2150,
+    "startLabel": "-2700",
+    "stopLabel": "2150",
+    "url": "https://n2t.net/ark:/99152/p0m64tdjsnt",
+    "source": {
+     "title": "EAMENA Database",
+     "year": "2021",
+     "creators": "University of Oxford; University of Southampton",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0m63njqgqx",
+    "label": "Old Kingdom",
+    "from": -2664,
+    "to": -2182,
+    "startLabel": "-2663",
+    "stopLabel": "-2181",
+    "url": "https://n2t.net/ark:/99152/p0m63njqgqx",
+    "source": {
+     "title": "The Levantine Ceramics Project",
+     "year": 2012,
+     "creators": "Andrea Berlin",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0bd66487b6",
+    "label": "Old Kingdom",
+    "from": -2600,
+    "to": -2130,
+    "startLabel": "2600 B.C.",
+    "stopLabel": "2130 B.C.",
+    "url": "https://n2t.net/ark:/99152/p0bd66487b6",
+    "source": {
+     "title": "Egypt, Greece and Rome",
+     "year": 2004,
+     "creators": "Freeman, Charles.",
+     "locator": null
+    }
+   },
+   {
+    "id": "p083p5r9q68",
+    "label": "Old Kingdom",
+    "from": -2675,
+    "to": -2190,
+    "startLabel": "ca. 2675 BC",
+    "stopLabel": "2190 BC",
+    "url": "https://n2t.net/ark:/99152/p083p5r9q68",
+    "source": {
+     "title": "Ancient cities : the archaeology of urban life in the Ancient Near East and Egypt, Greece and Rome",
+     "year": 2003,
+     "creators": "Gates, Charles, 1950-",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0cp447cfpq",
+    "label": "Old Kingdom",
+    "from": -2649,
+    "to": -2134,
+    "startLabel": "2649 BC",
+    "stopLabel": "2134 BC",
+    "url": "https://n2t.net/ark:/99152/p0cp447cfpq",
+    "source": {
+     "title": "The art of ancient Egypt",
+     "year": 2000,
+     "creators": "Robins, Gay.",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0qk76z92f9",
+    "label": "Old Kingdom",
+    "from": -2670,
+    "to": -2168,
+    "startLabel": "2670 BCE",
+    "stopLabel": "2168 BCE",
+    "url": "https://n2t.net/ark:/99152/p0qk76z92f9",
+    "source": {
+     "title": "UCLA Encyclopedia of Egyptology",
+     "year": null,
+     "creators": "Willeke Wendrich",
+     "locator": null
+    }
+   }
+  ],
+  "africa-middle-east|egypt|Dynasties of ancient Egypt|[[First Intermediate Period of Egypt|First Intermediate Period]] (2200–2000 BC)": [
+   {
+    "id": "p0m64tdjrq6",
+    "label": "First Intermediate",
+    "from": -2151,
+    "to": -2051,
+    "startLabel": "-2150",
+    "stopLabel": "-2050",
+    "url": "https://n2t.net/ark:/99152/p0m64tdjrq6",
+    "source": {
+     "title": "EAMENA Database",
+     "year": "2021",
+     "creators": "University of Oxford; University of Southampton",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0m63nj2pms",
+    "label": "First Intermediate Period",
+    "from": -2182,
+    "to": -2041,
+    "startLabel": "-2181",
+    "stopLabel": "-2040",
+    "url": "https://n2t.net/ark:/99152/p0m63nj2pms",
+    "source": {
+     "title": "The Levantine Ceramics Project",
+     "year": 2012,
+     "creators": "Andrea Berlin",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0bd66485rk",
+    "label": "First Intermediate Period",
+    "from": -2130,
+    "to": -2040,
+    "startLabel": "2130 B.C.",
+    "stopLabel": "2040 B.C.",
+    "url": "https://n2t.net/ark:/99152/p0bd66485rk",
+    "source": {
+     "title": "Egypt, Greece and Rome",
+     "year": 2004,
+     "creators": "Freeman, Charles.",
+     "locator": null
+    }
+   },
+   {
+    "id": "p083p5rs75d",
+    "label": "First Intermediate",
+    "from": -2190,
+    "to": -2060,
+    "startLabel": "ca. 2190 BC",
+    "stopLabel": "2060 BC",
+    "url": "https://n2t.net/ark:/99152/p083p5rs75d",
+    "source": {
+     "title": "Ancient cities : the archaeology of urban life in the Ancient Near East and Egypt, Greece and Rome",
+     "year": 2003,
+     "creators": "Gates, Charles, 1950-",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0cp447jts9",
+    "label": "First Intermediate Period",
+    "from": -2134,
+    "to": -2040,
+    "startLabel": "2134 BC",
+    "stopLabel": "2040 BC",
+    "url": "https://n2t.net/ark:/99152/p0cp447jts9",
+    "source": {
+     "title": "The art of ancient Egypt",
+     "year": 2000,
+     "creators": "Robins, Gay.",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0qk76zqqr2",
+    "label": "First Intermediate Period",
+    "from": -2168,
+    "to": -2040,
+    "startLabel": "2168 BCE",
+    "stopLabel": "2040 BCE",
+    "url": "https://n2t.net/ark:/99152/p0qk76zqqr2",
+    "source": {
+     "title": "UCLA Encyclopedia of Egyptology",
+     "year": null,
+     "creators": "Willeke Wendrich",
+     "locator": null
+    }
+   }
+  ],
+  "africa-middle-east|egypt|Dynasties of ancient Egypt|[[Middle Kingdom of Egypt|Middle Kingdom]] (2000–1800 BC)": [
+   {
+    "id": "p0m64td7h8h",
+    "label": "Middle Kingdom",
+    "from": -2051,
+    "to": -1651,
+    "startLabel": "-2050",
+    "stopLabel": "-1650",
+    "url": "https://n2t.net/ark:/99152/p0m64td7h8h",
+    "source": {
+     "title": "EAMENA Database",
+     "year": "2021",
+     "creators": "University of Oxford; University of Southampton",
+     "locator": null
+    }
+   },
+   {
+    "id": "p05ggg53kp5",
+    "label": "Middle Kingdom",
+    "from": -1996,
+    "to": -1814,
+    "startLabel": "1996 B.C.",
+    "stopLabel": "1814 B.C.",
+    "url": "https://n2t.net/ark:/99152/p05ggg53kp5",
+    "source": {
+     "title": "Tell el-Daba Chronology",
+     "year": "2020",
+     "creators": "Manfred Bietak",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0m63nj4dkm",
+    "label": "Middle Kingdom",
+    "from": -2041,
+    "to": -1783,
+    "startLabel": "-2040",
+    "stopLabel": "-1782",
+    "url": "https://n2t.net/ark:/99152/p0m63nj4dkm",
+    "source": {
+     "title": "The Levantine Ceramics Project",
+     "year": 2012,
+     "creators": "Andrea Berlin",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0bd664mq9k",
+    "label": "Middle Kingdom",
+    "from": -2040,
+    "to": -1640,
+    "startLabel": "2040 B.C.",
+    "stopLabel": "1640 B.C.",
+    "url": "https://n2t.net/ark:/99152/p0bd664mq9k",
+    "source": {
+     "title": "Egypt, Greece and Rome",
+     "year": 2004,
+     "creators": "Freeman, Charles.",
+     "locator": null
+    }
+   },
+   {
+    "id": "p083p5r44kk",
+    "label": "Middle Kingdom",
+    "from": -2060,
+    "to": -1795,
+    "startLabel": "ca. 2060 BC",
+    "stopLabel": "1795 BC",
+    "url": "https://n2t.net/ark:/99152/p083p5r44kk",
+    "source": {
+     "title": "Ancient cities : the archaeology of urban life in the Ancient Near East and Egypt, Greece and Rome",
+     "year": 2003,
+     "creators": "Gates, Charles, 1950-",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0cp447b435",
+    "label": "Middle Kingdom",
+    "from": -2040,
+    "to": -1640,
+    "startLabel": "2040 BC",
+    "stopLabel": "1640 BC",
+    "url": "https://n2t.net/ark:/99152/p0cp447b435",
+    "source": {
+     "title": "The art of ancient Egypt",
+     "year": 2000,
+     "creators": "Robins, Gay.",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0qk76zkb23",
+    "label": "Middle Kingdom",
+    "from": -2040,
+    "to": -1640,
+    "startLabel": "2040 BCE",
+    "stopLabel": "1640 BCE",
+    "url": "https://n2t.net/ark:/99152/p0qk76zkb23",
+    "source": {
+     "title": "UCLA Encyclopedia of Egyptology",
+     "year": null,
+     "creators": "Willeke Wendrich",
+     "locator": null
+    }
+   }
+  ],
+  "africa-middle-east|egypt|Dynasties of ancient Egypt|[[Second Intermediate Period of Egypt|Second Intermediate Period]] (1800–1550 BC)": [
+   {
+    "id": "p05ggg5vx4v",
+    "label": "Second Intermediate Period",
+    "from": -1814,
+    "to": -1531,
+    "startLabel": "1814 B.C.",
+    "stopLabel": "1531 B.C.",
+    "url": "https://n2t.net/ark:/99152/p05ggg5vx4v",
+    "source": {
+     "title": "Tell el-Daba Chronology",
+     "year": "2020",
+     "creators": "Manfred Bietak",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0m63nj3t8w",
+    "label": "Second Intermediate Period",
+    "from": -1783,
+    "to": -1571,
+    "startLabel": "-1782",
+    "stopLabel": "-1570",
+    "url": "https://n2t.net/ark:/99152/p0m63nj3t8w",
+    "source": {
+     "title": "The Levantine Ceramics Project",
+     "year": 2012,
+     "creators": "Andrea Berlin",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0bd6642r9q",
+    "label": "Second Intermediate Period",
+    "from": -1640,
+    "to": -1532,
+    "startLabel": "1640 B.C.",
+    "stopLabel": "1532 B.C.",
+    "url": "https://n2t.net/ark:/99152/p0bd6642r9q",
+    "source": {
+     "title": "Egypt, Greece and Rome",
+     "year": 2004,
+     "creators": "Freeman, Charles.",
+     "locator": null
+    }
+   },
+   {
+    "id": "p083p5rtqd5",
+    "label": "Second Intermediate",
+    "from": -1795,
+    "to": -1550,
+    "startLabel": "ca. 1795 BC",
+    "stopLabel": "1550 BC",
+    "url": "https://n2t.net/ark:/99152/p083p5rtqd5",
+    "source": {
+     "title": "Ancient cities : the archaeology of urban life in the Ancient Near East and Egypt, Greece and Rome",
+     "year": 2003,
+     "creators": "Gates, Charles, 1950-",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0cp447757z",
+    "label": "Second Intermediate Period",
+    "from": -1640,
+    "to": -1532,
+    "startLabel": "1640 BC",
+    "stopLabel": "1532 BC",
+    "url": "https://n2t.net/ark:/99152/p0cp447757z",
+    "source": {
+     "title": "The art of ancient Egypt",
+     "year": 2000,
+     "creators": "Robins, Gay.",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0qk76zxgwt",
+    "label": "Second Intermediate Period",
+    "from": -1640,
+    "to": -1548,
+    "startLabel": "1640 BCE",
+    "stopLabel": "1548 BCE",
+    "url": "https://n2t.net/ark:/99152/p0qk76zxgwt",
+    "source": {
+     "title": "UCLA Encyclopedia of Egyptology",
+     "year": null,
+     "creators": "Willeke Wendrich",
+     "locator": null
+    }
+   }
+  ],
+  "africa-middle-east|egypt|Dynasties of ancient Egypt|[[New Kingdom of Egypt|New Kingdom]] (1550–1075 BC)": [
+   {
+    "id": "p0m64tdr9m8",
+    "label": "New Kingdom",
+    "from": -1551,
+    "to": -1051,
+    "startLabel": "-1550",
+    "stopLabel": "-1050",
+    "url": "https://n2t.net/ark:/99152/p0m64tdr9m8",
+    "source": {
+     "title": "EAMENA Database",
+     "year": "2021",
+     "creators": "University of Oxford; University of Southampton",
+     "locator": null
+    }
+   },
+   {
+    "id": "p05ggg5fnwn",
+    "label": "New Kingdom",
+    "from": -1531,
+    "to": -1072,
+    "startLabel": "1531 B.C.",
+    "stopLabel": "1072 B.C.",
+    "url": "https://n2t.net/ark:/99152/p05ggg5fnwn",
+    "source": {
+     "title": "Tell el-Daba Chronology",
+     "year": "2020",
+     "creators": "Manfred Bietak",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0m63njmx32",
+    "label": "New Kingdom",
+    "from": -1571,
+    "to": -1071,
+    "startLabel": "-1570",
+    "stopLabel": "-1070",
+    "url": "https://n2t.net/ark:/99152/p0m63njmx32",
+    "source": {
+     "title": "The Levantine Ceramics Project",
+     "year": 2012,
+     "creators": "Andrea Berlin",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0bd664mwkq",
+    "label": "New Kingdom",
+    "from": -1550,
+    "to": -1070,
+    "startLabel": "1550 B.C.",
+    "stopLabel": "1070 B.C.",
+    "url": "https://n2t.net/ark:/99152/p0bd664mwkq",
+    "source": {
+     "title": "Egypt, Greece and Rome",
+     "year": 2004,
+     "creators": "Freeman, Charles.",
+     "locator": null
+    }
+   },
+   {
+    "id": "p083p5rnq5h",
+    "label": "New Kingdom",
+    "from": -1550,
+    "to": -1070,
+    "startLabel": "ca. 1550 BC",
+    "stopLabel": "1070 BC",
+    "url": "https://n2t.net/ark:/99152/p083p5rnq5h",
+    "source": {
+     "title": "Ancient cities : the archaeology of urban life in the Ancient Near East and Egypt, Greece and Rome",
+     "year": 2003,
+     "creators": "Gates, Charles, 1950-",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0cp447qz64",
+    "label": "New Kingdom",
+    "from": -1550,
+    "to": -1070,
+    "startLabel": "1550 BC",
+    "stopLabel": "1070 BC",
+    "url": "https://n2t.net/ark:/99152/p0cp447qz64",
+    "source": {
+     "title": "The art of ancient Egypt",
+     "year": 2000,
+     "creators": "Robins, Gay.",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0qk76zvjkw",
+    "label": "New Kingdom",
+    "from": -1548,
+    "to": -1086,
+    "startLabel": "1548 BCE",
+    "stopLabel": "1086 BCE",
+    "url": "https://n2t.net/ark:/99152/p0qk76zvjkw",
+    "source": {
+     "title": "UCLA Encyclopedia of Egyptology",
+     "year": null,
+     "creators": "Willeke Wendrich",
+     "locator": null
+    }
+   }
+  ],
+  "africa-middle-east|egypt|Dynasties of ancient Egypt|[[Third Intermediate Period of Egypt|Third Intermediate Period]] (1075–664 BC)": [
+   {
+    "id": "p0m64tdcpkc",
+    "label": "Third Intermediate",
+    "from": -1051,
+    "to": -651,
+    "startLabel": "-1050",
+    "stopLabel": "-650",
+    "url": "https://n2t.net/ark:/99152/p0m64tdcpkc",
+    "source": {
+     "title": "EAMENA Database",
+     "year": "2021",
+     "creators": "University of Oxford; University of Southampton",
+     "locator": null
+    }
+   },
+   {
+    "id": "p05ggg5cd83",
+    "label": "Third Intermediate Period",
+    "from": -1072,
+    "to": -664,
+    "startLabel": "1072 B.C.",
+    "stopLabel": "664 B.C.",
+    "url": "https://n2t.net/ark:/99152/p05ggg5cd83",
+    "source": {
+     "title": "Tell el-Daba Chronology",
+     "year": "2020",
+     "creators": "Manfred Bietak",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0m63njzg6r",
+    "label": "Third Intermediate Period",
+    "from": -1070,
+    "to": -526,
+    "startLabel": "-1069",
+    "stopLabel": "-525",
+    "url": "https://n2t.net/ark:/99152/p0m63njzg6r",
+    "source": {
+     "title": "The Levantine Ceramics Project",
+     "year": 2012,
+     "creators": "Andrea Berlin",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0bd66427t9",
+    "label": "Third Intermediate period",
+    "from": -1060,
+    "to": -664,
+    "startLabel": "1060 B.C.",
+    "stopLabel": "664 B.C.",
+    "url": "https://n2t.net/ark:/99152/p0bd66427t9",
+    "source": {
+     "title": "Egypt, Greece and Rome",
+     "year": 2004,
+     "creators": "Freeman, Charles.",
+     "locator": null
+    }
+   },
+   {
+    "id": "p083p5rdfxn",
+    "label": "Third Intermediate",
+    "from": -1070,
+    "to": -715,
+    "startLabel": "ca. 1070 BC",
+    "stopLabel": "715 BC",
+    "url": "https://n2t.net/ark:/99152/p083p5rdfxn",
+    "source": {
+     "title": "Ancient cities : the archaeology of urban life in the Ancient Near East and Egypt, Greece and Rome",
+     "year": 2003,
+     "creators": "Gates, Charles, 1950-",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0cp447hxh8",
+    "label": "Third Intermediate Period",
+    "from": -1070,
+    "to": -712,
+    "startLabel": "1070 BC",
+    "stopLabel": "712 BC",
+    "url": "https://n2t.net/ark:/99152/p0cp447hxh8",
+    "source": {
+     "title": "The art of ancient Egypt",
+     "year": 2000,
+     "creators": "Robins, Gay.",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0qk76zpmnv",
+    "label": "Third Intermediate Period",
+    "from": -1086,
+    "to": -664,
+    "startLabel": "1086 BCE",
+    "stopLabel": "664 BCE",
+    "url": "https://n2t.net/ark:/99152/p0qk76zpmnv",
+    "source": {
+     "title": "UCLA Encyclopedia of Egyptology",
+     "year": null,
+     "creators": "Willeke Wendrich",
+     "locator": null
+    }
+   }
+  ],
+  "africa-middle-east|egypt|Dynasties of ancient Egypt|[[Late Period of Egypt|Late Period]] (664–342 BC)": [
+   {
+    "id": "p0m63njh7tb",
+    "label": "Late Period",
+    "from": -526,
+    "to": -333,
+    "startLabel": "-525",
+    "stopLabel": "-332",
+    "url": "https://n2t.net/ark:/99152/p0m63njh7tb",
+    "source": {
+     "title": "The Levantine Ceramics Project",
+     "year": 2012,
+     "creators": "Andrea Berlin",
+     "locator": null
+    }
+   },
+   {
+    "id": "p083p5rg9zb",
+    "label": "Late Period",
+    "from": -760,
+    "to": -332,
+    "startLabel": "760 BC",
+    "stopLabel": "332 BC",
+    "url": "https://n2t.net/ark:/99152/p083p5rg9zb",
+    "source": {
+     "title": "Ancient cities : the archaeology of urban life in the Ancient Near East and Egypt, Greece and Rome",
+     "year": 2003,
+     "creators": "Gates, Charles, 1950-",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0cp447sbx9",
+    "label": "Late Period",
+    "from": -712,
+    "to": -332,
+    "startLabel": "712 BC",
+    "stopLabel": "332 BC",
+    "url": "https://n2t.net/ark:/99152/p0cp447sbx9",
+    "source": {
+     "title": "The art of ancient Egypt",
+     "year": 2000,
+     "creators": "Robins, Gay.",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0qk76zh6n2",
+    "label": "Late Period",
+    "from": -664,
+    "to": -332,
+    "startLabel": "664 BCE",
+    "stopLabel": "332 BCE",
+    "url": "https://n2t.net/ark:/99152/p0qk76zh6n2",
+    "source": {
+     "title": "UCLA Encyclopedia of Egyptology",
+     "year": null,
+     "creators": "Willeke Wendrich",
+     "locator": null
+    }
+   }
+  ],
+  "africa-middle-east|egypt|Dynasties of ancient Egypt|[[Hellenistic period]] (342–30 BC)": [
+   {
+    "id": "p0m63njdf2z",
+    "label": "Hellenistic Period",
+    "from": -333,
+    "to": -32,
+    "startLabel": "-332",
+    "stopLabel": "-31",
+    "url": "https://n2t.net/ark:/99152/p0m63njdf2z",
+    "source": {
+     "title": "The Levantine Ceramics Project",
+     "year": 2012,
+     "creators": "Andrea Berlin",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0f65r2v4dw",
+    "label": "Hellenistic",
+    "from": -332,
+    "to": -53,
+    "startLabel": "332 B.C.E.",
+    "stopLabel": "53 B.C.E.",
+    "url": "https://n2t.net/ark:/99152/p0f65r2v4dw",
+    "source": {
+     "title": "Life in biblical Israel",
+     "year": 2001,
+     "creators": "King, Philip J.; Stager, Lawrence E.",
+     "locator": "page xxiii"
+    }
+   },
+   {
+    "id": "p08m57h7bzs",
+    "label": "Hellenistic",
+    "from": -323,
+    "to": -31,
+    "startLabel": "323 BC",
+    "stopLabel": "31 BC",
+    "url": "https://n2t.net/ark:/99152/p08m57h7bzs",
+    "source": {
+     "title": "British Museum",
+     "year": null,
+     "creators": null,
+     "locator": null
+    }
+   }
+  ],
+  "africa-middle-east|nubia|List of archaeological periods|[[Nubia|Bronze Age]] (3500 – 600 BCE)": [],
+  "africa-middle-east|nubia|List of archaeological periods|[[Ghana Empire|Iron Age]] (550 BC – 700 [[Common Era|CE]])": [],
+  "africa-middle-east|nubia|List of archaeological periods|Classic Middle Ages (c. 700 – 1700 CE)": [],
+  "africa-middle-east|ssa-west|List of archaeological periods|[[Ghana Empire|Iron Age]] (550 BC – 700 [[Common Era|CE]])": [
+   {
+    "id": "p0m64tdqzd6",
+    "label": "Iron Age",
+    "from": -1001,
+    "to": -501,
+    "startLabel": "-1000",
+    "stopLabel": "-500",
+    "url": "https://n2t.net/ark:/99152/p0m64tdqzd6",
+    "source": {
+     "title": "EAMENA Database",
+     "year": "2021",
+     "creators": "University of Oxford; University of Southampton",
+     "locator": null
+    }
+   }
+  ],
+  "africa-middle-east|ssa-west|List of archaeological periods|Classic Middle Ages (c. 700 – 1700 CE)": [],
+  "africa-middle-east|ssa-central|List of archaeological periods|[[Ghana Empire|Iron Age]] (550 BC – 700 [[Common Era|CE]])": [],
+  "africa-middle-east|ssa-central|List of archaeological periods|Classic Middle Ages (c. 700 – 1700 CE)": [],
+  "africa-middle-east|ssa-east|List of archaeological periods|[[Ghana Empire|Iron Age]] (550 BC – 700 [[Common Era|CE]])": [],
+  "africa-middle-east|ssa-east|List of archaeological periods|Classic Middle Ages (c. 700 – 1700 CE)": [],
+  "africa-middle-east|ssa-southern|List of archaeological periods|[[Ghana Empire|Iron Age]] (550 BC – 700 [[Common Era|CE]])": [],
+  "africa-middle-east|ssa-southern|List of archaeological periods|Classic Middle Ages (c. 700 – 1700 CE)": [],
+  "africa-middle-east|ssa-horn|List of archaeological periods|[[Ghana Empire|Iron Age]] (550 BC – 700 [[Common Era|CE]])": [],
+  "africa-middle-east|ssa-horn|List of archaeological periods|Classic Middle Ages (c. 700 – 1700 CE)": [],
+  "africa-middle-east|eastern-arabia|Pre-Islamic Arabia|Bronze Age (3000 – 1300 BCE)": [
+   {
+    "id": "p03gwtv3wg5",
+    "label": "Bronze Age",
+    "from": -3100,
+    "to": -1300,
+    "startLabel": "3100 BCE",
+    "stopLabel": "1300 BCE",
+    "url": "https://n2t.net/ark:/99152/p03gwtv3wg5",
+    "source": {
+     "title": "Die Entstehung komplexer Siedlungen im Zentraloman Archäologische Untersuchungen zur Siedlungsgeschichte von Al-Khashbah",
+     "year": "2021",
+     "creators": "Conrad Schmidt; Stephanie Döpper; Jonas Kluge",
+     "locator": "Tab. 1"
+    }
+   },
+   {
+    "id": "p0m64td2j2v",
+    "label": "Bronze Age",
+    "from": -3201,
+    "to": -1501,
+    "startLabel": "-3200",
+    "stopLabel": "-1500",
+    "url": "https://n2t.net/ark:/99152/p0m64td2j2v",
+    "source": {
+     "title": "EAMENA Database",
+     "year": "2021",
+     "creators": "University of Oxford; University of Southampton",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0m64td2tp9",
+    "label": "Bronze Age",
+    "from": -3101,
+    "to": -901,
+    "startLabel": "-3100",
+    "stopLabel": "-900",
+    "url": "https://n2t.net/ark:/99152/p0m64td2tp9",
+    "source": {
+     "title": "EAMENA Database",
+     "year": "2021",
+     "creators": "University of Oxford; University of Southampton",
+     "locator": null
+    }
+   }
+  ],
+  "africa-middle-east|eastern-arabia|Pre-Islamic Arabia|Iron Age (1300 – 330 BCE)": [
+   {
+    "id": "p03gwtvb264",
+    "label": "Iron Age",
+    "from": -1300,
+    "to": 300,
+    "startLabel": "1300 BCE",
+    "stopLabel": "300 CE",
+    "url": "https://n2t.net/ark:/99152/p03gwtvb264",
+    "source": {
+     "title": "Die Entstehung komplexer Siedlungen im Zentraloman Archäologische Untersuchungen zur Siedlungsgeschichte von Al-Khashbah",
+     "year": "2021",
+     "creators": "Conrad Schmidt; Stephanie Döpper; Jonas Kluge",
+     "locator": "Tab. 1"
+    }
+   },
+   {
+    "id": "p0m64tdzcqz",
+    "label": "Iron Age",
+    "from": -1501,
+    "to": -101,
+    "startLabel": "-1500",
+    "stopLabel": "-100",
+    "url": "https://n2t.net/ark:/99152/p0m64tdzcqz",
+    "source": {
+     "title": "EAMENA Database",
+     "year": "2021",
+     "creators": "University of Oxford; University of Southampton",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0m64td6gpk",
+    "label": "Iron Age",
+    "from": -1201,
+    "to": -331,
+    "startLabel": "-1200",
+    "stopLabel": "-330",
+    "url": "https://n2t.net/ark:/99152/p0m64td6gpk",
+    "source": {
+     "title": "EAMENA Database",
+     "year": "2021",
+     "creators": "University of Oxford; University of Southampton",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0p6bgnmqqw",
+    "label": "Iron Age",
+    "from": -1300,
+    "to": -300,
+    "startLabel": "1300 BCE",
+    "stopLabel": "300 BCE",
+    "url": "https://n2t.net/ark:/99152/p0p6bgnmqqw",
+    "source": {
+     "title": "The Chronology of the Southeast Arabian Iron Age",
+     "year": "1996",
+     "creators": "Magee, Peter",
+     "locator": null
+    }
+   }
+  ],
+  "africa-middle-east|eastern-arabia|Pre-Islamic Arabia|Greco-Roman/Parthian period (330 BCE – 240 CE)": [],
+  "africa-middle-east|eastern-arabia|Pre-Islamic Arabia|Byzantine/Sasanian period (240 CE – 630 CE)": [],
+  "americas|eastern-north-america|List of archaeological periods (North America)|[[Middle Archaic]]<br />6000 – 3000 BCE": [
+   {
+    "id": "p08m57hh78v",
+    "label": "Middle Archaic",
+    "from": -6000,
+    "to": -4000,
+    "startLabel": "6000 BC",
+    "stopLabel": "4000 BC",
+    "url": "https://n2t.net/ark:/99152/p08m57hh78v",
+    "source": {
+     "title": "British Museum",
+     "year": null,
+     "creators": null,
+     "locator": null
+    }
+   }
+  ],
+  "americas|eastern-north-america|List of archaeological periods (North America)|[[Late Archaic]]<br />3000 – 1000 BCE": [],
+  "americas|eastern-north-america|List of archaeological periods (North America)|[[Woodland period#Early Woodland period (1000–1 BCE)|Early Woodland Period]]<br />1000 BCE – 1 CE": [],
+  "americas|eastern-north-america|List of archaeological periods (North America)|[[Woodland period#Middle Woodland Period (1 to 500 CE)|Middle Woodland Period]]<br />1 – 500": [],
+  "americas|eastern-north-america|List of archaeological periods (North America)|[[Woodland period#Late Woodland Period (500 to 1000 CE)|Late Woodland Period]]<br />500–1000": [],
+  "americas|eastern-north-america|List of archaeological periods (North America)|[[Mississippian culture]]<br />900–1500<br />(ending with European contact)": [],
+  "americas|mesoamerica|Mesoamerican chronology|Archaic": [],
+  "americas|mesoamerica|Mesoamerican chronology|Early Preclassic": [],
+  "americas|mesoamerica|Mesoamerican chronology|Middle Preclassic": [],
+  "americas|mesoamerica|Mesoamerican chronology|Late Preclassic": [],
+  "americas|mesoamerica|Mesoamerican chronology|Early Classic": [
+   {
+    "id": "p064v7m6whj",
+    "label": "Early Classic",
+    "from": 250,
+    "to": 600,
+    "startLabel": "CA. 250 AD",
+    "stopLabel": "CA. 600 AD",
+    "url": "https://n2t.net/ark:/99152/p064v7m6whj",
+    "source": {
+     "title": "The Oxford handbook of Mesoamerican archeology",
+     "year": "2012",
+     "creators": null,
+     "locator": null
+    }
+   }
+  ],
+  "americas|mesoamerica|Mesoamerican chronology|Late Classic": [
+   {
+    "id": "p064v7m9xx2",
+    "label": "Late Classic",
+    "from": 600,
+    "to": 900,
+    "startLabel": "CA. 600 AD",
+    "stopLabel": "CA. 900 AD",
+    "url": "https://n2t.net/ark:/99152/p064v7m9xx2",
+    "source": {
+     "title": "The Oxford handbook of Mesoamerican archeology",
+     "year": "2012",
+     "creators": null,
+     "locator": null
+    }
+   },
+   {
+    "id": "p08m57hmgt4",
+    "label": "Late Classic",
+    "from": 700,
+    "to": 900,
+    "startLabel": "700 AD",
+    "stopLabel": "900 AD",
+    "url": "https://n2t.net/ark:/99152/p08m57hmgt4",
+    "source": {
+     "title": "British Museum",
+     "year": null,
+     "creators": null,
+     "locator": null
+    }
+   }
+  ],
+  "americas|mesoamerica|Mesoamerican chronology|Early Postclassic": [],
+  "americas|mesoamerica|Mesoamerican chronology|Late Postclassic": [
+   {
+    "id": "p064v7mwqds",
+    "label": "Late Postclassic",
+    "from": 1400,
+    "to": 1521,
+    "startLabel": "CA. 1400 AD",
+    "stopLabel": "CA. 1521 AD",
+    "url": "https://n2t.net/ark:/99152/p064v7mwqds",
+    "source": {
+     "title": "The Oxford handbook of Mesoamerican archeology",
+     "year": "2012",
+     "creators": null,
+     "locator": null
+    }
+   }
+  ],
+  "americas|mesoamerica|Mesoamerican chronology|Colonial": [],
+  "americas|mesoamerica|Mesoamerican chronology|Postcolonial": [],
+  "americas|antilles|List of pre-Columbian cultures|* Lithic/Archaic Age, c. 5500—200 BC": [],
+  "americas|antilles|List of pre-Columbian cultures|*Early Ceramic Age, c. 500 BC—AD 600": [],
+  "americas|antilles|List of pre-Columbian cultures|*Late Ceramic Age, c. AD 600-1500": [],
+  "americas|bahamas|List of pre-Columbian cultures|*Late Ceramic Age, c. AD 600-1500": [],
+  "americas|andes|Periodization of pre-Columbian Peru|Period V": [],
+  "americas|andes|Periodization of pre-Columbian Peru|Period VI (Cotton Pre-ceramic)": [],
+  "americas|andes|Periodization of pre-Columbian Peru|Initial Period (also called Formative Period)": [],
+  "americas|andes|Periodization of pre-Columbian Peru|Early Horizon (Also called Formative Period)": [],
+  "americas|andes|Periodization of pre-Columbian Peru|Early Intermediate": [],
+  "americas|andes|Periodization of pre-Columbian Peru|Middle Horizon": [],
+  "americas|andes|Periodization of pre-Columbian Peru|Late Intermediate": [],
+  "americas|andes|Periodization of pre-Columbian Peru|Late Horizon": [],
+  "asia|japan|List of archaeological periods|[[Jōmon period]] c. 10,000 – 300 BCE": [],
+  "asia|japan|List of archaeological periods|[[Yayoi period]] c. 300 BCE – 250 CE": [
+   {
+    "id": "p08m57hb3zn",
+    "label": "Yayoi Period",
+    "from": -200,
+    "to": 250,
+    "startLabel": "200 BC",
+    "stopLabel": "250 AD",
+    "url": "https://n2t.net/ark:/99152/p08m57hb3zn",
+    "source": {
+     "title": "British Museum",
+     "year": null,
+     "creators": null,
+     "locator": null
+    }
+   }
+  ],
+  "asia|japan|History of Japan|Kofun period (c. 250–538)": [
+   {
+    "id": "p08m57hkp2w",
+    "label": "Kofun Period",
+    "from": 250,
+    "to": 552,
+    "startLabel": "250",
+    "stopLabel": "552",
+    "url": "https://n2t.net/ark:/99152/p08m57hkp2w",
+    "source": {
+     "title": "British Museum",
+     "year": null,
+     "creators": null,
+     "locator": null
+    }
+   }
+  ],
+  "asia|japan|History of Japan|Asuka period (538–710)": [
+   {
+    "id": "p08m57h9bg4",
+    "label": "Asuka Period",
+    "from": 552,
+    "to": 646,
+    "startLabel": "552",
+    "stopLabel": "646",
+    "url": "https://n2t.net/ark:/99152/p08m57h9bg4",
+    "source": {
+     "title": "British Museum",
+     "year": null,
+     "creators": null,
+     "locator": null
+    }
+   }
+  ],
+  "asia|japan|History of Japan|Nara period (710–794)": [
+   {
+    "id": "p08m57hs9rb",
+    "label": "Nara Period",
+    "from": 710,
+    "to": 794,
+    "startLabel": "710",
+    "stopLabel": "794",
+    "url": "https://n2t.net/ark:/99152/p08m57hs9rb",
+    "source": {
+     "title": "British Museum",
+     "year": null,
+     "creators": null,
+     "locator": null
+    }
+   }
+  ],
+  "asia|japan|History of Japan|Heian period (794–1185)": [
+   {
+    "id": "p08m57hj3pm",
+    "label": "Heian Period",
+    "from": 794,
+    "to": 1185,
+    "startLabel": "794",
+    "stopLabel": "1185",
+    "url": "https://n2t.net/ark:/99152/p08m57hj3pm",
+    "source": {
+     "title": "British Museum",
+     "year": null,
+     "creators": null,
+     "locator": null
+    }
+   }
+  ],
+  "asia|japan|History of Japan|Kamakura period (1185–1333)": [
+   {
+    "id": "p08m57h78dj",
+    "label": "Kamakura Period",
+    "from": 1185,
+    "to": 1333,
+    "startLabel": "1185",
+    "stopLabel": "1333",
+    "url": "https://n2t.net/ark:/99152/p08m57h78dj",
+    "source": {
+     "title": "British Museum",
+     "year": null,
+     "creators": null,
+     "locator": null
+    }
+   }
+  ],
+  "asia|japan|History of Japan|Muromachi period (1333–1568)": [
+   {
+    "id": "p08m57h6tbv",
+    "label": "Muromachi Period",
+    "from": 1333,
+    "to": 1573,
+    "startLabel": "1333",
+    "stopLabel": "1573",
+    "url": "https://n2t.net/ark:/99152/p08m57h6tbv",
+    "source": {
+     "title": "British Museum",
+     "year": null,
+     "creators": null,
+     "locator": null
+    }
+   }
+  ],
+  "asia|japan|History of Japan|Azuchi–Momoyama period (1568–1600)": [],
+  "asia|japan|History of Japan|Edo period (1600–1868)": [
+   {
+    "id": "p08m57hwrbs",
+    "label": "Edo Period",
+    "from": 1603,
+    "to": 1868,
+    "startLabel": "1603",
+    "stopLabel": "1868",
+    "url": "https://n2t.net/ark:/99152/p08m57hwrbs",
+    "source": {
+     "title": "British Museum",
+     "year": null,
+     "creators": null,
+     "locator": null
+    }
+   }
+  ],
+  "asia|japan|History of Japan|Meiji period (1868–1912)": [],
+  "asia|japan|History of Japan|Taishō period (1912–1926)": [],
+  "asia|japan|History of Japan|Shōwa period (1926–1989)": [],
+  "asia|japan|History of Japan|Heisei period (1989–2019)": [],
+  "asia|japan|History of Japan|Reiwa period (2019–present)": [],
+  "asia|korea|List of archaeological periods|[[Jeulmun pottery period]] c. 8000 – 1500 BCE": [],
+  "asia|korea|List of archaeological periods|[[Mumun pottery period]] c. 1500 – 300 BCE": [],
+  "asia|korea|List of archaeological periods|[[Proto–Three Kingdoms of Korea|Protohistoric period]] c. 300 BCE – 300/400 CE": [],
+  "asia|korea|List of archaeological periods|[[Three Kingdoms of Korea]] c. 300/400 – 668 CE": [],
+  "asia|china|List of archaeological periods|[[List of Neolithic cultures of China|Neolithic period]] c. 10,000 – 2100 BCE": [],
+  "asia|china|List of archaeological periods|[[Ancient China]] c. 2100 – 221 BCE": [],
+  "europe|scandinavia|List of archaeological periods|[[Nordic Bronze Age]] (c. 1700 BCE - c. 500 BCE)": [],
+  "europe|scandinavia|List of archaeological periods|[[Pre-Roman Iron Age]] (c. 500 BCE - c. 1 BCE)": [],
+  "europe|scandinavia|List of archaeological periods|[[Roman Iron Age in northern Europe]] (c. 1 CE – 400 CE)": [],
+  "europe|scandinavia|List of archaeological periods|[[Germanic Iron Age]] (c. 400 – 800 CE)": [],
+  "europe|scandinavia|List of archaeological periods|[[Viking Age]] (c. 800 – 1066 CE)": [],
+  "europe|scandinavia|List of archaeological periods|[[Medieval period]] (1066 – c. 1500)": [
+   {
+    "id": "p0qhb669hzj",
+    "label": "Medieval",
+    "from": 1050,
+    "to": 1535,
+    "startLabel": "950 BP (2000)",
+    "stopLabel": "465 BP (2000)",
+    "url": "https://n2t.net/ark:/99152/p0qhb669hzj",
+    "source": {
+     "title": "ARIADNE Data Collection",
+     "year": "2015",
+     "creators": "ARIADNE Consortium",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0zj6g8qpxx",
+    "label": "Medieval",
+    "from": 1050,
+    "to": 1537,
+    "startLabel": "1050",
+    "stopLabel": "1537",
+    "url": "https://n2t.net/ark:/99152/p0zj6g8qpxx",
+    "source": {
+     "title": "ARENA - The ARENA Portal",
+     "year": 2004,
+     "creators": "ADS; Stewart Waller",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0zj6g83hwg",
+    "label": "Medieval",
+    "from": 1050,
+    "to": 1536,
+    "startLabel": "1050",
+    "stopLabel": "1536",
+    "url": "https://n2t.net/ark:/99152/p0zj6g83hwg",
+    "source": {
+     "title": "ARENA - The ARENA Portal",
+     "year": 2004,
+     "creators": "ADS; Stewart Waller",
+     "locator": null
+    }
+   }
+  ],
+  "europe|scandinavia|List of archaeological periods|[[Post-medieval archaeology|Post-medieval period]] (c. 1500 – c. 1800)": [
+   {
+    "id": "p0qhb667h4z",
+    "label": "Post Medieval",
+    "from": 1536,
+    "to": 1659,
+    "startLabel": "464 BP (2000)",
+    "stopLabel": "341 BP (2000)",
+    "url": "https://n2t.net/ark:/99152/p0qhb667h4z",
+    "source": {
+     "title": "ARIADNE Data Collection",
+     "year": "2015",
+     "creators": "ARIADNE Consortium",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0zj6g8tddc",
+    "label": "Post Medieval",
+    "from": 1537,
+    "to": null,
+    "startLabel": "1537",
+    "stopLabel": "present",
+    "url": "https://n2t.net/ark:/99152/p0zj6g8tddc",
+    "source": {
+     "title": "ARENA - The ARENA Portal",
+     "year": 2004,
+     "creators": "ADS; Stewart Waller",
+     "locator": null
+    }
+   },
+   {
+    "id": "p0zj6g87fd8",
+    "label": "Post Medieval",
+    "from": 1536,
+    "to": 1660,
+    "startLabel": "1536",
+    "stopLabel": "1660",
+    "url": "https://n2t.net/ark:/99152/p0zj6g87fd8",
+    "source": {
+     "title": "ARENA - The ARENA Portal",
+     "year": 2004,
+     "creators": "ADS; Stewart Waller",
+     "locator": null
+    }
+   }
+  ],
+  "europe|ireland|History of Ireland|Prehistory (10,500 BC–600 BC)": [],
+  "europe|ireland|History of Ireland|Iron Age (600 BC–400 AD)": [],
+  "europe|ireland|History of Ireland|Early Christian Ireland (400–795)": [],
+  "europe|ireland|History of Ireland|Early medieval and Viking era (795–1169)": [],
+  "europe|ireland|History of Ireland|Anglo-Norman Ireland (1169–1536)": [],
+  "europe|ireland|History of Ireland|Early modern Ireland (1536–1691)": [],
+  "europe|ireland|History of Ireland|Protestant ascendancy (1691–1800)": [],
+  "europe|ireland|History of Ireland|Union with Great Britain (1801–1912)": [],
+  "europe|ireland|History of Ireland|Home Rule, Easter Rising and War of Independence (1912–1922)": [],
+  "europe|ireland|History of Ireland|Free State and Republic (1922–present)": [],
+  "europe|greece|History of Greece|Neolithic Period to Bronze Age (7000–1100 BC)": [],
+  "europe|greece|History of Greece|Ancient Greece (1100–146 BC)": [],
+  "europe|greece|History of Greece|Roman Greece (146 BC – AD 324)": [],
+  "europe|greece|History of Greece|Byzantine rule (324–1204)": [],
+  "europe|greece|History of Greece|Venetian and Ottoman rule (15th century – 1821)": [],
+  "europe|greece|History of Greece|Modern Greek nation state (1821 – present)": [],
+  "europe|netherlands|History of the Netherlands|Roman era (57 BC – 410 AD)": [],
+  "europe|netherlands|History of the Netherlands|Early Middle Ages (411–1000)": [],
+  "europe|netherlands|History of the Netherlands|High and Late Middle Ages (1000–1433)": [],
+  "europe|netherlands|History of the Netherlands|Burgundian and Habsburg period (1433–1567)": [],
+  "europe|netherlands|History of the Netherlands|The Eighty Years' War (1568–1648)": [],
+  "europe|netherlands|History of the Netherlands|Dutch Republic: Regents and Stadholders (1649–1794)": [],
+  "europe|netherlands|History of the Netherlands|Batavian Republic (1795–1806)": [],
+  "europe|netherlands|History of the Netherlands|Kingdom of Holland to William I (1806–1815)": [],
+  "europe|netherlands|History of the Netherlands|United Kingdom of the Netherlands (1815–1839)": [],
+  "europe|france|History of France|Frankish kingdoms (486–987)": [],
+  "europe|france|History of France|State building into the Kingdom of France (987–1453)": [],
+  "europe|france|History of France|Early Modern France (1453–1789)": [],
+  "europe|france|History of France|Revolutionary France (1789–1799)": [],
+  "europe|france|History of France|Napoleonic France (1799–1815)": [],
+  "europe|iceland|History of Iceland|Settlement (874–930)": [],
+  "europe|iceland|History of Iceland|Commonwealth (930–1262)": [],
+  "europe|iceland|History of Iceland|Iceland under Norwegian and Danish kings (1262–1944)": [],
+  "europe|iceland|History of Iceland|Republic of Iceland (1944–present)": [],
+  "europe|switzerland|History of Switzerland|Old Confederacy (1300–1798)": [],
+  "europe|switzerland|History of Switzerland|Napoleonic period and aftermath (1798–1848)": [],
+  "europe|switzerland|History of Switzerland|Modern Switzerland (1848–present)": [],
+  "europe|russia|History of Russia|Kievan Rus' (862–1240)": [],
+  "europe|russia|History of Russia|Mongol invasion and vassalage (1223–1480)": [],
+  "europe|russia|History of Russia|Grand Duchy of Moscow (1283–1547)": [],
+  "europe|russia|History of Russia|Tsardom of Russia (1547–1721)": [],
+  "europe|russia|History of Russia|Russian Empire (1721–1917)": [],
+  "europe|russia|History of Russia|Russian Civil War (1917–1922)": [],
+  "europe|russia|History of Russia|Soviet Union (1922–1991)": [],
+  "europe|russia|History of Russia|Russian Federation (1991–present)": [],
+  "europe|bulgaria|History of Bulgaria|First Bulgarian Empire (681–1018)": [],
+  "europe|bulgaria|History of Bulgaria|Bulgaria under Byzantine rule (1018–1185)": [],
+  "europe|bulgaria|History of Bulgaria|Second Bulgarian Empire (1185–1396)": [],
+  "europe|bulgaria|History of Bulgaria|Bulgaria under Ottoman rule (1396–1878)": [],
+  "europe|bulgaria|History of Bulgaria|Third Bulgarian State (1878–1946)": [],
+  "europe|bulgaria|History of Bulgaria|People's Republic of Bulgaria (1946–1991)": [],
+  "europe|croatia|History of Croatia|Duchy of Croatia (800–925)": [],
+  "europe|croatia|History of Croatia|Kingdom of Croatia (925–1102)": [],
+  "europe|croatia|History of Croatia|Personal union with Hungary (1102–1527)": [],
+  "europe|croatia|History of Croatia|Croatia in the Habsburg monarchy (1527–1918)": [],
+  "europe|croatia|History of Croatia|Croats inside the first Yugoslavia (1918–1941)": [],
+  "europe|croatia|History of Croatia|World War II and the Independent State of Croatia (1941–1945)": [],
+  "europe|croatia|History of Croatia|Socialist Yugoslavia (1945–1991)": [],
+  "europe|croatia|History of Croatia|Republic of Croatia (1991–present)": [],
+  "europe|bosnia|History of Bosnia and Herzegovina|Ottoman Era (1463–1878)": [],
+  "europe|bosnia|History of Bosnia and Herzegovina|Habsburg occupation (1878–1918)": [],
+  "europe|bosnia|History of Bosnia and Herzegovina|Kingdom of Yugoslavia (1918–1941)": [],
+  "europe|bosnia|History of Bosnia and Herzegovina|World War II (1941–1945)": [],
+  "europe|bosnia|History of Bosnia and Herzegovina|Socialist Yugoslavia (1945–1992)": [],
+  "europe|bosnia|History of Bosnia and Herzegovina|Independence and Bosnian War (1992–1995)": [],
+  "europe|bosnia|History of Bosnia and Herzegovina|Post-war Bosnia and Herzegovina (1995–present)": [],
+  "europe|moldova|History of Moldova|Principality of Moldavia (1346–1862)": [],
+  "europe|moldova|History of Moldova|Bessarabia under the Russian Empire (1812–1917)": [],
+  "europe|moldova|History of Moldova|Moldavian Democratic Republic (1917–1918)": [],
+  "europe|moldova|History of Moldova|Union with Romania and the Interwar Period (1918–1940)": [],
+  "europe|moldova|History of Moldova|World War II and Soviet era (1940–1991)": [],
+  "europe|moldova|History of Moldova|Republic of Moldova (1991–present)": [],
+  "oceania|australia|List of archaeological periods|Indigenous Period (60,000 BCE – 1606 CE)": [],
+  "oceania|australia|List of archaeological periods|European-Contact Pre-Settlement Period (1606 – 1788 CE)": [],
+  "oceania|australia|List of archaeological periods|Settlement / Pre-Industrial Period (1788 – 1820 CE)": [],
+  "oceania|australia|List of archaeological periods|[[Modern Times (history)|Industrial/Modern]] (1820s – Present)": [],
+  "oceania|new-zealand|Māori history|Archaic period (c. 1280 – c. 1500)": [],
+  "oceania|new-zealand|Māori history|Classic period (c. 1500 – 1768)": [],
+  "oceania|new-zealand|Māori history|Early European contact (1769–1840)": []
+ }
+}
