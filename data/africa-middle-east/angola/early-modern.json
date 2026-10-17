@@ -1,0 +1,6 @@
+{"lane": "angola", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"kingdom-of-kongo","name":"Kingdom of Kongo","from":1440,"to":1669,"peak":0.07,"km2":88000,"tier":3},
+  {"id":"kingdom-of-ndongo","name":"Kingdom of Ndongo","from":1518,"to":1683,"tier":2,"extent":"unknown","cited":"wikidata"},
+  {"id":"kingdom-of-lunda","name":"Kingdom of Lunda","from":1709,"to":1889,"peak":0.06,"km2":78000,"tier":3}
+]}

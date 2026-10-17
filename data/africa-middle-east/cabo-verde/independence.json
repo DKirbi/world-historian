@@ -1,0 +1,5 @@
+{"lane": "cabo-verde", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"estado-novo","name":"Estado Novo","from":1926,"to":1975,"peak":0.86,"km2":3000,"tier":1},
+  {"id":"republic-of-cabo-verde","name":"Republic of Cabo Verde","from":1976,"to":2024,"peak":0.86,"km2":3000,"tier":1}
+]}

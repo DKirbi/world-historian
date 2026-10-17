@@ -1,0 +1,12 @@
+{"lane": "equatorial-guinea", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-spain-1640","name":"Kingdom of Spain","from":1877,"to":1931,"peak":0.93,"km2":25000,"tier":1},
+  {"id":"french-third-republic","name":"French Third Republic","from":1900,"to":1910,"peak":0.06,"km2":2000,"tier":3,"realm":true},
+  {"id":"french-africa","name":"French Africa","from":1900,"to":1910,"peak":0.06,"km2":2000,"tier":3},
+  {"id":"french-third-republic","name":"French Third Republic","from":1916,"to":1939,"peak":0.07,"km2":2000,"tier":3,"realm":true},
+  {"id":"french-africa","name":"French Africa","from":1916,"to":1939,"peak":0.07,"km2":2000,"tier":3},
+  {"id":"second-spanish-republic","name":"Second Spanish Republic","from":1932,"to":1938,"peak":0.93,"km2":25000,"tier":1},
+  {"id":"francoist-spain","name":"Francoist Spain","from":1939,"to":1972,"peak":0.94,"km2":25000,"tier":1},
+  {"id":"french-africa","name":"French Africa","from":1943,"to":1957,"peak":0.07,"km2":2000,"tier":3},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1957,"peak":0.07,"km2":2000,"tier":3,"realm":true}
+]}

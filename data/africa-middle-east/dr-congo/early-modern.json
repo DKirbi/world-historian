@@ -1,0 +1,5 @@
+{"lane": "dr-congo", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"kingdom-of-baluba","name":"Kingdom of Baluba","from":1585,"to":1889,"tier":2,"extent":"unknown","cited":"wikidata"},
+  {"id":"kuba-kingdom","name":"Kuba Kingdom","from":1625,"to":1900,"tier":2,"extent":"unknown","cited":"wikidata"}
+]}

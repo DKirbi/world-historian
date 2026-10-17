@@ -1,0 +1,11 @@
+{"lane": "gabon", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"french-africa","name":"French Africa","from":1943,"to":1957,"peak":1.0,"km2":259000,"tier":1},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1957,"peak":1.0,"km2":259000,"tier":1,"realm":true},
+  {"id":"french-fifth-republic","name":"French Fifth Republic","from":1958,"to":1960,"peak":1.0,"km2":259000,"tier":1},
+  {"id":"gabon","name":"Gabon","from":1961,"to":2024,"peak":0.96,"km2":250000,"tier":1}
+],
+ "events":[
+  {"id":"Q60474140","name":"2019 Gabonese coup d'etat attempt","year":2019,"type":"coup","links":16,"by":"coordinates","wiki":"2019 Gabonese coup attempt"},
+  {"id":"Q122053772","name":"2023 Gabon coup d'état","year":2023,"type":"coup","links":36,"by":"location","wiki":"2023 Gabonese coup d'état"}
+]}

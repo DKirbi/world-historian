@@ -1,0 +1,8 @@
+{"lane": "oman", "period": "caliphates", "years": [632, 1499], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"rashidun-caliphate","name":"Rashidun Caliphate","from":633,"to":665,"peak":1.0,"km2":311000,"tier":1},
+  {"id":"umayyad-caliphate","name":"Umayyad Caliphate","from":666,"to":750,"peak":1.0,"km2":311000,"tier":1},
+  {"id":"abbasid-caliphate-750","name":"Abbasid Caliphate","from":751,"to":898,"peak":1.0,"km2":311000,"tier":1},
+  {"id":"mahdids","name":"Mahdids","from":1169,"to":1474,"peak":0.23,"km2":72000,"tier":2},
+  {"id":"mahdids","name":"Mahdids","from":1475,"to":1506,"peak":0.01,"km2":3000,"tier":3,"inside":true}
+]}

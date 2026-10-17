@@ -1,0 +1,5 @@
+{"lane": "mauritius", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1811,"to":1968,"peak":0.75,"km2":1000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1811,"to":1968,"peak":0.75,"km2":1000,"tier":1,"realm":true}
+]}

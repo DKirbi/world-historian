@@ -1,0 +1,8 @@
+{"lane": "kenya", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1895,"to":1962,"peak":0.99,"km2":586000,"tier":1,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1895,"to":1960,"peak":0.99,"km2":586000,"tier":1}
+],
+ "events":[
+  {"id":"Q476855","name":"Mau Mau rebellion","year":1952,"type":"rebellion","links":41,"by":"location","to":1960,"wiki":"Mau Mau rebellion"}
+]}

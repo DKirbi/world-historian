@@ -1,0 +1,18 @@
+{"lane": "lebanon", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"lebanon","name":"Lebanon","from":1944,"to":2024,"peak":0.9,"km2":9000,"tier":1}
+],
+ "events":[
+  {"id":"Q1542222","name":"1958 Lebanon crisis","year":1958,"type":"war","links":26,"by":"coordinates","wiki":"1958 Lebanon crisis"},
+  {"id":"Q654777","name":"1973 Israeli raid on Lebanon","year":1973,"type":"battle","links":16,"by":"coordinates","wiki":"1973 Israeli raid in Lebanon"},
+  {"id":"Q208484","name":"Lebanese Civil War","year":1975,"type":"war","links":64,"by":"location","to":1990,"wiki":"Lebanese Civil War"},
+  {"id":"Q1121402","name":"South Lebanon conflict","year":1978,"type":"invasion","links":33,"by":"location","wiki":"1978 South Lebanon conflict"},
+  {"id":"Q49103","name":"1982 Lebanon War","year":1982,"type":"war","links":55,"by":"location","to":1985,"wiki":"1982 Lebanon War"},
+  {"id":"Q2617818","name":"Siege of Beirut","year":1982,"type":"siege","links":18,"by":"coordinates","wiki":"Siege of Beirut"},
+  {"id":"Q321851","name":"May 17 Agreement","year":1983,"type":"treaty","links":13,"by":"country","wiki":"May 17 Agreement"},
+  {"id":"Q2479435","name":"South Lebanon conflict","year":1985,"type":"war","links":23,"by":"location","to":2000,"wiki":"South Lebanon conflict (1985–2000)"},
+  {"id":"Q1473919","name":"Operation Grapes of Wrath","year":1996,"type":"war","links":20,"by":"location","wiki":"Operation Grapes of Wrath"},
+  {"id":"Q184310","name":"Cedar Revolution","year":2005,"type":"revolution","links":27,"by":"country","wiki":"Cedar Revolution"},
+  {"id":"Q49104","name":"2006 Lebanon War","year":2006,"type":"war","links":74,"by":"location","wiki":"2006 Lebanon War"},
+  {"id":"Q130388076","name":"2024 Lebanon War","year":2024,"type":"invasion","links":28,"by":"location","wiki":"2024 Lebanon war"}
+]}

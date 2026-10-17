@@ -1,0 +1,15 @@
+{"lane": "israel", "period": "iron-age", "years": [-1200, -540], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"new-kingdom-of-egypt","name":"New Kingdom of Egypt","from":-1500,"to":-1001,"peak":0.71,"km2":16000,"tier":1},
+  {"id":"philistia","name":"Philistia","from":-1150,"to":-701,"peak":0.34,"km2":8000,"tier":2},
+  {"id":"kingdom-of-israel","name":"Kingdom of Israel","from":-1000,"to":-701,"peak":0.23,"km2":5000,"tier":2},
+  {"id":"kingdom-of-judah","name":"Kingdom of Judah","from":-800,"to":-701,"peak":0.06,"km2":1000,"tier":3},
+  {"id":"neo-assyrian-empire","name":"Neo-Assyrian Empire","from":-700,"to":-601,"peak":0.98,"km2":21000,"tier":1},
+  {"id":"assyrian-egypt","name":"Assyrian Egypt","from":-650,"to":-616,"peak":0.98,"km2":21000,"tier":1},
+  {"id":"neo-babylonian-empire","name":"Neo-Babylonian Empire","from":-600,"to":-531,"peak":0.98,"km2":21000,"tier":1}
+],
+ "events":[
+  {"id":"Q844639","name":"Battle of Djahy","year":-1178,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Djahy"},
+  {"id":"Q1160074","name":"Siege of Lachish","year":-701,"type":"siege","links":12,"by":"coordinates","wiki":"Siege of Lachish"},
+  {"id":"Q913818","name":"Battle of Megiddo","year":-609,"type":"battle","links":28,"by":"coordinates","wiki":"Battle of Megiddo (609 BC)"}
+]}

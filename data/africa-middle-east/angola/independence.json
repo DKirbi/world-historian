@@ -1,0 +1,12 @@
+{"lane": "angola", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"estado-novo","name":"Estado Novo","from":1926,"to":1975,"peak":0.99,"km2":1228000,"tier":1},
+  {"id":"people-s-republic-of-angola","name":"People's Republic of Angola","from":1976,"to":2024,"peak":0.99,"km2":1228000,"tier":1},
+  {"id":"estado-novo","name":"Estado Novo","from":1979,"to":2024,"peak":0.0,"km2":5000,"tier":3,"inside":true}
+],
+ "events":[
+  {"id":"Q609836","name":"Portuguese Colonial War","year":1961,"type":"war","links":38,"by":"location","to":1974,"wiki":"Portuguese Colonial War"},
+  {"id":"Q1780216","name":"Angolan War of Independence","year":1961,"type":"war","links":37,"by":"location","to":1974,"wiki":"Angolan War of Independence"},
+  {"id":"Q12055176","name":"Angolan Civil War","year":1975,"type":"war","links":49,"by":"location","to":2002,"wiki":"Angolan Civil War"},
+  {"id":"Q386051","name":"Battle of Cuito Cuanavale","year":1987,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Cuito Cuanavale"}
+]}

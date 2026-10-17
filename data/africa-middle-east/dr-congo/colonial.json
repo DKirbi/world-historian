@@ -1,0 +1,9 @@
+{"lane": "dr-congo", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"kingdom-of-baluba","name":"Kingdom of Baluba","from":1585,"to":1889,"tier":2,"extent":"unknown","cited":"wikidata"},
+  {"id":"kuba-kingdom","name":"Kuba Kingdom","from":1625,"to":1900,"tier":2,"extent":"unknown","cited":"wikidata"},
+  {"id":"belgian-congo","name":"Belgian Congo","from":1890,"to":1959,"peak":0.98,"km2":2284000,"tier":1}
+],
+ "events":[
+  {"id":"Q2935437","name":"Congo–Arab War","year":1892,"type":"war","links":12,"by":"country","wiki":"Congo Arab war"}
+]}

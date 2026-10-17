@@ -1,0 +1,16 @@
+{"lane": "egypt", "period": "bronze-age", "years": [-3400, -1201], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"early-dynastic-period-of-egypt","name":"Early Dynastic Period of Egypt","from":-3000,"to":-2501,"peak":0.09,"km2":93000,"tier":3},
+  {"id":"old-kingdom-of-egypt","name":"Old Kingdom of Egypt","from":-2500,"to":-2201,"peak":0.09,"km2":93000,"tier":3},
+  {"id":"lower-egypt","name":"Lower Egypt","from":-2200,"to":-2001,"peak":0.07,"km2":74000,"tier":3},
+  {"id":"upper-egypt","name":"Upper Egypt","from":-2200,"to":-2001,"peak":0.02,"km2":20000,"tier":3,"inside":true},
+  {"id":"middle-kingdom-of-egypt","name":"Middle Kingdom of Egypt","from":-2000,"to":-1601,"peak":0.43,"km2":427000,"tier":2},
+  {"id":"hyksos","name":"Hyksos","from":-1600,"to":-1501,"peak":0.07,"km2":69000,"tier":3},
+  {"id":"seventeenth-dynasty-of-egypt","name":"Seventeenth Dynasty of Egypt","from":-1600,"to":-1501,"peak":0.03,"km2":35000,"tier":3,"inside":true},
+  {"id":"fifteenth-dynasty-of-egypt","name":"Fifteenth Dynasty of Egypt","from":-1600,"to":-1501,"peak":0.03,"km2":34000,"tier":3,"inside":true},
+  {"id":"sixteenth-dynasty-of-egypt","name":"Sixteenth Dynasty of Egypt","from":-1600,"to":-1501,"peak":0.02,"km2":25000,"tier":3,"inside":true},
+  {"id":"new-kingdom-of-egypt","name":"New Kingdom of Egypt","from":-1500,"to":-801,"peak":0.5,"km2":505000,"tier":1}
+],
+ "events":[
+  {"id":"Q253155","name":"Egyptian–Hittite peace treaty","year":-1259,"type":"treaty","links":30,"by":"location","wiki":"Egyptian–Hittite peace treaty"}
+]}

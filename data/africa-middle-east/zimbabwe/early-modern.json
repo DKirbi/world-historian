@@ -1,0 +1,4 @@
+{"lane": "zimbabwe", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"kingdom-of-mutapa","name":"Kingdom of Mutapa","from":1430,"to":1760,"tier":2,"extent":"unknown","cited":"wikidata"}
+]}

@@ -1,0 +1,24 @@
+{"lane": "iran", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"timurid-empire-1375","name":"Timurid Empire","from":1385,"to":1506,"peak":1.0,"km2":1617000,"tier":1},
+  {"id":"aq-qoyunlu","name":"Aq Qoyunlu","from":1468,"to":1506,"peak":0.72,"km2":1162000,"tier":1},
+  {"id":"safavid-dynasty","name":"Safavid Dynasty","from":1502,"to":1726,"peak":1.0,"km2":1617000,"tier":1},
+  {"id":"shaybanids","name":"Shaybanids","from":1507,"to":1511,"peak":0.2,"km2":332000,"tier":2},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1588,"to":1608,"peak":0.18,"km2":291000,"tier":2},
+  {"id":"hotaki-dynasty","name":"Hotaki Dynasty","from":1718,"to":1737,"peak":0.83,"km2":1340000,"tier":1},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1727,"to":1733,"peak":0.14,"km2":227000,"tier":2},
+  {"id":"afsharid-iran","name":"Afsharid Iran","from":1734,"to":1756,"peak":0.99,"km2":1613000,"tier":1},
+  {"id":"zand-dynasty","name":"Zand Dynasty","from":1748,"to":1793,"peak":0.95,"km2":1543000,"tier":1},
+  {"id":"qajar-dynasty","name":"Qajar Dynasty","from":1788,"to":1894,"peak":0.99,"km2":1610000,"tier":1}
+],
+ "events":[
+  {"id":"Q745110","name":"Battle of Chaldiran","year":1514,"type":"battle","links":44,"by":"coordinates","wiki":"Battle of Chaldiran"},
+  {"id":"Q2578094","name":"Ottoman–Safavid War","year":1603,"type":"war","links":17,"by":"location","to":1618,"wiki":"Ottoman–Safavid war (1603–1612)"},
+  {"id":"Q2060524","name":"Treaty of Zuhab","year":1639,"type":"treaty","links":29,"by":"location","wiki":"Treaty of Zuhab"},
+  {"id":"Q3296937","name":"Battle of Gulnabad","year":1722,"type":"battle","links":16,"by":"location","wiki":"Battle of Gulnabad"},
+  {"id":"Q5913740","name":"Siege of Isfahan","year":1722,"type":"siege","links":12,"by":"coordinates","wiki":"Siege of Isfahan"},
+  {"id":"Q18089561","name":"Treaty of Hamedan","year":1727,"type":"treaty","links":13,"by":"location","wiki":"Treaty of Hamedan"},
+  {"id":"Q2888384","name":"Battle of Damghan","year":1729,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Damghan (1729)"},
+  {"id":"Q1964224","name":"Treaty of Rasht","year":1732,"type":"treaty","links":12,"by":"location","wiki":"Treaty of Resht"},
+  {"id":"Q875512","name":"Treaty of Turkmenchay","year":1828,"type":"treaty","links":49,"by":"location","wiki":"Treaty of Turkmenchay"}
+]}

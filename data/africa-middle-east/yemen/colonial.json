@@ -1,0 +1,8 @@
+{"lane": "yemen", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1870,"to":1968,"peak":0.67,"km2":301000,"tier":1,"realm":true},
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1870,"to":1889,"peak":0.66,"km2":298000,"tier":1},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1873,"to":1918,"peak":0.33,"km2":151000,"tier":2},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1890,"to":1968,"peak":0.66,"km2":298000,"tier":1},
+  {"id":"north-yemen","name":"North Yemen","from":1919,"to":1989,"peak":0.33,"km2":150000,"tier":2}
+]}

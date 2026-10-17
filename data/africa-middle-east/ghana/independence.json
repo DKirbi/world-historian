@@ -1,0 +1,6 @@
+{"lane": "ghana", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1890,"to":1957,"peak":0.99,"km2":235000,"tier":1,"realm":true},
+  {"id":"british-gold-coast","name":"British Gold Coast","from":1890,"to":1959,"peak":0.99,"km2":235000,"tier":1},
+  {"id":"ghana","name":"Ghana","from":1958,"to":2024,"peak":0.99,"km2":236000,"tier":1}
+]}

@@ -1,0 +1,9 @@
+{"lane": "mozambique", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"estado-novo","name":"Estado Novo","from":1926,"to":1975,"peak":0.97,"km2":765000,"tier":1},
+  {"id":"mozambique","name":"Mozambique","from":1976,"to":2024,"peak":0.97,"km2":765000,"tier":1}
+],
+ "events":[
+  {"id":"Q2002270","name":"Mozambican War of Independence","year":1964,"type":"war","links":36,"by":"location","to":1974,"wiki":"Mozambican War of Independence"},
+  {"id":"Q3924288","name":"Maputo Protocol","year":2003,"type":"treaty","links":25,"by":"location","wiki":"Maputo Protocol"}
+]}

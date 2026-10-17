@@ -1,0 +1,11 @@
+{"lane": "nigeria", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1885,"to":1960,"peak":0.99,"km2":902000,"tier":1,"realm":true},
+  {"id":"british-gold-coast","name":"British Gold Coast","from":1885,"to":1960,"peak":0.99,"km2":902000,"tier":1},
+  {"id":"federal-republic-of-nigeria","name":"Federal Republic of Nigeria","from":1961,"to":2024,"peak":0.99,"km2":900000,"tier":1}
+],
+ "events":[
+  {"id":"Q16205928","name":"1966 Nigerian coup d'etat","year":1966,"type":"coup","links":12,"by":"coordinates","wiki":"1966 Nigerian coup d'état"},
+  {"id":"Q829875","name":"Nigerian Civil War","year":1967,"type":"war","links":53,"by":"location","to":1970,"wiki":"Nigerian Civil War"},
+  {"id":"Q1569328","name":"Boko Haram insurgency","year":2009,"type":"rebellion","links":29,"by":"location","wiki":"Boko Haram insurgency"}
+]}

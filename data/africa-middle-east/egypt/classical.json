@@ -1,0 +1,25 @@
+{"lane": "egypt", "period": "classical", "years": [-539, 631], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-kush","name":"Kingdom of Kush","from":-1000,"to":346,"peak":0.29,"km2":287000,"tier":2},
+  {"id":"twenty-sixth-dynasty-of-egypt","name":"Twenty-sixth Dynasty of Egypt","from":-615,"to":-501,"peak":0.44,"km2":445000,"tier":2},
+  {"id":"achaemenid-empire","name":"Achaemenid Empire","from":-500,"to":-332,"peak":0.63,"km2":627000,"tier":1},
+  {"id":"thirtieth-dynasty-of-egypt","name":"Thirtieth Dynasty of Egypt","from":-383,"to":-338,"peak":0.57,"km2":573000,"tier":1},
+  {"id":"ptolemaic-kingdom","name":"Ptolemaic Kingdom","from":-331,"to":-324,"peak":0.54,"km2":537000,"tier":1},
+  {"id":"macedonian-empire","name":"Macedonian Empire","from":-323,"to":-308,"peak":0.54,"km2":536000,"tier":1},
+  {"id":"ptolemaic-kingdom","name":"Ptolemaic Kingdom","from":-307,"to":-171,"peak":0.56,"km2":557000,"tier":1},
+  {"id":"ankhwennefer","name":"Ankhwennefer","from":-197,"to":-171,"peak":0.17,"km2":172000,"tier":2},
+  {"id":"seleucid-empire","name":"Seleucid Empire","from":-170,"to":-165,"peak":0.52,"km2":517000,"tier":1},
+  {"id":"ptolemaic-kingdom","name":"Ptolemaic Kingdom","from":-164,"to":-28,"peak":0.56,"km2":556000,"tier":1},
+  {"id":"nabataeans","name":"Nabataeans","from":-63,"to":-28,"peak":0.05,"km2":50000,"tier":3},
+  {"id":"roman-empire","name":"Roman Empire","from":-27,"to":394,"peak":0.6,"km2":597000,"tier":1},
+  {"id":"palmyrene-empire","name":"Palmyrene Empire","from":261,"to":269,"peak":0.48,"km2":480000,"tier":2},
+  {"id":"nobatia","name":"Nobatia","from":347,"to":655,"peak":0.06,"km2":61000,"tier":3},
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":395,"to":622,"peak":0.6,"km2":597000,"tier":1},
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":623,"to":628,"peak":0.6,"km2":597000,"tier":1},
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":629,"to":632,"peak":0.6,"km2":597000,"tier":1}
+],
+ "events":[
+  {"id":"Q544239","name":"Battle of Pelusium","year":-525,"type":"battle","links":24,"by":"coordinates","wiki":"Battle of Pelusium"},
+  {"id":"Q1975400","name":"Battle of the Nile","year":-47,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of the Nile (47 BC)"},
+  {"id":"Q16208146","name":"Siege of Alexandria","year":-47,"type":"siege","links":16,"by":"coordinates","wiki":"Siege of Alexandria (47 BC)"}
+]}

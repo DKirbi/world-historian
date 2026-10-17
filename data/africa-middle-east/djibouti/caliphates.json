@@ -1,0 +1,5 @@
+{"lane": "djibouti", "period": "caliphates", "years": [632, 1499], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ifat-sultanate","name":"Ifat Sultanate","from":1285,"to":1414,"peak":0.66,"km2":14000,"tier":1},
+  {"id":"adal-sultanate","name":"Adal Sultanate","from":1415,"to":1546,"peak":1.0,"km2":22000,"tier":1}
+]}

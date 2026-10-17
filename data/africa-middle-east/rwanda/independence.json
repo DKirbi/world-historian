@@ -1,0 +1,13 @@
+{"lane": "rwanda", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"kingdom-of-rwanda","name":"Kingdom of Rwanda","from":1401,"to":1962,"tier":2,"extent":"unknown","cited":"wikipedia","approx":true},
+  {"id":"belgian-congo","name":"Belgian Congo","from":1916,"to":1962,"peak":0.93,"km2":23000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1917,"to":1960,"peak":0.08,"km2":2000,"tier":3,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1917,"to":1960,"peak":0.08,"km2":2000,"tier":3},
+  {"id":"tanzania","name":"Tanzania","from":1961,"to":2024,"peak":0.07,"km2":2000,"tier":3},
+  {"id":"republic-of-rwanda","name":"Republic of Rwanda","from":1963,"to":2024,"peak":0.91,"km2":23000,"tier":1}
+],
+ "events":[
+  {"id":"Q426722","name":"Rwandan Civil War","year":1990,"type":"war","links":36,"by":"location","to":1993,"wiki":"Rwandan Civil War"},
+  {"id":"Q50822331","name":"African Continental Free Trade Agreement","year":2018,"type":"treaty","links":18,"by":"coordinates"}
+]}

@@ -1,0 +1,4 @@
+{"lane": "south-sudan", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"khedivate-of-egypt","name":"Khedivate of Egypt","from":1877,"to":1884,"peak":0.79,"km2":493000,"tier":1}
+]}

@@ -1,0 +1,11 @@
+{"lane": "central-african-republic", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"french-africa","name":"French Africa","from":1943,"to":1957,"peak":0.99,"km2":614000,"tier":1},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1957,"peak":0.99,"km2":614000,"tier":1,"realm":true},
+  {"id":"french-fifth-republic","name":"French Fifth Republic","from":1958,"to":1960,"peak":0.99,"km2":614000,"tier":1},
+  {"id":"central-african-republic","name":"Central African Republic","from":1961,"to":2024,"peak":0.99,"km2":611000,"tier":1}
+],
+ "events":[
+  {"id":"Q3118963","name":"Central African Republic Bush War","year":2004,"type":"war","links":17,"by":"location","to":2007,"wiki":"Central African Bush War"},
+  {"id":"Q3411181","name":"Central African Republic Civil War","year":2012,"type":"war","links":28,"by":"coordinates","to":2013,"wiki":"Central African Republic Civil War"}
+]}

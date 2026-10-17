@@ -1,0 +1,22 @@
+{"lane": "saudi-arabia", "period": "caliphates", "years": [632, 1499], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"lakhmid-kingdom","name":"Lakhmid Kingdom","from":629,"to":633,"peak":0.07,"km2":131000,"tier":2},
+  {"id":"ghassanids","name":"Ghassanids","from":629,"to":633,"peak":0.06,"km2":119000,"tier":2},
+  {"id":"rashidun-caliphate","name":"Rashidun Caliphate","from":633,"to":665,"peak":1.0,"km2":1917000,"tier":1},
+  {"id":"umayyad-caliphate","name":"Umayyad Caliphate","from":666,"to":750,"peak":1.0,"km2":1917000,"tier":1},
+  {"id":"abbasid-caliphate-750","name":"Abbasid Caliphate","from":751,"to":969,"peak":1.0,"km2":1917000,"tier":1},
+  {"id":"fatimid-caliphate","name":"Fatimid Caliphate","from":970,"to":1098,"peak":0.3,"km2":572000,"tier":2},
+  {"id":"qarmatians","name":"Qarmatians","from":980,"to":1071,"peak":0.0,"km2":5000,"tier":3,"inside":true},
+  {"id":"hamdanid-emirates","name":"Hamdanid Emirates","from":1028,"to":1055,"peak":0.07,"km2":141000,"tier":2},
+  {"id":"ayyubid-sultanate","name":"Ayyubid Sultanate","from":1177,"to":1249,"peak":0.27,"km2":525000,"tier":2},
+  {"id":"mamluk-sultanate","name":"Mamluk Sultanate","from":1250,"to":1518,"peak":0.27,"km2":525000,"tier":2}
+],
+ "events":[
+  {"id":"Q2456292","name":"Battle of Yamama","year":632,"type":"battle","links":28,"by":"coordinates","wiki":"Battle of al-Yamama"},
+  {"id":"Q3696185","name":"Battle of Buzakha","year":632,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Buzakha"},
+  {"id":"Q3625539","name":"Siege of Uthman","year":656,"type":"siege","links":16,"by":"coordinates","wiki":"Assassination of Uthman"},
+  {"id":"Q514382","name":"Battle of al-Harrah","year":683,"type":"battle","links":18,"by":"coordinates","wiki":"Battle of al-Harra"},
+  {"id":"Q3023525","name":"Siege of Mecca","year":683,"type":"siege","links":15,"by":"coordinates","wiki":"Siege of Mecca (683)"},
+  {"id":"Q17019401","name":"Siege of Mecca","year":692,"type":"siege","links":15,"by":"coordinates","wiki":"Siege of Mecca (692)"},
+  {"id":"Q6403042","name":"Battle of Fakhkh","year":786,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Fakhkh"}
+]}

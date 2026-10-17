@@ -1,0 +1,15 @@
+{"lane": "ethiopia", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ethiopian-empire","name":"Ethiopian Empire","from":1272,"to":1935,"peak":0.99,"km2":1118000,"tier":1},
+  {"id":"italian-africa","name":"Italian Africa","from":1936,"to":1940,"peak":1.0,"km2":1122000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1941,"to":1941,"peak":1.0,"km2":1124000,"tier":1,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1941,"to":1941,"peak":1.0,"km2":1124000,"tier":1},
+  {"id":"ethiopia","name":"Ethiopia","from":1942,"to":2024,"peak":0.99,"km2":1120000,"tier":1}
+],
+ "events":[
+  {"id":"Q1398069","name":"Battle of Amba Alagi","year":1895,"type":"battle","links":17,"by":"coordinates","wiki":"Battle of Amba Alagi (1895)"},
+  {"id":"Q302519","name":"Battle of Adwa","year":1896,"type":"battle","links":45,"by":"coordinates","wiki":"Battle of Adwa"},
+  {"id":"Q2399119","name":"Treaty of Addis Ababa","year":1896,"type":"treaty","links":16,"by":"location","wiki":"Treaty of Addis Ababa"},
+  {"id":"Q94916","name":"Second Italo-Ethiopian War","year":1935,"type":"war","links":57,"by":"location","to":1937,"wiki":"Second Italo-Ethiopian War"},
+  {"id":"Q1970141","name":"Battle of Gondar","year":1941,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Gondar"}
+]}

@@ -1,0 +1,13 @@
+{"lane": "kuwait", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1780,"to":1914,"peak":0.96,"km2":17000,"tier":1},
+  {"id":"sultanate-of-muscat-and-oman","name":"Sultanate of Muscat and Oman","from":1900,"to":1921,"peak":0.33,"km2":6000,"tier":2},
+  {"id":"british-empire","name":"British Empire","from":1915,"to":1960,"peak":0.78,"km2":13000,"tier":1,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1922,"to":1931,"peak":0.78,"km2":13000,"tier":1},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1932,"to":1944,"peak":0.73,"km2":13000,"tier":1},
+  {"id":"kingdom-of-iraq","name":"Kingdom of Iraq","from":1932,"to":1942,"peak":0.05,"km2":1000,"tier":3},
+  {"id":"british-africa","name":"British Africa","from":1943,"to":1945,"peak":0.78,"km2":13000,"tier":1},
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1946,"to":1946,"peak":0.78,"km2":13000,"tier":1},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1947,"to":1968,"peak":0.73,"km2":13000,"tier":1},
+  {"id":"kingdom-of-iraq","name":"Kingdom of Iraq","from":1947,"to":1957,"peak":0.05,"km2":1000,"tier":3}
+]}

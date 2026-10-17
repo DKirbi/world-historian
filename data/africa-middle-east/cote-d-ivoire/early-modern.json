@@ -1,0 +1,4 @@
+{"lane": "cote-d-ivoire", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ashanti-empire","name":"Ashanti Empire","from":1744,"to":1894,"peak":0.1,"km2":32000,"tier":3}
+]}

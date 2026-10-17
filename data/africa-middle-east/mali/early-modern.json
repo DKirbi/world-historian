@@ -1,0 +1,13 @@
+{"lane": "mali", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"mali-empire","name":"Mali Empire","from":1236,"to":1611,"peak":0.4,"km2":503000,"tier":2},
+  {"id":"songhai-empire","name":"Songhai Empire","from":1463,"to":1594,"peak":0.34,"km2":421000,"tier":2},
+  {"id":"saadi-sultanate","name":"Saadi Sultanate","from":1595,"to":1599,"peak":0.23,"km2":288000,"tier":2},
+  {"id":"songhai-empire","name":"Songhai Empire","from":1595,"to":1608,"peak":0.0,"km2":200,"tier":3,"inside":true},
+  {"id":"bamana-empire","name":"Bamana Empire","from":1713,"to":1756,"peak":0.03,"km2":35000,"tier":3,"inside":true},
+  {"id":"bamana-empire","name":"Bamana Empire","from":1769,"to":1802,"peak":0.03,"km2":35000,"tier":3,"inside":true},
+  {"id":"bamana-empire","name":"Bamana Empire","from":1803,"to":1819,"peak":0.08,"km2":105000,"tier":2},
+  {"id":"massina-empire","name":"Massina Empire","from":1822,"to":1861,"peak":0.08,"km2":105000,"tier":2},
+  {"id":"french-third-republic","name":"French Third Republic","from":1880,"to":1939,"peak":1.0,"km2":1254000,"tier":1,"realm":true},
+  {"id":"french-africa","name":"French Africa","from":1880,"to":1957,"peak":1.0,"km2":1254000,"tier":1}
+]}

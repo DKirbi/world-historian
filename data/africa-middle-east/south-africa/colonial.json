@@ -1,0 +1,25 @@
+{"lane": "south-africa", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1806,"to":1931,"peak":0.99,"km2":1210000,"tier":1,"realm":true},
+  {"id":"zululand","name":"Zululand","from":1820,"to":1897,"peak":0.02,"km2":26000,"tier":3,"inside":true},
+  {"id":"natalia-republic","name":"Natalia Republic","from":1840,"to":1910,"peak":0.05,"km2":61000,"tier":3},
+  {"id":"free-orange-state","name":"Free Orange State","from":1856,"to":1899,"peak":0.11,"km2":133000,"tier":2},
+  {"id":"british-africa","name":"British Africa","from":1885,"to":1931,"peak":0.99,"km2":1210000,"tier":1},
+  {"id":"south-african-republic","name":"South African Republic","from":1885,"to":1899,"peak":0.24,"km2":298000,"tier":2},
+  {"id":"south-africa","name":"South Africa","from":1932,"to":2024,"peak":0.98,"km2":1200000,"tier":1}
+],
+ "events":[
+  {"id":"Q916340","name":"Jameson Raid","year":1895,"type":"coup","links":21,"by":"location","to":1896,"wiki":"Jameson Raid"},
+  {"id":"Q215112","name":"Second Boer War","year":1899,"type":"war","links":66,"by":"location","to":1902,"wiki":"Second Boer War"},
+  {"id":"Q1676845","name":"Boer Wars","year":1899,"type":"war","links":40,"by":"coordinates","wiki":"Boer Wars"},
+  {"id":"Q2090584","name":"Siege of Mafeking","year":1899,"type":"siege","links":19,"by":"coordinates","to":1900,"wiki":"Siege of Mafeking"},
+  {"id":"Q1388058","name":"Battle of Magersfontein","year":1899,"type":"battle","links":17,"by":"coordinates","wiki":"Battle of Magersfontein"},
+  {"id":"Q2543997","name":"Siege of Ladysmith","year":1899,"type":"siege","links":16,"by":"coordinates","to":1900,"wiki":"Siege of Ladysmith"},
+  {"id":"Q431849","name":"Battle of Stormberg","year":1899,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Stormberg"},
+  {"id":"Q868249","name":"Battle of Colenso","year":1899,"type":"battle","links":14,"by":"coordinates","wiki":"Second Battle of Colenso"},
+  {"id":"Q1072592","name":"Battle of Spion Kop","year":1900,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Spion Kop"},
+  {"id":"Q2237713","name":"Battle of Paardeberg","year":1900,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Paardeberg"},
+  {"id":"Q927606","name":"Treaty of Vereeniging","year":1902,"type":"treaty","links":21,"by":"location","wiki":"Treaty of Vereeniging"},
+  {"id":"Q3274751","name":"Bambatha Rebellion","year":1906,"type":"rebellion","links":12,"by":"location","wiki":"Bambatha Rebellion"},
+  {"id":"Q767368","name":"Maritz Rebellion","year":1914,"type":"rebellion","links":23,"by":"coordinates","to":1915,"wiki":"Maritz rebellion"}
+]}

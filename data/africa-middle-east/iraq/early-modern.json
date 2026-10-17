@@ -1,0 +1,20 @@
+{"lane": "iraq", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"aq-qoyunlu","name":"Aq Qoyunlu","from":1440,"to":1511,"peak":0.63,"km2":276000,"tier":1},
+  {"id":"safavid-dynasty","name":"Safavid Dynasty","from":1507,"to":1533,"peak":0.63,"km2":276000,"tier":1},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1534,"to":1918,"peak":0.64,"km2":280000,"tier":1},
+  {"id":"safavid-dynasty","name":"Safavid Dynasty","from":1609,"to":1611,"peak":0.45,"km2":196000,"tier":2},
+  {"id":"safavid-dynasty","name":"Safavid Dynasty","from":1626,"to":1639,"peak":0.46,"km2":202000,"tier":2},
+  {"id":"emirate-of-diriyah","name":"Emirate of Diriyah","from":1805,"to":1819,"peak":0.16,"km2":69000,"tier":3}
+],
+ "events":[
+  {"id":"Q700841","name":"Ottoman-Safavid War","year":1532,"type":"war","links":29,"by":"location","to":1555,"wiki":"Ottoman–Safavid War (1532–1555)"},
+  {"id":"Q5036982","name":"Capture of Baghdad","year":1534,"type":"siege","links":14,"by":"coordinates","wiki":"Capture of Baghdad (1534)"},
+  {"id":"Q701644","name":"Ottoman–Safavid War","year":1578,"type":"war","links":20,"by":"location","to":1590,"wiki":"Ottoman–Safavid War (1578–1590)"},
+  {"id":"Q2578094","name":"Ottoman–Safavid War","year":1603,"type":"war","links":17,"by":"location","to":1618,"wiki":"Ottoman–Safavid war (1603–1612)"},
+  {"id":"Q163476","name":"Ottoman–Safavid War","year":1623,"type":"war","links":21,"by":"location","to":1639,"wiki":"Ottoman–Safavid War (1623–1639)"},
+  {"id":"Q5036981","name":"Capture of Baghdad (1638)","year":1638,"type":"siege","links":14,"by":"coordinates","wiki":"Siege of Baghdad (1638)"},
+  {"id":"Q4465891","name":"Ottoman–Persian War of 1743–46","year":1743,"type":"war","links":13,"by":"location","to":1746,"wiki":"Ottoman–Persian War (1743–1746)"},
+  {"id":"Q6077256","name":"Ottoman–Persian War","year":1775,"type":"war","links":14,"by":"location","to":1776,"wiki":"Ottoman–Persian War (1776–1779)"},
+  {"id":"Q132555025","name":"Siege of Baghdad","year":1821,"type":"siege","links":16,"by":"location","wiki":"Siege of Baghdad (1821)"}
+]}

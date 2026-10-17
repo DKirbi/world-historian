@@ -1,0 +1,10 @@
+{"lane": "lebanon", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"mamluk-sultanate","name":"Mamluk Sultanate","from":1272,"to":1518,"peak":0.9,"km2":9000,"tier":1},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1519,"to":1833,"peak":0.9,"km2":9000,"tier":1},
+  {"id":"muhammad-ali-dynasty","name":"Muhammad Ali dynasty","from":1834,"to":1841,"peak":0.89,"km2":9000,"tier":1},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1842,"to":1917,"peak":0.9,"km2":9000,"tier":1}
+],
+ "events":[
+  {"id":"Q3772246","name":"1860 civil conflict in Mount Lebanon and Damascus","year":1860,"type":"war","links":21,"by":"location","wiki":"1860 civil conflict in Mount Lebanon and Damascus"}
+]}

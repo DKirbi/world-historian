@@ -1,0 +1,24 @@
+{"lane": "morocco", "period": "caliphates", "years": [632, 1499], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"umayyad-caliphate","name":"Umayyad Caliphate","from":692,"to":749,"peak":0.55,"km2":319000,"tier":1},
+  {"id":"emirate-of-nekor","name":"Emirate of Nekor","from":750,"to":1027,"peak":0.01,"km2":7000,"tier":3,"inside":true},
+  {"id":"idrisids","name":"Idrisids","from":793,"to":921,"peak":0.29,"km2":166000,"tier":2},
+  {"id":"barghawata-conference","name":"Barghawata Conference","from":793,"to":1065,"peak":0.06,"km2":36000,"tier":3},
+  {"id":"fatimid-caliphate","name":"Fatimid Caliphate","from":922,"to":925,"peak":0.29,"km2":166000,"tier":2},
+  {"id":"idrisids","name":"Idrisids","from":926,"to":935,"peak":0.29,"km2":166000,"tier":2},
+  {"id":"fatimid-caliphate","name":"Fatimid Caliphate","from":936,"to":946,"peak":0.29,"km2":166000,"tier":2},
+  {"id":"idrisids","name":"Idrisids","from":947,"to":979,"peak":0.29,"km2":166000,"tier":2},
+  {"id":"caliphate-of-cordoba","name":"Caliphate of Córdoba","from":980,"to":1014,"peak":0.29,"km2":166000,"tier":2},
+  {"id":"almoravid-dynasty","name":"Almoravid Dynasty","from":1056,"to":1151,"peak":0.96,"km2":560000,"tier":1},
+  {"id":"taifa-of-ceuta","name":"Taifa of Ceuta","from":1066,"to":1084,"peak":0.0,"km2":1000,"tier":3,"inside":true},
+  {"id":"almohad-caliphate","name":"Almohad Caliphate","from":1139,"to":1249,"peak":0.63,"km2":364000,"tier":1},
+  {"id":"marinid-sultanate-1250","name":"Marinid Sultanate","from":1250,"to":1259,"peak":0.63,"km2":364000,"tier":1},
+  {"id":"almohad-caliphate","name":"Almohad Caliphate","from":1260,"to":1343,"peak":0.63,"km2":364000,"tier":1},
+  {"id":"marinid-sultanate-1344","name":"Marinid Sultanate","from":1344,"to":1467,"peak":0.63,"km2":364000,"tier":1},
+  {"id":"wattasid-dynasty","name":"Wattasid dynasty","from":1468,"to":1555,"peak":0.62,"km2":363000,"tier":1}
+],
+ "events":[
+  {"id":"Q981031","name":"First Siege of Gibraltar","year":1309,"type":"siege","links":12,"by":"coordinates","wiki":"First siege of Gibraltar"},
+  {"id":"Q1792643","name":"Battle of Río Salado","year":1340,"type":"battle","links":22,"by":"coordinates","wiki":"Battle of Río Salado"},
+  {"id":"Q2888296","name":"Conquest of Ceuta","year":1415,"type":"battle","links":20,"by":"coordinates","wiki":"Portuguese conquest of Ceuta"}
+]}

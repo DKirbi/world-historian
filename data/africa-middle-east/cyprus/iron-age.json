@@ -1,0 +1,13 @@
+{"lane": "cyprus", "period": "iron-age", "years": [-1200, -540], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"greek-dark-ages","name":"Greek Dark Ages","from":-1000,"to":-801,"peak":1.0,"km2":9000,"tier":1},
+  {"id":"greek-city-states","name":"Greek City-States","from":-800,"to":-701,"peak":0.78,"km2":7000,"tier":1},
+  {"id":"phoenician-empire","name":"Phoenician Empire","from":-800,"to":-701,"peak":0.2,"km2":2000,"tier":2,"realm":true},
+  {"id":"phoenicia","name":"Phoenicia","from":-800,"to":-676,"peak":0.2,"km2":2000,"tier":2},
+  {"id":"neo-assyrian-empire","name":"Neo-Assyrian Empire","from":-700,"to":-616,"peak":1.0,"km2":9000,"tier":1},
+  {"id":"greek-city-states","name":"Greek City-States","from":-650,"to":-551,"peak":0.78,"km2":7000,"tier":1},
+  {"id":"phoenician-empire","name":"Phoenician Empire","from":-650,"to":-531,"peak":0.2,"km2":2000,"tier":2,"realm":true},
+  {"id":"phoenician-colonies","name":"Phoenician Colonies","from":-650,"to":-616,"peak":0.2,"km2":2000,"tier":2},
+  {"id":"phoenicia","name":"Phoenicia","from":-615,"to":-531,"peak":0.2,"km2":2000,"tier":2},
+  {"id":"twenty-sixth-dynasty-of-egypt","name":"Twenty-sixth Dynasty of Egypt","from":-550,"to":-501,"peak":1.0,"km2":9000,"tier":1}
+]}

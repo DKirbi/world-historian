@@ -1,0 +1,32 @@
+{"lane": "iraq", "period": "classical", "years": [-539, 631], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"neo-babylonian-empire","name":"Neo-Babylonian Empire","from":-600,"to":-531,"peak":0.55,"km2":243000,"tier":1},
+  {"id":"achaemenid-empire","name":"Achaemenid Empire","from":-550,"to":-327,"peak":0.62,"km2":271000,"tier":1},
+  {"id":"ptolemaic-kingdom","name":"Ptolemaic Kingdom","from":-326,"to":-324,"peak":0.62,"km2":271000,"tier":1},
+  {"id":"macedonian-empire","name":"Macedonian Empire","from":-323,"to":-302,"peak":0.62,"km2":272000,"tier":1,"realm":true},
+  {"id":"seleucid-empire","name":"Seleucid Empire","from":-307,"to":-127,"peak":0.61,"km2":267000,"tier":1},
+  {"id":"parthian-empire","name":"Parthian Empire","from":-144,"to":116,"peak":0.62,"km2":271000,"tier":1},
+  {"id":"roman-empire","name":"Roman Empire","from":117,"to":126,"peak":0.62,"km2":271000,"tier":1},
+  {"id":"parthian-empire","name":"Parthian Empire","from":127,"to":237,"peak":0.61,"km2":266000,"tier":1},
+  {"id":"roman-empire","name":"Roman Empire","from":165,"to":183,"peak":0.12,"km2":51000,"tier":3},
+  {"id":"roman-empire","name":"Roman Empire","from":197,"to":206,"peak":0.12,"km2":52000,"tier":3},
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":238,"to":637,"peak":1.0,"km2":437000,"tier":1},
+  {"id":"lakhmid-kingdom","name":"Lakhmid Kingdom","from":270,"to":601,"peak":0.27,"km2":119000,"tier":2},
+  {"id":"ghassanids","name":"Ghassanids","from":510,"to":616,"peak":0.12,"km2":52000,"tier":3},
+  {"id":"lakhmid-kingdom","name":"Lakhmid Kingdom","from":629,"to":633,"peak":0.27,"km2":119000,"tier":2}
+],
+ "events":[
+  {"id":"Q28169617","name":"Fall of Babylon","year":-539,"type":"battle","links":20,"by":"coordinates","wiki":"Fall of Babylon"},
+  {"id":"Q3434300","name":"Battle of Opis","year":-539,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Opis"},
+  {"id":"Q431205","name":"Battle of Cunaxa","year":-401,"type":"battle","links":32,"by":"coordinates","wiki":"Battle of Cunaxa"},
+  {"id":"Q179670","name":"Battle of Gaugamela","year":-331,"type":"battle","links":64,"by":"coordinates","wiki":"Battle of Gaugamela"},
+  {"id":"Q2334699","name":"Antony's Parthian War","year":-36,"type":"campaign","links":17,"by":"location","wiki":"Antony's Atropatene campaign"},
+  {"id":"Q1583991","name":"Battle of Misiche","year":244,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Misiche"},
+  {"id":"Q2666515","name":"Battle of Singara","year":344,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Singara (344)"},
+  {"id":"Q1231697","name":"Driving car","year":363,"type":"battle","links":21,"by":"location","wiki":"Battle of Samarra (363)"},
+  {"id":"Q767124","name":"Battle of Ctesiphon","year":363,"type":"battle","links":17,"by":"coordinates","wiki":"Battle of Ctesiphon (363)"},
+  {"id":"Q1229305","name":"Julian's Persian expedition","year":363,"type":"campaign","links":12,"by":"location","wiki":"Julian's Persian expedition"},
+  {"id":"Q2320020","name":"Byzantine–Sassanid War of 572–591","year":572,"type":"war","links":19,"by":"location","to":591,"wiki":"Byzantine–Sasanian War of 572–591"},
+  {"id":"Q2888408","name":"Battle of Dhi Qar","year":609,"type":"battle","links":21,"by":"coordinates","wiki":"Battle of Dhu Qar"},
+  {"id":"Q755966","name":"Battle of Nineveh","year":627,"type":"battle","links":35,"by":"coordinates","wiki":"Battle of Nineveh (627)"}
+]}

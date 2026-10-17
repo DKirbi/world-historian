@@ -1,0 +1,10 @@
+{"lane": "benin", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"french-africa","name":"French Africa","from":1895,"to":1957,"peak":1.0,"km2":116000,"tier":1},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1957,"peak":1.0,"km2":116000,"tier":1,"realm":true},
+  {"id":"french-fifth-republic","name":"French Fifth Republic","from":1958,"to":1960,"peak":1.0,"km2":116000,"tier":1},
+  {"id":"republic-of-benin","name":"Republic of Benin","from":1961,"to":2024,"peak":0.98,"km2":114000,"tier":1}
+],
+ "events":[
+  {"id":"Q832200","name":"Cotonou Agreement","year":2000,"type":"treaty","links":23,"by":"coordinates","wiki":"Cotonou Agreement"}
+]}

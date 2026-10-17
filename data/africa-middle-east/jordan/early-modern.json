@@ -1,0 +1,8 @@
+{"lane": "jordan", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"mamluk-sultanate","name":"Mamluk Sultanate","from":1241,"to":1518,"peak":0.96,"km2":85000,"tier":1},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1519,"to":1833,"peak":0.86,"km2":76000,"tier":1},
+  {"id":"emirate-of-diriyah","name":"Emirate of Diriyah","from":1805,"to":1819,"peak":0.22,"km2":20000,"tier":2},
+  {"id":"muhammad-ali-dynasty","name":"Muhammad Ali dynasty","from":1834,"to":1841,"peak":0.86,"km2":76000,"tier":1},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1842,"to":1917,"peak":0.86,"km2":76000,"tier":1}
+]}

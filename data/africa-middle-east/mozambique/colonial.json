@@ -1,0 +1,11 @@
+{"lane": "mozambique", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-portugal-1640","name":"Kingdom of Portugal","from":1824,"to":1910,"peak":0.97,"km2":765000,"tier":1},
+  {"id":"portuguese-republic","name":"Portuguese Republic","from":1911,"to":1925,"peak":0.97,"km2":765000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1918,"to":1918,"peak":0.28,"km2":219000,"tier":2,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1918,"to":1918,"peak":0.28,"km2":219000,"tier":2},
+  {"id":"estado-novo","name":"Estado Novo","from":1926,"to":1975,"peak":0.97,"km2":765000,"tier":1}
+],
+ "events":[
+  {"id":"Q590195","name":"Battle of Ngomano","year":1917,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Ngomano"}
+]}

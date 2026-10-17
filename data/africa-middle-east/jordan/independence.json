@@ -1,0 +1,11 @@
+{"lane": "jordan", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-jordan","name":"Kingdom of Jordan","from":1947,"to":1957,"peak":0.98,"km2":87000,"tier":1},
+  {"id":"arab-federation","name":"Arab Federation","from":1958,"to":1959,"peak":0.98,"km2":87000,"tier":1},
+  {"id":"kingdom-of-jordan","name":"Kingdom of Jordan","from":1960,"to":2024,"peak":0.98,"km2":87000,"tier":1}
+],
+ "events":[
+  {"id":"Q1930278","name":"Battle of Karameh","year":1968,"type":"battle","links":24,"by":"coordinates","wiki":"Battle of Karameh"},
+  {"id":"Q154288","name":"Black September","year":1970,"type":"war","links":45,"by":"location","to":1971,"wiki":"Black September"},
+  {"id":"Q620988","name":"Israel–Jordan Treaty of Peace","year":1994,"type":"treaty","links":32,"by":"location","wiki":"Israel–Jordan peace treaty"}
+]}

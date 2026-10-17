@@ -1,0 +1,8 @@
+{"lane": "ethiopia", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ethiopian-empire","name":"Ethiopian Empire","from":1272,"to":1935,"peak":0.99,"km2":1118000,"tier":1},
+  {"id":"adal-sultanate","name":"Adal Sultanate","from":1415,"to":1546,"peak":0.35,"km2":395000,"tier":2}
+],
+ "events":[
+  {"id":"Q2915203","name":"Ethiopian–Adal War","year":1529,"type":"war","links":17,"by":"location","to":1543,"wiki":"Ethiopian–Adal War"}
+]}

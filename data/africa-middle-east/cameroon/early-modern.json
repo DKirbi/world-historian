@@ -1,0 +1,6 @@
+{"lane": "cameroon", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"bornu-empire","name":"Bornu Empire","from":1579,"to":1894,"peak":0.09,"km2":42000,"tier":3},
+  {"id":"sokoto-caliphate","name":"Sokoto Caliphate","from":1809,"to":1904,"peak":0.18,"km2":85000,"tier":3},
+  {"id":"german-africa","name":"German Africa","from":1871,"to":1884,"peak":0.0,"km2":2000,"tier":3,"inside":true}
+]}

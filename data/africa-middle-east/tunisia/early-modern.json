@@ -1,0 +1,14 @@
+{"lane": "tunisia", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"hafsid-dynasty","name":"Hafsid Dynasty","from":1363,"to":1571,"peak":0.56,"km2":88000,"tier":1},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1572,"to":1712,"peak":0.56,"km2":88000,"tier":1},
+  {"id":"beylik-of-tunis","name":"Beylik of Tunis","from":1706,"to":1884,"peak":0.55,"km2":87000,"tier":1},
+  {"id":"karamanli-dynasty","name":"Karamanli Dynasty","from":1713,"to":1793,"peak":0.06,"km2":9000,"tier":3}
+],
+ "events":[
+  {"id":"Q5245689","name":"Conquest of Tunis","year":1534,"type":"battle","links":14,"by":"location","wiki":"Conquest of Tunis (1534)"},
+  {"id":"Q700893","name":"Conquest of Tunis","year":1535,"type":"siege","links":24,"by":"coordinates","wiki":"Conquest of Tunis (1535)"},
+  {"id":"Q613478","name":"Battle of Djerba","year":1560,"type":"battle","links":25,"by":"coordinates","wiki":"Battle of Djerba"},
+  {"id":"Q2664371","name":"Conquest of Tunis","year":1574,"type":"siege","links":20,"by":"coordinates","wiki":"Conquest of Tunis (1574)"},
+  {"id":"Q808027","name":"Treaty of Bardo","year":1881,"type":"treaty","links":17,"by":"location","wiki":"Treaty of Bardo"}
+]}

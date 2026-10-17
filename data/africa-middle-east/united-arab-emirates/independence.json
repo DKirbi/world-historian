@@ -1,0 +1,6 @@
+{"lane": "united-arab-emirates", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1856,"to":1995,"peak":0.98,"km2":70000,"tier":1,"realm":true},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1895,"to":2023,"peak":0.98,"km2":70000,"tier":1},
+  {"id":"united-arab-emirates","name":"United Arab Emirates","from":1973,"to":2024,"peak":0.98,"km2":70000,"tier":1}
+]}

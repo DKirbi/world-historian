@@ -1,0 +1,13 @@
+{"lane": "chad", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"bornu-empire","name":"Bornu Empire","from":1487,"to":1894,"peak":0.11,"km2":141000,"tier":2},
+  {"id":"wadai-empire","name":"Wadai Empire","from":1636,"to":1910,"peak":0.22,"km2":276000,"tier":2},
+  {"id":"french-third-republic","name":"French Third Republic","from":1900,"to":1939,"peak":1.0,"km2":1266000,"tier":1,"realm":true},
+  {"id":"french-africa","name":"French Africa","from":1900,"to":1957,"peak":1.0,"km2":1266000,"tier":1},
+  {"id":"vichy-france","name":"Vichy France","from":1940,"to":1944,"peak":1.0,"km2":1266000,"tier":1,"realm":true},
+  {"id":"free-french","name":"Free French","from":1941,"to":1943,"peak":0.55,"km2":698000,"tier":1},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1957,"peak":1.0,"km2":1266000,"tier":1,"realm":true}
+],
+ "events":[
+  {"id":"Q1164601","name":"Battle of Kousséri","year":1900,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Kousséri"}
+]}

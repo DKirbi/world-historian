@@ -1,0 +1,7 @@
+{"lane": "western-sahara", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1890,"to":1931,"peak":0.99,"km2":90000,"tier":1,"realm":true},
+  {"id":"kingdom-of-spain-1640","name":"Kingdom of Spain","from":1890,"to":1931,"peak":0.99,"km2":90000,"tier":1},
+  {"id":"second-spanish-republic","name":"Second Spanish Republic","from":1932,"to":1938,"peak":0.99,"km2":90000,"tier":1},
+  {"id":"francoist-spain","name":"Francoist Spain","from":1939,"to":1975,"peak":0.99,"km2":90000,"tier":1}
+]}

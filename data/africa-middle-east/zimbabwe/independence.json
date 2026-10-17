@@ -1,0 +1,13 @@
+{"lane": "zimbabwe", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1890,"to":1968,"peak":0.99,"km2":385000,"tier":1,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1890,"to":1960,"peak":0.99,"km2":385000,"tier":1},
+  {"id":"british-east-africa","name":"British East Africa","from":1961,"to":1968,"peak":0.99,"km2":383000,"tier":1},
+  {"id":"rhodesia","name":"Rhodesia","from":1967,"to":1978,"peak":0.98,"km2":382000,"tier":1},
+  {"id":"zimbabwe-rhodesia","name":"Zimbabwe Rhodesia","from":1979,"to":1982,"peak":0.98,"km2":382000,"tier":1},
+  {"id":"republic-of-zimbabwe","name":"Republic of Zimbabwe","from":1983,"to":2024,"peak":0.98,"km2":382000,"tier":1}
+],
+ "events":[
+  {"id":"Q2444955","name":"Rhodesian Bush War","year":1964,"type":"war","links":35,"by":"location","to":1979,"wiki":"Rhodesian Bush War"},
+  {"id":"Q43172549","name":"2017 Zimbabwean coup d'état attempt","year":2017,"type":"coup","links":33,"by":"coordinates","wiki":"2017 Zimbabwean coup d'état"}
+]}

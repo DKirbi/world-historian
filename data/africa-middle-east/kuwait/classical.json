@@ -1,0 +1,11 @@
+{"lane": "kuwait", "period": "classical", "years": [-539, 631], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"neo-babylonian-empire","name":"Neo-Babylonian Empire","from":-600,"to":-531,"peak":0.27,"km2":5000,"tier":2},
+  {"id":"achaemenid-empire","name":"Achaemenid Empire","from":-530,"to":-327,"peak":0.27,"km2":5000,"tier":2},
+  {"id":"seleucid-empire","name":"Seleucid Empire","from":-307,"to":-145,"peak":0.27,"km2":5000,"tier":2},
+  {"id":"parthian-empire","name":"Parthian Empire","from":-144,"to":237,"peak":0.5,"km2":9000,"tier":1},
+  {"id":"roman-empire","name":"Roman Empire","from":117,"to":126,"peak":0.27,"km2":5000,"tier":2},
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":238,"to":633,"peak":1.0,"km2":17000,"tier":1},
+  {"id":"lakhmid-kingdom","name":"Lakhmid Kingdom","from":270,"to":601,"peak":0.51,"km2":9000,"tier":1},
+  {"id":"lakhmid-kingdom","name":"Lakhmid Kingdom","from":629,"to":633,"peak":0.51,"km2":9000,"tier":1}
+]}

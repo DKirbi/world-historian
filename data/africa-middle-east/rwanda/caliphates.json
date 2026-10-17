@@ -1,0 +1,4 @@
+{"lane": "rwanda", "period": "caliphates", "years": [632, 1499], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"kingdom-of-rwanda","name":"Kingdom of Rwanda","from":1401,"to":1962,"tier":2,"extent":"unknown","cited":"wikipedia","approx":true}
+]}

@@ -1,0 +1,11 @@
+{"lane": "djibouti", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"french-africa","name":"French Africa","from":1890,"to":1957,"peak":0.97,"km2":21000,"tier":1},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1957,"peak":0.93,"km2":20000,"tier":1,"realm":true},
+  {"id":"ethiopia","name":"Ethiopia","from":1953,"to":1991,"peak":0.08,"km2":2000,"tier":3},
+  {"id":"french-fifth-republic","name":"French Fifth Republic","from":1958,"to":2023,"peak":0.92,"km2":20000,"tier":1},
+  {"id":"republic-of-djibouti","name":"Republic of Djibouti","from":1979,"to":2024,"peak":0.94,"km2":20000,"tier":1}
+],
+ "events":[
+  {"id":"Q1354920","name":"Djiboutian–Eritrean border conflict","year":2008,"type":"war","links":19,"by":"coordinates","wiki":"Djiboutian–Eritrean border conflict"}
+]}

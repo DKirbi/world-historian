@@ -1,0 +1,4 @@
+{"lane": "eritrea", "period": "classical", "years": [-539, 631], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-axum","name":"Kingdom of Axum","from":-50,"to":946,"peak":0.29,"km2":35000,"tier":2}
+]}

@@ -1,0 +1,17 @@
+{"lane": "israel", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"state-of-israel","name":"State of Israel","from":1948,"to":2024,"peak":0.97,"km2":21000,"tier":1},
+  {"id":"arab-republic-of-egypt","name":"Arab Republic of Egypt","from":1983,"to":2024,"peak":0.06,"km2":1000,"tier":3}
+],
+ "events":[
+  {"id":"Q321851","name":"May 17 Agreement","year":1983,"type":"treaty","links":13,"by":"country","wiki":"May 17 Agreement"},
+  {"id":"Q49104","name":"2006 Lebanon War","year":2006,"type":"war","links":74,"by":"location","wiki":"2006 Lebanon War"},
+  {"id":"Q2363420","name":"2011 southern Israel cross-border attacks","year":2011,"type":"battle","links":14,"by":"coordinates","wiki":"2011 southern Israel cross-border attacks"},
+  {"id":"Q123036458","name":"Israeli invasion of the Gaza Strip","year":2023,"type":"invasion","links":21,"by":"coordinates","wiki":"Israeli invasion of the Gaza Strip"},
+  {"id":"Q122982851","name":"Israeli blockade of the Gaza Strip (2023–present)","year":2023,"type":"siege","links":20,"by":"location","wiki":"Israeli blockade of the Gaza Strip (2023–present)"},
+  {"id":"Q122972407","name":"Battle of Sderot","year":2023,"type":"battle","links":17,"by":"location","wiki":"Battle of Sderot"},
+  {"id":"Q122971969","name":"Battle of Re'im","year":2023,"type":"battle","links":16,"by":"location","wiki":"Battle of Re'im"},
+  {"id":"Q123014721","name":"Battle of Zikim","year":2023,"type":"battle","links":14,"by":"coordinates","wiki":"Zikim attack"},
+  {"id":"Q123059058","name":"Nahal Oz attack","year":2023,"type":"battle","links":14,"by":"coordinates","wiki":"Nahal Oz attack"},
+  {"id":"Q130388076","name":"2024 Lebanon War","year":2024,"type":"invasion","links":28,"by":"location","wiki":"2024 Lebanon war"}
+]}

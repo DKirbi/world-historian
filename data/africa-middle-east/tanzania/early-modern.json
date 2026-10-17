@@ -1,0 +1,6 @@
+{"lane": "tanzania", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"kilwa-sultanate","name":"Kilwa Sultanate","from":957,"to":1513,"tier":2,"extent":"unknown","cited":"wikidata"},
+  {"id":"omani-slave-coast","name":"Omani Slave Coast","from":1814,"to":1839,"peak":0.05,"km2":46000,"tier":3},
+  {"id":"people-s-republic-of-zanzibar","name":"People's Republic of Zanzibar","from":1856,"to":1889,"peak":0.02,"km2":21000,"tier":3,"inside":true}
+]}

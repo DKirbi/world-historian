@@ -1,0 +1,9 @@
+{"lane": "nigeria", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"hausa-kingdoms","name":"Hausa Kingdoms","from":801,"to":1808,"tier":2,"extent":"unknown","cited":"wikidata","approx":true},
+  {"id":"benin-empire","name":"Benin Empire","from":1170,"to":1897,"tier":2,"extent":"unknown","cited":"wikidata"},
+  {"id":"bornu-empire","name":"Bornu Empire","from":1487,"to":1808,"peak":0.1,"km2":90000,"tier":3},
+  {"id":"oyo-empire","name":"Oyo Empire","from":1609,"to":1733,"peak":0.05,"km2":43000,"tier":3},
+  {"id":"oyo-empire","name":"Oyo Empire","from":1734,"to":1819,"peak":0.05,"km2":48000,"tier":3},
+  {"id":"sokoto-caliphate","name":"Sokoto Caliphate","from":1805,"to":1904,"peak":0.65,"km2":591000,"tier":1}
+]}

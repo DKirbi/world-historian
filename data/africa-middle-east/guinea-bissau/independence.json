@@ -1,0 +1,11 @@
+{"lane": "guinea-bissau", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"estado-novo","name":"Estado Novo","from":1926,"to":1975,"peak":0.93,"km2":30000,"tier":1},
+  {"id":"republic-of-guinea-bissau","name":"Republic of Guinea-Bissau","from":1973,"to":2024,"peak":0.93,"km2":30000,"tier":1}
+],
+ "events":[
+  {"id":"Q2609193","name":"Guinea-Bissau War of Independence","year":1963,"type":"war","links":30,"by":"location","to":1974,"wiki":"Guinea-Bissau War of Independence"},
+  {"id":"Q1781457","name":"Bissau-Guinean Civil War","year":1998,"type":"war","links":19,"by":"location","to":1999,"wiki":"Guinea-Bissau Civil War"},
+  {"id":"Q621827","name":"2012 Guinea-Bissau coup d'état","year":2012,"type":"coup","links":13,"by":"coordinates","wiki":"2012 Guinea-Bissau coup d'état"},
+  {"id":"Q110778876","name":"2022 Guinea-Bissau coup d'état attempt","year":2022,"type":"coup","links":13,"by":"coordinates","wiki":"2022 Guinea-Bissau coup attempt"}
+]}

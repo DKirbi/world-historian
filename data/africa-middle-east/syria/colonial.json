@@ -1,0 +1,15 @@
+{"lane": "syria", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1519,"to":1918,"peak":1.0,"km2":185000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1918,"to":1919,"peak":0.83,"km2":155000,"tier":1,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1918,"to":1919,"peak":0.83,"km2":155000,"tier":1},
+  {"id":"french-third-republic","name":"French Third Republic","from":1920,"to":1923,"peak":0.99,"km2":184000,"tier":1,"realm":true},
+  {"id":"french-mandate-for-syria-and-lebanon","name":"French Mandate for Syria and Lebanon","from":1920,"to":1945,"peak":0.99,"km2":184000,"tier":1},
+  {"id":"second-syrian-republic","name":"Second Syrian Republic","from":1946,"to":1957,"peak":0.98,"km2":183000,"tier":1}
+],
+ "events":[
+  {"id":"Q239060","name":"Arab Revolt","year":1916,"type":"rebellion","links":56,"by":"location","to":1918,"wiki":"Arab Revolt"},
+  {"id":"Q5037002","name":"Capture of Damascus","year":1918,"type":"battle","links":12,"by":"coordinates","wiki":"Capture of Damascus (1918)"},
+  {"id":"Q994316","name":"Battle of Maysalun","year":1920,"type":"battle","links":27,"by":"coordinates","wiki":"Battle of Maysalun"},
+  {"id":"Q7509962","name":"Capture of Damascus","year":1920,"type":"battle","links":14,"by":"location","wiki":"1920 capture of Damascus"}
+]}

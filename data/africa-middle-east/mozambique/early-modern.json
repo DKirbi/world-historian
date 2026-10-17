@@ -1,0 +1,5 @@
+{"lane": "mozambique", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"portuguese-empire","name":"Portuguese Empire","from":1752,"to":1823,"peak":0.07,"km2":52000,"tier":3,"realm":true},
+  {"id":"kingdom-of-portugal-1640","name":"Kingdom of Portugal","from":1824,"to":1910,"peak":0.97,"km2":765000,"tier":1}
+]}

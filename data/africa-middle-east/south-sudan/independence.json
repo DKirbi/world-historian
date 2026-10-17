@@ -1,0 +1,8 @@
+{"lane": "south-sudan", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"republic-of-sudan","name":"Republic of Sudan","from":1956,"to":2013,"peak":1.0,"km2":619000,"tier":1},
+  {"id":"south-sudan","name":"South Sudan","from":2014,"to":2024,"peak":0.97,"km2":601000,"tier":1}
+],
+ "events":[
+  {"id":"Q15353665","name":"South Sudanese Civil War","year":2013,"type":"war","links":34,"by":"coordinates","to":2020,"wiki":"South Sudanese Civil War"}
+]}

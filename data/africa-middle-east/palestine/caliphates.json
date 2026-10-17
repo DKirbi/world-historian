@@ -1,0 +1,23 @@
+{"lane": "palestine", "period": "caliphates", "years": [632, 1499], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":629,"to":632,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":633,"to":637,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"rashidun-caliphate","name":"Rashidun Caliphate","from":638,"to":655,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"umayyad-caliphate","name":"Umayyad Caliphate","from":656,"to":750,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"abbasid-caliphate-750","name":"Abbasid Caliphate","from":751,"to":877,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"tulunids","name":"Tulunids","from":878,"to":910,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"abbasid-caliphate-750","name":"Abbasid Caliphate","from":911,"to":969,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"fatimid-caliphate","name":"Fatimid Caliphate","from":970,"to":1071,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"great-seljuk-empire","name":"Great Seljuk Empire","from":1072,"to":1098,"peak":0.94,"km2":6000,"tier":1},
+  {"id":"kingdom-of-jerusalem","name":"Kingdom of Jerusalem","from":1099,"to":1187,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"ayyubid-sultanate","name":"Ayyubid Sultanate","from":1188,"to":1240,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"kingdom-of-jerusalem","name":"Kingdom of Jerusalem","from":1192,"to":1271,"peak":0.28,"km2":2000,"tier":2},
+  {"id":"mamluk-sultanate","name":"Mamluk Sultanate","from":1241,"to":1518,"peak":0.97,"km2":6000,"tier":1}
+],
+ "events":[
+  {"id":"Q815154","name":"Siege of Jerusalem","year":636,"type":"siege","links":31,"by":"coordinates","to":637,"wiki":"First Muslim conquest of Jerusalem"},
+  {"id":"Q456993","name":"Siege of Jerusalem","year":1099,"type":"siege","links":49,"by":"coordinates","wiki":"Siege of Jerusalem (1099)"},
+  {"id":"Q815161","name":"Conquest of Jerusalem","year":1187,"type":"siege","links":43,"by":"coordinates","wiki":"Siege of Jerusalem (1187)"},
+  {"id":"Q13142258","name":"Treaty of Jaffa (1229)","year":1229,"type":"treaty","links":12,"by":"location","wiki":"Treaty of Jaffa (1229)"},
+  {"id":"Q3849563","name":"Siege of Jerusalem","year":1244,"type":"siege","links":27,"by":"coordinates","wiki":"Siege of Jerusalem (1244)"}
+]}

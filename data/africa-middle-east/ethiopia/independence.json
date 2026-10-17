@@ -1,0 +1,11 @@
+{"lane": "ethiopia", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ethiopia","name":"Ethiopia","from":1942,"to":2024,"peak":0.99,"km2":1120000,"tier":1}
+],
+ "events":[
+  {"id":"Q4569951","name":"1960 Ethiopian coup attempt","year":1960,"type":"coup","links":12,"by":"location","wiki":"1960 Ethiopian coup attempt"},
+  {"id":"Q257724","name":"Ethiopian Civil War","year":1974,"type":"war","links":41,"by":"coordinates","to":1991,"wiki":"Ethiopian Civil War"},
+  {"id":"Q318250","name":"Ogaden War","year":1977,"type":"war","links":46,"by":"location","to":1978,"wiki":"Ogaden War"},
+  {"id":"Q842380","name":"Second Sudanese Civil War","year":1983,"type":"war","links":37,"by":"location","to":2005,"wiki":"Second Sudanese Civil War"},
+  {"id":"Q64787084","name":"2019 Amhara Region coup d'état attempt","year":2019,"type":"coup","links":12,"by":"location","wiki":"Amhara Region coup attempt"}
+]}

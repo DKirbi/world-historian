@@ -1,0 +1,8 @@
+{"lane": "saudi-arabia", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-saudi-arabia","name":"Kingdom of Saudi Arabia","from":1936,"to":2024,"peak":0.99,"km2":1910000,"tier":1}
+],
+ "events":[
+  {"id":"Q718770","name":"Battle of Khafji","year":1991,"type":"battle","links":20,"by":"coordinates","wiki":"Battle of Khafji"},
+  {"id":"Q19686631","name":"Yemeni Civil War","year":2014,"type":"war","links":61,"by":"location","wiki":"Yemeni civil war (2014–present)"}
+]}

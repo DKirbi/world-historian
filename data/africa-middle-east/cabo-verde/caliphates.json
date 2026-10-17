@@ -1,0 +1,4 @@
+{"lane": "cabo-verde", "period": "caliphates", "years": [632, 1499], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-portugal-1147","name":"Kingdom of Portugal","from":1463,"to":1506,"peak":0.86,"km2":3000,"tier":1}
+]}

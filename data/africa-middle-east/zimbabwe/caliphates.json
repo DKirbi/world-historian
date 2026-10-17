@@ -1,0 +1,5 @@
+{"lane": "zimbabwe", "period": "caliphates", "years": [632, 1499], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"kingdom-of-zimbabwe","name":"Kingdom of Zimbabwe","from":1220,"to":1450,"tier":2,"extent":"unknown","cited":"wikidata"},
+  {"id":"kingdom-of-mutapa","name":"Kingdom of Mutapa","from":1430,"to":1760,"tier":2,"extent":"unknown","cited":"wikidata"}
+]}

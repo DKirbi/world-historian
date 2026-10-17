@@ -1,0 +1,11 @@
+{"lane": "burundi", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"belgian-congo","name":"Belgian Congo","from":1916,"to":1962,"peak":0.88,"km2":24000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1917,"to":1960,"peak":0.1,"km2":3000,"tier":3,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1917,"to":1960,"peak":0.1,"km2":3000,"tier":3},
+  {"id":"tanzania","name":"Tanzania","from":1961,"to":2024,"peak":0.1,"km2":3000,"tier":3},
+  {"id":"republic-of-burundi","name":"Republic of Burundi","from":1963,"to":2024,"peak":0.86,"km2":23000,"tier":1}
+],
+ "events":[
+  {"id":"Q647239","name":"Burundi Civil War","year":1993,"type":"war","links":24,"by":"location","to":2005,"wiki":"Burundian Civil War"}
+]}

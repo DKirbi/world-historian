@@ -1,0 +1,5 @@
+{"lane": "bahrain", "period": "classical", "years": [-539, 631], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"parthian-empire","name":"Parthian Empire","from":-126,"to":237,"peak":0.89,"km2":500,"tier":1},
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":238,"to":629,"peak":0.89,"km2":500,"tier":1}
+]}

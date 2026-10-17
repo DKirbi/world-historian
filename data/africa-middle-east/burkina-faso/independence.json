@@ -1,0 +1,15 @@
+{"lane": "burkina-faso", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"french-africa","name":"French Africa","from":1905,"to":1957,"peak":1.0,"km2":272000,"tier":1},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1957,"peak":1.0,"km2":272000,"tier":1,"realm":true},
+  {"id":"french-fifth-republic","name":"French Fifth Republic","from":1958,"to":1960,"peak":1.0,"km2":272000,"tier":1},
+  {"id":"burkina-faso","name":"Burkina Faso","from":1961,"to":2024,"peak":0.98,"km2":268000,"tier":1}
+],
+ "events":[
+  {"id":"Q580961","name":"Agacher Strip War","year":1985,"type":"war","links":21,"by":"coordinates","wiki":"Agacher Strip War"},
+  {"id":"Q18380506","name":"2014 Burkinabé uprising","year":2014,"type":"rebellion","links":19,"by":"location","wiki":"2014 Burkina Faso uprising"},
+  {"id":"Q20977821","name":"2015 Burkinabé coup d'état attempt","year":2015,"type":"coup","links":16,"by":"location","wiki":"2015 Burkina Faso coup attempt"},
+  {"id":"Q89035147","name":"Jihadist insurgency in Burkina Faso","year":2015,"type":"war","links":14,"by":"country","wiki":"Islamist insurgency in Burkina Faso"},
+  {"id":"Q110663445","name":"January 2022 Burkina Faso coup d'état","year":2022,"type":"coup","links":26,"by":"location","wiki":"January 2022 Burkina Faso coup d'état"},
+  {"id":"Q114341504","name":"September 2022 Burkina Faso coup d'état","year":2022,"type":"coup","links":21,"by":"location","wiki":"September 2022 Burkina Faso coup d'état"}
+]}

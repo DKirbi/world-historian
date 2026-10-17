@@ -1,0 +1,15 @@
+{"lane": "iraq", "period": "bronze-age", "years": [-3400, -1201], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"sumerian-city-states-3400bce","name":"Sumerian City-States","from":-3400,"to":-2301,"peak":0.2,"km2":87000,"tier":2},
+  {"id":"akkadian-empire","name":"Akkadian Empire","from":-2300,"to":-2101,"peak":0.54,"km2":238000,"tier":1},
+  {"id":"sumerian-city-states-3400bce","name":"Sumerian City-States","from":-2300,"to":-2251,"peak":0.02,"km2":8000,"tier":3,"inside":true},
+  {"id":"gutian-dynasty","name":"Gutian Dynasty","from":-2100,"to":-2001,"peak":0.12,"km2":54000,"tier":3},
+  {"id":"sumerian-city-states-2100bce","name":"Sumerian City-States","from":-2100,"to":-2001,"peak":0.03,"km2":12000,"tier":3,"inside":true},
+  {"id":"sumerian-city-states-2100bce","name":"Sumerian City-States","from":-2000,"to":-1761,"peak":0.12,"km2":53000,"tier":3},
+  {"id":"elam-2200bce","name":"Elam","from":-2000,"to":-1761,"peak":0.08,"km2":33000,"tier":3},
+  {"id":"assyria","name":"Assyria","from":-1800,"to":-901,"peak":0.62,"km2":271000,"tier":1},
+  {"id":"babylonia-1800bce","name":"Babylonia","from":-1800,"to":-1761,"peak":0.02,"km2":8000,"tier":3,"inside":true},
+  {"id":"babylonia-1800bce","name":"Babylonia","from":-1760,"to":-1221,"peak":0.42,"km2":184000,"tier":2},
+  {"id":"first-sealand-dynasty","name":"First Sealand Dynasty","from":-1700,"to":-1401,"peak":0.03,"km2":12000,"tier":3,"inside":true},
+  {"id":"mitanni","name":"Mitanni","from":-1500,"to":-1301,"peak":0.1,"km2":42000,"tier":3}
+]}

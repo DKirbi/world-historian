@@ -1,0 +1,5 @@
+{"lane": "sudan", "period": "bronze-age", "years": [-3400, -1201], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"kerma-kingdom","name":"Kerma kingdom","from":-3400,"to":-1500,"tier":2,"extent":"unknown","cited":"wikidata"},
+  {"id":"new-kingdom-of-egypt","name":"New Kingdom of Egypt","from":-1500,"to":-1001,"peak":0.07,"km2":123000,"tier":2}
+]}

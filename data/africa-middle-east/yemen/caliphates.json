@@ -1,0 +1,20 @@
+{"lane": "yemen", "period": "caliphates", "years": [632, 1499], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":602,"to":632,"peak":0.62,"km2":281000,"tier":1},
+  {"id":"rashidun-caliphate","name":"Rashidun Caliphate","from":633,"to":665,"peak":0.99,"km2":449000,"tier":1},
+  {"id":"umayyad-caliphate","name":"Umayyad Caliphate","from":666,"to":750,"peak":0.99,"km2":449000,"tier":1},
+  {"id":"abbasid-caliphate-750","name":"Abbasid Caliphate","from":751,"to":898,"peak":0.99,"km2":449000,"tier":1},
+  {"id":"ziyadid-dynasty","name":"Ziyadid dynasty","from":866,"to":1065,"peak":0.42,"km2":189000,"tier":2},
+  {"id":"sulayhid-dynasty","name":"Sulayhid Dynasty","from":1056,"to":1065,"peak":0.12,"km2":53000,"tier":3},
+  {"id":"najahid-dynasty","name":"Najahid Dynasty","from":1066,"to":1168,"peak":0.42,"km2":189000,"tier":2},
+  {"id":"ziyadid-dynasty","name":"Ziyadid dynasty","from":1072,"to":1084,"peak":0.29,"km2":130000,"tier":2},
+  {"id":"ziyadid-dynasty","name":"Ziyadid dynasty","from":1085,"to":1138,"peak":0.02,"km2":7000,"tier":3,"inside":true},
+  {"id":"zurayid-dynasty","name":"Zurayid dynasty","from":1085,"to":1176,"peak":0.01,"km2":3000,"tier":3,"inside":true},
+  {"id":"nabhani-dynasty","name":"Nabhani Dynasty","from":1169,"to":1176,"peak":0.41,"km2":186000,"tier":2},
+  {"id":"ayyubid-sultanate","name":"Ayyubid Sultanate","from":1177,"to":1235,"peak":0.55,"km2":247000,"tier":1},
+  {"id":"rasulid-dynasty","name":"Rasulid Dynasty","from":1236,"to":1458,"peak":0.71,"km2":320000,"tier":1},
+  {"id":"tahirid-sultanate","name":"Tahirid Sultanate","from":1459,"to":1515,"peak":0.71,"km2":320000,"tier":1}
+],
+ "events":[
+  {"id":"Q3696172","name":"Battle of Zafar","year":632,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Zafar"}
+]}

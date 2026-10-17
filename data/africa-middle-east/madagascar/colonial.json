@@ -1,0 +1,13 @@
+{"lane": "madagascar", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"merina-kingdom","name":"Merina Kingdom","from":1792,"to":1897,"peak":0.69,"km2":410000,"tier":1},
+  {"id":"french-third-republic","name":"French Third Republic","from":1898,"to":1939,"peak":0.98,"km2":583000,"tier":1,"realm":true},
+  {"id":"french-africa","name":"French Africa","from":1898,"to":1957,"peak":0.98,"km2":583000,"tier":1},
+  {"id":"vichy-france","name":"Vichy France","from":1940,"to":1944,"peak":0.98,"km2":583000,"tier":1,"realm":true},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1957,"peak":0.98,"km2":583000,"tier":1,"realm":true}
+],
+ "events":[
+  {"id":"Q2638505","name":"Franco-Hova Wars","year":1895,"type":"war","links":13,"by":"location","wiki":"Franco-Hova Wars"},
+  {"id":"Q1052651","name":"Battle of Madagascar","year":1942,"type":"battle","links":32,"by":"coordinates","wiki":"Battle of Madagascar"},
+  {"id":"Q2506639","name":"Malagasy Uprising","year":1947,"type":"rebellion","links":20,"by":"location","to":1949,"wiki":"Malagasy Uprising"}
+]}

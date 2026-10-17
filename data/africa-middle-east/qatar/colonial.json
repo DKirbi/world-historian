@@ -1,0 +1,9 @@
+{"lane": "qatar", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"qatar-dynasty","name":"Qatar Dynasty","from":1820,"to":1894,"peak":0.99,"km2":11000,"tier":1},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1873,"to":1912,"peak":0.99,"km2":11000,"tier":1},
+  {"id":"qatar","name":"Qatar","from":1913,"to":1915,"peak":0.96,"km2":11000,"tier":1},
+  {"id":"sultanate-of-muscat-and-oman","name":"Sultanate of Muscat and Oman","from":1916,"to":1935,"peak":0.96,"km2":11000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1936,"to":1995,"peak":0.96,"km2":11000,"tier":1,"realm":true},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1936,"to":2023,"peak":0.96,"km2":11000,"tier":1}
+]}

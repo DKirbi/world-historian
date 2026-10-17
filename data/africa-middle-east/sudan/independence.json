@@ -1,0 +1,12 @@
+{"lane": "sudan", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"republic-of-sudan","name":"Republic of Sudan","from":1956,"to":2024,"peak":0.99,"km2":1839000,"tier":1}
+],
+ "events":[
+  {"id":"Q657661","name":"Mozambican Civil War","year":1977,"type":"war","links":34,"by":"location","to":1992,"wiki":"Mozambican Civil War"},
+  {"id":"Q190758","name":"War in Darfur","year":2003,"type":"war","links":58,"by":"location","to":2020,"wiki":"War in Darfur"},
+  {"id":"Q63096026","name":"2019 Sudanese coup d'état","year":2019,"type":"coup","links":23,"by":"coordinates","wiki":"2019 Sudanese coup d'état"},
+  {"id":"Q109229068","name":"2021 Sudanese coup d'état","year":2021,"type":"coup","links":30,"by":"coordinates","wiki":"2021 Sudanese coup d'état"},
+  {"id":"Q117716414","name":"Sudanese civil war","year":2023,"type":"coup","links":68,"by":"location","wiki":"Sudanese civil war (2023–present)"},
+  {"id":"Q117747625","name":"Battle of Khartoum","year":2023,"type":"battle","links":13,"by":"coordinates","to":2025,"wiki":"Battle of Khartoum (2023–2025)"}
+]}

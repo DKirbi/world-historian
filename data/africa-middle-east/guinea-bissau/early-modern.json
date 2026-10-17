@@ -1,0 +1,7 @@
+{"lane": "guinea-bissau", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"mali-empire","name":"Mali Empire","from":1415,"to":1563,"peak":0.93,"km2":30000,"tier":1},
+  {"id":"kaabu","name":"Kaabu","from":1537,"to":1867,"tier":2,"extent":"unknown","cited":"wikidata"},
+  {"id":"portuguese-empire","name":"Portuguese Empire","from":1687,"to":1823,"peak":0.11,"km2":4000,"tier":3},
+  {"id":"kingdom-of-portugal-1640","name":"Kingdom of Portugal","from":1824,"to":1910,"peak":0.93,"km2":30000,"tier":1}
+]}

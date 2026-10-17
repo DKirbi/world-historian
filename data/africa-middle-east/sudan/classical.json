@@ -1,0 +1,7 @@
+{"lane": "sudan", "period": "classical", "years": [-539, 631], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-kush","name":"Kingdom of Kush","from":-1000,"to":346,"peak":0.15,"km2":276000,"tier":2},
+  {"id":"alodia","name":"Alodia","from":347,"to":1506,"peak":0.07,"km2":124000,"tier":2},
+  {"id":"nobatia","name":"Nobatia","from":347,"to":655,"peak":0.05,"km2":87000,"tier":3},
+  {"id":"makuria","name":"Makuria","from":347,"to":655,"peak":0.04,"km2":65000,"tier":3,"inside":true}
+]}

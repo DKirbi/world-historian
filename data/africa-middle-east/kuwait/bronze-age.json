@@ -1,0 +1,6 @@
+{"lane": "kuwait", "period": "bronze-age", "years": [-3400, -1201], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"first-sealand-dynasty","name":"First Sealand Dynasty","from":-1600,"to":-1401,"peak":0.14,"km2":2000,"tier":3},
+  {"id":"babylonia-1800bce","name":"Babylonia","from":-1400,"to":-1221,"peak":0.27,"km2":5000,"tier":2},
+  {"id":"assyria","name":"Assyria","from":-1220,"to":-1201,"peak":0.27,"km2":5000,"tier":2}
+]}

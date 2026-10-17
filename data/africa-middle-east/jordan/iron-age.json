@@ -1,0 +1,8 @@
+{"lane": "jordan", "period": "iron-age", "years": [-1200, -540], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"new-kingdom-of-egypt","name":"New Kingdom of Egypt","from":-1400,"to":-1151,"peak":0.23,"km2":20000,"tier":2},
+  {"id":"kingdom-of-israel","name":"Kingdom of Israel","from":-1000,"to":-901,"peak":0.11,"km2":10000,"tier":3},
+  {"id":"neo-assyrian-empire","name":"Neo-Assyrian Empire","from":-700,"to":-601,"peak":0.35,"km2":31000,"tier":2},
+  {"id":"assyrian-egypt","name":"Assyrian Egypt","from":-650,"to":-616,"peak":0.35,"km2":31000,"tier":2},
+  {"id":"neo-babylonian-empire","name":"Neo-Babylonian Empire","from":-600,"to":-531,"peak":0.36,"km2":32000,"tier":2}
+]}

@@ -1,0 +1,9 @@
+{"lane": "algeria", "period": "classical", "years": [-539, 631], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"roman-republic","name":"Roman Republic","from":-212,"to":-198,"peak":0.08,"km2":184000,"tier":2},
+  {"id":"carthage","name":"Carthage","from":-203,"to":-203,"peak":0.08,"km2":176000,"tier":2},
+  {"id":"kingdom-of-numidia","name":"Kingdom of Numidia","from":-197,"to":-92,"peak":0.09,"km2":204000,"tier":2},
+  {"id":"mauretania","name":"Mauretania","from":-91,"to":42,"peak":0.06,"km2":136000,"tier":2},
+  {"id":"kingdom-of-numidia","name":"Kingdom of Numidia","from":-91,"to":-47,"peak":0.03,"km2":69000,"tier":3,"inside":true},
+  {"id":"roman-empire","name":"Roman Empire","from":43,"to":260,"peak":0.09,"km2":204000,"tier":2}
+]}

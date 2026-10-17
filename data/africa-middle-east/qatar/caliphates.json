@@ -1,0 +1,11 @@
+{"lane": "qatar", "period": "caliphates", "years": [632, 1499], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":238,"to":632,"peak":0.99,"km2":11000,"tier":1},
+  {"id":"rashidun-caliphate","name":"Rashidun Caliphate","from":633,"to":665,"peak":0.99,"km2":11000,"tier":1},
+  {"id":"umayyad-caliphate","name":"Umayyad Caliphate","from":666,"to":750,"peak":0.99,"km2":11000,"tier":1},
+  {"id":"abbasid-caliphate-750","name":"Abbasid Caliphate","from":751,"to":898,"peak":0.99,"km2":11000,"tier":1},
+  {"id":"qarmatians","name":"Qarmatians","from":899,"to":979,"peak":0.64,"km2":7000,"tier":1},
+  {"id":"uyunid-emirate","name":"Uyunid Emirate","from":1072,"to":1235,"peak":0.99,"km2":11000,"tier":1},
+  {"id":"hamdanid-emirates","name":"Hamdanid Emirates","from":1236,"to":1259,"peak":0.99,"km2":11000,"tier":1},
+  {"id":"bahrani-dynasty","name":"Bahrani Dynasty","from":1260,"to":1520,"peak":0.99,"km2":11000,"tier":1}
+]}

@@ -1,0 +1,8 @@
+{"lane": "cyprus", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1880,"to":1960,"peak":1.0,"km2":9000,"tier":1,"realm":true},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1880,"to":1968,"peak":1.0,"km2":9000,"tier":1}
+],
+ "events":[
+  {"id":"Q16146587","name":"Cyprus Emergency","year":1955,"type":"rebellion","links":17,"by":"country","to":1959,"wiki":"Cyprus Emergency"}
+]}

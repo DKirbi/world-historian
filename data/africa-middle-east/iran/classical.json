@@ -1,0 +1,25 @@
+{"lane": "iran", "period": "classical", "years": [-539, 631], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"achaemenid-empire","name":"Achaemenid Empire","from":-550,"to":-327,"peak":1.0,"km2":1617000,"tier":1},
+  {"id":"ptolemaic-kingdom","name":"Ptolemaic Kingdom","from":-326,"to":-324,"peak":0.97,"km2":1570000,"tier":1},
+  {"id":"macedonian-empire","name":"Macedonian Empire","from":-323,"to":-308,"peak":0.97,"km2":1570000,"tier":1,"realm":true},
+  {"id":"seleucid-empire","name":"Seleucid Empire","from":-307,"to":-145,"peak":0.88,"km2":1427000,"tier":1},
+  {"id":"atropatene","name":"Atropatene","from":-307,"to":-165,"peak":0.09,"km2":143000,"tier":2},
+  {"id":"parthian-empire","name":"Parthian Empire","from":-164,"to":237,"peak":1.0,"km2":1617000,"tier":1},
+  {"id":"indo-scythians","name":"Indo-Scythians","from":-110,"to":-92,"peak":0.11,"km2":185000,"tier":2},
+  {"id":"kingdom-of-armenia-326bce","name":"Kingdom of Armenia","from":-77,"to":-67,"peak":0.05,"km2":86000,"tier":3},
+  {"id":"roman-empire","name":"Roman Empire","from":117,"to":126,"peak":0.06,"km2":95000,"tier":3},
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":224,"to":643,"peak":1.0,"km2":1617000,"tier":1}
+],
+ "events":[
+  {"id":"Q1132922","name":"Peace of Antalcidas","year":-387,"type":"treaty","links":30,"by":"location","wiki":"Peace of Antalcidas"},
+  {"id":"Q112016","name":"Battle of the Persian Gate on the Mountain","year":-330,"type":"battle","links":29,"by":"coordinates","wiki":"Battle of the Persian Gate"},
+  {"id":"Q1407018","name":"Battle of Paraitacene","year":-317,"type":"battle","links":18,"by":"coordinates","wiki":"Battle of Paraitakene"},
+  {"id":"Q954968","name":"Battle of Gabiene","year":-316,"type":"battle","links":19,"by":"coordinates","wiki":"Battle of Gabiene"},
+  {"id":"Q2887977","name":"Battle of Hormozdgan","year":224,"type":"battle","links":18,"by":"coordinates","wiki":"Battle of Hormozdgan"},
+  {"id":"Q1229305","name":"Julian's Persian expedition","year":363,"type":"campaign","links":12,"by":"location","wiki":"Julian's Persian expedition"},
+  {"id":"Q734700","name":"Battle of Avarayr","year":451,"type":"battle","links":30,"by":"coordinates","wiki":"Battle of Avarayr"},
+  {"id":"Q2665656","name":"Nvarsak Treaty","year":484,"type":"treaty","links":19,"by":"location","wiki":"Treaty of Nvarsak"},
+  {"id":"Q16931639","name":"Sasanian Civil War of 589–591","year":589,"type":"rebellion","links":12,"by":"location","to":591,"wiki":"Sasanian civil war of 589–591"},
+  {"id":"Q65091887","name":"Plague of Sheroe","year":627,"type":"pandemic","links":12,"by":"country","to":628,"wiki":"Plague of Sheroe"}
+]}

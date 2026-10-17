@@ -1,0 +1,5 @@
+{"lane": "malawi", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1895,"to":1968,"peak":0.99,"km2":118000,"tier":1,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1895,"to":1960,"peak":0.99,"km2":118000,"tier":1}
+]}

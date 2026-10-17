@@ -1,0 +1,9 @@
+{"lane": "gambia", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"mali-empire","name":"Mali Empire","from":1236,"to":1563,"peak":1.0,"km2":10000,"tier":1},
+  {"id":"songhai-empire","name":"Songhai Empire","from":1564,"to":1594,"peak":1.0,"km2":10000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1820,"to":1968,"peak":0.88,"km2":9000,"tier":1,"realm":true},
+  {"id":"british-cape-colony","name":"British Cape Colony","from":1820,"to":1884,"peak":0.17,"km2":2000,"tier":3},
+  {"id":"french-third-republic","name":"French Third Republic","from":1880,"to":1939,"peak":0.12,"km2":1000,"tier":3,"realm":true},
+  {"id":"french-africa","name":"French Africa","from":1880,"to":1957,"peak":0.12,"km2":1000,"tier":3}
+]}

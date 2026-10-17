@@ -1,0 +1,16 @@
+{"lane": "libya", "period": "classical", "years": [-539, 631], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"achaemenid-empire","name":"Achaemenid Empire","from":-500,"to":-384,"peak":0.07,"km2":107000,"tier":2},
+  {"id":"thirtieth-dynasty-of-egypt","name":"Thirtieth Dynasty of Egypt","from":-383,"to":-338,"peak":0.07,"km2":107000,"tier":2},
+  {"id":"achaemenid-empire","name":"Achaemenid Empire","from":-337,"to":-332,"peak":0.07,"km2":108000,"tier":2},
+  {"id":"cyrenaica-331bce","name":"Cyrenaica","from":-331,"to":-292,"peak":0.02,"km2":30000,"tier":3,"inside":true},
+  {"id":"ptolemaic-kingdom","name":"Ptolemaic Kingdom","from":-291,"to":-273,"peak":0.06,"km2":104000,"tier":2},
+  {"id":"cyrenaica-331bce","name":"Cyrenaica","from":-272,"to":-248,"peak":0.06,"km2":104000,"tier":2},
+  {"id":"ptolemaic-kingdom","name":"Ptolemaic Kingdom","from":-247,"to":-111,"peak":0.06,"km2":104000,"tier":2},
+  {"id":"cyrenaica-110bce","name":"Cyrenaica","from":-110,"to":-92,"peak":0.07,"km2":116000,"tier":2},
+  {"id":"roman-republic","name":"Roman Republic","from":-91,"to":-32,"peak":0.1,"km2":166000,"tier":2},
+  {"id":"ptolemaic-kingdom","name":"Ptolemaic Kingdom","from":-31,"to":-31,"peak":0.07,"km2":116000,"tier":2},
+  {"id":"roman-empire","name":"Roman Empire","from":-30,"to":394,"peak":0.1,"km2":167000,"tier":2},
+  {"id":"garamantes","name":"Garamantes","from":150,"to":699,"tier":2,"extent":"unknown","cited":"wikipedia","approx":true},
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":395,"to":632,"peak":0.1,"km2":167000,"tier":2}
+]}

@@ -1,0 +1,26 @@
+{"lane": "south-africa", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"dutch-cape-colony","name":"Dutch Cape Colony","from":1653,"to":1768,"peak":0.04,"km2":48000,"tier":3,"inside":true},
+  {"id":"dutch-republic","name":"Dutch Republic","from":1769,"to":1795,"peak":0.22,"km2":263000,"tier":2,"realm":true},
+  {"id":"dutch-cape-colony","name":"Dutch Cape Colony","from":1769,"to":1795,"peak":0.22,"km2":263000,"tier":2},
+  {"id":"british-cape-colony","name":"British Cape Colony","from":1796,"to":1884,"peak":0.71,"km2":867000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1796,"to":1802,"peak":0.22,"km2":263000,"tier":2,"realm":true},
+  {"id":"napoleonic-batavia-republic","name":"Napoleonic Batavia Republic","from":1803,"to":1805,"peak":0.22,"km2":263000,"tier":2},
+  {"id":"british-empire","name":"British Empire","from":1806,"to":1931,"peak":0.99,"km2":1210000,"tier":1,"realm":true},
+  {"id":"zululand","name":"Zululand","from":1820,"to":1897,"peak":0.02,"km2":26000,"tier":3,"inside":true},
+  {"id":"natalia-republic","name":"Natalia Republic","from":1840,"to":1910,"peak":0.05,"km2":61000,"tier":3},
+  {"id":"south-african-republic","name":"South African Republic","from":1856,"to":1876,"peak":0.24,"km2":288000,"tier":2},
+  {"id":"free-orange-state","name":"Free Orange State","from":1856,"to":1899,"peak":0.11,"km2":133000,"tier":2}
+],
+ "events":[
+  {"id":"Q1392699","name":"Battle of Blood River","year":1838,"type":"battle","links":19,"by":"coordinates","wiki":"Battle of Blood River"},
+  {"id":"Q1123353","name":"Battle of Rorke's Drift","year":1879,"type":"battle","links":36,"by":"coordinates","wiki":"Battle of Rorke's Drift"},
+  {"id":"Q747589","name":"Battle of Isandlwana","year":1879,"type":"battle","links":32,"by":"coordinates","wiki":"Battle of Isandlwana"},
+  {"id":"Q2166177","name":"Battle of Ulundi","year":1879,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Ulundi"},
+  {"id":"Q949635","name":"Battle of Kambula","year":1879,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Kambula"},
+  {"id":"Q329203","name":"First Boer War","year":1880,"type":"war","links":52,"by":"location","to":1881,"wiki":"First Boer War"},
+  {"id":"Q1348785","name":"Basuto Gun War","year":1880,"type":"war","links":13,"by":"location","to":1881,"wiki":"Basuto Gun War"},
+  {"id":"Q2547952","name":"Action at Bronkhorstspruit","year":1880,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Bronkhorstspruit"},
+  {"id":"Q1794609","name":"Pretoria Convention","year":1881,"type":"treaty","links":15,"by":"coordinates","wiki":"Pretoria Convention"},
+  {"id":"Q2063236","name":"Majuba Hill","year":1881,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Majuba Hill"}
+]}

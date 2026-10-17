@@ -1,0 +1,12 @@
+{"lane": "cote-d-ivoire", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"french-africa","name":"French Africa","from":1895,"to":1957,"peak":0.99,"km2":319000,"tier":1},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1957,"peak":0.99,"km2":319000,"tier":1,"realm":true},
+  {"id":"french-fifth-republic","name":"French Fifth Republic","from":1958,"to":1960,"peak":0.99,"km2":319000,"tier":1},
+  {"id":"republic-of-cote-d-ivoire","name":"Republic of Côte d'Ivoire","from":1961,"to":2024,"peak":0.98,"km2":316000,"tier":1}
+],
+ "events":[
+  {"id":"Q1021175","name":"First Ivorian Civil War","year":2002,"type":"war","links":25,"by":"location","to":2007,"wiki":"First Ivorian Civil War"},
+  {"id":"Q909819","name":"2010–2011 Ivorian crisis","year":2010,"type":"war","links":16,"by":"location","to":2011,"wiki":"2010–2011 Ivorian crisis"},
+  {"id":"Q1087909","name":"Second Ivorian Civil War","year":2010,"type":"war","links":15,"by":"location","to":2011,"wiki":"Second Ivorian Civil War"}
+]}

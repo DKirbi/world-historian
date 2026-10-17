@@ -1,0 +1,28 @@
+{"lane": "israel", "period": "classical", "years": [-539, 631], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"neo-babylonian-empire","name":"Neo-Babylonian Empire","from":-600,"to":-531,"peak":0.98,"km2":21000,"tier":1},
+  {"id":"achaemenid-empire","name":"Achaemenid Empire","from":-530,"to":-332,"peak":0.98,"km2":21000,"tier":1},
+  {"id":"ptolemaic-kingdom","name":"Ptolemaic Kingdom","from":-331,"to":-324,"peak":0.69,"km2":15000,"tier":1},
+  {"id":"macedonian-empire","name":"Macedonian Empire","from":-323,"to":-302,"peak":0.7,"km2":16000,"tier":1,"realm":true},
+  {"id":"laomedon","name":"Laomedon","from":-323,"to":-319,"peak":0.67,"km2":15000,"tier":1},
+  {"id":"ptolemaic-kingdom","name":"Ptolemaic Kingdom","from":-301,"to":-198,"peak":0.69,"km2":15000,"tier":1},
+  {"id":"seleucid-empire","name":"Seleucid Empire","from":-197,"to":-78,"peak":0.69,"km2":15000,"tier":1},
+  {"id":"nabataeans","name":"Nabataeans","from":-164,"to":-26,"peak":0.5,"km2":11000,"tier":1},
+  {"id":"judea","name":"Judea","from":-126,"to":5,"peak":0.69,"km2":15000,"tier":1},
+  {"id":"roman-republic","name":"Roman Republic","from":-63,"to":-41,"peak":0.12,"km2":3000,"tier":3},
+  {"id":"roman-empire","name":"Roman Empire","from":-30,"to":260,"peak":0.98,"km2":21000,"tier":1},
+  {"id":"nabataeans","name":"Nabataeans","from":-19,"to":105,"peak":0.16,"km2":3000,"tier":3},
+  {"id":"palmyrene-empire","name":"Palmyrene Empire","from":261,"to":269,"peak":0.98,"km2":21000,"tier":1},
+  {"id":"roman-empire","name":"Roman Empire","from":270,"to":394,"peak":0.98,"km2":21000,"tier":1},
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":395,"to":622,"peak":0.98,"km2":22000,"tier":1},
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":617,"to":628,"peak":0.98,"km2":21000,"tier":1},
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":627,"to":632,"peak":0.98,"km2":21000,"tier":1}
+],
+ "events":[
+  {"id":"Q1389951","name":"Battle of Panium","year":-200,"type":"battle","links":19,"by":"coordinates","wiki":"Battle of Panium"},
+  {"id":"Q7930888","name":"Maccabean Revolt","year":-167,"type":"rebellion","links":43,"by":"location","to":-160,"wiki":"Maccabean Revolt"},
+  {"id":"Q202578","name":"First Jewish-Roman War","year":66,"type":"rebellion","links":63,"by":"location","to":74,"wiki":"First Jewish–Roman War"},
+  {"id":"Q2704829","name":"Siege of Yodfat","year":67,"type":"siege","links":12,"by":"coordinates","wiki":"Siege of Yodfat"},
+  {"id":"Q3555020","name":"Siege of Masada","year":72,"type":"siege","links":14,"by":"coordinates","to":73,"wiki":"Siege of Masada"},
+  {"id":"Q334502","name":"Bar Kokhba revolt","year":132,"type":"rebellion","links":52,"by":"location","to":136,"wiki":"Bar Kokhba Revolt"}
+]}

@@ -1,0 +1,4 @@
+{"lane": "tunisia", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"republic-of-tunisia","name":"Republic of Tunisia","from":1956,"to":2024,"peak":0.95,"km2":149000,"tier":1}
+]}

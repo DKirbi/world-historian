@@ -1,0 +1,5 @@
+{"lane": "morocco", "period": "classical", "years": [-539, 631], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"mauretania","name":"Mauretania","from":-212,"to":42,"peak":0.13,"km2":77000,"tier":3},
+  {"id":"roman-empire","name":"Roman Empire","from":43,"to":260,"peak":0.13,"km2":77000,"tier":3}
+]}

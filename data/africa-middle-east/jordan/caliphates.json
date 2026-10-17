@@ -1,0 +1,20 @@
+{"lane": "jordan", "period": "caliphates", "years": [632, 1499], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ghassanids","name":"Ghassanids","from":629,"to":633,"peak":0.72,"km2":64000,"tier":1},
+  {"id":"rashidun-caliphate","name":"Rashidun Caliphate","from":634,"to":665,"peak":1.0,"km2":89000,"tier":1},
+  {"id":"umayyad-caliphate","name":"Umayyad Caliphate","from":656,"to":750,"peak":1.0,"km2":89000,"tier":1},
+  {"id":"abbasid-caliphate-750","name":"Abbasid Caliphate","from":751,"to":969,"peak":1.0,"km2":89000,"tier":1},
+  {"id":"tulunids","name":"Tulunids","from":878,"to":910,"peak":0.46,"km2":40000,"tier":2},
+  {"id":"fatimid-caliphate","name":"Fatimid Caliphate","from":970,"to":1098,"peak":1.0,"km2":89000,"tier":1},
+  {"id":"hamdanid-emirates","name":"Hamdanid Emirates","from":1028,"to":1055,"peak":0.41,"km2":37000,"tier":2},
+  {"id":"great-seljuk-empire","name":"Great Seljuk Empire","from":1072,"to":1138,"peak":0.17,"km2":15000,"tier":3},
+  {"id":"kingdom-of-jerusalem","name":"Kingdom of Jerusalem","from":1126,"to":1168,"peak":0.21,"km2":18000,"tier":2},
+  {"id":"zengid-dynasty","name":"Zengid dynasty","from":1139,"to":1176,"peak":0.35,"km2":31000,"tier":2},
+  {"id":"ayyubid-sultanate","name":"Ayyubid Sultanate","from":1177,"to":1249,"peak":0.96,"km2":85000,"tier":1},
+  {"id":"mamluk-sultanate","name":"Mamluk Sultanate","from":1241,"to":1518,"peak":0.96,"km2":85000,"tier":1}
+],
+ "events":[
+  {"id":"Q2756897","name":"Battle of Bosra","year":634,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Bosra"},
+  {"id":"Q1030249","name":"Battle of Fahl","year":635,"type":"battle","links":21,"by":"coordinates","wiki":"Battle of Fahl"},
+  {"id":"Q815156","name":"Siege of Kerak","year":1183,"type":"siege","links":15,"by":"coordinates","wiki":"Siege of Kerak (1183)"}
+]}

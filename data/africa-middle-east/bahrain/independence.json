@@ -1,0 +1,9 @@
+{"lane": "bahrain", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1895,"to":1995,"peak":0.89,"km2":500,"tier":1,"realm":true},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1895,"to":2023,"peak":0.89,"km2":500,"tier":1},
+  {"id":"kingdom-of-bahrain","name":"Kingdom of Bahrain","from":1973,"to":2024,"peak":0.89,"km2":500,"tier":1}
+],
+ "events":[
+  {"id":"Q242864","name":"2011 Bahraini uprising","year":2011,"type":"rebellion","links":36,"by":"coordinates","wiki":"2011 Bahraini uprising"}
+]}

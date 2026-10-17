@@ -1,0 +1,13 @@
+{"lane": "sudan", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1885,"to":1889,"peak":0.99,"km2":1829000,"tier":1,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1885,"to":1889,"peak":0.99,"km2":1829000,"tier":1},
+  {"id":"mahdist-state","name":"Mahdist State","from":1890,"to":1899,"peak":0.95,"km2":1755000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1898,"to":1955,"peak":1.0,"km2":1849000,"tier":1,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1898,"to":1955,"peak":1.0,"km2":1849000,"tier":1},
+  {"id":"republic-of-sudan","name":"Republic of Sudan","from":1956,"to":2024,"peak":0.99,"km2":1839000,"tier":1}
+],
+ "events":[
+  {"id":"Q1288821","name":"Battle of Abu Klea","year":1885,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Abu Klea"},
+  {"id":"Q1137302","name":"Battle of Omdurman","year":1898,"type":"battle","links":29,"by":"coordinates","wiki":"Battle of Omdurman"}
+]}

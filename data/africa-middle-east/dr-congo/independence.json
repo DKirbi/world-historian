@@ -1,0 +1,17 @@
+{"lane": "dr-congo", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"belgian-congo","name":"Belgian Congo","from":1890,"to":1959,"peak":0.98,"km2":2284000,"tier":1},
+  {"id":"democratic-republic-of-the-congo","name":"Democratic Republic of the Congo","from":1960,"to":1972,"peak":0.98,"km2":2281000,"tier":1},
+  {"id":"zaire","name":"Zaire","from":1973,"to":1995,"peak":0.98,"km2":2281000,"tier":1},
+  {"id":"democratic-republic-of-the-congo","name":"Democratic Republic of the Congo","from":1996,"to":2024,"peak":0.98,"km2":2281000,"tier":1}
+],
+ "events":[
+  {"id":"Q2404547","name":"Siege of Jadotville","year":1961,"type":"siege","links":19,"by":"coordinates","wiki":"Siege of Jadotville"},
+  {"id":"Q2656683","name":"Simba Rebellion","year":1964,"type":"rebellion","links":17,"by":"location","wiki":"Simba rebellion"},
+  {"id":"Q838695","name":"First Congo War","year":1996,"type":"war","links":45,"by":"location","to":1997,"wiki":"First Congo War"},
+  {"id":"Q75756","name":"Second Congo War","year":1998,"type":"war","links":51,"by":"location","to":2003,"wiki":"Second Congo War"},
+  {"id":"Q327237","name":"Kivu conflict","year":2004,"type":"war","links":27,"by":"location","wiki":"Kivu conflict"},
+  {"id":"Q82962","name":"M23 Rebellion","year":2012,"type":"rebellion","links":13,"by":"coordinates","to":2013,"wiki":"M23 rebellion (2012–2013)"},
+  {"id":"Q112628065","name":"M23 campaign","year":2022,"type":"campaign","links":16,"by":"location","wiki":"M23 campaign (2022–present)"},
+  {"id":"Q125988461","name":"2024 Democratic Republic of the Congo coup attempt","year":2024,"type":"coup","links":12,"by":"country","wiki":"2024 Democratic Republic of the Congo coup attempt"}
+]}

@@ -1,0 +1,15 @@
+{"lane": "yemen", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"tahirid-sultanate","name":"Tahirid Sultanate","from":1459,"to":1515,"peak":0.71,"km2":320000,"tier":1},
+  {"id":"mamluk-sultanate","name":"Mamluk Sultanate","from":1516,"to":1518,"peak":0.7,"km2":318000,"tier":1},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1519,"to":1635,"peak":0.41,"km2":185000,"tier":2},
+  {"id":"qasimids","name":"Qasimids","from":1636,"to":1802,"peak":0.7,"km2":317000,"tier":1},
+  {"id":"emirate-of-diriyah","name":"Emirate of Diriyah","from":1803,"to":1813,"peak":0.29,"km2":133000,"tier":2},
+  {"id":"imamate-of-yemen","name":"Imamate of Yemen","from":1814,"to":1872,"peak":0.2,"km2":91000,"tier":2},
+  {"id":"british-empire","name":"British Empire","from":1870,"to":1968,"peak":0.67,"km2":301000,"tier":1,"realm":true},
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1870,"to":1889,"peak":0.66,"km2":298000,"tier":1},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1873,"to":1918,"peak":0.33,"km2":151000,"tier":2}
+],
+ "events":[
+  {"id":"Q3049873","name":"Capture of Aden","year":1548,"type":"battle","links":14,"by":"coordinates","wiki":"Aden Revolt"}
+]}

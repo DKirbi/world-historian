@@ -1,0 +1,13 @@
+{"lane": "syria", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"mamluk-sultanate","name":"Mamluk Sultanate","from":1241,"to":1518,"peak":0.89,"km2":166000,"tier":1},
+  {"id":"aq-qoyunlu","name":"Aq Qoyunlu","from":1415,"to":1511,"peak":0.25,"km2":47000,"tier":2},
+  {"id":"safavid-dynasty","name":"Safavid Dynasty","from":1512,"to":1533,"peak":0.25,"km2":47000,"tier":2},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1519,"to":1918,"peak":1.0,"km2":185000,"tier":1},
+  {"id":"muhammad-ali-dynasty","name":"Muhammad Ali dynasty","from":1834,"to":1841,"peak":0.62,"km2":114000,"tier":1}
+],
+ "events":[
+  {"id":"Q971248","name":"Battle of Marj Dabiq","year":1516,"type":"battle","links":29,"by":"coordinates","wiki":"Battle of Marj Dabiq"},
+  {"id":"Q253684","name":"French invasion of Egypt and Syria","year":1798,"type":"campaign","links":47,"by":"location","to":1801,"wiki":"French invasion of Egypt and Syria"},
+  {"id":"Q2584439","name":"First Egyptian-Ottoman War","year":1831,"type":"war","links":26,"by":"location","to":1833,"wiki":"Egyptian–Ottoman War (1831–1833)"}
+]}

@@ -1,0 +1,22 @@
+{"lane": "palestine", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1842,"to":1917,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1918,"to":1947,"peak":0.97,"km2":6000,"tier":1,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1918,"to":1935,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1936,"to":1939,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"british-africa","name":"British Africa","from":1940,"to":1945,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1946,"to":1946,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1947,"to":1947,"peak":0.96,"km2":6000,"tier":1},
+  {"id":"state-of-israel","name":"State of Israel","from":1948,"to":2024,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"palestinians","name":"Palestinians","from":1948,"to":1948,"peak":0.75,"km2":5000,"tier":1},
+  {"id":"kingdom-of-jordan","name":"Kingdom of Jordan","from":1949,"to":1957,"peak":0.75,"km2":5000,"tier":1}
+],
+ "events":[
+  {"id":"Q1378270","name":"Battle of Jerusalem","year":1917,"type":"battle","links":25,"by":"coordinates","wiki":"Battle of Jerusalem"},
+  {"id":"Q2791318","name":"First Battle of Gaza","year":1917,"type":"battle","links":21,"by":"coordinates","wiki":"First Battle of Gaza"},
+  {"id":"Q388581","name":"Second Battle of Gaza","year":1917,"type":"battle","links":14,"by":"coordinates","wiki":"Second Battle of Gaza"},
+  {"id":"Q941322","name":"Third Battle of Gaza","year":1917,"type":"battle","links":12,"by":"coordinates","wiki":"Third Battle of Gaza"},
+  {"id":"Q46057","name":"1936–1939 Arab revolt in Palestine","year":1936,"type":"rebellion","links":36,"by":"location","to":1939,"wiki":"1936–1939 Arab revolt in Palestine"},
+  {"id":"Q2379101","name":"1947–1948 Civil War in Mandatory Palestine","year":1947,"type":"war","links":27,"by":"location","to":1948,"wiki":"1947–1948 civil war in Mandatory Palestine"},
+  {"id":"Q2916279","name":"Battle for Jerusalem","year":1947,"type":"battle","links":12,"by":"location","to":1948,"wiki":"Battle for Jerusalem"}
+]}

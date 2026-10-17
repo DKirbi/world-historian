@@ -1,0 +1,13 @@
+{"lane": "sudan", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"alodia","name":"Alodia","from":347,"to":1506,"peak":0.07,"km2":124000,"tier":2},
+  {"id":"makuria-kingdom","name":"Makuria Kingdom","from":1415,"to":1518,"peak":0.1,"km2":180000,"tier":2},
+  {"id":"funj-sultanate","name":"Funj Sultanate","from":1507,"to":1821,"peak":0.33,"km2":612000,"tier":2},
+  {"id":"sultanate-of-darfur","name":"Sultanate of Darfur","from":1609,"to":1876,"peak":0.16,"km2":289000,"tier":2},
+  {"id":"muhammad-ali-dynasty","name":"Muhammad Ali dynasty","from":1822,"to":1865,"peak":0.61,"km2":1131000,"tier":1},
+  {"id":"khedivate-of-egypt","name":"Khedivate of Egypt","from":1866,"to":1884,"peak":0.89,"km2":1652000,"tier":1}
+],
+ "events":[
+  {"id":"Q31944","name":"Mahdist War","year":1881,"type":"war","links":41,"by":"coordinates","to":1899,"wiki":"Mahdist War"},
+  {"id":"Q815159","name":"Siege of Khartoum","year":1884,"type":"siege","links":15,"by":"coordinates","to":1885,"wiki":"Siege of Khartoum"}
+]}

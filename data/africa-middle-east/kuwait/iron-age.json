@@ -1,0 +1,12 @@
+{"lane": "kuwait", "period": "iron-age", "years": [-1200, -540], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"babylonia-1800bce","name":"Babylonia","from":-1200,"to":-1151,"peak":0.27,"km2":5000,"tier":2},
+  {"id":"elam-2200bce","name":"Elam","from":-1150,"to":-1101,"peak":0.27,"km2":5000,"tier":2},
+  {"id":"babylonia-1100bce","name":"Babylonia","from":-1100,"to":-1001,"peak":0.27,"km2":5000,"tier":2},
+  {"id":"babylonia-1100bce","name":"Babylonia","from":-900,"to":-801,"peak":0.27,"km2":5000,"tier":2},
+  {"id":"neo-assyrian-empire","name":"Neo-Assyrian Empire","from":-700,"to":-616,"peak":0.27,"km2":5000,"tier":2},
+  {"id":"babylonia-650bce","name":"Babylonia","from":-650,"to":-631,"peak":0.27,"km2":5000,"tier":2},
+  {"id":"assyrian-egypt","name":"Assyrian Egypt","from":-630,"to":-616,"peak":0.27,"km2":5000,"tier":2},
+  {"id":"babylonia-650bce","name":"Babylonia","from":-615,"to":-601,"peak":0.27,"km2":5000,"tier":2},
+  {"id":"neo-babylonian-empire","name":"Neo-Babylonian Empire","from":-600,"to":-531,"peak":0.27,"km2":5000,"tier":2}
+]}

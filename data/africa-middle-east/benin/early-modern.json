@@ -1,0 +1,5 @@
+{"lane": "benin", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"dahomey","name":"Dahomey","from":1600,"to":1894,"tier":2,"extent":"unknown","cited":"wikidata","approx":true},
+  {"id":"oyo-empire","name":"Oyo Empire","from":1752,"to":1835,"peak":0.17,"km2":20000,"tier":3}
+]}

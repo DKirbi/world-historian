@@ -1,0 +1,4 @@
+{"lane": "uganda", "period": "caliphates", "years": [632, 1499], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"buganda","name":"Buganda","from":1420,"to":1966,"tier":2,"extent":"unknown","cited":"wikidata"}
+]}

@@ -1,0 +1,5 @@
+{"lane": "sudan", "period": "iron-age", "years": [-1200, -540], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"new-kingdom-of-egypt","name":"New Kingdom of Egypt","from":-1500,"to":-1001,"peak":0.07,"km2":123000,"tier":2},
+  {"id":"kingdom-of-kush","name":"Kingdom of Kush","from":-1000,"to":346,"peak":0.15,"km2":276000,"tier":2}
+]}

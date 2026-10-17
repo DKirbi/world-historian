@@ -1,0 +1,7 @@
+{"lane": "eritrea", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ethiopian-empire","name":"Ethiopian Empire","from":1272,"to":1889,"peak":0.49,"km2":61000,"tier":2},
+  {"id":"adal-sultanate","name":"Adal Sultanate","from":1534,"to":1546,"peak":0.29,"km2":36000,"tier":2},
+  {"id":"muhammad-ali-dynasty","name":"Muhammad Ali dynasty","from":1848,"to":1865,"peak":0.06,"km2":7000,"tier":3},
+  {"id":"khedivate-of-egypt","name":"Khedivate of Egypt","from":1866,"to":1884,"peak":0.06,"km2":7000,"tier":3}
+]}

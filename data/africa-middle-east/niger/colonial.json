@@ -1,0 +1,12 @@
+{"lane": "niger", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"bornu-empire","name":"Bornu Empire","from":1487,"to":1894,"peak":0.06,"km2":67000,"tier":3},
+  {"id":"sokoto-caliphate","name":"Sokoto Caliphate","from":1834,"to":1904,"peak":0.08,"km2":90000,"tier":3},
+  {"id":"french-third-republic","name":"French Third Republic","from":1900,"to":1939,"peak":1.0,"km2":1179000,"tier":1,"realm":true},
+  {"id":"french-africa","name":"French Africa","from":1900,"to":1957,"peak":1.0,"km2":1179000,"tier":1},
+  {"id":"vichy-france","name":"Vichy France","from":1940,"to":1944,"peak":1.0,"km2":1179000,"tier":1,"realm":true},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1957,"peak":1.0,"km2":1179000,"tier":1,"realm":true}
+],
+ "events":[
+  {"id":"Q2335525","name":"Kaocen Revolt","year":1916,"type":"rebellion","links":13,"by":"coordinates","to":1917,"wiki":"Kaocen revolt"}
+]}

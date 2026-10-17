@@ -1,0 +1,18 @@
+{"lane": "united-arab-emirates", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"bahrani-dynasty","name":"Bahrani Dynasty","from":1260,"to":1520,"peak":0.38,"km2":27000,"tier":2},
+  {"id":"portuguese-empire","name":"Portuguese Empire","from":1521,"to":1551,"peak":0.37,"km2":26000,"tier":2,"realm":true},
+  {"id":"kingdom-of-portugal-1147","name":"Kingdom of Portugal","from":1521,"to":1555,"peak":0.37,"km2":26000,"tier":2},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1552,"to":1563,"peak":0.38,"km2":27000,"tier":2},
+  {"id":"kingdom-of-portugal-1147","name":"Kingdom of Portugal","from":1564,"to":1581,"peak":0.37,"km2":26000,"tier":2},
+  {"id":"yarubid-dynasty","name":"Yarubid dynasty","from":1626,"to":1740,"peak":0.18,"km2":13000,"tier":3},
+  {"id":"sultanate-of-oman-1744","name":"Sultanate of Oman","from":1757,"to":1799,"peak":0.18,"km2":13000,"tier":3},
+  {"id":"emirate-of-diriyah","name":"Emirate of Diriyah","from":1799,"to":1819,"peak":0.99,"km2":70000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1820,"to":1852,"peak":0.92,"km2":66000,"tier":1,"realm":true},
+  {"id":"trucial-states","name":"Trucial States","from":1820,"to":1852,"peak":0.92,"km2":66000,"tier":1},
+  {"id":"qatar-dynasty","name":"Qatar Dynasty","from":1820,"to":1852,"peak":0.06,"km2":5000,"tier":3},
+  {"id":"emirate-of-nejd","name":"Emirate of Nejd","from":1853,"to":1855,"peak":0.99,"km2":70000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1856,"to":1995,"peak":0.98,"km2":70000,"tier":1,"realm":true},
+  {"id":"trucial-states","name":"Trucial States","from":1856,"to":1894,"peak":0.92,"km2":66000,"tier":1},
+  {"id":"qatar-dynasty","name":"Qatar Dynasty","from":1856,"to":1904,"peak":0.06,"km2":4000,"tier":3}
+]}

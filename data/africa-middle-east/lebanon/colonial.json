@@ -1,0 +1,13 @@
+{"lane": "lebanon", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1842,"to":1917,"peak":0.9,"km2":9000,"tier":1},
+  {"id":"french-third-republic","name":"French Third Republic","from":1918,"to":1923,"peak":0.9,"km2":9000,"tier":1,"realm":true},
+  {"id":"british-empire","name":"British Empire","from":1918,"to":1919,"peak":0.82,"km2":8000,"tier":1,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1918,"to":1919,"peak":0.82,"km2":8000,"tier":1},
+  {"id":"french-mandate-for-syria-and-lebanon","name":"French Mandate for Syria and Lebanon","from":1920,"to":1943,"peak":0.9,"km2":9000,"tier":1},
+  {"id":"lebanon","name":"Lebanon","from":1944,"to":2024,"peak":0.9,"km2":9000,"tier":1}
+],
+ "events":[
+  {"id":"Q4090324","name":"Battle of Beirut","year":1912,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Beirut (1912)"},
+  {"id":"Q2992403","name":"Franco-Syrian War","year":1920,"type":"war","links":27,"by":"location","wiki":"Franco-Syrian War"}
+]}

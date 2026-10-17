@@ -1,0 +1,7 @@
+{"lane": "palestine", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"mamluk-sultanate","name":"Mamluk Sultanate","from":1241,"to":1518,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1519,"to":1833,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"muhammad-ali-dynasty","name":"Muhammad Ali dynasty","from":1834,"to":1841,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1842,"to":1917,"peak":0.97,"km2":6000,"tier":1}
+]}

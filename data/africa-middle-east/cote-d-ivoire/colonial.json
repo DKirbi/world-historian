@@ -1,0 +1,8 @@
+{"lane": "cote-d-ivoire", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ashanti-empire","name":"Ashanti Empire","from":1744,"to":1894,"peak":0.1,"km2":32000,"tier":3},
+  {"id":"french-third-republic","name":"French Third Republic","from":1895,"to":1939,"peak":0.99,"km2":319000,"tier":1,"realm":true},
+  {"id":"french-africa","name":"French Africa","from":1895,"to":1957,"peak":0.99,"km2":319000,"tier":1},
+  {"id":"vichy-france","name":"Vichy France","from":1940,"to":1944,"peak":0.99,"km2":319000,"tier":1,"realm":true},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1957,"peak":0.99,"km2":319000,"tier":1,"realm":true}
+]}

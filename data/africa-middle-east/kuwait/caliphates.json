@@ -1,0 +1,26 @@
+{"lane": "kuwait", "period": "caliphates", "years": [632, 1499], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":238,"to":633,"peak":1.0,"km2":17000,"tier":1},
+  {"id":"lakhmid-kingdom","name":"Lakhmid Kingdom","from":629,"to":633,"peak":0.51,"km2":9000,"tier":1},
+  {"id":"rashidun-caliphate","name":"Rashidun Caliphate","from":634,"to":665,"peak":1.0,"km2":17000,"tier":1},
+  {"id":"umayyad-caliphate","name":"Umayyad Caliphate","from":666,"to":750,"peak":1.0,"km2":17000,"tier":1},
+  {"id":"abbasid-caliphate-750","name":"Abbasid Caliphate","from":751,"to":946,"peak":1.0,"km2":17000,"tier":1},
+  {"id":"qarmatians","name":"Qarmatians","from":899,"to":979,"peak":0.22,"km2":4000,"tier":2},
+  {"id":"abbasid-caliphate-buyid-dynasty","name":"Abbasid Caliphate/Buyid Dynasty","from":947,"to":969,"peak":0.76,"km2":13000,"tier":1},
+  {"id":"buyid-dynasty","name":"Buyid Dynasty","from":970,"to":1055,"peak":0.98,"km2":17000,"tier":1},
+  {"id":"great-seljuk-empire","name":"Great Seljuk Empire","from":1056,"to":1201,"peak":0.31,"km2":5000,"tier":2},
+  {"id":"uyunid-emirate","name":"Uyunid Emirate","from":1072,"to":1235,"peak":0.34,"km2":6000,"tier":2},
+  {"id":"abbasid-caliphate-1202","name":"Abbasid Caliphate","from":1202,"to":1259,"peak":0.31,"km2":5000,"tier":2},
+  {"id":"hamdanid-emirates","name":"Hamdanid Emirates","from":1236,"to":1259,"peak":0.34,"km2":6000,"tier":2},
+  {"id":"bahrani-dynasty","name":"Bahrani Dynasty","from":1260,"to":1520,"peak":0.34,"km2":6000,"tier":2},
+  {"id":"mongol-empire","name":"Mongol Empire","from":1260,"to":1293,"peak":0.31,"km2":5000,"tier":2},
+  {"id":"ilkhanate","name":"Ilkhanate","from":1294,"to":1343,"peak":0.31,"km2":5000,"tier":2},
+  {"id":"jalayirid-sultanate","name":"Jalayirid Sultanate","from":1344,"to":1401,"peak":0.31,"km2":5000,"tier":2},
+  {"id":"timurid-empire-1375","name":"Timurid Empire","from":1402,"to":1414,"peak":0.31,"km2":5000,"tier":2},
+  {"id":"hashemite-arab-federation","name":"Hashemite Arab Federation","from":1415,"to":1439,"peak":0.31,"km2":5000,"tier":2},
+  {"id":"aq-qoyunlu","name":"Aq Qoyunlu","from":1440,"to":1506,"peak":0.45,"km2":8000,"tier":2},
+  {"id":"qara-qoyunlu","name":"Qara Qoyunlu","from":1440,"to":1467,"peak":0.28,"km2":5000,"tier":2}
+],
+ "events":[
+  {"id":"Q2026625","name":"Battle of Chains","year":633,"type":"battle","links":22,"by":"location","wiki":"Battle of Chains"}
+]}

@@ -1,0 +1,4 @@
+{"lane": "liberia", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"republic-of-liberia","name":"Republic of Liberia","from":1848,"to":2024,"peak":0.99,"km2":95000,"tier":1}
+]}

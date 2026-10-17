@@ -1,0 +1,18 @@
+{"lane": "libya", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-libya","name":"Kingdom of Libya","from":1953,"to":1968,"peak":0.99,"km2":1603000,"tier":1},
+  {"id":"libyan-arab-republic","name":"Libyan Arab Republic","from":1969,"to":2013,"peak":0.99,"km2":1603000,"tier":1},
+  {"id":"state-of-libya","name":"State of Libya","from":2014,"to":2024,"peak":0.99,"km2":1603000,"tier":1}
+],
+ "events":[
+  {"id":"Q6107218","name":"1969 Libyan coup d'état","year":1969,"type":"coup","links":17,"by":"location","wiki":"1969 Libyan revolution"},
+  {"id":"Q81545","name":"Libyan Civil War","year":2011,"type":"revolution","links":89,"by":"coordinates","wiki":"Libyan civil war (2011)"},
+  {"id":"Q609013","name":"Battle of Tripoli","year":2011,"type":"battle","links":21,"by":"coordinates","wiki":"Battle of Tripoli (2011)"},
+  {"id":"Q989081","name":"First Battle of Brega","year":2011,"type":"battle","links":16,"by":"coordinates","wiki":"First Battle of Brega"},
+  {"id":"Q18702324","name":"Libyan crisis","year":2011,"type":"war","links":16,"by":"country","wiki":"Libyan crisis"},
+  {"id":"Q2270347","name":"Battle of Misrata","year":2011,"type":"siege","links":14,"by":"coordinates","wiki":"Battle of Misrata (2011)"},
+  {"id":"Q923890","name":"First Battle of Zawiya","year":2011,"type":"battle","links":12,"by":"coordinates","wiki":"First Battle of Zawiya"},
+  {"id":"Q1089511","name":"Battle of Ra's Lanuf","year":2011,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Ras Lanuf"},
+  {"id":"Q2361214","name":"Battle of Sirte","year":2011,"type":"siege","links":12,"by":"coordinates","wiki":"Battle of Sirte (2011)"},
+  {"id":"Q16911838","name":"Libyan Civil War","year":2014,"type":"war","links":39,"by":"location","to":2020,"wiki":"Libyan civil war (2014–2020)"}
+]}

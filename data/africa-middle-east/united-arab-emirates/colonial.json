@@ -1,0 +1,7 @@
+{"lane": "united-arab-emirates", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1856,"to":1995,"peak":0.98,"km2":70000,"tier":1,"realm":true},
+  {"id":"trucial-states","name":"Trucial States","from":1856,"to":1894,"peak":0.92,"km2":66000,"tier":1},
+  {"id":"qatar-dynasty","name":"Qatar Dynasty","from":1856,"to":1904,"peak":0.06,"km2":4000,"tier":3},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1895,"to":2023,"peak":0.98,"km2":70000,"tier":1}
+]}

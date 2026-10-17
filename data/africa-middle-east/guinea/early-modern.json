@@ -1,0 +1,4 @@
+{"lane": "guinea", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"mali-empire","name":"Mali Empire","from":1236,"to":1611,"peak":0.62,"km2":151000,"tier":1}
+]}

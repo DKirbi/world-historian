@@ -1,0 +1,29 @@
+{"lane": "lebanon", "period": "classical", "years": [-539, 631], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"phoenicia","name":"Phoenicia","from":-615,"to":-531,"peak":0.71,"km2":7000,"tier":1},
+  {"id":"phoenician-empire","name":"Phoenician Empire","from":-615,"to":-531,"peak":0.71,"km2":7000,"tier":1,"realm":true},
+  {"id":"neo-babylonian-empire","name":"Neo-Babylonian Empire","from":-600,"to":-531,"peak":0.9,"km2":9000,"tier":1},
+  {"id":"achaemenid-empire","name":"Achaemenid Empire","from":-530,"to":-332,"peak":0.9,"km2":9000,"tier":1},
+  {"id":"ptolemaic-kingdom","name":"Ptolemaic Kingdom","from":-331,"to":-324,"peak":0.9,"km2":9000,"tier":1},
+  {"id":"laomedon","name":"Laomedon","from":-323,"to":-319,"peak":0.9,"km2":9000,"tier":1},
+  {"id":"macedonian-empire","name":"Macedonian Empire","from":-318,"to":-302,"peak":0.9,"km2":9000,"tier":1},
+  {"id":"ptolemaic-kingdom","name":"Ptolemaic Kingdom","from":-301,"to":-219,"peak":0.89,"km2":9000,"tier":1},
+  {"id":"seleucid-empire","name":"Seleucid Empire","from":-218,"to":-217,"peak":0.9,"km2":9000,"tier":1},
+  {"id":"ptolemaic-kingdom","name":"Ptolemaic Kingdom","from":-216,"to":-198,"peak":0.89,"km2":9000,"tier":1},
+  {"id":"seleucid-empire","name":"Seleucid Empire","from":-197,"to":-78,"peak":0.9,"km2":9000,"tier":1},
+  {"id":"kingdom-of-armenia-326bce","name":"Kingdom of Armenia","from":-77,"to":-67,"peak":0.84,"km2":8000,"tier":1},
+  {"id":"seleucid-empire","name":"Seleucid Empire","from":-66,"to":-64,"peak":0.89,"km2":9000,"tier":1},
+  {"id":"roman-republic","name":"Roman Republic","from":-63,"to":-32,"peak":0.89,"km2":9000,"tier":1},
+  {"id":"parthian-empire","name":"Parthian Empire","from":-40,"to":-37,"peak":0.85,"km2":9000,"tier":1},
+  {"id":"ptolemaic-kingdom","name":"Ptolemaic Kingdom","from":-31,"to":-31,"peak":0.89,"km2":9000,"tier":1},
+  {"id":"roman-empire","name":"Roman Empire","from":-30,"to":260,"peak":0.9,"km2":9000,"tier":1},
+  {"id":"palmyrene-empire","name":"Palmyrene Empire","from":261,"to":269,"peak":0.9,"km2":9000,"tier":1},
+  {"id":"roman-empire","name":"Roman Empire","from":270,"to":394,"peak":0.9,"km2":9000,"tier":1},
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":395,"to":616,"peak":0.9,"km2":9000,"tier":1},
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":617,"to":626,"peak":0.9,"km2":9000,"tier":1},
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":627,"to":632,"peak":0.9,"km2":9000,"tier":1}
+],
+ "events":[
+  {"id":"Q815233","name":"Siege of Tyre","year":-332,"type":"siege","links":34,"by":"coordinates","wiki":"Siege of Tyre (332 BC)"},
+  {"id":"Q1271334","name":"Partition of Triparadisus","year":-321,"type":"treaty","links":23,"by":"location","wiki":"Partition of Triparadisus"}
+]}

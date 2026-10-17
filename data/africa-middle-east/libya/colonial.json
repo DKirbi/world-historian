@@ -1,0 +1,24 @@
+{"lane": "libya", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ottoman-tripolitania","name":"Ottoman Tripolitania","from":1840,"to":1911,"peak":0.54,"km2":880000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1905,"to":1935,"peak":0.36,"km2":584000,"tier":2,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1905,"to":1935,"peak":0.36,"km2":584000,"tier":2},
+  {"id":"french-third-republic","name":"French Third Republic","from":1905,"to":1919,"peak":0.1,"km2":158000,"tier":2,"realm":true},
+  {"id":"french-africa","name":"French Africa","from":1905,"to":1919,"peak":0.1,"km2":158000,"tier":2},
+  {"id":"italian-africa","name":"Italian Africa","from":1912,"to":1943,"peak":0.99,"km2":1603000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1944,"to":1952,"peak":0.63,"km2":1028000,"tier":1,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1944,"to":1952,"peak":0.63,"km2":1028000,"tier":1},
+  {"id":"vichy-france","name":"Vichy France","from":1944,"to":1944,"peak":0.36,"km2":589000,"tier":2,"realm":true},
+  {"id":"french-africa","name":"French Africa","from":1944,"to":1952,"peak":0.36,"km2":589000,"tier":2},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1952,"peak":0.36,"km2":589000,"tier":2,"realm":true},
+  {"id":"kingdom-of-libya","name":"Kingdom of Libya","from":1953,"to":1968,"peak":0.99,"km2":1603000,"tier":1}
+],
+ "events":[
+  {"id":"Q203824","name":"Italo-Turkish War","year":1911,"type":"war","links":62,"by":"location","to":1912,"wiki":"Italo-Turkish War"},
+  {"id":"Q611089","name":"Siege of Tobruk","year":1941,"type":"siege","links":33,"by":"coordinates","wiki":"Siege of Tobruk"},
+  {"id":"Q708223","name":"Operation Sonnenblume","year":1941,"type":"battle","links":26,"by":"coordinates","wiki":"Operation Sonnenblume"},
+  {"id":"Q2426368","name":"Battle of Bardia","year":1941,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Bardia"},
+  {"id":"Q327035","name":"Battle of Gazala","year":1942,"type":"battle","links":37,"by":"coordinates","wiki":"Battle of Gazala"},
+  {"id":"Q836128","name":"Battle of Bir Hakeim","year":1942,"type":"battle","links":30,"by":"coordinates","wiki":"Battle of Bir Hakeim"},
+  {"id":"Q2371769","name":"Battle of El Agheila","year":1942,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of El Agheila"}
+]}

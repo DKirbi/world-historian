@@ -1,0 +1,8 @@
+{"lane": "namibia", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"south-africa","name":"South Africa","from":1932,"to":1989,"peak":0.99,"km2":811000,"tier":1},
+  {"id":"namibia","name":"Namibia","from":1990,"to":2024,"peak":0.98,"km2":806000,"tier":1}
+],
+ "events":[
+  {"id":"Q1993848","name":"South African Border War","year":1966,"type":"war","links":34,"by":"location","to":1990,"wiki":"South African Border War"}
+]}

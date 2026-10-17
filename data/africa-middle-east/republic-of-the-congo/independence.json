@@ -1,0 +1,10 @@
+{"lane": "republic-of-the-congo", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"french-africa","name":"French Africa","from":1943,"to":1957,"peak":0.97,"km2":336000,"tier":1},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1957,"peak":0.97,"km2":336000,"tier":1,"realm":true},
+  {"id":"french-fifth-republic","name":"French Fifth Republic","from":1958,"to":1960,"peak":0.97,"km2":336000,"tier":1},
+  {"id":"republic-of-the-congo","name":"Republic of the Congo","from":1961,"to":2024,"peak":0.96,"km2":332000,"tier":1}
+],
+ "events":[
+  {"id":"Q1021172","name":"Republic of the Congo civil war","year":1997,"type":"war","links":15,"by":"location","to":1999,"wiki":"Republic of the Congo Civil War (1997–1999)"}
+]}

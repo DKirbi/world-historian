@@ -1,0 +1,13 @@
+{"lane": "egypt", "period": "iron-age", "years": [-1200, -540], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"new-kingdom-of-egypt","name":"New Kingdom of Egypt","from":-1500,"to":-801,"peak":0.5,"km2":505000,"tier":1},
+  {"id":"kingdom-of-kush","name":"Kingdom of Kush","from":-1000,"to":346,"peak":0.29,"km2":287000,"tier":2},
+  {"id":"twenty-second-dynasty-of-egypt","name":"Twenty-second Dynasty of Egypt","from":-800,"to":-701,"peak":0.17,"km2":166000,"tier":2},
+  {"id":"twenty-third-dynasty-of-egypt","name":"Twenty-third Dynasty of Egypt","from":-800,"to":-701,"peak":0.06,"km2":61000,"tier":3},
+  {"id":"neo-assyrian-empire","name":"Neo-Assyrian Empire","from":-675,"to":-616,"peak":0.47,"km2":473000,"tier":2},
+  {"id":"assyrian-egypt","name":"Assyrian Egypt","from":-650,"to":-616,"peak":0.47,"km2":473000,"tier":2},
+  {"id":"twenty-sixth-dynasty-of-egypt","name":"Twenty-sixth Dynasty of Egypt","from":-615,"to":-501,"peak":0.44,"km2":445000,"tier":2}
+],
+ "events":[
+  {"id":"Q1036947","name":"Battle of the Delta","year":-1178,"type":"battle","links":19,"by":"coordinates","wiki":"Battle of the Delta"}
+]}

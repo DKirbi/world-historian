@@ -1,0 +1,14 @@
+{"lane": "uganda", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"buganda","name":"Buganda","from":1420,"to":1966,"tier":2,"extent":"unknown","cited":"wikidata"},
+  {"id":"british-empire","name":"British Empire","from":1895,"to":1962,"peak":1.0,"km2":241000,"tier":1,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1895,"to":1960,"peak":1.0,"km2":241000,"tier":1},
+  {"id":"british-east-africa","name":"British East Africa","from":1961,"to":1968,"peak":0.86,"km2":207000,"tier":1},
+  {"id":"republic-of-uganda","name":"Republic of Uganda","from":1963,"to":2024,"peak":0.84,"km2":204000,"tier":1}
+],
+ "events":[
+  {"id":"Q3653895","name":"1971 Ugandan coup d'état","year":1971,"type":"coup","links":12,"by":"location","wiki":"1971 Ugandan coup d'état"},
+  {"id":"Q202465","name":"Uganda–Tanzania War","year":1978,"type":"war","links":37,"by":"location","to":1979,"wiki":"Uganda–Tanzania War"},
+  {"id":"Q3119017","name":"Ugandan Bush War","year":1981,"type":"war","links":16,"by":"location","to":1986,"wiki":"Ugandan Bush War"},
+  {"id":"Q139236054","name":"Ngogo chimpanzee war","year":2015,"type":"war","links":13,"by":"coordinates","wiki":"Ngogo Chimpanzee War"}
+]}

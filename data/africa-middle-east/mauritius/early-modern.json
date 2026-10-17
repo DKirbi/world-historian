@@ -1,0 +1,16 @@
+{"lane": "mauritius", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"dutch-republic","name":"Dutch Republic","from":1640,"to":1658,"peak":0.75,"km2":1000,"tier":1},
+  {"id":"dutch-republic","name":"Dutch Republic","from":1670,"to":1712,"peak":0.75,"km2":1000,"tier":1},
+  {"id":"french-india","name":"French India","from":1721,"to":1814,"peak":0.75,"km2":1000,"tier":1},
+  {"id":"kingdom-of-france","name":"Kingdom of France","from":1791,"to":1791,"peak":0.75,"km2":1000,"tier":1},
+  {"id":"french-first-republic","name":"French First Republic","from":1792,"to":1795,"peak":0.75,"km2":1000,"tier":1},
+  {"id":"french-directory","name":"French Directory","from":1796,"to":1799,"peak":0.75,"km2":1000,"tier":1},
+  {"id":"french-consulate","name":"French Consulate","from":1800,"to":1804,"peak":0.75,"km2":1000,"tier":1},
+  {"id":"first-french-empire","name":"First French Empire","from":1805,"to":1810,"peak":0.75,"km2":1000,"tier":1},
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1811,"to":1968,"peak":0.75,"km2":1000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1811,"to":1968,"peak":0.75,"km2":1000,"tier":1,"realm":true}
+],
+ "events":[
+  {"id":"Q267339","name":"Battle of Grand Port","year":1810,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Grand Port"}
+]}

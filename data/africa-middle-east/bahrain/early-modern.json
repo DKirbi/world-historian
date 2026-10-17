@@ -1,0 +1,18 @@
+{"lane": "bahrain", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"bahrani-dynasty","name":"Bahrani Dynasty","from":1260,"to":1520,"peak":0.89,"km2":500,"tier":1},
+  {"id":"portuguese-empire","name":"Portuguese Empire","from":1521,"to":1555,"peak":0.89,"km2":500,"tier":1,"realm":true},
+  {"id":"kingdom-of-portugal-1147","name":"Kingdom of Portugal","from":1521,"to":1555,"peak":0.89,"km2":500,"tier":1},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1556,"to":1563,"peak":0.89,"km2":500,"tier":1},
+  {"id":"portuguese-empire","name":"Portuguese Empire","from":1564,"to":1581,"peak":0.89,"km2":500,"tier":1,"realm":true},
+  {"id":"kingdom-of-portugal-1147","name":"Kingdom of Portugal","from":1564,"to":1581,"peak":0.89,"km2":500,"tier":1},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1582,"to":1608,"peak":0.89,"km2":500,"tier":1,"realm":true},
+  {"id":"iberian-union","name":"Iberian Union","from":1582,"to":1608,"peak":0.89,"km2":500,"tier":1},
+  {"id":"safavid-dynasty","name":"Safavid Dynasty","from":1609,"to":1717,"peak":0.89,"km2":500,"tier":1},
+  {"id":"yarubid-dynasty","name":"Yarubid dynasty","from":1718,"to":1740,"peak":0.89,"km2":500,"tier":1},
+  {"id":"afsharid-iran","name":"Afsharid Iran","from":1738,"to":1756,"peak":0.89,"km2":500,"tier":1},
+  {"id":"bahrain","name":"Bahrain","from":1757,"to":1782,"peak":0.89,"km2":500,"tier":1},
+  {"id":"house-of-khalifa","name":"House of Khalifa","from":1783,"to":1799,"peak":0.89,"km2":500,"tier":1},
+  {"id":"sultanate-of-oman-1744","name":"Sultanate of Oman","from":1800,"to":1802,"peak":0.89,"km2":500,"tier":1},
+  {"id":"house-of-khalifa","name":"House of Khalifa","from":1803,"to":1894,"peak":0.89,"km2":500,"tier":1}
+]}

@@ -1,0 +1,21 @@
+{"lane": "saudi-arabia", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"emirate-of-nejd","name":"Emirate of Nejd","from":1825,"to":1894,"peak":0.53,"km2":1028000,"tier":1},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1842,"to":1916,"peak":0.28,"km2":531000,"tier":2},
+  {"id":"emirate-of-jabal-shammar","name":"Emirate of Jabal Shammar","from":1877,"to":1904,"peak":0.35,"km2":675000,"tier":2},
+  {"id":"emirate-of-nejd","name":"Emirate of Nejd","from":1905,"to":1925,"peak":0.54,"km2":1041000,"tier":1},
+  {"id":"emirate-of-jabal-shammar","name":"Emirate of Jabal Shammar","from":1905,"to":1915,"peak":0.04,"km2":84000,"tier":3,"inside":true},
+  {"id":"emirate-of-jabal-shammar","name":"Emirate of Jabal Shammar","from":1916,"to":1921,"peak":0.14,"km2":260000,"tier":2},
+  {"id":"kingdom-of-hejaz","name":"Kingdom of Hejaz","from":1917,"to":1925,"peak":0.17,"km2":335000,"tier":2},
+  {"id":"kingdom-of-hejaz-and-nejd","name":"Kingdom of Hejaz and Nejd","from":1926,"to":1935,"peak":0.85,"km2":1641000,"tier":1},
+  {"id":"kingdom-of-saudi-arabia","name":"Kingdom of Saudi Arabia","from":1936,"to":2024,"peak":0.99,"km2":1910000,"tier":1}
+],
+ "events":[
+  {"id":"Q7837031","name":"Treaty of Darin","year":1915,"type":"treaty","links":15,"by":"location","wiki":"Treaty of Darin"},
+  {"id":"Q2089011","name":"Siege of Medina","year":1916,"type":"siege","links":18,"by":"coordinates","to":1919,"wiki":"Siege of Medina"},
+  {"id":"Q2089020","name":"Battle of Mecca","year":1916,"type":"battle","links":16,"by":"location","wiki":"Battle of Mecca (1916)"},
+  {"id":"Q94635","name":"Uqair Protocol of 1922","year":1922,"type":"treaty","links":14,"by":"location","wiki":"Uqair Protocol of 1922"},
+  {"id":"Q4871705","name":"Battle of Mecca","year":1924,"type":"battle","links":12,"by":"coordinates","wiki":"Capture of Mecca (1924)"},
+  {"id":"Q17035545","name":"Treaty of Jeddah","year":1927,"type":"treaty","links":15,"by":"location","wiki":"Treaty of Jeddah (1927)"},
+  {"id":"Q1367731","name":"Saudi–Yemeni War","year":1934,"type":"war","links":17,"by":"location","wiki":"Saudi–Yemeni war (1934)"}
+]}

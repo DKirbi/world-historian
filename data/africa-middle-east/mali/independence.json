@@ -1,0 +1,14 @@
+{"lane": "mali", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"french-africa","name":"French Africa","from":1880,"to":1957,"peak":1.0,"km2":1254000,"tier":1},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1957,"peak":1.0,"km2":1254000,"tier":1,"realm":true},
+  {"id":"french-fifth-republic","name":"French Fifth Republic","from":1958,"to":1959,"peak":1.0,"km2":1254000,"tier":1},
+  {"id":"mali-federation","name":"Mali Federation","from":1960,"to":2024,"peak":0.98,"km2":1233000,"tier":1}
+],
+ "events":[
+  {"id":"Q2946372","name":"Mali War","year":2012,"type":"war","links":47,"by":"coordinates","wiki":"Mali War"},
+  {"id":"Q875912","name":"2012 Malian coup d'état","year":2012,"type":"coup","links":22,"by":"coordinates","wiki":"2012 Malian coup d'état"},
+  {"id":"Q1525846","name":"2012 Tuareg rebellion","year":2012,"type":"coup","links":17,"by":"coordinates","wiki":"Tuareg rebellion (2012)"},
+  {"id":"Q98457371","name":"2020 Malian coup d'état","year":2020,"type":"coup","links":28,"by":"coordinates","wiki":"2020 Malian coup d'état"},
+  {"id":"Q106975429","name":"2021 Malian coup d'état","year":2021,"type":"coup","links":16,"by":"country","wiki":"2021 Malian coup d'état"}
+]}

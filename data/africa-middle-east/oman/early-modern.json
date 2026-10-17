@@ -1,0 +1,7 @@
+{"lane": "oman", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"mahdids","name":"Mahdids","from":1475,"to":1506,"peak":0.01,"km2":3000,"tier":3,"inside":true},
+  {"id":"yarubid-dynasty","name":"Yarubid dynasty","from":1626,"to":1740,"peak":0.23,"km2":72000,"tier":2},
+  {"id":"sultanate-of-oman-1744","name":"Sultanate of Oman","from":1744,"to":1899,"peak":0.57,"km2":179000,"tier":1},
+  {"id":"emirate-of-diriyah","name":"Emirate of Diriyah","from":1803,"to":1814,"peak":0.14,"km2":43000,"tier":3}
+]}

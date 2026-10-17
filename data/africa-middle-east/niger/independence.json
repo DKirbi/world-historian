@@ -1,0 +1,12 @@
+{"lane": "niger", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"french-africa","name":"French Africa","from":1900,"to":1957,"peak":1.0,"km2":1179000,"tier":1},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1957,"peak":1.0,"km2":1179000,"tier":1,"realm":true},
+  {"id":"french-fifth-republic","name":"French Fifth Republic","from":1958,"to":1960,"peak":1.0,"km2":1179000,"tier":1},
+  {"id":"republic-of-the-niger","name":"Republic of the Niger","from":1961,"to":2024,"peak":0.99,"km2":1166000,"tier":1}
+],
+ "events":[
+  {"id":"Q924625","name":"2010 Nigerien coup d'état","year":2010,"type":"coup","links":18,"by":"coordinates","wiki":"2010 Nigerien coup d'état"},
+  {"id":"Q106305106","name":"2021 Niger coup d'état attempt","year":2021,"type":"coup","links":12,"by":"coordinates","wiki":"2021 Nigerien coup attempt"},
+  {"id":"Q117100709","name":"2023 Nigerien coup d'état","year":2023,"type":"coup","links":46,"by":"coordinates","wiki":"2023 Nigerien coup d'état"}
+]}

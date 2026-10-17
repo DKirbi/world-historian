@@ -1,0 +1,11 @@
+{"lane": "lebanon", "period": "iron-age", "years": [-1200, -540], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"new-kingdom-of-egypt","name":"New Kingdom of Egypt","from":-1400,"to":-1151,"peak":0.89,"km2":9000,"tier":1},
+  {"id":"phoenicia","name":"Phoenicia","from":-1150,"to":-676,"peak":0.73,"km2":7000,"tier":1},
+  {"id":"phoenician-empire","name":"Phoenician Empire","from":-1150,"to":-701,"peak":0.73,"km2":7000,"tier":1,"realm":true},
+  {"id":"neo-assyrian-empire","name":"Neo-Assyrian Empire","from":-800,"to":-601,"peak":0.9,"km2":9000,"tier":1},
+  {"id":"assyrian-egypt","name":"Assyrian Egypt","from":-650,"to":-616,"peak":0.9,"km2":9000,"tier":1},
+  {"id":"phoenicia","name":"Phoenicia","from":-615,"to":-531,"peak":0.71,"km2":7000,"tier":1},
+  {"id":"phoenician-empire","name":"Phoenician Empire","from":-615,"to":-531,"peak":0.71,"km2":7000,"tier":1,"realm":true},
+  {"id":"neo-babylonian-empire","name":"Neo-Babylonian Empire","from":-600,"to":-531,"peak":0.9,"km2":9000,"tier":1}
+]}

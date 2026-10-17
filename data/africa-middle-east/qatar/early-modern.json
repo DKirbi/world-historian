@@ -1,0 +1,15 @@
+{"lane": "qatar", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"bahrani-dynasty","name":"Bahrani Dynasty","from":1260,"to":1520,"peak":0.99,"km2":11000,"tier":1},
+  {"id":"portuguese-empire","name":"Portuguese Empire","from":1521,"to":1551,"peak":0.99,"km2":11000,"tier":1,"realm":true},
+  {"id":"kingdom-of-portugal-1147","name":"Kingdom of Portugal","from":1521,"to":1555,"peak":0.99,"km2":11000,"tier":1},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1552,"to":1563,"peak":0.99,"km2":11000,"tier":1},
+  {"id":"portuguese-empire","name":"Portuguese Empire","from":1564,"to":1571,"peak":0.99,"km2":11000,"tier":1,"realm":true},
+  {"id":"kingdom-of-portugal-1147","name":"Kingdom of Portugal","from":1564,"to":1581,"peak":0.99,"km2":11000,"tier":1},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1572,"to":1639,"peak":0.99,"km2":11000,"tier":1},
+  {"id":"house-of-khalifa","name":"House of Khalifa","from":1783,"to":1799,"peak":0.06,"km2":1000,"tier":3},
+  {"id":"emirate-of-diriyah","name":"Emirate of Diriyah","from":1791,"to":1819,"peak":0.99,"km2":11000,"tier":1},
+  {"id":"qatar-dynasty","name":"Qatar Dynasty","from":1820,"to":1894,"peak":0.99,"km2":11000,"tier":1},
+  {"id":"emirate-of-nejd","name":"Emirate of Nejd","from":1853,"to":1872,"peak":0.4,"km2":4000,"tier":2},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1873,"to":1912,"peak":0.99,"km2":11000,"tier":1}
+]}

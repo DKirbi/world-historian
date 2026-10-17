@@ -1,0 +1,16 @@
+{"lane": "tunisia", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"french-third-republic","name":"French Third Republic","from":1885,"to":1939,"peak":0.98,"km2":153000,"tier":1,"realm":true},
+  {"id":"french-africa","name":"French Africa","from":1885,"to":1955,"peak":0.98,"km2":153000,"tier":1},
+  {"id":"vichy-france","name":"Vichy France","from":1940,"to":1944,"peak":0.97,"km2":153000,"tier":1,"realm":true},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1955,"peak":0.97,"km2":153000,"tier":1,"realm":true},
+  {"id":"republic-of-tunisia","name":"Republic of Tunisia","from":1956,"to":2024,"peak":0.95,"km2":149000,"tier":1}
+],
+ "events":[
+  {"id":"Q714242","name":"Battle of Cape Bon","year":1941,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Cape Bon (1941)"},
+  {"id":"Q852365","name":"Tunisia campaign","year":1942,"type":"campaign","links":35,"by":"coordinates","to":1943,"wiki":"Tunisian campaign"},
+  {"id":"Q327099","name":"Battle of Kasserine Passe","year":1943,"type":"battle","links":35,"by":"coordinates","wiki":"Battle of Kasserine Pass"},
+  {"id":"Q1154689","name":"Battle of the Mareth Line","year":1943,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of the Mareth Line"},
+  {"id":"Q1983926","name":"Battle of Sidi Bou Zid","year":1943,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Sidi Bou Zid"},
+  {"id":"Q2363492","name":"Battle of El Guettar","year":1943,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of El Guettar"}
+]}

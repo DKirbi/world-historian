@@ -1,0 +1,16 @@
+{"lane": "algeria", "period": "caliphates", "years": [632, 1499], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"umayyad-caliphate","name":"Umayyad Caliphate","from":682,"to":749,"peak":0.39,"km2":903000,"tier":2},
+  {"id":"rustamid-dynasty","name":"Rustamid dynasty","from":778,"to":910,"peak":0.14,"km2":324000,"tier":2},
+  {"id":"fatimid-caliphate","name":"Fatimid Caliphate","from":911,"to":1017,"peak":0.09,"km2":211000,"tier":2},
+  {"id":"hammadid-dynasty","name":"Hammadid Dynasty","from":1018,"to":1065,"peak":0.07,"km2":164000,"tier":2},
+  {"id":"almoravid-dynasty","name":"Almoravid Dynasty","from":1056,"to":1138,"peak":0.08,"km2":192000,"tier":2},
+  {"id":"hammadid-dynasty","name":"Hammadid Dynasty","from":1066,"to":1151,"peak":0.01,"km2":32000,"tier":3,"inside":true},
+  {"id":"almohad-caliphate","name":"Almohad Caliphate","from":1152,"to":1235,"peak":0.1,"km2":231000,"tier":2},
+  {"id":"zayyanid-dynasty","name":"Zayyanid dynasty","from":1236,"to":1343,"peak":0.05,"km2":125000,"tier":2},
+  {"id":"marinid-sultanate-1344","name":"Marinid Sultanate","from":1344,"to":1362,"peak":0.1,"km2":231000,"tier":2},
+  {"id":"zayyanid-dynasty","name":"Zayyanid dynasty","from":1363,"to":1555,"peak":0.05,"km2":125000,"tier":2}
+],
+ "events":[
+  {"id":"Q2237785","name":"Battle of Vescera","year":682,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Vescera"}
+]}

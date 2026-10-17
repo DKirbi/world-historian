@@ -1,0 +1,18 @@
+{"lane": "cameroon", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"bornu-empire","name":"Bornu Empire","from":1579,"to":1894,"peak":0.09,"km2":42000,"tier":3},
+  {"id":"sokoto-caliphate","name":"Sokoto Caliphate","from":1809,"to":1904,"peak":0.18,"km2":85000,"tier":3},
+  {"id":"german-africa","name":"German Africa","from":1890,"to":1915,"peak":0.99,"km2":461000,"tier":1},
+  {"id":"french-third-republic","name":"French Third Republic","from":1916,"to":1939,"peak":0.91,"km2":420000,"tier":1,"realm":true},
+  {"id":"french-africa","name":"French Africa","from":1916,"to":1939,"peak":0.91,"km2":420000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1916,"to":1960,"peak":0.09,"km2":43000,"tier":3,"realm":true},
+  {"id":"british-gold-coast","name":"British Gold Coast","from":1916,"to":1960,"peak":0.09,"km2":43000,"tier":3},
+  {"id":"free-french","name":"Free French","from":1940,"to":1943,"peak":0.91,"km2":420000,"tier":1},
+  {"id":"vichy-france","name":"Vichy France","from":1943,"to":1944,"peak":0.91,"km2":420000,"tier":1,"realm":true},
+  {"id":"french-africa","name":"French Africa","from":1943,"to":1957,"peak":0.91,"km2":420000,"tier":1},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1957,"peak":0.91,"km2":420000,"tier":1,"realm":true}
+],
+ "events":[
+  {"id":"Q5042244","name":"Kamerun campaign","year":1914,"type":"campaign","links":17,"by":"coordinates","to":1916,"wiki":"Kamerun campaign"},
+  {"id":"Q1723036","name":"West Africa Campaign","year":1914,"type":"campaign","links":12,"by":"location","to":1916}
+]}

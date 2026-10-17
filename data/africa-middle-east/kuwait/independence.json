@@ -1,0 +1,11 @@
+{"lane": "kuwait", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1915,"to":1960,"peak":0.78,"km2":13000,"tier":1,"realm":true},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1947,"to":1968,"peak":0.73,"km2":13000,"tier":1},
+  {"id":"kingdom-of-iraq","name":"Kingdom of Iraq","from":1947,"to":1957,"peak":0.05,"km2":1000,"tier":3},
+  {"id":"iraqi-republic","name":"Iraqi Republic","from":1960,"to":2005,"peak":0.95,"km2":17000,"tier":1},
+  {"id":"state-of-kuwait","name":"State of Kuwait","from":1961,"to":1989,"peak":0.9,"km2":16000,"tier":1},
+  {"id":"kuwait-1991","name":"Kuwait","from":1991,"to":2024,"peak":0.9,"km2":16000,"tier":1},
+  {"id":"united-states-of-america","name":"United States of America","from":2006,"to":2023,"peak":0.05,"km2":1000,"tier":3},
+  {"id":"republic-of-iraq","name":"Republic of Iraq","from":2014,"to":2024,"peak":0.05,"km2":1000,"tier":3}
+]}

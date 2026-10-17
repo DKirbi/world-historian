@@ -1,0 +1,5 @@
+{"lane": "sierra-leone", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1820,"to":1960,"peak":0.99,"km2":71000,"tier":1,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1885,"to":1960,"peak":0.98,"km2":70000,"tier":1}
+]}

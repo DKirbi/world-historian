@@ -1,0 +1,7 @@
+{"lane": "tunisia", "period": "iron-age", "years": [-1200, -540], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"phoenicia","name":"Phoenicia","from":-800,"to":-651,"peak":0.05,"km2":8000,"tier":3},
+  {"id":"phoenician-empire","name":"Phoenician Empire","from":-800,"to":-651,"peak":0.05,"km2":8000,"tier":3,"realm":true},
+  {"id":"carthage","name":"Carthage","from":-650,"to":-631,"peak":0.02,"km2":4000,"tier":3,"inside":true},
+  {"id":"carthage","name":"Carthage","from":-630,"to":-145,"peak":0.53,"km2":83000,"tier":1}
+]}

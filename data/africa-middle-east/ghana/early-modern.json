@@ -1,0 +1,11 @@
+{"lane": "ghana", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"dutch-gold-coast","name":"Dutch Gold Coast","from":1653,"to":1872,"peak":0.03,"km2":8000,"tier":3,"inside":true},
+  {"id":"danish-gold-coast","name":"Danish Gold Coast","from":1659,"to":1852,"peak":0.01,"km2":1000,"tier":3,"inside":true},
+  {"id":"ashanti-empire","name":"Ashanti Empire","from":1702,"to":1897,"peak":0.61,"km2":145000,"tier":1},
+  {"id":"british-gold-coast","name":"British Gold Coast","from":1873,"to":1884,"peak":0.03,"km2":8000,"tier":3,"inside":true}
+],
+ "events":[
+  {"id":"Q1140266","name":"Battle of Elmina","year":1625,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Elmina (1625)"},
+  {"id":"Q722051","name":"Anglo-Ashanti wars","year":1823,"type":"war","links":13,"by":"coordinates","to":1900,"wiki":"Anglo-Ashanti wars"}
+]}

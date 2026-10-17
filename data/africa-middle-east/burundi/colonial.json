@@ -1,0 +1,10 @@
+{"lane": "burundi", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"german-africa","name":"German Africa","from":1895,"to":1916,"peak":0.96,"km2":26000,"tier":1},
+  {"id":"belgian-congo","name":"Belgian Congo","from":1916,"to":1962,"peak":0.88,"km2":24000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1917,"to":1960,"peak":0.1,"km2":3000,"tier":3,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1917,"to":1960,"peak":0.1,"km2":3000,"tier":3}
+],
+ "events":[
+  {"id":"Q705553","name":"Majimaji War","year":1905,"type":"rebellion","links":29,"by":"location","to":1907,"wiki":"Maji Maji Rebellion"}
+]}

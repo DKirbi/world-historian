@@ -1,0 +1,14 @@
+{"lane": "eritrea", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ethiopian-empire","name":"Ethiopian Empire","from":1272,"to":1889,"peak":0.49,"km2":61000,"tier":2},
+  {"id":"italian-africa","name":"Italian Africa","from":1890,"to":1940,"peak":0.96,"km2":119000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1941,"to":1952,"peak":1.0,"km2":123000,"tier":1,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1941,"to":1952,"peak":1.0,"km2":123000,"tier":1},
+  {"id":"ethiopia","name":"Ethiopia","from":1953,"to":1991,"peak":0.96,"km2":119000,"tier":1}
+],
+ "events":[
+  {"id":"Q674553","name":"Battle of Dogali","year":1887,"type":"battle","links":12,"by":"location","wiki":"Battle of Dogali"},
+  {"id":"Q3778598","name":"Italo-Ethiopian War of 1887–1889","year":1887,"type":"war","links":12,"by":"location","wiki":"Italo-Ethiopian War of 1887–1889"},
+  {"id":"Q989115","name":"First Italo-Ethiopian War","year":1894,"type":"war","links":46,"by":"location","to":1896,"wiki":"First Italo-Ethiopian War"},
+  {"id":"Q1970005","name":"Battle of Keren","year":1941,"type":"battle","links":17,"by":"coordinates","wiki":"Battle of Keren"}
+]}

@@ -1,0 +1,21 @@
+{"lane": "morocco", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"morocco","name":"Morocco","from":1670,"to":1911,"peak":0.62,"km2":363000,"tier":1},
+  {"id":"kingdom-of-spain-1640","name":"Kingdom of Spain","from":1885,"to":1931,"peak":0.37,"km2":218000,"tier":2},
+  {"id":"french-third-republic","name":"French Third Republic","from":1912,"to":1939,"peak":0.62,"km2":361000,"tier":1,"realm":true},
+  {"id":"french-africa","name":"French Africa","from":1912,"to":1955,"peak":0.62,"km2":361000,"tier":1},
+  {"id":"tangier-international-zone","name":"Tangier International Zone","from":1912,"to":1957,"peak":0.0,"km2":300,"tier":3,"inside":true},
+  {"id":"second-spanish-republic","name":"Second Spanish Republic","from":1932,"to":1938,"peak":0.37,"km2":218000,"tier":2},
+  {"id":"francoist-spain","name":"Francoist Spain","from":1939,"to":1975,"peak":0.37,"km2":218000,"tier":2},
+  {"id":"vichy-france","name":"Vichy France","from":1940,"to":1944,"peak":0.62,"km2":360000,"tier":1,"realm":true},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1955,"peak":0.62,"km2":360000,"tier":1,"realm":true},
+  {"id":"morocco","name":"Morocco","from":1956,"to":2024,"peak":0.69,"km2":399000,"tier":1}
+],
+ "events":[
+  {"id":"Q2935421","name":"French conquest of Morocco","year":1907,"type":"war","links":18,"by":"location","to":1937,"wiki":"French conquest of Morocco"},
+  {"id":"Q2032554","name":"Second Melillan campaign","year":1909,"type":"war","links":12,"by":"location","wiki":"Second Melillan campaign"},
+  {"id":"Q766437","name":"Rif War","year":1911,"type":"war","links":39,"by":"location","to":1927,"wiki":"Rif War"},
+  {"id":"Q931982","name":"Treaty of Fes","year":1912,"type":"treaty","links":34,"by":"location","wiki":"Treaty of Fes"},
+  {"id":"Q1138460","name":"Battle of Annual","year":1921,"type":"battle","links":24,"by":"coordinates","wiki":"Battle of Annual"},
+  {"id":"Q3273519","name":"Naval Battle of Casablanca","year":1942,"type":"battle","links":14,"by":"coordinates","wiki":"Naval Battle of Casablanca"}
+]}

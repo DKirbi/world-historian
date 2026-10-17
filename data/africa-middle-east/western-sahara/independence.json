@@ -1,0 +1,4 @@
+{"lane": "western-sahara", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"francoist-spain","name":"Francoist Spain","from":1939,"to":1975,"peak":0.99,"km2":90000,"tier":1}
+]}

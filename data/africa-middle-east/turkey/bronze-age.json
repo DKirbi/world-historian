@@ -1,0 +1,9 @@
+{"lane": "turkey", "period": "bronze-age", "years": [-3400, -1201], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"akkadian-empire","name":"Akkadian Empire","from":-2250,"to":-2201,"peak":0.08,"km2":62000,"tier":3},
+  {"id":"hittites","name":"Hittites","from":-1600,"to":-1151,"peak":0.37,"km2":292000,"tier":2},
+  {"id":"assyria","name":"Assyria","from":-1240,"to":-1001,"peak":0.29,"km2":226000,"tier":2}
+],
+ "events":[
+  {"id":"Q253155","name":"Egyptian–Hittite peace treaty","year":-1259,"type":"treaty","links":30,"by":"location","wiki":"Egyptian–Hittite peace treaty"}
+]}

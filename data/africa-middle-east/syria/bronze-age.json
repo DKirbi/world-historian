@@ -1,0 +1,14 @@
+{"lane": "syria", "period": "bronze-age", "years": [-3400, -1201], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"akkadian-empire","name":"Akkadian Empire","from":-2300,"to":-2101,"peak":0.59,"km2":110000,"tier":1},
+  {"id":"assyria","name":"Assyria","from":-1800,"to":-1761,"peak":0.06,"km2":11000,"tier":3},
+  {"id":"hyksos","name":"Hyksos","from":-1700,"to":-1401,"peak":0.09,"km2":17000,"tier":3},
+  {"id":"mitanni","name":"Mitanni","from":-1500,"to":-1241,"peak":0.58,"km2":108000,"tier":1},
+  {"id":"new-kingdom-of-egypt","name":"New Kingdom of Egypt","from":-1400,"to":-1151,"peak":0.11,"km2":21000,"tier":3},
+  {"id":"assyria","name":"Assyria","from":-1300,"to":-1001,"peak":0.54,"km2":100000,"tier":1},
+  {"id":"hittites","name":"Hittites","from":-1300,"to":-1151,"peak":0.16,"km2":29000,"tier":3}
+],
+ "events":[
+  {"id":"Q203729","name":"Battle of Kadesh","year":-1274,"type":"battle","links":56,"by":"coordinates","wiki":"Battle of Kadesh"},
+  {"id":"Q906834","name":"Battle of Nihriya","year":-1237,"type":"battle","links":16,"by":"location","wiki":"Battle of Nihriya"}
+]}

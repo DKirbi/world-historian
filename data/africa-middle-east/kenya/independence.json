@@ -1,0 +1,11 @@
+{"lane": "kenya", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1895,"to":1962,"peak":0.99,"km2":586000,"tier":1,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1895,"to":1960,"peak":0.99,"km2":586000,"tier":1},
+  {"id":"british-east-africa","name":"British East Africa","from":1961,"to":1968,"peak":0.97,"km2":577000,"tier":1},
+  {"id":"republic-of-kenya","name":"Republic of Kenya","from":1963,"to":2024,"peak":0.97,"km2":576000,"tier":1}
+],
+ "events":[
+  {"id":"Q385961","name":"African Charter on Human and Peoples' Rights","year":1981,"type":"treaty","links":31,"by":"location","wiki":"African Charter on Human and Peoples' Rights"},
+  {"id":"Q1424647","name":"Comprehensive Peace Agreement","year":2005,"type":"treaty","links":20,"by":"location","wiki":"Comprehensive Peace Agreement"}
+]}

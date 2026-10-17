@@ -1,0 +1,9 @@
+{"lane": "zimbabwe", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1890,"to":1968,"peak":0.99,"km2":385000,"tier":1,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1890,"to":1960,"peak":0.99,"km2":385000,"tier":1}
+],
+ "events":[
+  {"id":"Q857982","name":"First Matabele War","year":1893,"type":"war","links":24,"by":"location","to":1894,"wiki":"First Matabele War"},
+  {"id":"Q233657","name":"Second Matabele War","year":1896,"type":"war","links":20,"by":"location","to":1897,"wiki":"First Chimurenga"}
+]}

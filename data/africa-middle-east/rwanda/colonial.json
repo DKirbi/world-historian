@@ -1,0 +1,8 @@
+{"lane": "rwanda", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"kingdom-of-rwanda","name":"Kingdom of Rwanda","from":1401,"to":1962,"tier":2,"extent":"unknown","cited":"wikipedia","approx":true},
+  {"id":"german-africa","name":"German Africa","from":1895,"to":1916,"peak":1.0,"km2":25000,"tier":1},
+  {"id":"belgian-congo","name":"Belgian Congo","from":1916,"to":1962,"peak":0.93,"km2":23000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1917,"to":1960,"peak":0.08,"km2":2000,"tier":3,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1917,"to":1960,"peak":0.08,"km2":2000,"tier":3}
+]}

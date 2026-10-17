@@ -1,0 +1,12 @@
+{"lane": "south-africa", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"south-africa","name":"South Africa","from":1932,"to":2024,"peak":0.98,"km2":1200000,"tier":1}
+],
+ "events":[
+  {"id":"Q1207604","name":"Namibian War of Independence","year":1960,"type":"war","links":12,"by":"location","to":1989},
+  {"id":"Q153081","name":"Soweto uprising","year":1976,"type":"rebellion","links":39,"by":"location","wiki":"Soweto uprising"},
+  {"id":"Q1301424","name":"Nkomati Accord","year":1984,"type":"treaty","links":16,"by":"coordinates","wiki":"Nkomati Accord"},
+  {"id":"Q1468283","name":"African Nuclear Weapon Free Zone Treaty","year":1996,"type":"treaty","links":15,"by":"location","wiki":"African Nuclear-Weapon-Free Zone Treaty"},
+  {"id":"Q80439","name":"Convention on International Interests in Mobile Equipment","year":2001,"type":"treaty","links":12,"by":"location","wiki":"Cape Town Treaty"},
+  {"id":"Q115124248","name":"Ethiopia–Tigray peace agreement","year":2022,"type":"treaty","links":13,"by":"location","wiki":"Ethiopia–Tigray peace agreement"}
+]}

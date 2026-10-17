@@ -1,0 +1,4 @@
+{"lane": "ethiopia", "period": "classical", "years": [-539, 631], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-axum","name":"Kingdom of Axum","from":-50,"to":946,"peak":0.05,"km2":59000,"tier":3}
+]}

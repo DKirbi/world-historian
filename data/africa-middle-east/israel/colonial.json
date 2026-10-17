@@ -1,0 +1,19 @@
+{"lane": "israel", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1842,"to":1917,"peak":0.96,"km2":21000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1885,"to":1914,"peak":0.06,"km2":1000,"tier":3,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1885,"to":1914,"peak":0.06,"km2":1000,"tier":3},
+  {"id":"british-empire","name":"British Empire","from":1917,"to":1947,"peak":0.97,"km2":21000,"tier":1,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1917,"to":1935,"peak":0.97,"km2":21000,"tier":1},
+  {"id":"kingdom-of-egypt","name":"Kingdom of Egypt","from":1922,"to":1952,"peak":0.06,"km2":1000,"tier":3},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1936,"to":1939,"peak":0.9,"km2":20000,"tier":1},
+  {"id":"british-africa","name":"British Africa","from":1940,"to":1945,"peak":0.91,"km2":20000,"tier":1},
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1946,"to":1946,"peak":0.91,"km2":20000,"tier":1},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1947,"to":1947,"peak":0.91,"km2":20000,"tier":1},
+  {"id":"state-of-israel","name":"State of Israel","from":1948,"to":2024,"peak":0.97,"km2":21000,"tier":1}
+],
+ "events":[
+  {"id":"Q2665626","name":"Battle of Beersheba","year":1917,"type":"battle","links":19,"by":"coordinates","wiki":"Battle of Beersheba (1917)"},
+  {"id":"Q199371","name":"Battle of Megiddo","year":1918,"type":"battle","links":23,"by":"coordinates","wiki":"Battle of Megiddo (1918)"},
+  {"id":"Q49097","name":"1948 Palestine war","year":1947,"type":"war","links":65,"by":"country","to":1949,"wiki":"1948 Palestine war"}
+]}

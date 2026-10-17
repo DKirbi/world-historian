@@ -1,0 +1,8 @@
+{"lane": "israel", "period": "bronze-age", "years": [-3400, -1201], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"hyksos","name":"Hyksos","from":-1800,"to":-1401,"peak":0.68,"km2":15000,"tier":1},
+  {"id":"new-kingdom-of-egypt","name":"New Kingdom of Egypt","from":-1500,"to":-1001,"peak":0.71,"km2":16000,"tier":1}
+],
+ "events":[
+  {"id":"Q733364","name":"Battle of Megiddo","year":-1457,"type":"battle","links":38,"by":"coordinates","wiki":"Battle of Megiddo (15th century BC)"}
+]}

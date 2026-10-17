@@ -1,0 +1,13 @@
+{"lane": "sudan", "period": "caliphates", "years": [632, 1499], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"alodia","name":"Alodia","from":347,"to":1506,"peak":0.07,"km2":124000,"tier":2},
+  {"id":"nobatia","name":"Nobatia","from":347,"to":655,"peak":0.05,"km2":87000,"tier":3},
+  {"id":"makuria","name":"Makuria","from":347,"to":655,"peak":0.04,"km2":65000,"tier":3,"inside":true},
+  {"id":"makuria","name":"Makuria","from":656,"to":1278,"peak":0.08,"km2":152000,"tier":2},
+  {"id":"mamluk-sultanate","name":"Mamluk Sultanate","from":1279,"to":1293,"peak":0.08,"km2":151000,"tier":2},
+  {"id":"makuria","name":"Makuria","from":1294,"to":1414,"peak":0.08,"km2":152000,"tier":2},
+  {"id":"makuria-kingdom","name":"Makuria Kingdom","from":1415,"to":1518,"peak":0.1,"km2":180000,"tier":2}
+],
+ "events":[
+  {"id":"Q7443083","name":"Second battle of Dongola","year":652,"type":"battle","links":13,"by":"coordinates","wiki":"Second battle of Dongola"}
+]}

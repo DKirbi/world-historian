@@ -1,0 +1,18 @@
+{"lane": "yemen", "period": "classical", "years": [-539, 631], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"hadhramaut","name":"Hadhramaut","from":-700,"to":305,"peak":0.21,"km2":97000,"tier":2},
+  {"id":"sabaeans-800bce","name":"Sabaeans","from":-675,"to":-67,"peak":0.12,"km2":56000,"tier":3},
+  {"id":"minaeans","name":"Minaeans","from":-383,"to":-189,"peak":0.05,"km2":21000,"tier":3},
+  {"id":"qataban-350bce","name":"Qataban","from":-350,"to":-67,"peak":0.03,"km2":12000,"tier":3,"inside":true},
+  {"id":"minaeans","name":"Minaeans","from":-188,"to":-67,"peak":0.06,"km2":25000,"tier":3},
+  {"id":"himyarite-kingdom","name":"Himyarite Kingdom","from":-110,"to":-32,"peak":0.32,"km2":143000,"tier":2},
+  {"id":"minaeans","name":"Minaeans","from":-36,"to":-26,"peak":0.18,"km2":82000,"tier":3},
+  {"id":"sabaeans-800bce","name":"Sabaeans","from":-36,"to":-20,"peak":0.1,"km2":47000,"tier":3},
+  {"id":"himyarite-kingdom","name":"Himyarite Kingdom","from":-25,"to":533,"peak":0.62,"km2":281000,"tier":1},
+  {"id":"sabaeans-154","name":"Sabaeans","from":154,"to":282,"peak":0.12,"km2":56000,"tier":3},
+  {"id":"qataban-154","name":"Qataban","from":154,"to":183,"peak":0.03,"km2":12000,"tier":3,"inside":true},
+  {"id":"kingdom-of-axum","name":"Kingdom of Axum","from":238,"to":352,"peak":0.06,"km2":28000,"tier":3},
+  {"id":"kingdom-of-axum","name":"Kingdom of Axum","from":534,"to":601,"peak":0.62,"km2":281000,"tier":1},
+  {"id":"himyarite-kingdom","name":"Himyarite Kingdom","from":577,"to":601,"peak":0.62,"km2":281000,"tier":1},
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":602,"to":632,"peak":0.62,"km2":281000,"tier":1}
+]}

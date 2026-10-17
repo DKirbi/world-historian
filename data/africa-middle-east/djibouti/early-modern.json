@@ -1,0 +1,6 @@
+{"lane": "djibouti", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"adal-sultanate","name":"Adal Sultanate","from":1415,"to":1546,"peak":1.0,"km2":22000,"tier":1},
+  {"id":"sultanate-of-harar","name":"Sultanate of Harar","from":1547,"to":1578,"peak":0.94,"km2":20000,"tier":1},
+  {"id":"ethiopian-empire","name":"Ethiopian Empire","from":1547,"to":1768,"peak":0.07,"km2":2000,"tier":3}
+]}

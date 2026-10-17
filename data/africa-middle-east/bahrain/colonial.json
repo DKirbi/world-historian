@@ -1,0 +1,6 @@
+{"lane": "bahrain", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"house-of-khalifa","name":"House of Khalifa","from":1803,"to":1894,"peak":0.89,"km2":500,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1895,"to":1995,"peak":0.89,"km2":500,"tier":1,"realm":true},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1895,"to":2023,"peak":0.89,"km2":500,"tier":1}
+]}

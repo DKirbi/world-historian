@@ -1,0 +1,4 @@
+{"lane": "tanzania", "period": "caliphates", "years": [632, 1499], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"kilwa-sultanate","name":"Kilwa Sultanate","from":957,"to":1513,"tier":2,"extent":"unknown","cited":"wikidata"}
+]}

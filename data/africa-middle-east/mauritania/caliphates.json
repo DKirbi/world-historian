@@ -1,0 +1,8 @@
+{"lane": "mauritania", "period": "caliphates", "years": [632, 1499], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ghana-empire","name":"Ghana Empire","from":793,"to":1201,"peak":0.07,"km2":71000,"tier":3},
+  {"id":"almoravid-dynasty","name":"Almoravid Dynasty","from":1056,"to":1138,"peak":0.74,"km2":769000,"tier":1},
+  {"id":"sosso-empire","name":"Sosso Empire","from":1202,"to":1235,"peak":0.07,"km2":71000,"tier":3},
+  {"id":"mali-empire","name":"Mali Empire","from":1236,"to":1474,"peak":0.2,"km2":203000,"tier":2},
+  {"id":"songhai-empire","name":"Songhai Empire","from":1475,"to":1594,"peak":0.15,"km2":155000,"tier":2}
+]}

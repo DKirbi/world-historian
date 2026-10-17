@@ -1,0 +1,13 @@
+{"lane": "somalia", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1890,"to":1959,"peak":0.99,"km2":635000,"tier":1,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1890,"to":1959,"peak":0.99,"km2":635000,"tier":1},
+  {"id":"federal-republic-of-somalia","name":"Federal Republic of Somalia","from":1960,"to":2024,"peak":0.99,"km2":632000,"tier":1}
+],
+ "events":[
+  {"id":"Q652284","name":"1982 Ethiopian–Somali Border War","year":1982,"type":"war","links":13,"by":"country","wiki":"1982 Ethiopian–Somali Border War"},
+  {"id":"Q243620","name":"Somali Civil War","year":1991,"type":"war","links":54,"by":"location","wiki":"Somali Civil War"},
+  {"id":"Q52226","name":"Battle of Mogadishu","year":1993,"type":"battle","links":38,"by":"coordinates","wiki":"Battle of Mogadishu (1993)"},
+  {"id":"Q1072042","name":"War in Somalia","year":2006,"type":"war","links":20,"by":"location","to":2009,"wiki":"War in Somalia (2006–2009)"},
+  {"id":"Q1052332","name":"Somali Civil War","year":2009,"type":"war","links":22,"by":"location","wiki":"Somali Civil War (2009–present)"}
+]}

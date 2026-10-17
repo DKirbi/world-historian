@@ -1,0 +1,21 @@
+{"lane": "libya", "period": "caliphates", "years": [632, 1499], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"garamantes","name":"Garamantes","from":150,"to":699,"tier":2,"extent":"unknown","cited":"wikipedia","approx":true},
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":395,"to":632,"peak":0.1,"km2":167000,"tier":2},
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":633,"to":646,"peak":0.1,"km2":167000,"tier":2},
+  {"id":"rashidun-caliphate","name":"Rashidun Caliphate","from":647,"to":655,"peak":0.1,"km2":166000,"tier":2},
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":656,"to":665,"peak":0.1,"km2":166000,"tier":2},
+  {"id":"umayyad-caliphate","name":"Umayyad Caliphate","from":666,"to":750,"peak":0.39,"km2":634000,"tier":2},
+  {"id":"abbasid-caliphate-750","name":"Abbasid Caliphate","from":751,"to":874,"peak":0.15,"km2":238000,"tier":2},
+  {"id":"rustamid-dynasty","name":"Rustamid dynasty","from":778,"to":910,"peak":0.05,"km2":87000,"tier":3},
+  {"id":"aghlabid-dynasty","name":"Aghlabid Dynasty","from":800,"to":910,"peak":0.05,"km2":87000,"tier":3},
+  {"id":"tulunids","name":"Tulunids","from":875,"to":910,"peak":0.09,"km2":150000,"tier":2},
+  {"id":"fatimid-caliphate","name":"Fatimid Caliphate","from":911,"to":1168,"peak":0.15,"km2":240000,"tier":2},
+  {"id":"abbasid-caliphate-750","name":"Abbasid Caliphate","from":911,"to":959,"peak":0.09,"km2":150000,"tier":2},
+  {"id":"zengid-dynasty","name":"Zengid dynasty","from":1169,"to":1176,"peak":0.07,"km2":116000,"tier":2},
+  {"id":"ayyubid-sultanate","name":"Ayyubid Sultanate","from":1177,"to":1249,"peak":0.07,"km2":117000,"tier":2},
+  {"id":"mamluk-sultanate","name":"Mamluk Sultanate","from":1250,"to":1518,"peak":0.07,"km2":116000,"tier":2}
+],
+ "events":[
+  {"id":"Q5432166","name":"Fall of Tripoli","year":1289,"type":"siege","links":16,"by":"coordinates","wiki":"Fall of Tripoli (1289)"}
+]}

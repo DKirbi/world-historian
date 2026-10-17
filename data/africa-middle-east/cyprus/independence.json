@@ -1,0 +1,11 @@
+{"lane": "cyprus", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1880,"to":1960,"peak":1.0,"km2":9000,"tier":1,"realm":true},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1880,"to":1968,"peak":1.0,"km2":9000,"tier":1},
+  {"id":"republic-of-cyprus","name":"Republic of Cyprus","from":1961,"to":2024,"peak":1.0,"km2":9000,"tier":1},
+  {"id":"turkish-republic-of-northern-cyprus","name":"Turkish Republic of Northern Cyprus","from":1976,"to":2024,"peak":0.32,"km2":3000,"tier":2}
+],
+ "events":[
+  {"id":"Q1050999","name":"Turkish invasion of Cyprus","year":1974,"type":"invasion","links":49,"by":"location","wiki":"Turkish invasion of Cyprus"},
+  {"id":"Q2069434","name":"1974 Cypriot coup d'état","year":1974,"type":"coup","links":19,"by":"location","wiki":"1974 Cypriot coup d'état"}
+]}

@@ -1,0 +1,15 @@
+{"lane": "turkey", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"republic-of-turkey","name":"Republic of Turkey","from":1924,"to":2024,"peak":0.98,"km2":762000,"tier":1}
+],
+ "events":[
+  {"id":"Q1859259","name":"1960 Turkish coup d'état","year":1960,"type":"coup","links":25,"by":"location","wiki":"1960 Turkish coup d'état"},
+  {"id":"Q745136","name":"Ankara Agreement","year":1963,"type":"treaty","links":16,"by":"location","wiki":"Ankara Agreement"},
+  {"id":"Q931943","name":"1971 Turkish military memorandum","year":1971,"type":"coup","links":17,"by":"location","wiki":"1971 Turkish military memorandum"},
+  {"id":"Q1758028","name":"1980 Turkish coup d'état","year":1980,"type":"coup","links":31,"by":"country","wiki":"1980 Turkish coup d'état"},
+  {"id":"Q1697391","name":"Convention on preventing and combating violence against women and domestic violence","year":2011,"type":"treaty","links":54,"by":"coordinates","wiki":"Istanbul Convention"},
+  {"id":"Q18071930","name":"Siege of Kobanî","year":2014,"type":"siege","links":31,"by":"coordinates","to":2015,"wiki":"Siege of Kobanî"},
+  {"id":"Q25906338","name":"2016 Turkish coup d'état attempt","year":2016,"type":"coup","links":77,"by":"location","wiki":"2016 Turkish coup d'état attempt"},
+  {"id":"Q105672621","name":"2021 Armenian political crisis","year":2021,"type":"coup","links":12,"by":"coordinates","wiki":"2021 Armenian political crisis"},
+  {"id":"Q113295397","name":"Black Sea Grain Initiative","year":2022,"type":"treaty","links":26,"by":"location","wiki":"Black Sea Grain Initiative"}
+]}

@@ -1,0 +1,13 @@
+{"lane": "algeria", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"french-africa","name":"French Africa","from":1848,"to":1957,"peak":1.0,"km2":2316000,"tier":1},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1957,"peak":1.0,"km2":2316000,"tier":1,"realm":true},
+  {"id":"french-fifth-republic","name":"French Fifth Republic","from":1958,"to":2023,"peak":1.0,"km2":2312000,"tier":1},
+  {"id":"people-s-democratic-republic-of-algeria","name":"People's Democratic Republic of Algeria","from":1963,"to":2024,"peak":0.99,"km2":2307000,"tier":1}
+],
+ "events":[
+  {"id":"Q1761043","name":"Battle of Algiers","year":1957,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Algiers (1956–1957)"},
+  {"id":"Q2605231","name":"Algiers putsch of 1961","year":1961,"type":"coup","links":18,"by":"location","wiki":"Algiers putsch of 1961"},
+  {"id":"Q1891008","name":"Sand War","year":1963,"type":"war","links":27,"by":"location","to":1964,"wiki":"Sand War"},
+  {"id":"Q142529","name":"Algerian Civil War","year":1992,"type":"war","links":36,"by":"location","to":2002,"wiki":"Algerian Civil War"}
+]}

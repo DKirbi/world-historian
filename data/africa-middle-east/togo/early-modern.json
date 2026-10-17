@@ -1,0 +1,5 @@
+{"lane": "togo", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ashanti-empire","name":"Ashanti Empire","from":1757,"to":1768,"peak":0.15,"km2":9000,"tier":3},
+  {"id":"oyo-empire","name":"Oyo Empire","from":1769,"to":1835,"peak":0.18,"km2":10000,"tier":3}
+]}

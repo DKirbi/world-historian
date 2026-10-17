@@ -1,0 +1,13 @@
+{"lane": "chad", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"french-africa","name":"French Africa","from":1900,"to":1957,"peak":1.0,"km2":1266000,"tier":1},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1957,"peak":1.0,"km2":1266000,"tier":1,"realm":true},
+  {"id":"french-fifth-republic","name":"French Fifth Republic","from":1958,"to":1960,"peak":1.0,"km2":1266000,"tier":1},
+  {"id":"republic-of-chad","name":"Republic of Chad","from":1961,"to":2024,"peak":0.99,"km2":1255000,"tier":1}
+],
+ "events":[
+  {"id":"Q782474","name":"Chadian Civil War of 1965–1979","year":1965,"type":"war","links":13,"by":"location","to":1979,"wiki":"Chadian Civil War (1965–1979)"},
+  {"id":"Q611071","name":"Chadian–Libyan War","year":1978,"type":"war","links":28,"by":"location","to":1987,"wiki":"Chadian–Libyan War"},
+  {"id":"Q644589","name":"Toyota War","year":1986,"type":"war","links":26,"by":"location","to":1987,"wiki":"Toyota War"},
+  {"id":"Q945700","name":"Chad–Sudan Conflict","year":2005,"type":"war","links":18,"by":"location","to":2010,"wiki":"Chadian Civil War (2005–2010)"}
+]}

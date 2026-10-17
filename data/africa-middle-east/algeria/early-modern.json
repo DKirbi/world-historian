@@ -1,0 +1,22 @@
+{"lane": "algeria", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"zayyanid-dynasty","name":"Zayyanid dynasty","from":1363,"to":1555,"peak":0.05,"km2":125000,"tier":2},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1556,"to":1705,"peak":0.09,"km2":208000,"tier":2},
+  {"id":"saadi-sultanate","name":"Saadi Sultanate","from":1582,"to":1608,"peak":0.08,"km2":189000,"tier":2},
+  {"id":"saadi-sultanate","name":"Saadi Sultanate","from":1670,"to":1740,"peak":0.0,"km2":1000,"tier":3,"inside":true},
+  {"id":"regency-of-algiers","name":"Regency of Algiers","from":1706,"to":1845,"peak":0.09,"km2":210000,"tier":2},
+  {"id":"french-algeria","name":"French Algeria","from":1830,"to":1845,"peak":0.02,"km2":48000,"tier":3,"inside":true},
+  {"id":"bourbon-kingdom-of-france","name":"Bourbon Kingdom of France","from":1846,"to":1848,"peak":0.09,"km2":210000,"tier":2,"realm":true},
+  {"id":"french-algeria","name":"French Algeria","from":1846,"to":1847,"peak":0.09,"km2":210000,"tier":2},
+  {"id":"french-africa","name":"French Africa","from":1848,"to":1957,"peak":1.0,"km2":2316000,"tier":1},
+  {"id":"french-second-republic","name":"French Second Republic","from":1849,"to":1852,"peak":0.09,"km2":210000,"tier":2,"realm":true},
+  {"id":"second-french-empire","name":"Second French Empire","from":1853,"to":1870,"peak":0.2,"km2":453000,"tier":2,"realm":true},
+  {"id":"french-third-republic","name":"French Third Republic","from":1871,"to":1939,"peak":1.0,"km2":2316000,"tier":1,"realm":true}
+],
+ "events":[
+  {"id":"Q4188858","name":"Capture of Algiers","year":1516,"type":"battle","links":13,"by":"location","wiki":"Capture of Algiers (1516)"},
+  {"id":"Q4090268","name":"Fall of Tlemcen","year":1518,"type":"battle","links":13,"by":"location","wiki":"Fall of Tlemcen (1518)"},
+  {"id":"Q3403025","name":"Capture of Algiers","year":1529,"type":"battle","links":14,"by":"location","wiki":"Capture of Peñón of Algiers (1529)"},
+  {"id":"Q2502863","name":"Algiers expedition","year":1541,"type":"siege","links":19,"by":"location","wiki":"Battle of Algiers (1541)"},
+  {"id":"Q3317226","name":"Invasion of Algiers in 1830","year":1830,"type":"siege","links":16,"by":"coordinates","wiki":"Invasion of Algiers (1830)"}
+]}

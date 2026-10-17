@@ -1,0 +1,30 @@
+{"lane": "egypt", "period": "caliphates", "years": [632, 1499], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"nobatia","name":"Nobatia","from":347,"to":655,"peak":0.06,"km2":61000,"tier":3},
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":629,"to":632,"peak":0.6,"km2":597000,"tier":1},
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":633,"to":640,"peak":0.6,"km2":597000,"tier":1},
+  {"id":"rashidun-caliphate","name":"Rashidun Caliphate","from":641,"to":660,"peak":0.6,"km2":597000,"tier":1},
+  {"id":"makuria","name":"Makuria","from":656,"to":1278,"peak":0.06,"km2":61000,"tier":3},
+  {"id":"umayyad-caliphate","name":"Umayyad Caliphate","from":661,"to":681,"peak":0.6,"km2":597000,"tier":1},
+  {"id":"umayyad-caliphate","name":"Umayyad Caliphate","from":692,"to":750,"peak":0.6,"km2":597000,"tier":1},
+  {"id":"abbasid-caliphate-750","name":"Abbasid Caliphate","from":751,"to":877,"peak":0.6,"km2":597000,"tier":1},
+  {"id":"tulunids","name":"Tulunids","from":875,"to":910,"peak":0.6,"km2":597000,"tier":1},
+  {"id":"abbasid-caliphate-750","name":"Abbasid Caliphate","from":911,"to":969,"peak":0.6,"km2":597000,"tier":1},
+  {"id":"fatimid-caliphate","name":"Fatimid Caliphate","from":970,"to":1168,"peak":0.6,"km2":597000,"tier":1},
+  {"id":"zengid-dynasty","name":"Zengid dynasty","from":1169,"to":1176,"peak":0.6,"km2":597000,"tier":1},
+  {"id":"ayyubid-sultanate","name":"Ayyubid Sultanate","from":1177,"to":1249,"peak":0.6,"km2":597000,"tier":1},
+  {"id":"mamluk-sultanate","name":"Mamluk Sultanate","from":1250,"to":1518,"peak":0.66,"km2":657000,"tier":1},
+  {"id":"makuria","name":"Makuria","from":1294,"to":1414,"peak":0.06,"km2":61000,"tier":3},
+  {"id":"makuria-kingdom","name":"Makuria Kingdom","from":1415,"to":1518,"peak":0.06,"km2":61000,"tier":3}
+],
+ "events":[
+  {"id":"Q2237576","name":"Battle of Heliopolis","year":640,"type":"battle","links":18,"by":"coordinates","wiki":"Battle of Heliopolis"},
+  {"id":"Q1855781","name":"Battle of Nikiou","year":646,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Nikiou"},
+  {"id":"Q248565","name":"Crusader invasions of Egypt","year":1163,"type":"invasion","links":16,"by":"location","to":1169,"wiki":"Crusader invasions of Egypt"},
+  {"id":"Q742693","name":"Siege of Damietta","year":1218,"type":"siege","links":24,"by":"coordinates","to":1219,"wiki":"Siege of Damietta (1218–1219)"},
+  {"id":"Q51661","name":"Seventh Crusade","year":1248,"type":"war","links":57,"by":"location","to":1254,"wiki":"Seventh Crusade"},
+  {"id":"Q1876031","name":"Siege of Damietta","year":1249,"type":"siege","links":15,"by":"coordinates","wiki":"Siege of Damietta (1249)"},
+  {"id":"Q1148862","name":"Battle of Fariskur","year":1250,"type":"battle","links":23,"by":"coordinates","wiki":"Battle of Fariskur (1250)"},
+  {"id":"Q2528398","name":"Battle of Mansurah","year":1250,"type":"battle","links":20,"by":"coordinates","wiki":"Battle of Mansurah (1250)"},
+  {"id":"Q1788506","name":"Alexandrian Crusade","year":1365,"type":"war","links":23,"by":"coordinates","wiki":"Alexandrian Crusade"}
+]}

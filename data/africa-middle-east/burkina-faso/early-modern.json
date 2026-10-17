@@ -1,0 +1,4 @@
+{"lane": "burkina-faso", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"mossi-kingdoms","name":"Mossi Kingdoms","from":1001,"to":1896,"tier":2,"extent":"unknown","cited":"wikipedia","approx":true}
+]}

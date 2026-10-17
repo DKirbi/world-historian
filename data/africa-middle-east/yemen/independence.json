@@ -1,0 +1,18 @@
+{"lane": "yemen", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1870,"to":1968,"peak":0.67,"km2":301000,"tier":1,"realm":true},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1890,"to":1968,"peak":0.66,"km2":298000,"tier":1},
+  {"id":"north-yemen","name":"North Yemen","from":1919,"to":1989,"peak":0.33,"km2":150000,"tier":2},
+  {"id":"people-s-democratic-republic-of-yemen","name":"People's Democratic Republic of Yemen","from":1969,"to":1989,"peak":0.66,"km2":300000,"tier":1},
+  {"id":"republic-of-yemen","name":"Republic of Yemen","from":1990,"to":2024,"peak":0.99,"km2":448000,"tier":1}
+],
+ "events":[
+  {"id":"Q521199","name":"North Yemen civil war","year":1962,"type":"war","links":33,"by":"location","to":1970,"wiki":"North Yemen civil war"},
+  {"id":"Q3299864","name":"Aden Emergency","year":1963,"type":"rebellion","links":17,"by":"location","to":1967,"wiki":"Aden Emergency"},
+  {"id":"Q2461485","name":"1994 Summer War","year":1994,"type":"war","links":23,"by":"location","wiki":"Yemeni civil war (1994)"},
+  {"id":"Q255997","name":"Houthi insurgency","year":2004,"type":"rebellion","links":27,"by":"coordinates","wiki":"Houthi insurgency"},
+  {"id":"Q632663","name":"South Yemen insurgency","year":2009,"type":"rebellion","links":14,"by":"location","wiki":"South Yemen insurgency"},
+  {"id":"Q210005","name":"2011 Yemeni revolution","year":2011,"type":"rebellion","links":40,"by":"location","to":2012,"wiki":"Yemeni revolution"},
+  {"id":"Q19686631","name":"Yemeni Civil War","year":2014,"type":"war","links":61,"by":"location","wiki":"Yemeni civil war (2014–present)"},
+  {"id":"Q18145759","name":"Houthi takeover in Yemen","year":2014,"type":"coup","links":15,"by":"location","to":2015,"wiki":"Houthi takeover of Yemen"}
+]}

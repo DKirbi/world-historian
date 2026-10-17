@@ -1,0 +1,7 @@
+{"lane": "nigeria", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"benin-empire","name":"Benin Empire","from":1170,"to":1897,"tier":2,"extent":"unknown","cited":"wikidata"},
+  {"id":"sokoto-caliphate","name":"Sokoto Caliphate","from":1805,"to":1904,"peak":0.65,"km2":591000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1885,"to":1960,"peak":0.99,"km2":902000,"tier":1,"realm":true},
+  {"id":"british-gold-coast","name":"British Gold Coast","from":1885,"to":1960,"peak":0.99,"km2":902000,"tier":1}
+]}

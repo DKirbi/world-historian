@@ -1,0 +1,4 @@
+{"lane": "niger", "period": "caliphates", "years": [632, 1499], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"bornu-empire","name":"Bornu Empire","from":1487,"to":1894,"peak":0.06,"km2":67000,"tier":3}
+]}

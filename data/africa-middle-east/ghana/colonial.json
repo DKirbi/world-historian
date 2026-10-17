@@ -1,0 +1,10 @@
+{"lane": "ghana", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ashanti-empire","name":"Ashanti Empire","from":1702,"to":1897,"peak":0.61,"km2":145000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1890,"to":1957,"peak":0.99,"km2":235000,"tier":1,"realm":true},
+  {"id":"british-gold-coast","name":"British Gold Coast","from":1890,"to":1959,"peak":0.99,"km2":235000,"tier":1},
+  {"id":"german-africa","name":"German Africa","from":1890,"to":1914,"peak":0.07,"km2":17000,"tier":3}
+],
+ "events":[
+  {"id":"Q356920","name":"War of the Golden Stool","year":1900,"type":"war","links":13,"by":"location","wiki":"War of the Golden Stool"}
+]}

@@ -1,0 +1,6 @@
+{"lane": "yemen", "period": "iron-age", "years": [-1200, -540], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"sabaeans-800bce","name":"Sabaeans","from":-800,"to":-676,"peak":0.04,"km2":17000,"tier":3,"inside":true},
+  {"id":"hadhramaut","name":"Hadhramaut","from":-700,"to":305,"peak":0.21,"km2":97000,"tier":2},
+  {"id":"sabaeans-800bce","name":"Sabaeans","from":-675,"to":-67,"peak":0.12,"km2":56000,"tier":3}
+]}

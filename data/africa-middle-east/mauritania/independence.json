@@ -1,0 +1,10 @@
+{"lane": "mauritania", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"french-africa","name":"French Africa","from":1905,"to":1957,"peak":0.99,"km2":1028000,"tier":1},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1957,"peak":0.99,"km2":1028000,"tier":1,"realm":true},
+  {"id":"french-fifth-republic","name":"French Fifth Republic","from":1958,"to":1960,"peak":0.99,"km2":1027000,"tier":1},
+  {"id":"mauritania","name":"Mauritania","from":1961,"to":2024,"peak":1.0,"km2":1031000,"tier":1}
+],
+ "events":[
+  {"id":"Q2465567","name":"2008 Mauritanian coup d'état","year":2008,"type":"coup","links":12,"by":"location","wiki":"2008 Mauritanian coup d'état"}
+]}

@@ -1,0 +1,12 @@
+{"lane": "benin", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"dahomey","name":"Dahomey","from":1600,"to":1894,"tier":2,"extent":"unknown","cited":"wikidata","approx":true},
+  {"id":"french-third-republic","name":"French Third Republic","from":1895,"to":1939,"peak":1.0,"km2":116000,"tier":1,"realm":true},
+  {"id":"french-africa","name":"French Africa","from":1895,"to":1957,"peak":1.0,"km2":116000,"tier":1},
+  {"id":"vichy-france","name":"Vichy France","from":1940,"to":1944,"peak":1.0,"km2":116000,"tier":1,"realm":true},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1957,"peak":1.0,"km2":116000,"tier":1,"realm":true}
+],
+ "events":[
+  {"id":"Q2092939","name":"First Franco-Dahomean War","year":1890,"type":"war","links":14,"by":"location","wiki":"First Franco-Dahomean War"},
+  {"id":"Q2090475","name":"Second Franco-Dahomean War","year":1892,"type":"war","links":15,"by":"location","to":1894,"wiki":"Second Franco-Dahomean War"}
+]}

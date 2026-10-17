@@ -1,0 +1,12 @@
+{"lane": "morocco", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"tangier-international-zone","name":"Tangier International Zone","from":1912,"to":1957,"peak":0.0,"km2":300,"tier":3,"inside":true},
+  {"id":"francoist-spain","name":"Francoist Spain","from":1939,"to":1975,"peak":0.37,"km2":218000,"tier":2},
+  {"id":"morocco","name":"Morocco","from":1956,"to":2024,"peak":0.69,"km2":399000,"tier":1}
+],
+ "events":[
+  {"id":"Q1640107","name":"Ifni War","year":1957,"type":"war","links":27,"by":"location","to":1958,"wiki":"Ifni War"},
+  {"id":"Q742728","name":"1972 Moroccan coup attempt","year":1972,"type":"coup","links":12,"by":"country","wiki":"1972 Moroccan coup attempt"},
+  {"id":"Q870684","name":"Green March","year":1975,"type":"invasion","links":32,"by":"location","wiki":"Green March"},
+  {"id":"Q15991255","name":"Marrakesh Treaty to Facilitate Access to Published Works for Persons Who Are Blind, Visually Impaired or Otherwise Print Disabled","year":2013,"type":"treaty","links":21,"by":"location","wiki":"Marrakesh VIP Treaty"}
+]}

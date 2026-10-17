@@ -1,0 +1,5 @@
+{"lane": "jordan", "period": "bronze-age", "years": [-3400, -1201], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"hyksos","name":"Hyksos","from":-1700,"to":-1401,"peak":0.22,"km2":20000,"tier":2},
+  {"id":"new-kingdom-of-egypt","name":"New Kingdom of Egypt","from":-1400,"to":-1151,"peak":0.23,"km2":20000,"tier":2}
+]}

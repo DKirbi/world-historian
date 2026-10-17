@@ -1,0 +1,7 @@
+{"lane": "angola", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-lunda","name":"Kingdom of Lunda","from":1709,"to":1889,"peak":0.06,"km2":78000,"tier":3},
+  {"id":"kingdom-of-portugal-1640","name":"Kingdom of Portugal","from":1885,"to":1910,"peak":0.8,"km2":996000,"tier":1},
+  {"id":"portuguese-republic","name":"Portuguese Republic","from":1911,"to":1925,"peak":0.99,"km2":1228000,"tier":1},
+  {"id":"estado-novo","name":"Estado Novo","from":1926,"to":1975,"peak":0.99,"km2":1228000,"tier":1}
+]}

@@ -1,0 +1,13 @@
+{"lane": "palestine", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"state-of-israel","name":"State of Israel","from":1948,"to":2024,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"kingdom-of-jordan","name":"Kingdom of Jordan","from":1949,"to":1957,"peak":0.75,"km2":5000,"tier":1},
+  {"id":"arab-federation","name":"Arab Federation","from":1958,"to":1959,"peak":0.75,"km2":5000,"tier":1},
+  {"id":"kingdom-of-jordan","name":"Kingdom of Jordan","from":1960,"to":1966,"peak":0.75,"km2":5000,"tier":1}
+],
+ "events":[
+  {"id":"Q49105","name":"First Intifada","year":1987,"type":"rebellion","links":53,"by":"location","to":1993,"wiki":"First Intifada"},
+  {"id":"Q49106","name":"Second Intifada","year":2000,"type":"rebellion","links":49,"by":"location","to":2005,"wiki":"Second Intifada"},
+  {"id":"Q4871330","name":"Battle of Jenin","year":2002,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Jenin (2002)"},
+  {"id":"Q373655","name":"Battle of Gaza (2007)","year":2007,"type":"battle","links":26,"by":"coordinates","wiki":"Battle of Gaza (2007)"}
+]}

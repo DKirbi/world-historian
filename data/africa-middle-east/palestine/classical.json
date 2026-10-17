@@ -1,0 +1,26 @@
+{"lane": "palestine", "period": "classical", "years": [-539, 631], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"neo-babylonian-empire","name":"Neo-Babylonian Empire","from":-600,"to":-531,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"achaemenid-empire","name":"Achaemenid Empire","from":-530,"to":-332,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"ptolemaic-kingdom","name":"Ptolemaic Kingdom","from":-331,"to":-324,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"macedonian-empire","name":"Macedonian Empire","from":-323,"to":-302,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"laomedon","name":"Laomedon","from":-323,"to":-319,"peak":0.96,"km2":6000,"tier":1},
+  {"id":"ptolemaic-kingdom","name":"Ptolemaic Kingdom","from":-301,"to":-198,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"seleucid-empire","name":"Seleucid Empire","from":-197,"to":-127,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"judea","name":"Judea","from":-144,"to":5,"peak":0.96,"km2":6000,"tier":1},
+  {"id":"roman-empire","name":"Roman Empire","from":6,"to":260,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"palmyrene-empire","name":"Palmyrene Empire","from":261,"to":269,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"roman-empire","name":"Roman Empire","from":270,"to":394,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":395,"to":616,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":617,"to":628,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":629,"to":632,"peak":0.97,"km2":6000,"tier":1}
+],
+ "events":[
+  {"id":"Q815143","name":"Siege of Gaza","year":-332,"type":"siege","links":24,"by":"coordinates","wiki":"Siege of Gaza (332 BC)"},
+  {"id":"Q1231054","name":"Battle of Gaza","year":-312,"type":"battle","links":21,"by":"coordinates","wiki":"Battle of Gaza (312 BC)"},
+  {"id":"Q630781","name":"Battle of Raphia","year":-217,"type":"battle","links":29,"by":"coordinates","wiki":"Battle of Raphia"},
+  {"id":"Q3566991","name":"Siege of Jerusalem","year":-63,"type":"siege","links":18,"by":"coordinates","wiki":"Siege of Jerusalem (63 BC)"},
+  {"id":"Q202578","name":"First Jewish-Roman War","year":66,"type":"rebellion","links":63,"by":"location","to":74,"wiki":"First Jewish–Roman War"},
+  {"id":"Q844886","name":"Siege of Jerusalem","year":70,"type":"siege","links":41,"by":"coordinates","wiki":"Siege of Jerusalem (70 CE)"},
+  {"id":"Q2915236","name":"Sasanian conquest of Jerusalem","year":614,"type":"siege","links":17,"by":"coordinates","wiki":"Sasanian conquest of Jerusalem"}
+]}

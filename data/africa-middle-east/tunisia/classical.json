@@ -1,0 +1,27 @@
+{"lane": "tunisia", "period": "classical", "years": [-539, 631], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"carthage","name":"Carthage","from":-630,"to":-145,"peak":0.53,"km2":83000,"tier":1},
+  {"id":"kingdom-of-numidia","name":"Kingdom of Numidia","from":-197,"to":-47,"peak":0.27,"km2":42000,"tier":2},
+  {"id":"roman-republic","name":"Roman Republic","from":-144,"to":-32,"peak":0.56,"km2":88000,"tier":1},
+  {"id":"roman-empire","name":"Roman Empire","from":-31,"to":394,"peak":0.56,"km2":88000,"tier":1},
+  {"id":"western-roman-empire","name":"Western Roman Empire","from":395,"to":442,"peak":0.53,"km2":83000,"tier":1},
+  {"id":"vandal-kingdom","name":"Vandal Kingdom","from":439,"to":533,"peak":0.53,"km2":83000,"tier":1},
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":534,"to":632,"peak":0.53,"km2":83000,"tier":1}
+],
+ "events":[
+  {"id":"Q6891","name":"Battle of Bagradas","year":-255,"type":"battle","links":24,"by":"coordinates","wiki":"Battle of the Bagradas River (255 BC)"},
+  {"id":"Q963839","name":"Battle of Adys","year":-255,"type":"battle","links":20,"by":"coordinates","wiki":"Battle of Adys"},
+  {"id":"Q1132393","name":"Mercenary War","year":-240,"type":"rebellion","links":37,"by":"location","to":-238,"wiki":"Mercenary War"},
+  {"id":"Q2890774","name":"Battle of the Saw","year":-238,"type":"battle","links":13,"by":"location","wiki":"Battle of the Saw"},
+  {"id":"Q1353773","name":"Battle of the Great Plains","year":-203,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of the Great Plains"},
+  {"id":"Q2888065","name":"Battle of Utica","year":-203,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Utica (203 BC)"},
+  {"id":"Q200056","name":"Battle of Zama","year":-202,"type":"battle","links":57,"by":"coordinates","wiki":"Battle of Zama"},
+  {"id":"Q6334","name":"Third Punic War","year":-149,"type":"war","links":62,"by":"location","to":-146,"wiki":"Third Punic War"},
+  {"id":"Q815160","name":"Siege of Carthage","year":-149,"type":"siege","links":27,"by":"coordinates","to":-146,"wiki":"Siege of Carthage (Third Punic War)"},
+  {"id":"Q619030","name":"Battle of the Bagradas River","year":-49,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of the Bagradas (49 BC)"},
+  {"id":"Q849653","name":"Battle of Thapsus","year":-46,"type":"battle","links":31,"by":"coordinates","wiki":"Battle of Thapsus"},
+  {"id":"Q762458","name":"Battle of Ruspina","year":-46,"type":"battle","links":17,"by":"coordinates","wiki":"Battle of Ruspina"},
+  {"id":"Q612221","name":"Battle of Cape Bon","year":468,"type":"battle","links":12,"by":"location","wiki":"Battle of Cape Bon (468)"},
+  {"id":"Q1127353","name":"Battle of Ad Decimum","year":533,"type":"battle","links":27,"by":"coordinates","wiki":"Battle of Ad Decimum"},
+  {"id":"Q598261","name":"Battle of Tricamarum","year":533,"type":"battle","links":23,"by":"coordinates","wiki":"Battle of Tricamarum"}
+]}

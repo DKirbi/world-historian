@@ -1,0 +1,14 @@
+{"lane": "tanzania", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"people-s-republic-of-zanzibar","name":"People's Republic of Zanzibar","from":1856,"to":1889,"peak":0.02,"km2":21000,"tier":3,"inside":true},
+  {"id":"german-africa","name":"German Africa","from":1895,"to":1917,"peak":0.93,"km2":876000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1916,"to":1960,"peak":0.98,"km2":923000,"tier":1,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1916,"to":1960,"peak":0.98,"km2":923000,"tier":1}
+],
+ "events":[
+  {"id":"Q170850","name":"Anglo-Zanzibar War","year":1896,"type":"war","links":74,"by":"coordinates","wiki":"Anglo-Zanzibar War"},
+  {"id":"Q704921","name":"Battle of Tanga","year":1914,"type":"battle","links":26,"by":"coordinates","wiki":"Battle of Tanga"},
+  {"id":"Q705571","name":"East African Campaign","year":1914,"type":"campaign","links":21,"by":"coordinates","to":1918,"wiki":"East African campaign (World War I)"},
+  {"id":"Q2890893","name":"Battle of Rufiji Delta","year":1914,"type":"battle","links":12,"by":"coordinates","to":1915,"wiki":"Battle of the Rufiji Delta"},
+  {"id":"Q1174179","name":"Battle of Jassin","year":1915,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Jassin"}
+]}

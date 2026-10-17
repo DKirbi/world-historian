@@ -1,0 +1,13 @@
+{"lane": "libya", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"mamluk-sultanate","name":"Mamluk Sultanate","from":1250,"to":1518,"peak":0.07,"km2":116000,"tier":2},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1519,"to":1712,"peak":0.1,"km2":167000,"tier":2},
+  {"id":"karamanli-dynasty","name":"Karamanli Dynasty","from":1713,"to":1839,"peak":0.05,"km2":76000,"tier":3},
+  {"id":"ottoman-tripolitania","name":"Ottoman Tripolitania","from":1840,"to":1911,"peak":0.54,"km2":880000,"tier":1}
+],
+ "events":[
+  {"id":"Q2860095","name":"Siege of Tripoli","year":1551,"type":"siege","links":14,"by":"coordinates","wiki":"Siege of Tripoli (1551)"},
+  {"id":"Q1456685","name":"Treaty of Tripoli","year":1797,"type":"treaty","links":15,"by":"location","wiki":"Treaty of Tripoli"},
+  {"id":"Q468293","name":"First Barbary War","year":1801,"type":"war","links":34,"by":"coordinates","to":1805,"wiki":"First Barbary War"},
+  {"id":"Q2888407","name":"Battle of Derna","year":1805,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Derna (1805)"}
+]}

@@ -1,0 +1,4 @@
+{"lane": "gambia", "period": "caliphates", "years": [632, 1499], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"mali-empire","name":"Mali Empire","from":1236,"to":1563,"peak":1.0,"km2":10000,"tier":1}
+]}

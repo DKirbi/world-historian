@@ -1,0 +1,18 @@
+{"lane": "saudi-arabia", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"mamluk-sultanate","name":"Mamluk Sultanate","from":1250,"to":1518,"peak":0.27,"km2":525000,"tier":2},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1519,"to":1804,"peak":0.24,"km2":463000,"tier":2},
+  {"id":"emirate-of-diriyah","name":"Emirate of Diriyah","from":1744,"to":1782,"peak":0.04,"km2":86000,"tier":3,"inside":true},
+  {"id":"emirate-of-diriyah","name":"Emirate of Diriyah","from":1783,"to":1819,"peak":0.99,"km2":1910000,"tier":1},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1812,"to":1833,"peak":0.47,"km2":904000,"tier":2},
+  {"id":"bahrain","name":"Bahrain","from":1820,"to":1829,"peak":0.03,"km2":67000,"tier":3,"inside":true},
+  {"id":"emirate-of-nejd","name":"Emirate of Nejd","from":1825,"to":1894,"peak":0.53,"km2":1028000,"tier":1},
+  {"id":"muhammad-ali-dynasty","name":"Muhammad Ali dynasty","from":1834,"to":1841,"peak":0.41,"km2":788000,"tier":2},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1842,"to":1916,"peak":0.28,"km2":531000,"tier":2},
+  {"id":"emirate-of-jabal-shammar","name":"Emirate of Jabal Shammar","from":1842,"to":1845,"peak":0.24,"km2":460000,"tier":2},
+  {"id":"emirate-of-jabal-shammar","name":"Emirate of Jabal Shammar","from":1866,"to":1876,"peak":0.04,"km2":84000,"tier":3,"inside":true},
+  {"id":"emirate-of-jabal-shammar","name":"Emirate of Jabal Shammar","from":1877,"to":1904,"peak":0.35,"km2":675000,"tier":2}
+],
+ "events":[
+  {"id":"Q3608484","name":"Battle of Mecca","year":1813,"type":"battle","links":12,"by":"coordinates","wiki":"Capture of Mecca (1813)"}
+]}

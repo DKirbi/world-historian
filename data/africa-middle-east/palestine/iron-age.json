@@ -1,0 +1,16 @@
+{"lane": "palestine", "period": "iron-age", "years": [-1200, -540], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"new-kingdom-of-egypt","name":"New Kingdom of Egypt","from":-1400,"to":-1151,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"philistia","name":"Philistia","from":-1150,"to":-701,"peak":0.48,"km2":3000,"tier":2},
+  {"id":"kingdom-of-israel","name":"Kingdom of Israel","from":-1000,"to":-701,"peak":0.8,"km2":5000,"tier":1},
+  {"id":"kingdom-of-judah","name":"Kingdom of Judah","from":-900,"to":-701,"peak":0.42,"km2":3000,"tier":2},
+  {"id":"neo-assyrian-empire","name":"Neo-Assyrian Empire","from":-700,"to":-601,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"assyrian-egypt","name":"Assyrian Egypt","from":-650,"to":-616,"peak":0.97,"km2":6000,"tier":1},
+  {"id":"neo-babylonian-empire","name":"Neo-Babylonian Empire","from":-600,"to":-531,"peak":0.97,"km2":6000,"tier":1}
+],
+ "events":[
+  {"id":"Q653706","name":"Syro-Ephraimite War","year":-736,"type":"war","links":15,"by":"location","to":-732,"wiki":"Syro-Ephraimite War"},
+  {"id":"Q1267122","name":"Assyrian siege of Jerusalem","year":-701,"type":"siege","links":18,"by":"coordinates","wiki":"Assyrian siege of Jerusalem"},
+  {"id":"Q1252915","name":"Siege of Jerusalem","year":-597,"type":"siege","links":20,"by":"coordinates","wiki":"Siege of Jerusalem (597 BC)"},
+  {"id":"Q1290590","name":"Siege of Jerusalem","year":-589,"type":"siege","links":25,"by":"coordinates","to":-587,"wiki":"Siege of Jerusalem (587 BC)"}
+]}

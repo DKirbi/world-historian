@@ -1,0 +1,8 @@
+{"lane": "equatorial-guinea", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"francoist-spain","name":"Francoist Spain","from":1939,"to":1972,"peak":0.94,"km2":25000,"tier":1},
+  {"id":"french-africa","name":"French Africa","from":1943,"to":1957,"peak":0.07,"km2":2000,"tier":3},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1957,"peak":0.07,"km2":2000,"tier":3,"realm":true},
+  {"id":"gabon","name":"Gabon","from":1961,"to":2024,"peak":0.06,"km2":2000,"tier":3},
+  {"id":"equatorial-guinea","name":"Equatorial Guinea","from":1969,"to":2024,"peak":0.92,"km2":24000,"tier":1}
+]}

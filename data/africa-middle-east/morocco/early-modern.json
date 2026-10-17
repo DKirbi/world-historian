@@ -1,0 +1,18 @@
+{"lane": "morocco", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"wattasid-dynasty","name":"Wattasid dynasty","from":1468,"to":1555,"peak":0.62,"km2":363000,"tier":1},
+  {"id":"saadi-sultanate","name":"Saadi Sultanate","from":1556,"to":1669,"peak":0.62,"km2":361000,"tier":1},
+  {"id":"morocco","name":"Morocco","from":1670,"to":1911,"peak":0.62,"km2":363000,"tier":1}
+],
+ "events":[
+  {"id":"Q1121532","name":"Battle of Alcácer Quibir","year":1578,"type":"battle","links":33,"by":"coordinates","wiki":"Battle of Alcácer Quibir"},
+  {"id":"Q667179","name":"Battle of Gibraltar","year":1607,"type":"battle","links":19,"by":"coordinates","wiki":"Battle of Gibraltar (1607)"},
+  {"id":"Q694073","name":"Capture of Gibraltar","year":1704,"type":"siege","links":20,"by":"coordinates","wiki":"Capture of Gibraltar"},
+  {"id":"Q4337399","name":"Siege of Melilla","year":1774,"type":"siege","links":17,"by":"coordinates","to":1775,"wiki":"Siege of Melilla (1774–1775)"},
+  {"id":"Q815145","name":"Great Siege of Gibraltar","year":1779,"type":"siege","links":18,"by":"coordinates","to":1783,"wiki":"Great Siege of Gibraltar"},
+  {"id":"Q432515","name":"First Battle of Algeciras","year":1801,"type":"battle","links":12,"by":"coordinates","wiki":"First Battle of Algeciras"},
+  {"id":"Q3062439","name":"Franco-Moroccan War","year":1844,"type":"war","links":16,"by":"location","wiki":"Franco-Moroccan War"},
+  {"id":"Q348998","name":"Battle of Isly","year":1844,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Isly"},
+  {"id":"Q1540737","name":"Hispano-Moroccan War","year":1859,"type":"war","links":26,"by":"location","to":1860,"wiki":"Hispano-Moroccan War (1859–1860)"},
+  {"id":"Q4872623","name":"Battle of Tétouan","year":1860,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Tétouan"}
+]}

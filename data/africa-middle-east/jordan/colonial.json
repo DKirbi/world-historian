@@ -1,0 +1,14 @@
+{"lane": "jordan", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1842,"to":1917,"peak":0.86,"km2":76000,"tier":1},
+  {"id":"kingdom-of-hejaz","name":"Kingdom of Hejaz","from":1917,"to":1919,"peak":0.82,"km2":73000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1922,"to":1946,"peak":1.0,"km2":88000,"tier":1,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1922,"to":1935,"peak":1.0,"km2":88000,"tier":1},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1936,"to":1939,"peak":1.0,"km2":88000,"tier":1},
+  {"id":"british-africa","name":"British Africa","from":1940,"to":1945,"peak":1.0,"km2":88000,"tier":1},
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1946,"to":1946,"peak":1.0,"km2":88000,"tier":1},
+  {"id":"kingdom-of-jordan","name":"Kingdom of Jordan","from":1947,"to":1957,"peak":0.98,"km2":87000,"tier":1}
+],
+ "events":[
+  {"id":"Q2081944","name":"Battle of Aqaba","year":1917,"type":"battle","links":17,"by":"location","wiki":"Battle of Aqaba"}
+]}

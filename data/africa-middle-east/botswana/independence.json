@@ -1,0 +1,7 @@
+{"lane": "botswana", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1885,"to":1968,"peak":1.0,"km2":579000,"tier":1,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1885,"to":1960,"peak":1.0,"km2":579000,"tier":1},
+  {"id":"british-east-africa","name":"British East Africa","from":1961,"to":1968,"peak":0.99,"km2":574000,"tier":1},
+  {"id":"republic-of-botswana","name":"Republic of Botswana","from":1967,"to":2024,"peak":0.98,"km2":568000,"tier":1}
+]}

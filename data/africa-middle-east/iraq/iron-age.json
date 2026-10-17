@@ -1,0 +1,17 @@
+{"lane": "iraq", "period": "iron-age", "years": [-1200, -540], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"assyria","name":"Assyria","from":-1800,"to":-901,"peak":0.62,"km2":271000,"tier":1},
+  {"id":"babylonia-1800bce","name":"Babylonia","from":-1200,"to":-1151,"peak":0.21,"km2":92000,"tier":2},
+  {"id":"elam-2200bce","name":"Elam","from":-1150,"to":-1101,"peak":0.21,"km2":92000,"tier":2},
+  {"id":"babylonia-1100bce","name":"Babylonia","from":-1100,"to":-801,"peak":0.21,"km2":93000,"tier":2},
+  {"id":"neo-assyrian-empire","name":"Neo-Assyrian Empire","from":-900,"to":-601,"peak":0.62,"km2":271000,"tier":1},
+  {"id":"assyrian-egypt","name":"Assyrian Egypt","from":-650,"to":-616,"peak":0.62,"km2":271000,"tier":1},
+  {"id":"babylonia-650bce","name":"Babylonia","from":-650,"to":-631,"peak":0.21,"km2":93000,"tier":2},
+  {"id":"babylonia-650bce","name":"Babylonia","from":-615,"to":-601,"peak":0.25,"km2":108000,"tier":2},
+  {"id":"neo-babylonian-empire","name":"Neo-Babylonian Empire","from":-600,"to":-531,"peak":0.55,"km2":243000,"tier":1},
+  {"id":"median-kingdom","name":"Median Kingdom","from":-600,"to":-551,"peak":0.08,"km2":34000,"tier":3},
+  {"id":"achaemenid-empire","name":"Achaemenid Empire","from":-550,"to":-327,"peak":0.62,"km2":271000,"tier":1}
+],
+ "events":[
+  {"id":"Q612286","name":"Fall of Nineveh","year":-612,"type":"battle","links":23,"by":"coordinates","wiki":"Fall of Nineveh"}
+]}

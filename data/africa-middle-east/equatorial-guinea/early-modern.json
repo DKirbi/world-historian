@@ -1,0 +1,9 @@
+{"lane": "equatorial-guinea", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-portugal-1147","name":"Kingdom of Portugal","from":1497,"to":1506,"peak":0.07,"km2":2000,"tier":3},
+  {"id":"portuguese-africa","name":"Portuguese Africa","from":1507,"to":1581,"peak":0.07,"km2":2000,"tier":3},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1582,"to":1639,"peak":0.07,"km2":2000,"tier":3},
+  {"id":"portuguese-empire","name":"Portuguese Empire","from":1640,"to":1777,"peak":0.07,"km2":2000,"tier":3},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1778,"to":1872,"peak":0.07,"km2":2000,"tier":3},
+  {"id":"kingdom-of-spain-1640","name":"Kingdom of Spain","from":1877,"to":1931,"peak":0.93,"km2":25000,"tier":1}
+]}

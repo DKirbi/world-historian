@@ -1,0 +1,11 @@
+{"lane": "algeria", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"french-africa","name":"French Africa","from":1848,"to":1957,"peak":1.0,"km2":2316000,"tier":1},
+  {"id":"french-third-republic","name":"French Third Republic","from":1871,"to":1939,"peak":1.0,"km2":2316000,"tier":1,"realm":true},
+  {"id":"vichy-france","name":"Vichy France","from":1940,"to":1944,"peak":1.0,"km2":2316000,"tier":1,"realm":true},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1957,"peak":1.0,"km2":2316000,"tier":1,"realm":true}
+],
+ "events":[
+  {"id":"Q503347","name":"Attack on Mers-El-Kebir","year":1940,"type":"battle","links":32,"by":"coordinates","wiki":"Attack on Mers-el-Kébir"},
+  {"id":"Q200790","name":"Algerian War","year":1954,"type":"war","links":72,"by":"location","to":1962,"wiki":"Algerian War"}
+]}

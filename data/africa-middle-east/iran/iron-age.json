@@ -1,0 +1,14 @@
+{"lane": "iran", "period": "iron-age", "years": [-1200, -540], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"elam-2200bce","name":"Elam","from":-1760,"to":-1151,"peak":0.05,"km2":81000,"tier":3},
+  {"id":"elam-2200bce","name":"Elam","from":-1150,"to":-1101,"peak":0.07,"km2":116000,"tier":2},
+  {"id":"elam-2200bce","name":"Elam","from":-1100,"to":-631,"peak":0.05,"km2":81000,"tier":3},
+  {"id":"assyrian-egypt","name":"Assyrian Egypt","from":-630,"to":-616,"peak":0.08,"km2":124000,"tier":2},
+  {"id":"median-kingdom","name":"Median Kingdom","from":-615,"to":-551,"peak":0.87,"km2":1404000,"tier":1},
+  {"id":"elam-2200bce","name":"Elam","from":-615,"to":-601,"peak":0.03,"km2":43000,"tier":3,"inside":true},
+  {"id":"achaemenid-empire","name":"Achaemenid Empire","from":-550,"to":-327,"peak":1.0,"km2":1617000,"tier":1}
+],
+ "events":[
+  {"id":"Q4872472","name":"Battle of Susa","year":-647,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Susa"},
+  {"id":"Q3436196","name":"Medo-Persian conflict","year":-553,"type":"rebellion","links":17,"by":"location","to":-550,"wiki":"Medo-Persian conflict"}
+]}

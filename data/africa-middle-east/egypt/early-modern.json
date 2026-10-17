@@ -1,0 +1,24 @@
+{"lane": "egypt", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"mamluk-sultanate","name":"Mamluk Sultanate","from":1250,"to":1518,"peak":0.66,"km2":657000,"tier":1},
+  {"id":"makuria-kingdom","name":"Makuria Kingdom","from":1415,"to":1518,"peak":0.06,"km2":61000,"tier":3},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1519,"to":1810,"peak":0.68,"km2":684000,"tier":1},
+  {"id":"muhammad-ali-dynasty","name":"Muhammad Ali dynasty","from":1811,"to":1865,"peak":0.66,"km2":663000,"tier":1},
+  {"id":"khedivate-of-egypt","name":"Khedivate of Egypt","from":1866,"to":1884,"peak":0.66,"km2":664000,"tier":1}
+],
+ "events":[
+  {"id":"Q4338038","name":"Ottoman–Mamluk War of 1516–17","year":1516,"type":"war","links":27,"by":"location","to":1517,"wiki":"Ottoman–Mamluk War (1516–1517)"},
+  {"id":"Q537923","name":"Battle of Ridaniya","year":1517,"type":"battle","links":17,"by":"location","wiki":"Battle of Ridaniya"},
+  {"id":"Q243979","name":"Battle of the Nile","year":1798,"type":"battle","links":47,"by":"coordinates","wiki":"Battle of the Nile"},
+  {"id":"Q253684","name":"French invasion of Egypt and Syria","year":1798,"type":"campaign","links":47,"by":"location","to":1801,"wiki":"French invasion of Egypt and Syria"},
+  {"id":"Q332543","name":"Battle of the Pyramids","year":1798,"type":"battle","links":45,"by":"coordinates","wiki":"Battle of the Pyramids"},
+  {"id":"Q2888305","name":"Battle of Shubra Khit","year":1798,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Shubra Khit"},
+  {"id":"Q3458323","name":"Revolt of Cairo","year":1798,"type":"invasion","links":12,"by":"coordinates","wiki":"Revolt of Cairo"},
+  {"id":"Q778800","name":"First Battle of Abukir","year":1799,"type":"battle","links":30,"by":"coordinates","wiki":"Battle of Abukir (1799)"},
+  {"id":"Q2887968","name":"Battle of Heliopolis","year":1800,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Heliopolis (1800)"},
+  {"id":"Q2510511","name":"Second Battle of Abukir","year":1801,"type":"battle","links":19,"by":"coordinates","wiki":"Battle of Abukir (1801)"},
+  {"id":"Q2750968","name":"Battle of Alexandria","year":1801,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Alexandria (1801)"},
+  {"id":"Q3485805","name":"Siege of Alexandria","year":1801,"type":"siege","links":13,"by":"coordinates","wiki":"Siege of Alexandria (1801)"},
+  {"id":"Q616939","name":"Anglo-Egyptian War","year":1882,"type":"war","links":22,"by":"location","wiki":"Anglo-Egyptian War"},
+  {"id":"Q1420382","name":"Battle of Tel el-Kebir","year":1882,"type":"battle","links":17,"by":"coordinates","wiki":"Battle of Tell El Kebir"}
+]}

@@ -1,0 +1,28 @@
+{"lane": "saudi-arabia", "period": "classical", "years": [-539, 631], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"minaeans","name":"Minaeans","from":-188,"to":-67,"peak":0.1,"km2":188000,"tier":2},
+  {"id":"himyarite-kingdom","name":"Himyarite Kingdom","from":-66,"to":-26,"peak":0.1,"km2":188000,"tier":2},
+  {"id":"roman-empire","name":"Roman Empire","from":-25,"to":-20,"peak":0.12,"km2":221000,"tier":2},
+  {"id":"himyarite-kingdom","name":"Himyarite Kingdom","from":-19,"to":105,"peak":0.1,"km2":188000,"tier":2},
+  {"id":"lakhmid-kingdom","name":"Lakhmid Kingdom","from":270,"to":601,"peak":0.07,"km2":132000,"tier":2},
+  {"id":"ghassanids","name":"Ghassanids","from":510,"to":616,"peak":0.06,"km2":119000,"tier":2},
+  {"id":"himyarite-kingdom","name":"Himyarite Kingdom","from":534,"to":576,"peak":0.0,"km2":200,"tier":3,"inside":true},
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":602,"to":628,"peak":0.11,"km2":210000,"tier":2},
+  {"id":"lakhmid-kingdom","name":"Lakhmid Kingdom","from":629,"to":633,"peak":0.07,"km2":131000,"tier":2},
+  {"id":"ghassanids","name":"Ghassanids","from":629,"to":633,"peak":0.06,"km2":119000,"tier":2}
+],
+ "events":[
+  {"id":"Q2744973","name":"Basus War","year":494,"type":"war","links":16,"by":"location","to":534,"wiki":"Basus War"},
+  {"id":"Q3124908","name":"Nakhla raid","year":623,"type":"campaign","links":13,"by":"coordinates","wiki":"Raid on Nakhla"},
+  {"id":"Q486124","name":"Battle of Badr","year":624,"type":"battle","links":81,"by":"coordinates","wiki":"Battle of Badr"},
+  {"id":"Q3079892","name":"Invasion of Banu Qaynuqa","year":624,"type":"battle","links":20,"by":"coordinates","wiki":"Siege of Banu Qaynuqa"},
+  {"id":"Q6059603","name":"Invasion of Bahran","year":624,"type":"invasion","links":13,"by":"location","wiki":"Invasion of Buhran"},
+  {"id":"Q488278","name":"Battle of Uhud","year":625,"type":"battle","links":64,"by":"coordinates","wiki":"Battle of Uhud"},
+  {"id":"Q3153830","name":"Invasion of Dumatul Jandal","year":626,"type":"invasion","links":13,"by":"location","wiki":"Expedition of Dumat al-Jandal"},
+  {"id":"Q826083","name":"Battle of the Trench","year":627,"type":"battle","links":55,"by":"coordinates","wiki":"Battle of the Trench"},
+  {"id":"Q1647162","name":"Treaty of Hudaybiyyah","year":628,"type":"treaty","links":46,"by":"coordinates","wiki":"Treaty of al-Hudaybiya"},
+  {"id":"Q565661","name":"Battle of Khaybar","year":628,"type":"battle","links":42,"by":"coordinates","wiki":"Battle of Khaybar"},
+  {"id":"Q2092033","name":"Conquest of Mecca","year":629,"type":"campaign","links":41,"by":"coordinates","wiki":"Conquest of Mecca"},
+  {"id":"Q2300090","name":"Battle of Hunayn","year":630,"type":"battle","links":37,"by":"coordinates","wiki":"Battle of Hunayn"},
+  {"id":"Q3087968","name":"Siege of Ta'if","year":630,"type":"siege","links":19,"by":"coordinates","wiki":"Siege of Ta'if"}
+]}

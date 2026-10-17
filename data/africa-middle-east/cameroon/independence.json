@@ -1,0 +1,9 @@
+{"lane": "cameroon", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1916,"to":1960,"peak":0.09,"km2":43000,"tier":3,"realm":true},
+  {"id":"british-gold-coast","name":"British Gold Coast","from":1916,"to":1960,"peak":0.09,"km2":43000,"tier":3},
+  {"id":"french-africa","name":"French Africa","from":1943,"to":1957,"peak":0.91,"km2":420000,"tier":1},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1957,"peak":0.91,"km2":420000,"tier":1,"realm":true},
+  {"id":"french-fifth-republic","name":"French Fifth Republic","from":1958,"to":1959,"peak":0.91,"km2":420000,"tier":1},
+  {"id":"republic-of-cameroon","name":"Republic of Cameroon","from":1960,"to":2024,"peak":0.98,"km2":455000,"tier":1}
+]}

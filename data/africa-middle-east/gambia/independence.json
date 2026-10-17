@@ -1,0 +1,10 @@
+{"lane": "gambia", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1820,"to":1968,"peak":0.88,"km2":9000,"tier":1,"realm":true},
+  {"id":"french-africa","name":"French Africa","from":1880,"to":1957,"peak":0.12,"km2":1000,"tier":3},
+  {"id":"british-africa","name":"British Africa","from":1885,"to":1960,"peak":0.88,"km2":9000,"tier":1},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1957,"peak":0.12,"km2":1000,"tier":3,"realm":true},
+  {"id":"british-east-africa","name":"British East Africa","from":1961,"to":1968,"peak":0.88,"km2":9000,"tier":1},
+  {"id":"republic-of-senegal","name":"Republic of Senegal","from":1961,"to":2024,"peak":0.12,"km2":1000,"tier":3},
+  {"id":"republic-of-the-gambia","name":"Republic of The Gambia","from":1967,"to":2024,"peak":0.88,"km2":9000,"tier":1}
+]}

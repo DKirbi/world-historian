@@ -1,0 +1,26 @@
+{"lane": "iraq", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1534,"to":1918,"peak":0.64,"km2":280000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1917,"to":1931,"peak":0.98,"km2":428000,"tier":1,"realm":true},
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1917,"to":1921,"peak":0.62,"km2":270000,"tier":1},
+  {"id":"british-africa","name":"British Africa","from":1919,"to":1919,"peak":0.59,"km2":257000,"tier":1},
+  {"id":"british-africa","name":"British Africa","from":1922,"to":1931,"peak":0.98,"km2":428000,"tier":1},
+  {"id":"kingdom-of-iraq","name":"Kingdom of Iraq","from":1932,"to":1942,"peak":0.98,"km2":427000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1943,"to":1946,"peak":0.98,"km2":428000,"tier":1,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1943,"to":1945,"peak":0.98,"km2":428000,"tier":1},
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1946,"to":1946,"peak":0.98,"km2":428000,"tier":1},
+  {"id":"kingdom-of-iraq","name":"Kingdom of Iraq","from":1947,"to":1957,"peak":0.98,"km2":427000,"tier":1}
+],
+ "events":[
+  {"id":"Q18937","name":"Mesopotamian campaign","year":1914,"type":"campaign","links":34,"by":"location","to":1918,"wiki":"Mesopotamian campaign"},
+  {"id":"Q1327145","name":"Battle of Basra","year":1914,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Basra (1914)"},
+  {"id":"Q1286106","name":"Fao Landing","year":1914,"type":"battle","links":12,"by":"coordinates","wiki":"Fao Landing"},
+  {"id":"Q815166","name":"Siege of Kut","year":1915,"type":"siege","links":28,"by":"coordinates","to":1916,"wiki":"Siege of Kut"},
+  {"id":"Q1582511","name":"Battle of Ctesiphon","year":1915,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Ctesiphon (1915)"},
+  {"id":"Q1430929","name":"Battle of Wadi","year":1916,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Wadi (1916)"},
+  {"id":"Q2665637","name":"Fall of Baghdad","year":1917,"type":"battle","links":18,"by":"location","wiki":"Capture of Baghdad (1917)"},
+  {"id":"Q6068230","name":"Iraqi–Kurdish conflict","year":1918,"type":"rebellion","links":14,"by":"location","to":2003,"wiki":"Iraqi–Kurdish conflict"},
+  {"id":"Q6445763","name":"Kurdish–Turkish conflict","year":1921,"type":"rebellion","links":25,"by":"location","wiki":"Kurdish–Turkish conflict"},
+  {"id":"Q696848","name":"Anglo-Iraqi War","year":1941,"type":"war","links":40,"by":"location","wiki":"Anglo-Iraqi War"},
+  {"id":"Q641205","name":"1941 Iraqi coup d'état","year":1941,"type":"coup","links":23,"by":"location","wiki":"1941 Iraqi coup d'état"}
+]}

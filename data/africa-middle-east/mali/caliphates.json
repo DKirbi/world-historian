@@ -1,0 +1,10 @@
+{"lane": "mali", "period": "caliphates", "years": [632, 1499], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ghana-empire","name":"Ghana Empire","from":793,"to":1201,"peak":0.11,"km2":133000,"tier":2},
+  {"id":"sosso-empire","name":"Sosso Empire","from":1202,"to":1235,"peak":0.11,"km2":133000,"tier":2},
+  {"id":"mali-empire","name":"Mali Empire","from":1236,"to":1611,"peak":0.4,"km2":503000,"tier":2},
+  {"id":"songhai-empire","name":"Songhai Empire","from":1463,"to":1594,"peak":0.34,"km2":421000,"tier":2}
+],
+ "events":[
+  {"id":"Q1319855","name":"Battle of Kirina","year":1235,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Kirina"}
+]}

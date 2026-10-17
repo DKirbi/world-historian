@@ -1,0 +1,10 @@
+{"lane": "iran", "period": "bronze-age", "years": [-3400, -1201], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"elam-3200bce","name":"Elam","from":-3200,"to":-2701,"peak":0.0,"km2":5000,"tier":3,"inside":true},
+  {"id":"akkadian-empire","name":"Akkadian Empire","from":-2250,"to":-2201,"peak":0.06,"km2":94000,"tier":3},
+  {"id":"elam-2200bce","name":"Elam","from":-2200,"to":-2101,"peak":0.05,"km2":89000,"tier":3},
+  {"id":"elam-2200bce","name":"Elam","from":-2100,"to":-1801,"peak":0.05,"km2":78000,"tier":3},
+  {"id":"gutian-dynasty","name":"Gutian Dynasty","from":-2100,"to":-2001,"peak":0.05,"km2":78000,"tier":3},
+  {"id":"elam-2200bce","name":"Elam","from":-1800,"to":-1761,"peak":0.07,"km2":112000,"tier":2},
+  {"id":"elam-2200bce","name":"Elam","from":-1760,"to":-1151,"peak":0.05,"km2":81000,"tier":3}
+]}

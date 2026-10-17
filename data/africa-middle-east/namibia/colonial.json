@@ -1,0 +1,13 @@
+{"lane": "namibia", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"german-africa","name":"German Africa","from":1885,"to":1915,"peak":0.98,"km2":809000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1916,"to":1931,"peak":0.99,"km2":817000,"tier":1,"realm":true},
+  {"id":"british-africa","name":"British Africa","from":1916,"to":1931,"peak":0.99,"km2":817000,"tier":1},
+  {"id":"south-africa","name":"South Africa","from":1932,"to":1989,"peak":0.99,"km2":811000,"tier":1}
+],
+ "events":[
+  {"id":"Q178842","name":"Battle of Waterberg","year":1904,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Waterberg"},
+  {"id":"Q16512674","name":"Herero Wars","year":1904,"type":"war","links":12,"by":"coordinates","to":1908,"wiki":"Herero uprising"},
+  {"id":"Q704886","name":"South-West Africa campaign","year":1914,"type":"campaign","links":22,"by":"coordinates","to":1915,"wiki":"South West Africa campaign"},
+  {"id":"Q689490","name":"Battle of Sandfontein","year":1914,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Sandfontein"}
+]}

@@ -1,0 +1,16 @@
+{"lane": "kuwait", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"bahrani-dynasty","name":"Bahrani Dynasty","from":1260,"to":1520,"peak":0.34,"km2":6000,"tier":2},
+  {"id":"aq-qoyunlu","name":"Aq Qoyunlu","from":1440,"to":1506,"peak":0.45,"km2":8000,"tier":2},
+  {"id":"safavid-dynasty","name":"Safavid Dynasty","from":1507,"to":1533,"peak":0.45,"km2":8000,"tier":2},
+  {"id":"portuguese-empire","name":"Portuguese Empire","from":1521,"to":1551,"peak":0.2,"km2":4000,"tier":2,"realm":true},
+  {"id":"kingdom-of-portugal-1147","name":"Kingdom of Portugal","from":1521,"to":1555,"peak":0.2,"km2":4000,"tier":2},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1534,"to":1775,"peak":0.65,"km2":11000,"tier":1},
+  {"id":"kingdom-of-portugal-1147","name":"Kingdom of Portugal","from":1564,"to":1581,"peak":0.2,"km2":4000,"tier":2},
+  {"id":"safavid-dynasty","name":"Safavid Dynasty","from":1626,"to":1639,"peak":0.45,"km2":8000,"tier":2},
+  {"id":"kuwait-1757","name":"Kuwait","from":1757,"to":1872,"peak":0.27,"km2":5000,"tier":2},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1780,"to":1914,"peak":0.96,"km2":17000,"tier":1},
+  {"id":"emirate-of-diriyah","name":"Emirate of Diriyah","from":1791,"to":1819,"peak":0.58,"km2":10000,"tier":1},
+  {"id":"bahrain","name":"Bahrain","from":1820,"to":1829,"peak":0.11,"km2":2000,"tier":3},
+  {"id":"emirate-of-nejd","name":"Emirate of Nejd","from":1830,"to":1872,"peak":0.13,"km2":2000,"tier":3}
+]}

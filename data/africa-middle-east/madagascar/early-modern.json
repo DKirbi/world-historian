@@ -1,0 +1,5 @@
+{"lane": "madagascar", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"french-india","name":"French India","from":1677,"to":1720,"peak":0.02,"km2":9000,"tier":3,"inside":true},
+  {"id":"merina-kingdom","name":"Merina Kingdom","from":1792,"to":1897,"peak":0.69,"km2":410000,"tier":1}
+]}

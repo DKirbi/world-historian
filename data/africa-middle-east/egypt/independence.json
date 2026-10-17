@@ -1,0 +1,14 @@
+{"lane": "egypt", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"republic-of-egypt","name":"Republic of Egypt","from":1953,"to":1957,"peak":0.99,"km2":991000,"tier":1},
+  {"id":"united-arab-republic","name":"United Arab Republic","from":1958,"to":1972,"peak":0.99,"km2":991000,"tier":1},
+  {"id":"arab-republic-of-egypt","name":"Arab Republic of Egypt","from":1973,"to":2024,"peak":0.99,"km2":991000,"tier":1}
+],
+ "events":[
+  {"id":"Q322607","name":"War of Attrition","year":1967,"type":"war","links":47,"by":"coordinates","to":1970,"wiki":"War of Attrition"},
+  {"id":"Q49100","name":"Yom Kippur War","year":1973,"type":"war","links":95,"by":"country","wiki":"Yom Kippur War"},
+  {"id":"Q2072316","name":"Battle of the Chinese Farm","year":1973,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of the Chinese Farm"},
+  {"id":"Q2705872","name":"Battle of Baltim","year":1973,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Baltim"},
+  {"id":"Q7521684","name":"Sinai insurgency","year":2011,"type":"rebellion","links":20,"by":"coordinates","wiki":"Sinai insurgency"},
+  {"id":"Q13605743","name":"2013 Egyptian coup d'état","year":2013,"type":"coup","links":38,"by":"coordinates","wiki":"2013 Egyptian coup d'état"}
+]}

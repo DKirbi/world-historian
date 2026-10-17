@@ -1,0 +1,5 @@
+{"lane": "eritrea", "period": "caliphates", "years": [632, 1499], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-axum","name":"Kingdom of Axum","from":-50,"to":946,"peak":0.29,"km2":35000,"tier":2},
+  {"id":"ethiopian-empire","name":"Ethiopian Empire","from":1272,"to":1889,"peak":0.49,"km2":61000,"tier":2}
+]}

@@ -1,0 +1,13 @@
+{"lane": "syria", "period": "iron-age", "years": [-1200, -540], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"new-kingdom-of-egypt","name":"New Kingdom of Egypt","from":-1400,"to":-1151,"peak":0.11,"km2":21000,"tier":3},
+  {"id":"assyria","name":"Assyria","from":-1300,"to":-1001,"peak":0.54,"km2":100000,"tier":1},
+  {"id":"hittites","name":"Hittites","from":-1300,"to":-1151,"peak":0.16,"km2":29000,"tier":3},
+  {"id":"neo-assyrian-empire","name":"Neo-Assyrian Empire","from":-900,"to":-601,"peak":0.72,"km2":133000,"tier":1},
+  {"id":"assyrian-egypt","name":"Assyrian Egypt","from":-650,"to":-616,"peak":0.72,"km2":133000,"tier":1},
+  {"id":"neo-babylonian-empire","name":"Neo-Babylonian Empire","from":-600,"to":-531,"peak":0.84,"km2":156000,"tier":1}
+],
+ "events":[
+  {"id":"Q849474","name":"Battle of Qarqar","year":-853,"type":"battle","links":26,"by":"coordinates","wiki":"Battle of Qarqar"},
+  {"id":"Q633560","name":"Battle of Carchemish","year":-605,"type":"battle","links":28,"by":"coordinates","wiki":"Battle of Carchemish"}
+]}

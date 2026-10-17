@@ -1,0 +1,24 @@
+{"lane": "turkey", "period": "iron-age", "years": [-1200, -540], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"hittites","name":"Hittites","from":-1600,"to":-1151,"peak":0.37,"km2":292000,"tier":2},
+  {"id":"assyria","name":"Assyria","from":-1240,"to":-1001,"peak":0.29,"km2":226000,"tier":2},
+  {"id":"neo-hittite-states","name":"Neo-Hittite states","from":-1150,"to":-801,"peak":0.02,"km2":19000,"tier":3,"inside":true},
+  {"id":"tabal-kingdom","name":"Tabal Kingdom","from":-900,"to":-701,"peak":0.05,"km2":38000,"tier":3},
+  {"id":"phrygia","name":"Phrygia","from":-900,"to":-751,"peak":0.04,"km2":29000,"tier":3,"inside":true},
+  {"id":"neo-assyrian-empire","name":"Neo-Assyrian Empire","from":-800,"to":-601,"peak":0.42,"km2":329000,"tier":2},
+  {"id":"kingdom-of-urartu-800bce","name":"Kingdom of Urartu","from":-800,"to":-751,"peak":0.04,"km2":29000,"tier":3,"inside":true},
+  {"id":"phrygia","name":"Phrygia","from":-750,"to":-676,"peak":0.24,"km2":188000,"tier":2},
+  {"id":"kingdom-of-urartu-800bce","name":"Kingdom of Urartu","from":-750,"to":-701,"peak":0.15,"km2":120000,"tier":2},
+  {"id":"lydia","name":"Lydia","from":-700,"to":-651,"peak":0.03,"km2":25000,"tier":3,"inside":true},
+  {"id":"assyrian-egypt","name":"Assyrian Egypt","from":-650,"to":-616,"peak":0.42,"km2":329000,"tier":2},
+  {"id":"lydia","name":"Lydia","from":-650,"to":-541,"peak":0.33,"km2":255000,"tier":2},
+  {"id":"kingdom-of-urartu-615bce","name":"Kingdom of Urartu","from":-615,"to":-551,"peak":0.16,"km2":121000,"tier":2},
+  {"id":"neo-babylonian-empire","name":"Neo-Babylonian Empire","from":-600,"to":-551,"peak":0.2,"km2":157000,"tier":2},
+  {"id":"achaemenid-empire","name":"Achaemenid Empire","from":-550,"to":-327,"peak":0.97,"km2":754000,"tier":1}
+],
+ "events":[
+  {"id":"Q30648004","name":"Battle of Halys","year":-585,"type":"battle","links":24,"by":"location","wiki":"Battle of the Eclipse"},
+  {"id":"Q1568965","name":"Battle of Pteria","year":-547,"type":"battle","links":23,"by":"coordinates","wiki":"Battle of Pteria"},
+  {"id":"Q890341","name":"Battle of Thymbra","year":-547,"type":"battle","links":21,"by":"coordinates","wiki":"Battle of Thymbra"},
+  {"id":"Q3436155","name":"Siege of Sardis","year":-547,"type":"siege","links":14,"by":"coordinates","wiki":"Siege of Sardis (547 BC)"}
+]}

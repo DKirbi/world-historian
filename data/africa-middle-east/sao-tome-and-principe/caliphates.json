@@ -1,0 +1,4 @@
+{"lane": "sao-tome-and-principe", "period": "caliphates", "years": [632, 1499], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-portugal-1147","name":"Kingdom of Portugal","from":1497,"to":1506,"peak":0.56,"km2":1000,"tier":1}
+]}

@@ -1,0 +1,7 @@
+{"lane": "senegal", "period": "caliphates", "years": [632, 1499], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"takrur","name":"Takrur","from":1040,"to":1235,"peak":0.23,"km2":46000,"tier":2},
+  {"id":"mali-empire","name":"Mali Empire","from":1236,"to":1563,"peak":1.0,"km2":196000,"tier":1},
+  {"id":"jolof-empire","name":"Jolof Empire","from":1350,"to":1549,"tier":2,"extent":"unknown","cited":"wikidata"},
+  {"id":"songhai-empire","name":"Songhai Empire","from":1475,"to":1594,"peak":0.34,"km2":66000,"tier":2}
+]}

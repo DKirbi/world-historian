@@ -1,0 +1,9 @@
+{"lane": "eritrea", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ethiopia","name":"Ethiopia","from":1953,"to":1991,"peak":0.96,"km2":119000,"tier":1},
+  {"id":"state-of-eritrea","name":"State of Eritrea","from":1992,"to":2024,"peak":0.96,"km2":118000,"tier":1}
+],
+ "events":[
+  {"id":"Q607257","name":"Eritrean War of Independence","year":1961,"type":"war","links":39,"by":"location","to":1991,"wiki":"Eritrean War of Independence"},
+  {"id":"Q832273","name":"Eritrean–Ethiopian War","year":1998,"type":"war","links":39,"by":"coordinates","to":2000,"wiki":"Eritrean–Ethiopian War"}
+]}

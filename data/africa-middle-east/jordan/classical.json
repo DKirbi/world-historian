@@ -1,0 +1,21 @@
+{"lane": "jordan", "period": "classical", "years": [-539, 631], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"neo-babylonian-empire","name":"Neo-Babylonian Empire","from":-600,"to":-531,"peak":0.36,"km2":32000,"tier":2},
+  {"id":"achaemenid-empire","name":"Achaemenid Empire","from":-530,"to":-332,"peak":0.36,"km2":32000,"tier":2},
+  {"id":"macedonian-empire","name":"Macedonian Empire","from":-318,"to":-302,"peak":0.16,"km2":14000,"tier":3},
+  {"id":"ptolemaic-kingdom","name":"Ptolemaic Kingdom","from":-301,"to":-198,"peak":0.16,"km2":14000,"tier":3},
+  {"id":"seleucid-empire","name":"Seleucid Empire","from":-197,"to":-165,"peak":0.16,"km2":14000,"tier":3},
+  {"id":"nabataeans","name":"Nabataeans","from":-164,"to":-26,"peak":0.34,"km2":30000,"tier":2},
+  {"id":"judea","name":"Judea","from":-91,"to":5,"peak":0.12,"km2":10000,"tier":3},
+  {"id":"roman-republic","name":"Roman Republic","from":-63,"to":-41,"peak":0.12,"km2":11000,"tier":3},
+  {"id":"roman-empire","name":"Roman Empire","from":-30,"to":260,"peak":0.36,"km2":32000,"tier":2},
+  {"id":"nabataeans","name":"Nabataeans","from":-19,"to":105,"peak":0.13,"km2":11000,"tier":3},
+  {"id":"roman-empire","name":"Roman Empire","from":270,"to":394,"peak":0.36,"km2":32000,"tier":2},
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":395,"to":622,"peak":0.36,"km2":32000,"tier":2},
+  {"id":"ghassanids","name":"Ghassanids","from":510,"to":616,"peak":0.72,"km2":64000,"tier":1},
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":617,"to":628,"peak":0.65,"km2":58000,"tier":1},
+  {"id":"ghassanids","name":"Ghassanids","from":629,"to":633,"peak":0.72,"km2":64000,"tier":1}
+],
+ "events":[
+  {"id":"Q1639459","name":"Battle of Mu'tah","year":629,"type":"battle","links":44,"by":"coordinates","wiki":"Battle of Mu'tah"}
+]}

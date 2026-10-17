@@ -1,0 +1,16 @@
+{"lane": "iran", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"pahlavi-dynasty","name":"Pahlavi Dynasty","from":1924,"to":1978,"peak":0.99,"km2":1608000,"tier":1},
+  {"id":"islamic-republic-of-iran","name":"Islamic Republic of Iran","from":1979,"to":2024,"peak":0.99,"km2":1609000,"tier":1}
+],
+ "events":[
+  {"id":"Q1068139","name":"White Revolution","year":1963,"type":"revolution","links":39,"by":"country","to":1979,"wiki":"White Revolution"},
+  {"id":"Q170170","name":"Ramsar Convention","year":1971,"type":"treaty","links":78,"by":"coordinates","wiki":"Ramsar Convention"},
+  {"id":"Q321865","name":"1975 Algiers Agreement","year":1975,"type":"treaty","links":25,"by":"coordinates","wiki":"1975 Algiers Agreement"},
+  {"id":"Q126065","name":"Iranian Revolution","year":1978,"type":"revolution","links":102,"by":"location","to":1979,"wiki":"Iranian Revolution"},
+  {"id":"Q815104","name":"Siege of Abadan","year":1980,"type":"siege","links":16,"by":"coordinates","to":1981,"wiki":"Siege of Abadan"},
+  {"id":"Q1132313","name":"Battle of Khorramshahr","year":1980,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Khorramshahr (1980)"},
+  {"id":"Q1570898","name":"Battle of Dezful","year":1981,"type":"battle","links":13,"by":"coordinates","wiki":"Operation Nasr"},
+  {"id":"Q814223","name":"Liberation of Khorramshahr","year":1982,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Khorramshahr (1982)"},
+  {"id":"Q114065797","name":"Mahsa Amini protests","year":2022,"type":"rebellion","links":53,"by":"location","to":2023,"wiki":"Mahsa Amini protests"}
+]}

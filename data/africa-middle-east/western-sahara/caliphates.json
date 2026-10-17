@@ -1,0 +1,4 @@
+{"lane": "western-sahara", "period": "caliphates", "years": [632, 1499], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"almoravid-dynasty","name":"Almoravid Dynasty","from":1056,"to":1138,"peak":1.0,"km2":90000,"tier":1}
+]}

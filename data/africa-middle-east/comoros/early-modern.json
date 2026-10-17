@@ -1,0 +1,14 @@
+{"lane": "comoros", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"french-india","name":"French India","from":1677,"to":1845,"peak":0.54,"km2":1000,"tier":1},
+  {"id":"kingdom-of-france","name":"Kingdom of France","from":1677,"to":1790,"peak":0.54,"km2":1000,"tier":1,"realm":true},
+  {"id":"french-first-republic","name":"French First Republic","from":1791,"to":1795,"peak":0.54,"km2":1000,"tier":1,"realm":true},
+  {"id":"french-directory","name":"French Directory","from":1796,"to":1799,"peak":0.54,"km2":1000,"tier":1,"realm":true},
+  {"id":"french-consulate","name":"French Consulate","from":1800,"to":1804,"peak":0.54,"km2":1000,"tier":1,"realm":true},
+  {"id":"first-french-empire","name":"First French Empire","from":1805,"to":1814,"peak":0.54,"km2":1000,"tier":1,"realm":true},
+  {"id":"bourbon-kingdom-of-france","name":"Bourbon Kingdom of France","from":1842,"to":1845,"peak":0.54,"km2":1000,"tier":1},
+  {"id":"french-africa","name":"French Africa","from":1846,"to":1957,"peak":0.54,"km2":1000,"tier":1},
+  {"id":"french-second-republic","name":"French Second Republic","from":1849,"to":1852,"peak":0.54,"km2":1000,"tier":1,"realm":true},
+  {"id":"second-french-empire","name":"Second French Empire","from":1853,"to":1870,"peak":0.54,"km2":1000,"tier":1,"realm":true},
+  {"id":"french-third-republic","name":"French Third Republic","from":1871,"to":1939,"peak":0.54,"km2":1000,"tier":1,"realm":true}
+]}

@@ -1,0 +1,11 @@
+{"lane": "senegal", "period": "independence", "years": [1957, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"french-africa","name":"French Africa","from":1859,"to":1957,"peak":0.99,"km2":195000,"tier":1},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1957,"peak":0.99,"km2":195000,"tier":1,"realm":true},
+  {"id":"french-fifth-republic","name":"French Fifth Republic","from":1958,"to":1959,"peak":0.99,"km2":195000,"tier":1},
+  {"id":"mali-federation","name":"Mali Federation","from":1960,"to":1960,"peak":0.99,"km2":194000,"tier":1},
+  {"id":"republic-of-senegal","name":"Republic of Senegal","from":1961,"to":2024,"peak":0.98,"km2":194000,"tier":1}
+],
+ "events":[
+  {"id":"Q209965","name":"Casamance conflict","year":1982,"type":"war","links":21,"by":"location","to":2014,"wiki":"Casamance conflict"}
+]}

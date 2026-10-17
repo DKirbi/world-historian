@@ -1,0 +1,4 @@
+{"lane": "mauritania", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"songhai-empire","name":"Songhai Empire","from":1475,"to":1594,"peak":0.15,"km2":155000,"tier":2}
+]}

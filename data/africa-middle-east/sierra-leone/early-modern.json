@@ -1,0 +1,5 @@
+{"lane": "sierra-leone", "period": "early-modern", "years": [1500, 1884], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1820,"to":1960,"peak":0.99,"km2":71000,"tier":1,"realm":true},
+  {"id":"british-cape-colony","name":"British Cape Colony","from":1820,"to":1884,"peak":0.99,"km2":71000,"tier":1}
+]}

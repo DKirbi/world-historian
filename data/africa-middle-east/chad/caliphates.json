@@ -1,0 +1,5 @@
+{"lane": "chad", "period": "caliphates", "years": [632, 1499], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"empire-of-kanem","name":"Empire of Kanem","from":1072,"to":1384,"peak":0.02,"km2":20000,"tier":3,"inside":true},
+  {"id":"bornu-empire","name":"Bornu Empire","from":1487,"to":1894,"peak":0.11,"km2":141000,"tier":2}
+]}

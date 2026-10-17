@@ -1,0 +1,10 @@
+{"lane": "oman", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"sultanate-of-oman-1744","name":"Sultanate of Oman","from":1744,"to":1899,"peak":0.57,"km2":179000,"tier":1},
+  {"id":"sultanate-of-muscat-and-oman","name":"Sultanate of Muscat and Oman","from":1900,"to":1912,"peak":0.36,"km2":112000,"tier":2},
+  {"id":"imamate-of-oman","name":"Imamate of Oman","from":1913,"to":1919,"peak":0.32,"km2":100000,"tier":2},
+  {"id":"sultanate-of-muscat-and-oman","name":"Sultanate of Muscat and Oman","from":1920,"to":1946,"peak":0.96,"km2":298000,"tier":1},
+  {"id":"qatar-protectorate","name":"Qatar Protectorate","from":1947,"to":1955,"peak":0.95,"km2":296000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1956,"to":1995,"peak":0.98,"km2":306000,"tier":1,"realm":true},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1956,"to":2023,"peak":0.98,"km2":306000,"tier":1}
+]}

@@ -1,0 +1,4 @@
+{"lane": "united-arab-emirates", "period": "bronze-age", "years": [-3400, -1201], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"akkadian-empire","name":"Akkadian Empire","from":-2250,"to":-2201,"peak":0.17,"km2":12000,"tier":3}
+]}

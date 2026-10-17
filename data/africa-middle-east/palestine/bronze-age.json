@@ -1,0 +1,5 @@
+{"lane": "palestine", "period": "bronze-age", "years": [-3400, -1201], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"hyksos","name":"Hyksos","from":-1800,"to":-1401,"peak":1.0,"km2":6000,"tier":1},
+  {"id":"new-kingdom-of-egypt","name":"New Kingdom of Egypt","from":-1400,"to":-1151,"peak":0.97,"km2":6000,"tier":1}
+]}

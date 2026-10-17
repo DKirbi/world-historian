@@ -1,0 +1,11 @@
+{"lane": "somalia", "period": "colonial", "years": [1885, 1956], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"majeerteen-sultanate","name":"Majeerteen Sultanate","from":1856,"to":1889,"peak":0.14,"km2":88000,"tier":3},
+  {"id":"sultanate-of-hobyo","name":"Sultanate of Hobyo","from":1880,"to":1894,"peak":0.18,"km2":114000,"tier":2},
+  {"id":"british-empire","name":"British Empire","from":1890,"to":1959,"peak":0.99,"km2":635000,"tier":1,"realm":true},
+  {"id":"italian-africa","name":"Italian Africa","from":1890,"to":1940,"peak":0.99,"km2":635000,"tier":1},
+  {"id":"british-africa","name":"British Africa","from":1890,"to":1959,"peak":0.99,"km2":635000,"tier":1}
+],
+ "events":[
+  {"id":"Q1402902","name":"Dervish War","year":1900,"type":"campaign","links":12,"by":"coordinates","to":1920,"wiki":"Dervish War"}
+]}
