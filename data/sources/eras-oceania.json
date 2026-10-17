@@ -1,0 +1,68 @@
+{
+ "region": "oceania",
+ "note": "Culture areas for the Eras level of Oceania. Each area groups the country columns that a published periodization covers; its eras are read from the cited Wikipedia revision (wikipedia-eras.json). Columns outside every area, and the years after an area's last era, use the region's period bins with their leading states computed from the data. Which columns an area covers is an editorial choice, explained in each note. Polynesia, Melanesia and Micronesia have no sourced periodization yet: the articles on Tonga and Pohnpei give periods for those islands only, which do not map onto the chart's combined columns, so those columns show the period bins where the data records a state or culture.",
+ "areas": [
+  {
+   "id": "australia",
+   "label": "Australia",
+   "lanes": [
+    "australia"
+   ],
+   "note": "The four periods given for Australia in the list of archaeological periods (a row of a table, with no article of its own: its link to a separate Australia list is red). The Indigenous Period reaches back to 60,000 BCE and is clipped to the start of the chart; the list ends it in 1606. The period names are shortened to what fits a column and the full line is quoted.",
+   "eras": [
+    {
+     "name": "Indigenous Period",
+     "page": "List of archaeological periods",
+     "find": "Indigenous Period (60,000 BCE – 1606 CE)",
+     "named": false
+    },
+    {
+     "name": "Pre-Settlement Period",
+     "page": "List of archaeological periods",
+     "find": "European-Contact Pre-Settlement Period (1606 – 1788 CE)",
+     "named": false
+    },
+    {
+     "name": "Settlement / Pre-Industrial",
+     "page": "List of archaeological periods",
+     "find": "Settlement / Pre-Industrial Period (1788 – 1820 CE)",
+     "named": false
+    },
+    {
+     "name": "Industrial/Modern",
+     "page": "List of archaeological periods",
+     "find": "[[Modern Times (history)|Industrial/Modern]] (1820s – Present)",
+     "named": false
+    }
+   ]
+  },
+  {
+   "id": "new-zealand",
+   "label": "New Zealand",
+   "lanes": [
+    "new-zealand"
+   ],
+   "note": "The periods of Māori history as dated in the Māori history article. The list of archaeological periods dates the same two periods differently (Archaic 1000 to 1350 or 1650, Classic 1350 to 1800, with 1650 in the eastern South Island); the article gives a single date for each, so it is used here. The article dates Early European contact 1769 to 1840; after 1840 the region's period bins take over.",
+   "eras": [
+    {
+     "name": "Archaic period",
+     "page": "Māori history",
+     "find": "Archaic period (c. 1280 – c. 1500)",
+     "named": false
+    },
+    {
+     "name": "Classic period",
+     "page": "Māori history",
+     "find": "Classic period (c. 1500 – 1768)",
+     "named": false
+    },
+    {
+     "name": "Early European contact",
+     "page": "Māori history",
+     "find": "Early European contact (1769–1840)",
+     "named": false
+    }
+   ]
+  }
+ ]
+}

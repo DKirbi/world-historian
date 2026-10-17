@@ -1,0 +1,614 @@
+{
+ "region": "europe",
+ "note": "Culture areas for the Eras level of Europe. Each area is one column, or the three Scandinavian ones, that a published periodization covers: the dated section headings of Wikipedia's History of … article for the country, or the list of archaeological periods for Scandinavia. Its eras are read from the cited Wikipedia revision (wikipedia-eras.json). Columns outside every area, the years before an area's first period and the years after its last use the region's period bins (conventional European periods, an editorial choice) where the data records a state or culture. No sourced periodization is used yet for Iberia (its headings give overlapping centuries, or modern dates only), Italy and Germany (modern dates only), Austria (headings follow reigns and wars), Poland (its Commonwealth heading is undated), Hungary (gaps of centuries), the United Kingdom, Turkey, Cyprus, Malta, Finland, the Baltic states, Belarus, Ukraine, the other Balkan and central European countries or the small states (undated headings, or none).",
+ "areas": [
+  {
+   "id": "scandinavia",
+   "label": "Scandinavia",
+   "lanes": [
+    "denmark",
+    "norway",
+    "sweden"
+   ],
+   "binsBefore": true,
+   "note": "The periods of the list of archaeological periods’ Northern Europe row. The list does not say which countries the row covers; the area is the three Scandinavian countries, an editorial choice (the row’s Nordic Bronze Age and Viking Age are named for Scandinavia). The row gives no dates for the Stone Age or for the Industrial/Modern period, so the period bins are used before the Nordic Bronze Age and after c. 1800.",
+   "eras": [
+    {
+     "name": "Nordic Bronze Age",
+     "page": "List of archaeological periods",
+     "find": "[[Nordic Bronze Age]] (c. 1700 BCE - c. 500 BCE)",
+     "named": false
+    },
+    {
+     "name": "Pre-Roman Iron Age",
+     "page": "List of archaeological periods",
+     "find": "[[Pre-Roman Iron Age]] (c. 500 BCE - c. 1 BCE)",
+     "named": false
+    },
+    {
+     "name": "Roman Iron Age",
+     "page": "List of archaeological periods",
+     "find": "[[Roman Iron Age in northern Europe]] (c. 1 CE – 400 CE)",
+     "named": false
+    },
+    {
+     "name": "Germanic Iron Age",
+     "page": "List of archaeological periods",
+     "find": "[[Germanic Iron Age]] (c. 400 – 800 CE)",
+     "named": false
+    },
+    {
+     "name": "Viking Age",
+     "page": "List of archaeological periods",
+     "find": "[[Viking Age]] (c. 800 – 1066 CE)",
+     "named": false
+    },
+    {
+     "name": "Medieval period",
+     "page": "List of archaeological periods",
+     "find": "[[Medieval period]] (1066 – c. 1500)",
+     "named": false
+    },
+    {
+     "name": "Post-medieval period",
+     "page": "List of archaeological periods",
+     "find": "[[Post-medieval archaeology|Post-medieval period]] (c. 1500 – c. 1800)",
+     "named": false
+    }
+   ]
+  },
+  {
+   "id": "ireland",
+   "label": "Ireland",
+   "lanes": [
+    "ireland"
+   ],
+   "binsBefore": true,
+   "note": "The dated section headings of History of Ireland, from prehistory to the present. The article treats Northern Ireland in a section of its own, which this column does not use.",
+   "eras": [
+    {
+     "name": "Prehistory",
+     "page": "History of Ireland",
+     "find": "Prehistory (10,500 BC–600 BC)",
+     "named": false
+    },
+    {
+     "name": "Iron Age",
+     "page": "History of Ireland",
+     "find": "Iron Age (600 BC–400 AD)",
+     "named": false
+    },
+    {
+     "name": "Early Christian Ireland",
+     "page": "History of Ireland",
+     "find": "Early Christian Ireland (400–795)",
+     "named": false
+    },
+    {
+     "name": "Early medieval and Viking era",
+     "page": "History of Ireland",
+     "find": "Early medieval and Viking era (795–1169)",
+     "named": false
+    },
+    {
+     "name": "Anglo-Norman Ireland",
+     "page": "History of Ireland",
+     "find": "Anglo-Norman Ireland (1169–1536)",
+     "named": false
+    },
+    {
+     "name": "Early modern Ireland",
+     "page": "History of Ireland",
+     "find": "Early modern Ireland (1536–1691)",
+     "named": false
+    },
+    {
+     "name": "Protestant ascendancy",
+     "page": "History of Ireland",
+     "find": "Protestant ascendancy (1691–1800)",
+     "named": false
+    },
+    {
+     "name": "Union with Great Britain",
+     "page": "History of Ireland",
+     "find": "Union with Great Britain (1801–1912)",
+     "named": false
+    },
+    {
+     "name": "Home Rule, Easter Rising and War of Independence",
+     "page": "History of Ireland",
+     "find": "Home Rule, Easter Rising and War of Independence (1912–1922)",
+     "named": false
+    },
+    {
+     "name": "Free State and Republic",
+     "page": "History of Ireland",
+     "find": "Free State and Republic (1922–present)",
+     "named": false
+    }
+   ]
+  },
+  {
+   "id": "greece",
+   "label": "Greece",
+   "lanes": [
+    "greece"
+   ],
+   "binsBefore": true,
+   "note": "The dated section headings of History of Greece. The article leaves the stretch between the Fourth Crusade (1204) and the 15th century without a dated heading (its sections there are headed 1204 and “to 1453”), so that stretch stays blank. A century heading is read as the whole century, which is why its start is marked approximate.",
+   "eras": [
+    {
+     "name": "Neolithic Period to Bronze Age",
+     "page": "History of Greece",
+     "find": "Neolithic Period to Bronze Age (7000–1100 BC)",
+     "named": false
+    },
+    {
+     "name": "Ancient Greece",
+     "page": "History of Greece",
+     "find": "Ancient Greece (1100–146 BC)",
+     "named": false
+    },
+    {
+     "name": "Roman Greece",
+     "page": "History of Greece",
+     "find": "Roman Greece (146 BC – AD 324)",
+     "named": false
+    },
+    {
+     "name": "Byzantine rule",
+     "page": "History of Greece",
+     "find": "Byzantine rule (324–1204)",
+     "named": false
+    },
+    {
+     "name": "Venetian and Ottoman rule",
+     "page": "History of Greece",
+     "find": "Venetian and Ottoman rule (15th century – 1821)",
+     "named": false
+    },
+    {
+     "name": "Modern Greek nation state",
+     "page": "History of Greece",
+     "find": "Modern Greek nation state (1821 – present)",
+     "named": false
+    }
+   ]
+  },
+  {
+   "id": "netherlands",
+   "label": "Netherlands",
+   "lanes": [
+    "netherlands"
+   ],
+   "binsBefore": true,
+   "note": "The dated section headings of History of the Netherlands up to 1839. The article’s Prehistory heading is dated only “before 57 BC”, so the period bins are used there, and again from 1840.",
+   "eras": [
+    {
+     "name": "Roman era",
+     "page": "History of the Netherlands",
+     "find": "Roman era (57 BC – 410 AD)",
+     "named": false
+    },
+    {
+     "name": "Early Middle Ages",
+     "page": "History of the Netherlands",
+     "find": "Early Middle Ages (411–1000)",
+     "named": false
+    },
+    {
+     "name": "High and Late Middle Ages",
+     "page": "History of the Netherlands",
+     "find": "High and Late Middle Ages (1000–1433)",
+     "named": false
+    },
+    {
+     "name": "Burgundian and Habsburg period",
+     "page": "History of the Netherlands",
+     "find": "Burgundian and Habsburg period (1433–1567)",
+     "named": false
+    },
+    {
+     "name": "The Eighty Years' War",
+     "page": "History of the Netherlands",
+     "find": "The Eighty Years' War (1568–1648)",
+     "named": false
+    },
+    {
+     "name": "Dutch Republic",
+     "page": "History of the Netherlands",
+     "find": "Dutch Republic: Regents and Stadholders (1649–1794)",
+     "named": false
+    },
+    {
+     "name": "Batavian Republic",
+     "page": "History of the Netherlands",
+     "find": "Batavian Republic (1795–1806)",
+     "named": false
+    },
+    {
+     "name": "Kingdom of Holland",
+     "page": "History of the Netherlands",
+     "find": "Kingdom of Holland to William I (1806–1815)",
+     "named": false
+    },
+    {
+     "name": "United Kingdom of the Netherlands",
+     "page": "History of the Netherlands",
+     "find": "United Kingdom of the Netherlands (1815–1839)",
+     "named": false
+    }
+   ]
+  },
+  {
+   "id": "france",
+   "label": "France",
+   "lanes": [
+    "france"
+   ],
+   "binsBefore": true,
+   "note": "The dated section headings of History of France up to 1815. The article’s later headings are bare year ranges (1815–1914, 1914–1945) or “Since 1945”, so the period bins are used from 1816.",
+   "eras": [
+    {
+     "name": "Frankish kingdoms",
+     "page": "History of France",
+     "find": "Frankish kingdoms (486–987)",
+     "named": false
+    },
+    {
+     "name": "State building into the Kingdom of France",
+     "page": "History of France",
+     "find": "State building into the Kingdom of France (987–1453)",
+     "named": false
+    },
+    {
+     "name": "Early Modern France",
+     "page": "History of France",
+     "find": "Early Modern France (1453–1789)",
+     "named": false
+    },
+    {
+     "name": "Revolutionary France",
+     "page": "History of France",
+     "find": "Revolutionary France (1789–1799)",
+     "named": false
+    },
+    {
+     "name": "Napoleonic France",
+     "page": "History of France",
+     "find": "Napoleonic France (1799–1815)",
+     "named": false
+    }
+   ]
+  },
+  {
+   "id": "iceland",
+   "label": "Iceland",
+   "lanes": [
+    "iceland"
+   ],
+   "binsBefore": true,
+   "note": "The dated section headings of History of Iceland, from the settlement to the present.",
+   "eras": [
+    {
+     "name": "Settlement",
+     "page": "History of Iceland",
+     "find": "Settlement (874–930)",
+     "named": false
+    },
+    {
+     "name": "Commonwealth",
+     "page": "History of Iceland",
+     "find": "Commonwealth (930–1262)",
+     "named": false
+    },
+    {
+     "name": "Iceland under Norwegian and Danish kings",
+     "page": "History of Iceland",
+     "find": "Iceland under Norwegian and Danish kings (1262–1944)",
+     "named": false
+    },
+    {
+     "name": "Republic of Iceland",
+     "page": "History of Iceland",
+     "find": "Republic of Iceland (1944–present)",
+     "named": false
+    }
+   ]
+  },
+  {
+   "id": "switzerland",
+   "label": "Switzerland",
+   "lanes": [
+    "switzerland"
+   ],
+   "binsBefore": true,
+   "note": "The dated section headings of History of Switzerland, which begin with the Old Confederacy; the period bins are used before 1300.",
+   "eras": [
+    {
+     "name": "Old Confederacy",
+     "page": "History of Switzerland",
+     "find": "Old Confederacy (1300–1798)",
+     "named": false
+    },
+    {
+     "name": "Napoleonic period and aftermath",
+     "page": "History of Switzerland",
+     "find": "Napoleonic period and aftermath (1798–1848)",
+     "named": false
+    },
+    {
+     "name": "Modern Switzerland",
+     "page": "History of Switzerland",
+     "find": "Modern Switzerland (1848–present)",
+     "named": false
+    }
+   ]
+  },
+  {
+   "id": "russia",
+   "label": "Russia",
+   "lanes": [
+    "russia"
+   ],
+   "binsBefore": true,
+   "note": "The dated section headings of History of Russia. The article’s own dates overlap (Kievan Rus’ to 1240, the Mongol invasion and vassalage from 1223, the Grand Duchy of Moscow from 1283), and the chart shows the overlaps as written. The column covers Russia west of 60°E.",
+   "eras": [
+    {
+     "name": "Kievan Rus'",
+     "page": "History of Russia",
+     "find": "Kievan Rus' (862–1240)",
+     "named": false
+    },
+    {
+     "name": "Mongol invasion and vassalage",
+     "page": "History of Russia",
+     "find": "Mongol invasion and vassalage (1223–1480)",
+     "named": false
+    },
+    {
+     "name": "Grand Duchy of Moscow",
+     "page": "History of Russia",
+     "find": "Grand Duchy of Moscow (1283–1547)",
+     "named": false
+    },
+    {
+     "name": "Tsardom of Russia",
+     "page": "History of Russia",
+     "find": "Tsardom of Russia (1547–1721)",
+     "named": false
+    },
+    {
+     "name": "Russian Empire",
+     "page": "History of Russia",
+     "find": "Russian Empire (1721–1917)",
+     "named": false
+    },
+    {
+     "name": "Russian Civil War",
+     "page": "History of Russia",
+     "find": "Russian Civil War (1917–1922)",
+     "named": false
+    },
+    {
+     "name": "Soviet Union",
+     "page": "History of Russia",
+     "find": "Soviet Union (1922–1991)",
+     "named": false
+    },
+    {
+     "name": "Russian Federation",
+     "page": "History of Russia",
+     "find": "Russian Federation (1991–present)",
+     "named": false
+    }
+   ]
+  },
+  {
+   "id": "bulgaria",
+   "label": "Bulgaria",
+   "lanes": [
+    "bulgaria"
+   ],
+   "binsBefore": true,
+   "note": "The dated section headings of History of Bulgaria from the First Bulgarian Empire to 1991; the period bins are used before 681 and from 1992.",
+   "eras": [
+    {
+     "name": "First Bulgarian Empire",
+     "page": "History of Bulgaria",
+     "find": "First Bulgarian Empire (681–1018)",
+     "named": false
+    },
+    {
+     "name": "Bulgaria under Byzantine rule",
+     "page": "History of Bulgaria",
+     "find": "Bulgaria under Byzantine rule (1018–1185)",
+     "named": false
+    },
+    {
+     "name": "Second Bulgarian Empire",
+     "page": "History of Bulgaria",
+     "find": "Second Bulgarian Empire (1185–1396)",
+     "named": false
+    },
+    {
+     "name": "Bulgaria under Ottoman rule",
+     "page": "History of Bulgaria",
+     "find": "Bulgaria under Ottoman rule (1396–1878)",
+     "named": false
+    },
+    {
+     "name": "Third Bulgarian State",
+     "page": "History of Bulgaria",
+     "find": "Third Bulgarian State (1878–1946)",
+     "named": false
+    },
+    {
+     "name": "People's Republic of Bulgaria",
+     "page": "History of Bulgaria",
+     "find": "People's Republic of Bulgaria (1946–1991)",
+     "named": false
+    }
+   ]
+  },
+  {
+   "id": "croatia",
+   "label": "Croatia",
+   "lanes": [
+    "croatia"
+   ],
+   "binsBefore": true,
+   "note": "The dated section headings of History of Croatia, from the Duchy of Croatia to the present; the period bins are used before 800.",
+   "eras": [
+    {
+     "name": "Duchy of Croatia",
+     "page": "History of Croatia",
+     "find": "Duchy of Croatia (800–925)",
+     "named": false
+    },
+    {
+     "name": "Kingdom of Croatia",
+     "page": "History of Croatia",
+     "find": "Kingdom of Croatia (925–1102)",
+     "named": false
+    },
+    {
+     "name": "Personal union with Hungary",
+     "page": "History of Croatia",
+     "find": "Personal union with Hungary (1102–1527)",
+     "named": false
+    },
+    {
+     "name": "Croatia in the Habsburg monarchy",
+     "page": "History of Croatia",
+     "find": "Croatia in the Habsburg monarchy (1527–1918)",
+     "named": false
+    },
+    {
+     "name": "Croats inside the first Yugoslavia",
+     "page": "History of Croatia",
+     "find": "Croats inside the first Yugoslavia (1918–1941)",
+     "named": false
+    },
+    {
+     "name": "World War II and the Independent State of Croatia",
+     "page": "History of Croatia",
+     "find": "World War II and the Independent State of Croatia (1941–1945)",
+     "named": false
+    },
+    {
+     "name": "Socialist Yugoslavia",
+     "page": "History of Croatia",
+     "find": "Socialist Yugoslavia (1945–1991)",
+     "named": false
+    },
+    {
+     "name": "Republic of Croatia",
+     "page": "History of Croatia",
+     "find": "Republic of Croatia (1991–present)",
+     "named": false
+    }
+   ]
+  },
+  {
+   "id": "bosnia",
+   "label": "Bosnia and Herzegovina",
+   "lanes": [
+    "bosnia-and-herzegovina"
+   ],
+   "binsBefore": true,
+   "note": "The dated section headings of History of Bosnia and Herzegovina, which begin with the Ottoman era; the period bins are used before 1463.",
+   "eras": [
+    {
+     "name": "Ottoman Era",
+     "page": "History of Bosnia and Herzegovina",
+     "find": "Ottoman Era (1463–1878)",
+     "named": false
+    },
+    {
+     "name": "Habsburg occupation",
+     "page": "History of Bosnia and Herzegovina",
+     "find": "Habsburg occupation (1878–1918)",
+     "named": false
+    },
+    {
+     "name": "Kingdom of Yugoslavia",
+     "page": "History of Bosnia and Herzegovina",
+     "find": "Kingdom of Yugoslavia (1918–1941)",
+     "named": false
+    },
+    {
+     "name": "World War II",
+     "page": "History of Bosnia and Herzegovina",
+     "find": "World War II (1941–1945)",
+     "named": false
+    },
+    {
+     "name": "Socialist Yugoslavia",
+     "page": "History of Bosnia and Herzegovina",
+     "find": "Socialist Yugoslavia (1945–1992)",
+     "named": false
+    },
+    {
+     "name": "Independence and Bosnian War",
+     "page": "History of Bosnia and Herzegovina",
+     "find": "Independence and Bosnian War (1992–1995)",
+     "named": false
+    },
+    {
+     "name": "Post-war Bosnia and Herzegovina",
+     "page": "History of Bosnia and Herzegovina",
+     "find": "Post-war Bosnia and Herzegovina (1995–present)",
+     "named": false
+    }
+   ]
+  },
+  {
+   "id": "moldova",
+   "label": "Moldova",
+   "lanes": [
+    "moldova"
+   ],
+   "binsBefore": true,
+   "note": "The dated section headings of History of Moldova. The article’s Principality of Moldavia (to 1862) and Bessarabia under the Russian Empire (from 1812) overlap, and the chart shows that as written; the period bins are used before 1346.",
+   "eras": [
+    {
+     "name": "Principality of Moldavia",
+     "page": "History of Moldova",
+     "find": "Principality of Moldavia (1346–1862)",
+     "named": false
+    },
+    {
+     "name": "Bessarabia under the Russian Empire",
+     "page": "History of Moldova",
+     "find": "Bessarabia under the Russian Empire (1812–1917)",
+     "named": false
+    },
+    {
+     "name": "Moldavian Democratic Republic",
+     "page": "History of Moldova",
+     "find": "Moldavian Democratic Republic (1917–1918)",
+     "named": false
+    },
+    {
+     "name": "Union with Romania and the Interwar Period",
+     "page": "History of Moldova",
+     "find": "Union with Romania and the Interwar Period (1918–1940)",
+     "named": false
+    },
+    {
+     "name": "World War II and Soviet era",
+     "page": "History of Moldova",
+     "find": "World War II and Soviet era (1940–1991)",
+     "named": false
+    },
+    {
+     "name": "Republic of Moldova",
+     "page": "History of Moldova",
+     "find": "Republic of Moldova (1991–present)",
+     "named": false
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,284 @@
+{
+ "region": "africa-middle-east",
+ "note": "Culture areas for the Eras level of Africa & Middle East. Each area groups the country columns that a published periodization covers; its eras are read from the cited Wikipedia revision (wikipedia-eras.json). Columns outside every area, and the years before and after an area's periods, use the region's period bins (which follow the Ancient Near East) where the data records a state or culture. Which columns an area covers is an editorial choice, explained in each note. No sourced periodization is used yet for the Levant, Anatolia, Mesopotamia and Iran (the region's period bins already follow the Ancient Near East table), for the Maghreb (the list of archaeological periods gives no dates for North Africa beyond the Neolithic) or for Yemen.",
+ "areas": [
+  {
+   "id": "egypt",
+   "label": "Egypt",
+   "lanes": [
+    "egypt"
+   ],
+   "note": "The periods that head the table of Egyptian dynasties in Dynasties of ancient Egypt, from the Early Dynastic Period (3000 BCE) to the Hellenistic period (to 30 BCE). The dates are those of the headings: a dynasty row inside a period can start earlier (Dynasty XI, 2080, under the Middle Kingdom, 2000). Other chronologies date the same periods differently (the Egyptian chronology article tabulates Breasted, Shaw and Hornung); this article gives one consistent set. The Predynastic period is not in the table, and the table has no row for Roman Egypt, so those years use the region's period bins.",
+   "eras": [
+    {
+     "name": "Early Dynastic Period",
+     "page": "Dynasties of ancient Egypt",
+     "find": "[[Early Dynastic Period of Egypt|Early Dynastic Period]] (3000–2700 BC)",
+     "named": false
+    },
+    {
+     "name": "Old Kingdom",
+     "page": "Dynasties of ancient Egypt",
+     "find": "[[Old Kingdom of Egypt|Old Kingdom]] (2700–2200 BC)",
+     "named": false
+    },
+    {
+     "name": "First Intermediate Period",
+     "page": "Dynasties of ancient Egypt",
+     "find": "[[First Intermediate Period of Egypt|First Intermediate Period]] (2200–2000 BC)",
+     "named": false
+    },
+    {
+     "name": "Middle Kingdom",
+     "page": "Dynasties of ancient Egypt",
+     "find": "[[Middle Kingdom of Egypt|Middle Kingdom]] (2000–1800 BC)",
+     "named": false
+    },
+    {
+     "name": "Second Intermediate Period",
+     "page": "Dynasties of ancient Egypt",
+     "find": "[[Second Intermediate Period of Egypt|Second Intermediate Period]] (1800–1550 BC)",
+     "named": false
+    },
+    {
+     "name": "New Kingdom",
+     "page": "Dynasties of ancient Egypt",
+     "find": "[[New Kingdom of Egypt|New Kingdom]] (1550–1075 BC)",
+     "named": false
+    },
+    {
+     "name": "Third Intermediate Period",
+     "page": "Dynasties of ancient Egypt",
+     "find": "[[Third Intermediate Period of Egypt|Third Intermediate Period]] (1075–664 BC)",
+     "named": false
+    },
+    {
+     "name": "Late Period",
+     "page": "Dynasties of ancient Egypt",
+     "find": "[[Late Period of Egypt|Late Period]] (664–342 BC)",
+     "named": false
+    },
+    {
+     "name": "Hellenistic period",
+     "page": "Dynasties of ancient Egypt",
+     "find": "[[Hellenistic period]] (342–30 BC)",
+     "named": false
+    }
+   ]
+  },
+  {
+   "id": "nubia",
+   "label": "Sudan (Nubia)",
+   "lanes": [
+    "sudan"
+   ],
+   "note": "The three dated periods the list of archaeological periods gives for sub-Saharan Africa. The list links its Bronze Age row to Nubia, so only Sudan takes it; the Bronze Age (to 600 BCE) and Iron Age (from 550 BCE) rows leave 600 to 550 BCE without a period. The other sub-Saharan columns take only the Iron Age and Classic Middle Ages.",
+   "eras": [
+    {
+     "name": "Bronze Age",
+     "page": "List of archaeological periods",
+     "find": "[[Nubia|Bronze Age]] (3500 – 600 BCE)",
+     "named": false
+    },
+    {
+     "name": "Iron Age",
+     "page": "List of archaeological periods",
+     "find": "[[Ghana Empire|Iron Age]] (550 BC – 700 [[Common Era|CE]])",
+     "named": false
+    },
+    {
+     "name": "Classic Middle Ages",
+     "page": "List of archaeological periods",
+     "find": "Classic Middle Ages (c. 700 – 1700 CE)",
+     "named": false
+    }
+   ]
+  },
+  {
+   "id": "ssa-west",
+   "label": "Sub-Saharan Africa: West Africa",
+   "lanes": [
+    "mauritania",
+    "senegal",
+    "gambia",
+    "guinea-bissau",
+    "guinea",
+    "sierra-leone",
+    "liberia",
+    "cote-d-ivoire",
+    "mali",
+    "burkina-faso",
+    "ghana",
+    "togo",
+    "benin",
+    "niger",
+    "nigeria"
+   ],
+   "note": "The Iron Age (550 BCE to 700 CE) and Classic Middle Ages (700 to 1700 CE) of the row the list of archaeological periods gives for sub-Saharan Africa. The row is one periodization for the whole of sub-Saharan Africa; the chart applies it to five groups of columns (West, Central, East and Southern Africa, and the Horn with South Sudan) so that the names under each block come from that group's own states. The row's earlier periods (Earlier, Middle and Later Stone Age) have no dates and its Bronze Age is linked to Nubia (Sudan, below), so before 550 BCE these columns use no cited period. The island columns (Cabo Verde, São Tomé and Príncipe, Madagascar, Comoros, Mauritius) are left out because the list describes the continent. After 1700 the region's period bins take over.",
+   "eras": [
+    {
+     "name": "Iron Age",
+     "page": "List of archaeological periods",
+     "find": "[[Ghana Empire|Iron Age]] (550 BC – 700 [[Common Era|CE]])",
+     "named": false
+    },
+    {
+     "name": "Classic Middle Ages",
+     "page": "List of archaeological periods",
+     "find": "Classic Middle Ages (c. 700 – 1700 CE)",
+     "named": false
+    }
+   ]
+  },
+  {
+   "id": "ssa-central",
+   "label": "Sub-Saharan Africa: Central Africa",
+   "lanes": [
+    "chad",
+    "cameroon",
+    "central-african-republic",
+    "equatorial-guinea",
+    "gabon",
+    "republic-of-the-congo",
+    "dr-congo"
+   ],
+   "note": "The same two periods as Sub-Saharan Africa (West Africa), applied to this group of columns.",
+   "eras": [
+    {
+     "name": "Iron Age",
+     "page": "List of archaeological periods",
+     "find": "[[Ghana Empire|Iron Age]] (550 BC – 700 [[Common Era|CE]])",
+     "named": false
+    },
+    {
+     "name": "Classic Middle Ages",
+     "page": "List of archaeological periods",
+     "find": "Classic Middle Ages (c. 700 – 1700 CE)",
+     "named": false
+    }
+   ]
+  },
+  {
+   "id": "ssa-east",
+   "label": "Sub-Saharan Africa: East Africa",
+   "lanes": [
+    "uganda",
+    "kenya",
+    "rwanda",
+    "burundi",
+    "tanzania"
+   ],
+   "note": "The same two periods as Sub-Saharan Africa (West Africa), applied to this group of columns.",
+   "eras": [
+    {
+     "name": "Iron Age",
+     "page": "List of archaeological periods",
+     "find": "[[Ghana Empire|Iron Age]] (550 BC – 700 [[Common Era|CE]])",
+     "named": false
+    },
+    {
+     "name": "Classic Middle Ages",
+     "page": "List of archaeological periods",
+     "find": "Classic Middle Ages (c. 700 – 1700 CE)",
+     "named": false
+    }
+   ]
+  },
+  {
+   "id": "ssa-southern",
+   "label": "Sub-Saharan Africa: Southern Africa",
+   "lanes": [
+    "angola",
+    "zambia",
+    "malawi",
+    "mozambique",
+    "zimbabwe",
+    "namibia",
+    "botswana",
+    "south-africa",
+    "lesotho",
+    "eswatini"
+   ],
+   "note": "The same two periods as Sub-Saharan Africa (West Africa), applied to this group of columns.",
+   "eras": [
+    {
+     "name": "Iron Age",
+     "page": "List of archaeological periods",
+     "find": "[[Ghana Empire|Iron Age]] (550 BC – 700 [[Common Era|CE]])",
+     "named": false
+    },
+    {
+     "name": "Classic Middle Ages",
+     "page": "List of archaeological periods",
+     "find": "Classic Middle Ages (c. 700 – 1700 CE)",
+     "named": false
+    }
+   ]
+  },
+  {
+   "id": "ssa-horn",
+   "label": "Sub-Saharan Africa: Horn of Africa and South Sudan",
+   "lanes": [
+    "south-sudan",
+    "eritrea",
+    "ethiopia",
+    "djibouti",
+    "somalia"
+   ],
+   "note": "The same two periods as Sub-Saharan Africa (West Africa), applied to this group of columns.",
+   "eras": [
+    {
+     "name": "Iron Age",
+     "page": "List of archaeological periods",
+     "find": "[[Ghana Empire|Iron Age]] (550 BC – 700 [[Common Era|CE]])",
+     "named": false
+    },
+    {
+     "name": "Classic Middle Ages",
+     "page": "List of archaeological periods",
+     "find": "Classic Middle Ages (c. 700 – 1700 CE)",
+     "named": false
+    }
+   ]
+  },
+  {
+   "id": "eastern-arabia",
+   "label": "Eastern Arabia",
+   "lanes": [
+    "kuwait",
+    "bahrain",
+    "qatar",
+    "united-arab-emirates",
+    "oman",
+    "saudi-arabia"
+   ],
+   "note": "The four periods of the Eastern Arabia section of Pre-Islamic Arabia, which defines the region as Kuwait, Bahrain, Qatar, the east coast of Saudi Arabia, the United Arab Emirates and Oman. Saudi Arabia's column covers the whole country, not only its east coast. Yemen and the rest of the peninsula are not in the section and keep the region's period bins. After 630 CE the bins take over.",
+   "eras": [
+    {
+     "name": "Bronze Age",
+     "page": "Pre-Islamic Arabia",
+     "find": "Bronze Age (3000 – 1300 BCE)",
+     "named": false
+    },
+    {
+     "name": "Iron Age",
+     "page": "Pre-Islamic Arabia",
+     "find": "Iron Age (1300 – 330 BCE)",
+     "named": false
+    },
+    {
+     "name": "Greco-Roman/Parthian period",
+     "page": "Pre-Islamic Arabia",
+     "find": "Greco-Roman/Parthian period (330 BCE – 240 CE)",
+     "named": false
+    },
+    {
+     "name": "Byzantine/Sasanian period",
+     "page": "Pre-Islamic Arabia",
+     "find": "Byzantine/Sasanian period (240 CE – 630 CE)",
+     "named": false
+    }
+   ]
+  }
+ ]
+}

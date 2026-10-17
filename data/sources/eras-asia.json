@@ -1,0 +1,163 @@
+{
+ "region": "asia",
+ "note": "Culture areas for the Eras level of Asia. Each area groups the country columns that a published periodization covers; its eras are read from the cited Wikipedia revision (wikipedia-eras.json). Columns outside every area, and the years after an area's periods, use the region's period bins (anchored on the Indus Valley Civilisation, the Qin, Sui and Mongol empires, the First Opium War and 1945) where the data records a state or culture. Which columns an area covers is an editorial choice, explained in each note. No sourced periodization is used yet for South Asia (the Indus Valley article gives several competing ones and the list's South Asia row has stages that overlap by centuries), Southeast Asia, Central Asia, the Caucasus, Mongolia, Taiwan or Eastern Russia.",
+ "areas": [
+  {
+   "id": "japan",
+   "label": "Japan",
+   "lanes": [
+    "japan"
+   ],
+   "note": "The Jōmon and Yayoi periods from the list of archaeological periods, then the periods of Japanese history as headed in History of Japan, from the Kofun period to Reiwa. The list calls c. 250 to 710 the Yamato period; the article divides it into Kofun and Asuka, which are used here.",
+   "eras": [
+    {
+     "name": "Jōmon period",
+     "page": "List of archaeological periods",
+     "find": "[[Jōmon period]] c. 10,000 – 300 BCE",
+     "named": false
+    },
+    {
+     "name": "Yayoi period",
+     "page": "List of archaeological periods",
+     "find": "[[Yayoi period]] c. 300 BCE – 250 CE",
+     "named": false
+    },
+    {
+     "name": "Kofun period",
+     "page": "History of Japan",
+     "find": "Kofun period (c. 250–538)",
+     "named": false
+    },
+    {
+     "name": "Asuka period",
+     "page": "History of Japan",
+     "find": "Asuka period (538–710)",
+     "named": false
+    },
+    {
+     "name": "Nara period",
+     "page": "History of Japan",
+     "find": "Nara period (710–794)",
+     "named": false
+    },
+    {
+     "name": "Heian period",
+     "page": "History of Japan",
+     "find": "Heian period (794–1185)",
+     "named": false
+    },
+    {
+     "name": "Kamakura period",
+     "page": "History of Japan",
+     "find": "Kamakura period (1185–1333)",
+     "named": false
+    },
+    {
+     "name": "Muromachi period",
+     "page": "History of Japan",
+     "find": "Muromachi period (1333–1568)",
+     "named": false
+    },
+    {
+     "name": "Azuchi–Momoyama period",
+     "page": "History of Japan",
+     "find": "Azuchi–Momoyama period (1568–1600)",
+     "named": false
+    },
+    {
+     "name": "Edo period",
+     "page": "History of Japan",
+     "find": "Edo period (1600–1868)",
+     "named": false
+    },
+    {
+     "name": "Meiji period",
+     "page": "History of Japan",
+     "find": "Meiji period (1868–1912)",
+     "named": false
+    },
+    {
+     "name": "Taishō period",
+     "page": "History of Japan",
+     "find": "Taishō period (1912–1926)",
+     "named": false
+    },
+    {
+     "name": "Shōwa period",
+     "page": "History of Japan",
+     "find": "Shōwa period (1926–1989)",
+     "named": false
+    },
+    {
+     "name": "Heisei period",
+     "page": "History of Japan",
+     "find": "Heisei period (1989–2019)",
+     "named": false
+    },
+    {
+     "name": "Reiwa period",
+     "page": "History of Japan",
+     "find": "Reiwa period (2019–present)",
+     "named": false
+    }
+   ]
+  },
+  {
+   "id": "korea",
+   "label": "Korea",
+   "lanes": [
+    "north-korea",
+    "south-korea"
+   ],
+   "note": "The four periods the list of archaeological periods gives for Korea from the Jeulmun pottery period on (its Paleolithic ends in 8000 BCE, before the chart starts). The list dates the boundary between the Protohistoric period and the Three Kingdoms \"300/400 CE\"; both readings are kept, the Protohistoric period running to 400 and the Three Kingdoms starting in 300, so the two share the width for those 100 years. After 668 the region's period bins take over.",
+   "eras": [
+    {
+     "name": "Jeulmun pottery period",
+     "page": "List of archaeological periods",
+     "find": "[[Jeulmun pottery period]] c. 8000 – 1500 BCE",
+     "named": false
+    },
+    {
+     "name": "Mumun pottery period",
+     "page": "List of archaeological periods",
+     "find": "[[Mumun pottery period]] c. 1500 – 300 BCE",
+     "named": false
+    },
+    {
+     "name": "Protohistoric period",
+     "page": "List of archaeological periods",
+     "find": "[[Proto–Three Kingdoms of Korea|Protohistoric period]] c. 300 BCE – 300/400 CE",
+     "named": false
+    },
+    {
+     "name": "Three Kingdoms of Korea",
+     "page": "List of archaeological periods",
+     "find": "[[Three Kingdoms of Korea]] c. 300/400 – 668 CE",
+     "named": false
+    }
+   ]
+  },
+  {
+   "id": "china",
+   "label": "China",
+   "lanes": [
+    "china"
+   ],
+   "note": "The Neolithic period and Ancient China of the list of archaeological periods' China row. Its Imperial period (221 BCE to 1911) is not used: the region's period bins divide those years at the Qin, Sui and Mongol dates and the First Opium War, which says more, and its Modern period has no dates. The Neolithic period begins about 10,000 BCE and is clipped to the start of the chart.",
+   "eras": [
+    {
+     "name": "Neolithic period",
+     "page": "List of archaeological periods",
+     "find": "[[List of Neolithic cultures of China|Neolithic period]] c. 10,000 – 2100 BCE",
+     "named": false
+    },
+    {
+     "name": "Ancient China",
+     "page": "List of archaeological periods",
+     "find": "[[Ancient China]] c. 2100 – 221 BCE",
+     "named": false
+    }
+   ]
+  }
+ ]
+}

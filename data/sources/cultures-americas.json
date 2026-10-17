@@ -1,0 +1,70 @@
+{
+ "region": "americas",
+ "note": "Rules for turning the culture index (wikipedia-cultures.json) into chart records. A culture is kept when its Wikidata item is a culture, people or polity (keepClasses), or, for rows of a dated culture list, when the item has no class but the list names it as a culture. It needs a start and an end inside the chart's years and before European contact; a culture still living today ('–present') is left out. Dates: the list row's own dates, else Wikidata's, else the period(s) the source lists it under (marked approximate). Column: the place named in the row, else the source's country, else Wikidata coordinates or country, else Peru for the Peruvian periodization. Records already on the chart are skipped.",
+ "keepClasses": {
+  "Q465299": "archaeological culture",
+  "Q8432": "civilization",
+  "Q28171280": "ancient civilization",
+  "Q116795925": "Mesoamerican civilization",
+  "Q11042": "culture",
+  "Q19958368": "culture of an area",
+  "Q41710": "ethnic group",
+  "Q4204501": "historical ethnic group",
+  "Q4533081": "ethnolinguistic group",
+  "Q2472587": "people",
+  "Q103817": "indigenous people",
+  "Q1479328": "Indigenous peoples of South America",
+  "Q3557982": "indigenous people in Peru",
+  "Q1363781": "indigenous peoples in Brazil",
+  "Q133311": "tribe",
+  "Q3117863": "isolated human group",
+  "Q55208590": "extinct human group",
+  "Q25380035": "ethnic community",
+  "Q3024240": "historical country",
+  "Q417175": "kingdom",
+  "Q1250464": "realm",
+  "Q170156": "confederation",
+  "Q262714": "Mound Builders"
+ },
+ "cultureWords": [
+  "culture",
+  "cultures",
+  "tradition",
+  "complex",
+  "people",
+  "civilization",
+  "kingdom",
+  "confederation"
+ ],
+ "tier2Languages": 15,
+ "lastStart": 1600,
+ "exclude": {
+  "Q12542": "Aztec: the chart already shows the Aztec Triple Alliance, Tenochtitlan and Texcoco from Cliopatria.",
+  "Q2605410": "Tarascan State: the chart already shows it as Michoacán (1305–1533) from Cliopatria.",
+  "Q605340": "Wari: the chart already shows the Wari Empire.",
+  "Q61750": "Tiwanaku (the city): the chart already shows the Tiwanaku polity."
+ },
+ "defaultLane": {
+  "Periodization of pre-Columbian Peru": "peru"
+ },
+ "maxLanes": 6,
+ "aliases": {
+  "Greater Antilles": {
+   "lanes": [
+    "cuba",
+    "haiti",
+    "dominican-republic",
+    "puerto-rico",
+    "jamaica"
+   ],
+   "url": "https://en.wikipedia.org/w/index.php?oldid=1378969847",
+   "quote": "The Greater Antilles is a grouping of the larger islands in the Caribbean Sea, including Cuba, Hispaniola, Puerto Rico, and Jamaica, together with Navassa Island and the Cayman Islands. Seven island states share the region of the Greater Antilles, with Haiti and the Dominican Republic sharing the island of Hispaniola."
+  },
+  "Virgin Islands": {
+   "lanes": [
+    "lesser-antilles"
+   ],
+   "note": "Both the British and the United States Virgin Islands are in the Lesser Antilles column."
+  }
+ }
+}

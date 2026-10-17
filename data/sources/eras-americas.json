@@ -1,0 +1,74 @@
+{
+ "region": "americas",
+ "note": "Culture areas for the Eras level. Each area groups country columns that a published periodization covers; its eras are the rows of that periodization, read from the cited Wikipedia revision (wikipedia-eras.json). Columns outside every area, and the years after an area's last era, use the region's period bins with their leading states computed from the data. Which columns an area covers is an editorial choice, explained in each note.",
+ "areas": [
+  {
+   "id": "eastern-north-america",
+   "label": "Eastern North America",
+   "lanes": ["canada", "united-states"],
+   "note": "Periods of the Eastern Woodlands from the table of North American archaeological periods. Southern Canada is included because the table lists Canadian Hopewellian complexes (Point Peninsula, Laurel, Saugeen) in the Middle Woodland. The Arctic, the Plains and the Southwest have their own sequences; their cultures appear at the deeper levels.",
+   "eras": [
+    {"name": "Middle Archaic", "page": "List of archaeological periods (North America)", "find": "[[Middle Archaic]]<br />6000 – 3000 BCE"},
+    {"name": "Late Archaic", "page": "List of archaeological periods (North America)", "find": "[[Late Archaic]]<br />3000 – 1000 BCE"},
+    {"name": "Early Woodland", "page": "List of archaeological periods (North America)", "find": "[[Woodland period#Early Woodland period (1000–1 BCE)|Early Woodland Period]]<br />1000 BCE – 1 CE"},
+    {"name": "Middle Woodland", "page": "List of archaeological periods (North America)", "find": "[[Woodland period#Middle Woodland Period (1 to 500 CE)|Middle Woodland Period]]<br />1 – 500"},
+    {"name": "Late Woodland", "page": "List of archaeological periods (North America)", "find": "[[Woodland period#Late Woodland Period (500 to 1000 CE)|Late Woodland Period]]<br />500–1000"},
+    {"name": "Mississippian", "page": "List of archaeological periods (North America)", "find": "[[Mississippian culture]]<br />900–1500<br />(ending with European contact)"}
+   ]
+  },
+  {
+   "id": "mesoamerica",
+   "label": "Mesoamerica",
+   "lanes": ["mexico", "guatemala", "belize", "el-salvador", "honduras"],
+   "note": "The summary table of Mesoamerican chronology. Mesoamerica covers central and southern Mexico, Guatemala, Belize, El Salvador and western Honduras; northern Mexico lies outside it but shares the column. The Terminal Classic (800–900/1000) overlaps the Late Classic and is folded into it here.",
+   "eras": [
+    {"name": "Archaic", "page": "Mesoamerican chronology", "row": "Archaic"},
+    {"name": "Early Preclassic", "page": "Mesoamerican chronology", "row": "Early Preclassic"},
+    {"name": "Middle Preclassic", "page": "Mesoamerican chronology", "row": "Middle Preclassic"},
+    {"name": "Late Preclassic", "page": "Mesoamerican chronology", "row": "Late Preclassic"},
+    {"name": "Early Classic", "page": "Mesoamerican chronology", "row": "Early Classic"},
+    {"name": "Late Classic", "page": "Mesoamerican chronology", "row": "Late Classic"},
+    {"name": "Early Postclassic", "page": "Mesoamerican chronology", "row": "Early Postclassic"},
+    {"name": "Late Postclassic", "page": "Mesoamerican chronology", "row": "Late Postclassic"},
+    {"name": "Colonial", "page": "Mesoamerican chronology", "row": "Colonial"},
+    {"name": "Postcolonial", "page": "Mesoamerican chronology", "row": "Postcolonial"}
+   ]
+  },
+  {
+   "id": "antilles",
+   "label": "Antilles",
+   "lanes": ["cuba", "jamaica", "haiti", "dominican-republic", "puerto-rico", "lesser-antilles", "trinidad-and-tobago"],
+   "note": "The three ages of Caribbean prehistory as given in the list of pre-Columbian cultures (citing Rouse 1992). They describe the Greater and Lesser Antilles as a whole; not every island was settled in every age.",
+   "eras": [
+    {"name": "Lithic/Archaic Age", "page": "List of pre-Columbian cultures", "find": "* Lithic/Archaic Age, c. 5500—200 BC"},
+    {"name": "Early Ceramic Age", "page": "List of pre-Columbian cultures", "find": "*Early Ceramic Age, c. 500 BC—AD 600"},
+    {"name": "Late Ceramic Age", "page": "List of pre-Columbian cultures", "find": "*Late Ceramic Age, c. AD 600-1500"}
+   ]
+  },
+  {
+   "id": "bahamas",
+   "label": "Bahamas",
+   "lanes": ["bahamas"],
+   "note": "The list names the Bahamas only for the Lucayans of the Late Ceramic Age (700–1500 AD).",
+   "eras": [
+    {"name": "Late Ceramic Age", "page": "List of pre-Columbian cultures", "find": "*Late Ceramic Age, c. AD 600-1500"}
+   ]
+  },
+  {
+   "id": "andes",
+   "label": "Andes",
+   "lanes": ["colombia", "ecuador", "peru", "bolivia", "chile", "argentina"],
+   "note": "Rowe and Lanning's periods for 'Peru and the Andean Region'. The list of pre-Columbian cultures uses the same periods for cultures in Colombia, Ecuador, Bolivia, Chile and Argentina, so those columns share them; the periods describe their Andean parts. The list dates the Early Horizon to 900 BC–200 AD and the Early Intermediate to 200–600 AD; the periodization article, used here, has 900–200 BCE and 200 BCE–600 CE.",
+   "eras": [
+    {"name": "Period V (Preceramic)", "page": "Periodization of pre-Columbian Peru", "row": "Period V"},
+    {"name": "Period VI (Cotton Preceramic)", "page": "Periodization of pre-Columbian Peru", "row": "Period VI (Cotton Pre-ceramic)"},
+    {"name": "Initial Period", "page": "Periodization of pre-Columbian Peru", "row": "Initial Period (also called Formative Period)"},
+    {"name": "Early Horizon", "page": "Periodization of pre-Columbian Peru", "row": "Early Horizon (Also called Formative Period)"},
+    {"name": "Early Intermediate", "page": "Periodization of pre-Columbian Peru", "row": "Early Intermediate"},
+    {"name": "Middle Horizon", "page": "Periodization of pre-Columbian Peru", "row": "Middle Horizon"},
+    {"name": "Late Intermediate", "page": "Periodization of pre-Columbian Peru", "row": "Late Intermediate"},
+    {"name": "Late Horizon", "page": "Periodization of pre-Columbian Peru", "row": "Late Horizon"}
+   ]
+  }
+ ]
+}
