@@ -1,0 +1,44 @@
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  height: 28px;
+  padding: 0 10px;
+  border-radius: 999px;
+  border: 1px solid var(--hairline);
+  background: var(--surface);
+  color: var(--ink-2);
+  font-size: var(--fs-sm);
+  white-space: nowrap;
+  cursor: pointer;
+  flex: none;
+
+  &:hover {
+    color: var(--ink);
+    border-color: var(--axis);
+  }
+}
+
+.pressed {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--surface);
+
+  &:hover {
+    color: var(--surface);
+    border-color: var(--ink);
+  }
+}
+
+.swatch {
+  width: 10px;
+  height: 10px;
+  border-radius: 2px;
+  background: var(--swatch);
+}
+
+.text {
+  max-width: 32ch;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
