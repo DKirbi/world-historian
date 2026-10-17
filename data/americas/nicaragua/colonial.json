@@ -1,0 +1,7 @@
+{"lane": "nicaragua", "period": "colonial", "years": [1600, 1774], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"nicarao-people","name":"Nicarao people","from":700,"to":1622,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1526,"to":1821,"peak":1.0,"km2":128000,"tier":1},
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1744,"to":1787,"peak":0.13,"km2":17000,"tier":3},
+  {"id":"british-empire","name":"British Empire","from":1744,"to":1787,"peak":0.13,"km2":17000,"tier":3,"realm":true}
+]}

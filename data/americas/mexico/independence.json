@@ -1,0 +1,23 @@
+{"lane": "mexico", "period": "independence", "years": [1775, 1849], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1521,"to":1821,"peak":0.99,"km2":1935000,"tier":1},
+  {"id":"mexicans","name":"Mexicans","from":1811,"to":1819,"peak":0.16,"km2":304000,"tier":2},
+  {"id":"first-mexican-empire","name":"First Mexican Empire","from":1822,"to":1823,"peak":1.0,"km2":1948000,"tier":1},
+  {"id":"federated-republic-of-mexico","name":"Federated Republic of Mexico","from":1824,"to":1841,"peak":0.99,"km2":1940000,"tier":1},
+  {"id":"centralist-mexico","name":"Centralist Mexico","from":1836,"to":1845,"peak":0.99,"km2":1947000,"tier":1},
+  {"id":"republic-of-the-rio-grande","name":"Republic of the Rio Grande","from":1840,"to":1841,"peak":0.15,"km2":294000,"tier":2},
+  {"id":"federated-republic-of-mexico","name":"Federated Republic of Mexico","from":1846,"to":1864,"peak":0.99,"km2":1948000,"tier":1}
+],
+ "events":[
+  {"id":"Q1145411","name":"Grito de Dolores","year":1810,"type":"rebellion","links":29,"by":"coordinates","wiki":"Grito de Dolores"},
+  {"id":"Q1606520","name":"Plan of ayala","year":1821,"type":"treaty","links":17,"by":"country","wiki":"Plan of Iguala"},
+  {"id":"Q767450","name":"Treaty of Córdoba","year":1821,"type":"treaty","links":16,"by":"location","wiki":"Treaty of Córdoba"},
+  {"id":"Q6683","name":"Mexican-American War","year":1846,"type":"war","links":76,"by":"location","to":1848,"wiki":"Mexican–American War"},
+  {"id":"Q1628057","name":"Battle of Monterrey","year":1846,"type":"siege","links":17,"by":"coordinates","wiki":"Battle of Monterrey"},
+  {"id":"Q1536618","name":"Battle of Chapultepec","year":1847,"type":"battle","links":19,"by":"coordinates","wiki":"Battle of Chapultepec"},
+  {"id":"Q772814","name":"Caste War of Yucatán","year":1847,"type":"war","links":16,"by":"coordinates","to":1901,"wiki":"Caste War of Yucatán"},
+  {"id":"Q2745368","name":"Siege of Veracruz","year":1847,"type":"siege","links":15,"by":"coordinates","wiki":"Siege of Veracruz"},
+  {"id":"Q1808450","name":"Battle of Buena Vista","year":1847,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Buena Vista"},
+  {"id":"Q2333407","name":"Battle of Churubusco","year":1847,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Churubusco"},
+  {"id":"Q616109","name":"Treaty of Guadalupe Hidalgo","year":1848,"type":"treaty","links":43,"by":"location","wiki":"Treaty of Guadalupe Hidalgo"}
+]}

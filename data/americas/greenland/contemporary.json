@@ -1,0 +1,9 @@
+{"lane": "greenland", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"greenland","name":"Greenland","from":1911,"to":1940,"peak":0.99,"km2":2150000,"tier":1},
+  {"id":"united-states-of-america","name":"United States of America","from":1941,"to":1945,"peak":0.99,"km2":2150000,"tier":1},
+  {"id":"denmark","name":"Denmark","from":1946,"to":2024,"peak":0.99,"km2":2150000,"tier":1}
+],
+ "events":[
+  {"id":"Q696607","name":"Battle of the Denmark Strait","year":1941,"type":"battle","links":30,"by":"coordinates","wiki":"Battle of the Denmark Strait"}
+]}

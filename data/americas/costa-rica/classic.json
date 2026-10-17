@@ -1,0 +1,7 @@
+{"lane": "costa-rica", "period": "classic", "years": [250, 899], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"kingdom-of-nicoya","name":"Kingdom of Nicoya","from":-500,"to":1524,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"mangue-people","name":"Mangue people","from":500,"to":1530,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"nicarao-people","name":"Nicarao people","from":700,"to":1622,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"diquis-culture","name":"Diquis culture","from":700,"to":1530,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"}
+]}

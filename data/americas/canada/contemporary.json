@@ -1,0 +1,12 @@
+{"lane": "canada", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1778,"to":1931,"peak":0.99,"km2":9778000,"tier":1},
+  {"id":"canada","name":"Canada","from":1932,"to":2024,"peak":0.99,"km2":9778000,"tier":1},
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1932,"to":1957,"peak":0.04,"km2":367000,"tier":2,"large":true}
+],
+ "events":[
+  {"id":"Q219438","name":"Montreal Protocol","year":1987,"type":"treaty","links":47,"by":"location","wiki":"Montreal Protocol"},
+  {"id":"Q570224","name":"Ottawa Treaty","year":1997,"type":"treaty","links":39,"by":"location","wiki":"Ottawa Treaty"},
+  {"id":"Q326303","name":"Montreal Convention","year":1999,"type":"treaty","links":17,"by":"location","wiki":"Montreal Convention"},
+  {"id":"Q1045767","name":"Cartagena Protocol on Biosafety","year":2000,"type":"treaty","links":14,"by":"location","wiki":"Cartagena Protocol on Biosafety"}
+]}

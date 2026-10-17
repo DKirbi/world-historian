@@ -1,0 +1,8 @@
+{"lane": "uruguay", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"oriental-republic-of-uruguay","name":"Oriental Republic of Uruguay","from":1828,"to":2024,"peak":0.97,"km2":171000,"tier":1}
+],
+ "events":[
+  {"id":"Q210862","name":"Montevideo Convention","year":1933,"type":"treaty","links":33,"by":"location","wiki":"Montevideo Convention"},
+  {"id":"Q389853","name":"1973 Uruguayan coup d'état","year":1973,"type":"coup","links":12,"by":"country","wiki":"1973 Uruguayan coup d'état"}
+]}

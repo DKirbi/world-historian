@@ -1,0 +1,8 @@
+{"lane": "uruguay", "period": "republics", "years": [1850, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"oriental-republic-of-uruguay","name":"Oriental Republic of Uruguay","from":1828,"to":2024,"peak":0.97,"km2":171000,"tier":1}
+],
+ "events":[
+  {"id":"Q3042457","name":"Platine War","year":1851,"type":"war","links":16,"by":"location","to":1852,"wiki":"Platine War"},
+  {"id":"Q3042463","name":"Uruguayan War","year":1864,"type":"war","links":16,"by":"location","to":1865,"wiki":"Uruguayan War"}
+]}

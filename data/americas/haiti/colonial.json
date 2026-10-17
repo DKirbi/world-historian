@@ -1,0 +1,5 @@
+{"lane": "haiti", "period": "colonial", "years": [1600, 1774], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1521,"to":1699,"peak":0.97,"km2":26000,"tier":1},
+  {"id":"new-france","name":"New France","from":1670,"to":1790,"peak":0.97,"km2":26000,"tier":1}
+]}

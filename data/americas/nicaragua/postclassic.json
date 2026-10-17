@@ -1,0 +1,5 @@
+{"lane": "nicaragua", "period": "postclassic", "years": [900, 1491], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"mangue-people","name":"Mangue people","from":500,"to":1530,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"nicarao-people","name":"Nicarao people","from":700,"to":1622,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"}
+]}

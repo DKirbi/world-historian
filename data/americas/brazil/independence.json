@@ -1,0 +1,27 @@
+{"lane": "brazil", "period": "independence", "years": [1775, 1849], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"portuguese-empire","name":"Portuguese Empire","from":1640,"to":1821,"peak":0.91,"km2":7735000,"tier":1},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1757,"to":1777,"peak":0.02,"km2":172000,"tier":2,"large":true},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1778,"to":1819,"peak":0.08,"km2":703000,"tier":2},
+  {"id":"rio-de-la-plata","name":"Río de la Plata","from":1811,"to":1813,"peak":0.01,"km2":109000,"tier":2,"large":true},
+  {"id":"federal-league","name":"Federal League","from":1814,"to":1819,"peak":0.01,"km2":109000,"tier":2,"large":true},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1820,"to":1821,"peak":0.05,"km2":400000,"tier":2},
+  {"id":"new-granada","name":"New Granada","from":1820,"to":1821,"peak":0.02,"km2":196000,"tier":2,"large":true},
+  {"id":"empire-of-brazil","name":"Empire of Brazil","from":1822,"to":1889,"peak":0.98,"km2":8261000,"tier":1},
+  {"id":"republic-of-peru","name":"Republic of Peru","from":1822,"to":1824,"peak":0.04,"km2":334000,"tier":2,"large":true},
+  {"id":"gran-colombia","name":"Gran Colombia","from":1822,"to":1833,"peak":0.03,"km2":263000,"tier":2,"large":true},
+  {"id":"bolivia","name":"Bolivia","from":1825,"to":1835,"peak":0.05,"km2":387000,"tier":2},
+  {"id":"republic-of-new-granada","name":"Republic of New Granada","from":1834,"to":1852,"peak":0.02,"km2":195000,"tier":2,"large":true},
+  {"id":"peru-bolivian-confederation","name":"Peru-Bolivian Confederation","from":1836,"to":1839,"peak":0.05,"km2":399000,"tier":2},
+  {"id":"riograndense-republic","name":"Riograndense Republic","from":1836,"to":1845,"peak":0.03,"km2":268000,"tier":2,"large":true},
+  {"id":"bolivia","name":"Bolivia","from":1840,"to":1904,"peak":0.05,"km2":391000,"tier":2}
+],
+ "events":[
+  {"id":"Q2558843","name":"Minas Gerais Conspiracy","year":1789,"type":"rebellion","links":13,"by":"coordinates","wiki":"Inconfidência Mineira"},
+  {"id":"Q1190696","name":"War of the Oranges","year":1801,"type":"war","links":26,"by":"location","wiki":"War of the Oranges"},
+  {"id":"Q3082702","name":"Brazilian War of Independence","year":1822,"type":"war","links":19,"by":"coordinates","to":1824,"wiki":"Brazilian War of Independence"},
+  {"id":"Q3536871","name":"Treaty of Rio de Janeiro","year":1825,"type":"treaty","links":15,"by":"location","wiki":"Treaty of Rio de Janeiro (1825)"},
+  {"id":"Q24202","name":"1828 Treaty of Montevideo","year":1828,"type":"treaty","links":13,"by":"coordinates","wiki":"Preliminary Peace Convention (1828)"},
+  {"id":"Q209297","name":"Farroupilha Revolution","year":1835,"type":"war","links":23,"by":"location","to":1845,"wiki":"Ragamuffin War"},
+  {"id":"Q2590269","name":"Cabanagem","year":1835,"type":"rebellion","links":13,"by":"location","wiki":"Cabanagem"}
+]}

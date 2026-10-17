@@ -1,0 +1,5 @@
+{"lane": "greenland", "period": "preclassic", "years": [-2000, 249], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"arctic-small-tool-tradition","name":"Arctic Small Tool tradition","from":-2500,"to":-800,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"thule-people","name":"Thule people","from":-200,"to":1600,"tier":2,"extent":"unknown","kind":"culture","cited":"wikipedia"}
+]}

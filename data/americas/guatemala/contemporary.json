@@ -1,0 +1,9 @@
+{"lane": "guatemala", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"guatemala","name":"Guatemala","from":1840,"to":2024,"peak":0.96,"km2":104000,"tier":1}
+],
+ "events":[
+  {"id":"Q5614269","name":"Guatemalan Revolution","year":1944,"type":"revolution","links":14,"by":"country","wiki":"Guatemalan Revolution"},
+  {"id":"Q976887","name":"1954 Guatemalan coup d'état","year":1954,"type":"coup","links":32,"by":"location","wiki":"1954 Guatemalan coup d'état"},
+  {"id":"Q1282732","name":"Guatemalan Civil War","year":1965,"type":"war","links":37,"by":"coordinates","to":1996,"wiki":"Guatemalan Civil War"}
+]}

@@ -1,0 +1,8 @@
+{"lane": "french-guiana", "period": "independence", "years": [1775, 1849], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-france","name":"Kingdom of France","from":1670,"to":1791,"peak":0.22,"km2":18000,"tier":2,"realm":true},
+  {"id":"new-france","name":"New France","from":1670,"to":1790,"peak":0.22,"km2":18000,"tier":2},
+  {"id":"portuguese-empire","name":"Portuguese Empire","from":1805,"to":1814,"peak":0.99,"km2":83000,"tier":1},
+  {"id":"bourbon-kingdom-of-france","name":"Bourbon Kingdom of France","from":1815,"to":1847,"peak":0.98,"km2":81000,"tier":1},
+  {"id":"french-second-republic","name":"French Second Republic","from":1848,"to":1852,"peak":0.98,"km2":81000,"tier":1,"realm":true}
+]}

@@ -1,0 +1,4 @@
+{"lane": "panama", "period": "classic", "years": [250, 899], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"gran-cocle","name":"Gran Coclé","from":-1200,"to":1500,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"}
+]}

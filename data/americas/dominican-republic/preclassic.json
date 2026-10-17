@@ -1,0 +1,4 @@
+{"lane": "dominican-republic", "period": "preclassic", "years": [-2000, 249], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"ciboney-people","name":"Ciboney people","from":-1000,"to":-300,"tier":2,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true}
+]}

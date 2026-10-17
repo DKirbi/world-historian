@@ -1,0 +1,7 @@
+{"lane": "greenland", "period": "postclassic", "years": [900, 1491], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"thule-people","name":"Thule people","from":-200,"to":1600,"tier":2,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"viking-settlements","name":"Viking settlements","from":1000,"to":1325,"peak":0.01,"km2":23000,"tier":3,"inside":true},
+  {"id":"norse-greenland-1072","name":"Norse Greenland","from":1072,"to":1271,"peak":0.01,"km2":23000,"tier":3,"inside":true},
+  {"id":"norse-greenland-1363","name":"Norse Greenland","from":1363,"to":1384,"peak":0.0,"km2":8000,"tier":3,"inside":true}
+]}

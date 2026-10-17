@@ -1,0 +1,7 @@
+{"lane": "venezuela", "period": "republics", "years": [1850, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"venezuela","name":"Venezuela","from":1834,"to":2024,"peak":0.99,"km2":903000,"tier":1}
+],
+ "events":[
+  {"id":"Q1479636","name":"Federal War","year":1859,"type":"war","links":13,"by":"country","to":1863,"wiki":"Federal War"}
+]}

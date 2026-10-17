@@ -1,0 +1,4 @@
+{"lane": "ecuador", "period": "colonial", "years": [1600, 1774], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1534,"to":1821,"peak":1.0,"km2":247000,"tier":1}
+]}

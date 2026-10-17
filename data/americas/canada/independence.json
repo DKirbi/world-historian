@@ -1,0 +1,15 @@
+{"lane": "canada", "period": "independence", "years": [1775, 1849], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1763,"to":1775,"peak":0.05,"km2":533000,"tier":2},
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1776,"to":1777,"peak":0.05,"km2":475000,"tier":2},
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1778,"to":1931,"peak":0.99,"km2":9778000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1788,"to":1821,"peak":0.06,"km2":635000,"tier":2,"realm":true}
+],
+ "events":[
+  {"id":"Q1840117","name":"Battle of Quebec","year":1775,"type":"battle","links":24,"by":"coordinates","wiki":"Battle of Quebec (1775)"},
+  {"id":"Q1247957","name":"Battle of Trois-Rivières","year":1776,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Trois-Rivières"},
+  {"id":"Q68750","name":"Mexican War of Independence","year":1800,"type":"war","links":54,"by":"location","to":1821,"wiki":"Mexican War of Independence"},
+  {"id":"Q645288","name":"Battle of the Thames","year":1813,"type":"battle","links":18,"by":"coordinates","wiki":"Battle of the Thames"},
+  {"id":"Q1560445","name":"Rebellions of 1837","year":1837,"type":"rebellion","links":15,"by":"location","to":1838,"wiki":"Rebellions of 1837–1838"},
+  {"id":"Q856168","name":"Pastry War","year":1838,"type":"war","links":30,"by":"location","to":1839,"wiki":"Pastry War"}
+]}

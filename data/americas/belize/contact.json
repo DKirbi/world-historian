@@ -1,0 +1,5 @@
+{"lane": "belize", "period": "contact", "years": [1492, 1599], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"later-mayan-city-states","name":"Later Mayan City-States","from":850,"to":1546,"peak":0.5,"km2":11000,"tier":1},
+  {"id":"itza-mayans","name":"Itza Mayans","from":1547,"to":1669,"peak":0.47,"km2":11000,"tier":2}
+]}

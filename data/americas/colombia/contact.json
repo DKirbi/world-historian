@@ -1,0 +1,6 @@
+{"lane": "colombia", "period": "contact", "years": [1492, 1599], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"quimbaya","name":"Quimbaya","from":-500,"to":1600,"tier":2,"extent":"unknown","kind":"culture","cited":"wikidata","approx":true},
+  {"id":"muisca-confederations","name":"Muisca Confederations","from":800,"to":1540,"tier":2,"extent":"unknown","cited":"wikidata"},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1534,"to":1819,"peak":1.0,"km2":1134000,"tier":1}
+]}

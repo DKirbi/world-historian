@@ -1,0 +1,12 @@
+{"lane": "mexico", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"mexico","name":"Mexico","from":1920,"to":2024,"peak":0.99,"km2":1943000,"tier":1}
+],
+ "events":[
+  {"id":"Q279662","name":"Cristero War","year":1926,"type":"rebellion","links":34,"by":"location","to":1929,"wiki":"Cristero War"},
+  {"id":"Q3151731","name":"Dirty War","year":1954,"type":"war","links":12,"by":"location","to":2000,"wiki":"Mexican Dirty War"},
+  {"id":"Q1567567","name":"Treaty of Tlatelolco","year":1968,"type":"treaty","links":23,"by":"location","wiki":"Treaty of Tlatelolco"},
+  {"id":"Q547979","name":"United Nations Convention Against Corruption","year":2003,"type":"treaty","links":32,"by":"coordinates","wiki":"United Nations Convention Against Corruption"},
+  {"id":"Q475678","name":"Mexican drug war","year":2006,"type":"war","links":50,"by":"coordinates","wiki":"Mexican drug war"},
+  {"id":"Q56839716","name":"United States–Mexico–Canada Agreement","year":2018,"type":"treaty","links":29,"by":"location","wiki":"United States–Mexico–Canada Agreement"}
+]}

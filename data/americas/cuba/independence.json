@@ -1,0 +1,4 @@
+{"lane": "cuba", "period": "independence", "years": [1775, 1849], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1521,"to":1872,"peak":0.98,"km2":107000,"tier":1}
+]}

@@ -1,0 +1,5 @@
+{"lane": "french-guiana", "period": "colonial", "years": [1600, 1774], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-france","name":"Kingdom of France","from":1670,"to":1791,"peak":0.22,"km2":18000,"tier":2,"realm":true},
+  {"id":"new-france","name":"New France","from":1670,"to":1790,"peak":0.22,"km2":18000,"tier":2}
+]}

@@ -1,0 +1,7 @@
+{"lane": "cuba", "period": "contact", "years": [1492, 1599], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"lucayan-people","name":"Lucayan people","from":700,"to":1500,"tier":2,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1516,"to":1518,"peak":0.98,"km2":107000,"tier":1},
+  {"id":"kingdom-of-spain-1516","name":"Kingdom of Spain","from":1519,"to":1520,"peak":0.98,"km2":107000,"tier":1},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1521,"to":1872,"peak":0.98,"km2":107000,"tier":1}
+]}

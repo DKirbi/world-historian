@@ -1,0 +1,13 @@
+{"lane": "uruguay", "period": "independence", "years": [1775, 1849], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1757,"to":1810,"peak":0.99,"km2":176000,"tier":1},
+  {"id":"rio-de-la-plata","name":"Río de la Plata","from":1811,"to":1813,"peak":0.99,"km2":176000,"tier":1},
+  {"id":"federal-league","name":"Federal League","from":1814,"to":1819,"peak":0.99,"km2":176000,"tier":1},
+  {"id":"portuguese-empire","name":"Portuguese Empire","from":1820,"to":1821,"peak":1.0,"km2":177000,"tier":1},
+  {"id":"empire-of-brazil","name":"Empire of Brazil","from":1822,"to":1827,"peak":1.0,"km2":177000,"tier":1},
+  {"id":"oriental-republic-of-uruguay","name":"Oriental Republic of Uruguay","from":1828,"to":2024,"peak":0.97,"km2":171000,"tier":1}
+],
+ "events":[
+  {"id":"Q288251","name":"Cisplatine War","year":1825,"type":"war","links":26,"by":"location","to":1828,"wiki":"Cisplatine War"},
+  {"id":"Q2672972","name":"Uruguayan Civil War","year":1839,"type":"war","links":26,"by":"location","to":1851,"wiki":"Uruguayan Civil War"}
+]}

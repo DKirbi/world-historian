@@ -1,0 +1,11 @@
+{"lane": "bolivia", "period": "independence", "years": [1775, 1849], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1540,"to":1823,"peak":0.99,"km2":1080000,"tier":1},
+  {"id":"gran-colombia","name":"Gran Colombia","from":1824,"to":1829,"peak":0.99,"km2":1075000,"tier":1},
+  {"id":"bolivia","name":"Bolivia","from":1825,"to":1835,"peak":0.99,"km2":1077000,"tier":1},
+  {"id":"peru-bolivian-confederation","name":"Peru-Bolivian Confederation","from":1836,"to":1839,"peak":0.99,"km2":1079000,"tier":1},
+  {"id":"bolivia","name":"Bolivia","from":1840,"to":2024,"peak":0.99,"km2":1077000,"tier":1}
+],
+ "events":[
+  {"id":"Q68475","name":"Bolivian War of Independence","year":1809,"type":"war","links":18,"by":"location","to":1825,"wiki":"Bolivian War of Independence"}
+]}

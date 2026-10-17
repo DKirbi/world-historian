@@ -1,0 +1,10 @@
+{"lane": "lesser-antilles", "period": "colonial", "years": [1600, 1774], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1529,"to":1635,"peak":0.13,"km2":1000,"tier":3},
+  {"id":"english-colonial-empire","name":"English Colonial Empire","from":1632,"to":1712,"peak":0.1,"km2":1000,"tier":3},
+  {"id":"kingdom-of-england","name":"Kingdom of England","from":1632,"to":1708,"peak":0.1,"km2":1000,"tier":3,"realm":true},
+  {"id":"new-france","name":"New France","from":1636,"to":1790,"peak":0.53,"km2":4000,"tier":1},
+  {"id":"new-netherland","name":"New Netherland","from":1636,"to":1799,"peak":0.12,"km2":1000,"tier":3},
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1709,"to":1995,"peak":0.76,"km2":5000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1709,"to":1995,"peak":0.76,"km2":5000,"tier":1,"realm":true}
+]}

@@ -1,0 +1,5 @@
+{"lane": "ecuador", "period": "classic", "years": [250, 899], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"canari","name":"Cañari","from":600,"to":1000,"tier":2,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true},
+  {"id":"capuli-culture","name":"Capulí culture","from":600,"to":1476,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true}
+]}

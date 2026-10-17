@@ -1,0 +1,4 @@
+{"lane": "haiti", "period": "classic", "years": [250, 899], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"lucayan-people","name":"Lucayan people","from":700,"to":1500,"tier":2,"extent":"unknown","kind":"culture","cited":"wikipedia"}
+]}

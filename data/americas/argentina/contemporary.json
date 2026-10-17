@@ -1,0 +1,9 @@
+{"lane": "argentina", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"argentine-confederation","name":"Argentine Confederation","from":1834,"to":1929,"peak":0.99,"km2":2750000,"tier":1},
+  {"id":"argentine-republic","name":"Argentine Republic","from":1930,"to":2024,"peak":0.99,"km2":2749000,"tier":1}
+],
+ "events":[
+  {"id":"Q4565209","name":"1943 Argentine coup d'état","year":1943,"type":"coup","links":14,"by":"country","wiki":"1943 Argentine Revolution"},
+  {"id":"Q1048750","name":"1976 Argentine coup d'état","year":1976,"type":"coup","links":20,"by":"coordinates","wiki":"1976 Argentine coup d'état"}
+]}

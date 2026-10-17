@@ -1,0 +1,7 @@
+{"lane": "bolivia", "period": "republics", "years": [1850, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"bolivia","name":"Bolivia","from":1840,"to":2024,"peak":0.99,"km2":1077000,"tier":1}
+],
+ "events":[
+  {"id":"Q152004","name":"War of the Pacific","year":1879,"type":"war","links":66,"by":"location","to":1884,"wiki":"War of the Pacific"}
+]}

@@ -1,0 +1,5 @@
+{"lane": "lesser-antilles", "period": "preclassic", "years": [-2000, 249], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"ortoiroid-people","name":"Ortoiroid people","from":-3400,"to":200,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true},
+  {"id":"saladoid-culture","name":"Saladoid culture","from":-500,"to":600,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"}
+]}

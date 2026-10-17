@@ -1,0 +1,6 @@
+{"lane": "bolivia", "period": "postclassic", "years": [900, 1491], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"tiwanaku-polity","name":"Tiwanaku polity","from":300,"to":1159,"tier":2,"extent":"unknown","cited":"wikidata","approx":true},
+  {"id":"aymara-lordships","name":"Aymara lordships","from":1101,"to":1438,"tier":3,"extent":"unknown","kind":"culture","cited":"wikidata","approx":true},
+  {"id":"colla-kingdom","name":"Colla Kingdom","from":1201,"to":1500,"tier":3,"extent":"unknown","kind":"culture","cited":"wikidata","approx":true}
+]}

@@ -1,0 +1,4 @@
+{"lane": "belize", "period": "preclassic", "years": [-2000, 249], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"mayan-city-states","name":"Mayan City-States","from":-247,"to":849,"peak":0.99,"km2":22000,"tier":1}
+]}

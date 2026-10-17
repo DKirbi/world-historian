@@ -1,0 +1,8 @@
+{"lane": "chile", "period": "contact", "years": [1492, 1599], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"inca-empire","name":"Inca Empire","from":1497,"to":1539,"peak":0.49,"km2":359000,"tier":2},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1540,"to":1823,"peak":0.64,"km2":469000,"tier":1}
+],
+ "events":[
+  {"id":"Q431806","name":"Arauco War","year":1546,"type":"war","links":26,"by":"location","wiki":"Arauco War"}
+]}

@@ -1,0 +1,13 @@
+{"lane": "brazil", "period": "colonial", "years": [1600, 1774], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1582,"to":1618,"peak":0.04,"km2":358000,"tier":2,"large":true},
+  {"id":"new-france","name":"New France","from":1612,"to":1625,"peak":0.0,"km2":13000,"tier":3,"inside":true},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1619,"to":1639,"peak":0.1,"km2":823000,"tier":2},
+  {"id":"portuguese-empire","name":"Portuguese Empire","from":1640,"to":1821,"peak":0.91,"km2":7735000,"tier":1},
+  {"id":"new-netherland","name":"New Netherland","from":1640,"to":1647,"peak":0.03,"km2":293000,"tier":2,"large":true},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1757,"to":1777,"peak":0.02,"km2":172000,"tier":2,"large":true}
+],
+ "events":[
+  {"id":"Q3504102","name":"Battle of Guararapes","year":1649,"type":"battle","links":12,"by":"coordinates","wiki":"Second Battle of Guararapes"},
+  {"id":"Q2427419","name":"Guaraní War","year":1754,"type":"war","links":18,"by":"location","to":1756,"wiki":"Guaraní War"}
+]}

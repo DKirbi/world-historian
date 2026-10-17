@@ -1,0 +1,9 @@
+{"lane": "belize", "period": "colonial", "years": [1600, 1774], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"itza-mayans","name":"Itza Mayans","from":1547,"to":1669,"peak":0.47,"km2":11000,"tier":2},
+  {"id":"english-colonial-empire","name":"English Colonial Empire","from":1670,"to":1712,"peak":0.89,"km2":20000,"tier":1},
+  {"id":"kingdom-of-england","name":"Kingdom of England","from":1670,"to":1708,"peak":0.89,"km2":20000,"tier":1,"realm":true},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1700,"to":1821,"peak":0.12,"km2":3000,"tier":3},
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1709,"to":1995,"peak":0.87,"km2":20000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1709,"to":1995,"peak":0.87,"km2":20000,"tier":1,"realm":true}
+]}

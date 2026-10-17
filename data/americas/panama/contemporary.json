@@ -1,0 +1,8 @@
+{"lane": "panama", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"republic-of-panama","name":"Republic of Panama","from":1905,"to":2024,"peak":0.98,"km2":72000,"tier":1}
+],
+ "events":[
+  {"id":"Q277343","name":"Torrijos–Carter Treaties","year":1977,"type":"treaty","links":24,"by":"country","wiki":"Torrijos–Carter Treaties"},
+  {"id":"Q459282","name":"United States invasion of Panama","year":1989,"type":"invasion","links":40,"by":"location","to":1990,"wiki":"United States invasion of Panama"}
+]}

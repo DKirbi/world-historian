@@ -1,0 +1,5 @@
+{"lane": "brazil", "period": "postclassic", "years": [900, 1491], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"marajoara-culture","name":"Marajoara culture","from":800,"to":1400,"tier":3,"extent":"unknown","kind":"culture","cited":"wikidata"},
+  {"id":"omagua-people","name":"Omagua people","from":1476,"to":1534,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true}
+]}

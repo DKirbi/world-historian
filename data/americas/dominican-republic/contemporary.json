@@ -1,0 +1,9 @@
+{"lane": "dominican-republic", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"dominican-republic","name":"Dominican Republic","from":1865,"to":1915,"peak":0.97,"km2":47000,"tier":1},
+  {"id":"united-states-of-america","name":"United States of America","from":1916,"to":1923,"peak":1.0,"km2":48000,"tier":1},
+  {"id":"dominican-republic","name":"Dominican Republic","from":1924,"to":2024,"peak":0.97,"km2":47000,"tier":1}
+],
+ "events":[
+  {"id":"Q955457","name":"Dominican Civil War","year":1965,"type":"war","links":12,"by":"location","wiki":"Dominican Civil War"}
+]}

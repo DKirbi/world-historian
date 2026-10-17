@@ -1,0 +1,4 @@
+{"lane": "argentina", "period": "preclassic", "years": [-2000, 249], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"tehuelche-people","name":"Tehuelche people","from":-1800,"to":-900,"tier":2,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true}
+]}

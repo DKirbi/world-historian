@@ -1,0 +1,7 @@
+{"lane": "ecuador", "period": "postclassic", "years": [900, 1491], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"canari","name":"Cañari","from":600,"to":1000,"tier":2,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true},
+  {"id":"capuli-culture","name":"Capulí culture","from":600,"to":1476,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true},
+  {"id":"caranqui-culture","name":"Caranqui culture","from":980,"to":1435,"tier":3,"extent":"unknown","kind":"culture","cited":"wikidata"},
+  {"id":"inca-empire","name":"Inca Empire","from":1475,"to":1539,"peak":0.64,"km2":157000,"tier":1}
+]}

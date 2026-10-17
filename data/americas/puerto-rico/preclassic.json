@@ -1,0 +1,5 @@
+{"lane": "puerto-rico", "period": "preclassic", "years": [-2000, 249], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"ciboney-people","name":"Ciboney people","from":-1000,"to":-300,"tier":2,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true},
+  {"id":"saladoid-culture","name":"Saladoid culture","from":-500,"to":600,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"}
+]}

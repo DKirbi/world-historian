@@ -1,0 +1,15 @@
+{"lane": "peru", "period": "independence", "years": [1775, 1849], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1540,"to":1821,"peak":1.0,"km2":1289000,"tier":1},
+  {"id":"republic-of-peru","name":"Republic of Peru","from":1822,"to":1835,"peak":0.98,"km2":1267000,"tier":1},
+  {"id":"gran-colombia","name":"Gran Colombia","from":1822,"to":1833,"peak":0.18,"km2":227000,"tier":2},
+  {"id":"peru-bolivian-confederation","name":"Peru-Bolivian Confederation","from":1836,"to":1839,"peak":0.99,"km2":1282000,"tier":1},
+  {"id":"republic-of-peru","name":"Republic of Peru","from":1840,"to":2024,"peak":0.98,"km2":1267000,"tier":1}
+],
+ "events":[
+  {"id":"Q68478","name":"Peruvian War of Independence","year":1821,"type":"war","links":25,"by":"coordinates","to":1824,"wiki":"Peruvian War of Independence"},
+  {"id":"Q934157","name":"Battle of Ayacucho","year":1824,"type":"battle","links":32,"by":"coordinates","wiki":"Battle of Ayacucho"},
+  {"id":"Q1508820","name":"Battle of Junín","year":1824,"type":"battle","links":18,"by":"coordinates","wiki":"Battle of Junín"},
+  {"id":"Q601811","name":"War of the Confederation","year":1836,"type":"war","links":19,"by":"country","to":1839,"wiki":"War of the Confederation"},
+  {"id":"Q2890439","name":"Battle of Yungay","year":1839,"type":"battle","links":12,"by":"location","wiki":"Battle of Yungay"}
+]}

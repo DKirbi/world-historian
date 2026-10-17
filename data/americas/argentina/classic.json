@@ -1,0 +1,4 @@
+{"lane": "argentina", "period": "classic", "years": [250, 899], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"diaguita","name":"Diaguita","from":600,"to":1534,"tier":2,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true}
+]}

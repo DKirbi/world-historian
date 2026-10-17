@@ -1,0 +1,13 @@
+{"lane": "lesser-antilles", "period": "independence", "years": [1775, 1849], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"new-france","name":"New France","from":1636,"to":1790,"peak":0.53,"km2":4000,"tier":1},
+  {"id":"new-netherland","name":"New Netherland","from":1636,"to":1799,"peak":0.12,"km2":1000,"tier":3},
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1709,"to":1995,"peak":0.76,"km2":5000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1709,"to":1995,"peak":0.76,"km2":5000,"tier":1,"realm":true},
+  {"id":"bourbon-kingdom-of-france","name":"Bourbon Kingdom of France","from":1815,"to":1847,"peak":0.32,"km2":2000,"tier":2},
+  {"id":"netherlands-antilles","name":"Netherlands Antilles","from":1815,"to":2024,"peak":0.11,"km2":1000,"tier":3}
+],
+ "events":[
+  {"id":"Q1970159","name":"Battle of Grenada","year":1779,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Grenada"},
+  {"id":"Q1850800","name":"Battle of the Saintes","year":1782,"type":"battle","links":17,"by":"coordinates","wiki":"Battle of the Saintes"}
+]}

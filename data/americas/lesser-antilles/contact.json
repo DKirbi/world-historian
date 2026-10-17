@@ -1,0 +1,4 @@
+{"lane": "lesser-antilles", "period": "contact", "years": [1492, 1599], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1529,"to":1635,"peak":0.13,"km2":1000,"tier":3}
+]}

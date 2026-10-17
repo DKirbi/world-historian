@@ -1,0 +1,4 @@
+{"lane": "venezuela", "period": "contact", "years": [1492, 1599], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1534,"to":1821,"peak":0.99,"km2":904000,"tier":1}
+]}

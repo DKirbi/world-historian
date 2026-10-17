@@ -1,0 +1,22 @@
+{"lane": "canada", "period": "colonial", "years": [1600, 1774], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"english-colonial-empire","name":"English Colonial Empire","from":1619,"to":1631,"peak":0.0,"km2":8000,"tier":3,"inside":true},
+  {"id":"new-france","name":"New France","from":1632,"to":1669,"peak":0.0,"km2":22000,"tier":3,"inside":true},
+  {"id":"new-france","name":"New France","from":1673,"to":1699,"peak":0.01,"km2":60000,"tier":3,"inside":true},
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1713,"to":1762,"peak":0.04,"km2":403000,"tier":2,"large":true},
+  {"id":"kingdom-of-france","name":"Kingdom of France","from":1741,"to":1761,"peak":0.01,"km2":103000,"tier":2,"realm":true,"large":true},
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1763,"to":1775,"peak":0.05,"km2":533000,"tier":2}
+],
+ "events":[
+  {"id":"Q856216","name":"Beaver Wars","year":1609,"type":"war","links":27,"by":"location","to":1701,"wiki":"Beaver Wars"},
+  {"id":"Q1708064","name":"Battle of Quebec","year":1690,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Quebec (1690)"},
+  {"id":"Q326028","name":"Great Peace of Montreal","year":1701,"type":"treaty","links":16,"by":"location","wiki":"Great Peace of Montreal"},
+  {"id":"Q517578","name":"King George's War","year":1744,"type":"war","links":24,"by":"coordinates","to":1748,"wiki":"King George's War"},
+  {"id":"Q2346041","name":"Battle of Fort Beauséjour","year":1755,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Fort Beauséjour"},
+  {"id":"Q3050672","name":"Siege of Louisbourg","year":1758,"type":"siege","links":14,"by":"coordinates","wiki":"Siege of Louisbourg (1758)"},
+  {"id":"Q311726","name":"Battle of the Plains of Abraham","year":1759,"type":"battle","links":31,"by":"coordinates","wiki":"Battle of the Plains of Abraham"},
+  {"id":"Q2659387","name":"Battle of Beauport","year":1759,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Beauport"},
+  {"id":"Q689183","name":"Battle of Sainte-Foy","year":1760,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Sainte-Foy"},
+  {"id":"Q251184","name":"Battle of Signal Hill","year":1762,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Signal Hill"},
+  {"id":"Q179077","name":"Pontiac's War","year":1763,"type":"war","links":24,"by":"location","to":1765,"wiki":"Pontiac's War"}
+]}

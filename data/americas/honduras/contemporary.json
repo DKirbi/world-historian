@@ -1,0 +1,9 @@
+{"lane": "honduras", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"honduras","name":"Honduras","from":1840,"to":2024,"peak":0.97,"km2":110000,"tier":1}
+],
+ "events":[
+  {"id":"Q773999","name":"Convention for the Suppression of the Traffic in Persons and of the Exploitation of the Prostitution of Others","year":1950,"type":"treaty","links":18,"by":"country","wiki":"Convention for the Suppression of the Traffic in Persons and of the Exploitation of the Prostitution of Others"},
+  {"id":"Q223085","name":"Hundred Hour War","year":1969,"type":"war","links":51,"by":"location","wiki":"Football War"},
+  {"id":"Q1073488","name":"2009 Honduran coup d'état","year":2009,"type":"coup","links":18,"by":"country","wiki":"2009 Honduran coup d'état"}
+]}

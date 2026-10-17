@@ -1,0 +1,18 @@
+{"lane": "chile", "period": "independence", "years": [1775, 1849], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1540,"to":1823,"peak":0.64,"km2":469000,"tier":1},
+  {"id":"republic-of-chile","name":"Republic of Chile","from":1812,"to":1814,"peak":0.28,"km2":206000,"tier":2},
+  {"id":"republic-of-chile","name":"Republic of Chile","from":1820,"to":2024,"peak":0.94,"km2":695000,"tier":1},
+  {"id":"republic-of-peru","name":"Republic of Peru","from":1822,"to":1835,"peak":0.06,"km2":48000,"tier":3},
+  {"id":"bolivia","name":"Bolivia","from":1825,"to":1835,"peak":0.12,"km2":89000,"tier":3},
+  {"id":"peru-bolivian-confederation","name":"Peru-Bolivian Confederation","from":1836,"to":1839,"peak":0.19,"km2":137000,"tier":2},
+  {"id":"bolivia","name":"Bolivia","from":1840,"to":1904,"peak":0.12,"km2":89000,"tier":3},
+  {"id":"republic-of-peru","name":"Republic of Peru","from":1840,"to":1879,"peak":0.06,"km2":48000,"tier":3}
+],
+ "events":[
+  {"id":"Q1310755","name":"Battle of Rancagua","year":1814,"type":"battle","links":13,"by":"location","wiki":"Battle of Rancagua"},
+  {"id":"Q1425658","name":"Battle of Chacabuco","year":1817,"type":"battle","links":21,"by":"coordinates","wiki":"Battle of Chacabuco"},
+  {"id":"Q1073849","name":"Battle of Maipú","year":1818,"type":"battle","links":23,"by":"coordinates","wiki":"Battle of Maipú"},
+  {"id":"Q1072889","name":"Chilean War of Independence","year":1827,"type":"war","links":20,"by":"location","wiki":"Chilean War of Independence"},
+  {"id":"Q601811","name":"War of the Confederation","year":1836,"type":"war","links":19,"by":"country","to":1839,"wiki":"War of the Confederation"}
+]}

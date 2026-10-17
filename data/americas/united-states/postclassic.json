@@ -1,0 +1,22 @@
+{"lane": "united-states", "period": "postclassic", "years": [900, 1491], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"laurel-complex","name":"Laurel complex","from":-300,"to":1100,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"hohokam","name":"Hohokam","from":1,"to":1450,"tier":2,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"fremont-culture","name":"Fremont culture","from":1,"to":1300,"tier":2,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"mogollon-culture","name":"Mogollon culture","from":700,"to":1400,"tier":2,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"patayan","name":"Patayan","from":700,"to":1550,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"coles-creek-culture","name":"Coles Creek culture","from":700,"to":1200,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"plum-bayou-culture","name":"Plum Bayou culture","from":700,"to":1200,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"mississippian-culture","name":"Mississippian culture","from":800,"to":1600,"tier":2,"extent":"unknown","cited":"wikidata"},
+  {"id":"puebloans-chaco-regional-system","name":"Puebloans - Chaco Regional System","from":850,"to":1151,"peak":0.01,"km2":65000,"tier":3,"inside":true},
+  {"id":"oneota","name":"Oneota","from":900,"to":1650,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"fort-ancient","name":"Fort Ancient","from":1000,"to":1650,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"caddoan-mississippian-culture","name":"Caddoan Mississippian culture","from":1000,"to":1650,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"leon-jefferson-culture","name":"Leon-Jefferson Culture","from":1100,"to":1550,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"fort-walton-culture","name":"Fort Walton Culture","from":1100,"to":1550,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"puebloans-aztec-regional-system","name":"Puebloans - Aztec Regional System","from":1152,"to":1304,"peak":0.0,"km2":9000,"tier":3,"inside":true},
+  {"id":"plaquemine-culture","name":"Plaquemine culture","from":1200,"to":1730,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"lamar-culture","name":"Lamar culture","from":1350,"to":1600,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"caborn-welborn-culture","name":"Caborn-Welborn culture","from":1400,"to":1700,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"haudenosaunee","name":"Haudenosaunee","from":1450,"to":1676,"peak":0.04,"km2":401000,"tier":2,"large":true}
+]}

@@ -1,0 +1,13 @@
+{"lane": "peru", "period": "classic", "years": [250, 899], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"pukara-culture","name":"Pukara culture","from":-1400,"to":400,"tier":3,"extent":"unknown","kind":"culture","cited":"wikidata","approx":true},
+  {"id":"vicus-culture","name":"Vicús culture","from":-500,"to":400,"tier":3,"extent":"unknown","kind":"culture","cited":"wikidata","approx":true},
+  {"id":"viru-culture","name":"Virú culture","from":-200,"to":600,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true},
+  {"id":"salinar-culture","name":"Salinar culture","from":-200,"to":600,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true},
+  {"id":"recuay-culture","name":"Recuay culture","from":-100,"to":700,"tier":3,"extent":"unknown","kind":"culture","cited":"wikidata","approx":true},
+  {"id":"moche-culture","name":"Moche culture","from":1,"to":709,"tier":2,"extent":"unknown","cited":"wikidata","approx":true},
+  {"id":"nazca-culture","name":"Nazca culture","from":1,"to":700,"tier":2,"extent":"unknown","cited":"wikidata","approx":true},
+  {"id":"lima-culture","name":"Lima culture","from":100,"to":650,"tier":2,"extent":"unknown","kind":"culture","cited":"wikidata"},
+  {"id":"wari-empire","name":"Wari Empire","from":600,"to":1100,"tier":2,"extent":"unknown","cited":"wikidata"},
+  {"id":"sican-culture","name":"Sican culture","from":700,"to":1375,"tier":2,"extent":"unknown","kind":"culture","cited":"wikidata"}
+]}

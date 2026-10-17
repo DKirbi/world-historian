@@ -1,0 +1,6 @@
+{"lane": "suriname", "period": "colonial", "years": [1600, 1774], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-england","name":"Kingdom of England","from":1653,"to":1669,"peak":0.15,"km2":21000,"tier":3,"realm":true},
+  {"id":"english-colonial-empire","name":"English Colonial Empire","from":1653,"to":1669,"peak":0.15,"km2":21000,"tier":3},
+  {"id":"new-netherland","name":"New Netherland","from":1670,"to":1799,"peak":0.15,"km2":22000,"tier":3}
+]}

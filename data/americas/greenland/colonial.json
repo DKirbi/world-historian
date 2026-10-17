@@ -1,0 +1,5 @@
+{"lane": "greenland", "period": "colonial", "years": [1600, 1774], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"thule-people","name":"Thule people","from":-200,"to":1600,"tier":2,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"greenland","name":"Greenland","from":1734,"to":1910,"peak":0.04,"km2":95000,"tier":3,"inside":true}
+]}

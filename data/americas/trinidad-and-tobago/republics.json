@@ -1,0 +1,5 @@
+{"lane": "trinidad-and-tobago", "period": "republics", "years": [1850, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1797,"to":1962,"peak":0.95,"km2":5000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1797,"to":1962,"peak":0.95,"km2":5000,"tier":1,"realm":true}
+]}

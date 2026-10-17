@@ -1,0 +1,11 @@
+{"lane": "argentina", "period": "republics", "years": [1850, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"argentine-confederation","name":"Argentine Confederation","from":1834,"to":1929,"peak":0.99,"km2":2750000,"tier":1},
+  {"id":"state-of-buenos-aires","name":"State of Buenos Aires","from":1853,"to":1860,"peak":0.09,"km2":239000,"tier":2}
+],
+ "events":[
+  {"id":"Q616931","name":"Battle of Caseros","year":1852,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Caseros"},
+  {"id":"Q832683","name":"Battle of Pavón","year":1861,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Pavón"},
+  {"id":"Q2236812","name":"Battle of Riachuelo","year":1865,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Riachuelo"},
+  {"id":"Q1348983","name":"Conquest of the Desert","year":1884,"type":"campaign","links":22,"by":"location","wiki":"Conquest of the Desert"}
+]}

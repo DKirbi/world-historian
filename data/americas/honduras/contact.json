@@ -1,0 +1,4 @@
+{"lane": "honduras", "period": "contact", "years": [1492, 1599], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1526,"to":1821,"peak":0.99,"km2":112000,"tier":1}
+]}

@@ -1,0 +1,5 @@
+{"lane": "guatemala", "period": "colonial", "years": [1600, 1774], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1526,"to":1821,"peak":1.0,"km2":108000,"tier":1},
+  {"id":"itza-mayans","name":"Itza Mayans","from":1547,"to":1699,"peak":0.2,"km2":21000,"tier":2}
+]}

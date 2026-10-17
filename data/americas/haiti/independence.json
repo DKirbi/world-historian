@@ -1,0 +1,13 @@
+{"lane": "haiti", "period": "independence", "years": [1775, 1849], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"new-france","name":"New France","from":1670,"to":1790,"peak":0.97,"km2":26000,"tier":1},
+  {"id":"kingdom-of-france","name":"Kingdom of France","from":1791,"to":1791,"peak":0.97,"km2":26000,"tier":1},
+  {"id":"haiti","name":"Haiti","from":1792,"to":1802,"peak":0.97,"km2":26000,"tier":1},
+  {"id":"french-louisiana","name":"French Louisiana","from":1803,"to":1804,"peak":0.97,"km2":26000,"tier":1},
+  {"id":"empire-of-haiti","name":"Empire of Haiti","from":1805,"to":1915,"peak":0.97,"km2":26000,"tier":1}
+],
+ "events":[
+  {"id":"Q689128","name":"Haitian Revolution","year":1791,"type":"revolution","links":61,"by":"location","to":1804,"wiki":"Haitian Revolution"},
+  {"id":"Q2484240","name":"Battle of Vertières","year":1803,"type":"battle","links":18,"by":"coordinates","wiki":"Battle of Vertières"},
+  {"id":"Q3062299","name":"Haiti indemnity controversy","year":1825,"type":"treaty","links":13,"by":"location","wiki":"Haitian independence debt"}
+]}

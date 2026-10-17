@@ -1,0 +1,8 @@
+{"lane": "suriname", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"netherlands-antilles","name":"Netherlands Antilles","from":1820,"to":2023,"peak":0.98,"km2":141000,"tier":1},
+  {"id":"republic-of-suriname","name":"Republic of Suriname","from":1976,"to":2024,"peak":0.98,"km2":141000,"tier":1}
+],
+ "events":[
+  {"id":"Q1915188","name":"Surinamese Interior War","year":1986,"type":"war","links":14,"by":"location","to":1992,"wiki":"Surinamese Civil War"}
+]}

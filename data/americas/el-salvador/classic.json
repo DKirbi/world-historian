@@ -1,0 +1,4 @@
+{"lane": "el-salvador", "period": "classic", "years": [250, 899], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"mayan-city-states","name":"Mayan City-States","from":-247,"to":849,"peak":0.19,"km2":4000,"tier":3}
+]}

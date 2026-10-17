@@ -1,0 +1,10 @@
+{"lane": "peru", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"republic-of-peru","name":"Republic of Peru","from":1840,"to":2024,"peak":0.98,"km2":1267000,"tier":1}
+],
+ "events":[
+  {"id":"Q1500631","name":"Ecuadorian–Peruvian War","year":1941,"type":"war","links":26,"by":"country","to":1942,"wiki":"Ecuadorian–Peruvian War"},
+  {"id":"Q1801868","name":"Rio Protocol","year":1942,"type":"treaty","links":15,"by":"country","wiki":"Rio Protocol"},
+  {"id":"Q2337340","name":"Cenepa War","year":1995,"type":"war","links":16,"by":"location","wiki":"Cenepa War"},
+  {"id":"Q115626981","name":"2022 Peruvian self-coup attempt","year":2022,"type":"coup","links":19,"by":"country","wiki":"2022 Peruvian self-coup attempt"}
+]}

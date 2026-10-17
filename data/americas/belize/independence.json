@@ -1,0 +1,8 @@
+{"lane": "belize", "period": "independence", "years": [1775, 1849], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1700,"to":1821,"peak":0.12,"km2":3000,"tier":3},
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1709,"to":1995,"peak":0.87,"km2":20000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1709,"to":1995,"peak":0.87,"km2":20000,"tier":1,"realm":true},
+  {"id":"united-provinces-of-central-america","name":"United Provinces of Central America","from":1824,"to":1839,"peak":0.09,"km2":2000,"tier":3},
+  {"id":"guatemala","name":"Guatemala","from":1840,"to":2024,"peak":0.09,"km2":2000,"tier":3}
+]}

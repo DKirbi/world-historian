@@ -1,0 +1,17 @@
+{"lane": "united-states", "period": "contact", "years": [1492, 1599], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"patayan","name":"Patayan","from":700,"to":1550,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"mississippian-culture","name":"Mississippian culture","from":800,"to":1600,"tier":2,"extent":"unknown","cited":"wikidata"},
+  {"id":"oneota","name":"Oneota","from":900,"to":1650,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"fort-ancient","name":"Fort Ancient","from":1000,"to":1650,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"caddoan-mississippian-culture","name":"Caddoan Mississippian culture","from":1000,"to":1650,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"leon-jefferson-culture","name":"Leon-Jefferson Culture","from":1100,"to":1550,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"fort-walton-culture","name":"Fort Walton Culture","from":1100,"to":1550,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"plaquemine-culture","name":"Plaquemine culture","from":1200,"to":1730,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"lamar-culture","name":"Lamar culture","from":1350,"to":1600,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"caborn-welborn-culture","name":"Caborn-Welborn culture","from":1400,"to":1700,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"haudenosaunee","name":"Haudenosaunee","from":1450,"to":1676,"peak":0.04,"km2":401000,"tier":2,"large":true}
+],
+ "events":[
+  {"id":"Q2602266","name":"Treaty of Nonsuch","year":1585,"type":"treaty","links":12,"by":"location","wiki":"Treaty of Nonsuch"}
+]}

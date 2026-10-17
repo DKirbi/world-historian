@@ -1,0 +1,4 @@
+{"lane": "chile", "period": "colonial", "years": [1600, 1774], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1540,"to":1823,"peak":0.64,"km2":469000,"tier":1}
+]}

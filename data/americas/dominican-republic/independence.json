@@ -1,0 +1,12 @@
+{"lane": "dominican-republic", "period": "independence", "years": [1775, 1849], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1521,"to":1802,"peak":1.0,"km2":48000,"tier":1},
+  {"id":"french-louisiana","name":"French Louisiana","from":1803,"to":1804,"peak":1.0,"km2":48000,"tier":1},
+  {"id":"portuguese-empire","name":"Portuguese Empire","from":1805,"to":1808,"peak":0.97,"km2":47000,"tier":1},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1809,"to":1821,"peak":0.97,"km2":47000,"tier":1},
+  {"id":"empire-of-haiti","name":"Empire of Haiti","from":1822,"to":1845,"peak":1.0,"km2":48000,"tier":1},
+  {"id":"dominican-republic","name":"Dominican Republic","from":1846,"to":1860,"peak":0.97,"km2":47000,"tier":1}
+],
+ "events":[
+  {"id":"Q3439047","name":"War of Dominican Independence","year":1844,"type":"war","links":19,"by":"location","to":1856,"wiki":"Dominican War of Independence"}
+]}

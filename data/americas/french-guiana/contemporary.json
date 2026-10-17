@@ -1,0 +1,8 @@
+{"lane": "french-guiana", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"french-third-republic","name":"French Third Republic","from":1871,"to":1939,"peak":0.98,"km2":81000,"tier":1,"realm":true},
+  {"id":"vichy-france","name":"Vichy France","from":1940,"to":1943,"peak":0.98,"km2":81000,"tier":1,"realm":true},
+  {"id":"free-french","name":"Free French","from":1944,"to":1944,"peak":0.98,"km2":81000,"tier":1},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1957,"peak":0.98,"km2":81000,"tier":1,"realm":true},
+  {"id":"french-fifth-republic","name":"French Fifth Republic","from":1958,"to":2024,"peak":0.98,"km2":81000,"tier":1}
+]}

@@ -1,0 +1,4 @@
+{"lane": "costa-rica", "period": "preclassic", "years": [-2000, 249], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"kingdom-of-nicoya","name":"Kingdom of Nicoya","from":-500,"to":1524,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"}
+]}

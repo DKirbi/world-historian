@@ -1,0 +1,6 @@
+{"lane": "peru", "period": "archaic", "years": [-3400, -2001], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"caralsupe-civilization","name":"Caral–Supe civilization","from":-3400,"to":-1701,"tier":2,"extent":"unknown","cited":"wikidata","approx":true},
+  {"id":"lauricocha-culture","name":"Lauricocha culture","from":-3400,"to":-2500,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true},
+  {"id":"chinchorro-culture","name":"Chinchorro culture","from":-3400,"to":-1500,"tier":2,"extent":"unknown","kind":"culture","cited":"wikidata","approx":true}
+]}

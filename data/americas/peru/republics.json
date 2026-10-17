@@ -1,0 +1,8 @@
+{"lane": "peru", "period": "republics", "years": [1850, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"republic-of-peru","name":"Republic of Peru","from":1840,"to":2024,"peak":0.98,"km2":1267000,"tier":1}
+],
+ "events":[
+  {"id":"Q152004","name":"War of the Pacific","year":1879,"type":"war","links":66,"by":"location","to":1884,"wiki":"War of the Pacific"},
+  {"id":"Q2606574","name":"Acre War","year":1899,"type":"war","links":18,"by":"coordinates","to":1903,"wiki":"Acre War"}
+]}

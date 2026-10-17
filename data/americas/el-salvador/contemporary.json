@@ -1,0 +1,10 @@
+{"lane": "el-salvador", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"republic-of-el-salvador","name":"Republic of El Salvador","from":1840,"to":1978,"peak":0.96,"km2":19000,"tier":1},
+  {"id":"republic-of-el-salvador","name":"Republic of El Salvador","from":1992,"to":2024,"peak":0.96,"km2":19000,"tier":1}
+],
+ "events":[
+  {"id":"Q939859","name":"1932 Salvadoran peasant massacre","year":1932,"type":"rebellion","links":16,"by":"coordinates","wiki":"La Matanza"},
+  {"id":"Q223085","name":"Hundred Hour War","year":1969,"type":"war","links":51,"by":"location","wiki":"Football War"},
+  {"id":"Q1783607","name":"Salvadoran Civil War","year":1979,"type":"war","links":31,"by":"location","to":1992,"wiki":"Salvadoran Civil War"}
+]}

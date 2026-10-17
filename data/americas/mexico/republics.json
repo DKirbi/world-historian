@@ -1,0 +1,15 @@
+{"lane": "mexico", "period": "republics", "years": [1850, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"federated-republic-of-mexico","name":"Federated Republic of Mexico","from":1846,"to":1864,"peak":0.99,"km2":1948000,"tier":1},
+  {"id":"republic-of-baja-california","name":"Republic of Baja California","from":1853,"to":1855,"peak":0.07,"km2":142000,"tier":2},
+  {"id":"mexican-monarchists","name":"Mexican Monarchists","from":1864,"to":1864,"peak":0.12,"km2":226000,"tier":2},
+  {"id":"second-mexican-empire","name":"Second Mexican Empire","from":1865,"to":1867,"peak":0.99,"km2":1948000,"tier":1},
+  {"id":"mexico","name":"Mexico","from":1868,"to":1912,"peak":0.99,"km2":1947000,"tier":1}
+],
+ "events":[
+  {"id":"Q2091916","name":"Reform War","year":1857,"type":"war","links":22,"by":"location","to":1861,"wiki":"Reform War"},
+  {"id":"Q1061228","name":"Battle of Puebla","year":1862,"type":"battle","links":30,"by":"coordinates","wiki":"Battle of Puebla"},
+  {"id":"Q399224","name":"Battle of Camarón","year":1863,"type":"battle","links":20,"by":"coordinates","wiki":"Battle of Camarón"},
+  {"id":"Q214426","name":"Mexican Revolution","year":1910,"type":"revolution","links":69,"by":"location","to":1920,"wiki":"Mexican Revolution"},
+  {"id":"Q2615472","name":"Mexican Border War","year":1910,"type":"war","links":12,"by":"location","to":1919,"wiki":"Mexican Border War"}
+]}

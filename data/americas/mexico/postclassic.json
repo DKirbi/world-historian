@@ -1,0 +1,16 @@
+{"lane": "mexico", "period": "postclassic", "years": [900, 1491], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"mixtec-culture","name":"Mixtec culture","from":-1500,"to":1523,"tier":3,"extent":"unknown","kind":"culture","cited":"wikidata"},
+  {"id":"huastec-civilization","name":"Huastec civilization","from":-1000,"to":1500,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"totonac-culture","name":"Totonac culture","from":100,"to":1520,"tier":3,"extent":"unknown","kind":"culture","cited":"wikidata"},
+  {"id":"classic-veracruz-culture","name":"Classic Veracruz Culture","from":555,"to":1235,"peak":0.01,"km2":17000,"tier":3,"inside":true},
+  {"id":"mogollon-culture","name":"Mogollon culture","from":700,"to":1400,"tier":2,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"patayan","name":"Patayan","from":700,"to":1550,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"later-mayan-city-states","name":"Later Mayan City-States","from":850,"to":1546,"peak":0.07,"km2":145000,"tier":2},
+  {"id":"toltec","name":"Toltec","from":875,"to":1187,"peak":0.0,"km2":6000,"tier":3,"inside":true},
+  {"id":"texcoco","name":"Texcoco","from":1202,"to":1428,"peak":0.0,"km2":3000,"tier":3,"inside":true},
+  {"id":"michoacan","name":"Michoacán","from":1305,"to":1533,"peak":0.04,"km2":74000,"tier":3,"inside":true},
+  {"id":"tenochtitlan","name":"Tenochtitlan","from":1326,"to":1428,"peak":0.0,"km2":2000,"tier":3,"inside":true},
+  {"id":"aztec-triple-alliance","name":"Aztec Triple Alliance","from":1429,"to":1458,"peak":0.03,"km2":68000,"tier":3,"inside":true},
+  {"id":"aztec-triple-alliance","name":"Aztec Triple Alliance","from":1459,"to":1520,"peak":0.11,"km2":207000,"tier":2}
+]}

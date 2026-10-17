@@ -1,0 +1,6 @@
+{"lane": "panama", "period": "independence", "years": [1775, 1849], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1521,"to":1821,"peak":0.99,"km2":73000,"tier":1},
+  {"id":"gran-colombia","name":"Gran Colombia","from":1822,"to":1833,"peak":0.98,"km2":72000,"tier":1},
+  {"id":"republic-of-new-granada","name":"Republic of New Granada","from":1834,"to":1858,"peak":0.98,"km2":72000,"tier":1}
+]}

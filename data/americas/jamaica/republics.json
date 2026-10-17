@@ -1,0 +1,5 @@
+{"lane": "jamaica", "period": "republics", "years": [1850, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1709,"to":1962,"peak":0.99,"km2":11000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1709,"to":1962,"peak":0.99,"km2":11000,"tier":1,"realm":true}
+]}

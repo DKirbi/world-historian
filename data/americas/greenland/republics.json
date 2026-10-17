@@ -1,0 +1,5 @@
+{"lane": "greenland", "period": "republics", "years": [1850, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"greenland","name":"Greenland","from":1734,"to":1910,"peak":0.04,"km2":95000,"tier":3,"inside":true},
+  {"id":"greenland","name":"Greenland","from":1911,"to":1940,"peak":0.99,"km2":2150000,"tier":1}
+]}

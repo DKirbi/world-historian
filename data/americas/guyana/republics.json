@@ -1,0 +1,5 @@
+{"lane": "guyana", "period": "republics", "years": [1850, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1805,"to":1968,"peak":0.97,"km2":205000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1805,"to":1968,"peak":0.97,"km2":205000,"tier":1,"realm":true}
+]}

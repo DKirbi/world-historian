@@ -1,0 +1,5 @@
+{"lane": "puerto-rico", "period": "classic", "years": [250, 899], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"saladoid-culture","name":"Saladoid culture","from":-500,"to":600,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"lucayan-people","name":"Lucayan people","from":700,"to":1500,"tier":2,"extent":"unknown","kind":"culture","cited":"wikipedia"}
+]}

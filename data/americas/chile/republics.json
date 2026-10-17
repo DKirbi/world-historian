@@ -1,0 +1,11 @@
+{"lane": "chile", "period": "republics", "years": [1850, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"republic-of-chile","name":"Republic of Chile","from":1820,"to":2024,"peak":0.94,"km2":695000,"tier":1},
+  {"id":"bolivia","name":"Bolivia","from":1840,"to":1904,"peak":0.12,"km2":89000,"tier":3},
+  {"id":"republic-of-peru","name":"Republic of Peru","from":1840,"to":1879,"peak":0.06,"km2":48000,"tier":3}
+],
+ "events":[
+  {"id":"Q2422135","name":"occupation of Araucanía","year":1861,"type":"war","links":16,"by":"location","to":1883,"wiki":"Occupation of Araucanía"},
+  {"id":"Q472672","name":"Battle of Iquique","year":1879,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Iquique"},
+  {"id":"Q2704441","name":"Chilean Civil War of 1891","year":1891,"type":"war","links":12,"by":"location","wiki":"Chilean Civil War of 1891"}
+]}

@@ -1,0 +1,15 @@
+{"lane": "argentina", "period": "independence", "years": [1775, 1849], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1540,"to":1810,"peak":0.53,"km2":1463000,"tier":1},
+  {"id":"rio-de-la-plata","name":"Río de la Plata","from":1811,"to":1833,"peak":0.5,"km2":1398000,"tier":1},
+  {"id":"federal-league","name":"Federal League","from":1815,"to":1819,"peak":0.11,"km2":313000,"tier":2},
+  {"id":"argentine-confederation","name":"Argentine Confederation","from":1834,"to":1929,"peak":0.99,"km2":2750000,"tier":1}
+],
+ "events":[
+  {"id":"Q587151","name":"British invasions of the River Plate","year":1806,"type":"invasion","links":19,"by":"location","to":1807,"wiki":"British invasions of the River Plate"},
+  {"id":"Q838980","name":"May Revolution","year":1810,"type":"revolution","links":44,"by":"location","wiki":"May Revolution"},
+  {"id":"Q617409","name":"Argentine War of Independence","year":1810,"type":"war","links":30,"by":"location","to":1816,"wiki":"Argentine War of Independence"},
+  {"id":"Q2511385","name":"Primera Junta y messi","year":1810,"type":"rebellion","links":15,"by":"location","wiki":"Primera Junta"},
+  {"id":"Q2697981","name":"Argentine Civil Wars","year":1814,"type":"war","links":20,"by":"location","to":1880,"wiki":"Argentine Civil Wars"},
+  {"id":"Q2890596","name":"Battle of Vuelta de Obligado","year":1845,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Vuelta de Obligado"}
+]}

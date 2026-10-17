@@ -1,0 +1,8 @@
+{"lane": "costa-rica", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"republic-of-costa-rica","name":"Republic of Costa Rica","from":1840,"to":2024,"peak":0.98,"km2":50000,"tier":1}
+],
+ "events":[
+  {"id":"Q3434218","name":"Costa Rican Civil War","year":1948,"type":"war","links":20,"by":"location","wiki":"Costa Rican Civil War"},
+  {"id":"Q56761730","name":"Escazu Agreement","year":2018,"type":"treaty","links":31,"by":"location","wiki":"Escazú Agreement"}
+]}

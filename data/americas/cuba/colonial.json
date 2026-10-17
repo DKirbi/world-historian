@@ -1,0 +1,7 @@
+{"lane": "cuba", "period": "colonial", "years": [1600, 1774], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1521,"to":1872,"peak":0.98,"km2":107000,"tier":1}
+],
+ "events":[
+  {"id":"Q562277","name":"Battle of Havana","year":1762,"type":"siege","links":15,"by":"coordinates","wiki":"Siege of Havana"}
+]}

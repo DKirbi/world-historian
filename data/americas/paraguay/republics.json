@@ -1,0 +1,13 @@
+{"lane": "paraguay", "period": "republics", "years": [1850, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"paraguay","name":"Paraguay","from":1811,"to":1869,"peak":0.4,"km2":159000,"tier":2},
+  {"id":"bolivia","name":"Bolivia","from":1840,"to":1935,"peak":0.59,"km2":238000,"tier":1},
+  {"id":"empire-of-brazil","name":"Empire of Brazil","from":1868,"to":1876,"peak":0.4,"km2":161000,"tier":2},
+  {"id":"paraguay","name":"Paraguay","from":1877,"to":2024,"peak":0.98,"km2":391000,"tier":1}
+],
+ "events":[
+  {"id":"Q2305019","name":"Battle of Curupaity","year":1866,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Curupayty"},
+  {"id":"Q3307845","name":"Battle of Tuyutí","year":1866,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Tuyutí"},
+  {"id":"Q2717440","name":"Victoria de paraguay","year":1869,"type":"battle","links":13,"by":"location","wiki":"Battle of Acosta Ñu"},
+  {"id":"Q3504617","name":"Battle of Cerro Corá","year":1870,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Cerro Corá"}
+]}

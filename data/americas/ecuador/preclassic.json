@@ -1,0 +1,7 @@
+{"lane": "ecuador", "period": "preclassic", "years": [-2000, 249], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"valdivia-culture","name":"Valdivia culture","from":-3400,"to":-1800,"tier":2,"extent":"unknown","kind":"culture","cited":"wikidata"},
+  {"id":"machalilla-culture","name":"Machalilla culture","from":-1800,"to":-100,"tier":3,"extent":"unknown","kind":"culture","cited":"wikidata"},
+  {"id":"cotocollao-culture","name":"Cotocollao culture","from":-1800,"to":-900,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true},
+  {"id":"chorrera-culture","name":"Chorrera culture","from":-1300,"to":-201,"tier":3,"extent":"unknown","kind":"culture","cited":"wikidata","approx":true}
+]}

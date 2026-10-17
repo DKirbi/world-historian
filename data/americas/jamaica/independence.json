@@ -1,0 +1,8 @@
+{"lane": "jamaica", "period": "independence", "years": [1775, 1849], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1709,"to":1962,"peak":0.99,"km2":11000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1709,"to":1962,"peak":0.99,"km2":11000,"tier":1,"realm":true}
+],
+ "events":[
+  {"id":"Q4077534","name":"Baptist War","year":1831,"type":"rebellion","links":13,"by":"location","to":1832,"wiki":"Baptist War"}
+]}

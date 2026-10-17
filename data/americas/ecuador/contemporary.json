@@ -1,0 +1,9 @@
+{"lane": "ecuador", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"republic-of-ecuador","name":"Republic of Ecuador","from":1834,"to":2024,"peak":0.97,"km2":239000,"tier":1}
+],
+ "events":[
+  {"id":"Q1500631","name":"Ecuadorian–Peruvian War","year":1941,"type":"war","links":26,"by":"country","to":1942,"wiki":"Ecuadorian–Peruvian War"},
+  {"id":"Q1801868","name":"Rio Protocol","year":1942,"type":"treaty","links":15,"by":"country","wiki":"Rio Protocol"},
+  {"id":"Q1760930","name":"Paquisha War","year":1981,"type":"war","links":17,"by":"country","wiki":"Paquisha War"}
+]}

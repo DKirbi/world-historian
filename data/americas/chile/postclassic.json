@@ -1,0 +1,4 @@
+{"lane": "chile", "period": "postclassic", "years": [900, 1491], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"las-animas-complex","name":"Las Ánimas complex","from":600,"to":1000,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true}
+]}

@@ -1,0 +1,6 @@
+{"lane": "french-guiana", "period": "republics", "years": [1850, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"french-second-republic","name":"French Second Republic","from":1848,"to":1852,"peak":0.98,"km2":81000,"tier":1,"realm":true},
+  {"id":"second-french-empire","name":"Second French Empire","from":1853,"to":1870,"peak":0.98,"km2":81000,"tier":1,"realm":true},
+  {"id":"french-third-republic","name":"French Third Republic","from":1871,"to":1939,"peak":0.98,"km2":81000,"tier":1,"realm":true}
+]}

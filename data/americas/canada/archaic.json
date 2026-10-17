@@ -1,0 +1,6 @@
+{"lane": "canada", "period": "archaic", "years": [-3400, -2001], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"glacial-kame-culture","name":"Glacial Kame culture","from":-3400,"to":-1000,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true},
+  {"id":"red-paint-people","name":"Red Paint People","from":-3000,"to":-1000,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"arctic-small-tool-tradition","name":"Arctic Small Tool tradition","from":-2500,"to":-800,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"}
+]}

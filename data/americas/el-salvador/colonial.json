@@ -1,0 +1,4 @@
+{"lane": "el-salvador", "period": "colonial", "years": [1600, 1774], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1526,"to":1821,"peak":1.0,"km2":20000,"tier":1}
+]}

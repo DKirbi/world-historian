@@ -1,0 +1,10 @@
+{"lane": "cuba", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"republic-of-cuba","name":"Republic of Cuba","from":1911,"to":1959,"peak":0.98,"km2":107000,"tier":1},
+  {"id":"communist-cuba","name":"Communist Cuba","from":1960,"to":2024,"peak":0.99,"km2":108000,"tier":1}
+],
+ "events":[
+  {"id":"Q11264","name":"Cuban Revolution","year":1953,"type":"revolution","links":88,"by":"location","wiki":"Cuban Revolution"},
+  {"id":"Q2153101","name":"Battle of Santa Clara","year":1958,"type":"battle","links":24,"by":"coordinates","to":1959,"wiki":"Battle of Santa Clara"},
+  {"id":"Q2507413","name":"Escambray rebellion","year":1959,"type":"rebellion","links":16,"by":"location","to":1965,"wiki":"Escambray rebellion"}
+]}

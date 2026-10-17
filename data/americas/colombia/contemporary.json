@@ -1,0 +1,8 @@
+{"lane": "colombia", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"republic-of-colombia","name":"Republic of Colombia","from":1866,"to":2024,"peak":0.99,"km2":1121000,"tier":1}
+],
+ "events":[
+  {"id":"Q185407","name":"La Violencia","year":1949,"type":"war","links":23,"by":"location","to":1958,"wiki":"La Violencia"},
+  {"id":"Q169072","name":"Colombian conflict","year":1964,"type":"rebellion","links":42,"by":"location","wiki":"Colombian conflict"}
+]}

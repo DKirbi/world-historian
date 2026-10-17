@@ -1,0 +1,10 @@
+{"lane": "belize", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1709,"to":1995,"peak":0.87,"km2":20000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1709,"to":1995,"peak":0.87,"km2":20000,"tier":1,"realm":true},
+  {"id":"guatemala","name":"Guatemala","from":1840,"to":2024,"peak":0.09,"km2":2000,"tier":3},
+  {"id":"belize","name":"Belize","from":1983,"to":2024,"peak":0.87,"km2":20000,"tier":1}
+],
+ "events":[
+  {"id":"Q1149912","name":"2005 Belize unrest","year":2005,"type":"rebellion","links":19,"by":"country","wiki":"2005 Belize unrest"}
+]}

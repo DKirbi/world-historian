@@ -1,0 +1,6 @@
+{"lane": "guyana", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1805,"to":1968,"peak":0.97,"km2":205000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1805,"to":1968,"peak":0.97,"km2":205000,"tier":1,"realm":true},
+  {"id":"guyana","name":"Guyana","from":1967,"to":2024,"peak":0.97,"km2":205000,"tier":1}
+]}

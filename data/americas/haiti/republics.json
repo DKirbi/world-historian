@@ -1,0 +1,4 @@
+{"lane": "haiti", "period": "republics", "years": [1850, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"empire-of-haiti","name":"Empire of Haiti","from":1805,"to":1915,"peak":0.97,"km2":26000,"tier":1}
+]}

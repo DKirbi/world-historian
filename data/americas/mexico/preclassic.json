@@ -1,0 +1,13 @@
+{"lane": "mexico", "period": "preclassic", "years": [-2000, 249], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"mixtec-culture","name":"Mixtec culture","from":-1500,"to":1523,"tier":3,"extent":"unknown","kind":"culture","cited":"wikidata"},
+  {"id":"western-mexico-shaft-tomb-tradition","name":"Western Mexico shaft tomb tradition","from":-1500,"to":400,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"huastec-civilization","name":"Huastec civilization","from":-1000,"to":1500,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"mezcala-culture","name":"Mezcala culture","from":-700,"to":650,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"olmec-civilization","name":"Olmec Civilization","from":-650,"to":-351,"peak":0.01,"km2":16000,"tier":3,"inside":true},
+  {"id":"zapotec-civilization","name":"Zapotec Civilization","from":-500,"to":895,"peak":0.03,"km2":67000,"tier":3,"inside":true},
+  {"id":"epi-olmec-culture","name":"Epi-Olmec culture","from":-300,"to":250,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"teuchitlan-tradition","name":"Teuchitlan tradition","from":-300,"to":500,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"teotihuacan","name":"Teotihuacan","from":-50,"to":704,"peak":0.0,"km2":6000,"tier":3,"inside":true},
+  {"id":"totonac-culture","name":"Totonac culture","from":100,"to":1520,"tier":3,"extent":"unknown","kind":"culture","cited":"wikidata"}
+]}

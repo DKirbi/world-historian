@@ -1,0 +1,11 @@
+{"lane": "venezuela", "period": "independence", "years": [1775, 1849], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1534,"to":1821,"peak":0.99,"km2":904000,"tier":1},
+  {"id":"republic-of-venezuela","name":"Republic of Venezuela","from":1811,"to":1811,"peak":0.43,"km2":392000,"tier":2},
+  {"id":"republic-of-venezuela","name":"Republic of Venezuela","from":1814,"to":1814,"peak":0.43,"km2":392000,"tier":2},
+  {"id":"gran-colombia","name":"Gran Colombia","from":1822,"to":1833,"peak":0.99,"km2":904000,"tier":1},
+  {"id":"venezuela","name":"Venezuela","from":1834,"to":2024,"peak":0.99,"km2":903000,"tier":1}
+],
+ "events":[
+  {"id":"Q388210","name":"Battle of Carabobo","year":1821,"type":"battle","links":18,"by":"coordinates","wiki":"Battle of Carabobo"}
+]}

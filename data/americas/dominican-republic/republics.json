@@ -1,0 +1,9 @@
+{"lane": "dominican-republic", "period": "republics", "years": [1850, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"dominican-republic","name":"Dominican Republic","from":1846,"to":1860,"peak":0.97,"km2":47000,"tier":1},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1861,"to":1872,"peak":0.97,"km2":47000,"tier":1},
+  {"id":"dominican-republic","name":"Dominican Republic","from":1865,"to":1915,"peak":0.97,"km2":47000,"tier":1}
+],
+ "events":[
+  {"id":"Q3815421","name":"Dominican Restoration War","year":1863,"type":"war","links":14,"by":"location","to":1865,"wiki":"Dominican Restoration War"}
+]}

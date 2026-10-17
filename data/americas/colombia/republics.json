@@ -1,0 +1,11 @@
+{"lane": "colombia", "period": "republics", "years": [1850, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"republic-of-new-granada","name":"Republic of New Granada","from":1834,"to":1858,"peak":0.99,"km2":1119000,"tier":1},
+  {"id":"granadine-confederation","name":"Granadine Confederation","from":1859,"to":1862,"peak":0.98,"km2":1113000,"tier":1},
+  {"id":"united-states-of-colombia","name":"United States of Colombia","from":1863,"to":1865,"peak":0.98,"km2":1113000,"tier":1},
+  {"id":"republic-of-colombia","name":"Republic of Colombia","from":1866,"to":2024,"peak":0.99,"km2":1121000,"tier":1}
+],
+ "events":[
+  {"id":"Q43378","name":"Thousand Days' War","year":1899,"type":"war","links":30,"by":"location","to":1902,"wiki":"Thousand Days' War"},
+  {"id":"Q2131701","name":"Herrán-Hay treaty","year":1903,"type":"treaty","links":12,"by":"country","wiki":"Hay–Herrán Treaty"}
+]}

@@ -1,0 +1,17 @@
+{"lane": "brazil", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"brazilian-republic","name":"Brazilian Republic","from":1890,"to":1931,"peak":1.0,"km2":8431000,"tier":1},
+  {"id":"unitary-state-of-brazil","name":"Unitary State of Brazil","from":1932,"to":1945,"peak":1.0,"km2":8431000,"tier":1},
+  {"id":"brazilian-republic","name":"Brazilian Republic","from":1946,"to":1966,"peak":1.0,"km2":8431000,"tier":1},
+  {"id":"federated-republic-of-brazil","name":"Federated Republic of Brazil","from":1967,"to":1986,"peak":1.0,"km2":8431000,"tier":1},
+  {"id":"republic-of-brazil","name":"Republic of Brazil","from":1987,"to":2024,"peak":1.0,"km2":8431000,"tier":1}
+],
+ "events":[
+  {"id":"Q2634783","name":"Revolution of 1930","year":1930,"type":"coup","links":15,"by":"country","wiki":"Revolution of 1930"},
+  {"id":"Q1536533","name":"Colombian-Peruvian War","year":1932,"type":"war","links":19,"by":"location","to":1933,"wiki":"Colombia–Peru War"},
+  {"id":"Q2592295","name":"Constitutionalist Revolution","year":1932,"type":"revolution","links":14,"by":"location","wiki":"Constitutionalist Revolution"},
+  {"id":"Q4571496","name":"1964 Brazilian military regime","year":1964,"type":"coup","links":28,"by":"location","wiki":"1964 Brazilian coup d'état"},
+  {"id":"Q152805","name":"Convention on Biological Diversity","year":1992,"type":"treaty","links":58,"by":"location","wiki":"Convention on Biological Diversity"},
+  {"id":"Q118906917","name":"2022 Brazilian coup plot","year":2022,"type":"coup","links":13,"by":"country","to":2023,"wiki":"2022–2023 Brazilian coup plot"},
+  {"id":"Q116142348","name":"2023 Brazilian Congress attack","year":2023,"type":"coup","links":39,"by":"coordinates","wiki":"8 January Brasília attacks"}
+]}

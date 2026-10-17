@@ -1,0 +1,5 @@
+{"lane": "ecuador", "period": "contact", "years": [1492, 1599], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"inca-empire","name":"Inca Empire","from":1475,"to":1539,"peak":0.64,"km2":157000,"tier":1},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1534,"to":1821,"peak":1.0,"km2":247000,"tier":1}
+]}

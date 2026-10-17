@@ -1,0 +1,5 @@
+{"lane": "panama", "period": "contact", "years": [1492, 1599], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"gran-cocle","name":"Gran Coclé","from":-1200,"to":1500,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1521,"to":1821,"peak":0.99,"km2":73000,"tier":1}
+]}

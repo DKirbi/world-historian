@@ -1,0 +1,14 @@
+{"lane": "cuba", "period": "republics", "years": [1850, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1521,"to":1872,"peak":0.98,"km2":107000,"tier":1},
+  {"id":"first-spanish-republic","name":"First Spanish Republic","from":1873,"to":1876,"peak":0.98,"km2":107000,"tier":1},
+  {"id":"kingdom-of-spain-1640","name":"Kingdom of Spain","from":1877,"to":1899,"peak":0.98,"km2":107000,"tier":1},
+  {"id":"united-states-of-america","name":"United States of America","from":1900,"to":1904,"peak":0.99,"km2":107000,"tier":1},
+  {"id":"republic-of-cuba","name":"Republic of Cuba","from":1905,"to":1907,"peak":0.97,"km2":105000,"tier":1},
+  {"id":"united-states-of-america","name":"United States of America","from":1908,"to":1910,"peak":0.98,"km2":107000,"tier":1},
+  {"id":"republic-of-cuba","name":"Republic of Cuba","from":1911,"to":1959,"peak":0.98,"km2":107000,"tier":1}
+],
+ "events":[
+  {"id":"Q1514908","name":"Cuban War of Independence","year":1895,"type":"war","links":38,"by":"location","to":1898,"wiki":"Cuban War of Independence"},
+  {"id":"Q1999889","name":"Battle of Santiago de Cuba","year":1898,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Santiago de Cuba"}
+]}

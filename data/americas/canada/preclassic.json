@@ -1,0 +1,10 @@
+{"lane": "canada", "period": "preclassic", "years": [-2000, 249], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"glacial-kame-culture","name":"Glacial Kame culture","from":-3400,"to":-1000,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true},
+  {"id":"red-paint-people","name":"Red Paint People","from":-3000,"to":-1000,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"arctic-small-tool-tradition","name":"Arctic Small Tool tradition","from":-2500,"to":-800,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"point-peninsula-complex","name":"Point Peninsula complex","from":-600,"to":700,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"dorset-culture","name":"Dorset culture","from":-500,"to":1500,"tier":2,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"laurel-complex","name":"Laurel complex","from":-300,"to":1100,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"hopewell-culture","name":"Hopewell culture","from":-200,"to":500,"tier":2,"extent":"unknown","kind":"culture","cited":"wikipedia"}
+]}

@@ -1,0 +1,4 @@
+{"lane": "lesser-antilles", "period": "classic", "years": [250, 899], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"saladoid-culture","name":"Saladoid culture","from":-500,"to":600,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"}
+]}

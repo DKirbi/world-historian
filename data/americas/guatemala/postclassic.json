@@ -1,0 +1,5 @@
+{"lane": "guatemala", "period": "postclassic", "years": [900, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"later-mayan-city-states","name":"Later Mayan City-States","from":850,"to":959,"peak":0.15,"km2":17000,"tier":3},
+  {"id":"later-mayan-city-states","name":"Later Mayan City-States","from":1450,"to":1546,"peak":0.36,"km2":39000,"tier":2}
+]}

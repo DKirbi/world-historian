@@ -1,0 +1,9 @@
+{"lane": "venezuela", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"venezuela","name":"Venezuela","from":1834,"to":2024,"peak":0.99,"km2":903000,"tier":1}
+],
+ "events":[
+  {"id":"Q185407","name":"La Violencia","year":1949,"type":"war","links":23,"by":"location","to":1958,"wiki":"La Violencia"},
+  {"id":"Q891367","name":"Bolivarian Revolution","year":1999,"type":"revolution","links":29,"by":"country","wiki":"Bolivarian Revolution"},
+  {"id":"Q8807","name":"2002 Venezuelan coup d'état attempt","year":2002,"type":"coup","links":20,"by":"location","wiki":"2002 Venezuelan coup attempt"}
+]}

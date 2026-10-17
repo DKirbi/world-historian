@@ -1,0 +1,4 @@
+{"lane": "chile", "period": "preclassic", "years": [-2000, 249], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"chinchorro-culture","name":"Chinchorro culture","from":-3400,"to":-1500,"tier":2,"extent":"unknown","kind":"culture","cited":"wikidata","approx":true}
+]}

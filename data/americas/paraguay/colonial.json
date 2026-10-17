@@ -1,0 +1,5 @@
+{"lane": "paraguay", "period": "colonial", "years": [1600, 1774], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"jesuit-reducciones","name":"Jesuit Reducciones","from":1595,"to":1768,"peak":0.37,"km2":150000,"tier":2},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1752,"to":1823,"peak":0.98,"km2":394000,"tier":1}
+]}

@@ -1,0 +1,8 @@
+{"lane": "colombia", "period": "colonial", "years": [1600, 1774], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"quimbaya","name":"Quimbaya","from":-500,"to":1600,"tier":2,"extent":"unknown","kind":"culture","cited":"wikidata","approx":true},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1534,"to":1819,"peak":1.0,"km2":1134000,"tier":1}
+],
+ "events":[
+  {"id":"Q2366970","name":"Battle of Cartagena de Indias","year":1741,"type":"siege","links":18,"by":"coordinates","wiki":"Battle of Cartagena de Indias"}
+]}

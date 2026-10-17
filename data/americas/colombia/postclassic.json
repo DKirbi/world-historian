@@ -1,0 +1,9 @@
+{"lane": "colombia", "period": "postclassic", "years": [900, 1491], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"quimbaya","name":"Quimbaya","from":-500,"to":1600,"tier":2,"extent":"unknown","kind":"culture","cited":"wikidata","approx":true},
+  {"id":"tairona","name":"Tairona","from":200,"to":1476,"tier":2,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true},
+  {"id":"capuli-culture","name":"Capulí culture","from":600,"to":1476,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true},
+  {"id":"cauca-culture","name":"Cauca culture","from":600,"to":1000,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true},
+  {"id":"muisca-confederations","name":"Muisca Confederations","from":800,"to":1540,"tier":2,"extent":"unknown","cited":"wikidata"},
+  {"id":"caranqui-culture","name":"Caranqui culture","from":980,"to":1435,"tier":3,"extent":"unknown","kind":"culture","cited":"wikidata"}
+]}

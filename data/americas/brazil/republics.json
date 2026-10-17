@@ -1,0 +1,15 @@
+{"lane": "brazil", "period": "republics", "years": [1850, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"empire-of-brazil","name":"Empire of Brazil","from":1822,"to":1889,"peak":0.98,"km2":8261000,"tier":1},
+  {"id":"republic-of-new-granada","name":"Republic of New Granada","from":1834,"to":1852,"peak":0.02,"km2":195000,"tier":2,"large":true},
+  {"id":"bolivia","name":"Bolivia","from":1840,"to":1904,"peak":0.05,"km2":391000,"tier":2},
+  {"id":"paraguay","name":"Paraguay","from":1865,"to":1865,"peak":0.02,"km2":141000,"tier":2,"large":true},
+  {"id":"brazilian-republic","name":"Brazilian Republic","from":1890,"to":1931,"peak":1.0,"km2":8431000,"tier":1}
+],
+ "events":[
+  {"id":"Q3042463","name":"Uruguayan War","year":1864,"type":"war","links":16,"by":"location","to":1865,"wiki":"Uruguayan War"},
+  {"id":"Q2294549","name":"Proclamation of the Republic","year":1889,"type":"coup","links":16,"by":"coordinates","wiki":"Proclamation of the Republic (Brazil)"},
+  {"id":"Q2350166","name":"War of Canudos","year":1893,"type":"war","links":20,"by":"coordinates","to":1897,"wiki":"War of Canudos"},
+  {"id":"Q2500742","name":"Revolta da Armada","year":1893,"type":"rebellion","links":12,"by":"location","wiki":"Brazilian Naval Revolts"},
+  {"id":"Q1122547","name":"Treaty of Petrópolis","year":1903,"type":"treaty","links":20,"by":"location","wiki":"Treaty of Petrópolis"}
+]}

@@ -1,0 +1,4 @@
+{"lane": "canada", "period": "contact", "years": [1492, 1599], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"dorset-culture","name":"Dorset culture","from":-500,"to":1500,"tier":2,"extent":"unknown","kind":"culture","cited":"wikipedia"}
+]}

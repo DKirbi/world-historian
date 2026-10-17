@@ -1,0 +1,7 @@
+{"lane": "suriname", "period": "independence", "years": [1775, 1849], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"new-netherland","name":"New Netherland","from":1670,"to":1799,"peak":0.15,"km2":22000,"tier":3},
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1805,"to":1819,"peak":0.98,"km2":142000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1805,"to":1819,"peak":0.98,"km2":142000,"tier":1,"realm":true},
+  {"id":"netherlands-antilles","name":"Netherlands Antilles","from":1820,"to":2023,"peak":0.98,"km2":141000,"tier":1}
+]}

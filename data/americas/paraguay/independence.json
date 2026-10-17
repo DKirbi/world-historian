@@ -1,0 +1,9 @@
+{"lane": "paraguay", "period": "independence", "years": [1775, 1849], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1752,"to":1823,"peak":0.98,"km2":394000,"tier":1},
+  {"id":"paraguay","name":"Paraguay","from":1811,"to":1869,"peak":0.4,"km2":159000,"tier":2},
+  {"id":"gran-colombia","name":"Gran Colombia","from":1824,"to":1829,"peak":0.59,"km2":238000,"tier":1},
+  {"id":"bolivia","name":"Bolivia","from":1825,"to":1835,"peak":0.59,"km2":238000,"tier":1},
+  {"id":"peru-bolivian-confederation","name":"Peru-Bolivian Confederation","from":1836,"to":1839,"peak":0.59,"km2":238000,"tier":1},
+  {"id":"bolivia","name":"Bolivia","from":1840,"to":1935,"peak":0.59,"km2":238000,"tier":1}
+]}

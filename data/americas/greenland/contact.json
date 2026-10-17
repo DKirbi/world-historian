@@ -1,0 +1,4 @@
+{"lane": "greenland", "period": "contact", "years": [1492, 1599], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"thule-people","name":"Thule people","from":-200,"to":1600,"tier":2,"extent":"unknown","kind":"culture","cited":"wikipedia"}
+]}

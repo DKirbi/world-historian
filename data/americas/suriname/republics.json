@@ -1,0 +1,4 @@
+{"lane": "suriname", "period": "republics", "years": [1850, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"netherlands-antilles","name":"Netherlands Antilles","from":1820,"to":2023,"peak":0.98,"km2":141000,"tier":1}
+]}

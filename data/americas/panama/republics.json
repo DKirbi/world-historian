@@ -1,0 +1,8 @@
+{"lane": "panama", "period": "republics", "years": [1850, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"republic-of-new-granada","name":"Republic of New Granada","from":1834,"to":1858,"peak":0.98,"km2":72000,"tier":1},
+  {"id":"granadine-confederation","name":"Granadine Confederation","from":1859,"to":1862,"peak":0.98,"km2":72000,"tier":1},
+  {"id":"united-states-of-colombia","name":"United States of Colombia","from":1863,"to":1865,"peak":0.98,"km2":72000,"tier":1},
+  {"id":"republic-of-colombia","name":"Republic of Colombia","from":1866,"to":1904,"peak":0.98,"km2":72000,"tier":1},
+  {"id":"republic-of-panama","name":"Republic of Panama","from":1905,"to":2024,"peak":0.98,"km2":72000,"tier":1}
+]}

@@ -1,0 +1,9 @@
+{"lane": "haiti", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"empire-of-haiti","name":"Empire of Haiti","from":1805,"to":1915,"peak":0.97,"km2":26000,"tier":1},
+  {"id":"united-states-of-america","name":"United States of America","from":1916,"to":1935,"peak":0.97,"km2":26000,"tier":1},
+  {"id":"republic-of-haiti","name":"Republic of Haiti","from":1936,"to":2024,"peak":0.97,"km2":26000,"tier":1}
+],
+ "events":[
+  {"id":"Q2883469","name":"2004 Haitian coup d'état","year":2004,"type":"coup","links":18,"by":"location","wiki":"2004 Haitian coup d'état"}
+]}

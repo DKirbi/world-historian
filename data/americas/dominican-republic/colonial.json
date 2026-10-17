@@ -1,0 +1,4 @@
+{"lane": "dominican-republic", "period": "colonial", "years": [1600, 1774], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1521,"to":1802,"peak":1.0,"km2":48000,"tier":1}
+]}

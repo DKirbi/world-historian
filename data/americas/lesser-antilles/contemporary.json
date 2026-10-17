@@ -1,0 +1,19 @@
+{"lane": "lesser-antilles", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1709,"to":1995,"peak":0.76,"km2":5000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1709,"to":1995,"peak":0.76,"km2":5000,"tier":1,"realm":true},
+  {"id":"netherlands-antilles","name":"Netherlands Antilles","from":1815,"to":2024,"peak":0.11,"km2":1000,"tier":3},
+  {"id":"french-third-republic","name":"French Third Republic","from":1871,"to":1939,"peak":0.32,"km2":2000,"tier":2},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1957,"peak":0.31,"km2":2000,"tier":2},
+  {"id":"french-fifth-republic","name":"French Fifth Republic","from":1958,"to":2024,"peak":0.31,"km2":2000,"tier":2},
+  {"id":"barbados","name":"Barbados","from":1967,"to":2024,"peak":0.05,"km2":400,"tier":3,"inside":true},
+  {"id":"saint-kitts","name":"Saint Kitts","from":1967,"to":2024,"peak":0.03,"km2":200,"tier":3,"inside":true},
+  {"id":"antigua-and-barbuda","name":"Antigua and Barbuda","from":1967,"to":2024,"peak":0.03,"km2":200,"tier":3,"inside":true},
+  {"id":"saint-vincent","name":"Saint Vincent","from":1969,"to":2024,"peak":0.03,"km2":200,"tier":3,"inside":true},
+  {"id":"grenada","name":"Grenada","from":1976,"to":2024,"peak":0.04,"km2":300,"tier":3,"inside":true},
+  {"id":"commonwealth-of-dominica","name":"Commonwealth of Dominica","from":1979,"to":2024,"peak":0.1,"km2":1000,"tier":3},
+  {"id":"saint-lucia","name":"Saint Lucia","from":1979,"to":2024,"peak":0.05,"km2":400,"tier":3,"inside":true}
+],
+ "events":[
+  {"id":"Q501866","name":"1983 Invasion of Grenada","year":1983,"type":"invasion","links":41,"by":"coordinates","wiki":"United States invasion of Grenada"}
+]}

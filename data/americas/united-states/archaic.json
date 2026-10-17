@@ -1,0 +1,11 @@
+{"lane": "united-states", "period": "archaic", "years": [-3400, -2001], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"cochise-tradition","name":"Cochise tradition","from":-3400,"to":-200,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"eva-culture","name":"Eva culture","from":-3400,"to":-1000,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"glacial-kame-culture","name":"Glacial Kame culture","from":-3400,"to":-1000,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true},
+  {"id":"mount-taylor-period","name":"Mount Taylor period","from":-3400,"to":-2000,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"aleutian-tradition","name":"Aleutian tradition","from":-2500,"to":-1800,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"arctic-small-tool-tradition","name":"Arctic Small Tool tradition","from":-2500,"to":-800,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"stallings-island-st-simons-culture","name":"Stallings Island (St. Simons) culture","from":-2500,"to":-1000,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"poverty-point-culture","name":"Poverty Point culture","from":-2200,"to":-700,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"}
+]}

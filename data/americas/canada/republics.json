@@ -1,0 +1,9 @@
+{"lane": "canada", "period": "republics", "years": [1850, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1778,"to":1931,"peak":0.99,"km2":9778000,"tier":1}
+],
+ "events":[
+  {"id":"Q2996302","name":"Fenian raids","year":1866,"type":"war","links":14,"by":"location","to":1871,"wiki":"Fenian raids"},
+  {"id":"Q765499","name":"Red River Rebellion","year":1869,"type":"rebellion","links":15,"by":"location","wiki":"Red River Rebellion"},
+  {"id":"Q1506788","name":"North-West Rebellion","year":1885,"type":"rebellion","links":14,"by":"location","wiki":"North-West Rebellion"}
+]}

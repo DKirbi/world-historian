@@ -1,0 +1,8 @@
+{"lane": "chile", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"republic-of-chile","name":"Republic of Chile","from":1820,"to":2024,"peak":0.94,"km2":695000,"tier":1}
+],
+ "events":[
+  {"id":"Q40144","name":"Battle of Coronel","year":1914,"type":"battle","links":34,"by":"coordinates","wiki":"Battle of Coronel"},
+  {"id":"Q856670","name":"1973 Chilean coup d'état","year":1973,"type":"coup","links":51,"by":"location","wiki":"1973 Chilean coup d'état"}
+]}

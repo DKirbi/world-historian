@@ -1,0 +1,9 @@
+{"lane": "jamaica", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1709,"to":1962,"peak":0.99,"km2":11000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1709,"to":1962,"peak":0.99,"km2":11000,"tier":1,"realm":true},
+  {"id":"jamaica","name":"Jamaica","from":1963,"to":2024,"peak":0.99,"km2":11000,"tier":1}
+],
+ "events":[
+  {"id":"Q216996","name":"United Nations Convention on the Law of the Sea","year":1982,"type":"treaty","links":69,"by":"coordinates","wiki":"United Nations Convention on the Law of the Sea"}
+]}

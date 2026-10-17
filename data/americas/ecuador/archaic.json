@@ -1,0 +1,4 @@
+{"lane": "ecuador", "period": "archaic", "years": [-3400, -2001], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"valdivia-culture","name":"Valdivia culture","from":-3400,"to":-1800,"tier":2,"extent":"unknown","kind":"culture","cited":"wikidata"}
+]}

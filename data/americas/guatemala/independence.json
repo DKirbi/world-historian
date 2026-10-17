@@ -1,0 +1,7 @@
+{"lane": "guatemala", "period": "independence", "years": [1775, 1849], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1526,"to":1821,"peak":1.0,"km2":108000,"tier":1},
+  {"id":"first-mexican-empire","name":"First Mexican Empire","from":1822,"to":1823,"peak":1.0,"km2":108000,"tier":1},
+  {"id":"united-provinces-of-central-america","name":"United Provinces of Central America","from":1824,"to":1839,"peak":0.97,"km2":105000,"tier":1},
+  {"id":"guatemala","name":"Guatemala","from":1840,"to":2024,"peak":0.96,"km2":104000,"tier":1}
+]}

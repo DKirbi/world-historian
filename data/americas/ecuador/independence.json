@@ -1,0 +1,11 @@
+{"lane": "ecuador", "period": "independence", "years": [1775, 1849], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1534,"to":1821,"peak":1.0,"km2":247000,"tier":1},
+  {"id":"guayaquil-junta","name":"Guayaquil Junta","from":1812,"to":1813,"peak":0.55,"km2":137000,"tier":1},
+  {"id":"gran-colombia","name":"Gran Colombia","from":1822,"to":1833,"peak":1.0,"km2":247000,"tier":1},
+  {"id":"republic-of-ecuador","name":"Republic of Ecuador","from":1834,"to":2024,"peak":0.97,"km2":239000,"tier":1}
+],
+ "events":[
+  {"id":"Q1402751","name":"Battle of Pichincha","year":1822,"type":"battle","links":17,"by":"coordinates","wiki":"Battle of Pichincha"},
+  {"id":"Q1972316","name":"Gran Colombia–Peru War","year":1828,"type":"war","links":14,"by":"location","to":1829,"wiki":"Gran Colombia–Peru War"}
+]}

@@ -1,0 +1,4 @@
+{"lane": "honduras", "period": "republics", "years": [1850, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"honduras","name":"Honduras","from":1840,"to":2024,"peak":0.97,"km2":110000,"tier":1}
+]}

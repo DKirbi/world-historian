@@ -1,0 +1,19 @@
+{"lane": "peru", "period": "postclassic", "years": [900, 1491], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"wari-empire","name":"Wari Empire","from":600,"to":1100,"tier":2,"extent":"unknown","cited":"wikidata"},
+  {"id":"sican-culture","name":"Sican culture","from":700,"to":1375,"tier":2,"extent":"unknown","kind":"culture","cited":"wikidata"},
+  {"id":"chimor","name":"Chimor","from":911,"to":1187,"peak":0.0,"km2":2000,"tier":3,"inside":true},
+  {"id":"lupaca","name":"Lupaca","from":1000,"to":1476,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true},
+  {"id":"bracamoros","name":"Bracamoros","from":1000,"to":1476,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true},
+  {"id":"huanca","name":"Huanca","from":1000,"to":1476,"tier":2,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true},
+  {"id":"chachapoya-culture","name":"Chachapoya culture","from":1000,"to":1570,"tier":2,"extent":"unknown","kind":"culture","cited":"wikidata"},
+  {"id":"chiribaya-culture","name":"Chiribaya culture","from":1000,"to":1476,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true},
+  {"id":"ichma-culture","name":"Ichma culture","from":1001,"to":1469,"tier":3,"extent":"unknown","kind":"culture","cited":"wikidata","approx":true},
+  {"id":"chincha-culture","name":"Chincha culture","from":1100,"to":1460,"tier":2,"extent":"unknown","kind":"culture","cited":"wikidata"},
+  {"id":"chimu-empire","name":"Chimu Empire","from":1188,"to":1374,"peak":0.03,"km2":34000,"tier":3,"inside":true},
+  {"id":"cuzco","name":"Cuzco","from":1294,"to":1439,"peak":0.01,"km2":9000,"tier":3,"inside":true},
+  {"id":"chancay-culture","name":"Chancay culture","from":1300,"to":1450,"tier":2,"extent":"unknown","kind":"culture","cited":"wikidata"},
+  {"id":"chimu-empire","name":"Chimu Empire","from":1375,"to":1481,"peak":0.06,"km2":75000,"tier":3},
+  {"id":"inca-empire","name":"Inca Empire","from":1440,"to":1449,"peak":0.01,"km2":9000,"tier":3,"inside":true},
+  {"id":"inca-empire","name":"Inca Empire","from":1450,"to":1539,"peak":0.47,"km2":607000,"tier":2}
+]}

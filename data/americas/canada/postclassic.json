@@ -1,0 +1,5 @@
+{"lane": "canada", "period": "postclassic", "years": [900, 1491], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"dorset-culture","name":"Dorset culture","from":-500,"to":1500,"tier":2,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"laurel-complex","name":"Laurel complex","from":-300,"to":1100,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"}
+]}

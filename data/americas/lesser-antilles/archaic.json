@@ -1,0 +1,4 @@
+{"lane": "lesser-antilles", "period": "archaic", "years": [-3400, -2001], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"ortoiroid-people","name":"Ortoiroid people","from":-3400,"to":200,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true}
+]}

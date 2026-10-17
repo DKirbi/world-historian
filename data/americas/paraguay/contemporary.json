@@ -1,0 +1,9 @@
+{"lane": "paraguay", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"bolivia","name":"Bolivia","from":1840,"to":1935,"peak":0.59,"km2":238000,"tier":1},
+  {"id":"paraguay","name":"Paraguay","from":1877,"to":2024,"peak":0.98,"km2":391000,"tier":1}
+],
+ "events":[
+  {"id":"Q223126","name":"Chaco War","year":1932,"type":"war","links":50,"by":"coordinates","to":1935,"wiki":"Chaco War"},
+  {"id":"Q1122422","name":"Paraguayan Civil War of 1947","year":1947,"type":"war","links":15,"by":"location","wiki":"Paraguayan Civil War (1947)"}
+]}

@@ -1,0 +1,4 @@
+{"lane": "guyana", "period": "colonial", "years": [1600, 1774], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"new-netherland","name":"New Netherland","from":1629,"to":1780,"peak":0.09,"km2":20000,"tier":3}
+]}

@@ -1,0 +1,5 @@
+{"lane": "nicaragua", "period": "republics", "years": [1850, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"republic-of-nicaragua","name":"Republic of Nicaragua","from":1840,"to":2024,"peak":0.98,"km2":126000,"tier":1},
+  {"id":"republic-of-baja-california","name":"Republic of Baja California","from":1856,"to":1856,"peak":0.85,"km2":109000,"tier":1}
+]}

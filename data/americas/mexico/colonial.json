@@ -1,0 +1,4 @@
+{"lane": "mexico", "period": "colonial", "years": [1600, 1774], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1521,"to":1821,"peak":0.99,"km2":1935000,"tier":1}
+]}

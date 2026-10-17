@@ -1,0 +1,8 @@
+{"lane": "colombia", "period": "preclassic", "years": [-2000, 249], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"quimbaya","name":"Quimbaya","from":-500,"to":1600,"tier":2,"extent":"unknown","kind":"culture","cited":"wikidata","approx":true},
+  {"id":"calima-culture","name":"Calima culture","from":-200,"to":400,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia"},
+  {"id":"tairona","name":"Tairona","from":200,"to":1476,"tier":2,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true},
+  {"id":"quitu-culture","name":"Quitu culture","from":200,"to":600,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true},
+  {"id":"san-agustin-culture","name":"San Agustín culture","from":200,"to":600,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true}
+]}

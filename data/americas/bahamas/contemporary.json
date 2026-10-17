@@ -1,0 +1,6 @@
+{"lane": "bahamas", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1709,"to":1995,"peak":0.77,"km2":10000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1709,"to":1995,"peak":0.77,"km2":10000,"tier":1,"realm":true},
+  {"id":"commonwealth-of-the-bahamas","name":"Commonwealth of The Bahamas","from":1973,"to":2024,"peak":0.77,"km2":10000,"tier":1}
+]}

@@ -1,0 +1,7 @@
+{"lane": "brazil", "period": "contact", "years": [1492, 1599], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"omagua-people","name":"Omagua people","from":1476,"to":1534,"tier":3,"extent":"unknown","kind":"culture","cited":"wikipedia","approx":true},
+  {"id":"portuguese-empire","name":"Portuguese Empire","from":1502,"to":1581,"peak":0.04,"km2":358000,"tier":2,"realm":true,"large":true},
+  {"id":"france-antarctique","name":"France Antarctique","from":1556,"to":1571,"peak":0.0,"km2":9000,"tier":3,"inside":true},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1582,"to":1618,"peak":0.04,"km2":358000,"tier":2,"large":true}
+]}

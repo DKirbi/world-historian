@@ -1,0 +1,4 @@
+{"lane": "paraguay", "period": "contact", "years": [1492, 1599], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"jesuit-reducciones","name":"Jesuit Reducciones","from":1595,"to":1768,"peak":0.37,"km2":150000,"tier":2}
+]}

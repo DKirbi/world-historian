@@ -1,0 +1,7 @@
+{"lane": "bolivia", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"bolivia","name":"Bolivia","from":1840,"to":2024,"peak":0.99,"km2":1077000,"tier":1}
+],
+ "events":[
+  {"id":"Q126913477","name":"2024 Bolivian coup attempt","year":2024,"type":"coup","links":24,"by":"coordinates","wiki":"2024 Bolivian coup attempt"}
+]}

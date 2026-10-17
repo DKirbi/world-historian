@@ -1,0 +1,13 @@
+{"lane": "colombia", "period": "independence", "years": [1775, 1849], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1534,"to":1819,"peak":1.0,"km2":1134000,"tier":1},
+  {"id":"new-granada","name":"New Granada","from":1811,"to":1821,"peak":0.99,"km2":1118000,"tier":1},
+  {"id":"cundinamarca","name":"Cundinamarca","from":1814,"to":1814,"peak":0.2,"km2":223000,"tier":2},
+  {"id":"gran-colombia","name":"Gran Colombia","from":1822,"to":1833,"peak":1.0,"km2":1134000,"tier":1},
+  {"id":"republic-of-new-granada","name":"Republic of New Granada","from":1834,"to":1858,"peak":0.99,"km2":1119000,"tier":1}
+],
+ "events":[
+  {"id":"Q8934","name":"Venezuelan War of Independence","year":1810,"type":"war","links":20,"by":"location","to":1823,"wiki":"Venezuelan War of Independence"},
+  {"id":"Q3063789","name":"Colombian War of Independence","year":1810,"type":"war","links":18,"by":"coordinates","to":1825,"wiki":"Colombian War of Independence"},
+  {"id":"Q1150410","name":"Battle of Boyacá","year":1819,"type":"battle","links":25,"by":"coordinates","wiki":"Battle of Boyacá"}
+]}
