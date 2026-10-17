@@ -1,0 +1,10 @@
+{"lane": "ireland", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"viking-settlements","name":"Viking settlements","from":850,"to":1325,"peak":0.11,"km2":8000,"tier":3},
+  {"id":"angevin-empire","name":"Angevin Empire","from":1177,"to":1209,"peak":0.43,"km2":29000,"tier":2},
+  {"id":"kingdom-of-england","name":"Kingdom of England","from":1210,"to":1652,"peak":0.99,"km2":68000,"tier":1}
+],
+ "events":[
+  {"id":"Q868027","name":"Battle of Clontarf","year":1014,"type":"battle","links":23,"by":"coordinates","wiki":"Battle of Clontarf"},
+  {"id":"Q901714","name":"Norman invasion of Ireland","year":1169,"type":"invasion","links":23,"by":"location","to":1175,"wiki":"Anglo-Norman invasion of Ireland"}
+]}

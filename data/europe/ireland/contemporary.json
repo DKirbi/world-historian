@@ -1,0 +1,13 @@
+{"lane": "ireland", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1709,"to":1921,"peak":0.99,"km2":68000,"tier":1,"realm":true},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1709,"to":1921,"peak":0.99,"km2":68000,"tier":1},
+  {"id":"irish-free-state","name":"Irish Free State","from":1922,"to":1937,"peak":0.98,"km2":67000,"tier":1},
+  {"id":"eire","name":"Éire","from":1938,"to":2024,"peak":0.98,"km2":67000,"tier":1}
+],
+ "events":[
+  {"id":"Q193689","name":"Easter Rising","year":1916,"type":"rebellion","links":61,"by":"location","wiki":"Easter Rising"},
+  {"id":"Q208297","name":"Irish War of Independence","year":1919,"type":"war","links":57,"by":"location","to":1921,"wiki":"Irish War of Independence"},
+  {"id":"Q748042","name":"Irish Civil War","year":1922,"type":"war","links":55,"by":"country","to":1923,"wiki":"Irish Civil War"},
+  {"id":"Q645776","name":"Battle of Dublin","year":1922,"type":"battle","links":24,"by":"coordinates","wiki":"Battle of Dublin"}
+]}

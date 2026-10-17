@@ -1,0 +1,11 @@
+{"lane": "portugal", "period": "classical", "years": [-800, 475], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"roman-republic","name":"Roman Republic","from":-144,"to":-32,"peak":0.95,"km2":86000,"tier":1},
+  {"id":"roman-empire","name":"Roman Empire","from":-31,"to":394,"peak":0.97,"km2":88000,"tier":1},
+  {"id":"western-roman-empire","name":"Western Roman Empire","from":395,"to":409,"peak":0.97,"km2":88000,"tier":1},
+  {"id":"vandals","name":"Vandals","from":410,"to":413,"peak":0.97,"km2":88000,"tier":1},
+  {"id":"kingdom-of-the-suebi","name":"Kingdom of the Suebi","from":414,"to":586,"peak":0.97,"km2":88000,"tier":1},
+  {"id":"alans","name":"Alans","from":414,"to":438,"peak":0.55,"km2":50000,"tier":1},
+  {"id":"western-roman-empire","name":"Western Roman Empire","from":459,"to":468,"peak":0.49,"km2":44000,"tier":2},
+  {"id":"visigothic-kingdom","name":"Visigothic Kingdom","from":469,"to":717,"peak":0.97,"km2":88000,"tier":1}
+]}

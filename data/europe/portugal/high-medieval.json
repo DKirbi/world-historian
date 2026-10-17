@@ -1,0 +1,25 @@
+{"lane": "portugal", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-leon-911","name":"Kingdom of León","from":911,"to":1033,"peak":0.38,"km2":34000,"tier":2},
+  {"id":"caliphate-of-cordoba","name":"Caliphate of Córdoba","from":936,"to":1014,"peak":0.72,"km2":65000,"tier":1},
+  {"id":"taifas-of-iberia-1010","name":"Taifas of Iberia","from":1010,"to":1093,"peak":0.72,"km2":65000,"tier":1,"realm":true},
+  {"id":"taifa-of-badajoz-1010","name":"Taifa of Badajoz","from":1010,"to":1093,"peak":0.69,"km2":62000,"tier":1},
+  {"id":"taifa-of-santa-maria-do-algarve","name":"Taifa of Santa Maria do Algarve","from":1018,"to":1055,"peak":0.02,"km2":2000,"tier":3,"inside":true},
+  {"id":"taifa-of-silves-1040","name":"Taifa of Silves","from":1040,"to":1065,"peak":0.06,"km2":6000,"tier":3},
+  {"id":"kingdom-of-castile","name":"Kingdom of Castile","from":1046,"to":1065,"peak":0.25,"km2":23000,"tier":2},
+  {"id":"taifa-of-seville","name":"Taifa of Seville","from":1056,"to":1093,"peak":0.15,"km2":13000,"tier":3},
+  {"id":"kingdom-of-castile","name":"Kingdom of Castile","from":1072,"to":1110,"peak":0.49,"km2":44000,"tier":2},
+  {"id":"almoravid-dynasty","name":"Almoravid Dynasty","from":1094,"to":1151,"peak":0.48,"km2":43000,"tier":2},
+  {"id":"kingdom-of-galicia-1034","name":"Kingdom of Galicia","from":1111,"to":1125,"peak":0.49,"km2":44000,"tier":2},
+  {"id":"kingdom-of-leon-1126","name":"Kingdom of León","from":1126,"to":1138,"peak":0.49,"km2":44000,"tier":2},
+  {"id":"kingdom-of-portugal-1147","name":"Kingdom of Portugal","from":1147,"to":1581,"peak":0.98,"km2":88000,"tier":1},
+  {"id":"almohad-caliphate","name":"Almohad Caliphate","from":1147,"to":1249,"peak":0.32,"km2":29000,"tier":2},
+  {"id":"taifas-of-iberia-1010","name":"Taifas of Iberia","from":1147,"to":1168,"peak":0.14,"km2":13000,"tier":3,"realm":true},
+  {"id":"taifa-of-silves-1147","name":"Taifa of Silves","from":1147,"to":1168,"peak":0.06,"km2":6000,"tier":3}
+],
+ "events":[
+  {"id":"Q2733432","name":"Battle of São Mamede","year":1128,"type":"battle","links":18,"by":"location","wiki":"Battle of São Mamede"},
+  {"id":"Q1328537","name":"Battle of Ourique","year":1139,"type":"battle","links":26,"by":"coordinates","wiki":"Battle of Ourique"},
+  {"id":"Q815177","name":"Siege of Lisbon","year":1147,"type":"siege","links":31,"by":"coordinates","wiki":"Siege of Lisbon"},
+  {"id":"Q1365483","name":"Treaty of Alcañices","year":1297,"type":"treaty","links":12,"by":"country","wiki":"Treaty of Alcañices"}
+]}

@@ -1,0 +1,18 @@
+{"lane": "albania", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"first-bulgarian-empire","name":"First Bulgarian Empire","from":850,"to":1017,"peak":0.93,"km2":27000,"tier":1},
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":1010,"to":1205,"peak":0.96,"km2":27000,"tier":1},
+  {"id":"great-principality-of-duklja","name":"Great Principality of Duklja","from":1056,"to":1071,"peak":0.06,"km2":2000,"tier":3},
+  {"id":"kingdom-of-duklja","name":"Kingdom of Duklja","from":1072,"to":1138,"peak":0.06,"km2":2000,"tier":3},
+  {"id":"grand-principality-of-serbia","name":"Grand Principality of Serbia","from":1152,"to":1168,"peak":0.06,"km2":2000,"tier":3},
+  {"id":"kingdom-of-serbia-1188","name":"Kingdom of Serbia","from":1188,"to":1351,"peak":0.31,"km2":9000,"tier":2},
+  {"id":"despotate-of-epirus","name":"Despotate of Epirus","from":1206,"to":1278,"peak":0.88,"km2":25000,"tier":1},
+  {"id":"republic-of-venice","name":"Republic of Venice","from":1206,"to":1240,"peak":0.06,"km2":2000,"tier":3},
+  {"id":"second-bulgarian-empire","name":"Second Bulgarian Empire","from":1236,"to":1249,"peak":0.21,"km2":6000,"tier":2},
+  {"id":"byzantine-empire-1279","name":"Byzantine Empire","from":1279,"to":1351,"peak":0.66,"km2":19000,"tier":1},
+  {"id":"house-of-anjou-sicily","name":"House of Anjou-Sicily","from":1279,"to":1293,"peak":0.57,"km2":16000,"tier":1}
+],
+ "events":[
+  {"id":"Q1987213","name":"Battle of Dyrrhachium","year":1081,"type":"battle","links":31,"by":"coordinates","wiki":"Battle of Dyrrhachium (1081)"},
+  {"id":"Q178621","name":"Treaty of Devol","year":1108,"type":"treaty","links":26,"by":"location","wiki":"Treaty of Devol"}
+]}

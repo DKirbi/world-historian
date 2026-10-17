@@ -1,0 +1,12 @@
+{"lane": "luxembourg", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"house-of-luxembourg","name":"House of Luxembourg","from":1260,"to":1414,"peak":0.88,"km2":2000,"tier":1},
+  {"id":"holy-roman-empire-minor-states","name":"Holy Roman Empire Minor States","from":1294,"to":1414,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"county-of-brabant","name":"County of Brabant","from":1415,"to":1421,"peak":0.88,"km2":2000,"tier":1},
+  {"id":"holy-roman-empire-minor-states","name":"Holy Roman Empire Minor States","from":1422,"to":1428,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"duchy-of-bavaria","name":"Duchy of Bavaria","from":1422,"to":1428,"peak":0.88,"km2":2000,"tier":1},
+  {"id":"duchy-of-luxembourg","name":"Duchy of Luxembourg","from":1429,"to":1449,"peak":0.88,"km2":2000,"tier":1},
+  {"id":"duchy-of-burgundy-1385","name":"Duchy of Burgundy","from":1450,"to":1481,"peak":0.93,"km2":2000,"tier":1},
+  {"id":"house-of-habsburg","name":"House of Habsburg","from":1482,"to":1486,"peak":0.88,"km2":2000,"tier":1},
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1487,"to":1506,"peak":0.88,"km2":2000,"tier":1}
+]}

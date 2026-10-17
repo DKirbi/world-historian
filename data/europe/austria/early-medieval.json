@@ -1,0 +1,20 @@
+{"lane": "austria", "period": "early-medieval", "years": [476, 999], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ostrogoths","name":"Ostrogoths","from":455,"to":499,"peak":0.85,"km2":71000,"tier":1},
+  {"id":"rugiland","name":"Rugiland","from":455,"to":489,"peak":0.15,"km2":13000,"tier":3},
+  {"id":"lombards","name":"Lombards","from":490,"to":568,"peak":0.44,"km2":37000,"tier":2},
+  {"id":"ostrogothic-kingdom","name":"Ostrogothic Kingdom","from":500,"to":545,"peak":0.85,"km2":71000,"tier":1},
+  {"id":"bavarians","name":"Bavarians","from":540,"to":787,"peak":0.81,"km2":68000,"tier":1},
+  {"id":"avar-khaganate","name":"Avar Khaganate","from":569,"to":622,"peak":0.43,"km2":37000,"tier":2},
+  {"id":"samo-s-empire","name":"Samo's Empire","from":623,"to":660,"peak":0.65,"km2":55000,"tier":1},
+  {"id":"carantania","name":"Carantania","from":661,"to":749,"peak":0.44,"km2":37000,"tier":2},
+  {"id":"kingdom-of-the-franks","name":"Kingdom of the Franks","from":788,"to":849,"peak":1.0,"km2":84000,"tier":1},
+  {"id":"carolingian-empire","name":"Carolingian Empire","from":788,"to":910,"peak":1.0,"km2":84000,"tier":1,"realm":true},
+  {"id":"great-moravia","name":"Great Moravia","from":814,"to":899,"peak":0.14,"km2":12000,"tier":3},
+  {"id":"east-franks","name":"East Franks","from":850,"to":881,"peak":0.87,"km2":73000,"tier":1},
+  {"id":"west-franks","name":"West Franks","from":882,"to":886,"peak":0.86,"km2":72000,"tier":1},
+  {"id":"east-franks","name":"East Franks","from":887,"to":910,"peak":0.99,"km2":84000,"tier":1},
+  {"id":"kingdom-of-germany","name":"Kingdom of Germany","from":911,"to":961,"peak":0.94,"km2":79000,"tier":1},
+  {"id":"principality-of-hungary","name":"Principality of Hungary","from":911,"to":999,"peak":0.56,"km2":47000,"tier":1},
+  {"id":"holy-roman-empire","name":"Holy Roman Empire","from":962,"to":1259,"peak":0.95,"km2":80000,"tier":1}
+]}

@@ -1,0 +1,31 @@
+{"lane": "greece", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"despotate-of-epirus","name":"Despotate of Epirus","from":1206,"to":1343,"peak":0.52,"km2":68000,"tier":1},
+  {"id":"duchy-of-athens","name":"Duchy of Athens","from":1206,"to":1313,"peak":0.06,"km2":8000,"tier":3},
+  {"id":"republic-of-venice","name":"Republic of Venice","from":1210,"to":1647,"peak":0.13,"km2":17000,"tier":3},
+  {"id":"duchy-of-the-archipelago","name":"Duchy of the Archipelago","from":1210,"to":1313,"peak":0.01,"km2":1000,"tier":3,"inside":true},
+  {"id":"thessaly","name":"Thessaly","from":1272,"to":1332,"peak":0.11,"km2":14000,"tier":3},
+  {"id":"byzantine-empire-1279","name":"Byzantine Empire","from":1279,"to":1401,"peak":0.7,"km2":91000,"tier":1},
+  {"id":"principality-of-achaea-1206","name":"Principality of Achaea","from":1294,"to":1325,"peak":0.11,"km2":14000,"tier":3},
+  {"id":"catalan-company","name":"Catalan Company","from":1314,"to":1362,"peak":0.07,"km2":9000,"tier":3},
+  {"id":"serbian-empire","name":"Serbian Empire","from":1352,"to":1374,"peak":0.42,"km2":55000,"tier":2},
+  {"id":"crown-of-aragon","name":"Crown of Aragon","from":1363,"to":1394,"peak":0.07,"km2":9000,"tier":3},
+  {"id":"house-of-tocco","name":"House of Tocco","from":1363,"to":1414,"peak":0.01,"km2":1000,"tier":3,"inside":true},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1375,"to":1911,"peak":0.85,"km2":111000,"tier":1},
+  {"id":"house-of-anjou-sicily","name":"House of Anjou-Sicily","from":1375,"to":1384,"peak":0.11,"km2":14000,"tier":3},
+  {"id":"albanian-principalities","name":"Albanian Principalities","from":1375,"to":1384,"peak":0.11,"km2":14000,"tier":3},
+  {"id":"despotate-of-arta","name":"Despotate of Arta","from":1375,"to":1421,"peak":0.08,"km2":11000,"tier":3},
+  {"id":"despotate-of-epirus","name":"Despotate of Epirus","from":1385,"to":1458,"peak":0.17,"km2":22000,"tier":3},
+  {"id":"principality-of-achaea-1385","name":"Principality of Achaea","from":1385,"to":1430,"peak":0.1,"km2":13000,"tier":3},
+  {"id":"byzantine-empire-1279","name":"Byzantine Empire","from":1407,"to":1467,"peak":0.15,"km2":19000,"tier":3},
+  {"id":"crown-of-aragon","name":"Crown of Aragon","from":1407,"to":1458,"peak":0.06,"km2":7000,"tier":3},
+  {"id":"despotate-of-epirus","name":"Despotate of Epirus","from":1459,"to":1481,"peak":0.02,"km2":2000,"tier":3,"inside":true}
+],
+ "events":[
+  {"id":"Q2064142","name":"Battle of Halmyros","year":1311,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Halmyros"},
+  {"id":"Q939570","name":"Battle of Maritsa","year":1371,"type":"battle","links":37,"by":"coordinates","wiki":"Battle of Maritsa"},
+  {"id":"Q2426040","name":"Siege of Thessalonica","year":1422,"type":"siege","links":26,"by":"coordinates","to":1430,"wiki":"Siege of Thessalonica (1422–1430)"},
+  {"id":"Q1154983","name":"First Ottoman–Venetian War","year":1463,"type":"war","links":23,"by":"location","to":1479,"wiki":"Ottoman–Venetian War (1463–1479)"},
+  {"id":"Q3622772","name":"Siege of Negroponte","year":1470,"type":"siege","links":13,"by":"coordinates","wiki":"Siege of Negroponte (1470)"},
+  {"id":"Q701067","name":"Siege of Rhodes","year":1480,"type":"siege","links":21,"by":"coordinates","wiki":"Siege of Rhodes (1480)"}
+]}

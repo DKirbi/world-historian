@@ -1,0 +1,17 @@
+{"lane": "north-macedonia", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"serbs","name":"Serbs","from":1912,"to":1915,"peak":0.93,"km2":24000,"tier":1},
+  {"id":"principality-of-bulgaria","name":"Principality of Bulgaria","from":1916,"to":1918,"peak":0.97,"km2":25000,"tier":1},
+  {"id":"serbia","name":"Serbia","from":1918,"to":1918,"peak":0.68,"km2":17000,"tier":1},
+  {"id":"yugoslavia","name":"Yugoslavia","from":1919,"to":1940,"peak":0.97,"km2":25000,"tier":1},
+  {"id":"principality-of-bulgaria","name":"Principality of Bulgaria","from":1941,"to":1944,"peak":0.98,"km2":25000,"tier":1},
+  {"id":"yugoslavia","name":"Yugoslavia","from":1945,"to":1945,"peak":0.97,"km2":25000,"tier":1},
+  {"id":"socialist-federal-republic-of-yugoslavia","name":"Socialist Federal Republic of Yugoslavia","from":1946,"to":1991,"peak":0.97,"km2":25000,"tier":1},
+  {"id":"former-yugoslav-republic-of-macedonia","name":"Former Yugoslav Republic of Macedonia","from":1992,"to":2024,"peak":0.96,"km2":24000,"tier":1}
+],
+ "events":[
+  {"id":"Q4087436","name":"Battle of Krivolak","year":1915,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Krivolak"},
+  {"id":"Q2889354","name":"Monastir Offensive","year":1916,"type":"battle","links":19,"by":"coordinates","wiki":"Monastir offensive"},
+  {"id":"Q28479","name":"Kumanovo Agreement","year":1999,"type":"treaty","links":27,"by":"coordinates","wiki":"Kumanovo Agreement"},
+  {"id":"Q817137","name":"2001 insurgency in Macedonia","year":2001,"type":"rebellion","links":38,"by":"location","wiki":"2001 insurgency in Macedonia"}
+]}

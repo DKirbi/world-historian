@@ -1,0 +1,8 @@
+{"lane": "czechia", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"duchy-of-bohemia","name":"Duchy of Bohemia","from":896,"to":1002,"peak":0.98,"km2":78000,"tier":1},
+  {"id":"kingdom-of-poland-962","name":"Kingdom of Poland","from":1003,"to":1027,"peak":1.0,"km2":79000,"tier":1},
+  {"id":"holy-roman-empire","name":"Holy Roman Empire","from":1010,"to":1259,"peak":0.98,"km2":77000,"tier":1},
+  {"id":"kingdom-of-bohemia","name":"Kingdom of Bohemia","from":1202,"to":1452,"peak":0.99,"km2":78000,"tier":1},
+  {"id":"holy-roman-empire-minor-states","name":"Holy Roman Empire Minor States","from":1260,"to":1271,"peak":0.11,"km2":9000,"tier":3}
+]}

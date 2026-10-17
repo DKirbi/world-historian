@@ -1,0 +1,10 @@
+{"lane": "netherlands", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"holy-roman-empire","name":"Holy Roman Empire","from":962,"to":1259,"peak":0.97,"km2":36000,"tier":1},
+  {"id":"holy-roman-empire-minor-states","name":"Holy Roman Empire Minor States","from":1260,"to":1578,"peak":0.65,"km2":24000,"tier":1},
+  {"id":"county-of-holland","name":"County of Holland","from":1260,"to":1362,"peak":0.16,"km2":6000,"tier":3},
+  {"id":"county-of-brabant","name":"County of Brabant","from":1260,"to":1430,"peak":0.14,"km2":5000,"tier":3}
+],
+ "events":[
+  {"id":"Q2119849","name":"Battle of Vlaardingen","year":1018,"type":"battle","links":12,"by":"location","wiki":"Battle of Vlaardingen"}
+]}

@@ -1,0 +1,19 @@
+{"lane": "belgium", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"county-of-flanders","name":"County of Flanders","from":990,"to":1384,"peak":0.39,"km2":12000,"tier":2},
+  {"id":"kingdom-of-france","name":"Kingdom of France","from":1188,"to":1421,"peak":0.4,"km2":12000,"tier":2,"realm":true},
+  {"id":"holy-roman-empire-minor-states","name":"Holy Roman Empire Minor States","from":1260,"to":1672,"peak":0.44,"km2":14000,"tier":2},
+  {"id":"county-of-brabant","name":"County of Brabant","from":1260,"to":1430,"peak":0.43,"km2":13000,"tier":2},
+  {"id":"house-of-luxembourg","name":"House of Luxembourg","from":1260,"to":1414,"peak":0.17,"km2":5000,"tier":3},
+  {"id":"county-of-holland","name":"County of Holland","from":1305,"to":1362,"peak":0.1,"km2":3000,"tier":3},
+  {"id":"duchy-of-bavaria","name":"Duchy of Bavaria","from":1363,"to":1449,"peak":0.27,"km2":8000,"tier":2},
+  {"id":"duchy-of-burgundy-1385","name":"Duchy of Burgundy","from":1385,"to":1481,"peak":0.82,"km2":25000,"tier":1},
+  {"id":"duchy-of-luxembourg","name":"Duchy of Luxembourg","from":1429,"to":1449,"peak":0.17,"km2":5000,"tier":3},
+  {"id":"kingdom-of-france","name":"Kingdom of France","from":1440,"to":1481,"peak":0.83,"km2":25000,"tier":1,"realm":true},
+  {"id":"house-of-habsburg","name":"House of Habsburg","from":1482,"to":1486,"peak":0.82,"km2":25000,"tier":1},
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1487,"to":1506,"peak":0.82,"km2":25000,"tier":1}
+],
+ "events":[
+  {"id":"Q44732","name":"Battle of the Golden Spurs","year":1302,"type":"battle","links":40,"by":"coordinates","wiki":"Battle of the Golden Spurs"},
+  {"id":"Q1651134","name":"Battle of Roosebeke","year":1382,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Roosebeke"}
+]}

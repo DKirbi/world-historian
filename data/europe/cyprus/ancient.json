@@ -1,0 +1,4 @@
+{"lane": "cyprus", "period": "ancient", "years": [-3400, -801], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"greek-dark-ages","name":"Greek Dark Ages","from":-1000,"to":-801,"peak":1.0,"km2":9000,"tier":1}
+]}

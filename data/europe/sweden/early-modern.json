@@ -1,0 +1,23 @@
+{"lane": "sweden", "period": "early-modern", "years": [1492, 1788], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kalmar-union","name":"Kalmar Union","from":1402,"to":1525,"peak":1.0,"km2":444000,"tier":1,"realm":true},
+  {"id":"kingdom-of-sweden-1502","name":"Kingdom of Sweden","from":1502,"to":1520,"peak":0.48,"km2":215000,"tier":2},
+  {"id":"kingdom-of-sweden-1502","name":"Kingdom of Sweden","from":1526,"to":1611,"peak":0.92,"km2":411000,"tier":1},
+  {"id":"denmark-norway","name":"Denmark-Norway","from":1526,"to":1658,"peak":0.19,"km2":86000,"tier":3},
+  {"id":"swedish-empire","name":"Swedish Empire","from":1612,"to":1814,"peak":1.0,"km2":444000,"tier":1}
+],
+ "events":[
+  {"id":"Q688308","name":"Swedish War of Liberation","year":1521,"type":"rebellion","links":30,"by":"location","to":1523,"wiki":"Swedish War of Liberation"},
+  {"id":"Q158677","name":"Northern Seven Years' War","year":1563,"type":"war","links":37,"by":"location","to":1570,"wiki":"Northern Seven Years' War"},
+  {"id":"Q371409","name":"Battle of Stångebro","year":1598,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Stångebro"},
+  {"id":"Q2138526","name":"Treaty of Knäred","year":1613,"type":"treaty","links":16,"by":"country","wiki":"Treaty of Knäred"},
+  {"id":"Q850497","name":"Second Treaty of Brömsebro","year":1645,"type":"treaty","links":24,"by":"location","wiki":"Treaty of Brömsebro (1645)"},
+  {"id":"Q166001","name":"Scanian War","year":1675,"type":"war","links":34,"by":"location","to":1679,"wiki":"Scanian War"},
+  {"id":"Q1536103","name":"Battle of Lund","year":1676,"type":"battle","links":19,"by":"coordinates","wiki":"Battle of Lund"},
+  {"id":"Q736140","name":"Battle of Öland","year":1676,"type":"battle","links":17,"by":"coordinates","wiki":"Battle of Öland"},
+  {"id":"Q652359","name":"Peace of Lund","year":1679,"type":"treaty","links":15,"by":"location","wiki":"Peace of Lund"},
+  {"id":"Q705409","name":"Battle of Helsingborg","year":1710,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Helsingborg"},
+  {"id":"Q1844815","name":"Battle of Dynekilen","year":1716,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Dynekilen"},
+  {"id":"Q700067","name":"Treaties of Stockholm","year":1719,"type":"treaty","links":19,"by":"location","wiki":"Treaties of Stockholm (Great Northern War)"},
+  {"id":"Q10511142","name":"Revolution of 1772","year":1772,"type":"coup","links":13,"by":"country","wiki":"Revolution of 1772"}
+]}

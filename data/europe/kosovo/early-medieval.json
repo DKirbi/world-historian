@@ -1,0 +1,5 @@
+{"lane": "kosovo", "period": "early-medieval", "years": [476, 999], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":395,"to":629,"peak":1.0,"km2":11000,"tier":1},
+  {"id":"first-bulgarian-empire","name":"First Bulgarian Empire","from":850,"to":1017,"peak":1.0,"km2":11000,"tier":1}
+]}

@@ -1,0 +1,16 @@
+{"lane": "luxembourg", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1706,"to":1793,"peak":0.87,"km2":2000,"tier":1},
+  {"id":"french-first-republic","name":"French First Republic","from":1794,"to":1795,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"french-directory","name":"French Directory","from":1796,"to":1799,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"french-consulate","name":"French Consulate","from":1800,"to":1804,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"first-french-empire","name":"First French Empire","from":1805,"to":1813,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"grand-duchy-of-berg","name":"Grand Duchy of Berg","from":1814,"to":1814,"peak":0.92,"km2":2000,"tier":1},
+  {"id":"netherlands","name":"Netherlands","from":1815,"to":1833,"peak":0.86,"km2":2000,"tier":1},
+  {"id":"kingdom-of-belgium","name":"Kingdom of Belgium","from":1834,"to":1839,"peak":0.86,"km2":2000,"tier":1},
+  {"id":"netherlands","name":"Netherlands","from":1840,"to":1916,"peak":0.83,"km2":2000,"tier":1},
+  {"id":"luxembourg","name":"Luxembourg","from":1890,"to":1914,"peak":0.83,"km2":2000,"tier":1}
+],
+ "events":[
+  {"id":"Q904495","name":"Siege of Luxembourg","year":1794,"type":"siege","links":13,"by":"coordinates","to":1795,"wiki":"Siege of Luxembourg (1794–1795)"}
+]}

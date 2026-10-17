@@ -1,0 +1,10 @@
+{"lane": "isle-of-man", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"viking-settlements","name":"Viking settlements","from":1018,"to":1325,"peak":0.77,"km2":400,"tier":1},
+  {"id":"kingdom-of-scotland","name":"Kingdom of Scotland","from":1294,"to":1304,"peak":0.77,"km2":400,"tier":1},
+  {"id":"kingdom-of-england","name":"Kingdom of England","from":1305,"to":1313,"peak":0.77,"km2":400,"tier":1},
+  {"id":"kingdom-of-scotland","name":"Kingdom of Scotland","from":1314,"to":1474,"peak":0.77,"km2":400,"tier":1},
+  {"id":"kingdom-of-england","name":"Kingdom of England","from":1326,"to":1332,"peak":0.77,"km2":400,"tier":1},
+  {"id":"isle-of-man","name":"Isle of Man","from":1344,"to":1401,"peak":0.77,"km2":400,"tier":1},
+  {"id":"kingdom-of-england","name":"Kingdom of England","from":1402,"to":1644,"peak":0.77,"km2":400,"tier":1}
+]}

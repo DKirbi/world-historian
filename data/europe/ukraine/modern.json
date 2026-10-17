@@ -1,0 +1,16 @@
+{"lane": "ukraine", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"polish-lithuanian-commonwealth","name":"Polish-Lithuanian Commonwealth","from":1713,"to":1791,"peak":0.36,"km2":207000,"tier":2},
+  {"id":"russian-empire","name":"Russian Empire","from":1721,"to":1916,"peak":0.96,"km2":550000,"tier":1},
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1772,"to":1805,"peak":0.12,"km2":67000,"tier":3},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1775,"to":1790,"peak":0.06,"km2":35000,"tier":3},
+  {"id":"austrian-empire","name":"Austrian Empire","from":1806,"to":1867,"peak":0.11,"km2":64000,"tier":3},
+  {"id":"austria-hungary","name":"Austria-Hungary","from":1868,"to":1918,"peak":0.14,"km2":79000,"tier":3}
+],
+ "events":[
+  {"id":"Q2372093","name":"Siege of Izmail","year":1790,"type":"siege","links":17,"by":"location","wiki":"Siege of Izmail"},
+  {"id":"Q2628049","name":"Battle of Zieleńce","year":1792,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Zieleńce"},
+  {"id":"Q1993653","name":"Akkerman Convention","year":1826,"type":"treaty","links":32,"by":"coordinates","wiki":"Akkerman Convention"},
+  {"id":"Q4132516","name":"Galician Peasant Uprising of 1846","year":1846,"type":"rebellion","links":16,"by":"location","wiki":"Galician peasant uprising of 1846"},
+  {"id":"Q2986186","name":"Battle of Kinburn","year":1855,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Kinburn (1855)"}
+]}

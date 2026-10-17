@@ -1,0 +1,15 @@
+{"lane": "belarus", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"grand-duchy-of-lithuania","name":"Grand Duchy of Lithuania","from":1250,"to":1449,"peak":0.99,"km2":206000,"tier":1},
+  {"id":"principality-of-minsk","name":"Principality of Minsk","from":1260,"to":1313,"peak":0.4,"km2":82000,"tier":2},
+  {"id":"principality-of-turov","name":"Principality of Turov","from":1294,"to":1325,"peak":0.14,"km2":29000,"tier":3},
+  {"id":"principality-of-smolensk-1294","name":"Principality of Smolensk","from":1294,"to":1362,"peak":0.13,"km2":27000,"tier":3},
+  {"id":"principality-of-pinsk","name":"Principality of Pinsk","from":1294,"to":1325,"peak":0.13,"km2":27000,"tier":3},
+  {"id":"galicia-volhynia","name":"Galicia-Volhynia","from":1294,"to":1325,"peak":0.07,"km2":16000,"tier":3},
+  {"id":"polish-lithuania-kingdom","name":"Polish-Lithuania Kingdom","from":1395,"to":1449,"peak":1.0,"km2":208000,"tier":1,"realm":true},
+  {"id":"house-of-jagiellon","name":"House of Jagiellon","from":1450,"to":1571,"peak":1.0,"km2":208000,"tier":1}
+],
+ "events":[
+  {"id":"Q1121044","name":"Union of Krewo","year":1385,"type":"treaty","links":30,"by":"location","wiki":"Union of Krewo"},
+  {"id":"Q1028238","name":"Union of Grodno","year":1432,"type":"treaty","links":12,"by":"location","wiki":"Union of Grodno (1432)"}
+]}

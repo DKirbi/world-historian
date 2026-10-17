@@ -1,0 +1,15 @@
+{"lane": "netherlands", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"holy-roman-empire-minor-states","name":"Holy Roman Empire Minor States","from":1260,"to":1578,"peak":0.65,"km2":24000,"tier":1},
+  {"id":"county-of-holland","name":"County of Holland","from":1260,"to":1362,"peak":0.16,"km2":6000,"tier":3},
+  {"id":"county-of-brabant","name":"County of Brabant","from":1260,"to":1430,"peak":0.14,"km2":5000,"tier":3},
+  {"id":"duchy-of-bavaria","name":"Duchy of Bavaria","from":1363,"to":1449,"peak":0.16,"km2":6000,"tier":3},
+  {"id":"duchy-of-burgundy-1385","name":"Duchy of Burgundy","from":1431,"to":1481,"peak":0.45,"km2":17000,"tier":2},
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1487,"to":1506,"peak":0.45,"km2":17000,"tier":2}
+],
+ "events":[
+  {"id":"Q2237447","name":"Battle of Cadzand","year":1337,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Cadzand"},
+  {"id":"Q1523324","name":"Battle of Arnemuiden","year":1338,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Arnemuiden"},
+  {"id":"Q871366","name":"Battle of Sluys","year":1340,"type":"battle","links":39,"by":"coordinates","wiki":"Battle of Sluys"},
+  {"id":"Q1758572","name":"Hook and Cod Wars","year":1350,"type":"war","links":15,"by":"location","to":1490,"wiki":"Hook and Cod wars"}
+]}

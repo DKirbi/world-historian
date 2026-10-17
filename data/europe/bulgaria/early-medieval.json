@@ -1,0 +1,18 @@
+{"lane": "bulgaria", "period": "early-medieval", "years": [476, 999], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":395,"to":632,"peak":0.99,"km2":111000,"tier":1},
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":633,"to":1205,"peak":0.99,"km2":111000,"tier":1},
+  {"id":"first-bulgarian-empire","name":"First Bulgarian Empire","from":682,"to":1014,"peak":0.91,"km2":102000,"tier":1},
+  {"id":"kievan-rus","name":"Kievan Rus'","from":970,"to":979,"peak":0.36,"km2":40000,"tier":2}
+],
+ "events":[
+  {"id":"Q892169","name":"Battle of the Utus","year":477,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of the Utus"},
+  {"id":"Q602880","name":"Battle of Anchialus","year":708,"type":"battle","links":23,"by":"coordinates","wiki":"Battle of Anchialus (708)"},
+  {"id":"Q3621804","name":"Battle of Marcellae","year":756,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Marcellae (756)"},
+  {"id":"Q1375800","name":"Battle of the Rishki Pass","year":759,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of the Rishki Pass"},
+  {"id":"Q966312","name":"Battle of Anchialus","year":763,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Anchialus (763)"},
+  {"id":"Q1578852","name":"Battle of Marcellae","year":792,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Marcellae"},
+  {"id":"Q403416","name":"Battle of Pliska","year":811,"type":"battle","links":30,"by":"coordinates","wiki":"Battle of Pliska"},
+  {"id":"Q658731","name":"Battle of Achelous","year":917,"type":"battle","links":24,"by":"coordinates","wiki":"Battle of Achelous (917)"},
+  {"id":"Q2292026","name":"Battle of the Gates of Trajan","year":986,"type":"battle","links":21,"by":"coordinates","wiki":"Battle of the Gates of Trajan"}
+]}

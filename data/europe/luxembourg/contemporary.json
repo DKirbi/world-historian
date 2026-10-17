@@ -1,0 +1,17 @@
+{"lane": "luxembourg", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"netherlands","name":"Netherlands","from":1840,"to":1916,"peak":0.83,"km2":2000,"tier":1},
+  {"id":"luxembourg","name":"Luxembourg","from":1890,"to":1914,"peak":0.83,"km2":2000,"tier":1},
+  {"id":"german-empire","name":"German Empire","from":1915,"to":1918,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"luxembourg","name":"Luxembourg","from":1919,"to":1939,"peak":0.84,"km2":2000,"tier":1},
+  {"id":"nazi-germany","name":"Nazi Germany","from":1940,"to":1944,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"luxembourg","name":"Luxembourg","from":1945,"to":2024,"peak":0.83,"km2":2000,"tier":1}
+],
+ "events":[
+  {"id":"Q13435464","name":"German invasion of Luxembourg","year":1940,"type":"invasion","links":25,"by":"location","wiki":"German invasion of Luxembourg"},
+  {"id":"Q660521","name":"Reparations Agreement between Israel and West Germany","year":1952,"type":"treaty","links":20,"by":"location","wiki":"Reparations Agreement between Israel and the Federal Republic of Germany"},
+  {"id":"Q695398","name":"Saar Treaty","year":1956,"type":"treaty","links":17,"by":"location","wiki":"Saar Treaty"},
+  {"id":"Q1418500","name":"Luxembourg compromise","year":1966,"type":"treaty","links":19,"by":"location","wiki":"Luxembourg compromise"},
+  {"id":"Q622649","name":"Single European Act","year":1986,"type":"treaty","links":45,"by":"coordinates","wiki":"Single European Act"},
+  {"id":"Q746993","name":"Treaty of Accession 2005","year":2005,"type":"treaty","links":17,"by":"location","wiki":"Treaty of Accession 2005"}
+]}

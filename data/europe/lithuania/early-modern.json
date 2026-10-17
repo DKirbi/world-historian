@@ -1,0 +1,11 @@
+{"lane": "lithuania", "period": "early-modern", "years": [1492, 1788], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"house-of-jagiellon","name":"House of Jagiellon","from":1450,"to":1571,"peak":0.96,"km2":62000,"tier":1},
+  {"id":"polish-lithuanian-commonwealth","name":"Polish-Lithuanian Commonwealth","from":1572,"to":1705,"peak":0.96,"km2":62000,"tier":1},
+  {"id":"pro-swedish-poland","name":"Pro-Swedish Poland","from":1706,"to":1712,"peak":0.96,"km2":62000,"tier":1},
+  {"id":"polish-lithuanian-commonwealth","name":"Polish-Lithuanian Commonwealth","from":1713,"to":1793,"peak":0.96,"km2":62000,"tier":1}
+],
+ "events":[
+  {"id":"Q653379","name":"Union of Kraków and Vilna","year":1499,"type":"treaty","links":13,"by":"location","wiki":"Union of Kraków and Vilna"},
+  {"id":"Q1267481","name":"Treaty of Vilnius","year":1561,"type":"treaty","links":15,"by":"location","wiki":"Treaty of Vilnius (1561)"}
+]}

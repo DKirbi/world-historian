@@ -1,0 +1,15 @@
+{"lane": "bulgaria", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":633,"to":1205,"peak":0.99,"km2":111000,"tier":1},
+  {"id":"first-bulgarian-empire","name":"First Bulgarian Empire","from":682,"to":1014,"peak":0.91,"km2":102000,"tier":1},
+  {"id":"second-bulgarian-empire","name":"Second Bulgarian Empire","from":1188,"to":1394,"peak":0.99,"km2":111000,"tier":1},
+  {"id":"latin-empire","name":"Latin Empire","from":1210,"to":1226,"peak":0.24,"km2":27000,"tier":2},
+  {"id":"nicaean-empire","name":"Nicaean Empire","from":1250,"to":1278,"peak":0.28,"km2":31000,"tier":2},
+  {"id":"byzantine-empire-1279","name":"Byzantine Empire","from":1279,"to":1374,"peak":0.27,"km2":31000,"tier":2}
+],
+ "events":[
+  {"id":"Q584047","name":"Battle of Kleidion","year":1014,"type":"battle","links":35,"by":"coordinates","wiki":"Battle of Kleidion"},
+  {"id":"Q153702","name":"Battle of Beroia","year":1122,"type":"battle","links":19,"by":"coordinates","wiki":"Battle of Beroia"},
+  {"id":"Q3544429","name":"Bulgarian–Latin Wars","year":1204,"type":"war","links":14,"by":"location","wiki":"Bulgarian–Latin wars"},
+  {"id":"Q1459494","name":"Battle of Klokotnitsa","year":1230,"type":"battle","links":21,"by":"coordinates","wiki":"Battle of Klokotnitsa"}
+]}

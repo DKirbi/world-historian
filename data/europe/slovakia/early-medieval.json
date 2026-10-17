@@ -1,0 +1,13 @@
+{"lane": "slovakia", "period": "early-medieval", "years": [476, 999], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"samo-s-empire","name":"Samo's Empire","from":623,"to":660,"peak":0.67,"km2":33000,"tier":1},
+  {"id":"principality-of-nitra","name":"Principality of Nitra","from":814,"to":839,"peak":0.5,"km2":24000,"tier":1},
+  {"id":"great-moravia","name":"Great Moravia","from":840,"to":897,"peak":1.0,"km2":48000,"tier":1},
+  {"id":"magyars","name":"Magyars","from":896,"to":910,"peak":0.43,"km2":21000,"tier":2},
+  {"id":"nitra","name":"Nitra","from":898,"to":910,"peak":0.51,"km2":24000,"tier":1},
+  {"id":"principality-of-hungary","name":"Principality of Hungary","from":911,"to":999,"peak":0.95,"km2":46000,"tier":1},
+  {"id":"duchy-of-bohemia","name":"Duchy of Bohemia","from":960,"to":989,"peak":0.06,"km2":3000,"tier":3}
+],
+ "events":[
+  {"id":"Q697722","name":"Battle of Pressburg","year":907,"type":"battle","links":25,"by":"location","wiki":"Battle of Pressburg"}
+]}

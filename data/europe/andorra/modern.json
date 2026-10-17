@@ -1,0 +1,6 @@
+{"lane": "andorra", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"county-of-urgell","name":"County of Urgell","from":1279,"to":1808,"peak":0.65,"km2":300,"tier":1},
+  {"id":"first-french-empire","name":"First French Empire","from":1809,"to":1814,"peak":1.0,"km2":400,"tier":1},
+  {"id":"principality-of-andorra","name":"Principality of Andorra","from":1815,"to":2024,"peak":0.65,"km2":300,"tier":1}
+]}

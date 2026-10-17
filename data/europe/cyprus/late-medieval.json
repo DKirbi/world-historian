@@ -1,0 +1,4 @@
+{"lane": "cyprus", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-cyprus","name":"Kingdom of Cyprus","from":1192,"to":1491,"peak":1.0,"km2":9000,"tier":1}
+]}

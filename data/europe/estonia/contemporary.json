@@ -1,0 +1,20 @@
+{"lane": "estonia", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"russian-empire","name":"Russian Empire","from":1721,"to":1916,"peak":0.99,"km2":45000,"tier":1},
+  {"id":"german-empire","name":"German Empire","from":1917,"to":1918,"peak":0.96,"km2":44000,"tier":1},
+  {"id":"russian-republic","name":"Russian Republic","from":1917,"to":1917,"peak":0.91,"km2":42000,"tier":1},
+  {"id":"estonia","name":"Estonia","from":1919,"to":1939,"peak":0.96,"km2":44000,"tier":1},
+  {"id":"union-of-soviet-socialist-republics","name":"Union of Soviet Socialist Republics","from":1940,"to":1941,"peak":0.99,"km2":45000,"tier":1},
+  {"id":"nazi-germany","name":"Nazi Germany","from":1942,"to":1944,"peak":0.99,"km2":45000,"tier":1},
+  {"id":"union-of-soviet-socialist-republics","name":"Union of Soviet Socialist Republics","from":1945,"to":1991,"peak":0.99,"km2":45000,"tier":1},
+  {"id":"republic-of-estonia","name":"Republic of Estonia","from":1992,"to":2024,"peak":0.96,"km2":44000,"tier":1}
+],
+ "events":[
+  {"id":"Q871617","name":"Operation Albion","year":1917,"type":"battle","links":24,"by":"coordinates","wiki":"Operation Albion"},
+  {"id":"Q2237192","name":"Battle of Moon Sound","year":1917,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Moon Sound"},
+  {"id":"Q1720027","name":"Battle of Paju","year":1919,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Paju"},
+  {"id":"Q620854","name":"Treaty of Tartu","year":1920,"type":"treaty","links":35,"by":"location","wiki":"Treaty of Tartu (Finland–Russia)"},
+  {"id":"Q2602809","name":"1924 Estonian coup d'état attempt","year":1924,"type":"coup","links":21,"by":"coordinates","wiki":"1924 Estonian coup attempt"},
+  {"id":"Q2032413","name":"Orzeł incident","year":1939,"type":"battle","links":14,"by":"location","wiki":"Orzeł incident"},
+  {"id":"Q2026904","name":"Battle of Tannenberg Line","year":1944,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Tannenberg Line"}
+]}

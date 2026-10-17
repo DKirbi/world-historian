@@ -1,0 +1,8 @@
+{"lane": "finland", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"novgorod-republic","name":"Novgorod Republic","from":1056,"to":1240,"peak":0.07,"km2":23000,"tier":3},
+  {"id":"kingdom-of-sweden-980","name":"Kingdom of Sweden","from":1250,"to":1401,"peak":0.47,"km2":156000,"tier":2}
+],
+ "events":[
+  {"id":"Q3433771","name":"Second Swedish Crusade","year":1249,"type":"campaign","links":18,"by":"location","to":1250,"wiki":"Second Swedish Crusade"}
+]}

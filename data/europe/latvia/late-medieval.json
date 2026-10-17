@@ -1,0 +1,6 @@
+{"lane": "latvia", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"holy-roman-empire","name":"Holy Roman Empire","from":1241,"to":1421,"peak":0.68,"km2":44000,"tier":1,"realm":true},
+  {"id":"teutonic-order","name":"Teutonic Order","from":1241,"to":1421,"peak":0.68,"km2":44000,"tier":1},
+  {"id":"livonian-conference","name":"Livonian Conference","from":1422,"to":1563,"peak":0.98,"km2":63000,"tier":1}
+]}

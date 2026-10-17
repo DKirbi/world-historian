@@ -1,0 +1,13 @@
+{"lane": "hungary", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1556,"to":1805,"peak":1.0,"km2":93000,"tier":1},
+  {"id":"austrian-empire","name":"Austrian Empire","from":1806,"to":1848,"peak":1.0,"km2":93000,"tier":1},
+  {"id":"hungarian-nationalists-1849","name":"Hungarian Nationalists","from":1849,"to":1852,"peak":1.0,"km2":93000,"tier":1},
+  {"id":"austrian-empire","name":"Austrian Empire","from":1853,"to":1867,"peak":1.0,"km2":93000,"tier":1},
+  {"id":"austria-hungary","name":"Austria-Hungary","from":1868,"to":1918,"peak":1.0,"km2":93000,"tier":1}
+],
+ "events":[
+  {"id":"Q897933","name":"Battle of Raab","year":1809,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Raab (1809)"},
+  {"id":"Q473716","name":"Hungarian Revolution of 1848","year":1848,"type":"revolution","links":58,"by":"location","to":1849,"wiki":"Hungarian Revolution of 1848"},
+  {"id":"Q169491","name":"Budapest Convention 1877","year":1877,"type":"treaty","links":15,"by":"location","wiki":"Budapest Convention of 1877"}
+]}

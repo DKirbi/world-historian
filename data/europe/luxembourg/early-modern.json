@@ -1,0 +1,16 @@
+{"lane": "luxembourg", "period": "early-modern", "years": [1492, 1788], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1487,"to":1506,"peak":0.88,"km2":2000,"tier":1},
+  {"id":"house-of-habsburg","name":"House of Habsburg","from":1507,"to":1515,"peak":0.88,"km2":2000,"tier":1},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1516,"to":1528,"peak":0.88,"km2":2000,"tier":1,"realm":true},
+  {"id":"kingdom-of-spain-1516","name":"Kingdom of Spain","from":1516,"to":1528,"peak":0.88,"km2":2000,"tier":1},
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1529,"to":1555,"peak":0.88,"km2":2000,"tier":1},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1556,"to":1686,"peak":0.88,"km2":2000,"tier":1,"realm":true},
+  {"id":"kingdom-of-spain-1516","name":"Kingdom of Spain","from":1556,"to":1581,"peak":0.87,"km2":2000,"tier":1},
+  {"id":"iberian-union","name":"Iberian Union","from":1582,"to":1639,"peak":0.88,"km2":2000,"tier":1},
+  {"id":"kingdom-of-spain-1640","name":"Kingdom of Spain","from":1640,"to":1690,"peak":0.87,"km2":2000,"tier":1},
+  {"id":"kingdom-of-france","name":"Kingdom of France","from":1687,"to":1699,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1700,"to":1705,"peak":0.87,"km2":2000,"tier":1,"realm":true},
+  {"id":"kingdom-of-spain-1640","name":"Kingdom of Spain","from":1700,"to":1705,"peak":0.87,"km2":2000,"tier":1},
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1706,"to":1793,"peak":0.87,"km2":2000,"tier":1}
+]}

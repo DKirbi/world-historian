@@ -1,0 +1,6 @@
+{"lane": "luxembourg", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"holy-roman-empire","name":"Holy Roman Empire","from":962,"to":1259,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"house-of-luxembourg","name":"House of Luxembourg","from":1260,"to":1414,"peak":0.88,"km2":2000,"tier":1},
+  {"id":"holy-roman-empire-minor-states","name":"Holy Roman Empire Minor States","from":1294,"to":1414,"peak":1.0,"km2":3000,"tier":1}
+]}

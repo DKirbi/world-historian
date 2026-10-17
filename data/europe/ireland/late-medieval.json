@@ -1,0 +1,6 @@
+{"lane": "ireland", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"viking-settlements","name":"Viking settlements","from":850,"to":1325,"peak":0.11,"km2":8000,"tier":3},
+  {"id":"kingdom-of-england","name":"Kingdom of England","from":1210,"to":1652,"peak":0.99,"km2":68000,"tier":1},
+  {"id":"earldom-of-desmond","name":"Earldom of Desmond","from":1352,"to":1458,"peak":0.27,"km2":19000,"tier":2}
+]}

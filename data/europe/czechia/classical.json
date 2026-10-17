@@ -1,0 +1,4 @@
+{"lane": "czechia", "period": "classical", "years": [-800, 475], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"hunnic-empire","name":"Hunnic Empire","from":451,"to":454,"peak":1.0,"km2":79000,"tier":1}
+]}

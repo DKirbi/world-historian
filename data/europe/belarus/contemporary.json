@@ -1,0 +1,27 @@
+{"lane": "belarus", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"russian-empire","name":"Russian Empire","from":1772,"to":1916,"peak":1.0,"km2":208000,"tier":1},
+  {"id":"german-empire","name":"German Empire","from":1916,"to":1918,"peak":0.49,"km2":103000,"tier":2},
+  {"id":"russian-republic","name":"Russian Republic","from":1917,"to":1917,"peak":0.82,"km2":170000,"tier":1},
+  {"id":"second-polish-republic","name":"Second Polish Republic","from":1919,"to":1939,"peak":0.37,"km2":77000,"tier":2},
+  {"id":"republics-of-the-soviet-union","name":"Republics of the Soviet Union","from":1920,"to":1921,"peak":0.62,"km2":129000,"tier":1},
+  {"id":"union-of-soviet-socialist-republics","name":"Union of Soviet Socialist Republics","from":1922,"to":1941,"peak":1.0,"km2":208000,"tier":1},
+  {"id":"nazi-germany","name":"Nazi Germany","from":1942,"to":1944,"peak":1.0,"km2":208000,"tier":1},
+  {"id":"union-of-soviet-socialist-republics","name":"Union of Soviet Socialist Republics","from":1944,"to":1991,"peak":1.0,"km2":208000,"tier":1},
+  {"id":"republic-of-belarus","name":"Republic of Belarus","from":1992,"to":2024,"peak":0.98,"km2":204000,"tier":1}
+],
+ "events":[
+  {"id":"Q4077792","name":"Baranovichi Offensive","year":1916,"type":"battle","links":13,"by":"location","wiki":"Baranovichi offensive"},
+  {"id":"Q122371","name":"Treaty of Brest-Litovsk","year":1918,"type":"treaty","links":70,"by":"coordinates","wiki":"Treaty of Brest-Litovsk"},
+  {"id":"Q179001","name":"Treaty of Brest-Litovsk","year":1918,"type":"treaty","links":25,"by":"location","wiki":"Treaty of Brest-Litovsk (Ukraine–Central Powers)"},
+  {"id":"Q2026080","name":"Operation Faustschlag","year":1918,"type":"battle","links":23,"by":"location","wiki":"Operation Faustschlag"},
+  {"id":"Q2599728","name":"Battle of the Niemen River","year":1920,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of the Niemen River"},
+  {"id":"Q2305266","name":"Soviet invasion of Poland","year":1939,"type":"invasion","links":55,"by":"coordinates","wiki":"Soviet invasion of Poland"},
+  {"id":"Q694416","name":"Battle of Brześć Litewski","year":1939,"type":"siege","links":13,"by":"coordinates","wiki":"Battle of Brześć Litewski"},
+  {"id":"Q327061","name":"Battle of Białystok–Minsk","year":1941,"type":"battle","links":36,"by":"location","wiki":"Battle of Białystok–Minsk"},
+  {"id":"Q611789","name":"Defense of Brest Fortress","year":1941,"type":"siege","links":30,"by":"coordinates","wiki":"Defense of Brest Fortress"},
+  {"id":"Q2341305","name":"Battle of Lenino","year":1943,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Lenino"},
+  {"id":"Q76986","name":"Belovezh Accords","year":1991,"type":"treaty","links":43,"by":"coordinates","wiki":"Belovezha Accords"},
+  {"id":"Q18001626","name":"Minsk Protocol","year":2014,"type":"treaty","links":29,"by":"location","wiki":"Minsk Protocol"},
+  {"id":"Q19249259","name":"Minsk II","year":2015,"type":"treaty","links":26,"by":"location","wiki":"Minsk II"}
+]}

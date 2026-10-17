@@ -1,0 +1,30 @@
+{"lane": "greece", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1375,"to":1911,"peak":0.85,"km2":111000,"tier":1},
+  {"id":"septinsular-republic","name":"Septinsular Republic","from":1800,"to":1819,"peak":0.01,"km2":2000,"tier":3,"inside":true},
+  {"id":"first-hellenic-republic","name":"First Hellenic Republic","from":1822,"to":1940,"peak":0.85,"km2":110000,"tier":1},
+  {"id":"cretan-state","name":"Cretan State","from":1898,"to":1907,"peak":0.04,"km2":5000,"tier":3,"inside":true}
+],
+ "events":[
+  {"id":"Q2659098","name":"Battle of Athos","year":1807,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Athos"},
+  {"id":"Q2570192","name":"Battle of Alamana","year":1821,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Alamana"},
+  {"id":"Q2577392","name":"Battle of Gravia Inn","year":1821,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Gravia Inn"},
+  {"id":"Q2590023","name":"Siege of Tripolitsa","year":1821,"type":"siege","links":12,"by":"coordinates","wiki":"Siege of Tripolitsa"},
+  {"id":"Q2889730","name":"Battle of Peta","year":1822,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Peta"},
+  {"id":"Q5601911","name":"Greek civil wars of 1823–1825","year":1823,"type":"war","links":12,"by":"location","to":1825,"wiki":"Greek civil wars of 1823–1825"},
+  {"id":"Q2672355","name":"Destruction of Psara","year":1824,"type":"battle","links":16,"by":"coordinates","wiki":"Destruction of Psara"},
+  {"id":"Q650567","name":"Third Siege of Missolonghi","year":1825,"type":"siege","links":15,"by":"coordinates","to":1826,"wiki":"Third siege of Missolonghi"},
+  {"id":"Q82703","name":"Battle of Arachova","year":1826,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Arachova"},
+  {"id":"Q238440","name":"Battle of Navarino","year":1827,"type":"battle","links":43,"by":"coordinates","wiki":"Battle of Navarino"},
+  {"id":"Q1147833","name":"Morea expedition","year":1828,"type":"campaign","links":14,"by":"location","to":1833,"wiki":"Morea expedition"},
+  {"id":"Q2584397","name":"3 September 1843 Revolution","year":1843,"type":"coup","links":17,"by":"location","wiki":"3 September 1843 Revolution"},
+  {"id":"Q657055","name":"Greco-Turkish War of 1897","year":1897,"type":"war","links":40,"by":"location","wiki":"Greco-Turkish War (1897)"},
+  {"id":"Q2888423","name":"Battle of Domokos","year":1897,"type":"battle","links":13,"by":"location","wiki":"Battle of Domokos"},
+  {"id":"Q1145682","name":"Ilinden–Preobrazhenie Uprising","year":1903,"type":"rebellion","links":42,"by":"location","wiki":"Ilinden–Preobrazhenie Uprising"},
+  {"id":"Q760023","name":"Goudi coup","year":1909,"type":"coup","links":16,"by":"coordinates","wiki":"Goudi coup"},
+  {"id":"Q765175","name":"Battle of Yenidje","year":1912,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Yenidje"},
+  {"id":"Q2889946","name":"Battle of Sarantaporo","year":1912,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Sarantaporo"},
+  {"id":"Q604185","name":"Battle of Lemnos","year":1913,"type":"battle","links":15,"by":"location","wiki":"Battle of Lemnos (1913)"},
+  {"id":"Q2888162","name":"Battle of Bizani","year":1913,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Bizani"},
+  {"id":"Q7836972","name":"Treaty of Athens","year":1913,"type":"treaty","links":12,"by":"location","wiki":"Treaty of Athens"}
+]}

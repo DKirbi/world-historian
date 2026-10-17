@@ -1,0 +1,15 @@
+{"lane": "netherlands", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"dutch-republic","name":"Dutch Republic","from":1582,"to":1795,"peak":0.91,"km2":34000,"tier":1},
+  {"id":"batavian-republic","name":"Batavian Republic","from":1796,"to":1810,"peak":0.87,"km2":32000,"tier":1},
+  {"id":"first-french-empire","name":"First French Empire","from":1805,"to":1813,"peak":0.97,"km2":36000,"tier":1},
+  {"id":"sovereign-principality-of-the-united-netherlands","name":"Sovereign Principality of the United Netherlands","from":1814,"to":1814,"peak":0.86,"km2":32000,"tier":1},
+  {"id":"netherlands","name":"Netherlands","from":1815,"to":1939,"peak":0.94,"km2":35000,"tier":1}
+],
+ "events":[
+  {"id":"Q183447","name":"Capture of the Dutch fleet at Den Helder","year":1795,"type":"battle","links":13,"by":"coordinates","wiki":"Capture of the Dutch fleet at Den Helder"},
+  {"id":"Q370376","name":"Battle of Castricum","year":1799,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Castricum"},
+  {"id":"Q4141642","name":"Anglo-Russian invasion of Holland","year":1799,"type":"invasion","links":13,"by":"location","wiki":"Anglo-Russian invasion of Holland"},
+  {"id":"Q1080899","name":"Walcheren Campaign","year":1809,"type":"battle","links":17,"by":"location","wiki":"Walcheren Campaign"},
+  {"id":"Q751398","name":"International Opium Convention","year":1912,"type":"treaty","links":31,"by":"coordinates","wiki":"First International Opium Convention"}
+]}

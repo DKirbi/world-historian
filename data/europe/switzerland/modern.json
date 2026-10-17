@@ -1,0 +1,19 @@
+{"lane": "switzerland", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"swiss-confederation","name":"Swiss Confederation","from":1294,"to":1798,"peak":0.95,"km2":39000,"tier":1},
+  {"id":"helvetic-republic","name":"Helvetic Republic","from":1799,"to":1814,"peak":0.94,"km2":39000,"tier":1},
+  {"id":"swiss-confederation","name":"Swiss Confederation","from":1815,"to":2024,"peak":0.95,"km2":39000,"tier":1},
+  {"id":"kingdom-of-prussia","name":"Kingdom of Prussia","from":1815,"to":1833,"peak":0.01,"km2":1000,"tier":3,"inside":true}
+],
+ "events":[
+  {"id":"Q667080","name":"Peace of Basel","year":1795,"type":"treaty","links":32,"by":"country","wiki":"Peace of Basel"},
+  {"id":"Q1450451","name":"French invasion of Switzerland","year":1798,"type":"battle","links":12,"by":"location","to":1799,"wiki":"French invasion of Switzerland"},
+  {"id":"Q685798","name":"Battle of Winterthur","year":1799,"type":"battle","links":18,"by":"coordinates","wiki":"Battle of Winterthur"},
+  {"id":"Q233426","name":"Second Battle of Zurich","year":1799,"type":"battle","links":15,"by":"coordinates","wiki":"Second Battle of Zurich"},
+  {"id":"Q575973","name":"First Battle of Zurich","year":1799,"type":"battle","links":14,"by":"coordinates","wiki":"First Battle of Zurich"},
+  {"id":"Q688297","name":"Sonderbund War","year":1847,"type":"war","links":31,"by":"country","wiki":"Sonderbund War"},
+  {"id":"Q672743","name":"Treaty of Zürich","year":1859,"type":"treaty","links":17,"by":"location","wiki":"Treaty of Zürich"},
+  {"id":"Q610272","name":"Geneva Convention of 1864","year":1864,"type":"treaty","links":43,"by":"location","wiki":"First Geneva Convention"},
+  {"id":"Q2629126","name":"Treaty of Bern","year":1874,"type":"treaty","links":15,"by":"location","wiki":"Treaty of Bern"},
+  {"id":"Q217398","name":"Berne Convention for the Protection of Literary and Artistic Works","year":1886,"type":"treaty","links":60,"by":"coordinates","wiki":"Berne Convention"}
+]}

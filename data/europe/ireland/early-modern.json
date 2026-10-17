@@ -1,0 +1,20 @@
+{"lane": "ireland", "period": "early-modern", "years": [1492, 1788], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-england","name":"Kingdom of England","from":1210,"to":1652,"peak":0.99,"km2":68000,"tier":1},
+  {"id":"irish-catholic-confederation","name":"Irish Catholic Confederation","from":1642,"to":1652,"peak":0.7,"km2":48000,"tier":1},
+  {"id":"commonwealth-of-england","name":"Commonwealth of England","from":1648,"to":1661,"peak":0.99,"km2":68000,"tier":1},
+  {"id":"kingdom-of-england","name":"Kingdom of England","from":1662,"to":1708,"peak":0.99,"km2":68000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1709,"to":1921,"peak":0.99,"km2":68000,"tier":1,"realm":true},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1709,"to":1921,"peak":0.99,"km2":68000,"tier":1}
+],
+ "events":[
+  {"id":"Q1361354","name":"Nine Years' War","year":1593,"type":"war","links":18,"by":"location","to":1603,"wiki":"Nine Years' War (Ireland)"},
+  {"id":"Q491255","name":"Siege of Kinsale","year":1601,"type":"siege","links":14,"by":"coordinates","to":1602,"wiki":"Siege of Kinsale"},
+  {"id":"Q2577772","name":"Wars of the Three Kingdoms","year":1638,"type":"war","links":32,"by":"location","to":1651,"wiki":"Wars of the Three Kingdoms"},
+  {"id":"Q1461147","name":"Irish Rebellion of 1641","year":1641,"type":"rebellion","links":22,"by":"location","wiki":"Irish Rebellion of 1641"},
+  {"id":"Q1672808","name":"Irish Confederate Wars","year":1641,"type":"war","links":16,"by":"location","to":1653,"wiki":"Irish Confederate Wars"},
+  {"id":"Q152218","name":"Nine Years' War","year":1688,"type":"war","links":54,"by":"location","to":1697,"wiki":"Nine Years' War"},
+  {"id":"Q2320981","name":"Williamite War in Ireland","year":1689,"type":"war","links":27,"by":"location","to":1691,"wiki":"Williamite War in Ireland"},
+  {"id":"Q644960","name":"Battle of the Boyne","year":1690,"type":"battle","links":39,"by":"coordinates","wiki":"Battle of the Boyne"},
+  {"id":"Q1860162","name":"Treaty of Limerick","year":1691,"type":"treaty","links":14,"by":"country","wiki":"Treaty of Limerick"}
+]}

@@ -1,0 +1,5 @@
+{"lane": "norway", "period": "classical", "years": [-800, 475], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"norse","name":"Norse","from":184,"to":206,"peak":0.01,"km2":4000,"tier":3,"inside":true},
+  {"id":"norse","name":"Norse","from":402,"to":499,"peak":0.15,"km2":48000,"tier":3}
+]}

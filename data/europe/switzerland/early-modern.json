@@ -1,0 +1,16 @@
+{"lane": "switzerland", "period": "early-modern", "years": [1492, 1788], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"holy-roman-empire-minor-states","name":"Holy Roman Empire Minor States","from":1260,"to":1528,"peak":0.97,"km2":40000,"tier":1},
+  {"id":"swiss-confederation","name":"Swiss Confederation","from":1294,"to":1798,"peak":0.95,"km2":39000,"tier":1},
+  {"id":"county-of-savoy","name":"County of Savoy","from":1402,"to":1539,"peak":0.09,"km2":4000,"tier":3},
+  {"id":"duchy-of-milan","name":"Duchy of Milan","from":1453,"to":1501,"peak":0.08,"km2":3000,"tier":3}
+],
+ "events":[
+  {"id":"Q165136","name":"Swabian War","year":1499,"type":"war","links":32,"by":"coordinates","wiki":"Swabian War"},
+  {"id":"Q685164","name":"Treaty of Basel","year":1499,"type":"treaty","links":20,"by":"location","wiki":"Treaty of Basel (1499)"},
+  {"id":"Q251597","name":"Battle of Dornach","year":1499,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Dornach"},
+  {"id":"Q233594","name":"Second War of Kappel","year":1531,"type":"war","links":18,"by":"country","wiki":"Second War of Kappel"},
+  {"id":"Q870205","name":"Bündner Wirren","year":1618,"type":"war","links":12,"by":"location","to":1639,"wiki":"Bündner Wirren"},
+  {"id":"Q690096","name":"Toggenburg War","year":1712,"type":"war","links":12,"by":"location","wiki":"Toggenburg War"},
+  {"id":"Q688939","name":"Treaty of Baden","year":1714,"type":"treaty","links":23,"by":"location","wiki":"Treaty of Baden (1714)"}
+]}

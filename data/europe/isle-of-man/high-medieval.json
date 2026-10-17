@@ -1,0 +1,11 @@
+{"lane": "isle-of-man", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"old-kingdom-of-norway","name":"Old Kingdom of Norway","from":990,"to":1045,"peak":0.77,"km2":400,"tier":1},
+  {"id":"viking-settlements","name":"Viking settlements","from":1018,"to":1325,"peak":0.77,"km2":400,"tier":1},
+  {"id":"norway-denmark","name":"Norway-Denmark","from":1046,"to":1055,"peak":0.77,"km2":400,"tier":1},
+  {"id":"old-kingdom-of-norway","name":"Old Kingdom of Norway","from":1056,"to":1187,"peak":0.77,"km2":400,"tier":1},
+  {"id":"kingdom-of-the-isles","name":"Kingdom of the Isles","from":1085,"to":1176,"peak":0.77,"km2":400,"tier":1},
+  {"id":"kingdom-of-mann","name":"Kingdom of Mann","from":1177,"to":1271,"peak":0.77,"km2":400,"tier":1},
+  {"id":"kingdom-of-england","name":"Kingdom of England","from":1285,"to":1293,"peak":0.77,"km2":400,"tier":1},
+  {"id":"kingdom-of-scotland","name":"Kingdom of Scotland","from":1294,"to":1304,"peak":0.77,"km2":400,"tier":1}
+]}

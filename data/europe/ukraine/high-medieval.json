@@ -1,0 +1,21 @@
+{"lane": "ukraine", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kievan-rus","name":"Kievan Rus'","from":884,"to":1235,"peak":0.47,"km2":268000,"tier":2},
+  {"id":"halych-volhynia-occupation","name":"Halych-Volhynia occupation","from":1056,"to":1240,"peak":0.47,"km2":268000,"tier":2},
+  {"id":"principality-of-kiev","name":"Principality of Kiev","from":1056,"to":1240,"peak":0.15,"km2":87000,"tier":3},
+  {"id":"principality-of-pereyaslavl","name":"Principality of Pereyaslavl","from":1056,"to":1240,"peak":0.13,"km2":75000,"tier":3},
+  {"id":"principality-of-peremyshl","name":"Principality of Peremyshl","from":1056,"to":1146,"peak":0.1,"km2":55000,"tier":3},
+  {"id":"principality-of-chernigov","name":"Principality of Chernigov","from":1056,"to":1240,"peak":0.05,"km2":29000,"tier":3},
+  {"id":"cuman-kipchak-confederation","name":"Cuman-Kipchak Confederation","from":1056,"to":1065,"peak":0.0,"km2":300,"tier":3,"inside":true},
+  {"id":"principality-of-terebovlia","name":"Principality of Terebovlia","from":1094,"to":1146,"peak":0.07,"km2":41000,"tier":3},
+  {"id":"principality-of-halych","name":"Principality of Halych","from":1147,"to":1187,"peak":0.14,"km2":83000,"tier":3},
+  {"id":"principality-of-halych","name":"Principality of Halych","from":1192,"to":1201,"peak":0.14,"km2":83000,"tier":3},
+  {"id":"principality-of-galicia-volhynia","name":"Principality of Galicia-Volhynia","from":1202,"to":1240,"peak":0.18,"km2":105000,"tier":2},
+  {"id":"mongol-empire","name":"Mongol Empire","from":1241,"to":1293,"peak":0.97,"km2":553000,"tier":1},
+  {"id":"golden-horde","name":"Golden Horde","from":1294,"to":1362,"peak":0.83,"km2":476000,"tier":1},
+  {"id":"galicia-volhynia","name":"Galicia-Volhynia","from":1294,"to":1351,"peak":0.14,"km2":79000,"tier":3}
+],
+ "events":[
+  {"id":"Q570204","name":"Battle of the Kalka River","year":1223,"type":"battle","links":49,"by":"coordinates","wiki":"Battle of the Kalka River"},
+  {"id":"Q815162","name":"Siege of Kyiv","year":1240,"type":"siege","links":18,"by":"coordinates","wiki":"Siege of Kiev (1240)"}
+]}

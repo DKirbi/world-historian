@@ -1,0 +1,18 @@
+{"lane": "germany", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"holy-roman-empire","name":"Holy Roman Empire","from":962,"to":1259,"peak":0.97,"km2":348000,"tier":1,"realm":true},
+  {"id":"kingdom-of-denmark","name":"Kingdom of Denmark","from":1177,"to":1235,"peak":0.13,"km2":45000,"tier":3},
+  {"id":"holy-roman-empire-minor-states","name":"Holy Roman Empire Minor States","from":1260,"to":1805,"peak":0.72,"km2":257000,"tier":1},
+  {"id":"margraviate-of-brandenburg","name":"Margraviate of Brandenburg","from":1260,"to":1351,"peak":0.17,"km2":60000,"tier":3},
+  {"id":"house-of-ascania","name":"House of Ascania","from":1260,"to":1486,"peak":0.1,"km2":35000,"tier":3},
+  {"id":"duchy-of-bavaria","name":"Duchy of Bavaria","from":1260,"to":1325,"peak":0.09,"km2":34000,"tier":3},
+  {"id":"house-of-hohenstaufen","name":"House of Hohenstaufen","from":1260,"to":1271,"peak":0.07,"km2":27000,"tier":3},
+  {"id":"house-of-wittelsbach","name":"House of Wittelsbach","from":1260,"to":1332,"peak":0.04,"km2":16000,"tier":3,"inside":true}
+],
+ "events":[
+  {"id":"Q149734","name":"Peace of Bautzen","year":1018,"type":"treaty","links":17,"by":"coordinates","wiki":"Peace of Bautzen"},
+  {"id":"Q541564","name":"Battle on the Elster","year":1080,"type":"battle","links":12,"by":"coordinates","wiki":"Battle on the Elster"},
+  {"id":"Q490223","name":"Battle of Bornhöved","year":1227,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Bornhöved (1227)"},
+  {"id":"Q152295","name":"Battle of Worringen","year":1288,"type":"battle","links":23,"by":"coordinates","wiki":"Battle of Worringen"},
+  {"id":"Q534990","name":"Battle of Göllheim","year":1298,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Göllheim"}
+]}

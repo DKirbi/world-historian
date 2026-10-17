@@ -1,0 +1,8 @@
+{"lane": "malta", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"fatimid-caliphate","name":"Fatimid Caliphate","from":911,"to":1098,"peak":0.8,"km2":200,"tier":1},
+  {"id":"norman-italy","name":"Norman Italy","from":1094,"to":1138,"peak":0.8,"km2":200,"tier":1},
+  {"id":"kingdom-of-sicily","name":"Kingdom of Sicily","from":1139,"to":1278,"peak":0.8,"km2":200,"tier":1},
+  {"id":"house-of-anjou-sicily","name":"House of Anjou-Sicily","from":1279,"to":1284,"peak":0.8,"km2":200,"tier":1},
+  {"id":"crown-of-aragon","name":"Crown of Aragon","from":1285,"to":1304,"peak":0.8,"km2":200,"tier":1}
+]}

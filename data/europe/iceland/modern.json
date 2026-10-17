@@ -1,0 +1,4 @@
+{"lane": "iceland", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"denmark-norway","name":"Denmark-Norway","from":1526,"to":1921,"peak":0.99,"km2":101000,"tier":1}
+]}

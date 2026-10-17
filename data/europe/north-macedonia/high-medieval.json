@@ -1,0 +1,13 @@
+{"lane": "north-macedonia", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"first-bulgarian-empire","name":"First Bulgarian Empire","from":850,"to":1017,"peak":1.0,"km2":25000,"tier":1},
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":1010,"to":1205,"peak":1.0,"km2":25000,"tier":1},
+  {"id":"second-bulgarian-empire","name":"Second Bulgarian Empire","from":1192,"to":1249,"peak":0.99,"km2":25000,"tier":1},
+  {"id":"despotate-of-epirus","name":"Despotate of Epirus","from":1216,"to":1235,"peak":0.33,"km2":8000,"tier":2},
+  {"id":"nicaean-empire","name":"Nicaean Empire","from":1250,"to":1278,"peak":0.98,"km2":25000,"tier":1},
+  {"id":"byzantine-empire-1279","name":"Byzantine Empire","from":1279,"to":1351,"peak":0.99,"km2":25000,"tier":1},
+  {"id":"kingdom-of-serbia-1188","name":"Kingdom of Serbia","from":1285,"to":1351,"peak":0.55,"km2":14000,"tier":1}
+],
+ "events":[
+  {"id":"Q1896360","name":"Battle of Skopje","year":1004,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Skopje"}
+]}

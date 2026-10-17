@@ -1,0 +1,4 @@
+{"lane": "andorra", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"principality-of-andorra","name":"Principality of Andorra","from":1815,"to":2024,"peak":0.65,"km2":300,"tier":1}
+]}

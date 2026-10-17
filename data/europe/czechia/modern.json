@@ -1,0 +1,21 @@
+{"lane": "czechia", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1622,"to":1805,"peak":1.0,"km2":78000,"tier":1},
+  {"id":"austrian-empire","name":"Austrian Empire","from":1806,"to":1867,"peak":0.99,"km2":78000,"tier":1},
+  {"id":"german-confederation","name":"German Confederation","from":1866,"to":1867,"peak":0.68,"km2":53000,"tier":1},
+  {"id":"austria-hungary","name":"Austria-Hungary","from":1868,"to":1918,"peak":0.99,"km2":78000,"tier":1}
+],
+ "events":[
+  {"id":"Q134114","name":"Battle of Austerlitz","year":1805,"type":"battle","links":75,"by":"coordinates","wiki":"Battle of Austerlitz"},
+  {"id":"Q702099","name":"Battle of Znaim","year":1809,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Znaim"},
+  {"id":"Q48253","name":"Battle of Kulm","year":1813,"type":"battle","links":24,"by":"coordinates","wiki":"Battle of Kulm"},
+  {"id":"Q708601","name":"Punctation of Olmütz","year":1850,"type":"treaty","links":17,"by":"location","wiki":"Punctation of Olmütz"},
+  {"id":"Q153650","name":"Austro-Prussian War","year":1866,"type":"war","links":68,"by":"location","wiki":"Austro-Prussian War"},
+  {"id":"Q154942","name":"Battle of Königgrätz","year":1866,"type":"battle","links":39,"by":"coordinates","wiki":"Battle of Königgrätz"},
+  {"id":"Q168268","name":"Peace of Prague","year":1866,"type":"treaty","links":35,"by":"location","wiki":"Peace of Prague (1866)"},
+  {"id":"Q689374","name":"Battle of Trautenau","year":1866,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Trautenau"},
+  {"id":"Q574365","name":"Battle of Jičín","year":1866,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Gitschin"},
+  {"id":"Q670005","name":"Battle of Skalitz","year":1866,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Skalitz"},
+  {"id":"Q695680","name":"Battle of Nachod","year":1866,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Náchod"},
+  {"id":"Q685933","name":"Reichstadt Agreement","year":1876,"type":"treaty","links":15,"by":"location","wiki":"Reichstadt Agreement"}
+]}

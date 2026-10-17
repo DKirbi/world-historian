@@ -1,0 +1,4 @@
+{"lane": "lithuania", "period": "early-medieval", "years": [476, 999], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kievan-rus","name":"Kievan Rus'","from":990,"to":1235,"peak":0.11,"km2":7000,"tier":3}
+]}

@@ -1,0 +1,5 @@
+{"lane": "iceland", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"icelandic-commonwealth","name":"Icelandic Commonwealth","from":936,"to":1271,"peak":0.99,"km2":101000,"tier":1},
+  {"id":"old-kingdom-of-norway","name":"Old Kingdom of Norway","from":1272,"to":1401,"peak":0.99,"km2":101000,"tier":1}
+]}

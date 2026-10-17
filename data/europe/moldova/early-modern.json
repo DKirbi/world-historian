@@ -1,0 +1,20 @@
+{"lane": "moldova", "period": "early-modern", "years": [1492, 1788], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"principality-of-moldavia","name":"Principality of Moldavia","from":1363,"to":1768,"peak":0.99,"km2":33000,"tier":1},
+  {"id":"house-of-jagiellon","name":"House of Jagiellon","from":1450,"to":1571,"peak":0.06,"km2":2000,"tier":3},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1487,"to":1768,"peak":0.26,"km2":9000,"tier":2},
+  {"id":"polish-lithuanian-commonwealth","name":"Polish-Lithuanian Commonwealth","from":1572,"to":1594,"peak":0.06,"km2":2000,"tier":3},
+  {"id":"polish-lithuanian-commonwealth","name":"Polish-Lithuanian Commonwealth","from":1600,"to":1658,"peak":0.06,"km2":2000,"tier":3},
+  {"id":"polish-lithuanian-commonwealth","name":"Polish-Lithuanian Commonwealth","from":1662,"to":1672,"peak":0.06,"km2":2000,"tier":3},
+  {"id":"polish-lithuanian-commonwealth","name":"Polish-Lithuanian Commonwealth","from":1696,"to":1708,"peak":0.06,"km2":2000,"tier":3},
+  {"id":"polish-lithuanian-commonwealth","name":"Polish-Lithuanian Commonwealth","from":1713,"to":1791,"peak":0.07,"km2":2000,"tier":3},
+  {"id":"russian-empire","name":"Russian Empire","from":1769,"to":1774,"peak":0.94,"km2":31000,"tier":1},
+  {"id":"principality-of-moldavia","name":"Principality of Moldavia","from":1775,"to":1806,"peak":0.74,"km2":25000,"tier":1},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1775,"to":1806,"peak":0.2,"km2":7000,"tier":2}
+],
+ "events":[
+  {"id":"Q638601","name":"Skirmish at Bender","year":1713,"type":"battle","links":16,"by":"coordinates","wiki":"Skirmish at Bender"},
+  {"id":"Q702189","name":"Treaty of Niš","year":1739,"type":"treaty","links":27,"by":"country","wiki":"Treaty of Niš (1739)"},
+  {"id":"Q700218","name":"Battle of Kagul","year":1770,"type":"battle","links":18,"by":"coordinates","wiki":"Battle of Kagul"},
+  {"id":"Q2456110","name":"Battle of Larga","year":1770,"type":"battle","links":17,"by":"coordinates","wiki":"Battle of Larga"}
+]}

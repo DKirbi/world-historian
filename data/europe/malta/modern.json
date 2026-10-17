@@ -1,0 +1,9 @@
+{"lane": "malta", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"french-directory","name":"French Directory","from":1799,"to":1799,"peak":0.8,"km2":200,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1800,"to":1968,"peak":0.8,"km2":200,"tier":1,"realm":true},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1800,"to":1968,"peak":0.8,"km2":200,"tier":1}
+],
+ "events":[
+  {"id":"Q2493908","name":"Siege of Malta","year":1798,"type":"siege","links":14,"by":"coordinates","to":1800,"wiki":"Siege of Malta (1798–1800)"}
+]}

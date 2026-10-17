@@ -1,0 +1,28 @@
+{"lane": "greece", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"first-hellenic-republic","name":"First Hellenic Republic","from":1822,"to":1940,"peak":0.85,"km2":110000,"tier":1},
+  {"id":"nazi-germany","name":"Nazi Germany","from":1941,"to":1944,"peak":0.73,"km2":95000,"tier":1},
+  {"id":"kingdom-of-greece","name":"Kingdom of Greece","from":1945,"to":1966,"peak":0.85,"km2":111000,"tier":1},
+  {"id":"greek-junta","name":"Greek junta","from":1967,"to":1975,"peak":0.86,"km2":112000,"tier":1},
+  {"id":"third-hellenic-republic","name":"Third Hellenic Republic","from":1976,"to":2024,"peak":0.85,"km2":111000,"tier":1}
+],
+ "events":[
+  {"id":"Q1988331","name":"Battle of Doiran","year":1916,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Doiran (1916)"},
+  {"id":"Q2631739","name":"Battle of Kajmakchalan","year":1916,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Kaymakchalan"},
+  {"id":"Q3564426","name":"Noemvriana","year":1916,"type":"battle","links":12,"by":"location","wiki":"Noemvriana"},
+  {"id":"Q4871652","name":"Battle of Malka Nidzhe","year":1916,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Malka Nidzhe"},
+  {"id":"Q328499","name":"Armistice of Mudros","year":1918,"type":"treaty","links":50,"by":"coordinates","wiki":"Armistice of Mudros"},
+  {"id":"Q506916","name":"Battle of Dobro Pole","year":1918,"type":"battle","links":24,"by":"coordinates","wiki":"Battle of Dobro Pole"},
+  {"id":"Q920202","name":"Battle of Doiran","year":1918,"type":"battle","links":17,"by":"coordinates","wiki":"Battle of Doiran (1918)"},
+  {"id":"Q2998936","name":"11 September 1922 Revolution","year":1922,"type":"coup","links":15,"by":"country","wiki":"11 September 1922 Revolution"},
+  {"id":"Q223604","name":"Greco-Italian War","year":1940,"type":"war","links":47,"by":"location","to":1941,"wiki":"Greco-Italian War"},
+  {"id":"Q1636800","name":"Battle of Cape Spada","year":1940,"type":"battle","links":17,"by":"coordinates","wiki":"Battle of Cape Spada"},
+  {"id":"Q153316","name":"Battle of Crete","year":1941,"type":"battle","links":45,"by":"coordinates","wiki":"Battle of Crete"},
+  {"id":"Q2888837","name":"Battle of Greece","year":1941,"type":"invasion","links":42,"by":"coordinates","wiki":"German invasion of Greece"},
+  {"id":"Q704248","name":"Battle of Thermopylae","year":1941,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Thermopylae (1941)"},
+  {"id":"Q1473722","name":"Dekemvriana","year":1944,"type":"battle","links":20,"by":"location","to":1945,"wiki":"Dekemvriana"},
+  {"id":"Q188972","name":"Greek Civil War","year":1946,"type":"war","links":54,"by":"location","to":1949,"wiki":"Greek Civil War"},
+  {"id":"Q2363231","name":"Treaty of Accession 1994","year":1994,"type":"treaty","links":12,"by":"location","wiki":"Treaty of Accession 1994"},
+  {"id":"Q814930","name":"Treaty of Accession 2003","year":2003,"type":"treaty","links":20,"by":"location","wiki":"Treaty of Accession 2003"},
+  {"id":"Q55153903","name":"Prespa agreement","year":2018,"type":"treaty","links":33,"by":"coordinates","wiki":"Prespa Agreement"}
+]}

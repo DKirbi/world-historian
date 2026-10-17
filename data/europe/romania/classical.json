@@ -1,0 +1,17 @@
+{"lane": "romania", "period": "classical", "years": [-800, 475], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"scythia","name":"Scythia","from":-650,"to":-551,"peak":0.39,"km2":93000,"tier":2},
+  {"id":"kingdom-of-lysimachus","name":"Kingdom of Lysimachus","from":-323,"to":-282,"peak":0.07,"km2":17000,"tier":3},
+  {"id":"thracian-kingdom","name":"Thracian Kingdom","from":-27,"to":50,"peak":0.06,"km2":13000,"tier":3},
+  {"id":"roman-empire","name":"Roman Empire","from":51,"to":377,"peak":0.86,"km2":203000,"tier":1},
+  {"id":"gothia","name":"Gothia","from":270,"to":382,"peak":0.9,"km2":212000,"tier":1},
+  {"id":"huns","name":"Huns","from":378,"to":425,"peak":0.93,"km2":220000,"tier":1},
+  {"id":"roman-empire","name":"Roman Empire","from":383,"to":394,"peak":0.06,"km2":15000,"tier":3},
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":395,"to":632,"peak":0.07,"km2":18000,"tier":3},
+  {"id":"hunnic-empire","name":"Hunnic Empire","from":426,"to":454,"peak":0.93,"km2":220000,"tier":1}
+],
+ "events":[
+  {"id":"Q723608","name":"Trajan's Dacian Wars","year":101,"type":"war","links":35,"by":"location","to":106,"wiki":"Trajan's Dacian Wars"},
+  {"id":"Q2707263","name":"Third Battle of Tapae","year":101,"type":"battle","links":15,"by":"coordinates","wiki":"Third Battle of Tapae"},
+  {"id":"Q3494883","name":"Battle of Sarmisegetusa","year":106,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Sarmizegetusa"}
+]}

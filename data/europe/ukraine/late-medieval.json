@@ -1,0 +1,17 @@
+{"lane": "ukraine", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"golden-horde","name":"Golden Horde","from":1294,"to":1362,"peak":0.83,"km2":476000,"tier":1},
+  {"id":"galicia-volhynia","name":"Galicia-Volhynia","from":1294,"to":1351,"peak":0.14,"km2":79000,"tier":3},
+  {"id":"kingdom-of-poland-1305","name":"Kingdom of Poland","from":1352,"to":1449,"peak":0.19,"km2":108000,"tier":2},
+  {"id":"grand-duchy-of-lithuania","name":"Grand Duchy of Lithuania","from":1363,"to":1449,"peak":0.65,"km2":372000,"tier":1},
+  {"id":"blue-horde","name":"Blue Horde","from":1363,"to":1401,"peak":0.18,"km2":103000,"tier":2},
+  {"id":"golden-horde","name":"Golden Horde","from":1385,"to":1501,"peak":0.33,"km2":189000,"tier":2},
+  {"id":"polish-lithuania-kingdom","name":"Polish-Lithuania Kingdom","from":1395,"to":1449,"peak":0.74,"km2":426000,"tier":1,"realm":true},
+  {"id":"house-of-jagiellon","name":"House of Jagiellon","from":1450,"to":1571,"peak":0.6,"km2":342000,"tier":1},
+  {"id":"crimean-khanate","name":"Crimean Khanate","from":1450,"to":1782,"peak":0.26,"km2":149000,"tier":2}
+],
+ "events":[
+  {"id":"Q1786470","name":"Battle on the Irpin River","year":1320,"type":"battle","links":17,"by":"coordinates","prec":8,"wiki":"Battle on the Irpin River"},
+  {"id":"Q954356","name":"Battle of Blue Waters","year":1362,"type":"battle","links":29,"by":"coordinates","wiki":"Battle of Blue Waters"},
+  {"id":"Q597478","name":"Battle of the Vorskla River","year":1399,"type":"battle","links":27,"by":"coordinates","wiki":"Battle of the Vorskla River"}
+]}

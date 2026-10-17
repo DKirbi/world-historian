@@ -1,0 +1,22 @@
+{"lane": "germany", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"holy-roman-empire-minor-states","name":"Holy Roman Empire Minor States","from":1260,"to":1805,"peak":0.72,"km2":257000,"tier":1},
+  {"id":"margraviate-of-brandenburg","name":"Margraviate of Brandenburg","from":1260,"to":1351,"peak":0.17,"km2":60000,"tier":3},
+  {"id":"house-of-ascania","name":"House of Ascania","from":1260,"to":1486,"peak":0.1,"km2":35000,"tier":3},
+  {"id":"duchy-of-bavaria","name":"Duchy of Bavaria","from":1260,"to":1325,"peak":0.09,"km2":34000,"tier":3},
+  {"id":"house-of-wittelsbach","name":"House of Wittelsbach","from":1260,"to":1332,"peak":0.04,"km2":16000,"tier":3,"inside":true},
+  {"id":"electorate-of-trier","name":"Electorate of Trier","from":1333,"to":1618,"peak":0.05,"km2":17000,"tier":3},
+  {"id":"duchy-of-bavaria","name":"Duchy of Bavaria","from":1352,"to":1777,"peak":0.17,"km2":60000,"tier":3},
+  {"id":"electorate-of-saxony-1363","name":"Electorate of Saxony","from":1363,"to":1428,"peak":0.02,"km2":6000,"tier":3,"inside":true},
+  {"id":"kingdom-of-bohemia","name":"Kingdom of Bohemia","from":1375,"to":1384,"peak":0.1,"km2":36000,"tier":3},
+  {"id":"margraviate-of-brandenburg","name":"Margraviate of Brandenburg","from":1385,"to":1414,"peak":0.08,"km2":28000,"tier":3},
+  {"id":"electorate-of-brandenburg","name":"Electorate of Brandenburg","from":1422,"to":1618,"peak":0.09,"km2":33000,"tier":3},
+  {"id":"electorate-of-saxony-1487","name":"Electorate of Saxony","from":1487,"to":1631,"peak":0.1,"km2":35000,"tier":3}
+],
+ "events":[
+  {"id":"Q688081","name":"Battle of Mühldorf","year":1322,"type":"battle","links":17,"by":"coordinates","wiki":"Battle of Mühldorf"},
+  {"id":"Q524952","name":"Treaty of Stralsund","year":1370,"type":"treaty","links":16,"by":"location","wiki":"Treaty of Stralsund (1370)"},
+  {"id":"Q561493","name":"Treaty of Neuberg","year":1379,"type":"treaty","links":14,"by":"location","wiki":"Treaty of Neuberg"},
+  {"id":"Q506846","name":"Siege of Neuss","year":1474,"type":"siege","links":12,"by":"coordinates","to":1475,"wiki":"Siege of Neuss"},
+  {"id":"Q314076","name":"Treaty of Leipzig","year":1485,"type":"treaty","links":16,"by":"location","wiki":"Treaty of Leipzig"}
+]}

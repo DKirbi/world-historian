@@ -1,0 +1,10 @@
+{"lane": "cyprus", "period": "early-medieval", "years": [476, 999], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":395,"to":632,"peak":1.0,"km2":9000,"tier":1},
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":633,"to":655,"peak":1.0,"km2":9000,"tier":1},
+  {"id":"umayyad-caliphate","name":"Umayyad Caliphate","from":656,"to":691,"peak":1.0,"km2":9000,"tier":1},
+  {"id":"cyprus-condominium","name":"Cyprus Condominium","from":692,"to":874,"peak":1.0,"km2":9000,"tier":1},
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":875,"to":885,"peak":1.0,"km2":9000,"tier":1},
+  {"id":"cyprus-condominium","name":"Cyprus Condominium","from":884,"to":959,"peak":1.0,"km2":9000,"tier":1},
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":960,"to":1191,"peak":1.0,"km2":9000,"tier":1}
+]}

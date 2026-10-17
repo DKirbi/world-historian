@@ -1,0 +1,7 @@
+{"lane": "faroe-islands", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"viking-settlements","name":"Viking settlements","from":800,"to":1325,"peak":0.74,"km2":1000,"tier":1},
+  {"id":"old-kingdom-of-norway","name":"Old Kingdom of Norway","from":1040,"to":1045,"peak":0.74,"km2":1000,"tier":1},
+  {"id":"norway-denmark","name":"Norway-Denmark","from":1046,"to":1055,"peak":0.74,"km2":1000,"tier":1},
+  {"id":"old-kingdom-of-norway","name":"Old Kingdom of Norway","from":1056,"to":1401,"peak":0.74,"km2":1000,"tier":1}
+]}

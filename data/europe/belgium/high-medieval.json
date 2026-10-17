@@ -1,0 +1,12 @@
+{"lane": "belgium", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"holy-roman-empire","name":"Holy Roman Empire","from":962,"to":1259,"peak":0.81,"km2":25000,"tier":1},
+  {"id":"county-of-flanders","name":"County of Flanders","from":990,"to":1384,"peak":0.39,"km2":12000,"tier":2},
+  {"id":"kingdom-of-france","name":"Kingdom of France","from":1188,"to":1421,"peak":0.4,"km2":12000,"tier":2,"realm":true},
+  {"id":"holy-roman-empire-minor-states","name":"Holy Roman Empire Minor States","from":1260,"to":1672,"peak":0.44,"km2":14000,"tier":2},
+  {"id":"county-of-brabant","name":"County of Brabant","from":1260,"to":1430,"peak":0.43,"km2":13000,"tier":2},
+  {"id":"house-of-luxembourg","name":"House of Luxembourg","from":1260,"to":1414,"peak":0.17,"km2":5000,"tier":3}
+],
+ "events":[
+  {"id":"Q195983","name":"Franco-Flemish War","year":1297,"type":"war","links":12,"by":"location","to":1305,"wiki":"Franco-Flemish War"}
+]}

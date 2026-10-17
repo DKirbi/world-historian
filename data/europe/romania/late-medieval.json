@@ -1,0 +1,23 @@
+{"lane": "romania", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-hungary","name":"Kingdom of Hungary","from":1000,"to":1449,"peak":0.45,"km2":106000,"tier":2},
+  {"id":"second-bulgarian-empire","name":"Second Bulgarian Empire","from":1188,"to":1362,"peak":0.38,"km2":89000,"tier":2},
+  {"id":"golden-horde","name":"Golden Horde","from":1294,"to":1362,"peak":0.22,"km2":52000,"tier":2},
+  {"id":"principality-of-wallachia","name":"Principality of Wallachia","from":1314,"to":1599,"peak":0.31,"km2":72000,"tier":2},
+  {"id":"principality-of-moldavia","name":"Principality of Moldavia","from":1363,"to":1768,"peak":0.85,"km2":201000,"tier":1},
+  {"id":"despotate-of-dobruja","name":"Despotate of Dobruja","from":1363,"to":1394,"peak":0.06,"km2":14000,"tier":3},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1395,"to":1876,"peak":0.15,"km2":36000,"tier":3},
+  {"id":"house-of-habsburg","name":"House of Habsburg","from":1450,"to":1458,"peak":0.43,"km2":101000,"tier":2},
+  {"id":"holy-roman-empire","name":"Holy Roman Empire","from":1450,"to":1458,"peak":0.43,"km2":101000,"tier":2,"realm":true},
+  {"id":"kingdom-of-hungary","name":"Kingdom of Hungary","from":1459,"to":1546,"peak":0.43,"km2":101000,"tier":2}
+],
+ "events":[
+  {"id":"Q1076246","name":"Battle of Posada","year":1330,"type":"battle","links":20,"by":"coordinates","wiki":"Battle of Posada"},
+  {"id":"Q2237751","name":"Battle of Rovine","year":1395,"type":"battle","links":22,"by":"location","wiki":"Battle of Rovine"},
+  {"id":"Q1711538","name":"Battle of Hermannstadt","year":1442,"type":"battle","links":13,"by":"location","wiki":"Battle of the Iron Gate"},
+  {"id":"Q2022139","name":"Night attack at Târgoviște","year":1462,"type":"battle","links":21,"by":"location","wiki":"Night attack at Târgoviște"},
+  {"id":"Q2510875","name":"Battle of Baia","year":1467,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Baia"},
+  {"id":"Q1073358","name":"Battle of Vaslui","year":1475,"type":"battle","links":23,"by":"coordinates","wiki":"Battle of Vaslui"},
+  {"id":"Q2533670","name":"Battle of Valea Albă","year":1476,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Valea Albă"},
+  {"id":"Q690291","name":"Battle of Breadfield","year":1479,"type":"battle","links":23,"by":"coordinates","wiki":"Battle of Breadfield"}
+]}

@@ -1,0 +1,5 @@
+{"lane": "latvia", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"russian-empire","name":"Russian Empire","from":1721,"to":1916,"peak":1.0,"km2":65000,"tier":1},
+  {"id":"duchy-of-courland","name":"Duchy of Courland","from":1734,"to":1793,"peak":0.4,"km2":26000,"tier":2}
+]}

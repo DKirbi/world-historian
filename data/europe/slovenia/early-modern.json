@@ -1,0 +1,10 @@
+{"lane": "slovenia", "period": "early-modern", "years": [1492, 1788], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"house-of-habsburg","name":"House of Habsburg","from":1279,"to":1515,"peak":0.94,"km2":19000,"tier":1},
+  {"id":"duchy-of-styria","name":"Duchy of Styria","from":1450,"to":1501,"peak":0.05,"km2":1000,"tier":3},
+  {"id":"kingdom-of-hungary","name":"Kingdom of Hungary","from":1459,"to":1539,"peak":0.15,"km2":3000,"tier":3},
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1516,"to":1528,"peak":0.87,"km2":18000,"tier":1},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1529,"to":1555,"peak":0.99,"km2":20000,"tier":1,"realm":true},
+  {"id":"kingdom-of-spain-1516","name":"Kingdom of Spain","from":1529,"to":1555,"peak":0.99,"km2":20000,"tier":1},
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1556,"to":1805,"peak":1.0,"km2":20000,"tier":1}
+]}

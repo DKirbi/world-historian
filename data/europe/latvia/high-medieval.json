@@ -1,0 +1,14 @@
+{"lane": "latvia", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"principality-of-polotsky-1056","name":"Principality of Polotsky","from":1085,"to":1110,"peak":0.39,"km2":25000,"tier":2},
+  {"id":"principality-of-jersika","name":"Principality of Jersika","from":1111,"to":1215,"peak":0.36,"km2":23000,"tier":2},
+  {"id":"principality-of-koknese","name":"Principality of Koknese","from":1111,"to":1209,"peak":0.03,"km2":2000,"tier":3,"inside":true},
+  {"id":"livonian-brothers-of-the-sword","name":"Livonian Brothers of the Sword","from":1206,"to":1240,"peak":0.66,"km2":43000,"tier":1},
+  {"id":"holy-roman-empire","name":"Holy Roman Empire","from":1241,"to":1421,"peak":0.68,"km2":44000,"tier":1,"realm":true},
+  {"id":"teutonic-order","name":"Teutonic Order","from":1241,"to":1421,"peak":0.68,"km2":44000,"tier":1}
+],
+ "events":[
+  {"id":"Q196409","name":"Livonian Crusade","year":1198,"type":"war","links":35,"by":"location","wiki":"Livonian Crusade"},
+  {"id":"Q600609","name":"Battle of Durbe","year":1260,"type":"battle","links":26,"by":"coordinates","wiki":"Battle of Durbe"},
+  {"id":"Q1640209","name":"Battle of Aizkraukle","year":1279,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Aizkraukle"}
+]}

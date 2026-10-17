@@ -1,0 +1,23 @@
+{"lane": "netherlands", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"netherlands","name":"Netherlands","from":1815,"to":1939,"peak":0.94,"km2":35000,"tier":1},
+  {"id":"nazi-germany","name":"Nazi Germany","from":1940,"to":1944,"peak":0.97,"km2":36000,"tier":1},
+  {"id":"netherlands","name":"Netherlands","from":1945,"to":2024,"peak":0.93,"km2":34000,"tier":1,"realm":true}
+],
+ "events":[
+  {"id":"Q2649081","name":"German invasion of the Netherlands","year":1940,"type":"battle","links":43,"by":"location","wiki":"German invasion of the Netherlands"},
+  {"id":"Q714288","name":"Battle of Fort Eben-Emael","year":1940,"type":"battle","links":25,"by":"coordinates","wiki":"Battle of Fort Ében-Émael"},
+  {"id":"Q1891631","name":"Battle for The Hague","year":1940,"type":"battle","links":18,"by":"coordinates","wiki":"Battle of the Hague (1940)"},
+  {"id":"Q3532325","name":"Battle of Rotterdam","year":1940,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Rotterdam"},
+  {"id":"Q714979","name":"Battle of the Afsluitdijk","year":1940,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of the Afsluitdijk"},
+  {"id":"Q716750","name":"Battle of Maastricht","year":1940,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Maastricht"},
+  {"id":"Q697022","name":"Battle of the Scheldt","year":1944,"type":"battle","links":30,"by":"coordinates","wiki":"Battle of the Scheldt"},
+  {"id":"Q387093","name":"Battle of Arnhem","year":1944,"type":"battle","links":29,"by":"coordinates","wiki":"Battle of Arnhem"},
+  {"id":"Q161391","name":"Georgian uprising on Texel","year":1945,"type":"rebellion","links":31,"by":"coordinates","wiki":"Georgian uprising on Texel"},
+  {"id":"Q666414","name":"Western Allied invasion of Germany","year":1945,"type":"invasion","links":29,"by":"location","wiki":"Western Allied invasion of Germany"},
+  {"id":"Q1566342","name":"Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict","year":1954,"type":"treaty","links":27,"by":"location","wiki":"Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict"},
+  {"id":"Q11146","name":"Maastricht Treaty","year":1992,"type":"treaty","links":83,"by":"location","wiki":"Maastricht Treaty"},
+  {"id":"Q321961","name":"Agreement on the Conservation of African-Eurasian Migratory Waterbirds","year":1995,"type":"treaty","links":25,"by":"coordinates","wiki":"Agreement on the Conservation of African-Eurasian Migratory Waterbirds"},
+  {"id":"Q193739","name":"Amsterdam Treaty","year":1997,"type":"treaty","links":53,"by":"location","wiki":"Treaty of Amsterdam"},
+  {"id":"Q94947","name":"Rotterdam Convention","year":1998,"type":"treaty","links":24,"by":"coordinates","wiki":"Rotterdam Convention"}
+]}

@@ -1,0 +1,6 @@
+{"lane": "albania", "period": "early-medieval", "years": [476, 999], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":395,"to":632,"peak":0.96,"km2":27000,"tier":1},
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":633,"to":989,"peak":0.48,"km2":14000,"tier":2},
+  {"id":"first-bulgarian-empire","name":"First Bulgarian Empire","from":850,"to":1017,"peak":0.93,"km2":27000,"tier":1}
+]}

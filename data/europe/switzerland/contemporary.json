@@ -1,0 +1,29 @@
+{"lane": "switzerland", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"swiss-confederation","name":"Swiss Confederation","from":1815,"to":2024,"peak":0.95,"km2":39000,"tier":1}
+],
+ "events":[
+  {"id":"Q193258","name":"Treaty of Lausanne","year":1923,"type":"treaty","links":74,"by":"location","wiki":"Treaty of Lausanne"},
+  {"id":"Q152925","name":"Locarno Treaties","year":1925,"type":"treaty","links":48,"by":"location","wiki":"Locarno Treaties"},
+  {"id":"Q605626","name":"Geneva Protocol","year":1925,"type":"treaty","links":27,"by":"location","wiki":"Geneva Protocol"},
+  {"id":"Q589276","name":"Slavery Convention","year":1926,"type":"treaty","links":26,"by":"location","wiki":"1926 Slavery Convention"},
+  {"id":"Q2594768","name":"Geneva Convention on Prisoners of War","year":1929,"type":"treaty","links":15,"by":"location","wiki":"Geneva Convention on Prisoners of War"},
+  {"id":"Q679793","name":"Lausanne Conference of 1932","year":1932,"type":"treaty","links":12,"by":"location","wiki":"1932 Lausanne Conference"},
+  {"id":"Q167759","name":"Baltic Entente","year":1934,"type":"treaty","links":30,"by":"location","wiki":"Baltic Entente"},
+  {"id":"Q194284","name":"General Agreement on Tariffs and Trade","year":1947,"type":"treaty","links":56,"by":"location","wiki":"General Agreement on Tariffs and Trade"},
+  {"id":"Q973748","name":"Fourth Geneva Convention","year":1949,"type":"treaty","links":42,"by":"location","wiki":"Fourth Geneva Convention"},
+  {"id":"Q583921","name":"Second Geneva Convention","year":1949,"type":"treaty","links":33,"by":"location","wiki":"Second Geneva Convention"},
+  {"id":"Q3984882","name":"Third Geneva Convention","year":1949,"type":"treaty","links":27,"by":"location","wiki":"Third Geneva Convention"},
+  {"id":"Q369989","name":"Universal Copyright Convention","year":1952,"type":"treaty","links":27,"by":"location","wiki":"Universal Copyright Convention"},
+  {"id":"Q482407","name":"Geneva Conference","year":1954,"type":"treaty","links":48,"by":"location","wiki":"1954 Geneva Conference"},
+  {"id":"Q7888320","name":"United Nations 1956 Supplementary Convention on the Abolition of Slavery","year":1956,"type":"treaty","links":12,"by":"coordinates","wiki":"Supplementary Convention on the Abolition of Slavery"},
+  {"id":"Q682566","name":"Abolition of Forced Labour Convention","year":1957,"type":"treaty","links":17,"by":"location","wiki":"Abolition of Forced Labour Convention"},
+  {"id":"Q488546","name":"Environmental Modification Convention","year":1977,"type":"treaty","links":19,"by":"coordinates","wiki":"Environmental Modification Convention"},
+  {"id":"Q375083","name":"Convention on the Conservation of European Wildlife and Natural Habitats","year":1979,"type":"treaty","links":36,"by":"country","wiki":"Berne Convention on the Conservation of European Wildlife and Natural Habitats"},
+  {"id":"Q925836","name":"Convention on Certain Conventional Weapons","year":1980,"type":"treaty","links":22,"by":"location","wiki":"Convention on Certain Conventional Weapons"},
+  {"id":"Q957806","name":"Genuuva Accords","year":1988,"type":"treaty","links":15,"by":"location","wiki":"Geneva Accords (1988)"},
+  {"id":"Q775865","name":"Basel Convention","year":1989,"type":"treaty","links":43,"by":"coordinates","wiki":"Basel Convention"},
+  {"id":"Q741547","name":"World Intellectual Property Organization Copyright Treaty","year":1996,"type":"treaty","links":20,"by":"location","wiki":"WIPO Copyright Treaty"},
+  {"id":"Q2511409","name":"WIPO Performances and Phonograms Treaty","year":1996,"type":"treaty","links":12,"by":"location","wiki":"WIPO Performances and Phonograms Treaty"},
+  {"id":"Q861491","name":"Maritime Labour Convention","year":2006,"type":"treaty","links":13,"by":"location","wiki":"Maritime Labour Convention"}
+]}

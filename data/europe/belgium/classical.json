@@ -1,0 +1,14 @@
+{"lane": "belgium", "period": "classical", "years": [-800, 475], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"roman-republic","name":"Roman Republic","from":-50,"to":-32,"peak":1.0,"km2":31000,"tier":1},
+  {"id":"roman-empire","name":"Roman Empire","from":-31,"to":260,"peak":1.0,"km2":31000,"tier":1},
+  {"id":"gallic-empire","name":"Gallic Empire","from":261,"to":282,"peak":1.0,"km2":31000,"tier":1},
+  {"id":"roman-empire","name":"Roman Empire","from":283,"to":394,"peak":1.0,"km2":31000,"tier":1},
+  {"id":"salian-franks","name":"Salian Franks","from":358,"to":509,"peak":0.62,"km2":19000,"tier":1},
+  {"id":"western-roman-empire","name":"Western Roman Empire","from":395,"to":461,"peak":0.91,"km2":28000,"tier":1},
+  {"id":"kingdom-of-the-franks","name":"Kingdom of the Franks","from":462,"to":660,"peak":1.0,"km2":31000,"tier":1},
+  {"id":"merovingian-empire","name":"Merovingian Empire","from":462,"to":660,"peak":1.0,"km2":31000,"tier":1,"realm":true}
+],
+ "events":[
+  {"id":"Q2505574","name":"Ambiorix's Revolt","year":-54,"type":"battle","links":13,"by":"coordinates","wiki":"Ambiorix's revolt"}
+]}

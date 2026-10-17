@@ -1,0 +1,9 @@
+{"lane": "malta", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1800,"to":1968,"peak":0.8,"km2":200,"tier":1,"realm":true},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1800,"to":1968,"peak":0.8,"km2":200,"tier":1},
+  {"id":"malta","name":"Malta","from":1967,"to":2024,"peak":0.8,"km2":200,"tier":1}
+],
+ "events":[
+  {"id":"Q682452","name":"Siege of Malta","year":1940,"type":"siege","links":33,"by":"coordinates","to":1942,"wiki":"Siege of Malta (World War II)"}
+]}

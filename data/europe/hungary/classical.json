@@ -1,0 +1,9 @@
+{"lane": "hungary", "period": "classical", "years": [-800, 475], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"roman-empire","name":"Roman Empire","from":43,"to":394,"peak":0.42,"km2":39000,"tier":2},
+  {"id":"vandals","name":"Vandals","from":337,"to":406,"peak":0.1,"km2":9000,"tier":3},
+  {"id":"western-roman-empire","name":"Western Roman Empire","from":395,"to":450,"peak":0.41,"km2":38000,"tier":2},
+  {"id":"huns","name":"Huns","from":407,"to":425,"peak":0.59,"km2":55000,"tier":1},
+  {"id":"hunnic-empire","name":"Hunnic Empire","from":426,"to":454,"peak":0.99,"km2":92000,"tier":1},
+  {"id":"ostrogoths","name":"Ostrogoths","from":455,"to":499,"peak":0.42,"km2":39000,"tier":2}
+]}

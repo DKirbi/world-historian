@@ -1,0 +1,19 @@
+{"lane": "serbia", "period": "early-modern", "years": [1492, 1788], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1402,"to":1911,"peak":1.0,"km2":77000,"tier":1},
+  {"id":"kingdom-of-hungary","name":"Kingdom of Hungary","from":1459,"to":1546,"peak":0.32,"km2":25000,"tier":2},
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1691,"to":1805,"peak":0.66,"km2":51000,"tier":1}
+],
+ "events":[
+  {"id":"Q535542","name":"Siege of Belgrade","year":1521,"type":"siege","links":28,"by":"coordinates","wiki":"Siege of Belgrade (1521)"},
+  {"id":"Q699902","name":"Siege of Belgrade","year":1688,"type":"siege","links":16,"by":"coordinates","wiki":"Siege of Belgrade (1688)"},
+  {"id":"Q690481","name":"Battle of Slankamen","year":1691,"type":"battle","links":25,"by":"coordinates","wiki":"Battle of Slankamen"},
+  {"id":"Q517486","name":"Battle of Zenta","year":1697,"type":"battle","links":36,"by":"coordinates","wiki":"Battle of Zenta"},
+  {"id":"Q192303","name":"treaty of Karlowitz","year":1699,"type":"treaty","links":52,"by":"coordinates","wiki":"Treaty of Karlowitz"},
+  {"id":"Q26799687","name":"Austro-Turkish War of 1716–1718","year":1716,"type":"war","links":27,"by":"coordinates","to":1718,"wiki":"Austro-Turkish War (1716–1718)"},
+  {"id":"Q690391","name":"Battle of Petrovaradin","year":1716,"type":"battle","links":26,"by":"coordinates","wiki":"Battle of Petrovaradin"},
+  {"id":"Q2631076","name":"Siege of Belgrade","year":1717,"type":"siege","links":18,"by":"coordinates","wiki":"Siege of Belgrade (1717)"},
+  {"id":"Q211395","name":"treaty of Passarowitz","year":1718,"type":"treaty","links":43,"by":"location","wiki":"Treaty of Passarowitz"},
+  {"id":"Q11821309","name":"Treaty of Belgrade","year":1739,"type":"treaty","links":34,"by":"coordinates","wiki":"Treaty of Belgrade"},
+  {"id":"Q700866","name":"Battle of Grocka","year":1739,"type":"battle","links":14,"by":"location","wiki":"Battle of Grocka"}
+]}

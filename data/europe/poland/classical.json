@@ -1,0 +1,6 @@
+{"lane": "poland", "period": "classical", "years": [-800, 475], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"goths","name":"Goths","from":43,"to":206,"peak":0.23,"km2":73000,"tier":2},
+  {"id":"burgundians-154","name":"Burgundians","from":224,"to":346,"peak":0.31,"km2":99000,"tier":2},
+  {"id":"hunnic-empire","name":"Hunnic Empire","from":451,"to":454,"peak":0.69,"km2":215000,"tier":1}
+]}

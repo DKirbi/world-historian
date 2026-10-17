@@ -1,0 +1,4 @@
+{"lane": "faroe-islands", "period": "early-medieval", "years": [476, 999], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"viking-settlements","name":"Viking settlements","from":800,"to":1325,"peak":0.74,"km2":1000,"tier":1}
+]}

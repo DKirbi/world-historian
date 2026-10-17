@@ -1,0 +1,8 @@
+{"lane": "sweden", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-sweden-1905","name":"Kingdom of Sweden","from":1905,"to":2024,"peak":0.99,"km2":443000,"tier":1}
+],
+ "events":[
+  {"id":"Q697941","name":"Battle of Åland Islands","year":1915,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Gotland"},
+  {"id":"Q82908","name":"Stockholm Convention on Persistent Organic Pollutants","year":2001,"type":"treaty","links":41,"by":"coordinates","wiki":"Stockholm Convention on Persistent Organic Pollutants"}
+]}

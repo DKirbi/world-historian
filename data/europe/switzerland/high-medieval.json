@@ -1,0 +1,12 @@
+{"lane": "switzerland", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-arles","name":"Kingdom of Arles","from":936,"to":1033,"peak":0.55,"km2":23000,"tier":1},
+  {"id":"holy-roman-empire","name":"Holy Roman Empire","from":962,"to":1259,"peak":1.0,"km2":41000,"tier":1,"realm":true},
+  {"id":"holy-roman-empire-minor-states","name":"Holy Roman Empire Minor States","from":1260,"to":1528,"peak":0.97,"km2":40000,"tier":1},
+  {"id":"house-of-hohenstaufen","name":"House of Hohenstaufen","from":1260,"to":1271,"peak":0.37,"km2":15000,"tier":2},
+  {"id":"house-of-habsburg","name":"House of Habsburg","from":1260,"to":1332,"peak":0.1,"km2":4000,"tier":3},
+  {"id":"swiss-confederation","name":"Swiss Confederation","from":1294,"to":1798,"peak":0.95,"km2":39000,"tier":1}
+],
+ "events":[
+  {"id":"Q693411","name":"Peace of Constance","year":1183,"type":"treaty","links":17,"by":"coordinates","wiki":"Peace of Constance"}
+]}

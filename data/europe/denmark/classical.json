@@ -1,0 +1,5 @@
+{"lane": "denmark", "period": "classical", "years": [-800, 475], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"burgundians-154","name":"Burgundians","from":154,"to":223,"peak":0.01,"km2":500,"tier":3,"inside":true},
+  {"id":"norse","name":"Norse","from":161,"to":499,"peak":0.23,"km2":10000,"tier":2}
+]}

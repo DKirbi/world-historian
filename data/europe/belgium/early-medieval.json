@@ -1,0 +1,20 @@
+{"lane": "belgium", "period": "early-medieval", "years": [476, 999], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"salian-franks","name":"Salian Franks","from":358,"to":509,"peak":0.62,"km2":19000,"tier":1},
+  {"id":"kingdom-of-the-franks","name":"Kingdom of the Franks","from":462,"to":660,"peak":1.0,"km2":31000,"tier":1},
+  {"id":"merovingian-empire","name":"Merovingian Empire","from":462,"to":660,"peak":1.0,"km2":31000,"tier":1,"realm":true},
+  {"id":"burgundian-kingdom-602","name":"Burgundian Kingdom","from":644,"to":660,"peak":0.4,"km2":12000,"tier":2},
+  {"id":"aquitaine-629","name":"Aquitaine","from":661,"to":673,"peak":1.0,"km2":31000,"tier":1},
+  {"id":"kingdom-of-the-franks","name":"Kingdom of the Franks","from":666,"to":849,"peak":1.0,"km2":31000,"tier":1},
+  {"id":"merovingian-empire","name":"Merovingian Empire","from":666,"to":717,"peak":1.0,"km2":31000,"tier":1,"realm":true},
+  {"id":"carolingian-empire","name":"Carolingian Empire","from":718,"to":989,"peak":1.0,"km2":31000,"tier":1,"realm":true},
+  {"id":"west-franks","name":"West Franks","from":850,"to":989,"peak":1.0,"km2":31000,"tier":1},
+  {"id":"middle-franks","name":"Middle Franks","from":850,"to":859,"peak":0.77,"km2":24000,"tier":1},
+  {"id":"lower-burgundy","name":"Lower Burgundy","from":860,"to":869,"peak":0.77,"km2":24000,"tier":1},
+  {"id":"east-franks","name":"East Franks","from":880,"to":881,"peak":0.77,"km2":24000,"tier":1},
+  {"id":"east-franks","name":"East Franks","from":887,"to":910,"peak":0.77,"km2":24000,"tier":1},
+  {"id":"middle-franks","name":"Middle Franks","from":899,"to":899,"peak":0.77,"km2":24000,"tier":1},
+  {"id":"kingdom-of-germany","name":"Kingdom of Germany","from":926,"to":961,"peak":0.78,"km2":24000,"tier":1},
+  {"id":"holy-roman-empire","name":"Holy Roman Empire","from":962,"to":1259,"peak":0.81,"km2":25000,"tier":1},
+  {"id":"county-of-flanders","name":"County of Flanders","from":990,"to":1384,"peak":0.39,"km2":12000,"tier":2}
+]}

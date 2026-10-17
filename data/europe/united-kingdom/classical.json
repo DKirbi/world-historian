@@ -1,0 +1,16 @@
+{"lane": "united-kingdom", "period": "classical", "years": [-800, 475], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"roman-empire","name":"Roman Empire","from":51,"to":260,"peak":0.73,"km2":176000,"tier":1},
+  {"id":"gallic-empire","name":"Gallic Empire","from":261,"to":282,"peak":0.61,"km2":147000,"tier":1},
+  {"id":"roman-empire","name":"Roman Empire","from":283,"to":394,"peak":0.61,"km2":147000,"tier":1},
+  {"id":"western-roman-empire","name":"Western Roman Empire","from":395,"to":409,"peak":0.4,"km2":96000,"tier":2},
+  {"id":"brythonic-kingdoms","name":"Brythonic Kingdoms","from":439,"to":1284,"peak":0.7,"km2":169000,"tier":1,"realm":true},
+  {"id":"brythons","name":"Brythons","from":439,"to":643,"peak":0.7,"km2":169000,"tier":1},
+  {"id":"anglo-saxon-england","name":"Anglo-Saxon England","from":441,"to":533,"peak":0.31,"km2":75000,"tier":2,"realm":true}
+],
+ "events":[
+  {"id":"Q742306","name":"Caesar's invasions of Britain","year":-56,"type":"campaign","links":28,"by":"coordinates","wiki":"Julius Caesar's invasions of Britain"},
+  {"id":"Q617650","name":"Battle of the Medway","year":43,"type":"battle","links":18,"by":"coordinates","wiki":"Battle of the Medway"},
+  {"id":"Q894999","name":"Battle of Watling Street","year":60,"type":"battle","links":24,"by":"location","wiki":"Defeat of Boudica"},
+  {"id":"Q1127337","name":"Battle of Mons Graupius","year":83,"type":"battle","links":31,"by":"coordinates","wiki":"Battle of Mons Graupius"}
+]}

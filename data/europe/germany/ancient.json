@@ -1,0 +1,7 @@
+{"lane": "germany", "period": "ancient", "years": [-3400, -801], "source": "cliopatria@v0.2.1",
+ "spans":[
+
+],
+ "events":[
+  {"id":"Q25517452","name":"Battle of the Tollense River","year":-1250,"type":"battle","links":18,"by":"coordinates","wiki":"Tollense valley battlefield"}
+]}

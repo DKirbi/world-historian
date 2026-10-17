@@ -1,0 +1,7 @@
+{"lane": "malta", "period": "early-medieval", "years": [476, 999], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":443,"to":632,"peak":0.8,"km2":200,"tier":1},
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":633,"to":869,"peak":0.8,"km2":200,"tier":1},
+  {"id":"emirate-of-sicily","name":"Emirate of Sicily","from":870,"to":910,"peak":0.8,"km2":200,"tier":1},
+  {"id":"fatimid-caliphate","name":"Fatimid Caliphate","from":911,"to":1098,"peak":0.8,"km2":200,"tier":1}
+]}

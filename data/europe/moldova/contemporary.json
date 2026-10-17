@@ -1,0 +1,16 @@
+{"lane": "moldova", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"russian-empire","name":"Russian Empire","from":1791,"to":1916,"peak":1.0,"km2":33000,"tier":1},
+  {"id":"russian-republic","name":"Russian Republic","from":1917,"to":1917,"peak":1.0,"km2":33000,"tier":1},
+  {"id":"austria-hungary","name":"Austria-Hungary","from":1918,"to":1918,"peak":0.87,"km2":29000,"tier":1},
+  {"id":"kingdom-of-romania","name":"Kingdom of Romania","from":1919,"to":1939,"peak":0.87,"km2":29000,"tier":1},
+  {"id":"union-of-soviet-socialist-republics","name":"Union of Soviet Socialist Republics","from":1922,"to":1941,"peak":1.0,"km2":33000,"tier":1},
+  {"id":"kingdom-of-romania","name":"Kingdom of Romania","from":1942,"to":1944,"peak":0.99,"km2":33000,"tier":1},
+  {"id":"union-of-soviet-socialist-republics","name":"Union of Soviet Socialist Republics","from":1944,"to":1991,"peak":1.0,"km2":33000,"tier":1},
+  {"id":"republic-of-moldova","name":"Republic of Moldova","from":1992,"to":2024,"peak":0.8,"km2":26000,"tier":1},
+  {"id":"russian-occupied-territories","name":"Russian-occupied territories","from":1992,"to":2024,"peak":0.16,"km2":5000,"tier":3},
+  {"id":"russian-federation","name":"Russian Federation","from":1992,"to":2024,"peak":0.16,"km2":5000,"tier":3,"realm":true}
+],
+ "events":[
+  {"id":"Q285280","name":"Transnistria War","year":1990,"type":"war","links":48,"by":"location","to":1992,"wiki":"Transnistrian War"}
+]}

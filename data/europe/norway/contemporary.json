@@ -1,0 +1,14 @@
+{"lane": "norway", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-norway-1905","name":"Kingdom of Norway","from":1905,"to":1940,"peak":0.97,"km2":314000,"tier":1},
+  {"id":"nazi-germany","name":"Nazi Germany","from":1940,"to":1944,"peak":0.95,"km2":309000,"tier":1},
+  {"id":"kingdom-of-norway-1905","name":"Kingdom of Norway","from":1945,"to":2024,"peak":0.97,"km2":314000,"tier":1}
+],
+ "events":[
+  {"id":"Q150939","name":"Operation Weserübung","year":1940,"type":"campaign","links":52,"by":"coordinates","wiki":"Operation Weserübung"},
+  {"id":"Q5084679","name":"Norwegian Campaign","year":1940,"type":"campaign","links":34,"by":"location","wiki":"Norwegian campaign"},
+  {"id":"Q708217","name":"Battles of Narvik","year":1940,"type":"battle","links":29,"by":"coordinates","wiki":"Battles of Narvik"},
+  {"id":"Q177283","name":"Altmark Incident","year":1940,"type":"battle","links":24,"by":"coordinates","wiki":"Altmark incident"},
+  {"id":"Q567787","name":"Battle of Drøbak Sound","year":1940,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Drøbak Sound"},
+  {"id":"Q331588","name":"Convention on Cluster Munitions","year":2008,"type":"treaty","links":30,"by":"location","wiki":"Convention on Cluster Munitions"}
+]}

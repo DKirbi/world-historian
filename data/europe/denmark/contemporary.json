@@ -1,0 +1,10 @@
+{"lane": "denmark", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"denmark-norway","name":"Denmark-Norway","from":1526,"to":1939,"peak":0.97,"km2":41000,"tier":1},
+  {"id":"german-empire","name":"German Empire","from":1871,"to":1919,"peak":0.09,"km2":4000,"tier":3},
+  {"id":"nazi-germany","name":"Nazi Germany","from":1940,"to":1944,"peak":0.97,"km2":41000,"tier":1},
+  {"id":"denmark","name":"Denmark","from":1945,"to":2024,"peak":0.96,"km2":41000,"tier":1}
+],
+ "events":[
+  {"id":"Q2308186","name":"German invasion of Denmark","year":1940,"type":"invasion","links":32,"by":"location","wiki":"German invasion of Denmark (1940)"}
+]}

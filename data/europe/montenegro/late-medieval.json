@@ -1,0 +1,12 @@
+{"lane": "montenegro", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-serbia-1188","name":"Kingdom of Serbia","from":1188,"to":1351,"peak":0.97,"km2":13000,"tier":1},
+  {"id":"serbian-empire","name":"Serbian Empire","from":1352,"to":1374,"peak":0.96,"km2":13000,"tier":1},
+  {"id":"serbian-despots","name":"Serbian Despots","from":1375,"to":1421,"peak":0.69,"km2":9000,"tier":1},
+  {"id":"banate-of-bosnia","name":"Banate of Bosnia","from":1375,"to":1384,"peak":0.28,"km2":4000,"tier":2},
+  {"id":"kingdom-of-bosnia","name":"Kingdom of Bosnia","from":1385,"to":1481,"peak":0.28,"km2":4000,"tier":2},
+  {"id":"serbian-empire","name":"Serbian Empire","from":1415,"to":1458,"peak":0.66,"km2":9000,"tier":1},
+  {"id":"republic-of-venice","name":"Republic of Venice","from":1422,"to":1796,"peak":0.12,"km2":2000,"tier":3},
+  {"id":"duchy-of-saint-sava","name":"Duchy of Saint Sava","from":1453,"to":1474,"peak":0.2,"km2":3000,"tier":2},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1459,"to":1911,"peak":0.91,"km2":12000,"tier":1}
+]}

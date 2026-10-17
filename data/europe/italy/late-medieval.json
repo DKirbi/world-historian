@@ -1,0 +1,33 @@
+{"lane": "italy", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"papal-states","name":"Papal States","from":783,"to":1810,"peak":0.14,"km2":42000,"tier":3},
+  {"id":"giudicato-of-arborea","name":"Giudicato of Arborea","from":866,"to":1374,"peak":0.04,"km2":11000,"tier":3,"inside":true},
+  {"id":"republic-of-genoa","name":"Republic of Genoa","from":1010,"to":1313,"peak":0.04,"km2":12000,"tier":3,"inside":true},
+  {"id":"holy-roman-empire-minor-states","name":"Holy Roman Empire Minor States","from":1260,"to":1708,"peak":0.39,"km2":117000,"tier":2},
+  {"id":"republic-of-pisa","name":"Republic of Pisa","from":1260,"to":1394,"peak":0.05,"km2":15000,"tier":3},
+  {"id":"republic-of-florence","name":"Republic of Florence","from":1260,"to":1555,"peak":0.04,"km2":12000,"tier":3,"inside":true},
+  {"id":"patriarchate-of-aquileia","name":"Patriarchate of Aquileia","from":1260,"to":1421,"peak":0.02,"km2":7000,"tier":3,"inside":true},
+  {"id":"duchy-of-styria","name":"Duchy of Styria","from":1272,"to":1449,"peak":0.0,"km2":300,"tier":3,"inside":true},
+  {"id":"kingdom-of-naples","name":"Kingdom of Naples","from":1285,"to":1449,"peak":0.23,"km2":68000,"tier":2},
+  {"id":"crown-of-aragon","name":"Crown of Aragon","from":1285,"to":1304,"peak":0.07,"km2":22000,"tier":3},
+  {"id":"kingdom-of-sicily","name":"Kingdom of Sicily","from":1305,"to":1384,"peak":0.07,"km2":22000,"tier":3},
+  {"id":"crown-of-aragon","name":"Crown of Aragon","from":1326,"to":1374,"peak":0.07,"km2":20000,"tier":3},
+  {"id":"giudicato-of-arborea","name":"Giudicato of Arborea","from":1375,"to":1421,"peak":0.08,"km2":23000,"tier":3},
+  {"id":"crown-of-aragon","name":"Crown of Aragon","from":1385,"to":1515,"peak":0.38,"km2":114000,"tier":2},
+  {"id":"duchy-of-milan","name":"Duchy of Milan","from":1402,"to":1449,"peak":0.13,"km2":39000,"tier":3},
+  {"id":"republic-of-venice","name":"Republic of Venice","from":1407,"to":1796,"peak":0.11,"km2":32000,"tier":3},
+  {"id":"duchy-of-milan","name":"Duchy of Milan","from":1453,"to":1501,"peak":0.11,"km2":32000,"tier":3},
+  {"id":"kingdom-of-naples","name":"Kingdom of Naples","from":1459,"to":1501,"peak":0.23,"km2":68000,"tier":2}
+],
+ "events":[
+  {"id":"Q661425","name":"Peace of Caltabellotta","year":1302,"type":"treaty","links":20,"by":"location","wiki":"Peace of Caltabellotta"},
+  {"id":"Q7968673","name":"War of the Bucket","year":1325,"type":"war","links":23,"by":"location","to":1326,"wiki":"War of the Bucket"},
+  {"id":"Q2288424","name":"War of the Eight Saints","year":1375,"type":"war","links":14,"by":"location","to":1378,"wiki":"War of the Eight Saints"},
+  {"id":"Q3997898","name":"Treaty of Gallipoli","year":1403,"type":"treaty","links":15,"by":"location","wiki":"Treaty of Gallipoli"},
+  {"id":"Q2506432","name":"Wars in Lombardy","year":1423,"type":"war","links":12,"by":"coordinates","to":1454,"wiki":"Wars in Lombardy"},
+  {"id":"Q1779008","name":"Battle of Anghiari","year":1440,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Anghiari"},
+  {"id":"Q1456635","name":"Treaty of Lodi","year":1454,"type":"treaty","links":21,"by":"location","wiki":"Treaty of Lodi"},
+  {"id":"Q1154983","name":"First Ottoman–Venetian War","year":1463,"type":"war","links":23,"by":"location","to":1479,"wiki":"Ottoman–Venetian War (1463–1479)"},
+  {"id":"Q695198","name":"Ottoman invasion of Otranto","year":1480,"type":"battle","links":24,"by":"coordinates","to":1481,"wiki":"Ottoman conquest of Otranto"},
+  {"id":"Q2445409","name":"War of Ferrara","year":1482,"type":"war","links":13,"by":"location","to":1484,"wiki":"War of Ferrara (1482–1484)"}
+]}

@@ -1,0 +1,27 @@
+{"lane": "romania", "period": "early-modern", "years": [1492, 1788], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"principality-of-wallachia","name":"Principality of Wallachia","from":1314,"to":1599,"peak":0.31,"km2":72000,"tier":2},
+  {"id":"principality-of-moldavia","name":"Principality of Moldavia","from":1363,"to":1768,"peak":0.85,"km2":201000,"tier":1},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1395,"to":1876,"peak":0.15,"km2":36000,"tier":3},
+  {"id":"kingdom-of-hungary","name":"Kingdom of Hungary","from":1459,"to":1546,"peak":0.43,"km2":101000,"tier":2},
+  {"id":"eastern-hungarian-kingdom","name":"Eastern Hungarian Kingdom","from":1529,"to":1571,"peak":0.41,"km2":97000,"tier":2},
+  {"id":"principality-of-transylvania","name":"Principality of Transylvania","from":1572,"to":1599,"peak":0.35,"km2":82000,"tier":2},
+  {"id":"principality-of-transylvania","name":"Principality of Transylvania","from":1602,"to":1695,"peak":0.35,"km2":82000,"tier":2},
+  {"id":"principality-of-wallachia","name":"Principality of Wallachia","from":1602,"to":1771,"peak":0.31,"km2":72000,"tier":2},
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1696,"to":1805,"peak":0.53,"km2":126000,"tier":1},
+  {"id":"russian-empire","name":"Russian Empire","from":1769,"to":1774,"peak":0.51,"km2":119000,"tier":1},
+  {"id":"principality-of-wallachia","name":"Principality of Wallachia","from":1775,"to":1806,"peak":0.31,"km2":72000,"tier":2},
+  {"id":"principality-of-moldavia","name":"Principality of Moldavia","from":1775,"to":1806,"peak":0.18,"km2":42000,"tier":3}
+],
+ "events":[
+  {"id":"Q622844","name":"Treaty of Nagyvárad","year":1540,"type":"treaty","links":17,"by":"coordinates","wiki":"Treaty of Nagyvárad"},
+  {"id":"Q690361","name":"Long War","year":1593,"type":"war","links":36,"by":"location","to":1606,"wiki":"Long Turkish War"},
+  {"id":"Q2540658","name":"Battle of Călugăreni","year":1595,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Călugăreni"},
+  {"id":"Q592069","name":"Battle of Sellenberk","year":1599,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Șelimbăr"},
+  {"id":"Q650411","name":"Battle of Cecora","year":1620,"type":"battle","links":19,"by":"location","wiki":"Battle of Cecora (1620)"},
+  {"id":"Q2917546","name":"treaty of Radnot","year":1656,"type":"treaty","links":13,"by":"location","wiki":"Treaty of Radnot"},
+  {"id":"Q2237649","name":"Battle of Ulaş","year":1696,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Olasch"},
+  {"id":"Q769294","name":"Treaty of Szatmár","year":1703,"type":"treaty","links":19,"by":"location","wiki":"Treaty of Szatmár"},
+  {"id":"Q694246","name":"Revolt of Horea, Cloșca and Crișan","year":1784,"type":"rebellion","links":14,"by":"country","wiki":"Revolt of Horea, Cloșca, and Crișan"},
+  {"id":"Q2309898","name":"Battle of Karánsebes","year":1788,"type":"battle","links":28,"by":"coordinates","wiki":"Battle of Karánsebes"}
+]}

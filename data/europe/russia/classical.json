@@ -1,0 +1,9 @@
+{"lane": "russia", "period": "classical", "years": [-800, 475], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"scythia","name":"Scythia","from":-650,"to":-351,"peak":0.19,"km2":727000,"tier":2},
+  {"id":"cimmerian-bosporus","name":"Cimmerian Bosporus","from":-404,"to":-92,"peak":0.01,"km2":24000,"tier":3,"inside":true},
+  {"id":"cimmerian-bosporus","name":"Cimmerian Bosporus","from":-63,"to":67,"peak":0.01,"km2":24000,"tier":3,"inside":true},
+  {"id":"cimmerian-bosporus","name":"Cimmerian Bosporus","from":78,"to":372,"peak":0.01,"km2":40000,"tier":3,"inside":true},
+  {"id":"huns","name":"Huns","from":371,"to":425,"peak":0.09,"km2":365000,"tier":2},
+  {"id":"hunnic-empire","name":"Hunnic Empire","from":426,"to":468,"peak":0.09,"km2":361000,"tier":2}
+]}

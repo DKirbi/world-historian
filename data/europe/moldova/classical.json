@@ -1,0 +1,9 @@
+{"lane": "moldova", "period": "classical", "years": [-800, 475], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"scythia","name":"Scythia","from":-650,"to":-551,"peak":0.99,"km2":33000,"tier":1},
+  {"id":"scythia","name":"Scythia","from":-450,"to":-224,"peak":0.54,"km2":18000,"tier":1},
+  {"id":"roman-empire","name":"Roman Empire","from":106,"to":126,"peak":0.09,"km2":3000,"tier":3},
+  {"id":"gothia","name":"Gothia","from":207,"to":377,"peak":1.0,"km2":33000,"tier":1},
+  {"id":"huns","name":"Huns","from":373,"to":425,"peak":1.0,"km2":33000,"tier":1},
+  {"id":"hunnic-empire","name":"Hunnic Empire","from":426,"to":468,"peak":1.0,"km2":33000,"tier":1}
+]}

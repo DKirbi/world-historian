@@ -1,0 +1,18 @@
+{"lane": "serbia", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1402,"to":1911,"peak":1.0,"km2":77000,"tier":1},
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1691,"to":1805,"peak":0.66,"km2":51000,"tier":1},
+  {"id":"serbs","name":"Serbs","from":1805,"to":1879,"peak":0.55,"km2":42000,"tier":1},
+  {"id":"austrian-empire","name":"Austrian Empire","from":1806,"to":1867,"peak":0.27,"km2":21000,"tier":2},
+  {"id":"austria-hungary","name":"Austria-Hungary","from":1868,"to":1918,"peak":0.87,"km2":68000,"tier":1},
+  {"id":"kingdom-of-serbia-1880","name":"Kingdom of Serbia","from":1880,"to":1884,"peak":0.63,"km2":49000,"tier":1},
+  {"id":"serbs","name":"Serbs","from":1885,"to":1915,"peak":0.7,"km2":54000,"tier":1}
+],
+ "events":[
+  {"id":"Q7509870","name":"Siege of Belgrade","year":1789,"type":"siege","links":12,"by":"coordinates","wiki":"Siege of Belgrade (1789)"},
+  {"id":"Q368689","name":"First Serbian Uprising","year":1804,"type":"rebellion","links":38,"by":"country","to":1813,"wiki":"First Serbian Uprising"},
+  {"id":"Q2750389","name":"Battle of Mišar","year":1806,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Mišar"},
+  {"id":"Q243585","name":"Second Serbian Uprising","year":1815,"type":"rebellion","links":33,"by":"country","to":1817,"wiki":"Second Serbian Uprising"},
+  {"id":"Q3658001","name":"Battle of Pirot","year":1885,"type":"battle","links":13,"by":"location","wiki":"Battle of Pirot"},
+  {"id":"Q2403418","name":"May Coup","year":1903,"type":"coup","links":21,"by":"coordinates","wiki":"May Coup (Serbia)"}
+]}

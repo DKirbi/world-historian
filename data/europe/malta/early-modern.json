@@ -1,0 +1,10 @@
+{"lane": "malta", "period": "early-modern", "years": [1492, 1788], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"crown-of-aragon","name":"Crown of Aragon","from":1385,"to":1515,"peak":0.8,"km2":200,"tier":1},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1516,"to":1533,"peak":0.8,"km2":200,"tier":1,"realm":true},
+  {"id":"kingdom-of-spain-1516","name":"Kingdom of Spain","from":1516,"to":1533,"peak":0.8,"km2":200,"tier":1}
+],
+ "events":[
+  {"id":"Q6059644","name":"Invasion of Gozo","year":1551,"type":"invasion","links":14,"by":"coordinates","wiki":"Invasion of Gozo (1551)"},
+  {"id":"Q58732","name":"Siege of Malta","year":1565,"type":"siege","links":55,"by":"coordinates","wiki":"Great Siege of Malta"}
+]}

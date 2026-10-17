@@ -1,0 +1,6 @@
+{"lane": "isle-of-man", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1709,"to":1999,"peak":0.77,"km2":400,"tier":1,"realm":true},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1709,"to":2024,"peak":0.77,"km2":400,"tier":1},
+  {"id":"commonwealth-of-nations","name":"Commonwealth of Nations","from":2000,"to":2024,"peak":0.77,"km2":400,"tier":1,"realm":true}
+]}

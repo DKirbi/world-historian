@@ -1,0 +1,10 @@
+{"lane": "portugal", "period": "early-medieval", "years": [476, 999], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-the-suebi","name":"Kingdom of the Suebi","from":414,"to":586,"peak":0.97,"km2":88000,"tier":1},
+  {"id":"visigothic-kingdom","name":"Visigothic Kingdom","from":469,"to":717,"peak":0.97,"km2":88000,"tier":1},
+  {"id":"umayyad-caliphate","name":"Umayyad Caliphate","from":718,"to":756,"peak":0.94,"km2":85000,"tier":1},
+  {"id":"emirate-of-cordoba","name":"Emirate of Córdoba","from":757,"to":935,"peak":0.77,"km2":70000,"tier":1},
+  {"id":"kingdom-of-asturias","name":"Kingdom of Asturias","from":825,"to":910,"peak":0.26,"km2":24000,"tier":2},
+  {"id":"kingdom-of-leon-911","name":"Kingdom of León","from":911,"to":1033,"peak":0.38,"km2":34000,"tier":2},
+  {"id":"caliphate-of-cordoba","name":"Caliphate of Córdoba","from":936,"to":1014,"peak":0.72,"km2":65000,"tier":1}
+]}

@@ -1,0 +1,8 @@
+{"lane": "isle-of-man", "period": "early-modern", "years": [1492, 1788], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-england","name":"Kingdom of England","from":1402,"to":1644,"peak":0.77,"km2":400,"tier":1},
+  {"id":"commonwealth-of-england","name":"Commonwealth of England","from":1645,"to":1661,"peak":0.77,"km2":400,"tier":1},
+  {"id":"kingdom-of-england","name":"Kingdom of England","from":1662,"to":1708,"peak":0.77,"km2":400,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1709,"to":1999,"peak":0.77,"km2":400,"tier":1,"realm":true},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1709,"to":2024,"peak":0.77,"km2":400,"tier":1}
+]}

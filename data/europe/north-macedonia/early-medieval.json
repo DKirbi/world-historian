@@ -1,0 +1,6 @@
+{"lane": "north-macedonia", "period": "early-medieval", "years": [476, 999], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":395,"to":632,"peak":1.0,"km2":25000,"tier":1},
+  {"id":"avar-khaganate","name":"Avar Khaganate","from":682,"to":740,"peak":0.31,"km2":8000,"tier":2},
+  {"id":"first-bulgarian-empire","name":"First Bulgarian Empire","from":850,"to":1017,"peak":1.0,"km2":25000,"tier":1}
+]}

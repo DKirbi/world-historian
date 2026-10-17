@@ -1,0 +1,15 @@
+{"lane": "portugal", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"portuguese-empire","name":"Portuguese Empire","from":1640,"to":1910,"peak":0.98,"km2":88000,"tier":1,"realm":true},
+  {"id":"kingdom-of-portugal-1640","name":"Kingdom of Portugal","from":1640,"to":1910,"peak":0.98,"km2":88000,"tier":1},
+  {"id":"portuguese-republic","name":"Portuguese Republic","from":1911,"to":1925,"peak":0.98,"km2":88000,"tier":1}
+],
+ "events":[
+  {"id":"Q373401","name":"Battle of Cape St. Vincent","year":1797,"type":"battle","links":20,"by":"coordinates","wiki":"Battle of Cape St. Vincent (1797)"},
+  {"id":"Q1190696","name":"War of the Oranges","year":1801,"type":"war","links":26,"by":"location","wiki":"War of the Oranges"},
+  {"id":"Q3402214","name":"Invasion of Portugal","year":1807,"type":"invasion","links":14,"by":"location","wiki":"Invasion of Portugal (1807)"},
+  {"id":"Q209359","name":"Battle of Vimeiro","year":1808,"type":"battle","links":17,"by":"coordinates","wiki":"Battle of Vimeiro"},
+  {"id":"Q324344","name":"Battle of Roliça","year":1808,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Roliça"},
+  {"id":"Q1822923","name":"Liberal Revolution of 1820","year":1820,"type":"revolution","links":18,"by":"location","wiki":"Liberal Revolution of 1820"},
+  {"id":"Q1237867","name":"Liberal Wars","year":1828,"type":"war","links":21,"by":"location","to":1834,"wiki":"Liberal Wars"}
+]}

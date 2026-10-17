@@ -1,0 +1,9 @@
+{"lane": "lithuania", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"polish-lithuanian-commonwealth","name":"Polish-Lithuanian Commonwealth","from":1713,"to":1793,"peak":0.96,"km2":62000,"tier":1},
+  {"id":"russian-empire","name":"Russian Empire","from":1794,"to":1915,"peak":0.96,"km2":62000,"tier":1},
+  {"id":"kingdom-of-prussia","name":"Kingdom of Prussia","from":1794,"to":1806,"peak":0.1,"km2":6000,"tier":3}
+],
+ "events":[
+  {"id":"Q1736806","name":"Convention of Tauroggen","year":1812,"type":"treaty","links":15,"by":"location","wiki":"Convention of Tauroggen"}
+]}

@@ -1,0 +1,7 @@
+{"lane": "slovenia", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1556,"to":1805,"peak":1.0,"km2":20000,"tier":1},
+  {"id":"austrian-empire","name":"Austrian Empire","from":1806,"to":1867,"peak":1.0,"km2":20000,"tier":1},
+  {"id":"first-french-empire","name":"First French Empire","from":1811,"to":1813,"peak":0.75,"km2":15000,"tier":1},
+  {"id":"austria-hungary","name":"Austria-Hungary","from":1868,"to":1918,"peak":1.0,"km2":20000,"tier":1}
+]}

@@ -1,0 +1,12 @@
+{"lane": "croatia", "period": "classical", "years": [-800, 475], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"roman-republic","name":"Roman Republic","from":-164,"to":-32,"peak":0.43,"km2":23000,"tier":2},
+  {"id":"roman-empire","name":"Roman Empire","from":-31,"to":394,"peak":0.93,"km2":50000,"tier":1},
+  {"id":"western-roman-empire","name":"Western Roman Empire","from":395,"to":475,"peak":0.92,"km2":50000,"tier":1},
+  {"id":"ostrogoths","name":"Ostrogoths","from":455,"to":499,"peak":0.93,"km2":50000,"tier":1}
+],
+ "events":[
+  {"id":"Q2530931","name":"Battle of Cibalae","year":314,"type":"battle","links":17,"by":"coordinates","wiki":"Battle of Cibalae"},
+  {"id":"Q1424076","name":"Battle of Mursa Major","year":351,"type":"battle","links":17,"by":"coordinates","wiki":"Battle of Mursa Major"},
+  {"id":"Q841211","name":"Battle of Nedao","year":454,"type":"battle","links":30,"by":"coordinates","wiki":"Battle of Nedao"}
+]}

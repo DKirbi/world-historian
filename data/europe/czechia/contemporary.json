@@ -1,0 +1,17 @@
+{"lane": "czechia", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"austria-hungary","name":"Austria-Hungary","from":1868,"to":1918,"peak":0.99,"km2":78000,"tier":1},
+  {"id":"czechoslovakia","name":"Czechoslovakia","from":1919,"to":1938,"peak":0.99,"km2":78000,"tier":1},
+  {"id":"nazi-germany","name":"Nazi Germany","from":1938,"to":1944,"peak":1.0,"km2":79000,"tier":1},
+  {"id":"union-of-soviet-socialist-republics","name":"Union of Soviet Socialist Republics","from":1945,"to":1946,"peak":1.0,"km2":79000,"tier":1},
+  {"id":"czechoslovakia","name":"Czechoslovakia","from":1947,"to":1968,"peak":0.99,"km2":78000,"tier":1},
+  {"id":"union-of-soviet-socialist-republics","name":"Union of Soviet Socialist Republics","from":1969,"to":1990,"peak":0.99,"km2":78000,"tier":1},
+  {"id":"czechoslovakia","name":"Czechoslovakia","from":1991,"to":1991,"peak":0.99,"km2":78000,"tier":1},
+  {"id":"czech-republic","name":"Czech Republic","from":1992,"to":2024,"peak":0.98,"km2":77000,"tier":1}
+],
+ "events":[
+  {"id":"Q666778","name":"Prague Uprising","year":1945,"type":"rebellion","links":33,"by":"coordinates","wiki":"Prague uprising"},
+  {"id":"Q1137957","name":"1948 Czechoslovak coup d'état","year":1948,"type":"coup","links":39,"by":"location","wiki":"1948 Czechoslovak coup d'état"},
+  {"id":"Q182817","name":"Velvet Revolution","year":1989,"type":"revolution","links":64,"by":"location","wiki":"Velvet Revolution"},
+  {"id":"Q2002064","name":"New START","year":2010,"type":"treaty","links":29,"by":"location","wiki":"New START"}
+]}

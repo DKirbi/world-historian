@@ -1,0 +1,32 @@
+{"lane": "spain", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1877,"to":1931,"peak":0.98,"km2":488000,"tier":1,"realm":true},
+  {"id":"kingdom-of-spain-1640","name":"Kingdom of Spain","from":1877,"to":1931,"peak":0.98,"km2":488000,"tier":1},
+  {"id":"second-spanish-republic","name":"Second Spanish Republic","from":1932,"to":1938,"peak":0.98,"km2":488000,"tier":1},
+  {"id":"spanish-nationalists","name":"Spanish Nationalists","from":1936,"to":1938,"peak":0.67,"km2":333000,"tier":1},
+  {"id":"francoist-spain","name":"Francoist Spain","from":1939,"to":1975,"peak":0.98,"km2":488000,"tier":1},
+  {"id":"kingdom-of-spain-1640","name":"Kingdom of Spain","from":1976,"to":2024,"peak":0.98,"km2":488000,"tier":1}
+],
+ "events":[
+  {"id":"Q685062","name":"Siege of Madrid","year":1936,"type":"siege","links":26,"by":"coordinates","wiki":"Siege of Madrid"},
+  {"id":"Q815108","name":"Siege of the Alcázar","year":1936,"type":"siege","links":21,"by":"coordinates","wiki":"Siege of the Alcázar"},
+  {"id":"Q919922","name":"Battle of Majorca","year":1936,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Mallorca"},
+  {"id":"Q182530","name":"Battle of Badajoz","year":1936,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Badajoz (1936)"},
+  {"id":"Q2060946","name":"Battle of Mérida","year":1936,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Mérida"},
+  {"id":"Q1467456","name":"Battle of Teruel","year":1937,"type":"battle","links":22,"by":"coordinates","to":1938,"wiki":"Battle of Teruel"},
+  {"id":"Q1641241","name":"Battle of Guadalajara","year":1937,"type":"battle","links":21,"by":"coordinates","wiki":"Battle of Guadalajara"},
+  {"id":"Q1885246","name":"Barcelona May Days","year":1937,"type":"battle","links":20,"by":"coordinates","wiki":"May Days"},
+  {"id":"Q3956","name":"Battle of Jarama","year":1937,"type":"battle","links":18,"by":"coordinates","wiki":"Battle of Jarama"},
+  {"id":"Q1259700","name":"Battle of Belchite","year":1937,"type":"battle","links":18,"by":"coordinates","wiki":"Battle of Belchite (1937)"},
+  {"id":"Q2060419","name":"Battle of Brunete","year":1937,"type":"battle","links":17,"by":"coordinates","wiki":"Battle of Brunete"},
+  {"id":"Q2032683","name":"Battle of Málaga","year":1937,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Málaga (1937)"},
+  {"id":"Q2311799","name":"Battle of Santander","year":1937,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Santander"},
+  {"id":"Q1280119","name":"Battle of the Ebro","year":1938,"type":"battle","links":25,"by":"coordinates","wiki":"Battle of the Ebro"},
+  {"id":"Q166495","name":"Catalonia Offensive","year":1938,"type":"battle","links":19,"by":"location","to":1939,"wiki":"Catalonia Offensive"},
+  {"id":"Q625218","name":"Aragon Offensive","year":1938,"type":"battle","links":14,"by":"location","wiki":"Aragon Offensive"},
+  {"id":"Q549912","name":"Declaration of Principles on Western Sahara by Spain, Morocco and Mauritania","year":1975,"type":"treaty","links":20,"by":"location","wiki":"Madrid Accords"},
+  {"id":"Q2118997","name":"Barcelona Convention","year":1976,"type":"treaty","links":16,"by":"location","wiki":"Barcelona Convention"},
+  {"id":"Q215337","name":"1981 Spanish coup d'état attempt","year":1981,"type":"coup","links":32,"by":"coordinates","wiki":"1981 Spanish coup attempt"},
+  {"id":"Q2991463","name":"Protocol on Environmental Protection to the Antarctic Treaty","year":1991,"type":"treaty","links":13,"by":"location","wiki":"Protocol on Environmental Protection to the Antarctic Treaty"},
+  {"id":"Q166270","name":"Convention for the Protection of Human Rights and Dignity of the Human Being with regard to the Application of Biology and Medicine","year":1997,"type":"treaty","links":15,"by":"location","wiki":"Convention for the Protection of Human Rights and Dignity of the Human Being with regard to the Application of Biology and Medicine"}
+]}

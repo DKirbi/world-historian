@@ -1,0 +1,18 @@
+{"lane": "bulgaria", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"second-bulgarian-empire","name":"Second Bulgarian Empire","from":1188,"to":1394,"peak":0.99,"km2":111000,"tier":1},
+  {"id":"byzantine-empire-1279","name":"Byzantine Empire","from":1279,"to":1374,"peak":0.27,"km2":31000,"tier":2},
+  {"id":"despotate-of-vidin","name":"Despotate of Vidin","from":1363,"to":1401,"peak":0.12,"km2":14000,"tier":3},
+  {"id":"despotate-of-dobruja","name":"Despotate of Dobruja","from":1363,"to":1394,"peak":0.06,"km2":7000,"tier":3},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1375,"to":1911,"peak":0.97,"km2":109000,"tier":1},
+  {"id":"albanian-principalities","name":"Albanian Principalities","from":1375,"to":1394,"peak":0.05,"km2":6000,"tier":3}
+],
+ "events":[
+  {"id":"Q2094999","name":"Battle of Skafida","year":1304,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Skafida"},
+  {"id":"Q3499292","name":"Byzantine Civil War of 1321–1328","year":1321,"type":"war","links":22,"by":"location","to":1328,"wiki":"Byzantine civil war of 1321–1328"},
+  {"id":"Q1400440","name":"Battle of Velbazhd","year":1330,"type":"battle","links":21,"by":"location","wiki":"Battle of Velbazhd"},
+  {"id":"Q1889668","name":"Battle of Rusokastro","year":1332,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Rusokastro"},
+  {"id":"Q3394064","name":"Siege of Tarnovo","year":1393,"type":"siege","links":14,"by":"coordinates","wiki":"Siege of Tarnovo"},
+  {"id":"Q212220","name":"Battle of Nicopolis","year":1396,"type":"battle","links":48,"by":"coordinates","wiki":"Battle of Nicopolis"},
+  {"id":"Q32832","name":"Battle of Varna","year":1444,"type":"battle","links":48,"by":"coordinates","wiki":"Battle of Varna"}
+]}

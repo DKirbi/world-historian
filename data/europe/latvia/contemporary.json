@@ -1,0 +1,22 @@
+{"lane": "latvia", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"russian-empire","name":"Russian Empire","from":1721,"to":1916,"peak":1.0,"km2":65000,"tier":1},
+  {"id":"german-empire","name":"German Empire","from":1916,"to":1919,"peak":0.97,"km2":63000,"tier":1},
+  {"id":"russian-republic","name":"Russian Republic","from":1917,"to":1917,"peak":0.58,"km2":38000,"tier":1},
+  {"id":"republic-of-latvia-1920","name":"Republic of Latvia","from":1920,"to":1939,"peak":0.98,"km2":63000,"tier":1},
+  {"id":"union-of-soviet-socialist-republics","name":"Union of Soviet Socialist Republics","from":1940,"to":1941,"peak":1.0,"km2":65000,"tier":1},
+  {"id":"nazi-germany","name":"Nazi Germany","from":1942,"to":1944,"peak":1.0,"km2":65000,"tier":1},
+  {"id":"union-of-soviet-socialist-republics","name":"Union of Soviet Socialist Republics","from":1945,"to":1991,"peak":1.0,"km2":65000,"tier":1},
+  {"id":"republic-of-latvia-1992","name":"Republic of Latvia","from":1992,"to":2024,"peak":0.98,"km2":63000,"tier":1}
+],
+ "events":[
+  {"id":"Q11347885","name":"Battle of Riga","year":1917,"type":"battle","links":17,"by":"coordinates","wiki":"Riga offensive (1917)"},
+  {"id":"Q4296566","name":"Christmas Battles","year":1917,"type":"battle","links":12,"by":"country","wiki":"Christmas Battles"},
+  {"id":"Q1127302","name":"Estonian War of Independence","year":1918,"type":"war","links":47,"by":"coordinates","to":1920,"wiki":"Estonian War of Independence"},
+  {"id":"Q183286","name":"Battle of Cēsis","year":1919,"type":"battle","links":18,"by":"coordinates","wiki":"Battle of Cēsis (1919)"},
+  {"id":"Q1377536","name":"Latvian–Soviet Peace Treaty (1920)","year":1920,"type":"treaty","links":26,"by":"country","wiki":"Latvian–Soviet Peace Treaty"},
+  {"id":"Q1076469","name":"Peace of Riga","year":1921,"type":"treaty","links":45,"by":"location","wiki":"Treaty of Riga"},
+  {"id":"Q3182543","name":"1934 Latvian coup d'état","year":1934,"type":"coup","links":22,"by":"location","wiki":"1934 Latvian coup d'état"},
+  {"id":"Q1324428","name":"Baltic Operation","year":1941,"type":"battle","links":18,"by":"location","wiki":"Baltic operation"},
+  {"id":"Q697172","name":"Courland Pocket","year":1944,"type":"battle","links":24,"by":"location","to":1945,"wiki":"Courland Pocket"}
+]}

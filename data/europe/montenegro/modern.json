@@ -1,0 +1,11 @@
+{"lane": "montenegro", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"republic-of-venice","name":"Republic of Venice","from":1422,"to":1796,"peak":0.12,"km2":2000,"tier":3},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1459,"to":1911,"peak":0.91,"km2":12000,"tier":1},
+  {"id":"austrian-empire","name":"Austrian Empire","from":1820,"to":1867,"peak":0.08,"km2":1000,"tier":3},
+  {"id":"montenegro-1853","name":"Montenegro","from":1853,"to":1915,"peak":0.89,"km2":12000,"tier":1},
+  {"id":"austria-hungary","name":"Austria-Hungary","from":1868,"to":1918,"peak":0.95,"km2":13000,"tier":1}
+],
+ "events":[
+  {"id":"Q4513932","name":"Montenegrin–Ottoman War of 1876–78","year":1876,"type":"war","links":17,"by":"location","to":1878,"wiki":"Montenegrin–Ottoman War (1876–1878)"}
+]}

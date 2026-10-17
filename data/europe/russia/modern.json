@@ -1,0 +1,33 @@
+{"lane": "russia", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"russian-empire","name":"Russian Empire","from":1721,"to":1916,"peak":0.99,"km2":3866000,"tier":1},
+  {"id":"caucasian-imamate","name":"Caucasian Imamate","from":1828,"to":1858,"peak":0.01,"km2":38000,"tier":3,"inside":true}
+],
+ "events":[
+  {"id":"Q72454","name":"Battle of Kerch Strait","year":1790,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Kerch Strait (1790)"},
+  {"id":"Q525097","name":"Persian Expedition of 1796","year":1796,"type":"war","links":25,"by":"location","wiki":"Persian expedition of 1796"},
+  {"id":"Q1139887","name":"Russo-Persian War of 1804–13","year":1804,"type":"war","links":37,"by":"location","to":1813,"wiki":"Russo-Persian War (1804–1813)"},
+  {"id":"Q605977","name":"War of the Fourth Coalition","year":1806,"type":"war","links":47,"by":"location","to":1807,"wiki":"War of the Fourth Coalition"},
+  {"id":"Q154596","name":"Treaties of Tilsit","year":1807,"type":"treaty","links":50,"by":"coordinates","wiki":"Treaties of Tilsit"},
+  {"id":"Q241108","name":"Battle of Friedland","year":1807,"type":"battle","links":43,"by":"coordinates","wiki":"Battle of Friedland"},
+  {"id":"Q184320","name":"Battle of Borodino","year":1812,"type":"battle","links":64,"by":"coordinates","wiki":"Battle of Borodino"},
+  {"id":"Q1071578","name":"Battle of Smolensk","year":1812,"type":"battle","links":31,"by":"coordinates","wiki":"Battle of Smolensk (1812)"},
+  {"id":"Q598090","name":"Battle of Maloyaroslavets","year":1812,"type":"battle","links":19,"by":"coordinates","wiki":"Battle of Maloyaroslavets"},
+  {"id":"Q1083718","name":"Battle of Tarutino","year":1812,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Tarutino"},
+  {"id":"Q25809","name":"Battle of Krasnoi","year":1812,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Krasnoi"},
+  {"id":"Q126306","name":"Decembrist revolt","year":1825,"type":"coup","links":47,"by":"coordinates","wiki":"Decembrist revolt"},
+  {"id":"Q464512","name":"Battle of Balaclava","year":1854,"type":"battle","links":41,"by":"coordinates","wiki":"Battle of Balaclava"},
+  {"id":"Q913604","name":"Battle of Alma","year":1854,"type":"battle","links":32,"by":"coordinates","wiki":"Battle of the Alma"},
+  {"id":"Q815216","name":"Siege of Sevastopol","year":1854,"type":"siege","links":31,"by":"coordinates","to":1855,"wiki":"Siege of Sevastopol (1854–1855)"},
+  {"id":"Q757870","name":"Charge of the Light Brigade","year":1854,"type":"battle","links":28,"by":"coordinates","wiki":"Charge of the Light Brigade"},
+  {"id":"Q770536","name":"Battle of Inkerman","year":1854,"type":"battle","links":25,"by":"coordinates","wiki":"Battle of Inkerman"},
+  {"id":"Q1573604","name":"Battle of Eupatoria","year":1855,"type":"battle","links":18,"by":"coordinates","wiki":"Battle of Eupatoria"},
+  {"id":"Q2342758","name":"Battle of the Chernaya","year":1855,"type":"battle","links":17,"by":"coordinates","wiki":"Battle of the Chernaya"},
+  {"id":"Q586204","name":"Battle of Malakoff","year":1855,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Malakoff"},
+  {"id":"Q2590545","name":"Siege of Taganrog","year":1855,"type":"siege","links":12,"by":"coordinates","wiki":"Siege of Taganrog"},
+  {"id":"Q130271137","name":"Battle of Qbaada","year":1864,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Qbaada"},
+  {"id":"Q1197271","name":"Treaty of Saint Petersburg","year":1875,"type":"treaty","links":23,"by":"location","wiki":"Treaty of Saint Petersburg (1875)"},
+  {"id":"Q716112","name":"Treaty of Saint Petersburg","year":1881,"type":"treaty","links":21,"by":"location","wiki":"Treaty of Saint Petersburg (1881)"},
+  {"id":"Q708385","name":"Li–Lobanov Treaty","year":1896,"type":"treaty","links":18,"by":"location","wiki":"Li–Lobanov Treaty"},
+  {"id":"Q4156944","name":"Moscow Uprising of 1905","year":1905,"type":"rebellion","links":12,"by":"location","wiki":"Moscow uprising of 1905"}
+]}

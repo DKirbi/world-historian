@@ -1,0 +1,16 @@
+{"lane": "estonia", "period": "early-modern", "years": [1492, 1788], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"livonian-conference","name":"Livonian Conference","from":1422,"to":1563,"peak":0.97,"km2":44000,"tier":1},
+  {"id":"tsardom-of-russia","name":"Tsardom of Russia","from":1564,"to":1587,"peak":0.86,"km2":39000,"tier":1},
+  {"id":"kingdom-of-sweden-1502","name":"Kingdom of Sweden","from":1564,"to":1611,"peak":0.39,"km2":18000,"tier":2},
+  {"id":"denmark-norway","name":"Denmark-Norway","from":1564,"to":1644,"peak":0.12,"km2":6000,"tier":3},
+  {"id":"polish-lithuanian-commonwealth","name":"Polish-Lithuanian Commonwealth","from":1588,"to":1628,"peak":0.53,"km2":24000,"tier":1},
+  {"id":"swedish-empire","name":"Swedish Empire","from":1612,"to":1712,"peak":0.97,"km2":44000,"tier":1},
+  {"id":"tsardom-of-russia","name":"Tsardom of Russia","from":1702,"to":1720,"peak":0.99,"km2":45000,"tier":1},
+  {"id":"russian-empire","name":"Russian Empire","from":1721,"to":1916,"peak":0.99,"km2":45000,"tier":1}
+],
+ "events":[
+  {"id":"Q598774","name":"Polish–Swedish War of 1600–11","year":1600,"type":"war","links":25,"by":"location","to":1611,"wiki":"Polish–Swedish War (1600–1611)"},
+  {"id":"Q2067876","name":"Polish–Swedish War of 1600-1629","year":1600,"type":"war","links":15,"by":"location","to":1629,"wiki":"Polish–Swedish War (1600–1629)"},
+  {"id":"Q1456449","name":"Treaty of Cardis","year":1661,"type":"treaty","links":18,"by":"location","wiki":"Treaty of Cardis"}
+]}

@@ -1,0 +1,30 @@
+{"lane": "united-kingdom", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1709,"to":1999,"peak":0.99,"km2":237000,"tier":1,"realm":true},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1709,"to":2024,"peak":0.99,"km2":237000,"tier":1},
+  {"id":"commonwealth-of-nations","name":"Commonwealth of Nations","from":2000,"to":2024,"peak":0.98,"km2":237000,"tier":1,"realm":true}
+],
+ "events":[
+  {"id":"Q523582","name":"International Convention for the Safety of Life at Sea","year":1914,"type":"treaty","links":35,"by":"location","wiki":"SOLAS Convention"},
+  {"id":"Q824165","name":"Treaty of London","year":1915,"type":"treaty","links":52,"by":"location","wiki":"Treaty of London (1915)"},
+  {"id":"Q699527","name":"Scuttling of the German Fleet in Scapa Flow","year":1919,"type":"battle","links":21,"by":"coordinates","wiki":"Scuttling of the German fleet at Scapa Flow"},
+  {"id":"Q541191","name":"Anglo-Irish Treaty","year":1921,"type":"treaty","links":48,"by":"location","wiki":"Anglo-Irish Treaty"},
+  {"id":"Q704536","name":"London Naval Treaty","year":1930,"type":"treaty","links":25,"by":"location","wiki":"London Naval Treaty"},
+  {"id":"Q707678","name":"Anglo-German Naval Agreement","year":1935,"type":"treaty","links":21,"by":"location","wiki":"Anglo-German Naval Agreement"},
+  {"id":"Q617634","name":"Anglo-Egyptian treaty of 1936","year":1936,"type":"treaty","links":24,"by":"location","wiki":"Anglo-Egyptian treaty of 1936"},
+  {"id":"Q2632944","name":"Second London Naval Treaty","year":1936,"type":"treaty","links":14,"by":"location","wiki":"Second London Naval Treaty"},
+  {"id":"Q918147","name":"Anglo-Polish alliance","year":1939,"type":"treaty","links":19,"by":"location","wiki":"Anglo-Polish alliance"},
+  {"id":"Q154720","name":"Battle of Britain","year":1940,"type":"battle","links":77,"by":"coordinates","wiki":"Battle of Britain"},
+  {"id":"Q1757717","name":"Sikorski–Mayski agreement","year":1941,"type":"treaty","links":20,"by":"location","wiki":"Sikorski–Mayski agreement"},
+  {"id":"Q820183","name":"Nuremberg Charter","year":1945,"type":"treaty","links":22,"by":"location","wiki":"Nuremberg Charter"},
+  {"id":"Q290712","name":"Statute of the Council of Europe","year":1949,"type":"treaty","links":20,"by":"country","wiki":"Statute of the Council of Europe"},
+  {"id":"Q6670316","name":"London Declaration","year":1949,"type":"treaty","links":12,"by":"location","wiki":"London Declaration"},
+  {"id":"Q320302","name":"Agreement on German External Debts","year":1953,"type":"treaty","links":16,"by":"location","wiki":"London Agreement on German External Debts"},
+  {"id":"Q256608","name":"Outer Space Treaty","year":1967,"type":"treaty","links":51,"by":"location","wiki":"Outer Space Treaty"},
+  {"id":"Q186444","name":"Treaty on the Non-Proliferation of Nuclear Weapons","year":1968,"type":"treaty","links":78,"by":"location","wiki":"Treaty on the Non-Proliferation of Nuclear Weapons"},
+  {"id":"Q2890741","name":"Battle of the Bogside","year":1969,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of the Bogside"},
+  {"id":"Q803887","name":"Biological Weapons Convention","year":1972,"type":"treaty","links":32,"by":"location","wiki":"Biological Weapons Convention"},
+  {"id":"Q370706","name":"Iranian Embassy Siege","year":1980,"type":"siege","links":29,"by":"coordinates","wiki":"Iranian Embassy siege"},
+  {"id":"Q2708643","name":"Anglo-Irish Agreement","year":1985,"type":"treaty","links":12,"by":"location","wiki":"Anglo-Irish Agreement"},
+  {"id":"Q208958","name":"Good Friday Agreement","year":1998,"type":"treaty","links":53,"by":"country","wiki":"Good Friday Agreement"}
+]}

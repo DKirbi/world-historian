@@ -1,0 +1,14 @@
+{"lane": "bosnia-and-herzegovina", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-croatia","name":"Kingdom of Croatia","from":926,"to":1098,"peak":0.88,"km2":46000,"tier":1},
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":970,"to":1065,"peak":0.82,"km2":43000,"tier":1},
+  {"id":"first-bulgarian-empire","name":"First Bulgarian Empire","from":990,"to":1017,"peak":0.07,"km2":4000,"tier":3},
+  {"id":"great-principality-of-duklja","name":"Great Principality of Duklja","from":1056,"to":1071,"peak":0.12,"km2":6000,"tier":3},
+  {"id":"kingdom-of-duklja","name":"Kingdom of Duklja","from":1072,"to":1138,"peak":0.51,"km2":26000,"tier":1},
+  {"id":"kingdom-of-hungary","name":"Kingdom of Hungary","from":1094,"to":1449,"peak":0.5,"km2":26000,"tier":1},
+  {"id":"grand-principality-of-serbia","name":"Grand Principality of Serbia","from":1094,"to":1168,"peak":0.12,"km2":6000,"tier":3},
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":1139,"to":1151,"peak":0.06,"km2":3000,"tier":3},
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":1169,"to":1187,"peak":0.84,"km2":43000,"tier":1},
+  {"id":"banate-of-bosnia","name":"Banate of Bosnia","from":1188,"to":1384,"peak":0.81,"km2":42000,"tier":1},
+  {"id":"kingdom-of-serbia-1188","name":"Kingdom of Serbia","from":1188,"to":1351,"peak":0.14,"km2":7000,"tier":3}
+]}

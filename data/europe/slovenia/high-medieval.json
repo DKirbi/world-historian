@@ -1,0 +1,9 @@
+{"lane": "slovenia", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"holy-roman-empire","name":"Holy Roman Empire","from":962,"to":1259,"peak":0.88,"km2":18000,"tier":1},
+  {"id":"kingdom-of-hungary","name":"Kingdom of Hungary","from":1000,"to":1449,"peak":0.12,"km2":3000,"tier":3},
+  {"id":"kingdom-of-bohemia","name":"Kingdom of Bohemia","from":1260,"to":1278,"peak":0.71,"km2":14000,"tier":1},
+  {"id":"holy-roman-empire-minor-states","name":"Holy Roman Empire Minor States","from":1260,"to":1384,"peak":0.55,"km2":11000,"tier":1},
+  {"id":"patriarchate-of-aquileia","name":"Patriarchate of Aquileia","from":1260,"to":1293,"peak":0.05,"km2":1000,"tier":3},
+  {"id":"house-of-habsburg","name":"House of Habsburg","from":1279,"to":1515,"peak":0.94,"km2":19000,"tier":1}
+]}

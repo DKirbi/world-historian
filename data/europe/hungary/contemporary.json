@@ -1,0 +1,21 @@
+{"lane": "hungary", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"austria-hungary","name":"Austria-Hungary","from":1868,"to":1918,"peak":1.0,"km2":93000,"tier":1},
+  {"id":"hungarian-republic","name":"Hungarian Republic","from":1919,"to":1943,"peak":0.99,"km2":92000,"tier":1},
+  {"id":"nazi-germany","name":"Nazi Germany","from":1944,"to":1944,"peak":0.99,"km2":93000,"tier":1},
+  {"id":"union-of-soviet-socialist-republics","name":"Union of Soviet Socialist Republics","from":1945,"to":1946,"peak":0.99,"km2":93000,"tier":1},
+  {"id":"hungary","name":"Hungary","from":1947,"to":1949,"peak":0.97,"km2":90000,"tier":1},
+  {"id":"hungarian-people-s-republic","name":"Hungarian People's Republic","from":1950,"to":1955,"peak":0.97,"km2":90000,"tier":1},
+  {"id":"hungarian-nationalists-1956","name":"Hungarian Nationalists","from":1956,"to":1957,"peak":0.97,"km2":90000,"tier":1},
+  {"id":"hungarian-people-s-republic","name":"Hungarian People's Republic","from":1958,"to":1989,"peak":0.97,"km2":90000,"tier":1},
+  {"id":"hungary","name":"Hungary","from":1990,"to":2024,"peak":0.97,"km2":90000,"tier":1}
+],
+ "events":[
+  {"id":"Q252298","name":"Hungarian–Romanian War","year":1918,"type":"war","links":27,"by":"location","to":1920,"wiki":"Hungarian–Romanian War"},
+  {"id":"Q792386","name":"Military convention in Belgrade, 13 November 1918","year":1918,"type":"treaty","links":16,"by":"country","wiki":"Armistice of Belgrade"},
+  {"id":"Q155103","name":"Siege of Budapest","year":1944,"type":"siege","links":39,"by":"coordinates","to":1945,"wiki":"Siege of Budapest"},
+  {"id":"Q2311171","name":"Operation Panzerfaust","year":1944,"type":"coup","links":29,"by":"location","wiki":"Operation Panzerfaust"},
+  {"id":"Q164348","name":"Hungarian Revolution of 1956","year":1956,"type":"rebellion","links":82,"by":"location","wiki":"Hungarian Revolution of 1956"},
+  {"id":"Q1000658","name":"Budapest Memorandum","year":1994,"type":"treaty","links":52,"by":"location","wiki":"Budapest Memorandum"},
+  {"id":"Q1093069","name":"Convention on Cybercrime","year":2001,"type":"treaty","links":19,"by":"location","wiki":"Budapest Convention on Cybercrime"}
+]}

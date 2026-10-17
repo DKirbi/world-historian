@@ -1,0 +1,8 @@
+{"lane": "moldova", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"polish-lithuanian-commonwealth","name":"Polish-Lithuanian Commonwealth","from":1713,"to":1791,"peak":0.07,"km2":2000,"tier":3},
+  {"id":"principality-of-moldavia","name":"Principality of Moldavia","from":1775,"to":1806,"peak":0.74,"km2":25000,"tier":1},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1775,"to":1806,"peak":0.2,"km2":7000,"tier":2},
+  {"id":"russian-empire","name":"Russian Empire","from":1791,"to":1916,"peak":1.0,"km2":33000,"tier":1},
+  {"id":"united-principalities-of-moldavia-and-wallachia","name":"United Principalities of Moldavia and Wallachia","from":1859,"to":1879,"peak":0.12,"km2":4000,"tier":3}
+]}

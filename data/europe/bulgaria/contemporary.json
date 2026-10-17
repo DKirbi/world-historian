@@ -1,0 +1,16 @@
+{"lane": "bulgaria", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"principality-of-bulgaria","name":"Principality of Bulgaria","from":1880,"to":1944,"peak":0.97,"km2":110000,"tier":1},
+  {"id":"kingdom-of-romania","name":"Kingdom of Romania","from":1919,"to":1940,"peak":0.08,"km2":9000,"tier":3},
+  {"id":"union-of-soviet-socialist-republics","name":"Union of Soviet Socialist Republics","from":1945,"to":1946,"peak":0.98,"km2":110000,"tier":1},
+  {"id":"kingdom-of-bulgaria","name":"Kingdom of Bulgaria","from":1947,"to":1947,"peak":0.96,"km2":108000,"tier":1},
+  {"id":"people-s-republic-of-bulgaria","name":"People's Republic of Bulgaria","from":1948,"to":1990,"peak":0.96,"km2":108000,"tier":1},
+  {"id":"republic-of-bulgaria","name":"Republic of Bulgaria","from":1991,"to":2024,"peak":0.96,"km2":108000,"tier":1}
+],
+ "events":[
+  {"id":"Q956737","name":"Battle of Turtucaia","year":1916,"type":"battle","links":17,"by":"coordinates","wiki":"Battle of Turtucaia"},
+  {"id":"Q234738","name":"Turkish War of Independence","year":1919,"type":"war","links":68,"by":"location","to":1923,"wiki":"Turkish War of Independence"},
+  {"id":"Q941932","name":"September Uprising","year":1923,"type":"rebellion","links":17,"by":"location","wiki":"September Uprising"},
+  {"id":"Q960894","name":"1923 Bulgarian coup d'état","year":1923,"type":"coup","links":15,"by":"location","wiki":"1923 Bulgarian coup d'état"},
+  {"id":"Q618048","name":"1944 Bulgarian coup d'état","year":1944,"type":"coup","links":23,"by":"country","wiki":"1944 Bulgarian coup d'état"}
+]}

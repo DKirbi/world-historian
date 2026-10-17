@@ -1,0 +1,32 @@
+{"lane": "russia", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"volga-bulgaria","name":"Volga Bulgaria","from":674,"to":1235,"peak":0.01,"km2":44000,"tier":3,"inside":true},
+  {"id":"kievan-rus","name":"Kievan Rus'","from":882,"to":1235,"peak":0.18,"km2":684000,"tier":2},
+  {"id":"kimek-kipchak-confederation","name":"Kimek-Kipchak confederation","from":1056,"to":1235,"peak":0.26,"km2":1020000,"tier":2},
+  {"id":"novgorod-republic","name":"Novgorod Republic","from":1056,"to":1240,"peak":0.13,"km2":513000,"tier":2},
+  {"id":"principality-of-chernigov","name":"Principality of Chernigov","from":1056,"to":1071,"peak":0.05,"km2":182000,"tier":2},
+  {"id":"principality-of-rostov-suzdal","name":"Principality of Rostov-Suzdal","from":1056,"to":1125,"peak":0.04,"km2":170000,"tier":2,"large":true},
+  {"id":"principality-of-smolensk-1056","name":"Principality of Smolensk","from":1056,"to":1240,"peak":0.03,"km2":115000,"tier":2,"large":true},
+  {"id":"principality-of-chernigov","name":"Principality of Chernigov","from":1072,"to":1093,"peak":0.06,"km2":224000,"tier":2},
+  {"id":"principality-of-chernigov","name":"Principality of Chernigov","from":1094,"to":1240,"peak":0.04,"km2":158000,"tier":2,"large":true},
+  {"id":"principality-of-ryazan","name":"Principality of Ryazan","from":1094,"to":1240,"peak":0.02,"km2":66000,"tier":3,"inside":true},
+  {"id":"principality-of-rostov-suzdal","name":"Principality of Rostov-Suzdal","from":1126,"to":1240,"peak":0.06,"km2":251000,"tier":2},
+  {"id":"hamdanid-emirates","name":"Hamdanid Emirates","from":1139,"to":1191,"peak":0.0,"km2":1000,"tier":3,"inside":true},
+  {"id":"mongol-empire","name":"Mongol Empire","from":1236,"to":1293,"peak":0.71,"km2":2774000,"tier":1},
+  {"id":"novgorod-republic","name":"Novgorod Republic","from":1285,"to":1474,"peak":0.33,"km2":1295000,"tier":2},
+  {"id":"pskov-republic","name":"Pskov Republic","from":1285,"to":1511,"peak":0.01,"km2":22000,"tier":3,"inside":true},
+  {"id":"golden-horde","name":"Golden Horde","from":1294,"to":1362,"peak":0.39,"km2":1530000,"tier":2},
+  {"id":"principality-of-vladimir-suzdal","name":"Principality of Vladimir-Suzdal","from":1294,"to":1304,"peak":0.06,"km2":215000,"tier":2},
+  {"id":"grand-principality-of-moscow","name":"Grand Principality of Moscow","from":1294,"to":1394,"peak":0.04,"km2":165000,"tier":2,"large":true},
+  {"id":"principality-of-smolensk-1294","name":"Principality of Smolensk","from":1294,"to":1406,"peak":0.03,"km2":124000,"tier":2,"large":true},
+  {"id":"nizhny-novgorod","name":"Nizhny Novgorod","from":1294,"to":1394,"peak":0.0,"km2":5000,"tier":3,"inside":true},
+  {"id":"tver","name":"Tver","from":1294,"to":1486,"peak":0.0,"km2":7000,"tier":3,"inside":true},
+  {"id":"principality-of-beloozero","name":"Principality of Beloozero","from":1294,"to":1343,"peak":0.0,"km2":10000,"tier":3,"inside":true}
+],
+ "events":[
+  {"id":"Q1263239","name":"Dubrovnik Charter","year":1230,"type":"treaty","links":15,"by":"location","wiki":"Dubrovnik Charter"},
+  {"id":"Q183249","name":"Battle of the Sit River","year":1238,"type":"battle","links":19,"by":"coordinates","wiki":"Battle of the Sit River"},
+  {"id":"Q521799","name":"Battle of the Neva","year":1240,"type":"battle","links":43,"by":"coordinates","wiki":"Battle of the Neva"},
+  {"id":"Q14689","name":"Battle of the Ice","year":1242,"type":"battle","links":48,"by":"coordinates","wiki":"Battle on the Ice"},
+  {"id":"Q4117235","name":"Berke–Hulegu war","year":1262,"type":"war","links":14,"by":"location","to":1266,"wiki":"Berke–Hulegu war"}
+]}

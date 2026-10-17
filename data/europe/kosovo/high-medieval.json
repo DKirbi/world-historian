@@ -1,0 +1,7 @@
+{"lane": "kosovo", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"first-bulgarian-empire","name":"First Bulgarian Empire","from":850,"to":1017,"peak":1.0,"km2":11000,"tier":1},
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":1010,"to":1205,"peak":1.0,"km2":11000,"tier":1},
+  {"id":"kingdom-of-serbia-1188","name":"Kingdom of Serbia","from":1188,"to":1351,"peak":1.0,"km2":11000,"tier":1},
+  {"id":"second-bulgarian-empire","name":"Second Bulgarian Empire","from":1192,"to":1215,"peak":0.81,"km2":9000,"tier":1}
+]}

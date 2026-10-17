@@ -1,0 +1,7 @@
+{"lane": "north-macedonia", "period": "early-modern", "years": [1492, 1788], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1395,"to":1911,"peak":1.0,"km2":25000,"tier":1}
+],
+ "events":[
+  {"id":"Q26709211","name":"Karposh's Rebellion","year":1689,"type":"rebellion","links":12,"by":"location","wiki":"Karposh's rebellion"}
+]}

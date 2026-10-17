@@ -1,0 +1,11 @@
+{"lane": "belarus", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"polish-lithuanian-commonwealth","name":"Polish-Lithuanian Commonwealth","from":1713,"to":1793,"peak":0.99,"km2":206000,"tier":1},
+  {"id":"russian-empire","name":"Russian Empire","from":1772,"to":1916,"peak":1.0,"km2":208000,"tier":1}
+],
+ "events":[
+  {"id":"Q555839","name":"Battle of Berezina","year":1812,"type":"battle","links":32,"by":"coordinates","wiki":"Battle of Berezina"},
+  {"id":"Q903248","name":"First Battle of Polotsk","year":1812,"type":"battle","links":16,"by":"coordinates","wiki":"First Battle of Polotsk"},
+  {"id":"Q840790","name":"Battle of Saltanovka","year":1812,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Saltanovka"},
+  {"id":"Q2889345","name":"Battle of Mir","year":1812,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Mir (1812)"}
+]}

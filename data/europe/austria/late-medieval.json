@@ -1,0 +1,9 @@
+{"lane": "austria", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-hungary","name":"Kingdom of Hungary","from":1000,"to":1304,"peak":0.05,"km2":4000,"tier":3},
+  {"id":"holy-roman-empire-minor-states","name":"Holy Roman Empire Minor States","from":1260,"to":1802,"peak":0.36,"km2":30000,"tier":2},
+  {"id":"house-of-habsburg","name":"House of Habsburg","from":1279,"to":1515,"peak":0.84,"km2":71000,"tier":1},
+  {"id":"kingdom-of-hungary","name":"Kingdom of Hungary","from":1314,"to":1449,"peak":0.05,"km2":4000,"tier":3},
+  {"id":"duchy-of-bavaria","name":"Duchy of Bavaria","from":1352,"to":1362,"peak":0.17,"km2":15000,"tier":3},
+  {"id":"kingdom-of-hungary","name":"Kingdom of Hungary","from":1459,"to":1528,"peak":0.67,"km2":57000,"tier":1}
+]}

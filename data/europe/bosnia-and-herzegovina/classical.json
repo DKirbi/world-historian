@@ -1,0 +1,12 @@
+{"lane": "bosnia-and-herzegovina", "period": "classical", "years": [-800, 475], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"illyrian-kingdom","name":"Illyrian Kingdom","from":-247,"to":-226,"peak":0.14,"km2":7000,"tier":3},
+  {"id":"roman-republic","name":"Roman Republic","from":-164,"to":-32,"peak":0.25,"km2":13000,"tier":2},
+  {"id":"roman-empire","name":"Roman Empire","from":-31,"to":5,"peak":1.0,"km2":52000,"tier":1},
+  {"id":"roman-empire","name":"Roman Empire","from":9,"to":394,"peak":1.0,"km2":52000,"tier":1},
+  {"id":"western-roman-empire","name":"Western Roman Empire","from":395,"to":475,"peak":1.0,"km2":52000,"tier":1},
+  {"id":"ostrogoths","name":"Ostrogoths","from":455,"to":499,"peak":1.0,"km2":52000,"tier":1}
+],
+ "events":[
+  {"id":"Q1265861","name":"Great Illyrian Revolt","year":6,"type":"war","links":20,"by":"location","to":9,"wiki":"Bellum Batonianum"}
+]}

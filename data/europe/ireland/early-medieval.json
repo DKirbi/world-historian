@@ -1,0 +1,4 @@
+{"lane": "ireland", "period": "early-medieval", "years": [476, 999], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"viking-settlements","name":"Viking settlements","from":850,"to":1325,"peak":0.11,"km2":8000,"tier":3}
+]}

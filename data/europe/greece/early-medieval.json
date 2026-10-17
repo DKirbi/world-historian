@@ -1,0 +1,11 @@
+{"lane": "greece", "period": "early-medieval", "years": [476, 999], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":395,"to":632,"peak":0.86,"km2":112000,"tier":1},
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":633,"to":1205,"peak":0.86,"km2":113000,"tier":1},
+  {"id":"emirate-of-crete","name":"Emirate of Crete","from":830,"to":960,"peak":0.04,"km2":5000,"tier":3,"inside":true},
+  {"id":"first-bulgarian-empire","name":"First Bulgarian Empire","from":850,"to":1009,"peak":0.29,"km2":38000,"tier":2}
+],
+ "events":[
+  {"id":"Q1109261","name":"Sack of Thessalonica","year":904,"type":"siege","links":19,"by":"coordinates","wiki":"Sack of Thessalonica (904)"},
+  {"id":"Q2712928","name":"Battle of Spercheios","year":997,"type":"battle","links":14,"by":"location","wiki":"Battle of Spercheios"}
+]}

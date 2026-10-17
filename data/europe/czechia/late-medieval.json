@@ -1,0 +1,12 @@
+{"lane": "czechia", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-bohemia","name":"Kingdom of Bohemia","from":1202,"to":1452,"peak":0.99,"km2":78000,"tier":1},
+  {"id":"margraviate-of-moravia","name":"Margraviate of Moravia","from":1385,"to":1414,"peak":0.28,"km2":22000,"tier":2},
+  {"id":"house-of-habsburg","name":"House of Habsburg","from":1453,"to":1458,"peak":1.0,"km2":78000,"tier":1},
+  {"id":"kingdom-of-bohemia","name":"Kingdom of Bohemia","from":1459,"to":1528,"peak":0.99,"km2":78000,"tier":1},
+  {"id":"kingdom-of-hungary","name":"Kingdom of Hungary","from":1475,"to":1491,"peak":0.36,"km2":28000,"tier":2}
+],
+ "events":[
+  {"id":"Q181480","name":"Battle of Vítkov Hill","year":1420,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Vítkov Hill"},
+  {"id":"Q935088","name":"Battle of Lipany","year":1434,"type":"battle","links":18,"by":"coordinates","wiki":"Battle of Lipany"}
+]}

@@ -1,0 +1,21 @@
+{"lane": "germany", "period": "classical", "years": [-800, 475], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"roman-republic","name":"Roman Republic","from":-50,"to":-32,"peak":0.08,"km2":28000,"tier":3},
+  {"id":"roman-empire","name":"Roman Empire","from":-31,"to":394,"peak":0.73,"km2":260000,"tier":1},
+  {"id":"ripuarian-franks","name":"Ripuarian Franks","from":238,"to":366,"peak":0.04,"km2":15000,"tier":3,"inside":true},
+  {"id":"gallic-empire","name":"Gallic Empire","from":261,"to":282,"peak":0.08,"km2":28000,"tier":3},
+  {"id":"saxons","name":"Saxons","from":283,"to":454,"peak":0.01,"km2":5000,"tier":3,"inside":true},
+  {"id":"angles","name":"Angles","from":387,"to":479,"peak":0.0,"km2":1000,"tier":3,"inside":true},
+  {"id":"western-roman-empire","name":"Western Roman Empire","from":395,"to":475,"peak":0.19,"km2":68000,"tier":3},
+  {"id":"burgundian-kingdom-414","name":"Burgundian Kingdom","from":414,"to":438,"peak":0.01,"km2":4000,"tier":3,"inside":true},
+  {"id":"hunnic-empire","name":"Hunnic Empire","from":451,"to":454,"peak":0.71,"km2":253000,"tier":1},
+  {"id":"saxons","name":"Saxons","from":455,"to":774,"peak":0.23,"km2":81000,"tier":2},
+  {"id":"kingdom-of-alamannia-462","name":"Kingdom of Alamannia","from":462,"to":499,"peak":0.16,"km2":57000,"tier":3},
+  {"id":"ripuarian-franks","name":"Ripuarian Franks","from":462,"to":509,"peak":0.07,"km2":26000,"tier":3}
+],
+ "events":[
+  {"id":"Q3348645","name":"Early Imperial campaigns in Germania","year":-12,"type":"campaign","links":17,"by":"location","to":16,"wiki":"Roman campaigns in Germania (12 BC – AD 16)"},
+  {"id":"Q87779","name":"Battle of the Teutoburg Forest","year":9,"type":"battle","links":65,"by":"coordinates","wiki":"Battle of the Teutoburg Forest"},
+  {"id":"Q630644","name":"Battle of Idistaviso","year":16,"type":"battle","links":25,"by":"coordinates","wiki":"Battle of Idistaviso"},
+  {"id":"Q2166222","name":"Battle of Solicinium","year":368,"type":"battle","links":16,"by":"location","wiki":"Battle of Solicinium"}
+]}

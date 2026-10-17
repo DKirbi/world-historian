@@ -1,0 +1,9 @@
+{"lane": "cyprus", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1572,"to":1879,"peak":1.0,"km2":9000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1880,"to":1960,"peak":1.0,"km2":9000,"tier":1,"realm":true},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1880,"to":1968,"peak":1.0,"km2":9000,"tier":1}
+],
+ "events":[
+  {"id":"Q3555069","name":"Cyprus Convention","year":1878,"type":"treaty","links":19,"by":"country","wiki":"Cyprus Convention"}
+]}

@@ -1,0 +1,5 @@
+{"lane": "malta", "period": "ancient", "years": [-3400, -801], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"phoenicia","name":"Phoenicia","from":-900,"to":-751,"peak":0.8,"km2":200,"tier":1},
+  {"id":"phoenician-empire","name":"Phoenician Empire","from":-900,"to":-751,"peak":0.8,"km2":200,"tier":1,"realm":true}
+]}

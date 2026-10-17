@@ -1,0 +1,12 @@
+{"lane": "luxembourg", "period": "classical", "years": [-800, 475], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"roman-republic","name":"Roman Republic","from":-50,"to":-32,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"roman-empire","name":"Roman Empire","from":-31,"to":260,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"gallic-empire","name":"Gallic Empire","from":261,"to":282,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"roman-empire","name":"Roman Empire","from":283,"to":394,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"western-roman-empire","name":"Western Roman Empire","from":395,"to":461,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"vandals","name":"Vandals","from":407,"to":409,"peak":0.57,"km2":1000,"tier":1},
+  {"id":"hunnic-empire","name":"Hunnic Empire","from":451,"to":451,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"kingdom-of-the-franks","name":"Kingdom of the Franks","from":462,"to":611,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"merovingian-empire","name":"Merovingian Empire","from":462,"to":660,"peak":1.0,"km2":3000,"tier":1,"realm":true}
+]}

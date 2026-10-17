@@ -1,0 +1,13 @@
+{"lane": "ukraine", "period": "early-medieval", "years": [476, 999], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"avar-khaganate","name":"Avar Khaganate","from":561,"to":655,"peak":0.79,"km2":455000,"tier":1},
+  {"id":"old-great-bulgaria","name":"Old Great Bulgaria","from":633,"to":681,"peak":0.28,"km2":159000,"tier":2},
+  {"id":"khazaria","name":"Khazaria","from":674,"to":969,"peak":0.19,"km2":111000,"tier":2},
+  {"id":"first-bulgarian-empire","name":"First Bulgarian Empire","from":682,"to":895,"peak":0.09,"km2":49000,"tier":3},
+  {"id":"magyars","name":"Magyars","from":840,"to":899,"peak":0.53,"km2":303000,"tier":1},
+  {"id":"kievan-rus","name":"Kievan Rus'","from":884,"to":1235,"peak":0.47,"km2":268000,"tier":2},
+  {"id":"first-bulgarian-empire","name":"First Bulgarian Empire","from":898,"to":969,"peak":0.09,"km2":49000,"tier":3}
+],
+ "events":[
+  {"id":"Q507357","name":"Battle of Southern Buh","year":896,"type":"battle","links":12,"by":"location","wiki":"Battle of Southern Buh"}
+]}

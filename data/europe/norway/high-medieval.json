@@ -1,0 +1,10 @@
+{"lane": "norway", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"old-kingdom-of-norway","name":"Old Kingdom of Norway","from":866,"to":1045,"peak":0.73,"km2":236000,"tier":1},
+  {"id":"north-sea-empire","name":"North Sea Empire","from":1028,"to":1039,"peak":0.73,"km2":236000,"tier":1},
+  {"id":"norway-denmark","name":"Norway-Denmark","from":1046,"to":1055,"peak":0.73,"km2":236000,"tier":1},
+  {"id":"old-kingdom-of-norway","name":"Old Kingdom of Norway","from":1056,"to":1401,"peak":0.79,"km2":258000,"tier":1}
+],
+ "events":[
+  {"id":"Q830878","name":"Battle of Stiklestad","year":1030,"type":"battle","links":27,"by":"coordinates","wiki":"Battle of Stiklestad"}
+]}

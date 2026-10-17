@@ -1,0 +1,22 @@
+{"lane": "united-kingdom", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1709,"to":1999,"peak":0.99,"km2":237000,"tier":1,"realm":true},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1709,"to":2024,"peak":0.99,"km2":237000,"tier":1}
+],
+ "events":[
+  {"id":"Q1568837","name":"Jay's Treaty","year":1794,"type":"treaty","links":24,"by":"location","wiki":"Jay Treaty"},
+  {"id":"Q2443167","name":"Spithead and Nore mutinies","year":1797,"type":"rebellion","links":12,"by":"country","wiki":"Spithead and Nore mutinies"},
+  {"id":"Q649599","name":"Treaty of 1818","year":1818,"type":"treaty","links":24,"by":"location","wiki":"Treaty of 1818"},
+  {"id":"Q224794","name":"Anglo-Dutch Treaty of 1824","year":1824,"type":"treaty","links":23,"by":"location","wiki":"Anglo-Dutch Treaty of 1824"},
+  {"id":"Q1016779","name":"Burney Treaty","year":1826,"type":"treaty","links":13,"by":"country","wiki":"Burney Treaty"},
+  {"id":"Q616951","name":"Treaty of London","year":1827,"type":"treaty","links":18,"by":"location","wiki":"Treaty of London (1827)"},
+  {"id":"Q1160895","name":"Treaty of London","year":1839,"type":"treaty","links":41,"by":"coordinates","wiki":"Treaty of London (1839)"},
+  {"id":"Q700848","name":"Convention of London","year":1840,"type":"treaty","links":16,"by":"location","wiki":"Convention of London (1840)"},
+  {"id":"Q11136035","name":"London Protocol","year":1852,"type":"treaty","links":12,"by":"location","wiki":"London Protocol (1852)"},
+  {"id":"Q745728","name":"Bowring Treaty","year":1855,"type":"treaty","links":15,"by":"country","wiki":"Bowring Treaty"},
+  {"id":"Q976865","name":"Treaty of London","year":1864,"type":"treaty","links":13,"by":"location","wiki":"Treaty of London (1864)"},
+  {"id":"Q1345269","name":"Treaty of London","year":1867,"type":"treaty","links":25,"by":"location","wiki":"Treaty of London (1867)"},
+  {"id":"Q2996241","name":"British-Russian Convention","year":1907,"type":"treaty","links":19,"by":"country","wiki":"Anglo-Russian Convention"},
+  {"id":"Q815102","name":"Siege of Sidney Street","year":1911,"type":"siege","links":23,"by":"coordinates","wiki":"Siege of Sidney Street"},
+  {"id":"Q584617","name":"Treaty of London","year":1913,"type":"treaty","links":45,"by":"location","wiki":"Treaty of London (1913)"}
+]}

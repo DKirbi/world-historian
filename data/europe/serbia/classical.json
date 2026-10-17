@@ -1,0 +1,16 @@
+{"lane": "serbia", "period": "classical", "years": [-800, 475], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"roman-empire","name":"Roman Empire","from":-31,"to":394,"peak":0.91,"km2":71000,"tier":1},
+  {"id":"gothia","name":"Gothia","from":270,"to":382,"peak":0.12,"km2":9000,"tier":3},
+  {"id":"vandals","name":"Vandals","from":337,"to":406,"peak":0.07,"km2":6000,"tier":3},
+  {"id":"huns","name":"Huns","from":383,"to":425,"peak":0.22,"km2":17000,"tier":2},
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":395,"to":629,"peak":0.69,"km2":54000,"tier":1},
+  {"id":"western-roman-empire","name":"Western Roman Empire","from":395,"to":454,"peak":0.1,"km2":8000,"tier":3},
+  {"id":"hunnic-empire","name":"Hunnic Empire","from":426,"to":454,"peak":0.24,"km2":19000,"tier":2},
+  {"id":"ostrogoths","name":"Ostrogoths","from":455,"to":499,"peak":0.11,"km2":8000,"tier":3}
+],
+ "events":[
+  {"id":"Q13403337","name":"Domitian's Dacian War","year":86,"type":"campaign","links":12,"by":"coordinates","to":88,"wiki":"Domitian's Dacian War"},
+  {"id":"Q929265","name":"Battle of Naissus","year":268,"type":"battle","links":29,"by":"coordinates","wiki":"Battle of Naissus"},
+  {"id":"Q2479442","name":"Battle of the Margus","year":285,"type":"battle","links":16,"by":"location","wiki":"Battle of the Margus"}
+]}

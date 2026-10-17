@@ -1,0 +1,7 @@
+{"lane": "czechia", "period": "early-medieval", "years": [476, 999], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"lombards","name":"Lombards","from":490,"to":499,"peak":0.14,"km2":11000,"tier":3},
+  {"id":"samo-s-empire","name":"Samo's Empire","from":623,"to":660,"peak":1.0,"km2":79000,"tier":1},
+  {"id":"great-moravia","name":"Great Moravia","from":814,"to":910,"peak":1.0,"km2":78000,"tier":1},
+  {"id":"duchy-of-bohemia","name":"Duchy of Bohemia","from":896,"to":1002,"peak":0.98,"km2":78000,"tier":1}
+]}

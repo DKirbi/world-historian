@@ -1,0 +1,10 @@
+{"lane": "bosnia-and-herzegovina", "period": "early-modern", "years": [1492, 1788], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"republic-of-ragusa","name":"Republic of Ragusa","from":1429,"to":1808,"peak":0.02,"km2":1000,"tier":3,"inside":true},
+  {"id":"kingdom-of-hungary","name":"Kingdom of Hungary","from":1459,"to":1539,"peak":0.16,"km2":8000,"tier":3},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1463,"to":1879,"peak":0.97,"km2":50000,"tier":1},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1529,"to":1555,"peak":0.09,"km2":5000,"tier":3,"realm":true},
+  {"id":"kingdom-of-spain-1516","name":"Kingdom of Spain","from":1529,"to":1555,"peak":0.09,"km2":5000,"tier":3},
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1556,"to":1594,"peak":0.08,"km2":4000,"tier":3},
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1718,"to":1740,"peak":0.11,"km2":6000,"tier":3}
+]}

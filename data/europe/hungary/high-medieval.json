@@ -1,0 +1,8 @@
+{"lane": "hungary", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-hungary","name":"Kingdom of Hungary","from":1000,"to":1449,"peak":1.0,"km2":93000,"tier":1}
+],
+ "events":[
+  {"id":"Q938980","name":"Battle of Ménfő","year":1044,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Ménfő"},
+  {"id":"Q705874","name":"Battle of Mohi","year":1241,"type":"battle","links":39,"by":"coordinates","wiki":"Battle of Mohi"}
+]}

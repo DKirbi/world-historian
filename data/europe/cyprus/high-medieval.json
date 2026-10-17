@@ -1,0 +1,8 @@
+{"lane": "cyprus", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":960,"to":1191,"peak":1.0,"km2":9000,"tier":1},
+  {"id":"kingdom-of-cyprus","name":"Kingdom of Cyprus","from":1192,"to":1491,"peak":1.0,"km2":9000,"tier":1}
+],
+ "events":[
+  {"id":"Q51660","name":"Sixth Crusade","year":1228,"type":"war","links":53,"by":"location","to":1229,"wiki":"Sixth Crusade"}
+]}

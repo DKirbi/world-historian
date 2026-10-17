@@ -1,0 +1,11 @@
+{"lane": "croatia", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"republic-of-venice","name":"Republic of Venice","from":1450,"to":1796,"peak":0.15,"km2":8000,"tier":3},
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1556,"to":1805,"peak":0.9,"km2":49000,"tier":1},
+  {"id":"austrian-empire","name":"Austrian Empire","from":1806,"to":1867,"peak":0.91,"km2":50000,"tier":1},
+  {"id":"austria-hungary","name":"Austria-Hungary","from":1868,"to":1918,"peak":0.93,"km2":51000,"tier":1}
+],
+ "events":[
+  {"id":"Q2473448","name":"Battle of Lissa","year":1811,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Lissa (1811)"},
+  {"id":"Q4872056","name":"Battle of Pirano","year":1812,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Pirano"}
+]}

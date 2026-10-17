@@ -1,0 +1,12 @@
+{"lane": "finland", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"swedish-empire","name":"Swedish Empire","from":1612,"to":1808,"peak":0.99,"km2":329000,"tier":1},
+  {"id":"russian-empire","name":"Russian Empire","from":1809,"to":1916,"peak":0.99,"km2":330000,"tier":1}
+],
+ "events":[
+  {"id":"Q1456660","name":"Treaty of Värälä","year":1790,"type":"treaty","links":16,"by":"location","wiki":"Treaty of Värälä"},
+  {"id":"Q2578430","name":"Battle of Svensksund","year":1790,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Svensksund"},
+  {"id":"Q2441248","name":"Anglo-Russian War","year":1807,"type":"war","links":19,"by":"location","to":1812,"wiki":"Anglo-Russian War (1807–1812)"},
+  {"id":"Q736268","name":"Finnish War","year":1808,"type":"war","links":46,"by":"coordinates","to":1809,"wiki":"Finnish War"},
+  {"id":"Q1130792","name":"Treaty of Fredrikshamn","year":1809,"type":"treaty","links":33,"by":"coordinates","wiki":"Treaty of Fredrikshamn"}
+]}

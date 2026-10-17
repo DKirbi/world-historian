@@ -1,0 +1,12 @@
+{"lane": "croatia", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-hungary","name":"Kingdom of Hungary","from":1094,"to":1449,"peak":0.87,"km2":47000,"tier":1},
+  {"id":"republic-of-venice","name":"Republic of Venice","from":1188,"to":1362,"peak":0.09,"km2":5000,"tier":3},
+  {"id":"republic-of-venice","name":"Republic of Venice","from":1415,"to":1439,"peak":0.13,"km2":7000,"tier":3},
+  {"id":"house-of-habsburg","name":"House of Habsburg","from":1450,"to":1458,"peak":0.78,"km2":43000,"tier":1},
+  {"id":"republic-of-venice","name":"Republic of Venice","from":1450,"to":1796,"peak":0.15,"km2":8000,"tier":3},
+  {"id":"kingdom-of-hungary","name":"Kingdom of Hungary","from":1459,"to":1546,"peak":0.76,"km2":42000,"tier":1}
+],
+ "events":[
+  {"id":"Q2345536","name":"Treaty of Zadar","year":1358,"type":"treaty","links":21,"by":"location","wiki":"Treaty of Zadar"}
+]}

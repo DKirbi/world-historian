@@ -1,0 +1,7 @@
+{"lane": "ukraine", "period": "classical", "years": [-800, 475], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"scythia","name":"Scythia","from":-650,"to":-224,"peak":0.74,"km2":423000,"tier":1},
+  {"id":"gothia","name":"Gothia","from":207,"to":377,"peak":0.63,"km2":360000,"tier":1},
+  {"id":"huns","name":"Huns","from":373,"to":425,"peak":0.81,"km2":464000,"tier":1},
+  {"id":"hunnic-empire","name":"Hunnic Empire","from":426,"to":468,"peak":0.81,"km2":464000,"tier":1}
+]}

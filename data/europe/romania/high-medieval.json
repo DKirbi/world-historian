@@ -1,0 +1,10 @@
+{"lane": "romania", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"first-bulgarian-empire","name":"First Bulgarian Empire","from":990,"to":1002,"peak":0.1,"km2":24000,"tier":3},
+  {"id":"kingdom-of-hungary","name":"Kingdom of Hungary","from":1000,"to":1449,"peak":0.45,"km2":106000,"tier":2},
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":1003,"to":1187,"peak":0.07,"km2":17000,"tier":3},
+  {"id":"halych-volhynia-occupation","name":"Halych-Volhynia occupation","from":1066,"to":1240,"peak":0.53,"km2":126000,"tier":1},
+  {"id":"second-bulgarian-empire","name":"Second Bulgarian Empire","from":1188,"to":1362,"peak":0.38,"km2":89000,"tier":2},
+  {"id":"mongol-empire","name":"Mongol Empire","from":1241,"to":1293,"peak":0.53,"km2":126000,"tier":1},
+  {"id":"golden-horde","name":"Golden Horde","from":1294,"to":1362,"peak":0.22,"km2":52000,"tier":2}
+]}

@@ -1,0 +1,18 @@
+{"lane": "austria", "period": "early-modern", "years": [1492, 1788], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"holy-roman-empire-minor-states","name":"Holy Roman Empire Minor States","from":1260,"to":1802,"peak":0.36,"km2":30000,"tier":2},
+  {"id":"house-of-habsburg","name":"House of Habsburg","from":1279,"to":1515,"peak":0.84,"km2":71000,"tier":1},
+  {"id":"kingdom-of-hungary","name":"Kingdom of Hungary","from":1459,"to":1528,"peak":0.67,"km2":57000,"tier":1},
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1516,"to":1528,"peak":0.84,"km2":70000,"tier":1},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1529,"to":1555,"peak":0.89,"km2":75000,"tier":1,"realm":true},
+  {"id":"kingdom-of-spain-1516","name":"Kingdom of Spain","from":1529,"to":1555,"peak":0.89,"km2":75000,"tier":1},
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1556,"to":1805,"peak":0.92,"km2":78000,"tier":1}
+],
+ "events":[
+  {"id":"Q207576","name":"First Turkish Siege of Vienna","year":1529,"type":"siege","links":48,"by":"coordinates","wiki":"Siege of Vienna (1529)"},
+  {"id":"Q685415","name":"Treaty of Vienna","year":1606,"type":"treaty","links":12,"by":"location","wiki":"Treaty of Vienna (1606)"},
+  {"id":"Q200855","name":"Battle of Vienna","year":1683,"type":"battle","links":65,"by":"coordinates","wiki":"Battle of Vienna"},
+  {"id":"Q74623","name":"Great Turkish War","year":1683,"type":"war","links":54,"by":"location","to":1699,"wiki":"Great Turkish War"},
+  {"id":"Q698176","name":"Treaty of Vienna","year":1725,"type":"treaty","links":13,"by":"location","wiki":"Treaty of Vienna (1725)"},
+  {"id":"Q699271","name":"Treaty of Vienna","year":1738,"type":"treaty","links":26,"by":"location","wiki":"Treaty of Vienna (1738)"}
+]}

@@ -1,0 +1,14 @@
+{"lane": "austria", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"holy-roman-empire","name":"Holy Roman Empire","from":962,"to":1259,"peak":0.95,"km2":80000,"tier":1},
+  {"id":"kingdom-of-hungary","name":"Kingdom of Hungary","from":1000,"to":1304,"peak":0.05,"km2":4000,"tier":3},
+  {"id":"kingdom-of-poland-962","name":"Kingdom of Poland","from":1003,"to":1027,"peak":0.11,"km2":9000,"tier":3},
+  {"id":"kingdom-of-bohemia","name":"Kingdom of Bohemia","from":1260,"to":1278,"peak":0.66,"km2":56000,"tier":1},
+  {"id":"holy-roman-empire-minor-states","name":"Holy Roman Empire Minor States","from":1260,"to":1802,"peak":0.36,"km2":30000,"tier":2},
+  {"id":"duchy-of-styria","name":"Duchy of Styria","from":1260,"to":1271,"peak":0.13,"km2":11000,"tier":3},
+  {"id":"house-of-habsburg","name":"House of Habsburg","from":1279,"to":1515,"peak":0.84,"km2":71000,"tier":1}
+],
+ "events":[
+  {"id":"Q446410","name":"Battle of the Leitha River","year":1246,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of the Leitha River"},
+  {"id":"Q700194","name":"Battle on the Marchfeld","year":1278,"type":"battle","links":25,"by":"coordinates","wiki":"Battle on the Marchfeld"}
+]}

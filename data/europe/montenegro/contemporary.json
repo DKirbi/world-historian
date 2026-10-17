@@ -1,0 +1,16 @@
+{"lane": "montenegro", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"montenegro-1853","name":"Montenegro","from":1853,"to":1915,"peak":0.89,"km2":12000,"tier":1},
+  {"id":"austria-hungary","name":"Austria-Hungary","from":1868,"to":1918,"peak":0.95,"km2":13000,"tier":1},
+  {"id":"yugoslavia","name":"Yugoslavia","from":1919,"to":1940,"peak":0.95,"km2":13000,"tier":1},
+  {"id":"kingdom-of-italy-1862","name":"Kingdom of Italy","from":1941,"to":1943,"peak":0.94,"km2":13000,"tier":1},
+  {"id":"yugoslav-partisans","name":"Yugoslav Partisans","from":1944,"to":1944,"peak":0.8,"km2":11000,"tier":1},
+  {"id":"yugoslavia","name":"Yugoslavia","from":1945,"to":1945,"peak":0.95,"km2":13000,"tier":1},
+  {"id":"socialist-federal-republic-of-yugoslavia","name":"Socialist Federal Republic of Yugoslavia","from":1946,"to":1991,"peak":0.95,"km2":13000,"tier":1},
+  {"id":"serbia-montenegro","name":"Serbia-Montenegro","from":1992,"to":2005,"peak":0.95,"km2":13000,"tier":1},
+  {"id":"montenegro-2006","name":"Montenegro","from":2006,"to":2024,"peak":0.93,"km2":13000,"tier":1}
+],
+ "events":[
+  {"id":"Q2451530","name":"Battle of Mojkovac","year":1916,"type":"battle","links":16,"by":"location","wiki":"Battle of Mojkovac"},
+  {"id":"Q1402894","name":"Montenegrin Campaign","year":1916,"type":"campaign","links":12,"by":"location","wiki":"Montenegrin campaign"}
+]}

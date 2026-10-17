@@ -1,0 +1,11 @@
+{"lane": "russia", "period": "early-medieval", "years": [476, 999], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"gokturk-khaganate","name":"Göktürk Khaganate","from":561,"to":586,"peak":0.06,"km2":251000,"tier":2},
+  {"id":"western-gokturks","name":"Western Göktürks","from":627,"to":629,"peak":0.04,"km2":142000,"tier":2,"large":true},
+  {"id":"khazaria","name":"Khazaria","from":630,"to":979,"peak":0.14,"km2":540000,"tier":2},
+  {"id":"old-great-bulgaria","name":"Old Great Bulgaria","from":633,"to":673,"peak":0.03,"km2":133000,"tier":2,"large":true},
+  {"id":"volga-bulgaria","name":"Volga Bulgaria","from":674,"to":1235,"peak":0.01,"km2":44000,"tier":3,"inside":true},
+  {"id":"viking-settlements","name":"Viking settlements","from":793,"to":839,"peak":0.0,"km2":12000,"tier":3,"inside":true},
+  {"id":"rus","name":"Rus'","from":880,"to":881,"peak":0.12,"km2":462000,"tier":2},
+  {"id":"kievan-rus","name":"Kievan Rus'","from":882,"to":1235,"peak":0.18,"km2":684000,"tier":2}
+]}

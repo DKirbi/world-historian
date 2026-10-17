@@ -1,0 +1,27 @@
+{"lane": "austria", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"austria-hungary","name":"Austria-Hungary","from":1868,"to":1918,"peak":1.0,"km2":84000,"tier":1},
+  {"id":"republic-of-austria","name":"Republic of Austria","from":1919,"to":1937,"peak":0.98,"km2":83000,"tier":1},
+  {"id":"nazi-germany","name":"Nazi Germany","from":1938,"to":1944,"peak":1.0,"km2":84000,"tier":1},
+  {"id":"second-republic-of-austria","name":"Second Republic of Austria","from":1946,"to":2024,"peak":0.98,"km2":83000,"tier":1}
+],
+ "events":[
+  {"id":"Q7875960","name":"US–Austrian Peace Treaty","year":1921,"type":"treaty","links":14,"by":"location","wiki":"U.S.–Austrian Peace Treaty (1921)"},
+  {"id":"Q684762","name":"July Revolt of 1927","year":1927,"type":"rebellion","links":17,"by":"location","wiki":"July Revolt of 1927"},
+  {"id":"Q126604","name":"First Vienna Award","year":1938,"type":"treaty","links":36,"by":"location","wiki":"First Vienna Award"},
+  {"id":"Q243618","name":"Second Vienna Award","year":1940,"type":"treaty","links":34,"by":"location","wiki":"Second Vienna Award"},
+  {"id":"Q14303815","name":"Battle of Castle Itter","year":1945,"type":"battle","links":30,"by":"coordinates","wiki":"Battle of Castle Itter"},
+  {"id":"Q312388","name":"Bleiburg repatriations","year":1945,"type":"treaty","links":28,"by":"location","wiki":"Bleiburg repatriations"},
+  {"id":"Q306535","name":"Austrian State Treaty","year":1955,"type":"treaty","links":42,"by":"coordinates","wiki":"Austrian State Treaty"},
+  {"id":"Q659717","name":"Vienna Convention on Diplomatic Relations","year":1961,"type":"treaty","links":53,"by":"coordinates","wiki":"Vienna Convention on Diplomatic Relations"},
+  {"id":"Q700855","name":"Vienna Convention on Consular Relations","year":1963,"type":"treaty","links":31,"by":"coordinates","wiki":"Vienna Convention on Consular Relations"},
+  {"id":"Q697986","name":"Vienna Convention on Road Traffic","year":1968,"type":"treaty","links":29,"by":"location","wiki":"Vienna Convention on Road Traffic"},
+  {"id":"Q699366","name":"Vienna Convention on Road Signs and Signals","year":1968,"type":"treaty","links":29,"by":"location","wiki":"Vienna Convention on Road Signs and Signals"},
+  {"id":"Q239768","name":"Vienna Convention on the Law of Treaties","year":1969,"type":"treaty","links":50,"by":"coordinates","wiki":"Vienna Convention on the Law of Treaties"},
+  {"id":"Q1429332","name":"Convention on Psychotropic Substances","year":1971,"type":"treaty","links":23,"by":"location","wiki":"Convention on Psychotropic Substances"},
+  {"id":"Q1248976","name":"Vienna Convention on Succession of States in Respect of Treaties","year":1978,"type":"treaty","links":13,"by":"coordinates","wiki":"Vienna Convention on Succession of States in Respect of Treaties"},
+  {"id":"Q623994","name":"Strategic Arms Limitation Talks","year":1979,"type":"treaty","links":37,"by":"coordinates","wiki":"Strategic Arms Limitation Talks"},
+  {"id":"Q1196344","name":"United Nations Convention on Contracts for the International Sale of Goods","year":1980,"type":"treaty","links":33,"by":"location","wiki":"United Nations Convention on Contracts for the International Sale of Goods"},
+  {"id":"Q686455","name":"Vienna Convention for the Protection of the Ozone Layer","year":1985,"type":"treaty","links":27,"by":"location","wiki":"Vienna Convention for the Protection of the Ozone Layer"},
+  {"id":"Q689782","name":"Vienna Convention on the Law of Treaties Between States and International Organizations or Between International Organizations","year":1986,"type":"treaty","links":12,"by":"location","wiki":"Vienna Convention on the Law of Treaties Between States and International Organizations or Between International Organizations"}
+]}

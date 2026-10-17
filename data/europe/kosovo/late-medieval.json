@@ -1,0 +1,11 @@
+{"lane": "kosovo", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-serbia-1188","name":"Kingdom of Serbia","from":1188,"to":1351,"peak":1.0,"km2":11000,"tier":1},
+  {"id":"serbian-empire","name":"Serbian Empire","from":1352,"to":1458,"peak":1.0,"km2":11000,"tier":1},
+  {"id":"serbian-despots","name":"Serbian Despots","from":1375,"to":1414,"peak":0.8,"km2":9000,"tier":1},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1459,"to":1911,"peak":1.0,"km2":11000,"tier":1}
+],
+ "events":[
+  {"id":"Q179288","name":"Battle of Kosovo","year":1389,"type":"battle","links":61,"by":"coordinates","wiki":"Battle of Kosovo"},
+  {"id":"Q698706","name":"Battle of Kosovo","year":1448,"type":"battle","links":35,"by":"coordinates","wiki":"Battle of Kosovo (1448)"}
+]}

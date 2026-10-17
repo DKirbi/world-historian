@@ -1,0 +1,12 @@
+{"lane": "montenegro", "period": "early-medieval", "years": [476, 999], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":395,"to":632,"peak":0.93,"km2":13000,"tier":1},
+  {"id":"ostrogoths","name":"Ostrogoths","from":490,"to":499,"peak":0.48,"km2":7000,"tier":2},
+  {"id":"ostrogothic-kingdom","name":"Ostrogothic Kingdom","from":500,"to":535,"peak":0.48,"km2":7000,"tier":2},
+  {"id":"principality-of-serbia","name":"Principality of Serbia","from":768,"to":925,"peak":0.83,"km2":11000,"tier":1},
+  {"id":"first-bulgarian-empire","name":"First Bulgarian Empire","from":911,"to":921,"peak":0.05,"km2":1000,"tier":3},
+  {"id":"first-bulgarian-empire","name":"First Bulgarian Empire","from":926,"to":935,"peak":0.87,"km2":12000,"tier":1},
+  {"id":"principality-of-serbia","name":"Principality of Serbia","from":936,"to":960,"peak":0.81,"km2":11000,"tier":1},
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":970,"to":1187,"peak":0.95,"km2":13000,"tier":1},
+  {"id":"first-bulgarian-empire","name":"First Bulgarian Empire","from":980,"to":1017,"peak":0.75,"km2":10000,"tier":1}
+]}

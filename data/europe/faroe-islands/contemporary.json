@@ -1,0 +1,7 @@
+{"lane": "faroe-islands", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"denmark-norway","name":"Denmark-Norway","from":1526,"to":1940,"peak":0.74,"km2":1000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1941,"to":1944,"peak":0.73,"km2":1000,"tier":1,"realm":true},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1941,"to":1944,"peak":0.73,"km2":1000,"tier":1},
+  {"id":"denmark","name":"Denmark","from":1945,"to":2024,"peak":0.74,"km2":1000,"tier":1}
+]}

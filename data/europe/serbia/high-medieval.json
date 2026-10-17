@@ -1,0 +1,14 @@
+{"lane": "serbia", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"first-bulgarian-empire","name":"First Bulgarian Empire","from":682,"to":1017,"peak":0.86,"km2":67000,"tier":1},
+  {"id":"kingdom-of-hungary","name":"Kingdom of Hungary","from":1000,"to":1449,"peak":0.56,"km2":43000,"tier":1},
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":1010,"to":1191,"peak":0.78,"km2":61000,"tier":1},
+  {"id":"kingdom-of-duklja","name":"Kingdom of Duklja","from":1072,"to":1093,"peak":0.12,"km2":9000,"tier":3},
+  {"id":"grand-principality-of-serbia","name":"Grand Principality of Serbia","from":1094,"to":1168,"peak":0.1,"km2":8000,"tier":3},
+  {"id":"kingdom-of-serbia-1188","name":"Kingdom of Serbia","from":1188,"to":1351,"peak":0.63,"km2":49000,"tier":1},
+  {"id":"second-bulgarian-empire","name":"Second Bulgarian Empire","from":1188,"to":1374,"peak":0.59,"km2":46000,"tier":1},
+  {"id":"kingdom-of-syrmia","name":"Kingdom of Syrmia","from":1285,"to":1325,"peak":0.3,"km2":24000,"tier":2}
+],
+ "events":[
+  {"id":"Q172368","name":"Battle of Sirmium","year":1167,"type":"battle","links":18,"by":"location","wiki":"Battle of Sirmium"}
+]}

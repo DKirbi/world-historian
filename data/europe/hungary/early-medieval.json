@@ -1,0 +1,16 @@
+{"lane": "hungary", "period": "early-medieval", "years": [476, 999], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ostrogoths","name":"Ostrogoths","from":455,"to":499,"peak":0.42,"km2":39000,"tier":2},
+  {"id":"ostrogothic-kingdom","name":"Ostrogothic Kingdom","from":500,"to":545,"peak":0.42,"km2":39000,"tier":2},
+  {"id":"kingdom-of-the-gepids","name":"Kingdom of the Gepids","from":510,"to":566,"peak":0.39,"km2":36000,"tier":2},
+  {"id":"lombards","name":"Lombards","from":546,"to":568,"peak":0.65,"km2":61000,"tier":1},
+  {"id":"avar-khaganate","name":"Avar Khaganate","from":567,"to":805,"peak":0.82,"km2":76000,"tier":1},
+  {"id":"samo-s-empire","name":"Samo's Empire","from":623,"to":660,"peak":0.07,"km2":7000,"tier":3},
+  {"id":"kingdom-of-the-franks","name":"Kingdom of the Franks","from":793,"to":849,"peak":0.63,"km2":59000,"tier":1},
+  {"id":"carolingian-empire","name":"Carolingian Empire","from":793,"to":899,"peak":0.63,"km2":59000,"tier":1,"realm":true},
+  {"id":"first-bulgarian-empire","name":"First Bulgarian Empire","from":806,"to":899,"peak":0.39,"km2":37000,"tier":2},
+  {"id":"east-franks","name":"East Franks","from":850,"to":881,"peak":0.4,"km2":38000,"tier":2},
+  {"id":"great-moravia","name":"Great Moravia","from":850,"to":895,"peak":0.21,"km2":20000,"tier":2},
+  {"id":"east-franks","name":"East Franks","from":887,"to":899,"peak":0.4,"km2":38000,"tier":2},
+  {"id":"principality-of-hungary","name":"Principality of Hungary","from":900,"to":999,"peak":1.0,"km2":93000,"tier":1}
+]}

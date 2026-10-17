@@ -1,0 +1,17 @@
+{"lane": "portugal", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"portuguese-republic","name":"Portuguese Republic","from":1911,"to":1925,"peak":0.98,"km2":88000,"tier":1},
+  {"id":"estado-novo","name":"Estado Novo","from":1926,"to":1975,"peak":0.98,"km2":88000,"tier":1},
+  {"id":"portugal","name":"Portugal","from":1976,"to":2024,"peak":0.98,"km2":88000,"tier":1}
+],
+ "events":[
+  {"id":"Q4412123","name":"Monarchy of the North","year":1919,"type":"rebellion","links":12,"by":"location","wiki":"Monarchy of the North"},
+  {"id":"Q732219","name":"28 May 1926 coup d'état","year":1926,"type":"coup","links":13,"by":"location","wiki":"28 May 1926 coup d'état"},
+  {"id":"Q193245","name":"Carnation Revolution","year":1974,"type":"coup","links":65,"by":"coordinates","wiki":"Carnation Revolution"},
+  {"id":"Q449550","name":"Alvor Agreement","year":1975,"type":"treaty","links":12,"by":"coordinates","wiki":"Alvor Agreement"},
+  {"id":"Q1113432","name":"Portuguese Language Orthographic Agreement of 1990","year":1990,"type":"treaty","links":13,"by":"location","wiki":"Portuguese-Language Orthographic Agreement of 1990"},
+  {"id":"Q4263317","name":"Lisbon Protocol","year":1992,"type":"treaty","links":16,"by":"location","wiki":"Lisbon Protocol"},
+  {"id":"Q1546127","name":"Lisbon Recognition Convention","year":1997,"type":"treaty","links":14,"by":"location","wiki":"Lisbon Recognition Convention"},
+  {"id":"Q21655393","name":"Council of Europe Framework Convention on the Value of Cultural Heritage for Society","year":2005,"type":"treaty","links":13,"by":"location","wiki":"Faro Convention"},
+  {"id":"Q52843","name":"Treaty of Lisbon","year":2007,"type":"treaty","links":79,"by":"location","wiki":"Treaty of Lisbon"}
+]}

@@ -1,0 +1,16 @@
+{"lane": "lithuania", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"grand-duchy-of-lithuania","name":"Grand Duchy of Lithuania","from":1220,"to":1449,"peak":0.96,"km2":62000,"tier":1},
+  {"id":"polish-lithuania-kingdom","name":"Polish-Lithuania Kingdom","from":1395,"to":1449,"peak":0.96,"km2":62000,"tier":1,"realm":true},
+  {"id":"holy-roman-empire","name":"Holy Roman Empire","from":1402,"to":1414,"peak":0.59,"km2":38000,"tier":1,"realm":true},
+  {"id":"teutonic-order","name":"Teutonic Order","from":1402,"to":1414,"peak":0.59,"km2":38000,"tier":1},
+  {"id":"house-of-jagiellon","name":"House of Jagiellon","from":1450,"to":1571,"peak":0.96,"km2":62000,"tier":1}
+],
+ "events":[
+  {"id":"Q693989","name":"Battle of Strėva","year":1348,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Strėva"},
+  {"id":"Q661712","name":"Treaty of Dovydiškės","year":1380,"type":"treaty","links":12,"by":"location","wiki":"Treaty of Dovydiškės"},
+  {"id":"Q549605","name":"Lithuanian Civil War of 1381–1384","year":1381,"type":"war","links":14,"by":"location","to":1384,"wiki":"Lithuanian Civil War (1381–1384)"},
+  {"id":"Q668403","name":"Treaty of Salynas","year":1398,"type":"treaty","links":14,"by":"location","wiki":"Treaty of Salynas"},
+  {"id":"Q2669939","name":"Lithuanian Civil War of 1432–1438","year":1432,"type":"war","links":15,"by":"location","to":1438,"wiki":"Lithuanian Civil War (1432–1438)"},
+  {"id":"Q1411508","name":"Battle of Wilkomierz","year":1435,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Wiłkomierz"}
+]}

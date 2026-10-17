@@ -1,0 +1,26 @@
+{"lane": "greece", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":633,"to":1205,"peak":0.86,"km2":113000,"tier":1},
+  {"id":"first-bulgarian-empire","name":"First Bulgarian Empire","from":850,"to":1009,"peak":0.29,"km2":38000,"tier":2},
+  {"id":"despotate-of-epirus","name":"Despotate of Epirus","from":1206,"to":1343,"peak":0.52,"km2":68000,"tier":1},
+  {"id":"kingdom-of-thessalonica","name":"Kingdom of Thessalonica","from":1206,"to":1226,"peak":0.25,"km2":32000,"tier":2},
+  {"id":"principality-of-achaea-1206","name":"Principality of Achaea","from":1206,"to":1278,"peak":0.14,"km2":18000,"tier":3},
+  {"id":"latin-empire","name":"Latin Empire","from":1206,"to":1226,"peak":0.09,"km2":11000,"tier":3},
+  {"id":"second-bulgarian-empire","name":"Second Bulgarian Empire","from":1206,"to":1215,"peak":0.08,"km2":11000,"tier":3},
+  {"id":"duchy-of-athens","name":"Duchy of Athens","from":1206,"to":1313,"peak":0.06,"km2":8000,"tier":3},
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":1206,"to":1226,"peak":0.02,"km2":2000,"tier":3,"inside":true},
+  {"id":"domain-of-rhodes","name":"Domain of Rhodes","from":1206,"to":1249,"peak":0.01,"km2":1000,"tier":3,"inside":true},
+  {"id":"republic-of-venice","name":"Republic of Venice","from":1210,"to":1647,"peak":0.13,"km2":17000,"tier":3},
+  {"id":"duchy-of-the-archipelago","name":"Duchy of the Archipelago","from":1210,"to":1313,"peak":0.01,"km2":1000,"tier":3,"inside":true},
+  {"id":"second-bulgarian-empire","name":"Second Bulgarian Empire","from":1236,"to":1249,"peak":0.2,"km2":26000,"tier":2},
+  {"id":"empire-of-thessalonica","name":"Empire of Thessalonica","from":1236,"to":1249,"peak":0.17,"km2":22000,"tier":3},
+  {"id":"nicaean-empire","name":"Nicaean Empire","from":1250,"to":1278,"peak":0.33,"km2":42000,"tier":2},
+  {"id":"thessaly","name":"Thessaly","from":1272,"to":1332,"peak":0.11,"km2":14000,"tier":3},
+  {"id":"byzantine-empire-1279","name":"Byzantine Empire","from":1279,"to":1401,"peak":0.7,"km2":91000,"tier":1},
+  {"id":"house-of-anjou-sicily","name":"House of Anjou-Sicily","from":1279,"to":1293,"peak":0.1,"km2":13000,"tier":3},
+  {"id":"principality-of-achaea-1206","name":"Principality of Achaea","from":1294,"to":1325,"peak":0.11,"km2":14000,"tier":3}
+],
+ "events":[
+  {"id":"Q763428","name":"Battle of Pelagonia","year":1259,"type":"battle","links":23,"by":"coordinates","wiki":"Battle of Pelagonia"},
+  {"id":"Q2889962","name":"Battle of Settepozzi","year":1263,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Settepozzi"}
+]}

@@ -1,0 +1,15 @@
+{"lane": "sweden", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"scandinavian-minor-kingdoms-800","name":"Scandinavian minor kingdoms","from":800,"to":1002,"peak":0.36,"km2":162000,"tier":2},
+  {"id":"jaemtland","name":"Jaemtland","from":947,"to":1187,"peak":0.06,"km2":26000,"tier":3},
+  {"id":"kingdom-of-denmark","name":"Kingdom of Denmark","from":960,"to":1017,"peak":0.06,"km2":29000,"tier":3},
+  {"id":"kingdom-of-sweden-980","name":"Kingdom of Sweden","from":980,"to":1401,"peak":0.45,"km2":201000,"tier":2},
+  {"id":"north-sea-empire","name":"North Sea Empire","from":1018,"to":1039,"peak":0.08,"km2":36000,"tier":3},
+  {"id":"norway-denmark","name":"Norway-Denmark","from":1046,"to":1055,"peak":0.08,"km2":36000,"tier":3},
+  {"id":"kingdom-of-denmark","name":"Kingdom of Denmark","from":1056,"to":1343,"peak":0.06,"km2":26000,"tier":3,"realm":true},
+  {"id":"old-kingdom-of-norway","name":"Old Kingdom of Norway","from":1188,"to":1401,"peak":0.26,"km2":115000,"tier":2}
+],
+ "events":[
+  {"id":"Q499768","name":"Battle of Helgeå","year":1026,"type":"battle","links":13,"by":"location","wiki":"Battle of Helgeå"},
+  {"id":"Q367025","name":"Battle of Lena","year":1208,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Lena"}
+]}

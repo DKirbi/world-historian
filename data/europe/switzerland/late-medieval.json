@@ -1,0 +1,18 @@
+{"lane": "switzerland", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"holy-roman-empire-minor-states","name":"Holy Roman Empire Minor States","from":1260,"to":1528,"peak":0.97,"km2":40000,"tier":1},
+  {"id":"house-of-habsburg","name":"House of Habsburg","from":1260,"to":1332,"peak":0.1,"km2":4000,"tier":3},
+  {"id":"swiss-confederation","name":"Swiss Confederation","from":1294,"to":1798,"peak":0.95,"km2":39000,"tier":1},
+  {"id":"county-of-savoy","name":"County of Savoy","from":1402,"to":1539,"peak":0.09,"km2":4000,"tier":3},
+  {"id":"duchy-of-milan","name":"Duchy of Milan","from":1402,"to":1449,"peak":0.08,"km2":3000,"tier":3},
+  {"id":"duchy-of-milan","name":"Duchy of Milan","from":1453,"to":1501,"peak":0.08,"km2":3000,"tier":3}
+],
+ "events":[
+  {"id":"Q326989","name":"Battle of Morgarten","year":1315,"type":"battle","links":27,"by":"coordinates","wiki":"Battle of Morgarten"},
+  {"id":"Q667606","name":"Battle of Laupen","year":1339,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Laupen"},
+  {"id":"Q661759","name":"Battle of Sempach","year":1386,"type":"battle","links":20,"by":"coordinates","wiki":"Battle of Sempach"},
+  {"id":"Q667460","name":"Battle of Näfels","year":1388,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Näfels"},
+  {"id":"Q673411","name":"Battle of Arbedo","year":1422,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Arbedo"},
+  {"id":"Q688502","name":"Battle of Morat","year":1476,"type":"battle","links":20,"by":"coordinates","wiki":"Battle of Morat"},
+  {"id":"Q668008","name":"Battle of Grandson","year":1476,"type":"battle","links":19,"by":"coordinates","wiki":"Battle of Grandson"}
+]}

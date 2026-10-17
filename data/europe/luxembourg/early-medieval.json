@@ -1,0 +1,22 @@
+{"lane": "luxembourg", "period": "early-medieval", "years": [476, 999], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-the-franks","name":"Kingdom of the Franks","from":462,"to":611,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"merovingian-empire","name":"Merovingian Empire","from":462,"to":660,"peak":1.0,"km2":3000,"tier":1,"realm":true},
+  {"id":"burgundian-kingdom-602","name":"Burgundian Kingdom","from":612,"to":616,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"kingdom-of-the-franks","name":"Kingdom of the Franks","from":617,"to":660,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"aquitaine-629","name":"Aquitaine","from":661,"to":665,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"kingdom-of-the-franks","name":"Kingdom of the Franks","from":666,"to":849,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"merovingian-empire","name":"Merovingian Empire","from":666,"to":717,"peak":1.0,"km2":3000,"tier":1,"realm":true},
+  {"id":"carolingian-empire","name":"Carolingian Empire","from":718,"to":859,"peak":1.0,"km2":3000,"tier":1,"realm":true},
+  {"id":"middle-franks","name":"Middle Franks","from":850,"to":859,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"lower-burgundy","name":"Lower Burgundy","from":860,"to":869,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"carolingian-empire","name":"Carolingian Empire","from":870,"to":925,"peak":1.0,"km2":3000,"tier":1,"realm":true},
+  {"id":"west-franks","name":"West Franks","from":870,"to":879,"peak":0.88,"km2":2000,"tier":1},
+  {"id":"east-franks","name":"East Franks","from":880,"to":881,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"west-franks","name":"West Franks","from":882,"to":886,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"east-franks","name":"East Franks","from":887,"to":910,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"middle-franks","name":"Middle Franks","from":899,"to":899,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"west-franks","name":"West Franks","from":911,"to":925,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"kingdom-of-germany","name":"Kingdom of Germany","from":926,"to":961,"peak":1.0,"km2":3000,"tier":1},
+  {"id":"holy-roman-empire","name":"Holy Roman Empire","from":962,"to":1259,"peak":1.0,"km2":3000,"tier":1}
+]}

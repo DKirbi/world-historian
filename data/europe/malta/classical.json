@@ -1,0 +1,14 @@
+{"lane": "malta", "period": "classical", "years": [-800, 475], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"phoenicia","name":"Phoenicia","from":-900,"to":-751,"peak":0.8,"km2":200,"tier":1},
+  {"id":"phoenician-empire","name":"Phoenician Empire","from":-900,"to":-751,"peak":0.8,"km2":200,"tier":1,"realm":true},
+  {"id":"phoenician-empire","name":"Phoenician Empire","from":-700,"to":-501,"peak":0.8,"km2":200,"tier":1,"realm":true},
+  {"id":"phoenician-colonies","name":"Phoenician Colonies","from":-700,"to":-616,"peak":0.8,"km2":200,"tier":1},
+  {"id":"phoenicia","name":"Phoenicia","from":-615,"to":-501,"peak":0.8,"km2":200,"tier":1},
+  {"id":"carthage","name":"Carthage","from":-500,"to":-217,"peak":0.8,"km2":200,"tier":1},
+  {"id":"roman-republic","name":"Roman Republic","from":-216,"to":-32,"peak":0.8,"km2":200,"tier":1},
+  {"id":"roman-empire","name":"Roman Empire","from":-31,"to":394,"peak":0.8,"km2":200,"tier":1},
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":395,"to":440,"peak":0.8,"km2":200,"tier":1},
+  {"id":"vandal-kingdom","name":"Vandal Kingdom","from":441,"to":442,"peak":0.8,"km2":200,"tier":1},
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":443,"to":632,"peak":0.8,"km2":200,"tier":1}
+]}

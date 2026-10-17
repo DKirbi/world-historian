@@ -1,0 +1,17 @@
+{"lane": "croatia", "period": "early-modern", "years": [1492, 1788], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"republic-of-venice","name":"Republic of Venice","from":1450,"to":1796,"peak":0.15,"km2":8000,"tier":3},
+  {"id":"kingdom-of-hungary","name":"Kingdom of Hungary","from":1459,"to":1546,"peak":0.76,"km2":42000,"tier":1},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1529,"to":1555,"peak":0.48,"km2":26000,"tier":2,"realm":true},
+  {"id":"kingdom-of-spain-1516","name":"Kingdom of Spain","from":1529,"to":1555,"peak":0.48,"km2":26000,"tier":2},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1529,"to":1699,"peak":0.35,"km2":19000,"tier":2},
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1556,"to":1805,"peak":0.9,"km2":49000,"tier":1}
+],
+ "events":[
+  {"id":"Q694379","name":"Battle of Krbava Field","year":1493,"type":"battle","links":29,"by":"coordinates","wiki":"Battle of Krbava Field"},
+  {"id":"Q904938","name":"Battle of Đakovo","year":1537,"type":"battle","links":13,"by":"location","wiki":"Battle of Gorjani"},
+  {"id":"Q701335","name":"Battle of Sisak","year":1593,"type":"battle","links":22,"by":"coordinates","wiki":"Battle of Sisak"},
+  {"id":"Q699602","name":"Cretan War of 1645-1669","year":1645,"type":"war","links":36,"by":"coordinates","to":1669,"wiki":"Cretan War (1645–1669)"},
+  {"id":"Q255006","name":"Magnate conspiracy","year":1670,"type":"coup","links":20,"by":"country","prec":8,"wiki":"Magnate conspiracy"},
+  {"id":"Q694835","name":"Seventh Ottoman–Venetian War","year":1714,"type":"war","links":30,"by":"location","to":1718,"wiki":"Ottoman–Venetian War (1714–1718)"}
+]}

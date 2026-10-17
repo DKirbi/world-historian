@@ -1,0 +1,9 @@
+{"lane": "slovenia", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-hungary","name":"Kingdom of Hungary","from":1000,"to":1449,"peak":0.12,"km2":3000,"tier":3},
+  {"id":"holy-roman-empire-minor-states","name":"Holy Roman Empire Minor States","from":1260,"to":1384,"peak":0.55,"km2":11000,"tier":1},
+  {"id":"house-of-habsburg","name":"House of Habsburg","from":1279,"to":1515,"peak":0.94,"km2":19000,"tier":1},
+  {"id":"patriarchate-of-aquileia","name":"Patriarchate of Aquileia","from":1385,"to":1449,"peak":0.05,"km2":1000,"tier":3},
+  {"id":"duchy-of-styria","name":"Duchy of Styria","from":1450,"to":1501,"peak":0.05,"km2":1000,"tier":3},
+  {"id":"kingdom-of-hungary","name":"Kingdom of Hungary","from":1459,"to":1539,"peak":0.15,"km2":3000,"tier":3}
+]}

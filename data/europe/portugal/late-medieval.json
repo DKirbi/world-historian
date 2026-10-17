@@ -1,0 +1,10 @@
+{"lane": "portugal", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-portugal-1147","name":"Kingdom of Portugal","from":1147,"to":1581,"peak":0.98,"km2":88000,"tier":1}
+],
+ "events":[
+  {"id":"Q2105495","name":"1383–1385 Portuguese Interregnum","year":1383,"type":"war","links":20,"by":"location","to":1385,"wiki":"1383–1385 Portuguese interregnum"},
+  {"id":"Q2530225","name":"Battle of Atoleiros","year":1384,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Atoleiros"},
+  {"id":"Q1341972","name":"Battle of Aljubarrota","year":1385,"type":"battle","links":29,"by":"coordinates","wiki":"Battle of Aljubarrota"},
+  {"id":"Q593355","name":"Treaty of Alcáçovas","year":1479,"type":"treaty","links":24,"by":"coordinates","wiki":"Treaty of Alcáçovas"}
+]}

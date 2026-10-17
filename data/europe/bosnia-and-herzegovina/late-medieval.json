@@ -1,0 +1,15 @@
+{"lane": "bosnia-and-herzegovina", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-hungary","name":"Kingdom of Hungary","from":1094,"to":1449,"peak":0.5,"km2":26000,"tier":1},
+  {"id":"banate-of-bosnia","name":"Banate of Bosnia","from":1188,"to":1384,"peak":0.81,"km2":42000,"tier":1},
+  {"id":"kingdom-of-serbia-1188","name":"Kingdom of Serbia","from":1188,"to":1351,"peak":0.14,"km2":7000,"tier":3},
+  {"id":"serbian-empire","name":"Serbian Empire","from":1352,"to":1374,"peak":0.1,"km2":5000,"tier":3},
+  {"id":"kingdom-of-bosnia","name":"Kingdom of Bosnia","from":1385,"to":1481,"peak":0.88,"km2":45000,"tier":1},
+  {"id":"republic-of-ragusa","name":"Republic of Ragusa","from":1385,"to":1414,"peak":0.01,"km2":1000,"tier":3,"inside":true},
+  {"id":"republic-of-ragusa","name":"Republic of Ragusa","from":1429,"to":1808,"peak":0.02,"km2":1000,"tier":3,"inside":true},
+  {"id":"kingdom-of-hungary","name":"Kingdom of Hungary","from":1459,"to":1539,"peak":0.16,"km2":8000,"tier":3},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1463,"to":1879,"peak":0.97,"km2":50000,"tier":1}
+],
+ "events":[
+  {"id":"Q700874","name":"Battle of Bileća","year":1388,"type":"battle","links":24,"by":"coordinates","wiki":"Battle of Bileća"}
+]}

@@ -1,0 +1,5 @@
+{"lane": "iceland", "period": "early-medieval", "years": [476, 999], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"viking-settlements","name":"Viking settlements","from":875,"to":935,"peak":0.15,"km2":15000,"tier":3},
+  {"id":"icelandic-commonwealth","name":"Icelandic Commonwealth","from":936,"to":1271,"peak":0.99,"km2":101000,"tier":1}
+]}

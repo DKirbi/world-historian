@@ -1,0 +1,9 @@
+{"lane": "moldova", "period": "early-medieval", "years": [476, 999], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"avar-khaganate","name":"Avar Khaganate","from":561,"to":655,"peak":1.0,"km2":33000,"tier":1},
+  {"id":"old-great-bulgaria","name":"Old Great Bulgaria","from":656,"to":681,"peak":0.24,"km2":8000,"tier":2},
+  {"id":"first-bulgarian-empire","name":"First Bulgarian Empire","from":682,"to":895,"peak":0.24,"km2":8000,"tier":2},
+  {"id":"magyars","name":"Magyars","from":840,"to":899,"peak":1.0,"km2":33000,"tier":1},
+  {"id":"first-bulgarian-empire","name":"First Bulgarian Empire","from":898,"to":969,"peak":0.24,"km2":8000,"tier":2},
+  {"id":"kievan-rus","name":"Kievan Rus'","from":970,"to":979,"peak":0.23,"km2":8000,"tier":2}
+]}

@@ -1,0 +1,13 @@
+{"lane": "norway", "period": "early-medieval", "years": [476, 999], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"norse","name":"Norse","from":402,"to":499,"peak":0.15,"km2":48000,"tier":3},
+  {"id":"scandinavian-minor-kingdoms-500","name":"Scandinavian minor kingdoms","from":500,"to":799,"peak":0.61,"km2":197000,"tier":1},
+  {"id":"scandinavian-minor-kingdoms-800","name":"Scandinavian minor kingdoms","from":800,"to":869,"peak":0.61,"km2":197000,"tier":1},
+  {"id":"old-kingdom-of-norway","name":"Old Kingdom of Norway","from":866,"to":1045,"peak":0.73,"km2":236000,"tier":1},
+  {"id":"kingdom-of-denmark","name":"Kingdom of Denmark","from":970,"to":989,"peak":0.06,"km2":21000,"tier":3}
+],
+ "events":[
+  {"id":"Q515561","name":"Battle of Hafrsfjord","year":872,"type":"battle","links":23,"by":"coordinates","wiki":"Battle of Hafrsfjord"},
+  {"id":"Q738768","name":"Battle of Fitjar","year":961,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Fitjar"},
+  {"id":"Q1267571","name":"Battle of Hjörungavágr","year":984,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Hjörungavágr"}
+]}

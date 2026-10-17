@@ -1,0 +1,19 @@
+{"lane": "austria", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"holy-roman-empire-minor-states","name":"Holy Roman Empire Minor States","from":1260,"to":1802,"peak":0.36,"km2":30000,"tier":2},
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1556,"to":1805,"peak":0.92,"km2":78000,"tier":1},
+  {"id":"austrian-empire","name":"Austrian Empire","from":1806,"to":1867,"peak":1.0,"km2":84000,"tier":1},
+  {"id":"austria-hungary","name":"Austria-Hungary","from":1868,"to":1918,"peak":1.0,"km2":84000,"tier":1}
+],
+ "events":[
+  {"id":"Q1346429","name":"Treaty of Leoben","year":1797,"type":"treaty","links":19,"by":"location","wiki":"Peace of Leoben"},
+  {"id":"Q699665","name":"Battle of Dürenstein","year":1805,"type":"battle","links":18,"by":"coordinates","wiki":"Battle of Dürenstein"},
+  {"id":"Q948810","name":"Battle of Schöngrabern","year":1805,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Schöngrabern"},
+  {"id":"Q1430709","name":"Treaty of Finckenstein","year":1807,"type":"treaty","links":17,"by":"location","wiki":"Treaty of Finckenstein"},
+  {"id":"Q467777","name":"Battle of Wagram","year":1809,"type":"battle","links":42,"by":"coordinates","wiki":"Battle of Wagram"},
+  {"id":"Q694767","name":"Treaty of Schönbrunn","year":1809,"type":"treaty","links":41,"by":"location","wiki":"Treaty of Schönbrunn"},
+  {"id":"Q541626","name":"Battle of Aspern-Essling","year":1809,"type":"battle","links":33,"by":"coordinates","wiki":"Battle of Aspern–Essling"},
+  {"id":"Q683848","name":"Treaty of Vienna","year":1864,"type":"treaty","links":25,"by":"location","wiki":"Treaty of Vienna (1864)"},
+  {"id":"Q1248722","name":"Third Italian War of Independence","year":1866,"type":"war","links":32,"by":"location","wiki":"Third Italian War of Independence"},
+  {"id":"Q474843","name":"Treaty of Vienna","year":1866,"type":"treaty","links":16,"by":"location","wiki":"Treaty of Vienna (1866)"}
+]}

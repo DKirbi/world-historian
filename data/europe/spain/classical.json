@@ -1,0 +1,32 @@
+{"lane": "spain", "period": "classical", "years": [-800, 475], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"phoenician-colonies","name":"Phoenician Colonies","from":-700,"to":-676,"peak":0.01,"km2":4000,"tier":3,"inside":true},
+  {"id":"carthage","name":"Carthage","from":-230,"to":-204,"peak":0.56,"km2":279000,"tier":1},
+  {"id":"roman-republic","name":"Roman Republic","from":-210,"to":-32,"peak":0.78,"km2":390000,"tier":1},
+  {"id":"roman-empire","name":"Roman Empire","from":-31,"to":394,"peak":0.98,"km2":491000,"tier":1},
+  {"id":"western-roman-empire","name":"Western Roman Empire","from":395,"to":475,"peak":0.98,"km2":491000,"tier":1},
+  {"id":"vandals","name":"Vandals","from":410,"to":438,"peak":0.65,"km2":327000,"tier":1},
+  {"id":"alans","name":"Alans","from":414,"to":438,"peak":0.35,"km2":173000,"tier":2},
+  {"id":"kingdom-of-the-suebi","name":"Kingdom of the Suebi","from":417,"to":586,"peak":0.31,"km2":155000,"tier":2},
+  {"id":"visigothic-kingdom","name":"Visigothic Kingdom","from":458,"to":458,"peak":0.82,"km2":410000,"tier":1},
+  {"id":"visigothic-kingdom","name":"Visigothic Kingdom","from":469,"to":723,"peak":0.97,"km2":486000,"tier":1}
+],
+ "events":[
+  {"id":"Q815210","name":"Siege of Saguntum","year":-219,"type":"siege","links":27,"by":"coordinates","wiki":"Siege of Saguntum"},
+  {"id":"Q1500211","name":"Battle of Cissa","year":-218,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Cissa"},
+  {"id":"Q2286942","name":"Battle of Ebro River","year":-217,"type":"battle","links":17,"by":"coordinates","wiki":"Battle of Ebro River"},
+  {"id":"Q1788933","name":"Battle of Dertosa","year":-215,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Ibera"},
+  {"id":"Q1458235","name":"Battle of the Upper Baetis","year":-211,"type":"battle","links":21,"by":"coordinates","wiki":"Battle of the Upper Baetis"},
+  {"id":"Q1591145","name":"Battle of New Carthage","year":-209,"type":"battle","links":21,"by":"coordinates","wiki":"Battle of New Carthage"},
+  {"id":"Q728550","name":"Battle of Baecula","year":-208,"type":"battle","links":24,"by":"coordinates","wiki":"Battle of Baecula"},
+  {"id":"Q1055755","name":"Battle of Ilipa","year":-206,"type":"battle","links":27,"by":"coordinates","wiki":"Battle of Ilipa"},
+  {"id":"Q2446231","name":"Celtiberian Wars","year":-181,"type":"war","links":16,"by":"location","to":-151,"wiki":"Celtiberian Wars"},
+  {"id":"Q1230787","name":"First Celtiberian War","year":-181,"type":"war","links":14,"by":"location","to":-179,"wiki":"First Celtiberian War"},
+  {"id":"Q1202928","name":"Lusitanian War","year":-155,"type":"war","links":22,"by":"location","to":-139,"wiki":"Lusitanian Wars"},
+  {"id":"Q1503611","name":"Numantine War","year":-143,"type":"war","links":22,"by":"location","to":-133,"wiki":"Numantine War"},
+  {"id":"Q3778726","name":"Sertorian War","year":-80,"type":"war","links":19,"by":"location","to":-72,"wiki":"Sertorian War"},
+  {"id":"Q2291971","name":"Battle of Ilerda","year":-49,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Ilerda"},
+  {"id":"Q516760","name":"Battle of Munda","year":-45,"type":"battle","links":32,"by":"coordinates","wiki":"Battle of Munda"},
+  {"id":"Q1340107","name":"Cantabrian Wars","year":-29,"type":"war","links":22,"by":"location","to":-19,"wiki":"Cantabrian Wars"},
+  {"id":"Q766072","name":"Battle of Órbigo","year":456,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Órbigo (456)"}
+]}

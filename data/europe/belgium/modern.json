@@ -1,0 +1,25 @@
+{"lane": "belgium", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1706,"to":1793,"peak":0.93,"km2":28000,"tier":1},
+  {"id":"holy-roman-empire-minor-states","name":"Holy Roman Empire Minor States","from":1763,"to":1793,"peak":0.17,"km2":5000,"tier":3},
+  {"id":"french-first-republic","name":"French First Republic","from":1794,"to":1795,"peak":1.0,"km2":31000,"tier":1},
+  {"id":"french-directory","name":"French Directory","from":1796,"to":1799,"peak":1.0,"km2":31000,"tier":1},
+  {"id":"french-consulate","name":"French Consulate","from":1800,"to":1804,"peak":1.0,"km2":31000,"tier":1},
+  {"id":"first-french-empire","name":"First French Empire","from":1805,"to":1813,"peak":1.0,"km2":31000,"tier":1},
+  {"id":"grand-duchy-of-berg","name":"Grand Duchy of Berg","from":1814,"to":1814,"peak":0.97,"km2":30000,"tier":1},
+  {"id":"netherlands","name":"Netherlands","from":1815,"to":1833,"peak":0.95,"km2":29000,"tier":1,"realm":true},
+  {"id":"kingdom-of-belgium","name":"Kingdom of Belgium","from":1830,"to":1939,"peak":0.96,"km2":30000,"tier":1}
+],
+ "events":[
+  {"id":"Q1527921","name":"Liège Revolution","year":1789,"type":"revolution","links":13,"by":"coordinates","wiki":"Liège Revolution"},
+  {"id":"Q855271","name":"Battle of Jemappes","year":1792,"type":"battle","links":24,"by":"coordinates","wiki":"Battle of Jemappes"},
+  {"id":"Q1085392","name":"Battle of Neerwinden","year":1793,"type":"battle","links":21,"by":"coordinates","wiki":"Battle of Neerwinden (1793)"},
+  {"id":"Q1054868","name":"Battle of Hondschoote","year":1793,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Hondschoote"},
+  {"id":"Q678227","name":"Battle of Fleurus","year":1794,"type":"battle","links":29,"by":"coordinates","wiki":"Battle of Fleurus (1794)"},
+  {"id":"Q1324198","name":"Treaty of Ghent","year":1814,"type":"treaty","links":32,"by":"location","wiki":"Treaty of Ghent"},
+  {"id":"Q48314","name":"Battle of Waterloo","year":1815,"type":"battle","links":95,"by":"coordinates","wiki":"Battle of Waterloo"},
+  {"id":"Q855429","name":"Battle of Ligny","year":1815,"type":"battle","links":27,"by":"coordinates","wiki":"Battle of Ligny"},
+  {"id":"Q705936","name":"Battle of Quatre Bras","year":1815,"type":"battle","links":24,"by":"coordinates","wiki":"Battle of Quatre Bras"},
+  {"id":"Q920107","name":"Battle of Wavre","year":1815,"type":"battle","links":18,"by":"coordinates","wiki":"Battle of Wavre"},
+  {"id":"Q1657839","name":"Ten Days' Campaign","year":1831,"type":"campaign","links":14,"by":"location","wiki":"Ten Days' Campaign"}
+]}

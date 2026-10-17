@@ -1,0 +1,26 @@
+{"lane": "spain", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"county-of-ampuria","name":"County of Ampuria","from":1003,"to":1394,"peak":0.0,"km2":1000,"tier":3,"inside":true},
+  {"id":"crown-of-aragon","name":"Crown of Aragon","from":1169,"to":1515,"peak":0.22,"km2":108000,"tier":2},
+  {"id":"crown-of-castile","name":"Crown of Castile","from":1236,"to":1515,"peak":0.78,"km2":389000,"tier":1},
+  {"id":"emirate-of-granada","name":"Emirate of Granada","from":1241,"to":1486,"peak":0.06,"km2":31000,"tier":3},
+  {"id":"kingdom-of-majorca","name":"Kingdom of Majorca","from":1279,"to":1343,"peak":0.01,"km2":7000,"tier":3,"inside":true},
+  {"id":"kingdom-of-navarre","name":"Kingdom of Navarre","from":1333,"to":1428,"peak":0.02,"km2":8000,"tier":3,"inside":true},
+  {"id":"county-of-ampuria","name":"County of Ampuria","from":1402,"to":1414,"peak":0.0,"km2":1000,"tier":3,"inside":true}
+],
+ "events":[
+  {"id":"Q981031","name":"First Siege of Gibraltar","year":1309,"type":"siege","links":12,"by":"coordinates","wiki":"First siege of Gibraltar"},
+  {"id":"Q1792643","name":"Battle of Río Salado","year":1340,"type":"battle","links":22,"by":"coordinates","wiki":"Battle of Río Salado"},
+  {"id":"Q1631158","name":"Battle of Nájera","year":1367,"type":"battle","links":19,"by":"coordinates","wiki":"Battle of Nájera"},
+  {"id":"Q922200","name":"Battle of Montiel","year":1369,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Montiel"},
+  {"id":"Q1541862","name":"Compromise of Caspe","year":1412,"type":"treaty","links":20,"by":"coordinates","wiki":"Compromise of Caspe"},
+  {"id":"Q2888296","name":"Conquest of Ceuta","year":1415,"type":"battle","links":20,"by":"coordinates","wiki":"Portuguese conquest of Ceuta"},
+  {"id":"Q1807251","name":"Battle of La Higueruela","year":1431,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of La Higueruela"},
+  {"id":"Q1584610","name":"Navarrese Civil War","year":1451,"type":"war","links":12,"by":"country","to":1464,"wiki":"Navarrese Civil War (1451–1455)"},
+  {"id":"Q2476062","name":"Catalan Civil War","year":1462,"type":"war","links":13,"by":"location","to":1472,"wiki":"Catalan Civil War"},
+  {"id":"Q2656396","name":"Treaty of the Bulls of Guisando","year":1468,"type":"treaty","links":12,"by":"location","wiki":"Treaty of the Bulls of Guisando"},
+  {"id":"Q282135","name":"War of the Castilian Succession","year":1475,"type":"war","links":23,"by":"location","to":1479,"wiki":"War of the Castilian Succession"},
+  {"id":"Q2734129","name":"Battle of Toro","year":1476,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Toro"},
+  {"id":"Q2467248","name":"Treaty of Granada","year":1491,"type":"treaty","links":20,"by":"coordinates","wiki":"Treaty of Granada (1491)"},
+  {"id":"Q14150415","name":"Capture of Granada","year":1491,"type":"siege","links":13,"by":"coordinates","to":1492}
+]}

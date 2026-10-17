@@ -1,0 +1,10 @@
+{"lane": "netherlands", "period": "classical", "years": [-800, 475], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"roman-republic","name":"Roman Republic","from":-50,"to":-32,"peak":0.37,"km2":14000,"tier":2},
+  {"id":"roman-empire","name":"Roman Empire","from":-31,"to":260,"peak":0.97,"km2":36000,"tier":1},
+  {"id":"ripuarian-franks","name":"Ripuarian Franks","from":238,"to":509,"peak":0.49,"km2":18000,"tier":2},
+  {"id":"gallic-empire","name":"Gallic Empire","from":261,"to":282,"peak":0.35,"km2":13000,"tier":2},
+  {"id":"roman-empire","name":"Roman Empire","from":283,"to":394,"peak":0.35,"km2":13000,"tier":2},
+  {"id":"salian-franks","name":"Salian Franks","from":358,"to":509,"peak":0.19,"km2":7000,"tier":3},
+  {"id":"western-roman-empire","name":"Western Roman Empire","from":395,"to":438,"peak":0.24,"km2":9000,"tier":2}
+]}

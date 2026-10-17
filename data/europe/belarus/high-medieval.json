@@ -1,0 +1,22 @@
+{"lane": "belarus", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kievan-rus","name":"Kievan Rus'","from":882,"to":1235,"peak":0.99,"km2":205000,"tier":1},
+  {"id":"principality-of-polotsky-1056","name":"Principality of Polotsky","from":1056,"to":1110,"peak":0.42,"km2":87000,"tier":2},
+  {"id":"principality-of-kiev","name":"Principality of Kiev","from":1056,"to":1187,"peak":0.29,"km2":61000,"tier":2},
+  {"id":"principality-of-smolensk-1056","name":"Principality of Smolensk","from":1056,"to":1240,"peak":0.17,"km2":36000,"tier":3},
+  {"id":"principality-of-volhynia","name":"Principality of Volhynia","from":1056,"to":1201,"peak":0.15,"km2":30000,"tier":3},
+  {"id":"principality-of-chernigov","name":"Principality of Chernigov","from":1056,"to":1240,"peak":0.06,"km2":13000,"tier":3},
+  {"id":"principality-of-minsk","name":"Principality of Minsk","from":1111,"to":1249,"peak":0.23,"km2":48000,"tier":2},
+  {"id":"principality-of-drutsk","name":"Principality of Drutsk","from":1111,"to":1249,"peak":0.1,"km2":20000,"tier":3},
+  {"id":"principality-of-vitebsk","name":"Principality of Vitebsk","from":1111,"to":1187,"peak":0.09,"km2":19000,"tier":3},
+  {"id":"principality-of-turov-and-pinsk","name":"Principality of Turov and Pinsk","from":1188,"to":1240,"peak":0.29,"km2":61000,"tier":2},
+  {"id":"principality-of-galicia-volhynia","name":"Principality of Galicia-Volhynia","from":1202,"to":1240,"peak":0.15,"km2":30000,"tier":3},
+  {"id":"principality-of-polotsky-1202","name":"Principality of Polotsky","from":1202,"to":1249,"peak":0.09,"km2":19000,"tier":3},
+  {"id":"mongol-empire","name":"Mongol Empire","from":1241,"to":1293,"peak":0.59,"km2":122000,"tier":1},
+  {"id":"grand-duchy-of-lithuania","name":"Grand Duchy of Lithuania","from":1250,"to":1449,"peak":0.99,"km2":206000,"tier":1},
+  {"id":"principality-of-minsk","name":"Principality of Minsk","from":1260,"to":1313,"peak":0.4,"km2":82000,"tier":2},
+  {"id":"principality-of-turov","name":"Principality of Turov","from":1294,"to":1325,"peak":0.14,"km2":29000,"tier":3},
+  {"id":"principality-of-smolensk-1294","name":"Principality of Smolensk","from":1294,"to":1362,"peak":0.13,"km2":27000,"tier":3},
+  {"id":"principality-of-pinsk","name":"Principality of Pinsk","from":1294,"to":1325,"peak":0.13,"km2":27000,"tier":3},
+  {"id":"galicia-volhynia","name":"Galicia-Volhynia","from":1294,"to":1325,"peak":0.07,"km2":16000,"tier":3}
+]}

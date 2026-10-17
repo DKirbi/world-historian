@@ -1,0 +1,21 @@
+{"lane": "albania", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-serbia-1188","name":"Kingdom of Serbia","from":1188,"to":1351,"peak":0.31,"km2":9000,"tier":2},
+  {"id":"byzantine-empire-1279","name":"Byzantine Empire","from":1279,"to":1351,"peak":0.66,"km2":19000,"tier":1},
+  {"id":"serbian-empire","name":"Serbian Empire","from":1352,"to":1374,"peak":0.95,"km2":27000,"tier":1},
+  {"id":"albanian-principalities","name":"Albanian Principalities","from":1375,"to":1421,"peak":0.72,"km2":20000,"tier":1},
+  {"id":"serbian-despots","name":"Serbian Despots","from":1375,"to":1421,"peak":0.23,"km2":7000,"tier":2},
+  {"id":"despotate-of-epirus","name":"Despotate of Epirus","from":1385,"to":1430,"peak":0.06,"km2":2000,"tier":3},
+  {"id":"principality-of-valona-and-kanina","name":"Principality of Valona and Kanina","from":1395,"to":1421,"peak":0.18,"km2":5000,"tier":3},
+  {"id":"republic-of-venice","name":"Republic of Venice","from":1402,"to":1481,"peak":0.06,"km2":2000,"tier":3},
+  {"id":"serbian-empire","name":"Serbian Empire","from":1415,"to":1458,"peak":0.19,"km2":5000,"tier":3},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1422,"to":1911,"peak":0.97,"km2":27000,"tier":1}
+],
+ "events":[
+  {"id":"Q2603935","name":"Battle of Savra","year":1385,"type":"battle","links":18,"by":"coordinates","wiki":"Battle of Savra"},
+  {"id":"Q1934137","name":"Battle of Torvioll","year":1444,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Torvioll"},
+  {"id":"Q60489","name":"Albanian–Venetian War","year":1447,"type":"war","links":16,"by":"location","to":1448,"wiki":"Albanian–Venetian War"},
+  {"id":"Q73670","name":"Siege of Krujë","year":1450,"type":"siege","links":14,"by":"coordinates","wiki":"Siege of Krujë (1450)"},
+  {"id":"Q74072","name":"Battle of Albulena","year":1457,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Albulena"},
+  {"id":"Q960449","name":"Siege of Krujë","year":1466,"type":"siege","links":13,"by":"coordinates","to":1467,"wiki":"Siege of Krujë (1466–1467)"}
+]}

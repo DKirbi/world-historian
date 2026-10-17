@@ -1,0 +1,12 @@
+{"lane": "slovakia", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1556,"to":1805,"peak":1.0,"km2":48000,"tier":1},
+  {"id":"austrian-empire","name":"Austrian Empire","from":1806,"to":1867,"peak":1.0,"km2":48000,"tier":1},
+  {"id":"hungarian-nationalists-1849","name":"Hungarian Nationalists","from":1849,"to":1852,"peak":0.94,"km2":46000,"tier":1},
+  {"id":"austria-hungary","name":"Austria-Hungary","from":1868,"to":1918,"peak":1.0,"km2":48000,"tier":1}
+],
+ "events":[
+  {"id":"Q154102","name":"Peace of Pressburg","year":1805,"type":"treaty","links":46,"by":"location","wiki":"Peace of Pressburg (1805)"},
+  {"id":"Q751143","name":"Slovak Uprising 1848-1849","year":1848,"type":"rebellion","links":20,"by":"location","to":1849,"wiki":"Slovak Volunteer Campaigns"},
+  {"id":"Q561512","name":"Battle of Blumenau","year":1866,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Blumenau"}
+]}

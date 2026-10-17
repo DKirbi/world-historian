@@ -1,0 +1,24 @@
+{"lane": "croatia", "period": "contemporary", "years": [1914, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"austria-hungary","name":"Austria-Hungary","from":1868,"to":1918,"peak":0.93,"km2":51000,"tier":1},
+  {"id":"yugoslavia","name":"Yugoslavia","from":1919,"to":1940,"peak":0.88,"km2":48000,"tier":1},
+  {"id":"independent-state-of-croatia","name":"Independent State of Croatia","from":1941,"to":1944,"peak":0.73,"km2":40000,"tier":1},
+  {"id":"yugoslavia","name":"Yugoslavia","from":1945,"to":1945,"peak":0.92,"km2":50000,"tier":1},
+  {"id":"socialist-federal-republic-of-yugoslavia","name":"Socialist Federal Republic of Yugoslavia","from":1946,"to":1991,"peak":0.92,"km2":50000,"tier":1},
+  {"id":"republic-of-croatia","name":"Republic of Croatia","from":1992,"to":2024,"peak":0.89,"km2":48000,"tier":1}
+],
+ "events":[
+  {"id":"Q3796996","name":"Raid on Pula","year":1918,"type":"battle","links":12,"by":"coordinates","wiki":"Raid on Pula"},
+  {"id":"Q68969","name":"Croatian War of Independence","year":1991,"type":"war","links":64,"by":"location","to":1995,"wiki":"Croatian War of Independence"},
+  {"id":"Q505939","name":"Battle of Vukovar","year":1991,"type":"battle","links":41,"by":"coordinates","wiki":"Battle of Vukovar"},
+  {"id":"Q815140","name":"Siege of Dubrovnik","year":1991,"type":"siege","links":32,"by":"coordinates","to":1992,"wiki":"Siege of Dubrovnik"},
+  {"id":"Q917606","name":"Brioni Agreement","year":1991,"type":"treaty","links":31,"by":"coordinates","wiki":"Brioni Agreement"},
+  {"id":"Q1851834","name":"Battle of Borovo Selo","year":1991,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Borovo Selo"},
+  {"id":"Q2982703","name":"Pakrac clash","year":1991,"type":"battle","links":16,"by":"coordinates","wiki":"Pakrac clash"},
+  {"id":"Q2624653","name":"Battle of the Barracks","year":1991,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of the Barracks"},
+  {"id":"Q4111833","name":"Battle of Osijek","year":1991,"type":"battle","links":13,"by":"coordinates","to":1992,"wiki":"Battle of Osijek"},
+  {"id":"Q1639136","name":"Operation Medak Pocket","year":1993,"type":"battle","links":16,"by":"coordinates","wiki":"Operation Medak Pocket"},
+  {"id":"Q1313538","name":"Operation Maslenica","year":1993,"type":"battle","links":15,"by":"coordinates","wiki":"Operation Maslenica"},
+  {"id":"Q769377","name":"Operation Storm","year":1995,"type":"battle","links":38,"by":"coordinates","wiki":"Operation Storm"},
+  {"id":"Q1374443","name":"Operation Flash","year":1995,"type":"battle","links":22,"by":"coordinates","wiki":"Operation Flash"}
+]}

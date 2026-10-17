@@ -1,0 +1,11 @@
+{"lane": "slovakia", "period": "early-modern", "years": [1492, 1788], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-hungary","name":"Kingdom of Hungary","from":1459,"to":1539,"peak":0.99,"km2":48000,"tier":1},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1540,"to":1555,"peak":0.95,"km2":46000,"tier":1,"realm":true},
+  {"id":"kingdom-of-spain-1516","name":"Kingdom of Spain","from":1540,"to":1555,"peak":0.95,"km2":46000,"tier":1},
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1556,"to":1805,"peak":1.0,"km2":48000,"tier":1},
+  {"id":"principality-of-upper-hungary","name":"Principality of Upper Hungary","from":1683,"to":1686,"peak":0.72,"km2":35000,"tier":1}
+],
+ "events":[
+  {"id":"Q694911","name":"Battle of Párkány","year":1683,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Párkány"}
+]}

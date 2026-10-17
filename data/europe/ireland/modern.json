@@ -1,0 +1,9 @@
+{"lane": "ireland", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1709,"to":1921,"peak":0.99,"km2":68000,"tier":1,"realm":true},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1709,"to":1921,"peak":0.99,"km2":68000,"tier":1}
+],
+ "events":[
+  {"id":"Q2113036","name":"Expédition d'Irlande","year":1796,"type":"battle","links":13,"by":"coordinates","wiki":"French expedition to Ireland (1796)"},
+  {"id":"Q944941","name":"Irish Rebellion of 1798","year":1798,"type":"rebellion","links":34,"by":"location","wiki":"Irish Rebellion of 1798"}
+]}

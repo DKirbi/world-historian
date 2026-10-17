@@ -1,0 +1,22 @@
+{"lane": "bosnia-and-herzegovina", "period": "early-medieval", "years": [476, 999], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ostrogoths","name":"Ostrogoths","from":455,"to":499,"peak":1.0,"km2":52000,"tier":1},
+  {"id":"ostrogothic-kingdom","name":"Ostrogothic Kingdom","from":500,"to":545,"peak":1.0,"km2":52000,"tier":1},
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":536,"to":632,"peak":0.19,"km2":10000,"tier":3},
+  {"id":"lombards","name":"Lombards","from":546,"to":568,"peak":0.83,"km2":43000,"tier":1},
+  {"id":"avar-khaganate","name":"Avar Khaganate","from":569,"to":626,"peak":0.84,"km2":44000,"tier":1},
+  {"id":"duchy-of-croatia","name":"Duchy of Croatia","from":741,"to":805,"peak":0.11,"km2":6000,"tier":3},
+  {"id":"avar-khaganate","name":"Avar Khaganate","from":741,"to":792,"peak":0.07,"km2":4000,"tier":3},
+  {"id":"principality-of-serbia","name":"Principality of Serbia","from":768,"to":925,"peak":0.82,"km2":43000,"tier":1},
+  {"id":"carolingian-empire","name":"Carolingian Empire","from":793,"to":910,"peak":0.18,"km2":9000,"tier":3,"realm":true},
+  {"id":"kingdom-of-the-franks","name":"Kingdom of the Franks","from":793,"to":849,"peak":0.18,"km2":9000,"tier":3},
+  {"id":"first-bulgarian-empire","name":"First Bulgarian Empire","from":830,"to":839,"peak":0.07,"km2":4000,"tier":3},
+  {"id":"duchy-of-croatia","name":"Duchy of Croatia","from":850,"to":925,"peak":0.11,"km2":6000,"tier":3},
+  {"id":"east-franks","name":"East Franks","from":850,"to":881,"peak":0.07,"km2":4000,"tier":3},
+  {"id":"east-franks","name":"East Franks","from":887,"to":910,"peak":0.07,"km2":4000,"tier":3},
+  {"id":"kingdom-of-croatia","name":"Kingdom of Croatia","from":926,"to":1098,"peak":0.88,"km2":46000,"tier":1},
+  {"id":"first-bulgarian-empire","name":"First Bulgarian Empire","from":926,"to":935,"peak":0.83,"km2":43000,"tier":1},
+  {"id":"principality-of-serbia","name":"Principality of Serbia","from":936,"to":960,"peak":0.82,"km2":42000,"tier":1},
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":970,"to":1065,"peak":0.82,"km2":43000,"tier":1},
+  {"id":"first-bulgarian-empire","name":"First Bulgarian Empire","from":990,"to":1017,"peak":0.07,"km2":4000,"tier":3}
+]}

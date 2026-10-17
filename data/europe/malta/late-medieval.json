@@ -1,0 +1,6 @@
+{"lane": "malta", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"crown-of-aragon","name":"Crown of Aragon","from":1285,"to":1304,"peak":0.8,"km2":200,"tier":1},
+  {"id":"kingdom-of-sicily","name":"Kingdom of Sicily","from":1305,"to":1384,"peak":0.8,"km2":200,"tier":1},
+  {"id":"crown-of-aragon","name":"Crown of Aragon","from":1385,"to":1515,"peak":0.8,"km2":200,"tier":1}
+]}

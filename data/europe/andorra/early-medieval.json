@@ -1,0 +1,15 @@
+{"lane": "andorra", "period": "early-medieval", "years": [476, 999], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"visigothic-kingdom","name":"Visigothic Kingdom","from":476,"to":717,"peak":1.0,"km2":400,"tier":1},
+  {"id":"umayyad-caliphate","name":"Umayyad Caliphate","from":718,"to":756,"peak":0.94,"km2":400,"tier":1},
+  {"id":"emirate-of-cordoba","name":"Emirate of Córdoba","from":757,"to":762,"peak":0.87,"km2":400,"tier":1},
+  {"id":"kingdom-of-the-franks","name":"Kingdom of the Franks","from":763,"to":787,"peak":0.76,"km2":300,"tier":1},
+  {"id":"carolingian-empire","name":"Carolingian Empire","from":763,"to":787,"peak":0.76,"km2":300,"tier":1,"realm":true},
+  {"id":"emirate-of-cordoba","name":"Emirate of Córdoba","from":788,"to":799,"peak":0.75,"km2":300,"tier":1},
+  {"id":"kingdom-of-the-franks","name":"Kingdom of the Franks","from":800,"to":849,"peak":1.0,"km2":400,"tier":1},
+  {"id":"carolingian-empire","name":"Carolingian Empire","from":800,"to":869,"peak":1.0,"km2":400,"tier":1,"realm":true},
+  {"id":"west-franks","name":"West Franks","from":850,"to":869,"peak":1.0,"km2":400,"tier":1},
+  {"id":"county-of-urgell","name":"County of Urgell","from":870,"to":969,"peak":0.93,"km2":400,"tier":1},
+  {"id":"county-of-barcelona","name":"County of Barcelona","from":960,"to":960,"peak":0.93,"km2":400,"tier":1},
+  {"id":"county-of-barcelona","name":"County of Barcelona","from":970,"to":999,"peak":0.93,"km2":400,"tier":1}
+]}

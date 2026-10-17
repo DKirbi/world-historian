@@ -1,0 +1,6 @@
+{"lane": "greece", "period": "ancient", "years": [-3400, -801], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"minoan-civilization","name":"Minoan civilization","from":-1600,"to":-1401,"peak":0.04,"km2":5000,"tier":3,"inside":true},
+  {"id":"mycenaean-greece","name":"Mycenaean Greece","from":-1500,"to":-1101,"peak":0.46,"km2":60000,"tier":2},
+  {"id":"greek-dark-ages","name":"Greek Dark Ages","from":-1100,"to":-801,"peak":0.33,"km2":43000,"tier":2}
+]}

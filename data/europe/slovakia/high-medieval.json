@@ -1,0 +1,6 @@
+{"lane": "slovakia", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-hungary","name":"Kingdom of Hungary","from":1000,"to":1304,"peak":0.99,"km2":48000,"tier":1},
+  {"id":"kingdom-of-poland-962","name":"Kingdom of Poland","from":1003,"to":1027,"peak":0.84,"km2":41000,"tier":1},
+  {"id":"galicia-volhynia","name":"Galicia-Volhynia","from":1294,"to":1304,"peak":0.05,"km2":2000,"tier":3}
+]}

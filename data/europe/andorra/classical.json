@@ -1,0 +1,6 @@
+{"lane": "andorra", "period": "classical", "years": [-800, 475], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"roman-empire","name":"Roman Empire","from":-25,"to":394,"peak":1.0,"km2":400,"tier":1},
+  {"id":"western-roman-empire","name":"Western Roman Empire","from":395,"to":475,"peak":1.0,"km2":400,"tier":1},
+  {"id":"visigothic-kingdom","name":"Visigothic Kingdom","from":458,"to":458,"peak":1.0,"km2":400,"tier":1}
+]}

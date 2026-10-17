@@ -1,0 +1,31 @@
+{"lane": "romania", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1395,"to":1876,"peak":0.15,"km2":36000,"tier":3},
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1696,"to":1805,"peak":0.53,"km2":126000,"tier":1},
+  {"id":"principality-of-wallachia","name":"Principality of Wallachia","from":1775,"to":1806,"peak":0.31,"km2":72000,"tier":2},
+  {"id":"principality-of-moldavia","name":"Principality of Moldavia","from":1775,"to":1806,"peak":0.18,"km2":42000,"tier":3},
+  {"id":"austrian-empire","name":"Austrian Empire","from":1806,"to":1848,"peak":0.45,"km2":106000,"tier":2},
+  {"id":"russian-empire","name":"Russian Empire","from":1807,"to":1811,"peak":0.49,"km2":116000,"tier":2},
+  {"id":"principality-of-wallachia","name":"Principality of Wallachia","from":1812,"to":1827,"peak":0.31,"km2":72000,"tier":2},
+  {"id":"principality-of-moldavia","name":"Principality of Moldavia","from":1814,"to":1827,"peak":0.18,"km2":42000,"tier":3},
+  {"id":"russian-empire","name":"Russian Empire","from":1828,"to":1833,"peak":0.49,"km2":116000,"tier":2},
+  {"id":"principality-of-wallachia","name":"Principality of Wallachia","from":1834,"to":1848,"peak":0.31,"km2":72000,"tier":2},
+  {"id":"principality-of-moldavia","name":"Principality of Moldavia","from":1834,"to":1848,"peak":0.18,"km2":42000,"tier":3},
+  {"id":"russian-empire","name":"Russian Empire","from":1849,"to":1855,"peak":0.49,"km2":116000,"tier":2},
+  {"id":"hungarian-nationalists-1849","name":"Hungarian Nationalists","from":1849,"to":1852,"peak":0.43,"km2":101000,"tier":2},
+  {"id":"austrian-empire","name":"Austrian Empire","from":1853,"to":1867,"peak":0.93,"km2":219000,"tier":1},
+  {"id":"united-principalities-of-moldavia-and-wallachia","name":"United Principalities of Moldavia and Wallachia","from":1859,"to":1916,"peak":0.63,"km2":150000,"tier":1},
+  {"id":"austria-hungary","name":"Austria-Hungary","from":1868,"to":1918,"peak":0.93,"km2":220000,"tier":1}
+],
+ "events":[
+  {"id":"Q2234632","name":"Battle of Rymnik","year":1789,"type":"battle","links":24,"by":"coordinates","wiki":"Battle of Rymnik"},
+  {"id":"Q1025134","name":"Battle of Focșani","year":1789,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Focșani"},
+  {"id":"Q122442","name":"Treaty of Jassy","year":1791,"type":"treaty","links":36,"by":"location","wiki":"Treaty of Jassy"},
+  {"id":"Q849286","name":"Treaty of Bucharest","year":1812,"type":"treaty","links":40,"by":"coordinates","wiki":"Treaty of Bucharest (1812)"},
+  {"id":"Q2661754","name":"Wallachian uprising of 1821","year":1821,"type":"rebellion","links":16,"by":"location","wiki":"Wallachian uprising of 1821"},
+  {"id":"Q2888462","name":"Battle of Dragashani","year":1821,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Drăgășani"},
+  {"id":"Q2175943","name":"Wallachian Revolution of 1848","year":1848,"type":"revolution","links":15,"by":"location","wiki":"Wallachian Revolution of 1848"},
+  {"id":"Q815207","name":"Siege of Silistra (1854)","year":1854,"type":"siege","links":13,"by":"coordinates","wiki":"Siege of Silistria (1854)"},
+  {"id":"Q1300440","name":"Treaty of Bucharest","year":1886,"type":"treaty","links":19,"by":"location","wiki":"Treaty of Bucharest (1886)"},
+  {"id":"Q500067","name":"Treaty of Bucharest","year":1913,"type":"treaty","links":45,"by":"coordinates","wiki":"Treaty of Bucharest (1913)"}
+]}

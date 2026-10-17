@@ -1,0 +1,26 @@
+{"lane": "czechia", "period": "early-modern", "years": [1492, 1788], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-bohemia","name":"Kingdom of Bohemia","from":1459,"to":1528,"peak":0.99,"km2":78000,"tier":1},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1529,"to":1555,"peak":1.0,"km2":78000,"tier":1,"realm":true},
+  {"id":"kingdom-of-spain-1516","name":"Kingdom of Spain","from":1529,"to":1555,"peak":1.0,"km2":78000,"tier":1},
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1556,"to":1618,"peak":1.0,"km2":78000,"tier":1},
+  {"id":"holy-roman-empire","name":"Holy Roman Empire","from":1619,"to":1621,"peak":0.99,"km2":78000,"tier":1,"realm":true},
+  {"id":"habsburg-monarchy","name":"Habsburg Monarchy","from":1622,"to":1805,"peak":1.0,"km2":78000,"tier":1}
+],
+ "events":[
+  {"id":"Q944855","name":"Siege of Pilsen","year":1618,"type":"siege","links":18,"by":"coordinates","wiki":"Siege of Pilsen"},
+  {"id":"Q513007","name":"Battle of Sablat","year":1619,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Sablat"},
+  {"id":"Q4373","name":"Battle of White Mountain","year":1620,"type":"battle","links":51,"by":"coordinates","wiki":"Battle of White Mountain"},
+  {"id":"Q1455240","name":"Peace of Prague","year":1635,"type":"treaty","links":34,"by":"location","wiki":"Peace of Prague (1635)"},
+  {"id":"Q1415925","name":"Battle of Jankau","year":1645,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Jankau"},
+  {"id":"Q3494380","name":"Battle of Prague","year":1648,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Prague (1648)"},
+  {"id":"Q688504","name":"Battle of Chotusitz","year":1742,"type":"battle","links":20,"by":"coordinates","wiki":"Battle of Chotusitz"},
+  {"id":"Q695314","name":"Battle of Soor","year":1745,"type":"battle","links":19,"by":"coordinates","wiki":"Battle of Soor"},
+  {"id":"Q694478","name":"Battle of Lobositz","year":1756,"type":"battle","links":21,"by":"coordinates","wiki":"Battle of Lobositz"},
+  {"id":"Q127299","name":"Battle of Kolín","year":1757,"type":"battle","links":28,"by":"coordinates","wiki":"Battle of Kolín"},
+  {"id":"Q223622","name":"Battle of Prague","year":1757,"type":"battle","links":26,"by":"coordinates","wiki":"Battle of Štěrboholy"},
+  {"id":"Q694061","name":"Battle of Reichenberg","year":1757,"type":"battle","links":18,"by":"coordinates","wiki":"Battle of Reichenberg"},
+  {"id":"Q331725","name":"Battle of Domstadtl","year":1758,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Domstadtl"},
+  {"id":"Q508088","name":"Siege of Olomouc","year":1758,"type":"siege","links":12,"by":"coordinates","wiki":"Siege of Olomouc"},
+  {"id":"Q157548","name":"War of the Bavarian Succession","year":1778,"type":"war","links":34,"by":"location","to":1779,"wiki":"War of the Bavarian Succession"}
+]}

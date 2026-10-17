@@ -1,0 +1,13 @@
+{"lane": "moldova", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"golden-horde","name":"Golden Horde","from":1294,"to":1362,"peak":1.0,"km2":33000,"tier":1},
+  {"id":"principality-of-moldavia","name":"Principality of Moldavia","from":1363,"to":1768,"peak":0.99,"km2":33000,"tier":1},
+  {"id":"grand-duchy-of-lithuania","name":"Grand Duchy of Lithuania","from":1375,"to":1384,"peak":0.13,"km2":4000,"tier":3},
+  {"id":"golden-horde","name":"Golden Horde","from":1402,"to":1449,"peak":0.07,"km2":2000,"tier":3},
+  {"id":"polish-lithuania-kingdom","name":"Polish-Lithuania Kingdom","from":1402,"to":1449,"peak":0.06,"km2":2000,"tier":3,"realm":true},
+  {"id":"grand-duchy-of-lithuania","name":"Grand Duchy of Lithuania","from":1402,"to":1430,"peak":0.06,"km2":2000,"tier":3},
+  {"id":"kingdom-of-poland-1305","name":"Kingdom of Poland","from":1431,"to":1449,"peak":0.06,"km2":2000,"tier":3},
+  {"id":"crimean-khanate","name":"Crimean Khanate","from":1450,"to":1467,"peak":0.07,"km2":2000,"tier":3},
+  {"id":"house-of-jagiellon","name":"House of Jagiellon","from":1450,"to":1571,"peak":0.06,"km2":2000,"tier":3},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1487,"to":1768,"peak":0.26,"km2":9000,"tier":2}
+]}

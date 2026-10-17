@@ -1,0 +1,16 @@
+{"lane": "north-macedonia", "period": "classical", "years": [-800, 475], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"macedonian-empire","name":"Macedonian Empire","from":-550,"to":-319,"peak":1.0,"km2":25000,"tier":1},
+  {"id":"polyperchon","name":"Polyperchon","from":-318,"to":-316,"peak":1.0,"km2":25000,"tier":1},
+  {"id":"macedonian-empire","name":"Macedonian Empire","from":-315,"to":-292,"peak":1.0,"km2":25000,"tier":1},
+  {"id":"antigonid-dynasty","name":"Antigonid Dynasty","from":-291,"to":-285,"peak":1.0,"km2":25000,"tier":1},
+  {"id":"kingdom-of-lysimachus","name":"Kingdom of Lysimachus","from":-283,"to":-282,"peak":1.0,"km2":25000,"tier":1},
+  {"id":"ptolemaic-kingdom","name":"Ptolemaic Kingdom","from":-281,"to":-280,"peak":1.0,"km2":25000,"tier":1},
+  {"id":"antigonid-macedonia","name":"Antigonid Macedonia","from":-277,"to":-165,"peak":1.0,"km2":25000,"tier":1},
+  {"id":"illyrian-kingdom","name":"Illyrian Kingdom","from":-256,"to":-226,"peak":0.16,"km2":4000,"tier":3},
+  {"id":"greek-city-states","name":"Greek City-States","from":-197,"to":-145,"peak":0.99,"km2":25000,"tier":1},
+  {"id":"roman-republic","name":"Roman Republic","from":-144,"to":-32,"peak":1.0,"km2":25000,"tier":1},
+  {"id":"ptolemaic-kingdom","name":"Ptolemaic Kingdom","from":-31,"to":-31,"peak":1.0,"km2":25000,"tier":1},
+  {"id":"roman-empire","name":"Roman Empire","from":-30,"to":394,"peak":1.0,"km2":25000,"tier":1},
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":395,"to":632,"peak":1.0,"km2":25000,"tier":1}
+]}

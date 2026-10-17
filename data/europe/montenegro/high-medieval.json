@@ -1,0 +1,9 @@
+{"lane": "montenegro", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":970,"to":1187,"peak":0.95,"km2":13000,"tier":1},
+  {"id":"first-bulgarian-empire","name":"First Bulgarian Empire","from":980,"to":1017,"peak":0.75,"km2":10000,"tier":1},
+  {"id":"great-principality-of-duklja","name":"Great Principality of Duklja","from":1056,"to":1071,"peak":0.9,"km2":12000,"tier":1},
+  {"id":"kingdom-of-duklja","name":"Kingdom of Duklja","from":1072,"to":1138,"peak":0.9,"km2":12000,"tier":1},
+  {"id":"grand-principality-of-serbia","name":"Grand Principality of Serbia","from":1094,"to":1168,"peak":0.91,"km2":12000,"tier":1},
+  {"id":"kingdom-of-serbia-1188","name":"Kingdom of Serbia","from":1188,"to":1351,"peak":0.97,"km2":13000,"tier":1}
+]}

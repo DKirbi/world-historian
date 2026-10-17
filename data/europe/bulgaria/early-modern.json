@@ -1,0 +1,7 @@
+{"lane": "bulgaria", "period": "early-modern", "years": [1492, 1788], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1375,"to":1911,"peak":0.97,"km2":109000,"tier":1}
+],
+ "events":[
+  {"id":"Q123227","name":"Treaty of Küçük Kaynarca","year":1774,"type":"treaty","links":47,"by":"coordinates","wiki":"Treaty of Küçük Kaynarca"}
+]}

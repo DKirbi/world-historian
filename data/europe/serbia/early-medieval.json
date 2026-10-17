@@ -1,0 +1,18 @@
+{"lane": "serbia", "period": "early-medieval", "years": [476, 999], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":395,"to":629,"peak":0.69,"km2":54000,"tier":1},
+  {"id":"ostrogoths","name":"Ostrogoths","from":455,"to":499,"peak":0.11,"km2":8000,"tier":3},
+  {"id":"ostrogothic-kingdom","name":"Ostrogothic Kingdom","from":500,"to":545,"peak":0.11,"km2":8000,"tier":3},
+  {"id":"kingdom-of-the-gepids","name":"Kingdom of the Gepids","from":510,"to":566,"peak":0.44,"km2":34000,"tier":2},
+  {"id":"lombards","name":"Lombards","from":546,"to":568,"peak":0.2,"km2":16000,"tier":2},
+  {"id":"avar-khaganate","name":"Avar Khaganate","from":567,"to":805,"peak":0.89,"km2":69000,"tier":1},
+  {"id":"first-bulgarian-empire","name":"First Bulgarian Empire","from":682,"to":1017,"peak":0.86,"km2":67000,"tier":1},
+  {"id":"principality-of-serbia","name":"Principality of Serbia","from":768,"to":925,"peak":0.09,"km2":7000,"tier":3},
+  {"id":"principality-of-hungary","name":"Principality of Hungary","from":900,"to":999,"peak":0.27,"km2":21000,"tier":2},
+  {"id":"principality-of-serbia","name":"Principality of Serbia","from":936,"to":960,"peak":0.08,"km2":6000,"tier":3},
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":970,"to":979,"peak":0.08,"km2":6000,"tier":3}
+],
+ "events":[
+  {"id":"Q1283832","name":"Battle of Asfeld","year":552,"type":"battle","links":14,"by":"location","wiki":"Battle of Asfeld"},
+  {"id":"Q2991800","name":"Sviatoslav's invasion of Bulgaria","year":967,"type":"war","links":17,"by":"location","to":971,"wiki":"Sviatoslav's invasion of Bulgaria"}
+]}

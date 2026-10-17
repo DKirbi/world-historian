@@ -1,0 +1,4 @@
+{"lane": "sweden", "period": "classical", "years": [-800, 475], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"goths","name":"Goths","from":30,"to":153,"peak":0.21,"km2":92000,"tier":2}
+]}

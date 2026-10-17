@@ -1,0 +1,11 @@
+{"lane": "switzerland", "period": "classical", "years": [-800, 475], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"roman-republic","name":"Roman Republic","from":-50,"to":-32,"peak":0.22,"km2":9000,"tier":2},
+  {"id":"roman-empire","name":"Roman Empire","from":-31,"to":394,"peak":1.0,"km2":41000,"tier":1},
+  {"id":"western-roman-empire","name":"Western Roman Empire","from":395,"to":475,"peak":1.0,"km2":41000,"tier":1},
+  {"id":"burgundian-kingdom-414","name":"Burgundian Kingdom","from":443,"to":533,"peak":0.5,"km2":21000,"tier":1},
+  {"id":"kingdom-of-alamannia-462","name":"Kingdom of Alamannia","from":462,"to":499,"peak":0.2,"km2":8000,"tier":2}
+],
+ "events":[
+  {"id":"Q664365","name":"Battle of Octodurus","year":-57,"type":"siege","links":13,"by":"coordinates","to":-56,"wiki":"Battle of Octodurus"}
+]}

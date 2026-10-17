@@ -1,0 +1,9 @@
+{"lane": "finland", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-sweden-980","name":"Kingdom of Sweden","from":1250,"to":1401,"peak":0.47,"km2":156000,"tier":2},
+  {"id":"novgorod-republic","name":"Novgorod Republic","from":1326,"to":1474,"peak":0.1,"km2":32000,"tier":3},
+  {"id":"kalmar-union","name":"Kalmar Union","from":1402,"to":1449,"peak":0.84,"km2":279000,"tier":1},
+  {"id":"house-of-oldenburg","name":"House of Oldenburg","from":1450,"to":1458,"peak":0.84,"km2":279000,"tier":1},
+  {"id":"kalmar-union","name":"Kalmar Union","from":1453,"to":1525,"peak":0.87,"km2":290000,"tier":1},
+  {"id":"grand-principality-of-moscow","name":"Grand Principality of Moscow","from":1475,"to":1546,"peak":0.06,"km2":20000,"tier":3}
+]}

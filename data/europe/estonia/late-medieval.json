@@ -1,0 +1,8 @@
+{"lane": "estonia", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-denmark","name":"Kingdom of Denmark","from":1220,"to":1332,"peak":0.26,"km2":12000,"tier":2},
+  {"id":"holy-roman-empire","name":"Holy Roman Empire","from":1241,"to":1421,"peak":0.75,"km2":34000,"tier":1,"realm":true},
+  {"id":"teutonic-order","name":"Teutonic Order","from":1241,"to":1421,"peak":0.75,"km2":34000,"tier":1},
+  {"id":"danish-magnates","name":"Danish Magnates","from":1333,"to":1343,"peak":0.26,"km2":12000,"tier":2},
+  {"id":"livonian-conference","name":"Livonian Conference","from":1422,"to":1563,"peak":0.97,"km2":44000,"tier":1}
+]}

@@ -1,0 +1,10 @@
+{"lane": "lithuania", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kievan-rus","name":"Kievan Rus'","from":990,"to":1235,"peak":0.11,"km2":7000,"tier":3},
+  {"id":"principality-of-polotsky-1056","name":"Principality of Polotsky","from":1056,"to":1110,"peak":0.08,"km2":5000,"tier":3},
+  {"id":"principality-of-minsk","name":"Principality of Minsk","from":1111,"to":1249,"peak":0.08,"km2":5000,"tier":3},
+  {"id":"grand-duchy-of-lithuania","name":"Grand Duchy of Lithuania","from":1220,"to":1449,"peak":0.96,"km2":62000,"tier":1}
+],
+ "events":[
+  {"id":"Q853754","name":"Battle of Saule","year":1236,"type":"battle","links":34,"by":"coordinates","wiki":"Battle of Saule"}
+]}

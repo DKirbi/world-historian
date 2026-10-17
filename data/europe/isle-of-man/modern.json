@@ -1,0 +1,5 @@
+{"lane": "isle-of-man", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1709,"to":1999,"peak":0.77,"km2":400,"tier":1,"realm":true},
+  {"id":"kingdom-of-great-britain","name":"Kingdom of Great Britain","from":1709,"to":2024,"peak":0.77,"km2":400,"tier":1}
+]}

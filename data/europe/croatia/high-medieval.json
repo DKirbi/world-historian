@@ -1,0 +1,14 @@
+{"lane": "croatia", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-croatia","name":"Kingdom of Croatia","from":926,"to":1098,"peak":0.82,"km2":45000,"tier":1},
+  {"id":"republic-of-venice","name":"Republic of Venice","from":1000,"to":1168,"peak":0.08,"km2":4000,"tier":3},
+  {"id":"kingdom-of-hungary","name":"Kingdom of Hungary","from":1094,"to":1449,"peak":0.87,"km2":47000,"tier":1},
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":1169,"to":1187,"peak":0.13,"km2":7000,"tier":3},
+  {"id":"republic-of-venice","name":"Republic of Venice","from":1169,"to":1187,"peak":0.04,"km2":2000,"tier":3,"inside":true},
+  {"id":"republic-of-venice","name":"Republic of Venice","from":1188,"to":1362,"peak":0.09,"km2":5000,"tier":3}
+],
+ "events":[
+  {"id":"Q842361","name":"Battle of Gvozd Mountain","year":1097,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Gvozd Mountain"},
+  {"id":"Q604739","name":"Siege of Zara","year":1202,"type":"siege","links":30,"by":"coordinates","wiki":"Siege of Zara"},
+  {"id":"Q2139987","name":"Battle of Curzola","year":1298,"type":"battle","links":18,"by":"coordinates","wiki":"Battle of Curzola"}
+]}

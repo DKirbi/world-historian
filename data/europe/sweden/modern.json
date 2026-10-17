@@ -1,0 +1,11 @@
+{"lane": "sweden", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"swedish-empire","name":"Swedish Empire","from":1612,"to":1814,"peak":1.0,"km2":444000,"tier":1},
+  {"id":"united-kingdoms-of-sweden-and-norway","name":"United Kingdoms of Sweden and Norway","from":1815,"to":1904,"peak":1.0,"km2":443000,"tier":1},
+  {"id":"kingdom-of-sweden-1905","name":"Kingdom of Sweden","from":1905,"to":2024,"peak":0.99,"km2":443000,"tier":1}
+],
+ "events":[
+  {"id":"Q1269777","name":"Dano-Swedish War of 1808-1809","year":1808,"type":"war","links":18,"by":"location","to":1809,"wiki":"Dano-Swedish War (1808–1809)"},
+  {"id":"Q2334896","name":"1809 Swedish coup d'état","year":1809,"type":"coup","links":12,"by":"country","wiki":"Coup of 1809"},
+  {"id":"Q2060853","name":"Treaty of Orebro","year":1812,"type":"treaty","links":12,"by":"location","wiki":"Treaties of Örebro"}
+]}

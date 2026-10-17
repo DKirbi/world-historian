@@ -1,0 +1,11 @@
+{"lane": "austria", "period": "classical", "years": [-800, 475], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"roman-empire","name":"Roman Empire","from":-14,"to":394,"peak":0.85,"km2":72000,"tier":1},
+  {"id":"vandals","name":"Vandals","from":337,"to":409,"peak":0.11,"km2":10000,"tier":3},
+  {"id":"western-roman-empire","name":"Western Roman Empire","from":395,"to":475,"peak":0.85,"km2":72000,"tier":1},
+  {"id":"ostrogoths","name":"Ostrogoths","from":455,"to":499,"peak":0.85,"km2":71000,"tier":1},
+  {"id":"rugiland","name":"Rugiland","from":455,"to":489,"peak":0.15,"km2":13000,"tier":3}
+],
+ "events":[
+  {"id":"Q657620","name":"Battle of Noreia","year":-112,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Noreia"}
+]}

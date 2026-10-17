@@ -1,0 +1,15 @@
+{"lane": "estonia", "period": "high-medieval", "years": [1000, 1299], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"livonian-brothers-of-the-sword","name":"Livonian Brothers of the Sword","from":1220,"to":1240,"peak":0.48,"km2":22000,"tier":2},
+  {"id":"kingdom-of-denmark","name":"Kingdom of Denmark","from":1220,"to":1332,"peak":0.26,"km2":12000,"tier":2},
+  {"id":"holy-roman-empire","name":"Holy Roman Empire","from":1241,"to":1421,"peak":0.75,"km2":34000,"tier":1,"realm":true},
+  {"id":"teutonic-order","name":"Teutonic Order","from":1241,"to":1421,"peak":0.75,"km2":34000,"tier":1}
+],
+ "events":[
+  {"id":"Q196409","name":"Livonian Crusade","year":1198,"type":"war","links":35,"by":"location","wiki":"Livonian Crusade"},
+  {"id":"Q1082410","name":"Battle of St. Matthew's Day","year":1217,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of St. Matthew's Day"},
+  {"id":"Q1341824","name":"Battle of Lyndanisse","year":1219,"type":"battle","links":25,"by":"coordinates","wiki":"Battle of Lyndanisse"},
+  {"id":"Q2692278","name":"Battle of Lihula","year":1220,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Lihula"},
+  {"id":"Q252698","name":"Battle of Wesenberg","year":1268,"type":"battle","links":20,"by":"coordinates","wiki":"Battle of Wesenberg (1268)"},
+  {"id":"Q1049530","name":"Battle of Karuse","year":1270,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Karuse"}
+]}

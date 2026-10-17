@@ -1,0 +1,7 @@
+{"lane": "iceland", "period": "late-medieval", "years": [1300, 1491], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"old-kingdom-of-norway","name":"Old Kingdom of Norway","from":1272,"to":1401,"peak":0.99,"km2":101000,"tier":1},
+  {"id":"kalmar-union","name":"Kalmar Union","from":1402,"to":1449,"peak":0.99,"km2":101000,"tier":1},
+  {"id":"house-of-oldenburg","name":"House of Oldenburg","from":1450,"to":1452,"peak":0.99,"km2":101000,"tier":1},
+  {"id":"kalmar-union","name":"Kalmar Union","from":1453,"to":1525,"peak":0.99,"km2":101000,"tier":1}
+]}

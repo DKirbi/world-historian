@@ -1,0 +1,8 @@
+{"lane": "isle-of-man", "period": "early-medieval", "years": [476, 999], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"dal-riata","name":"Dál Riata","from":587,"to":643,"peak":0.77,"km2":400,"tier":1},
+  {"id":"anglo-saxon-england","name":"Anglo-Saxon England","from":626,"to":632,"peak":0.77,"km2":400,"tier":1,"realm":true},
+  {"id":"kingdom-of-northumbria","name":"Kingdom of Northumbria","from":626,"to":632,"peak":0.77,"km2":400,"tier":1},
+  {"id":"viking-settlements","name":"Viking settlements","from":840,"to":999,"peak":0.77,"km2":400,"tier":1},
+  {"id":"old-kingdom-of-norway","name":"Old Kingdom of Norway","from":990,"to":1045,"peak":0.77,"km2":400,"tier":1}
+]}

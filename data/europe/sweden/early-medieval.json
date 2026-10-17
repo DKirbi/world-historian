@@ -1,0 +1,12 @@
+{"lane": "sweden", "period": "early-medieval", "years": [476, 999], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"lombards","name":"Lombards","from":480,"to":489,"peak":0.01,"km2":6000,"tier":3,"inside":true},
+  {"id":"scandinavian-minor-kingdoms-500","name":"Scandinavian minor kingdoms","from":500,"to":799,"peak":0.32,"km2":144000,"tier":2},
+  {"id":"scandinavian-minor-kingdoms-800","name":"Scandinavian minor kingdoms","from":800,"to":1002,"peak":0.36,"km2":162000,"tier":2},
+  {"id":"jaemtland","name":"Jaemtland","from":947,"to":1187,"peak":0.06,"km2":26000,"tier":3},
+  {"id":"kingdom-of-denmark","name":"Kingdom of Denmark","from":960,"to":1017,"peak":0.06,"km2":29000,"tier":3},
+  {"id":"kingdom-of-sweden-980","name":"Kingdom of Sweden","from":980,"to":1401,"peak":0.45,"km2":201000,"tier":2}
+],
+ "events":[
+  {"id":"Q2664985","name":"Battle of Fýrisvellir","year":980,"type":"battle","links":12,"by":"coordinates","prec":8,"wiki":"Battle of Fýrisvellir"}
+]}

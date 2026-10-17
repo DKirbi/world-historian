@@ -1,0 +1,9 @@
+{"lane": "cyprus", "period": "early-modern", "years": [1492, 1788], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"republic-of-venice","name":"Republic of Venice","from":1492,"to":1571,"peak":1.0,"km2":9000,"tier":1},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1572,"to":1879,"peak":1.0,"km2":9000,"tier":1}
+],
+ "events":[
+  {"id":"Q961430","name":"Ottoman–Venetian War of 1570–1573","year":1570,"type":"war","links":33,"by":"location","to":1573,"wiki":"Ottoman–Venetian War (1570–1573)"},
+  {"id":"Q1086625","name":"Siege of Famagusta","year":1570,"type":"siege","links":21,"by":"coordinates","to":1571,"wiki":"Siege of Famagusta"}
+]}

@@ -1,0 +1,11 @@
+{"lane": "bosnia-and-herzegovina", "period": "modern", "years": [1789, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"republic-of-ragusa","name":"Republic of Ragusa","from":1429,"to":1808,"peak":0.02,"km2":1000,"tier":3,"inside":true},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1463,"to":1879,"peak":0.97,"km2":50000,"tier":1},
+  {"id":"austria-hungary","name":"Austria-Hungary","from":1880,"to":1918,"peak":1.0,"km2":52000,"tier":1}
+],
+ "events":[
+  {"id":"Q2258726","name":"Herzegovina Uprising","year":1875,"type":"rebellion","links":29,"by":"location","to":1878,"wiki":"Herzegovina uprising (1875–1877)"},
+  {"id":"Q2586933","name":"Battle of Vučji Do","year":1876,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Vučji Do"},
+  {"id":"Q12645587","name":"Austro-Hungarian campaign in Bosnia and Herzegovina in 1878","year":1878,"type":"campaign","links":26,"by":"location","wiki":"Austro-Hungarian campaign in Bosnia and Herzegovina in 1878"}
+]}
