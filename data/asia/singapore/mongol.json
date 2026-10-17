@@ -1,0 +1,6 @@
+{"lane": "singapore", "period": "mongol", "years": [1206, 1367], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"srivijaya","name":"Srivijaya","from":692,"to":1293,"peak":0.88,"km2":400,"tier":1},
+  {"id":"malaya","name":"Malaya","from":1294,"to":1304,"peak":0.85,"km2":400,"tier":1},
+  {"id":"kingdom-of-singapura","name":"Kingdom of Singapura","from":1305,"to":1401,"peak":0.86,"km2":400,"tier":1}
+]}

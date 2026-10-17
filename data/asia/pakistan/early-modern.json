@@ -1,0 +1,23 @@
+{"lane": "pakistan", "period": "early-modern", "years": [1368, 1838], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"delhi-sultanate","name":"Delhi Sultanate","from":1210,"to":1401,"peak":0.33,"km2":285000,"tier":2,"realm":true},
+  {"id":"tughlaq-dynasty","name":"Tughlaq Dynasty","from":1326,"to":1401,"peak":0.33,"km2":285000,"tier":2},
+  {"id":"sind-samma-dynasty","name":"Sind-Samma Dynasty","from":1344,"to":1525,"peak":0.13,"km2":117000,"tier":2},
+  {"id":"timurid-empire-1375","name":"Timurid Empire","from":1375,"to":1506,"peak":0.73,"km2":637000,"tier":1},
+  {"id":"safavid-dynasty","name":"Safavid Dynasty","from":1512,"to":1712,"peak":0.23,"km2":202000,"tier":2},
+  {"id":"timurid-empire-1507","name":"Timurid Empire","from":1526,"to":1528,"peak":0.3,"km2":265000,"tier":2},
+  {"id":"mughal-empire","name":"Mughal Empire","from":1529,"to":1546,"peak":0.37,"km2":320000,"tier":2},
+  {"id":"sur-empire","name":"Sur Empire","from":1547,"to":1555,"peak":0.31,"km2":271000,"tier":2},
+  {"id":"mughal-empire","name":"Mughal Empire","from":1556,"to":1761,"peak":0.77,"km2":671000,"tier":1},
+  {"id":"hotaki-dynasty","name":"Hotaki Dynasty","from":1718,"to":1737,"peak":0.23,"km2":202000,"tier":2},
+  {"id":"afsharid-iran","name":"Afsharid Iran","from":1738,"to":1756,"peak":0.69,"km2":598000,"tier":1},
+  {"id":"durrani-empire","name":"Durrani Empire","from":1752,"to":1827,"peak":1.0,"km2":870000,"tier":1},
+  {"id":"sikh-confederacy","name":"Sikh Confederacy","from":1769,"to":1799,"peak":0.05,"km2":47000,"tier":3},
+  {"id":"sikh-empire","name":"Sikh Empire","from":1800,"to":1848,"peak":0.29,"km2":254000,"tier":2},
+  {"id":"talpur-dynasty","name":"Talpur Dynasty","from":1820,"to":1894,"peak":0.59,"km2":511000,"tier":1},
+  {"id":"emirate-of-afghanistan","name":"Emirate of Afghanistan","from":1828,"to":1839,"peak":0.21,"km2":184000,"tier":2}
+],
+ "events":[
+  {"id":"Q4689049","name":"Afghan–Sikh Wars","year":1748,"type":"war","links":13,"by":"location","to":1837,"wiki":"Afghan–Sikh Wars"},
+  {"id":"Q4062556","name":"Treaty of Allahabad","year":1765,"type":"treaty","links":19,"by":"location","wiki":"Treaty of Allahabad"}
+]}

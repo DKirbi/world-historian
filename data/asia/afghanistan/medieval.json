@@ -1,0 +1,18 @@
+{"lane": "afghanistan", "period": "medieval", "years": [589, 1205], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":523,"to":643,"peak":0.55,"km2":356000,"tier":1},
+  {"id":"turk-shahis","name":"Turk Shahis","from":561,"to":874,"peak":0.5,"km2":323000,"tier":1},
+  {"id":"western-gokturks","name":"Western Göktürks","from":587,"to":591,"peak":0.19,"km2":122000,"tier":2},
+  {"id":"karkota-dynasty","name":"Karkota Dynasty","from":592,"to":655,"peak":0.19,"km2":121000,"tier":2},
+  {"id":"rashidun-caliphate","name":"Rashidun Caliphate","from":644,"to":665,"peak":0.57,"km2":364000,"tier":1},
+  {"id":"umayyad-caliphate","name":"Umayyad Caliphate","from":666,"to":749,"peak":0.79,"km2":506000,"tier":1},
+  {"id":"abbasid-caliphate-750","name":"Abbasid Caliphate","from":750,"to":874,"peak":0.53,"km2":343000,"tier":1},
+  {"id":"saffarid-dynasty","name":"Saffarid Dynasty","from":866,"to":899,"peak":1.0,"km2":642000,"tier":1},
+  {"id":"samanid-empire","name":"Samanid Empire","from":900,"to":999,"peak":1.0,"km2":642000,"tier":1},
+  {"id":"ghaznavid-empire","name":"Ghaznavid Empire","from":962,"to":1176,"peak":0.97,"km2":622000,"tier":1},
+  {"id":"great-seljuk-empire","name":"Great Seljuk Empire","from":1040,"to":1176,"peak":0.43,"km2":276000,"tier":2},
+  {"id":"ghurid-dynasty","name":"Ghurid Dynasty","from":1152,"to":1209,"peak":0.87,"km2":557000,"tier":1},
+  {"id":"lohara-dynasty","name":"Lohara Dynasty","from":1152,"to":1259,"peak":0.08,"km2":48000,"tier":3},
+  {"id":"khwarezmid-dynasty","name":"Khwarezmid Dynasty","from":1152,"to":1201,"peak":0.06,"km2":36000,"tier":3},
+  {"id":"khwarezmid-empire","name":"Khwarezmid Empire","from":1202,"to":1235,"peak":0.92,"km2":594000,"tier":1}
+]}

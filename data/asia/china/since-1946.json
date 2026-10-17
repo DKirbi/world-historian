@@ -1,0 +1,21 @@
+{"lane": "china", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"tibet-1912","name":"Tibet","from":1912,"to":1952,"peak":0.15,"km2":1363000,"tier":2},
+  {"id":"republic-of-china","name":"Republic of China","from":1930,"to":1949,"peak":0.83,"km2":7824000,"tier":1},
+  {"id":"east-turkestan-republic","name":"East Turkestan Republic","from":1945,"to":1949,"peak":0.03,"km2":271000,"tier":2,"large":true},
+  {"id":"union-of-soviet-socialist-republics","name":"Union of Soviet Socialist Republics","from":1946,"to":1947,"peak":0.14,"km2":1292000,"tier":2},
+  {"id":"communist-party-of-china","name":"Communist Party of China","from":1946,"to":1946,"peak":0.01,"km2":111000,"tier":2,"large":true},
+  {"id":"communist-party-of-china","name":"Communist Party of China","from":1947,"to":1949,"peak":0.29,"km2":2759000,"tier":2},
+  {"id":"people-s-republic-of-china","name":"People's Republic of China","from":1950,"to":2024,"peak":1.0,"km2":9335000,"tier":1}
+],
+ "events":[
+  {"id":"Q1773984","name":"Battle of Chamdo","year":1950,"type":"campaign","links":26,"by":"coordinates","to":1951,"wiki":"Battle of Chamdo"},
+  {"id":"Q508258","name":"1959 Tibetan uprising","year":1959,"type":"rebellion","links":34,"by":"location","wiki":"1959 Tibetan uprising"},
+  {"id":"Q208694","name":"Sino-Indian War","year":1962,"type":"war","links":56,"by":"location","wiki":"Sino-Indian War"},
+  {"id":"Q8690","name":"Cultural Revolution","year":1966,"type":"revolution","links":123,"by":"country","to":1976,"wiki":"Cultural Revolution"},
+  {"id":"Q244932","name":"Sino-Soviet border conflict","year":1969,"type":"war","links":46,"by":"location","wiki":"Sino-Soviet border conflict"},
+  {"id":"Q446495","name":"Treaty of Peace and Friendship between Japan and the People's Republic of China","year":1978,"type":"treaty","links":13,"by":"country","wiki":"Treaty of Peace and Friendship between Japan and China"},
+  {"id":"Q545068","name":"2008 Tibetan unrest","year":2008,"type":"rebellion","links":30,"by":"coordinates","wiki":"2008 Tibetan unrest"},
+  {"id":"Q81068910","name":"COVID-19 pandemic","year":2019,"type":"pandemic","links":214,"by":"location","wiki":"COVID-19 pandemic"},
+  {"id":"Q93879586","name":"2020–2021 China–India skirmishes","year":2020,"type":"battle","links":33,"by":"location","to":2021,"wiki":"2020–2021 China–India skirmishes"}
+]}

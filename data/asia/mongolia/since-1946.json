@@ -1,0 +1,8 @@
+{"lane": "mongolia", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"mongolian-people-s-republic","name":"Mongolian People's Republic","from":1926,"to":1991,"peak":1.0,"km2":1558000,"tier":1},
+  {"id":"mongolia","name":"Mongolia","from":1992,"to":2024,"peak":1.0,"km2":1557000,"tier":1}
+],
+ "events":[
+  {"id":"Q2302974","name":"Mongolian Revolution of 1990","year":1990,"type":"revolution","links":23,"by":"location","wiki":"Mongolian Revolution of 1990"}
+]}

@@ -1,0 +1,25 @@
+{"lane": "kyrgyzstan", "period": "medieval", "years": [589, 1205], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"protectorate-of-the-western-regions-306","name":"Protectorate of the Western Regions","from":561,"to":601,"peak":0.18,"km2":36000,"tier":3},
+  {"id":"western-gokturks","name":"Western Göktürks","from":587,"to":660,"peak":1.0,"km2":199000,"tier":1},
+  {"id":"tang-dynasty","name":"Tang Dynasty","from":661,"to":673,"peak":1.0,"km2":199000,"tier":1},
+  {"id":"turks","name":"Turks","from":666,"to":717,"peak":0.71,"km2":141000,"tier":1},
+  {"id":"tibetan-empire","name":"Tibetan Empire","from":674,"to":749,"peak":0.29,"km2":58000,"tier":2},
+  {"id":"tang-dynasty","name":"Tang Dynasty","from":692,"to":756,"peak":0.67,"km2":134000,"tier":1},
+  {"id":"turgesh","name":"Türgesh","from":705,"to":749,"peak":0.71,"km2":141000,"tier":1},
+  {"id":"turks","name":"Turks","from":750,"to":754,"peak":0.57,"km2":113000,"tier":1},
+  {"id":"uyghur-khaganate","name":"Uyghur Khaganate","from":755,"to":792,"peak":0.6,"km2":120000,"tier":1},
+  {"id":"abbasid-caliphate-750","name":"Abbasid Caliphate","from":755,"to":885,"peak":0.22,"km2":43000,"tier":2},
+  {"id":"tibetan-empire","name":"Tibetan Empire","from":757,"to":849,"peak":0.25,"km2":50000,"tier":2},
+  {"id":"qarlugs","name":"Qarlugs","from":793,"to":849,"peak":0.49,"km2":97000,"tier":2},
+  {"id":"kara-khanids","name":"Kara-Khanids","from":850,"to":1045,"peak":1.0,"km2":199000,"tier":1},
+  {"id":"samanid-empire","name":"Samanid Empire","from":886,"to":999,"peak":0.51,"km2":101000,"tier":1},
+  {"id":"kingdom-of-khotan","name":"Kingdom of Khotan","from":888,"to":1009,"peak":0.18,"km2":37000,"tier":3},
+  {"id":"eastern-kara-khanids","name":"Eastern Kara-Khanids","from":1046,"to":1138,"peak":0.92,"km2":183000,"tier":1},
+  {"id":"western-karakhanid-khanate","name":"Western Karakhanid Khanate","from":1046,"to":1084,"peak":0.25,"km2":50000,"tier":2},
+  {"id":"great-seljuk-empire","name":"Great Seljuk Empire","from":1085,"to":1146,"peak":0.25,"km2":50000,"tier":2},
+  {"id":"kara-khitans","name":"Kara-Khitans","from":1139,"to":1219,"peak":1.0,"km2":199000,"tier":1}
+],
+ "events":[
+  {"id":"Q492415","name":"Battle of Talas","year":751,"type":"battle","links":47,"by":"coordinates","wiki":"Battle of Talas"}
+]}

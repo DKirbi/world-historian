@@ -1,0 +1,19 @@
+{"lane": "georgia", "period": "medieval", "years": [589, 1205], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":510,"to":626,"peak":0.98,"km2":68000,"tier":1},
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":577,"to":616,"peak":0.73,"km2":51000,"tier":1},
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":626,"to":632,"peak":0.73,"km2":50000,"tier":1},
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":633,"to":637,"peak":0.72,"km2":50000,"tier":1},
+  {"id":"kingdom-of-lazica","name":"Kingdom of Lazica","from":638,"to":777,"peak":0.31,"km2":21000,"tier":2},
+  {"id":"rashidun-caliphate","name":"Rashidun Caliphate","from":647,"to":665,"peak":0.66,"km2":46000,"tier":1},
+  {"id":"umayyad-caliphate","name":"Umayyad Caliphate","from":666,"to":750,"peak":0.66,"km2":46000,"tier":1},
+  {"id":"principality-of-iberia","name":"Principality of Iberia","from":682,"to":740,"peak":0.48,"km2":34000,"tier":2},
+  {"id":"georgia-724","name":"Georgia","from":724,"to":1009,"peak":0.97,"km2":67000,"tier":1},
+  {"id":"abbasid-caliphate-750","name":"Abbasid Caliphate","from":751,"to":891,"peak":0.67,"km2":46000,"tier":1},
+  {"id":"kingdom-of-georgia-1010","name":"Kingdom of Georgia","from":1010,"to":1240,"peak":0.98,"km2":68000,"tier":1},
+  {"id":"great-seljuk-empire","name":"Great Seljuk Empire","from":1085,"to":1125,"peak":0.76,"km2":53000,"tier":1}
+],
+ "events":[
+  {"id":"Q2637246","name":"Battle of Sasireti","year":1042,"type":"battle","links":14,"by":"location","wiki":"Battle of Sasireti"},
+  {"id":"Q1192616","name":"Battle of Didgori","year":1121,"type":"battle","links":29,"by":"coordinates","wiki":"Battle of Didgori"}
+]}

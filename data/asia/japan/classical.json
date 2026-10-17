@@ -1,0 +1,4 @@
+{"lane": "japan", "period": "classical", "years": [-221, 588], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"asuka-japan","name":"Asuka Japan","from":540,"to":709,"peak":0.56,"km2":209000,"tier":1}
+]}

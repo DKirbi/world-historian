@@ -1,0 +1,13 @@
+{"lane": "azerbaijan", "period": "mongol", "years": [1206, 1367], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-georgia-1010","name":"Kingdom of Georgia","from":1126,"to":1226,"peak":0.66,"km2":57000,"tier":1},
+  {"id":"shirvan-825","name":"Shirvan","from":1126,"to":1235,"peak":0.48,"km2":42000,"tier":2},
+  {"id":"hamdanid-emirates","name":"Hamdanid Emirates","from":1192,"to":1215,"peak":0.16,"km2":14000,"tier":3},
+  {"id":"khwarezmid-empire","name":"Khwarezmid Empire","from":1216,"to":1235,"peak":0.11,"km2":10000,"tier":3},
+  {"id":"mongol-empire","name":"Mongol Empire","from":1236,"to":1293,"peak":0.97,"km2":83000,"tier":1},
+  {"id":"ilkhanate","name":"Ilkhanate","from":1294,"to":1343,"peak":0.96,"km2":83000,"tier":1},
+  {"id":"kingdom-of-georgia-1333","name":"Kingdom of Georgia","from":1333,"to":1394,"peak":0.29,"km2":26000,"tier":2},
+  {"id":"shirvan-1344","name":"Shirvan","from":1344,"to":1384,"peak":0.5,"km2":44000,"tier":1},
+  {"id":"chobanids","name":"Chobanids","from":1344,"to":1362,"peak":0.17,"km2":14000,"tier":3},
+  {"id":"jalayirid-sultanate","name":"Jalayirid Sultanate","from":1363,"to":1374,"peak":0.17,"km2":14000,"tier":3}
+]}

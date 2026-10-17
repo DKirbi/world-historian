@@ -1,0 +1,5 @@
+{"lane": "cambodia", "period": "classical", "years": [-221, 588], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"funan","name":"Funan","from":51,"to":640,"peak":0.71,"km2":129000,"tier":1},
+  {"id":"chenla","name":"Chenla","from":555,"to":717,"peak":1.0,"km2":181000,"tier":1}
+]}

@@ -1,0 +1,17 @@
+{"lane": "kazakhstan", "period": "classical", "years": [-221, 588], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"yuezhi","name":"Yuezhi","from":-404,"to":-171,"peak":0.06,"km2":158000,"tier":2},
+  {"id":"xiongnu","name":"Xiongnu","from":-170,"to":-67,"peak":0.19,"km2":514000,"tier":2},
+  {"id":"wusun-170bce","name":"Wusun","from":-170,"to":-145,"peak":0.06,"km2":156000,"tier":2},
+  {"id":"wusun-66bce","name":"Wusun","from":-66,"to":90,"peak":0.06,"km2":157000,"tier":2},
+  {"id":"xiongnu","name":"Xiongnu","from":106,"to":153,"peak":0.08,"km2":211000,"tier":2},
+  {"id":"huns","name":"Huns","from":106,"to":370,"peak":0.02,"km2":49000,"tier":3,"inside":true},
+  {"id":"xianbei","name":"Xianbei","from":161,"to":223,"peak":0.06,"km2":172000,"tier":2},
+  {"id":"rouran-khaganate","name":"Rouran Khaganate","from":402,"to":554,"peak":0.05,"km2":123000,"tier":2},
+  {"id":"white-huns","name":"White Huns","from":490,"to":560,"peak":0.07,"km2":187000,"tier":2},
+  {"id":"gokturk-khaganate","name":"Göktürk Khaganate","from":555,"to":586,"peak":0.71,"km2":1937000,"tier":1},
+  {"id":"western-gokturks","name":"Western Göktürks","from":587,"to":660,"peak":0.71,"km2":1938000,"tier":1}
+],
+ "events":[
+  {"id":"Q870947","name":"Battle of Zhizhi","year":-36,"type":"battle","links":14,"by":"location","wiki":"Battle of Zhizhi"}
+]}

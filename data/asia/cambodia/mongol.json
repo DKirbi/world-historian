@@ -1,0 +1,4 @@
+{"lane": "cambodia", "period": "mongol", "years": [1206, 1367], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"khmer-empire","name":"Khmer Empire","from":806,"to":1867,"peak":1.0,"km2":181000,"tier":1}
+]}

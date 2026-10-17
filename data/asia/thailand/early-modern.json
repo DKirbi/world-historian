@@ -1,0 +1,22 @@
+{"lane": "thailand", "period": "early-modern", "years": [1368, 1838], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"khmer-empire","name":"Khmer Empire","from":806,"to":1374,"peak":0.76,"km2":390000,"tier":1},
+  {"id":"sukhothai-kingdom","name":"Sukhothai Kingdom","from":1241,"to":1449,"peak":0.46,"km2":236000,"tier":2},
+  {"id":"lavo-kingdom-1241","name":"Lavo Kingdom","from":1241,"to":1394,"peak":0.08,"km2":42000,"tier":3},
+  {"id":"lan-na-kingdom","name":"Lan Na Kingdom","from":1294,"to":1563,"peak":0.1,"km2":51000,"tier":3},
+  {"id":"ayutthaya-kingdom","name":"Ayutthaya Kingdom","from":1352,"to":1374,"peak":0.01,"km2":7000,"tier":3,"inside":true},
+  {"id":"lan-xang","name":"Lan Xang","from":1363,"to":1578,"peak":0.21,"km2":110000,"tier":2},
+  {"id":"ayutthaya-kingdom","name":"Ayutthaya Kingdom","from":1375,"to":1571,"peak":0.68,"km2":347000,"tier":1},
+  {"id":"first-toungoo-empire","name":"First Toungoo Empire","from":1564,"to":1599,"peak":0.91,"km2":467000,"tier":1},
+  {"id":"patani-kingdom","name":"Patani Kingdom","from":1572,"to":1690,"peak":0.02,"km2":11000,"tier":3,"inside":true},
+  {"id":"ayutthaya-kingdom","name":"Ayutthaya Kingdom","from":1588,"to":1768,"peak":0.68,"km2":348000,"tier":1},
+  {"id":"lan-xang","name":"Lan Xang","from":1588,"to":1708,"peak":0.21,"km2":110000,"tier":2},
+  {"id":"lan-na-1600","name":"Lan Na","from":1600,"to":1618,"peak":0.1,"km2":51000,"tier":3},
+  {"id":"first-toungoo-empire","name":"First Toungoo Empire","from":1619,"to":1733,"peak":0.11,"km2":56000,"tier":3},
+  {"id":"vientiane","name":"Vientiane","from":1709,"to":1827,"peak":0.21,"km2":108000,"tier":2},
+  {"id":"lan-na-1734","name":"Lan Na","from":1734,"to":1761,"peak":0.1,"km2":52000,"tier":3},
+  {"id":"konbaung-dynasty","name":"Konbaung Dynasty","from":1762,"to":1774,"peak":0.11,"km2":59000,"tier":3},
+  {"id":"thonburi-kingdom","name":"Thonburi Kingdom","from":1769,"to":1782,"peak":0.67,"km2":344000,"tier":1},
+  {"id":"chiangmai","name":"Chiangmai","from":1775,"to":1884,"peak":0.1,"km2":52000,"tier":3},
+  {"id":"rattanakosin-kingdom","name":"Rattanakosin Kingdom","from":1783,"to":1931,"peak":0.98,"km2":504000,"tier":1}
+]}

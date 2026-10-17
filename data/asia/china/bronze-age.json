@@ -1,0 +1,4 @@
+{"lane": "china", "period": "bronze-age", "years": [-3400, -1301], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"shang-dynasty","name":"Shang Dynasty","from":-1600,"to":-1001,"peak":0.02,"km2":154000,"tier":2,"large":true}
+]}

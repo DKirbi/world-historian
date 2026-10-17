@@ -1,0 +1,14 @@
+{"lane": "myanmar", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-raj","name":"British Raj","from":1945,"to":1947,"peak":0.99,"km2":655000,"tier":1},
+  {"id":"burma-1948","name":"Burma","from":1948,"to":1989,"peak":0.98,"km2":649000,"tier":1},
+  {"id":"union-of-myanmar","name":"Union of Myanmar","from":1990,"to":2024,"peak":0.98,"km2":649000,"tier":1}
+],
+ "events":[
+  {"id":"Q852088","name":"Myanmar conflict","year":1947,"type":"war","links":29,"by":"location","wiki":"Myanmar conflict"},
+  {"id":"Q7359741","name":"Rohingya conflict","year":1947,"type":"rebellion","links":17,"by":"location","wiki":"Rohingya conflict"},
+  {"id":"Q2652686","name":"Kachin conflict","year":1961,"type":"war","links":12,"by":"location","wiki":"Kachin conflict"},
+  {"id":"Q4350095","name":"1962 Burmese coup d'état","year":1962,"type":"coup","links":15,"by":"location","wiki":"1962 Burmese coup d'état"},
+  {"id":"Q105180889","name":"2021 Myanmar coup d'état","year":2021,"type":"coup","links":61,"by":"country","wiki":"2021 Myanmar coup d'état"},
+  {"id":"Q110613097","name":"Myanmar Civil War","year":2021,"type":"war","links":39,"by":"country","wiki":"Myanmar civil war (2021–present)"}
+]}

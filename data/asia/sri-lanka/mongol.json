@@ -1,0 +1,7 @@
+{"lane": "sri-lanka", "period": "mongol", "years": [1206, 1367], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-polonnaruwa","name":"Kingdom of Polonnaruwa","from":1072,"to":1259,"peak":1.0,"km2":66000,"tier":1},
+  {"id":"ceylon","name":"Ceylon","from":1236,"to":1506,"peak":1.0,"km2":65000,"tier":1},
+  {"id":"kingdom-of-dambadeniya","name":"Kingdom of Dambadeniya","from":1236,"to":1293,"peak":0.08,"km2":5000,"tier":3},
+  {"id":"jaffna-kingdom","name":"Jaffna kingdom","from":1314,"to":1594,"peak":0.31,"km2":20000,"tier":2}
+]}

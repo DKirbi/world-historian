@@ -1,0 +1,4 @@
+{"lane": "singapore", "period": "medieval", "years": [589, 1205], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"srivijaya","name":"Srivijaya","from":692,"to":1293,"peak":0.88,"km2":400,"tier":1}
+]}

@@ -1,0 +1,20 @@
+{"lane": "india", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-raj","name":"British Raj","from":1859,"to":1946,"peak":0.99,"km2":3129000,"tier":1},
+  {"id":"republic-of-india","name":"Republic of India","from":1947,"to":2024,"peak":0.99,"km2":3127000,"tier":1},
+  {"id":"hyderabad-state-1947","name":"Hyderabad State","from":1947,"to":1947,"peak":0.07,"km2":211000,"tier":2}
+],
+ "events":[
+  {"id":"Q3380689","name":"Telangana Rebellion","year":1946,"type":"rebellion","links":13,"by":"location","to":1951,"wiki":"Telangana Rebellion"},
+  {"id":"Q1413732","name":"Kashmir conflict","year":1947,"type":"war","links":60,"by":"coordinates","wiki":"Kashmir conflict"},
+  {"id":"Q652285","name":"Indo-Pakistani War of 1947–1948","year":1947,"type":"war","links":50,"by":"coordinates","to":1949,"wiki":"India–Pakistan war of 1947–1948"},
+  {"id":"Q1125513","name":"Insurgency in Northeast India","year":1954,"type":"rebellion","links":17,"by":"location","wiki":"Insurgency in Northeast India"},
+  {"id":"Q1661917","name":"Indus Waters Treaty","year":1960,"type":"treaty","links":34,"by":"country","wiki":"Indus Waters Treaty"},
+  {"id":"Q208694","name":"Sino-Indian War","year":1962,"type":"war","links":56,"by":"location","wiki":"Sino-Indian War"},
+  {"id":"Q233583","name":"Indo-Pakistani War of 1965","year":1965,"type":"war","links":60,"by":"location","wiki":"India–Pakistan war of 1965"},
+  {"id":"Q979845","name":"Naxalite–Maoist insurgency","year":1967,"type":"war","links":28,"by":"coordinates","wiki":"Naxalite–Maoist insurgency"},
+  {"id":"Q1470998","name":"Simla Agreement","year":1972,"type":"treaty","links":33,"by":"location","wiki":"Simla Agreement"},
+  {"id":"Q749970","name":"insurgency in Jammu and Kashmir","year":1989,"type":"rebellion","links":27,"by":"location","wiki":"Insurgency in Jammu and Kashmir"},
+  {"id":"Q404517","name":"operation sindor","year":1999,"type":"war","links":54,"by":"location","wiki":"Kargil War"},
+  {"id":"Q93879586","name":"2020–2021 China–India skirmishes","year":2020,"type":"battle","links":33,"by":"location","to":2021,"wiki":"2020–2021 China–India skirmishes"}
+]}

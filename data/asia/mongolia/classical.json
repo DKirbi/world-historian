@@ -1,0 +1,8 @@
+{"lane": "mongolia", "period": "classical", "years": [-221, 588], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"xiongnu","name":"Xiongnu","from":-208,"to":105,"peak":1.0,"km2":1565000,"tier":1},
+  {"id":"xianbei","name":"Xianbei","from":60,"to":223,"peak":1.0,"km2":1565000,"tier":1},
+  {"id":"rouran-khaganate","name":"Rouran Khaganate","from":402,"to":554,"peak":1.0,"km2":1557000,"tier":1},
+  {"id":"gokturk-khaganate","name":"Göktürk Khaganate","from":555,"to":586,"peak":1.0,"km2":1557000,"tier":1},
+  {"id":"eastern-gokturks","name":"Eastern Göktürks","from":587,"to":632,"peak":0.99,"km2":1556000,"tier":1}
+]}

@@ -1,0 +1,12 @@
+{"lane": "malaysia", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1946,"to":1962,"peak":0.98,"km2":320000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1946,"to":1962,"peak":0.98,"km2":320000,"tier":1,"realm":true},
+  {"id":"kingdom-of-sarawak-1946","name":"Kingdom of Sarawak","from":1946,"to":1946,"peak":0.36,"km2":118000,"tier":2},
+  {"id":"federation-of-malaya","name":"Federation of Malaya","from":1958,"to":1962,"peak":0.39,"km2":128000,"tier":2},
+  {"id":"malaysia","name":"Malaysia","from":1963,"to":2024,"peak":0.98,"km2":319000,"tier":1}
+],
+ "events":[
+  {"id":"Q15991222","name":"Independence of Singapore Agreement 1965","year":1965,"type":"treaty","links":12,"by":"location","wiki":"Independence of Singapore Agreement 1965"},
+  {"id":"Q3446062","name":"Communist insurgency in Malaysia","year":1968,"type":"rebellion","links":14,"by":"location","to":1989,"wiki":"Communist insurgency in Malaysia (1968–1989)"}
+]}

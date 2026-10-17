@@ -1,0 +1,11 @@
+{"lane": "laos", "period": "imperialism", "years": [1839, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-luang-phrabang","name":"Kingdom of Luang Phrabang","from":1709,"to":1894,"peak":0.53,"km2":120000,"tier":1},
+  {"id":"kingdom-of-champasak","name":"Kingdom of Champasak","from":1709,"to":1894,"peak":0.17,"km2":40000,"tier":3},
+  {"id":"chiangmai","name":"Chiangmai","from":1783,"to":1884,"peak":0.06,"km2":13000,"tier":3},
+  {"id":"rattanakosin-kingdom","name":"Rattanakosin Kingdom","from":1828,"to":1904,"peak":0.36,"km2":82000,"tier":2},
+  {"id":"french-indochina","name":"French Indochina","from":1895,"to":1955,"peak":0.96,"km2":220000,"tier":1},
+  {"id":"french-third-republic","name":"French Third Republic","from":1895,"to":1939,"peak":0.96,"km2":220000,"tier":1,"realm":true},
+  {"id":"vichy-france","name":"Vichy France","from":1940,"to":1943,"peak":0.96,"km2":220000,"tier":1,"realm":true},
+  {"id":"empire-of-japan","name":"Empire of Japan","from":1945,"to":1945,"peak":0.96,"km2":220000,"tier":1}
+]}

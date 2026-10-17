@@ -1,0 +1,7 @@
+{"lane": "brunei", "period": "imperialism", "years": [1839, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"sultanate-of-brunei-1363","name":"Sultanate of Brunei","from":1363,"to":1889,"peak":1.0,"km2":6000,"tier":1},
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1890,"to":1941,"peak":1.0,"km2":6000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1890,"to":1941,"peak":1.0,"km2":6000,"tier":1,"realm":true},
+  {"id":"empire-of-japan","name":"Empire of Japan","from":1942,"to":1945,"peak":1.0,"km2":6000,"tier":1}
+]}

@@ -1,0 +1,4 @@
+{"lane": "nepal", "period": "imperialism", "years": [1839, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"nepal","name":"Nepal","from":1775,"to":2024,"peak":0.99,"km2":145000,"tier":1}
+]}

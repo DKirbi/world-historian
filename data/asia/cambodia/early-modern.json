@@ -1,0 +1,8 @@
+{"lane": "cambodia", "period": "early-modern", "years": [1368, 1838], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"khmer-empire","name":"Khmer Empire","from":806,"to":1867,"peak":1.0,"km2":181000,"tier":1},
+  {"id":"rattanakosin-kingdom","name":"Rattanakosin Kingdom","from":1796,"to":1907,"peak":0.38,"km2":69000,"tier":2}
+],
+ "events":[
+  {"id":"Q17048924","name":"Cambodian–Dutch War","year":1643,"type":"war","links":12,"by":"location","to":1644,"wiki":"Cambodian–Dutch War"}
+]}

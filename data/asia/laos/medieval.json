@@ -1,0 +1,6 @@
+{"lane": "laos", "period": "medieval", "years": [589, 1205], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"chenla","name":"Chenla","from":555,"to":717,"peak":0.23,"km2":51000,"tier":2},
+  {"id":"land-chenla","name":"Land Chenla","from":718,"to":805,"peak":0.23,"km2":51000,"tier":2},
+  {"id":"khmer-empire","name":"Khmer Empire","from":806,"to":1362,"peak":0.82,"km2":187000,"tier":1}
+]}

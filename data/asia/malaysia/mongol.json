@@ -1,0 +1,7 @@
+{"lane": "malaysia", "period": "mongol", "years": [1206, 1367], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"srivijaya","name":"Srivijaya","from":692,"to":1293,"peak":0.39,"km2":129000,"tier":2},
+  {"id":"sultanate-of-kedah","name":"Sultanate of Kedah","from":1139,"to":1821,"peak":0.03,"km2":11000,"tier":3,"inside":true},
+  {"id":"malaya","name":"Malaya","from":1294,"to":1351,"peak":0.36,"km2":118000,"tier":2},
+  {"id":"majapahit","name":"Majapahit","from":1352,"to":1474,"peak":0.37,"km2":119000,"tier":2}
+]}

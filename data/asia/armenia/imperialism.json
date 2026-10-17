@@ -1,0 +1,19 @@
+{"lane": "armenia", "period": "imperialism", "years": [1839, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"russian-empire","name":"Russian Empire","from":1803,"to":1916,"peak":1.0,"km2":30000,"tier":1},
+  {"id":"russian-republic","name":"Russian Republic","from":1917,"to":1917,"peak":1.0,"km2":30000,"tier":1},
+  {"id":"armenia","name":"Armenia","from":1918,"to":1919,"peak":0.95,"km2":28000,"tier":1},
+  {"id":"republics-of-the-soviet-union","name":"Republics of the Soviet Union","from":1920,"to":1921,"peak":0.95,"km2":28000,"tier":1},
+  {"id":"union-of-soviet-socialist-republics","name":"Union of Soviet Socialist Republics","from":1922,"to":1991,"peak":0.99,"km2":29000,"tier":1}
+],
+ "events":[
+  {"id":"Q2585958","name":"Battle of Aladzha","year":1877,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Aladzha"},
+  {"id":"Q523154","name":"Caucasus campaign","year":1914,"type":"campaign","links":42,"by":"coordinates","to":1918,"wiki":"Caucasus campaign"},
+  {"id":"Q762732","name":"Battle of Sardarabad","year":1918,"type":"battle","links":32,"by":"coordinates","wiki":"Battle of Sardarabad"},
+  {"id":"Q791185","name":"Battle of Abaran","year":1918,"type":"battle","links":23,"by":"coordinates","wiki":"Battle of Abaran"},
+  {"id":"Q2015687","name":"Armenian–Azerbaijani War","year":1918,"type":"war","links":22,"by":"location","to":1920,"wiki":"Armenian–Azerbaijani war (1918–1920)"},
+  {"id":"Q651391","name":"Battle of Karakilisa","year":1918,"type":"battle","links":17,"by":"coordinates","wiki":"Battle of Karakilisa"},
+  {"id":"Q1347812","name":"Treaty of Alexandropol","year":1920,"type":"treaty","links":26,"by":"coordinates","wiki":"Treaty of Alexandropol"},
+  {"id":"Q13053166","name":"Red Army invasion of Armenia","year":1920,"type":"invasion","links":16,"by":"location","wiki":"Soviet invasion of Armenia"},
+  {"id":"Q5439864","name":"February Uprising","year":1921,"type":"rebellion","links":12,"by":"location","wiki":"February Uprising"}
+]}

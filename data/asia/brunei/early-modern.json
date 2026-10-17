@@ -1,0 +1,4 @@
+{"lane": "brunei", "period": "early-modern", "years": [1368, 1838], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"sultanate-of-brunei-1363","name":"Sultanate of Brunei","from":1363,"to":1889,"peak":1.0,"km2":6000,"tier":1}
+]}

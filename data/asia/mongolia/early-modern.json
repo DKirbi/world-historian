@@ -1,0 +1,14 @@
+{"lane": "mongolia", "period": "early-modern", "years": [1368, 1838], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"yuan-dynasty","name":"Yuan Dynasty","from":1294,"to":1374,"peak":1.0,"km2":1565000,"tier":1},
+  {"id":"northern-yuan","name":"Northern Yuan","from":1375,"to":1439,"peak":0.98,"km2":1526000,"tier":1},
+  {"id":"four-oirats","name":"Four Oirats","from":1402,"to":1474,"peak":1.0,"km2":1564000,"tier":1},
+  {"id":"mongol-khanate","name":"Mongol Khanate","from":1468,"to":1546,"peak":1.0,"km2":1565000,"tier":1},
+  {"id":"golden-horde","name":"Golden Horde","from":1547,"to":1695,"peak":1.0,"km2":1563000,"tier":1},
+  {"id":"tumed","name":"Tümed","from":1547,"to":1581,"peak":0.34,"km2":526000,"tier":2},
+  {"id":"dzungar-khanate-1677","name":"Dzungar Khanate","from":1687,"to":1695,"peak":0.75,"km2":1173000,"tier":1},
+  {"id":"qing-dynasty","name":"Qing Dynasty","from":1696,"to":1911,"peak":1.0,"km2":1563000,"tier":1}
+],
+ "events":[
+  {"id":"Q6808293","name":"Dzungar–Qing Wars","year":1688,"type":"war","links":16,"by":"location","to":1759,"wiki":"Dzungar–Qing Wars"}
+]}

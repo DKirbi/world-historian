@@ -1,0 +1,18 @@
+{"lane": "south-korea", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"united-states-of-america","name":"United States of America","from":1946,"to":1966,"peak":0.94,"km2":91000,"tier":1},
+  {"id":"republic-of-korea","name":"Republic of Korea","from":1948,"to":2024,"peak":0.99,"km2":96000,"tier":1}
+],
+ "events":[
+  {"id":"Q483458","name":"Jeju Uprising","year":1948,"type":"rebellion","links":23,"by":"coordinates","to":1949,"wiki":"Jeju uprising"},
+  {"id":"Q483039","name":"Battle of Inchon","year":1950,"type":"battle","links":34,"by":"coordinates","wiki":"Battle of Inchon"},
+  {"id":"Q482979","name":"Battle of Pusan Perimeter","year":1950,"type":"battle","links":19,"by":"coordinates","wiki":"Battle of the Pusan Perimeter"},
+  {"id":"Q484494","name":"Battle of Osan","year":1950,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Osan"},
+  {"id":"Q492880","name":"Battle of Taejon","year":1950,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Taejon"},
+  {"id":"Q18016068","name":"First Battle of Seoul","year":1950,"type":"battle","links":15,"by":"location","wiki":"First Battle of Seoul"},
+  {"id":"Q487810","name":"May 16 coup","year":1961,"type":"coup","links":17,"by":"location","wiki":"May 16 coup"},
+  {"id":"Q485343","name":"Treaty on Basic Relations between Japan and the Republic of Korea","year":1965,"type":"treaty","links":20,"by":"country","wiki":"Treaty on Basic Relations Between Japan and the Republic of Korea"},
+  {"id":"Q623641","name":"Coup d'état of December Twelfth","year":1979,"type":"coup","links":14,"by":"country","wiki":"1979 South Korean coup d'état"},
+  {"id":"Q174990","name":"Gwangju Uprising","year":1980,"type":"rebellion","links":38,"by":"coordinates","wiki":"Gwangju Uprising"},
+  {"id":"Q487565","name":"Second Battle of Yeonpyeong","year":2002,"type":"battle","links":13,"by":"country","wiki":"Battle of Yeonpyeong (2002)"}
+]}

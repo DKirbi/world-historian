@@ -1,0 +1,8 @@
+{"lane": "sri-lanka", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-raj","name":"British Raj","from":1859,"to":1947,"peak":1.0,"km2":65000,"tier":1},
+  {"id":"sri-lanka","name":"Sri Lanka","from":1948,"to":2024,"peak":1.0,"km2":65000,"tier":1}
+],
+ "events":[
+  {"id":"Q213394","name":"Sri Lankan civil war","year":1983,"type":"war","links":55,"by":"coordinates","to":2009,"wiki":"Sri Lankan civil war"}
+]}

@@ -1,0 +1,16 @@
+{"lane": "tajikistan", "period": "early-modern", "years": [1368, 1838], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"chagatai-khanate","name":"Chagatai Khanate","from":1294,"to":1462,"peak":1.0,"km2":142000,"tier":1},
+  {"id":"timurid-empire-1375","name":"Timurid Empire","from":1375,"to":1501,"peak":0.9,"km2":128000,"tier":1},
+  {"id":"east-turkestan","name":"East Turkestan","from":1463,"to":1474,"peak":0.1,"km2":15000,"tier":3},
+  {"id":"kazakh-khanate","name":"Kazakh Khanate","from":1475,"to":1501,"peak":0.43,"km2":61000,"tier":2},
+  {"id":"moghulistan","name":"Moghulistan","from":1475,"to":1518,"peak":0.11,"km2":15000,"tier":3},
+  {"id":"shaybanids","name":"Shaybanids","from":1502,"to":1511,"peak":0.57,"km2":81000,"tier":1},
+  {"id":"timurid-empire-1507","name":"Timurid Empire","from":1512,"to":1515,"peak":0.9,"km2":128000,"tier":1},
+  {"id":"khanate-of-bukhara","name":"Khanate of Bukhara","from":1516,"to":1787,"peak":0.92,"km2":131000,"tier":1},
+  {"id":"eastern-moghulistan","name":"Eastern Moghulistan","from":1519,"to":1686,"peak":0.1,"km2":15000,"tier":3},
+  {"id":"kazakh-khanate","name":"Kazakh Khanate","from":1595,"to":1608,"peak":0.13,"km2":18000,"tier":3},
+  {"id":"dzungar-khanate-1677","name":"Dzungar Khanate","from":1687,"to":1756,"peak":0.1,"km2":15000,"tier":3},
+  {"id":"khanate-of-kokand","name":"Khanate of Kokand","from":1709,"to":1863,"peak":0.07,"km2":10000,"tier":3},
+  {"id":"emirate-of-bukhara-1788","name":"Emirate of Bukhara","from":1788,"to":1867,"peak":0.92,"km2":131000,"tier":1}
+]}

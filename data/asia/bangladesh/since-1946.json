@@ -1,0 +1,9 @@
+{"lane": "bangladesh", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-raj","name":"British Raj","from":1859,"to":1946,"peak":1.0,"km2":135000,"tier":1},
+  {"id":"islamic-republic-of-pakistan","name":"Islamic Republic of Pakistan","from":1947,"to":1972,"peak":0.97,"km2":131000,"tier":1},
+  {"id":"people-s-republic-of-bangladesh","name":"People's Republic of Bangladesh","from":1973,"to":2024,"peak":0.97,"km2":131000,"tier":1}
+],
+ "events":[
+  {"id":"Q371394","name":"Bangladesh Liberation War","year":1971,"type":"war","links":67,"by":"location","wiki":"Bangladesh Liberation War"}
+]}

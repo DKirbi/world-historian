@@ -1,0 +1,27 @@
+{"lane": "uzbekistan", "period": "medieval", "years": [589, 1205], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"western-gokturks","name":"Western Göktürks","from":587,"to":660,"peak":0.91,"km2":408000,"tier":1},
+  {"id":"tang-dynasty","name":"Tang Dynasty","from":661,"to":665,"peak":0.75,"km2":338000,"tier":1},
+  {"id":"turks","name":"Turks","from":666,"to":717,"peak":0.35,"km2":158000,"tier":2},
+  {"id":"turgesh","name":"Türgesh","from":705,"to":749,"peak":0.35,"km2":157000,"tier":2},
+  {"id":"umayyad-caliphate","name":"Umayyad Caliphate","from":718,"to":749,"peak":0.11,"km2":51000,"tier":3},
+  {"id":"abbasid-caliphate-750","name":"Abbasid Caliphate","from":750,"to":910,"peak":0.46,"km2":208000,"tier":2},
+  {"id":"turks","name":"Turks","from":750,"to":754,"peak":0.35,"km2":158000,"tier":2},
+  {"id":"oghuz-turks","name":"Oghuz Turks","from":750,"to":1055,"peak":0.15,"km2":69000,"tier":3},
+  {"id":"samanid-empire","name":"Samanid Empire","from":886,"to":999,"peak":0.47,"km2":208000,"tier":2},
+  {"id":"seljuk-dynasty","name":"Seljuk Dynasty","from":990,"to":1039,"peak":0.42,"km2":187000,"tier":2},
+  {"id":"kara-khanids","name":"Kara-Khanids","from":1000,"to":1045,"peak":0.35,"km2":159000,"tier":2},
+  {"id":"ghaznavid-empire","name":"Ghaznavid Empire","from":1000,"to":1033,"peak":0.11,"km2":49000,"tier":3},
+  {"id":"great-seljuk-empire","name":"Great Seljuk Empire","from":1040,"to":1151,"peak":0.77,"km2":344000,"tier":1},
+  {"id":"western-karakhanid-khanate","name":"Western Karakhanid Khanate","from":1046,"to":1084,"peak":0.35,"km2":158000,"tier":2},
+  {"id":"eastern-kara-khanids","name":"Eastern Kara-Khanids","from":1046,"to":1065,"peak":0.05,"km2":25000,"tier":3},
+  {"id":"kimek-kipchak-confederation","name":"Kimek-Kipchak confederation","from":1056,"to":1226,"peak":0.15,"km2":67000,"tier":3},
+  {"id":"khwarezmid-dynasty","name":"Khwarezmid Dynasty","from":1094,"to":1146,"peak":0.41,"km2":186000,"tier":2},
+  {"id":"kara-khitans","name":"Kara-Khitans","from":1147,"to":1215,"peak":0.66,"km2":295000,"tier":1},
+  {"id":"khwarezmid-dynasty","name":"Khwarezmid Dynasty","from":1152,"to":1201,"peak":0.11,"km2":50000,"tier":3},
+  {"id":"khwarezmid-empire","name":"Khwarezmid Empire","from":1202,"to":1226,"peak":0.77,"km2":344000,"tier":1}
+],
+ "events":[
+  {"id":"Q4872906","name":"Battle of the Defile","year":731,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of the Defile"},
+  {"id":"Q3950956","name":"Battle of Qatwan","year":1141,"type":"battle","links":18,"by":"coordinates","wiki":"Battle of Qatwan"}
+]}

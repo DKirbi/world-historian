@@ -1,0 +1,18 @@
+{"lane": "japan", "period": "mongol", "years": [1206, 1367], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kamakura-shogunate","name":"Kamakura Shogunate","from":1188,"to":1332,"peak":0.77,"km2":286000,"tier":1},
+  {"id":"shunten-dynasty","name":"Shunten Dynasty","from":1188,"to":1313,"peak":0.0,"km2":1000,"tier":3,"inside":true},
+  {"id":"nanzan","name":"Nanzan","from":1314,"to":1401,"peak":0.0,"km2":100,"tier":3,"inside":true},
+  {"id":"chuzan","name":"Chüzan","from":1314,"to":1428,"peak":0.0,"km2":1000,"tier":3,"inside":true},
+  {"id":"hokuzan","name":"Hokuzan","from":1314,"to":1421,"peak":0.0,"km2":1000,"tier":3,"inside":true},
+  {"id":"kenmu-restoration","name":"Kenmu Restoration","from":1333,"to":1343,"peak":0.77,"km2":286000,"tier":1},
+  {"id":"ashikaga-shogunate","name":"Ashikaga Shogunate","from":1344,"to":1467,"peak":0.78,"km2":287000,"tier":1}
+],
+ "events":[
+  {"id":"Q1372308","name":"Jōkyū War","year":1221,"type":"war","links":21,"by":"coordinates","wiki":"Jōkyū War"},
+  {"id":"Q208156","name":"Mongol invasions of Japan","year":1274,"type":"invasion","links":50,"by":"location","wiki":"Mongol invasions of Japan"},
+  {"id":"Q2237386","name":"Battle of Bun'ei","year":1274,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Bun'ei"},
+  {"id":"Q2237622","name":"Battle of Kōan","year":1281,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Kōan"},
+  {"id":"Q1432624","name":"Genkō War","year":1331,"type":"war","links":17,"by":"location","to":1333,"wiki":"Genkō War"},
+  {"id":"Q114620","name":"Battle of Minatogawa","year":1336,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Minatogawa"}
+]}

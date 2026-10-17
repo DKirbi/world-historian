@@ -1,0 +1,23 @@
+{"lane": "azerbaijan", "period": "classical", "years": [-221, 588], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-armenia-326bce","name":"Kingdom of Armenia","from":-326,"to":-211,"peak":0.28,"km2":24000,"tier":2},
+  {"id":"seleucid-empire","name":"Seleucid Empire","from":-210,"to":-189,"peak":0.27,"km2":24000,"tier":2},
+  {"id":"kingdom-of-armenia-326bce","name":"Kingdom of Armenia","from":-188,"to":-111,"peak":0.28,"km2":24000,"tier":2},
+  {"id":"parthian-empire","name":"Parthian Empire","from":-110,"to":-88,"peak":0.27,"km2":24000,"tier":2},
+  {"id":"kingdom-of-armenia-326bce","name":"Kingdom of Armenia","from":-87,"to":59,"peak":0.27,"km2":24000,"tier":2},
+  {"id":"caucasian-albania","name":"Caucasian Albania","from":-63,"to":259,"peak":0.42,"km2":37000,"tier":2},
+  {"id":"kingdom-of-armenia-326bce","name":"Kingdom of Armenia","from":68,"to":113,"peak":0.26,"km2":23000,"tier":2},
+  {"id":"roman-empire","name":"Roman Empire","from":114,"to":126,"peak":0.26,"km2":23000,"tier":2},
+  {"id":"parthian-empire","name":"Parthian Empire","from":127,"to":153,"peak":0.26,"km2":22000,"tier":2},
+  {"id":"kingdom-of-armenia-326bce","name":"Kingdom of Armenia","from":165,"to":259,"peak":0.26,"km2":23000,"tier":2},
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":260,"to":286,"peak":0.97,"km2":84000,"tier":1},
+  {"id":"caucasian-albania","name":"Caucasian Albania","from":287,"to":509,"peak":0.71,"km2":61000,"tier":1},
+  {"id":"kingdom-of-armenia-326bce","name":"Kingdom of Armenia","from":287,"to":370,"peak":0.26,"km2":23000,"tier":2},
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":371,"to":643,"peak":0.97,"km2":84000,"tier":1},
+  {"id":"huns","name":"Huns","from":396,"to":406,"peak":0.14,"km2":12000,"tier":3},
+  {"id":"kingdom-of-armenia-326bce","name":"Kingdom of Armenia","from":402,"to":438,"peak":0.14,"km2":12000,"tier":3},
+  {"id":"kingdom-of-armenia-326bce","name":"Kingdom of Armenia","from":451,"to":489,"peak":0.14,"km2":12000,"tier":3}
+],
+ "events":[
+  {"id":"Q734700","name":"Battle of Avarayr","year":451,"type":"battle","links":30,"by":"coordinates","wiki":"Battle of Avarayr"}
+]}

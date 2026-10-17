@@ -1,0 +1,17 @@
+{"lane": "vietnam", "period": "classical", "years": [-221, 588], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"au-lac","name":"Âu Lạc","from":-256,"to":-207,"peak":0.28,"km2":90000,"tier":2},
+  {"id":"nanyue","name":"Nanyue","from":-206,"to":-111,"peak":0.28,"km2":90000,"tier":2},
+  {"id":"han-dynasty","name":"Han Dynasty","from":-110,"to":5,"peak":0.28,"km2":93000,"tier":2},
+  {"id":"xin-dynasty","name":"Xin Dynasty","from":6,"to":29,"peak":0.28,"km2":93000,"tier":2},
+  {"id":"han-dynasty","name":"Han Dynasty","from":30,"to":42,"peak":0.28,"km2":92000,"tier":2},
+  {"id":"funan","name":"Funan","from":51,"to":640,"peak":0.28,"km2":90000,"tier":2},
+  {"id":"han-dynasty","name":"Han Dynasty","from":51,"to":237,"peak":0.28,"km2":93000,"tier":2},
+  {"id":"champa","name":"Chámpa","from":207,"to":1205,"peak":0.37,"km2":122000,"tier":2},
+  {"id":"eastern-wu","name":"Eastern Wu","from":238,"to":282,"peak":0.27,"km2":90000,"tier":2},
+  {"id":"western-jin","name":"Western Jin","from":283,"to":425,"peak":0.28,"km2":90000,"tier":2},
+  {"id":"liu-song-dynasty","name":"Liu Song Dynasty","from":426,"to":479,"peak":0.28,"km2":90000,"tier":2},
+  {"id":"southern-qi","name":"Southern Qi","from":480,"to":509,"peak":0.28,"km2":90000,"tier":2},
+  {"id":"liang-dynasty","name":"Liang Dynasty","from":510,"to":545,"peak":0.28,"km2":90000,"tier":2},
+  {"id":"early-ly-dynasty","name":"Early Lý Dynasty","from":546,"to":601,"peak":0.26,"km2":86000,"tier":2}
+]}

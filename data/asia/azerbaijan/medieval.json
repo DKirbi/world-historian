@@ -1,0 +1,26 @@
+{"lane": "azerbaijan", "period": "medieval", "years": [589, 1205], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":371,"to":643,"peak":0.97,"km2":84000,"tier":1},
+  {"id":"western-gokturks","name":"Western Göktürks","from":627,"to":629,"peak":0.8,"km2":69000,"tier":1},
+  {"id":"balasagan","name":"Balasagan","from":638,"to":646,"peak":0.7,"km2":61000,"tier":1},
+  {"id":"rashidun-caliphate","name":"Rashidun Caliphate","from":644,"to":665,"peak":0.89,"km2":77000,"tier":1},
+  {"id":"dabuyid-dynasty","name":"Dabuyid Dynasty","from":644,"to":756,"peak":0.07,"km2":6000,"tier":3},
+  {"id":"umayyad-caliphate","name":"Umayyad Caliphate","from":666,"to":750,"peak":0.89,"km2":77000,"tier":1},
+  {"id":"abbasid-caliphate-750","name":"Abbasid Caliphate","from":751,"to":824,"peak":0.96,"km2":83000,"tier":1},
+  {"id":"shirvan-825","name":"Shirvan","from":825,"to":839,"peak":0.94,"km2":82000,"tier":1},
+  {"id":"abbasid-caliphate-750","name":"Abbasid Caliphate","from":840,"to":897,"peak":0.96,"km2":83000,"tier":1},
+  {"id":"shirvan-825","name":"Shirvan","from":866,"to":1084,"peak":0.48,"km2":42000,"tier":2},
+  {"id":"bagratid-armenia","name":"Bagratid Armenia","from":886,"to":1027,"peak":0.09,"km2":8000,"tier":3},
+  {"id":"georgia-724","name":"Georgia","from":888,"to":946,"peak":0.17,"km2":15000,"tier":3},
+  {"id":"sajid-dynasty","name":"Sajid Dynasty","from":898,"to":935,"peak":0.23,"km2":20000,"tier":2},
+  {"id":"abbasid-caliphate-750","name":"Abbasid Caliphate","from":936,"to":946,"peak":0.23,"km2":20000,"tier":2},
+  {"id":"hamdanid-emirates","name":"Hamdanid Emirates","from":947,"to":1138,"peak":0.3,"km2":26000,"tier":2},
+  {"id":"kingdom-of-georgia-1010","name":"Kingdom of Georgia","from":1010,"to":1084,"peak":0.17,"km2":15000,"tier":3},
+  {"id":"great-seljuk-empire","name":"Great Seljuk Empire","from":1046,"to":1201,"peak":0.96,"km2":83000,"tier":1},
+  {"id":"kingdom-of-georgia-1010","name":"Kingdom of Georgia","from":1126,"to":1226,"peak":0.66,"km2":57000,"tier":1},
+  {"id":"shirvan-825","name":"Shirvan","from":1126,"to":1235,"peak":0.48,"km2":42000,"tier":2},
+  {"id":"hamdanid-emirates","name":"Hamdanid Emirates","from":1192,"to":1215,"peak":0.16,"km2":14000,"tier":3}
+],
+ "events":[
+  {"id":"Q2312422","name":"Third Perso-Turkic War","year":627,"type":"war","links":13,"by":"location","to":629,"wiki":"Perso-Turkic war of 627–629"}
+]}

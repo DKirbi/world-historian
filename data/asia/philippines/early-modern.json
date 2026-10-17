@@ -1,0 +1,15 @@
+{"lane": "philippines", "period": "early-modern", "years": [1368, 1838], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"namayan","name":"Namayan","from":1202,"to":1571,"peak":0.0,"km2":1000,"tier":3,"inside":true},
+  {"id":"tondo","name":"Tondo","from":1375,"to":1571,"peak":0.01,"km2":4000,"tier":3,"inside":true},
+  {"id":"sultanate-of-sulu","name":"Sultanate of Sulu","from":1459,"to":1506,"peak":0.0,"km2":1000,"tier":3,"inside":true},
+  {"id":"rajahnate-of-cebu","name":"Rajahnate of Cebu","from":1497,"to":1571,"peak":0.01,"km2":4000,"tier":3,"inside":true},
+  {"id":"sultanate-of-brunei-1363","name":"Sultanate of Brunei","from":1512,"to":1581,"peak":0.37,"km2":107000,"tier":2},
+  {"id":"sultanate-of-maguindanao","name":"Sultanate of Maguindanao","from":1521,"to":1608,"peak":0.32,"km2":93000,"tier":2},
+  {"id":"sultanate-of-sulu","name":"Sultanate of Sulu","from":1529,"to":1672,"peak":0.01,"km2":2000,"tier":3,"inside":true},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1572,"to":1872,"peak":0.97,"km2":281000,"tier":1},
+  {"id":"sultanate-of-maguindanao","name":"Sultanate of Maguindanao","from":1612,"to":1852,"peak":0.0,"km2":100,"tier":3,"inside":true}
+],
+ "events":[
+  {"id":"Q2091449","name":"Battle of Mactan","year":1521,"type":"battle","links":27,"by":"coordinates","wiki":"Battle of Mactan"}
+]}

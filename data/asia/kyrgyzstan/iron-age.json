@@ -1,0 +1,4 @@
+{"lane": "kyrgyzstan", "period": "iron-age", "years": [-1300, -222], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"yuezhi","name":"Yuezhi","from":-404,"to":42,"peak":0.74,"km2":148000,"tier":1}
+]}

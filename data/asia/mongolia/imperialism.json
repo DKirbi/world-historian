@@ -1,0 +1,13 @@
+{"lane": "mongolia", "period": "imperialism", "years": [1839, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"qing-dynasty","name":"Qing Dynasty","from":1696,"to":1911,"peak":1.0,"km2":1563000,"tier":1},
+  {"id":"great-mongol-state","name":"Great Mongol State","from":1912,"to":1919,"peak":1.0,"km2":1557000,"tier":1},
+  {"id":"great-mongol-state","name":"Great Mongol State","from":1922,"to":1925,"peak":1.0,"km2":1557000,"tier":1},
+  {"id":"mongolian-people-s-republic","name":"Mongolian People's Republic","from":1926,"to":1991,"peak":1.0,"km2":1558000,"tier":1}
+],
+ "events":[
+  {"id":"Q152533","name":"Treaty of friendship and alliance between the Government of Mongolia and Tibet","year":1913,"type":"treaty","links":33,"by":"country","wiki":"Treaty of friendship and alliance between the Government of Mongolia and Tibet"},
+  {"id":"Q2081446","name":"Outer Mongolian Revolution of 1921","year":1921,"type":"revolution","links":20,"by":"location","wiki":"Mongolian Revolution of 1921"},
+  {"id":"Q696389","name":"Soviet–Japanese border conflicts","year":1932,"type":"war","links":32,"by":"coordinates","to":1939,"wiki":"Soviet–Japanese border conflicts"},
+  {"id":"Q188925","name":"Battles of Khalkhin Gol","year":1939,"type":"battle","links":49,"by":"coordinates","wiki":"Battles of Khalkhin Gol"}
+]}

@@ -1,0 +1,4 @@
+{"lane": "indonesia", "period": "classical", "years": [-221, 588], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"tarumanagara","name":"Tarumanagara","from":367,"to":673,"peak":0.03,"km2":56000,"tier":3,"inside":true}
+]}

@@ -1,0 +1,23 @@
+{"lane": "tajikistan", "period": "medieval", "years": [589, 1205], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"western-gokturks","name":"Western Göktürks","from":587,"to":660,"peak":0.99,"km2":141000,"tier":1},
+  {"id":"tang-dynasty","name":"Tang Dynasty","from":661,"to":673,"peak":0.99,"km2":141000,"tier":1},
+  {"id":"turks","name":"Turks","from":666,"to":717,"peak":0.53,"km2":76000,"tier":1},
+  {"id":"tibetan-empire","name":"Tibetan Empire","from":674,"to":749,"peak":0.46,"km2":65000,"tier":2},
+  {"id":"turgesh","name":"Türgesh","from":705,"to":749,"peak":0.53,"km2":76000,"tier":1},
+  {"id":"turks","name":"Turks","from":750,"to":756,"peak":0.99,"km2":141000,"tier":1},
+  {"id":"abbasid-caliphate-750","name":"Abbasid Caliphate","from":755,"to":885,"peak":0.63,"km2":89000,"tier":1},
+  {"id":"tibetan-empire","name":"Tibetan Empire","from":757,"to":849,"peak":0.37,"km2":53000,"tier":2},
+  {"id":"samanid-empire","name":"Samanid Empire","from":886,"to":999,"peak":1.0,"km2":142000,"tier":1},
+  {"id":"saffarid-dynasty","name":"Saffarid Dynasty","from":898,"to":899,"peak":0.56,"km2":80000,"tier":1},
+  {"id":"utpala-dynasty","name":"Utpala Dynasty","from":960,"to":1002,"peak":0.12,"km2":17000,"tier":3},
+  {"id":"kara-khanids","name":"Kara-Khanids","from":1000,"to":1045,"peak":0.88,"km2":125000,"tier":1},
+  {"id":"lohara-dynasty","name":"Lohara Dynasty","from":1003,"to":1259,"peak":0.46,"km2":66000,"tier":2},
+  {"id":"western-karakhanid-khanate","name":"Western Karakhanid Khanate","from":1046,"to":1084,"peak":0.74,"km2":105000,"tier":1},
+  {"id":"eastern-kara-khanids","name":"Eastern Kara-Khanids","from":1046,"to":1138,"peak":0.14,"km2":20000,"tier":3},
+  {"id":"great-seljuk-empire","name":"Great Seljuk Empire","from":1085,"to":1146,"peak":0.71,"km2":101000,"tier":1},
+  {"id":"kara-khitans","name":"Kara-Khitans","from":1139,"to":1215,"peak":0.78,"km2":111000,"tier":1}
+],
+ "events":[
+  {"id":"Q5242954","name":"Day of Thirst","year":724,"type":"battle","links":14,"by":"location","wiki":"Day of Thirst"}
+]}

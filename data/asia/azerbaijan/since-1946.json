@@ -1,0 +1,17 @@
+{"lane": "azerbaijan", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"union-of-soviet-socialist-republics","name":"Union of Soviet Socialist Republics","from":1922,"to":1991,"peak":0.96,"km2":83000,"tier":1},
+  {"id":"republic-of-azerbaijan","name":"Republic of Azerbaijan","from":1992,"to":2024,"peak":0.88,"km2":76000,"tier":1},
+  {"id":"republic-of-armenia","name":"Republic of Armenia","from":1992,"to":2024,"peak":0.15,"km2":13000,"tier":3}
+],
+ "events":[
+  {"id":"Q381375","name":"First Nagorno-Karabakh War","year":1988,"type":"war","links":67,"by":"location","to":1994,"wiki":"First Nagorno-Karabakh War"},
+  {"id":"Q734004","name":"Black January","year":1990,"type":"battle","links":51,"by":"coordinates","wiki":"Black January"},
+  {"id":"Q2621289","name":"Battle of Shusha","year":1992,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Shusha (1992)"},
+  {"id":"Q629096","name":"Battle of Kalbajar","year":1993,"type":"battle","links":14,"by":"location","wiki":"Battle of Kalbajar"},
+  {"id":"Q20744392","name":"1993 Azerbaijani coup d'état","year":1993,"type":"coup","links":13,"by":"location","wiki":"1993 Azerbaijani coup d'état"},
+  {"id":"Q16156196","name":"1995 Azerbaijani coup d'état attempt","year":1995,"type":"coup","links":15,"by":"location","wiki":"1995 Azerbaijani coup attempt"},
+  {"id":"Q99659280","name":"Second Nagorno-Karabakh War","year":2020,"type":"war","links":73,"by":"location","wiki":"Second Nagorno-Karabakh War"},
+  {"id":"Q101429497","name":"2020 Nagorno-Karabakh ceasefire agreement","year":2020,"type":"treaty","links":37,"by":"coordinates","wiki":"2020 Nagorno-Karabakh ceasefire agreement"},
+  {"id":"Q101305942","name":"Battle of Shusha","year":2020,"type":"battle","links":23,"by":"coordinates","wiki":"Battle of Shusha (2020)"}
+]}

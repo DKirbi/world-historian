@@ -1,0 +1,5 @@
+{"lane": "sri-lanka", "period": "imperialism", "years": [1839, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1796,"to":1858,"peak":1.0,"km2":65000,"tier":1,"realm":true},
+  {"id":"british-raj","name":"British Raj","from":1859,"to":1947,"peak":1.0,"km2":65000,"tier":1}
+]}

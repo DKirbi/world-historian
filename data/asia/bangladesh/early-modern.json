@@ -1,0 +1,10 @@
+{"lane": "bangladesh", "period": "early-modern", "years": [1368, 1838], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"sultanate-of-bengal","name":"Sultanate of Bengal","from":1352,"to":1533,"peak":0.72,"km2":97000,"tier":1},
+  {"id":"hussain-shahi-dynasty","name":"Hussain Shahi Dynasty","from":1534,"to":1539,"peak":0.64,"km2":86000,"tier":1},
+  {"id":"kingdom-of-mrauk-u","name":"Kingdom of Mrauk U","from":1534,"to":1669,"peak":0.1,"km2":14000,"tier":3},
+  {"id":"sur-empire","name":"Sur Empire","from":1540,"to":1578,"peak":0.64,"km2":86000,"tier":1},
+  {"id":"mughal-empire","name":"Mughal Empire","from":1579,"to":1717,"peak":0.95,"km2":129000,"tier":1},
+  {"id":"nawabs-of-bengal","name":"Nawabs of Bengal","from":1718,"to":1761,"peak":0.96,"km2":130000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1762,"to":1858,"peak":1.0,"km2":135000,"tier":1}
+]}

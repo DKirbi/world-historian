@@ -1,0 +1,9 @@
+{"lane": "russia-east", "period": "classical", "years": [-221, 588], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"xiongnu","name":"Xiongnu","from":-208,"to":-67,"peak":0.06,"km2":729000,"tier":2},
+  {"id":"xianbei","name":"Xianbei","from":161,"to":223,"peak":0.11,"km2":1487000,"tier":2},
+  {"id":"rouran-khaganate","name":"Rouran Khaganate","from":402,"to":554,"peak":0.04,"km2":473000,"tier":2,"large":true},
+  {"id":"gokturk-khaganate","name":"Göktürk Khaganate","from":555,"to":586,"peak":0.04,"km2":474000,"tier":2,"large":true},
+  {"id":"yenisei-kyrgyz","name":"Yenisei Kyrgyz","from":555,"to":762,"peak":0.03,"km2":424000,"tier":2,"large":true},
+  {"id":"eastern-gokturks","name":"Eastern Göktürks","from":587,"to":632,"peak":0.03,"km2":416000,"tier":2,"large":true}
+]}

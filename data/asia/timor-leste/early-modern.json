@@ -1,0 +1,8 @@
+{"lane": "timor-leste", "period": "early-modern", "years": [1368, 1838], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"majapahit","name":"Majapahit","from":1363,"to":1474,"peak":0.96,"km2":14000,"tier":1},
+  {"id":"portuguese-empire","name":"Portuguese Empire","from":1526,"to":1571,"peak":0.11,"km2":2000,"tier":3},
+  {"id":"portuguese-colonies","name":"Portuguese Colonies","from":1564,"to":1581,"peak":0.11,"km2":2000,"tier":3},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1582,"to":1639,"peak":0.11,"km2":2000,"tier":3},
+  {"id":"portuguese-colonies","name":"Portuguese Colonies","from":1640,"to":1910,"peak":0.96,"km2":14000,"tier":1}
+]}

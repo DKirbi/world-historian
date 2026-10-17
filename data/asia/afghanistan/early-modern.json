@@ -1,0 +1,19 @@
+{"lane": "afghanistan", "period": "early-modern", "years": [1368, 1838], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kartids","name":"Kartids","from":1344,"to":1384,"peak":0.44,"km2":281000,"tier":2},
+  {"id":"timurid-empire-1375","name":"Timurid Empire","from":1375,"to":1506,"peak":0.99,"km2":638000,"tier":1},
+  {"id":"kapisa","name":"Kapisa","from":1475,"to":1506,"peak":0.17,"km2":107000,"tier":2},
+  {"id":"timurid-empire-1507","name":"Timurid Empire","from":1507,"to":1528,"peak":0.49,"km2":316000,"tier":2},
+  {"id":"shaybanids","name":"Shaybanids","from":1507,"to":1511,"peak":0.38,"km2":245000,"tier":2},
+  {"id":"safavid-dynasty","name":"Safavid Dynasty","from":1512,"to":1720,"peak":0.55,"km2":352000,"tier":1},
+  {"id":"khanate-of-bukhara","name":"Khanate of Bukhara","from":1526,"to":1528,"peak":0.16,"km2":105000,"tier":2},
+  {"id":"mughal-empire","name":"Mughal Empire","from":1529,"to":1533,"peak":0.49,"km2":316000,"tier":2},
+  {"id":"mughal-empire","name":"Mughal Empire","from":1547,"to":1743,"peak":0.47,"km2":299000,"tier":2},
+  {"id":"hotaki-dynasty","name":"Hotaki Dynasty","from":1713,"to":1737,"peak":0.54,"km2":346000,"tier":1},
+  {"id":"afsharid-iran","name":"Afsharid Iran","from":1734,"to":1756,"peak":0.95,"km2":612000,"tier":1},
+  {"id":"durrani-empire","name":"Durrani Empire","from":1748,"to":1827,"peak":0.99,"km2":638000,"tier":1},
+  {"id":"emirate-of-afghanistan","name":"Emirate of Afghanistan","from":1828,"to":1839,"peak":0.99,"km2":636000,"tier":1}
+],
+ "events":[
+  {"id":"Q16931483","name":"Mughal–Safavid War","year":1649,"type":"war","links":12,"by":"location","to":1653,"wiki":"Mughal–Safavid war (1649–1653)"}
+]}

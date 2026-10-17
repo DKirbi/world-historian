@@ -1,0 +1,9 @@
+{"lane": "armenia", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"union-of-soviet-socialist-republics","name":"Union of Soviet Socialist Republics","from":1922,"to":1991,"peak":0.99,"km2":29000,"tier":1},
+  {"id":"republic-of-armenia","name":"Republic of Armenia","from":1992,"to":2024,"peak":0.96,"km2":28000,"tier":1}
+],
+ "events":[
+  {"id":"Q381375","name":"First Nagorno-Karabakh War","year":1988,"type":"war","links":67,"by":"location","to":1994,"wiki":"First Nagorno-Karabakh War"},
+  {"id":"Q105672621","name":"2021 Armenian political crisis","year":2021,"type":"coup","links":12,"by":"coordinates","wiki":"2021 Armenian political crisis"}
+]}

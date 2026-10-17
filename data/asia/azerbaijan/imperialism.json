@@ -1,0 +1,17 @@
+{"lane": "azerbaijan", "period": "imperialism", "years": [1839, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"russian-empire","name":"Russian Empire","from":1803,"to":1916,"peak":1.0,"km2":87000,"tier":1},
+  {"id":"russian-republic","name":"Russian Republic","from":1917,"to":1917,"peak":0.95,"km2":82000,"tier":1},
+  {"id":"azerbaijan-democratic-republic","name":"Azerbaijan Democratic Republic","from":1918,"to":1919,"peak":0.91,"km2":79000,"tier":1},
+  {"id":"republics-of-the-soviet-union","name":"Republics of the Soviet Union","from":1920,"to":1921,"peak":0.92,"km2":80000,"tier":1},
+  {"id":"union-of-soviet-socialist-republics","name":"Union of Soviet Socialist Republics","from":1922,"to":1991,"peak":0.96,"km2":83000,"tier":1}
+],
+ "events":[
+  {"id":"Q2568851","name":"Battle of Baku","year":1918,"type":"battle","links":26,"by":"coordinates","wiki":"Battle of Baku"},
+  {"id":"Q2015687","name":"Armenian–Azerbaijani War","year":1918,"type":"war","links":22,"by":"location","to":1920,"wiki":"Armenian–Azerbaijani war (1918–1920)"},
+  {"id":"Q957586","name":"Turkish–Armenian War","year":1920,"type":"war","links":38,"by":"location","wiki":"Turkish invasion of Armenia"},
+  {"id":"Q4075910","name":"Red Army invasion of Azerbaijan","year":1920,"type":"campaign","links":24,"by":"location","wiki":"Soviet invasion of Azerbaijan"},
+  {"id":"Q13053166","name":"Red Army invasion of Armenia","year":1920,"type":"invasion","links":16,"by":"location","wiki":"Soviet invasion of Armenia"},
+  {"id":"Q386955","name":"1920 Ganja revolt","year":1920,"type":"coup","links":13,"by":"location","wiki":"1920 Ganja revolt"},
+  {"id":"Q60963","name":"Red Army invasion of Georgia","year":1921,"type":"invasion","links":34,"by":"location","wiki":"Soviet invasion of Georgia"}
+]}

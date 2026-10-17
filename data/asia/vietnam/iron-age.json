@@ -1,0 +1,4 @@
+{"lane": "vietnam", "period": "iron-age", "years": [-1300, -222], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"au-lac","name":"Âu Lạc","from":-256,"to":-207,"peak":0.28,"km2":90000,"tier":2}
+]}

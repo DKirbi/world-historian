@@ -1,0 +1,8 @@
+{"lane": "uzbekistan", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"union-of-soviet-socialist-republics","name":"Union of Soviet Socialist Republics","from":1922,"to":1991,"peak":1.0,"km2":448000,"tier":1},
+  {"id":"republic-of-uzbekistan","name":"Republic of Uzbekistan","from":1992,"to":2024,"peak":0.91,"km2":406000,"tier":1}
+],
+ "events":[
+  {"id":"Q2321680","name":"Tashkent Declaration","year":1966,"type":"treaty","links":32,"by":"location","wiki":"Tashkent Declaration"}
+]}

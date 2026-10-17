@@ -1,0 +1,30 @@
+{"lane": "philippines", "period": "imperialism", "years": [1839, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1572,"to":1872,"peak":0.97,"km2":281000,"tier":1},
+  {"id":"sultanate-of-maguindanao","name":"Sultanate of Maguindanao","from":1612,"to":1852,"peak":0.0,"km2":100,"tier":3,"inside":true},
+  {"id":"first-spanish-republic","name":"First Spanish Republic","from":1873,"to":1876,"peak":0.97,"km2":281000,"tier":1},
+  {"id":"kingdom-of-spain-1640","name":"Kingdom of Spain","from":1877,"to":1899,"peak":0.98,"km2":283000,"tier":1},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1877,"to":1879,"peak":0.97,"km2":281000,"tier":1,"realm":true},
+  {"id":"united-states-of-america","name":"United States of America","from":1900,"to":1941,"peak":0.98,"km2":284000,"tier":1},
+  {"id":"empire-of-japan","name":"Empire of Japan","from":1942,"to":1945,"peak":0.98,"km2":284000,"tier":1},
+  {"id":"united-states-of-america","name":"United States of America","from":1945,"to":1946,"peak":0.98,"km2":284000,"tier":1}
+],
+ "events":[
+  {"id":"Q422082","name":"Philippine Revolution","year":1896,"type":"revolution","links":51,"by":"location","to":1898,"wiki":"Philippine Revolution"},
+  {"id":"Q528550","name":"Battle of Manila Bay","year":1898,"type":"battle","links":24,"by":"coordinates","wiki":"Battle of Manila Bay"},
+  {"id":"Q778699","name":"Siege of Baler","year":1898,"type":"siege","links":15,"by":"coordinates","to":1899,"wiki":"Siege of Baler"},
+  {"id":"Q214456","name":"Philippine–American War","year":1899,"type":"war","links":59,"by":"location","to":1902,"wiki":"Philippine–American War"},
+  {"id":"Q746860","name":"Battle of Manila","year":1899,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Manila (1899)"},
+  {"id":"Q696462","name":"Philippines Campaign","year":1941,"type":"campaign","links":36,"by":"coordinates","to":1942,"wiki":"Philippines campaign (1941–1942)"},
+  {"id":"Q713006","name":"Battle of Corregidor","year":1941,"type":"battle","links":19,"by":"coordinates","to":1942,"wiki":"Battle of Corregidor"},
+  {"id":"Q703482","name":"Battle of Bataan","year":1942,"type":"battle","links":20,"by":"coordinates","wiki":"Battle of Bataan"},
+  {"id":"Q5935403","name":"Hukbalahap Rebellion","year":1942,"type":"revolution","links":12,"by":"location","to":1954,"wiki":"Hukbalahap rebellion"},
+  {"id":"Q308999","name":"Battle of Leyte Gulf","year":1944,"type":"battle","links":46,"by":"coordinates","wiki":"Battle of Leyte Gulf"},
+  {"id":"Q371573","name":"Philippines campaign of 1944–1945","year":1944,"type":"campaign","links":38,"by":"location","to":1945,"wiki":"Philippines campaign (1944–1945)"},
+  {"id":"Q717004","name":"Battle of Leyte","year":1944,"type":"battle","links":26,"by":"coordinates","wiki":"Battle of Leyte"},
+  {"id":"Q711223","name":"Battle of Mindoro","year":1944,"type":"battle","links":15,"by":"location","wiki":"Battle of Mindoro"},
+  {"id":"Q718805","name":"Battle of Ormoc Bay","year":1944,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Ormoc Bay"},
+  {"id":"Q696931","name":"Battle of Manila","year":1945,"type":"battle","links":30,"by":"coordinates","wiki":"Battle of Manila (1945)"},
+  {"id":"Q703962","name":"Battle of Luzon","year":1945,"type":"battle","links":22,"by":"coordinates","wiki":"Battle of Luzon"},
+  {"id":"Q710912","name":"Battle of Mindanao","year":1945,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Mindanao"}
+]}

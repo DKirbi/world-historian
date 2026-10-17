@@ -1,0 +1,22 @@
+{"lane": "vietnam", "period": "imperialism", "years": [1839, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-luang-phrabang","name":"Kingdom of Luang Phrabang","from":1709,"to":1889,"peak":0.12,"km2":38000,"tier":3},
+  {"id":"nguyen-dynasty","name":"Nguyễn dynasty","from":1794,"to":1884,"peak":0.86,"km2":280000,"tier":1},
+  {"id":"french-indochina","name":"French Indochina","from":1860,"to":1955,"peak":0.99,"km2":325000,"tier":1},
+  {"id":"second-french-empire","name":"Second French Empire","from":1860,"to":1870,"peak":0.19,"km2":64000,"tier":3,"realm":true},
+  {"id":"french-third-republic","name":"French Third Republic","from":1871,"to":1939,"peak":0.99,"km2":325000,"tier":1,"realm":true},
+  {"id":"vichy-france","name":"Vichy France","from":1940,"to":1943,"peak":0.99,"km2":325000,"tier":1,"realm":true},
+  {"id":"empire-of-japan","name":"Empire of Japan","from":1941,"to":1945,"peak":0.99,"km2":326000,"tier":1}
+],
+ "events":[
+  {"id":"Q2935371","name":"Cochinchina campaign","year":1858,"type":"campaign","links":18,"by":"location","to":1862,"wiki":"Cochinchina campaign"},
+  {"id":"Q2572351","name":"treaty of Saigon","year":1862,"type":"treaty","links":23,"by":"location","wiki":"Treaty of Saigon (1862)"},
+  {"id":"Q3032218","name":"Treaty of Huế","year":1883,"type":"treaty","links":15,"by":"location","wiki":"Treaty of Huế (1883)"},
+  {"id":"Q3536812","name":"Treaty of Huế","year":1884,"type":"treaty","links":12,"by":"location","wiki":"Treaty of Huế (1884)"},
+  {"id":"Q1359846","name":"1893 Franco-Siamese crisis","year":1893,"type":"war","links":21,"by":"location","wiki":"1893 Franco-Siamese crisis"},
+  {"id":"Q780845","name":"Franco-Thai War","year":1940,"type":"war","links":33,"by":"location","to":1941,"wiki":"Franco-Thai War"},
+  {"id":"Q140025","name":"Japanese invasion of French Indochina","year":1940,"type":"invasion","links":27,"by":"location","wiki":"Japanese invasion of French Indochina"},
+  {"id":"Q769960","name":"August Revolution","year":1945,"type":"revolution","links":29,"by":"location","wiki":"August Revolution"},
+  {"id":"Q2633177","name":"Japanese coup d'état in French Indochina","year":1945,"type":"battle","links":22,"by":"location","wiki":"Japanese coup d'état in French Indochina"},
+  {"id":"Q3365438","name":"War in southern Vietnam","year":1945,"type":"war","links":16,"by":"location","to":1946,"wiki":"War in southern Vietnam (1945–1946)"}
+]}

@@ -1,0 +1,4 @@
+{"lane": "bhutan", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-bhutan","name":"Kingdom of Bhutan","from":1636,"to":2024,"peak":0.98,"km2":39000,"tier":1}
+]}

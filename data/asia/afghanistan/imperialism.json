@@ -1,0 +1,14 @@
+{"lane": "afghanistan", "period": "imperialism", "years": [1839, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"emirate-of-afghanistan","name":"Emirate of Afghanistan","from":1828,"to":1839,"peak":0.99,"km2":636000,"tier":1},
+  {"id":"durrani-dynasty","name":"Durrani Dynasty","from":1840,"to":1845,"peak":0.99,"km2":635000,"tier":1},
+  {"id":"emirate-of-afghanistan","name":"Emirate of Afghanistan","from":1846,"to":1925,"peak":0.99,"km2":635000,"tier":1},
+  {"id":"kingdom-of-afghanistan","name":"Kingdom of Afghanistan","from":1926,"to":1972,"peak":0.99,"km2":635000,"tier":1}
+],
+ "events":[
+  {"id":"Q989092","name":"First Anglo-Afghan War","year":1839,"type":"war","links":50,"by":"location","to":1842,"wiki":"First Anglo-Afghan War"},
+  {"id":"Q233507","name":"Second Anglo-Afghan War","year":1878,"type":"war","links":45,"by":"location","to":1880,"wiki":"Second Anglo-Afghan War"},
+  {"id":"Q259430","name":"Treaty of Gandamak","year":1879,"type":"treaty","links":23,"by":"location","wiki":"Treaty of Gandamak"},
+  {"id":"Q548625","name":"Battle of Maiwand","year":1880,"type":"battle","links":21,"by":"coordinates","wiki":"Battle of Maiwand"},
+  {"id":"Q10952572","name":"Afghan Civil War (1928–1929)","year":1928,"type":"war","links":15,"by":"location","to":1929,"wiki":"Afghan Civil War (1928–1929)"}
+]}

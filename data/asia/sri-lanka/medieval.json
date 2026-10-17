@@ -1,0 +1,6 @@
+{"lane": "sri-lanka", "period": "medieval", "years": [589, 1205], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"anuradhapura","name":"Anurādhapura","from":-291,"to":1017,"peak":1.0,"km2":65000,"tier":1},
+  {"id":"chola-empire","name":"Chola Empire","from":1018,"to":1093,"peak":1.0,"km2":65000,"tier":1},
+  {"id":"kingdom-of-polonnaruwa","name":"Kingdom of Polonnaruwa","from":1072,"to":1259,"peak":1.0,"km2":66000,"tier":1}
+]}

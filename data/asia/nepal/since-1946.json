@@ -1,0 +1,8 @@
+{"lane": "nepal", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"nepal","name":"Nepal","from":1775,"to":2024,"peak":0.99,"km2":145000,"tier":1}
+],
+ "events":[
+  {"id":"Q1783955","name":"1990 People's Movement","year":1990,"type":"revolution","links":20,"by":"country","wiki":"1990 Nepalese revolution"},
+  {"id":"Q2002975","name":"Nepalese Civil War","year":1996,"type":"war","links":40,"by":"coordinates","to":2006,"wiki":"Nepalese Civil War"}
+]}

@@ -1,0 +1,15 @@
+{"lane": "pakistan", "period": "iron-age", "years": [-1300, -222], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"median-kingdom","name":"Median Kingdom","from":-615,"to":-551,"peak":0.09,"km2":78000,"tier":3},
+  {"id":"janapada-of-kamboja","name":"Janapada of Kamboja","from":-600,"to":-501,"peak":0.01,"km2":5000,"tier":3,"inside":true},
+  {"id":"achaemenid-empire","name":"Achaemenid Empire","from":-550,"to":-327,"peak":0.59,"km2":514000,"tier":1},
+  {"id":"nanda-empire","name":"Nanda Empire","from":-333,"to":-319,"peak":0.22,"km2":190000,"tier":2},
+  {"id":"ptolemaic-kingdom","name":"Ptolemaic Kingdom","from":-326,"to":-324,"peak":0.76,"km2":662000,"tier":1},
+  {"id":"macedonian-empire","name":"Macedonian Empire","from":-323,"to":-302,"peak":0.91,"km2":798000,"tier":1},
+  {"id":"maurya-empire","name":"Maurya Empire","from":-318,"to":-226,"peak":0.89,"km2":773000,"tier":1},
+  {"id":"seleucid-empire","name":"Seleucid Empire","from":-307,"to":-292,"peak":0.08,"km2":71000,"tier":3}
+],
+ "events":[
+  {"id":"Q4200795","name":"Indian campaign of Alexander the Great","year":-327,"type":"campaign","links":18,"by":"location","to":-325,"wiki":"Indian campaign of Alexander the Great"},
+  {"id":"Q213074","name":"Battle of the Hydaspes","year":-326,"type":"battle","links":50,"by":"coordinates","wiki":"Battle of the Hydaspes"}
+]}

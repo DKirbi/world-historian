@@ -1,0 +1,12 @@
+{"lane": "thailand", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-thailand","name":"Kingdom of Thailand","from":1932,"to":2024,"peak":0.98,"km2":502000,"tier":1}
+],
+ "events":[
+  {"id":"Q2354629","name":"Malayan Emergency","year":1948,"type":"war","links":36,"by":"location","to":1960,"wiki":"Malayan Emergency"},
+  {"id":"Q1361929","name":"Indonesia–Malaysia confrontation","year":1963,"type":"war","links":28,"by":"location","to":1966,"wiki":"Konfrontasi"},
+  {"id":"Q3042723","name":"ASEAN Declaration","year":1967,"type":"treaty","links":20,"by":"country","wiki":"ASEAN Declaration"},
+  {"id":"Q4575745","name":"1973 Thai popular uprising","year":1973,"type":"rebellion","links":14,"by":"country","wiki":"1973 Thai popular uprising"},
+  {"id":"Q860423","name":"2006 Thai coup d'état","year":2006,"type":"coup","links":30,"by":"country","wiki":"2006 Thai coup d'état"},
+  {"id":"Q16914766","name":"2014 Thai coup d'état","year":2014,"type":"coup","links":30,"by":"coordinates","wiki":"2014 Thai coup d'état"}
+]}

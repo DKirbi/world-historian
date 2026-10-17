@@ -1,0 +1,19 @@
+{"lane": "armenia", "period": "medieval", "years": [589, 1205], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":490,"to":637,"peak":1.0,"km2":30000,"tier":1},
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":592,"to":611,"peak":0.35,"km2":10000,"tier":2},
+  {"id":"kingdom-of-armenia-638","name":"Kingdom of Armenia","from":638,"to":646,"peak":1.0,"km2":29000,"tier":1},
+  {"id":"rashidun-caliphate","name":"Rashidun Caliphate","from":644,"to":665,"peak":1.0,"km2":30000,"tier":1},
+  {"id":"umayyad-caliphate","name":"Umayyad Caliphate","from":666,"to":750,"peak":1.0,"km2":30000,"tier":1},
+  {"id":"abbasid-caliphate-750","name":"Abbasid Caliphate","from":751,"to":824,"peak":1.0,"km2":30000,"tier":1},
+  {"id":"shirvan-825","name":"Shirvan","from":825,"to":839,"peak":0.97,"km2":29000,"tier":1},
+  {"id":"abbasid-caliphate-750","name":"Abbasid Caliphate","from":840,"to":897,"peak":1.0,"km2":30000,"tier":1},
+  {"id":"bagratid-armenia","name":"Bagratid Armenia","from":886,"to":1045,"peak":0.97,"km2":29000,"tier":1},
+  {"id":"sajid-dynasty","name":"Sajid Dynasty","from":898,"to":935,"peak":0.1,"km2":3000,"tier":3},
+  {"id":"hamdanid-emirates","name":"Hamdanid Emirates","from":1028,"to":1125,"peak":0.28,"km2":8000,"tier":2},
+  {"id":"byzantine-empire-633","name":"Byzantine Empire","from":1046,"to":1071,"peak":0.72,"km2":21000,"tier":1},
+  {"id":"great-seljuk-empire","name":"Great Seljuk Empire","from":1072,"to":1125,"peak":1.0,"km2":30000,"tier":1},
+  {"id":"kingdom-of-georgia-1010","name":"Kingdom of Georgia","from":1126,"to":1226,"peak":1.0,"km2":30000,"tier":1},
+  {"id":"great-seljuk-empire","name":"Great Seljuk Empire","from":1139,"to":1191,"peak":0.12,"km2":4000,"tier":3},
+  {"id":"hamdanid-emirates","name":"Hamdanid Emirates","from":1192,"to":1205,"peak":0.12,"km2":3000,"tier":3}
+]}

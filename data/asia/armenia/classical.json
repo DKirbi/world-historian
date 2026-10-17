@@ -1,0 +1,26 @@
+{"lane": "armenia", "period": "classical", "years": [-221, 588], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-armenia-326bce","name":"Kingdom of Armenia","from":-326,"to":-211,"peak":1.0,"km2":30000,"tier":1},
+  {"id":"seleucid-empire","name":"Seleucid Empire","from":-210,"to":-189,"peak":1.0,"km2":30000,"tier":1},
+  {"id":"kingdom-of-armenia-326bce","name":"Kingdom of Armenia","from":-188,"to":59,"peak":1.0,"km2":30000,"tier":1},
+  {"id":"parthian-empire","name":"Parthian Empire","from":-110,"to":-88,"peak":0.61,"km2":18000,"tier":1},
+  {"id":"roman-empire","name":"Roman Empire","from":60,"to":67,"peak":1.0,"km2":29000,"tier":1},
+  {"id":"kingdom-of-armenia-326bce","name":"Kingdom of Armenia","from":68,"to":113,"peak":1.0,"km2":29000,"tier":1},
+  {"id":"roman-empire","name":"Roman Empire","from":114,"to":126,"peak":1.0,"km2":29000,"tier":1},
+  {"id":"parthian-empire","name":"Parthian Empire","from":127,"to":153,"peak":1.0,"km2":29000,"tier":1},
+  {"id":"kingdom-of-armenia-326bce","name":"Kingdom of Armenia","from":154,"to":160,"peak":1.0,"km2":29000,"tier":1},
+  {"id":"parthian-empire","name":"Parthian Empire","from":161,"to":164,"peak":1.0,"km2":29000,"tier":1},
+  {"id":"kingdom-of-armenia-326bce","name":"Kingdom of Armenia","from":165,"to":259,"peak":1.0,"km2":29000,"tier":1},
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":260,"to":286,"peak":1.0,"km2":30000,"tier":1},
+  {"id":"kingdom-of-armenia-326bce","name":"Kingdom of Armenia","from":287,"to":370,"peak":1.0,"km2":29000,"tier":1},
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":371,"to":386,"peak":1.0,"km2":29000,"tier":1},
+  {"id":"kingdom-of-armenia-326bce","name":"Kingdom of Armenia","from":387,"to":395,"peak":1.0,"km2":29000,"tier":1},
+  {"id":"huns","name":"Huns","from":396,"to":406,"peak":1.0,"km2":29000,"tier":1},
+  {"id":"kingdom-of-armenia-326bce","name":"Kingdom of Armenia","from":402,"to":438,"peak":1.0,"km2":29000,"tier":1},
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":439,"to":450,"peak":1.0,"km2":29000,"tier":1},
+  {"id":"kingdom-of-armenia-326bce","name":"Kingdom of Armenia","from":451,"to":489,"peak":1.0,"km2":29000,"tier":1},
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":490,"to":637,"peak":1.0,"km2":30000,"tier":1}
+],
+ "events":[
+  {"id":"Q647463","name":"Battle of Artaxata","year":-68,"type":"battle","links":19,"by":"coordinates","wiki":"Battle of Artaxata"}
+]}

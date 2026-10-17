@@ -1,0 +1,9 @@
+{"lane": "taiwan", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"republic-of-china","name":"Republic of China","from":1946,"to":2024,"peak":1.0,"km2":36000,"tier":1}
+],
+ "events":[
+  {"id":"Q244939","name":"228 Incident","year":1947,"type":"rebellion","links":35,"by":"coordinates","wiki":"February 28 incident"},
+  {"id":"Q699096","name":"Battle of Guningtou","year":1949,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Guningtou"},
+  {"id":"Q707269","name":"Treaty of Taipei","year":1952,"type":"treaty","links":17,"by":"location","wiki":"Treaty of Taipei"}
+]}

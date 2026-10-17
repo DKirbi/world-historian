@@ -1,0 +1,10 @@
+{"lane": "brunei", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1946,"to":1995,"peak":1.0,"km2":6000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1946,"to":1995,"peak":1.0,"km2":6000,"tier":1,"realm":true},
+  {"id":"malaysia","name":"Malaysia","from":1963,"to":2024,"peak":0.13,"km2":1000,"tier":3},
+  {"id":"sultanate-of-brunei-1987","name":"Sultanate of Brunei","from":1987,"to":2024,"peak":0.87,"km2":5000,"tier":1}
+],
+ "events":[
+  {"id":"Q3299246","name":"Brunei Revolt","year":1962,"type":"rebellion","links":19,"by":"location","wiki":"Brunei revolt"}
+]}

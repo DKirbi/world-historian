@@ -1,0 +1,11 @@
+{"lane": "tajikistan", "period": "iron-age", "years": [-1300, -222], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"achaemenid-empire","name":"Achaemenid Empire","from":-550,"to":-327,"peak":0.61,"km2":87000,"tier":1},
+  {"id":"macedonian-empire","name":"Macedonian Empire","from":-323,"to":-302,"peak":0.49,"km2":70000,"tier":2},
+  {"id":"seleucid-empire","name":"Seleucid Empire","from":-307,"to":-248,"peak":0.45,"km2":64000,"tier":2},
+  {"id":"greco-bactrian-kingdom","name":"Greco-Bactrian Kingdom","from":-247,"to":-127,"peak":0.8,"km2":114000,"tier":1}
+],
+ "events":[
+  {"id":"Q123215","name":"Battle of Jaxartes","year":-329,"type":"battle","links":17,"by":"coordinates","wiki":"Battle of Jaxartes"},
+  {"id":"Q1887690","name":"Siege of the Sogdian Rock","year":-327,"type":"siege","links":18,"by":"coordinates","wiki":"Siege of the Sogdian Rock"}
+]}

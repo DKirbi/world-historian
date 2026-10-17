@@ -1,0 +1,12 @@
+{"lane": "bangladesh", "period": "medieval", "years": [589, 1205], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"maukhari-dynasty","name":"Maukhari Dynasty","from":555,"to":611,"peak":0.24,"km2":32000,"tier":2},
+  {"id":"gauda-kingdom","name":"Gauda Kingdom","from":602,"to":611,"peak":0.48,"km2":65000,"tier":2},
+  {"id":"harsha-s-empire","name":"Harsha's Empire","from":612,"to":655,"peak":0.65,"km2":88000,"tier":1},
+  {"id":"khadga-dynasty","name":"Khadga Dynasty","from":656,"to":704,"peak":0.48,"km2":65000,"tier":2},
+  {"id":"pala-empire","name":"Pala Empire","from":750,"to":979,"peak":0.85,"km2":115000,"tier":1},
+  {"id":"chandra-dynasty","name":"Chandra Dynasty","from":900,"to":1055,"peak":0.14,"km2":19000,"tier":3},
+  {"id":"kamarupa-kingdom","name":"Kamarupa Kingdom","from":960,"to":1055,"peak":0.09,"km2":12000,"tier":3},
+  {"id":"pala-empire","name":"Pala Empire","from":1000,"to":1071,"peak":0.6,"km2":81000,"tier":1},
+  {"id":"sena-dynasty","name":"Sena Dynasty","from":1072,"to":1235,"peak":0.85,"km2":115000,"tier":1}
+]}

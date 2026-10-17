@@ -1,0 +1,10 @@
+{"lane": "thailand", "period": "medieval", "years": [589, 1205], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"chenla","name":"Chenla","from":555,"to":717,"peak":0.15,"km2":79000,"tier":3},
+  {"id":"lavo-kingdom-638","name":"Lavo Kingdom","from":638,"to":1027,"peak":0.25,"km2":126000,"tier":2},
+  {"id":"haripunjaya","name":"Haripuñjaya","from":661,"to":1293,"peak":0.27,"km2":137000,"tier":2},
+  {"id":"land-chenla","name":"Land Chenla","from":718,"to":805,"peak":0.13,"km2":65000,"tier":3},
+  {"id":"srivijaya","name":"Srivijaya","from":718,"to":1138,"peak":0.12,"km2":62000,"tier":3},
+  {"id":"khmer-empire","name":"Khmer Empire","from":806,"to":1374,"peak":0.76,"km2":390000,"tier":1},
+  {"id":"lavo-kingdom-638","name":"Lavo Kingdom","from":1056,"to":1187,"peak":0.27,"km2":139000,"tier":2}
+]}

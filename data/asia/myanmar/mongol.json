@@ -1,0 +1,13 @@
+{"lane": "myanmar", "period": "mongol", "years": [1206, 1367], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"pagan-kingdom","name":"Pagan Kingdom","from":960,"to":1293,"peak":0.65,"km2":427000,"tier":1},
+  {"id":"shan-states","name":"Shan States","from":1294,"to":1563,"peak":0.57,"km2":377000,"tier":1},
+  {"id":"myinsaing-kingdom","name":"Myinsaing Kingdom","from":1294,"to":1313,"peak":0.29,"km2":194000,"tier":2},
+  {"id":"hanthawaddy-kingdom","name":"Hanthawaddy Kingdom","from":1294,"to":1539,"peak":0.11,"km2":72000,"tier":3},
+  {"id":"sukhothai-kingdom","name":"Sukhothai Kingdom","from":1294,"to":1374,"peak":0.06,"km2":40000,"tier":3},
+  {"id":"kingdom-of-pinya","name":"Kingdom of Pinya","from":1314,"to":1374,"peak":0.29,"km2":194000,"tier":2},
+  {"id":"sagaing-kingdom","name":"Sagaing Kingdom","from":1326,"to":1374,"peak":0.15,"km2":98000,"tier":3}
+],
+ "events":[
+  {"id":"Q531916","name":"First Mongol invasion of Burma","year":1277,"type":"invasion","links":18,"by":"location","to":1287,"wiki":"First Mongol invasion of Burma"}
+]}

@@ -1,0 +1,5 @@
+{"lane": "india", "period": "bronze-age", "years": [-3400, -1301], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"indus-valley-civilization","name":"Indus Valley Civilization","from":-2700,"to":-2301,"peak":0.01,"km2":20000,"tier":3,"inside":true},
+  {"id":"indus-valley-civilization","name":"Indus Valley Civilization","from":-2300,"to":-1801,"peak":0.08,"km2":241000,"tier":2}
+]}

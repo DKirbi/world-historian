@@ -1,0 +1,8 @@
+{"lane": "cambodia", "period": "medieval", "years": [589, 1205], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"funan","name":"Funan","from":51,"to":640,"peak":0.71,"km2":129000,"tier":1},
+  {"id":"chenla","name":"Chenla","from":555,"to":717,"peak":1.0,"km2":181000,"tier":1},
+  {"id":"water-chenla","name":"Water Chenla","from":718,"to":805,"peak":0.71,"km2":129000,"tier":1},
+  {"id":"land-chenla","name":"Land Chenla","from":718,"to":805,"peak":0.29,"km2":52000,"tier":2},
+  {"id":"khmer-empire","name":"Khmer Empire","from":806,"to":1867,"peak":1.0,"km2":181000,"tier":1}
+]}

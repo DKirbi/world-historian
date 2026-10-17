@@ -1,0 +1,18 @@
+{"lane": "south-korea", "period": "imperialism", "years": [1839, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"joseon","name":"Joseon","from":1395,"to":1897,"peak":0.99,"km2":96000,"tier":1},
+  {"id":"korean-empire","name":"Korean Empire","from":1898,"to":1910,"peak":0.99,"km2":96000,"tier":1},
+  {"id":"empire-of-japan","name":"Empire of Japan","from":1911,"to":1945,"peak":0.99,"km2":96000,"tier":1}
+],
+ "events":[
+  {"id":"Q134142","name":"French campaign against Korea","year":1866,"type":"campaign","links":17,"by":"location","wiki":"French expedition to Korea"},
+  {"id":"Q496905","name":"Ganghwa Island incident","year":1875,"type":"battle","links":16,"by":"coordinates","wiki":"Ganghwa Island incident"},
+  {"id":"Q623391","name":"Japan–Korea Treaty of 1876","year":1876,"type":"treaty","links":27,"by":"location","wiki":"Japan–Korea Treaty of 1876"},
+  {"id":"Q709191","name":"Imo Incident","year":1882,"type":"rebellion","links":14,"by":"location","wiki":"Imo Incident"},
+  {"id":"Q912109","name":"Japan–Korea Treaty of 1885","year":1885,"type":"treaty","links":15,"by":"location","wiki":"Japan–Korea Treaty of 1885"},
+  {"id":"Q701045","name":"Donghak Peasant Revolution","year":1894,"type":"rebellion","links":27,"by":"location","to":1895,"wiki":"Tonghak Peasant Revolution"},
+  {"id":"Q701890","name":"Battle of Pungdo","year":1894,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Pungdo"},
+  {"id":"Q705072","name":"Battle of Seonghwan","year":1894,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Seonghwan"},
+  {"id":"Q1192118","name":"Battle of Chemulpo Bay","year":1904,"type":"battle","links":19,"by":"coordinates","wiki":"Battle of Chemulpo Bay"},
+  {"id":"Q233254","name":"Japan–Korea Treaty of November 1905","year":1905,"type":"treaty","links":29,"by":"location","wiki":"Japan–Korea Treaty of 1905"}
+]}

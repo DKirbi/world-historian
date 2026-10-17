@@ -1,0 +1,10 @@
+{"lane": "cambodia", "period": "imperialism", "years": [1839, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"khmer-empire","name":"Khmer Empire","from":806,"to":1867,"peak":1.0,"km2":181000,"tier":1},
+  {"id":"rattanakosin-kingdom","name":"Rattanakosin Kingdom","from":1796,"to":1907,"peak":0.38,"km2":69000,"tier":2},
+  {"id":"french-indochina","name":"French Indochina","from":1868,"to":1955,"peak":0.99,"km2":179000,"tier":1},
+  {"id":"second-french-empire","name":"Second French Empire","from":1868,"to":1870,"peak":0.61,"km2":111000,"tier":1,"realm":true},
+  {"id":"french-third-republic","name":"French Third Republic","from":1871,"to":1939,"peak":0.99,"km2":179000,"tier":1,"realm":true},
+  {"id":"vichy-france","name":"Vichy France","from":1940,"to":1943,"peak":0.99,"km2":179000,"tier":1,"realm":true},
+  {"id":"empire-of-japan","name":"Empire of Japan","from":1945,"to":1945,"peak":0.99,"km2":179000,"tier":1}
+]}

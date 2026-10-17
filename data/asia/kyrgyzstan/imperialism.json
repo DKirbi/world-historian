@@ -1,0 +1,9 @@
+{"lane": "kyrgyzstan", "period": "imperialism", "years": [1839, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"khanate-of-kokand","name":"Khanate of Kokand","from":1709,"to":1876,"peak":0.89,"km2":177000,"tier":1},
+  {"id":"emirate-of-bukhara-1788","name":"Emirate of Bukhara","from":1788,"to":1867,"peak":0.06,"km2":12000,"tier":3},
+  {"id":"russian-empire","name":"Russian Empire","from":1856,"to":1916,"peak":1.0,"km2":198000,"tier":1},
+  {"id":"russian-republic","name":"Russian Republic","from":1917,"to":1919,"peak":1.0,"km2":198000,"tier":1},
+  {"id":"republics-of-the-soviet-union","name":"Republics of the Soviet Union","from":1920,"to":1921,"peak":1.0,"km2":198000,"tier":1},
+  {"id":"union-of-soviet-socialist-republics","name":"Union of Soviet Socialist Republics","from":1922,"to":1991,"peak":1.0,"km2":198000,"tier":1}
+]}

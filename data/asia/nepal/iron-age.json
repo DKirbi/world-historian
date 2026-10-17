@@ -1,0 +1,9 @@
+{"lane": "nepal", "period": "iron-age", "years": [-1300, -222], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"janapada-of-vajji","name":"Janapada of Vajji","from":-600,"to":-481,"peak":0.02,"km2":3000,"tier":3,"inside":true},
+  {"id":"mahajanapadas","name":"Mahajanapadas","from":-480,"to":-451,"peak":0.02,"km2":3000,"tier":3,"inside":true},
+  {"id":"magadha-haryanka-dynasty","name":"Magadha - Haryanka dynasty","from":-450,"to":-405,"peak":0.08,"km2":11000,"tier":3},
+  {"id":"magadha-shaishunaga-dynasty","name":"Magadha - Shaishunaga dynasty","from":-404,"to":-334,"peak":0.08,"km2":12000,"tier":3},
+  {"id":"nanda-empire","name":"Nanda Empire","from":-333,"to":-319,"peak":0.09,"km2":13000,"tier":3},
+  {"id":"maurya-empire","name":"Maurya Empire","from":-318,"to":-171,"peak":0.95,"km2":139000,"tier":1}
+]}

@@ -1,0 +1,33 @@
+{"lane": "india", "period": "mongol", "years": [1206, 1367], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kashmir-626","name":"Kashmir","from":626,"to":1235,"peak":0.04,"km2":114000,"tier":2,"large":true},
+  {"id":"chaulukya-dynasty","name":"Chaulukya Dynasty","from":947,"to":1249,"peak":0.07,"km2":206000,"tier":2},
+  {"id":"chandela-kingdom","name":"Chandela Kingdom","from":960,"to":1313,"peak":0.03,"km2":81000,"tier":3,"inside":true},
+  {"id":"paramara-dynasty","name":"Paramara Dynasty","from":980,"to":1235,"peak":0.07,"km2":216000,"tier":2},
+  {"id":"chola-empire","name":"Chola Empire","from":1000,"to":1215,"peak":0.14,"km2":430000,"tier":2},
+  {"id":"eastern-ganga-kingdom","name":"Eastern Ganga Kingdom","from":1056,"to":1259,"peak":0.05,"km2":156000,"tier":2},
+  {"id":"sena-dynasty","name":"Sena Dynasty","from":1072,"to":1235,"peak":0.04,"km2":132000,"tier":2,"large":true},
+  {"id":"hoysala-kingdom","name":"Hoysala Kingdom","from":1111,"to":1351,"peak":0.04,"km2":111000,"tier":2,"large":true},
+  {"id":"kakatiya-dynasty","name":"Kakatiya Dynasty","from":1177,"to":1325,"peak":0.09,"km2":297000,"tier":2},
+  {"id":"yadava-dynasty","name":"Yadava Dynasty","from":1188,"to":1325,"peak":0.15,"km2":483000,"tier":2},
+  {"id":"ghurid-dynasty","name":"Ghurid Dynasty","from":1202,"to":1209,"peak":0.19,"km2":609000,"tier":2},
+  {"id":"delhi-sultanate","name":"Delhi Sultanate","from":1210,"to":1406,"peak":0.65,"km2":2039000,"tier":1,"realm":true},
+  {"id":"mamluk-dynasty","name":"Mamluk Dynasty","from":1210,"to":1293,"peak":0.31,"km2":980000,"tier":2},
+  {"id":"pandya-empire","name":"Pandya Empire","from":1216,"to":1249,"peak":0.04,"km2":121000,"tier":2,"large":true},
+  {"id":"chola-empire","name":"Chola Empire","from":1216,"to":1259,"peak":0.03,"km2":91000,"tier":3,"inside":true},
+  {"id":"mongol-empire","name":"Mongol Empire","from":1236,"to":1249,"peak":0.04,"km2":114000,"tier":2,"large":true},
+  {"id":"pandya-empire","name":"Pandya Empire","from":1250,"to":1325,"peak":0.07,"km2":216000,"tier":2},
+  {"id":"mongol-empire","name":"Mongol Empire","from":1250,"to":1293,"peak":0.05,"km2":164000,"tier":2},
+  {"id":"eastern-ganga-kingdom","name":"Eastern Ganga Kingdom","from":1260,"to":1351,"peak":0.07,"km2":205000,"tier":2},
+  {"id":"kampili-kingdom","name":"Kampili Kingdom","from":1285,"to":1332,"peak":0.0,"km2":6000,"tier":3,"inside":true},
+  {"id":"khalji-dynasty","name":"Khalji Dynasty","from":1294,"to":1325,"peak":0.41,"km2":1305000,"tier":2},
+  {"id":"kashmir-1294","name":"Kashmir","from":1294,"to":1343,"peak":0.04,"km2":131000,"tier":2,"large":true},
+  {"id":"tughlaq-dynasty","name":"Tughlaq Dynasty","from":1326,"to":1406,"peak":0.65,"km2":2039000,"tier":1},
+  {"id":"vijayanagara-empire","name":"Vijayanagara Empire","from":1344,"to":1571,"peak":0.18,"km2":552000,"tier":2},
+  {"id":"kashmiri-sultanate","name":"Kashmiri Sultanate","from":1344,"to":1587,"peak":0.04,"km2":131000,"tier":2,"large":true},
+  {"id":"bahmani-sultanate","name":"Bahmani Sultanate","from":1352,"to":1491,"peak":0.15,"km2":469000,"tier":2},
+  {"id":"sultanate-of-bengal","name":"Sultanate of Bengal","from":1352,"to":1533,"peak":0.08,"km2":258000,"tier":2}
+],
+ "events":[
+  {"id":"Q2079940","name":"Mongol invasions of India","year":1221,"type":"invasion","links":16,"by":"location","to":1327,"wiki":"Mongol invasions of India"}
+]}

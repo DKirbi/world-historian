@@ -1,0 +1,11 @@
+{"lane": "russia-east", "period": "mongol", "years": [1206, 1367], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"yenisei-kyrgyz","name":"Yenisei Kyrgyz","from":793,"to":1219,"peak":0.03,"km2":424000,"tier":2,"large":true},
+  {"id":"great-jin","name":"Great Jin","from":1126,"to":1215,"peak":0.02,"km2":263000,"tier":2,"large":true},
+  {"id":"mongol-empire","name":"Mongol Empire","from":1206,"to":1209,"peak":0.04,"km2":565000,"tier":2,"large":true},
+  {"id":"mongol-empire","name":"Mongol Empire","from":1210,"to":1293,"peak":0.36,"km2":4650000,"tier":2},
+  {"id":"yuan-dynasty","name":"Yuan Dynasty","from":1294,"to":1374,"peak":0.31,"km2":4080000,"tier":2},
+  {"id":"golden-horde","name":"Golden Horde","from":1294,"to":1362,"peak":0.03,"km2":358000,"tier":2,"large":true},
+  {"id":"novgorod-republic","name":"Novgorod Republic","from":1314,"to":1474,"peak":0.02,"km2":245000,"tier":2,"large":true},
+  {"id":"white-horde","name":"White Horde","from":1363,"to":1384,"peak":0.03,"km2":356000,"tier":2,"large":true}
+]}

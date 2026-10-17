@@ -1,0 +1,4 @@
+{"lane": "thailand", "period": "classical", "years": [-221, 588], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"chenla","name":"Chenla","from":555,"to":717,"peak":0.15,"km2":79000,"tier":3}
+]}

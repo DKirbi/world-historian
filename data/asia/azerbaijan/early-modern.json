@@ -1,0 +1,31 @@
+{"lane": "azerbaijan", "period": "early-modern", "years": [1368, 1838], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-georgia-1333","name":"Kingdom of Georgia","from":1333,"to":1394,"peak":0.29,"km2":26000,"tier":2},
+  {"id":"shirvan-1344","name":"Shirvan","from":1344,"to":1384,"peak":0.5,"km2":44000,"tier":1},
+  {"id":"jalayirid-sultanate","name":"Jalayirid Sultanate","from":1363,"to":1374,"peak":0.17,"km2":14000,"tier":3},
+  {"id":"qara-qoyunlu","name":"Qara Qoyunlu","from":1375,"to":1394,"peak":0.17,"km2":14000,"tier":3},
+  {"id":"golden-horde","name":"Golden Horde","from":1385,"to":1394,"peak":0.61,"km2":53000,"tier":1},
+  {"id":"timurid-empire-1375","name":"Timurid Empire","from":1395,"to":1414,"peak":0.96,"km2":83000,"tier":1},
+  {"id":"shirvan-1344","name":"Shirvan","from":1415,"to":1539,"peak":0.53,"km2":46000,"tier":1},
+  {"id":"qara-qoyunlu","name":"Qara Qoyunlu","from":1415,"to":1467,"peak":0.33,"km2":28000,"tier":2},
+  {"id":"kingdom-of-georgia-1333","name":"Kingdom of Georgia","from":1415,"to":1462,"peak":0.11,"km2":9000,"tier":3},
+  {"id":"aq-qoyunlu","name":"Aq Qoyunlu","from":1468,"to":1501,"peak":0.33,"km2":28000,"tier":2},
+  {"id":"kingdom-of-kakheti-1468","name":"Kingdom of Kakheti","from":1468,"to":1578,"peak":0.07,"km2":6000,"tier":3},
+  {"id":"safavid-dynasty","name":"Safavid Dynasty","from":1502,"to":1587,"peak":0.86,"km2":74000,"tier":1},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1579,"to":1611,"peak":0.96,"km2":83000,"tier":1},
+  {"id":"safavid-dynasty","name":"Safavid Dynasty","from":1612,"to":1726,"peak":0.96,"km2":83000,"tier":1},
+  {"id":"kingdom-of-kakheti-1706","name":"Kingdom of Kakheti","from":1706,"to":1737,"peak":0.07,"km2":6000,"tier":3},
+  {"id":"ottoman-empire","name":"Ottoman Empire","from":1727,"to":1737,"peak":0.65,"km2":56000,"tier":1},
+  {"id":"russian-empire","name":"Russian Empire","from":1727,"to":1737,"peak":0.21,"km2":18000,"tier":2},
+  {"id":"afsharid-iran","name":"Afsharid Iran","from":1734,"to":1756,"peak":0.96,"km2":83000,"tier":1},
+  {"id":"kingdom-of-kakheti-1706","name":"Kingdom of Kakheti","from":1744,"to":1762,"peak":0.07,"km2":6000,"tier":3},
+  {"id":"khanates-of-the-caucasus","name":"Khanates of the Caucasus","from":1748,"to":1795,"peak":0.85,"km2":74000,"tier":1},
+  {"id":"zand-dynasty","name":"Zand Dynasty","from":1757,"to":1787,"peak":0.11,"km2":10000,"tier":3},
+  {"id":"kingdom-of-georgia-1706","name":"Kingdom of Georgia","from":1763,"to":1802,"peak":0.11,"km2":9000,"tier":3},
+  {"id":"qajar-dynasty","name":"Qajar Dynasty","from":1791,"to":1827,"peak":0.86,"km2":74000,"tier":1},
+  {"id":"russian-empire","name":"Russian Empire","from":1796,"to":1796,"peak":0.54,"km2":47000,"tier":1},
+  {"id":"russian-empire","name":"Russian Empire","from":1803,"to":1916,"peak":1.0,"km2":87000,"tier":1}
+],
+ "events":[
+  {"id":"Q1420115","name":"Russo-Persian War of 1826–28","year":1826,"type":"war","links":40,"by":"location","to":1828,"wiki":"Russo-Persian War (1826–1828)"}
+]}

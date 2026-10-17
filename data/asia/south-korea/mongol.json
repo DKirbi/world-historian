@@ -1,0 +1,11 @@
+{"lane": "south-korea", "period": "mongol", "years": [1206, 1367], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"goryeo-922","name":"Goryeo","from":922,"to":1259,"peak":0.97,"km2":95000,"tier":1},
+  {"id":"tamna-936","name":"Tamna","from":936,"to":1278,"peak":0.02,"km2":2000,"tier":3,"inside":true},
+  {"id":"mongol-empire","name":"Mongol Empire","from":1260,"to":1293,"peak":0.99,"km2":96000,"tier":1},
+  {"id":"yuan-dynasty","name":"Yuan Dynasty","from":1294,"to":1362,"peak":0.99,"km2":96000,"tier":1},
+  {"id":"goryeo-1363","name":"Goryeo","from":1363,"to":1394,"peak":0.99,"km2":96000,"tier":1}
+],
+ "events":[
+  {"id":"Q702266","name":"Mongol invasions of Korea","year":1231,"type":"invasion","links":21,"by":"location","wiki":"Mongol invasions of Korea"}
+]}

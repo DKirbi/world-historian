@@ -1,0 +1,31 @@
+{"lane": "japan", "period": "medieval", "years": [589, 1205], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"asuka-japan","name":"Asuka Japan","from":540,"to":709,"peak":0.56,"km2":209000,"tier":1},
+  {"id":"nara-japan","name":"Nara Japan","from":710,"to":792,"peak":0.56,"km2":209000,"tier":1},
+  {"id":"heian-japan","name":"Heian Japan","from":793,"to":1187,"peak":0.6,"km2":223000,"tier":1},
+  {"id":"northern-fujiwara","name":"Northern Fujiwara","from":1094,"to":1191,"peak":0.11,"km2":40000,"tier":3},
+  {"id":"kamakura-shogunate","name":"Kamakura Shogunate","from":1188,"to":1332,"peak":0.77,"km2":286000,"tier":1},
+  {"id":"shunten-dynasty","name":"Shunten Dynasty","from":1188,"to":1313,"peak":0.0,"km2":1000,"tier":3,"inside":true}
+],
+ "events":[
+  {"id":"Q1062771","name":"Isshi Incident","year":645,"type":"coup","links":18,"by":"coordinates","wiki":"Isshi incident"},
+  {"id":"Q2378252","name":"Jinshin War","year":672,"type":"war","links":22,"by":"location","wiki":"Jinshin War"},
+  {"id":"Q703655","name":"Toi invasion","year":1019,"type":"invasion","links":12,"by":"location","wiki":"Toi invasion"},
+  {"id":"Q1187448","name":"Zenkunen War","year":1051,"type":"war","links":15,"by":"coordinates","to":1063,"wiki":"Former Nine Years' War"},
+  {"id":"Q1187411","name":"Gosannen War","year":1083,"type":"war","links":13,"by":"location","to":1087,"wiki":"Gosannen War"},
+  {"id":"Q842357","name":"Hōgen rebellion","year":1156,"type":"war","links":26,"by":"coordinates","wiki":"Hōgen rebellion"},
+  {"id":"Q944859","name":"Heiji rebellion","year":1160,"type":"rebellion","links":23,"by":"location","wiki":"Heiji rebellion"},
+  {"id":"Q737542","name":"Genpei War","year":1180,"type":"war","links":37,"by":"location","to":1185,"wiki":"Genpei War"},
+  {"id":"Q1887494","name":"Battle of Uji","year":1180,"type":"battle","links":18,"by":"coordinates","wiki":"Battle of Uji (1180)"},
+  {"id":"Q2888010","name":"Battle of Ishibashiyama","year":1180,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Ishibashiyama"},
+  {"id":"Q650507","name":"Battle of Fujigawa","year":1180,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Fujigawa"},
+  {"id":"Q1116528","name":"Siege of Nara","year":1181,"type":"siege","links":15,"by":"coordinates","wiki":"Siege of Nara"},
+  {"id":"Q2890114","name":"Battle of Sunomata-gawa","year":1181,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Sunomata-gawa"},
+  {"id":"Q2889028","name":"Battle of Kurikara","year":1183,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Kurikara Pass"},
+  {"id":"Q3142821","name":"Siege of Hiuchi","year":1183,"type":"siege","links":12,"by":"coordinates","wiki":"Siege of Hiuchi"},
+  {"id":"Q2116658","name":"Battle of Ichi-no-Tani","year":1184,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Ichi-no-Tani"},
+  {"id":"Q2888057","name":"Battle of Uji","year":1184,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Uji (1184)"},
+  {"id":"Q2237381","name":"Battle of Awazu","year":1184,"type":"battle","links":13,"by":"coordinates","wiki":"Battle of Awazu"},
+  {"id":"Q968676","name":"Battle of Dan-no-ura","year":1185,"type":"battle","links":24,"by":"coordinates","wiki":"Battle of Dan-no-ura"},
+  {"id":"Q2117322","name":"Battle of Yashima","year":1185,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Yashima"}
+]}

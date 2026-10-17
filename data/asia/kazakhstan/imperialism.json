@@ -1,0 +1,11 @@
+{"lane": "kazakhstan", "period": "imperialism", "years": [1839, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kazakh-khanate","name":"Kazakh Khanate","from":1475,"to":1847,"peak":0.85,"km2":2323000,"tier":1},
+  {"id":"russian-empire","name":"Russian Empire","from":1721,"to":1916,"peak":1.0,"km2":2719000,"tier":1},
+  {"id":"qing-dynasty","name":"Qing Dynasty","from":1757,"to":1847,"peak":0.12,"km2":328000,"tier":2},
+  {"id":"khanate-of-khiva","name":"Khanate of Khiva","from":1791,"to":1863,"peak":0.06,"km2":151000,"tier":2},
+  {"id":"khanate-of-kokand","name":"Khanate of Kokand","from":1822,"to":1863,"peak":0.09,"km2":245000,"tier":2},
+  {"id":"russian-republic","name":"Russian Republic","from":1917,"to":1919,"peak":0.99,"km2":2705000,"tier":1},
+  {"id":"republics-of-the-soviet-union","name":"Republics of the Soviet Union","from":1920,"to":1921,"peak":0.99,"km2":2705000,"tier":1},
+  {"id":"union-of-soviet-socialist-republics","name":"Union of Soviet Socialist Republics","from":1922,"to":1991,"peak":0.99,"km2":2705000,"tier":1}
+]}

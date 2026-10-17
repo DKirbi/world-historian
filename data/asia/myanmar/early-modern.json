@@ -1,0 +1,29 @@
+{"lane": "myanmar", "period": "early-modern", "years": [1368, 1838], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"shan-states","name":"Shan States","from":1294,"to":1563,"peak":0.57,"km2":377000,"tier":1},
+  {"id":"hanthawaddy-kingdom","name":"Hanthawaddy Kingdom","from":1294,"to":1539,"peak":0.11,"km2":72000,"tier":3},
+  {"id":"sukhothai-kingdom","name":"Sukhothai Kingdom","from":1294,"to":1374,"peak":0.06,"km2":40000,"tier":3},
+  {"id":"kingdom-of-pinya","name":"Kingdom of Pinya","from":1314,"to":1374,"peak":0.29,"km2":194000,"tier":2},
+  {"id":"sagaing-kingdom","name":"Sagaing Kingdom","from":1326,"to":1374,"peak":0.15,"km2":98000,"tier":3},
+  {"id":"ava-kingdom","name":"Ava Kingdom","from":1375,"to":1528,"peak":0.29,"km2":194000,"tier":2},
+  {"id":"ayutthaya-kingdom","name":"Ayutthaya Kingdom","from":1375,"to":1563,"peak":0.06,"km2":40000,"tier":3},
+  {"id":"kingdom-of-mrauk-u","name":"Kingdom of Mrauk U","from":1429,"to":1787,"peak":0.13,"km2":83000,"tier":3},
+  {"id":"prome-kingdom","name":"Prome Kingdom","from":1482,"to":1546,"peak":0.03,"km2":20000,"tier":3,"inside":true},
+  {"id":"first-toungoo-empire","name":"First Toungoo Empire","from":1502,"to":1756,"peak":0.9,"km2":597000,"tier":1},
+  {"id":"ayutthaya-kingdom","name":"Ayutthaya Kingdom","from":1595,"to":1618,"peak":0.14,"km2":94000,"tier":3},
+  {"id":"ming-dynasty","name":"Ming Dynasty","from":1600,"to":1644,"peak":0.16,"km2":105000,"tier":2},
+  {"id":"southern-ming","name":"Southern Ming","from":1645,"to":1652,"peak":0.16,"km2":104000,"tier":2},
+  {"id":"qing-dynasty","name":"Qing Dynasty","from":1738,"to":1768,"peak":0.16,"km2":105000,"tier":2},
+  {"id":"konbaung-dynasty","name":"Konbaung Dynasty","from":1741,"to":1819,"peak":0.98,"km2":649000,"tier":1},
+  {"id":"ayutthaya-kingdom","name":"Ayutthaya Kingdom","from":1752,"to":1761,"peak":0.08,"km2":50000,"tier":3},
+  {"id":"burma-1820","name":"Burma","from":1820,"to":1884,"peak":0.99,"km2":654000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1825,"to":1858,"peak":0.34,"km2":228000,"tier":2,"realm":true},
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1825,"to":1852,"peak":0.09,"km2":57000,"tier":3}
+],
+ "events":[
+  {"id":"Q3237019","name":"Sino-Burmese War","year":1765,"type":"war","links":17,"by":"location","to":1769,"wiki":"Sino-Burmese War"},
+  {"id":"Q31307","name":"Burmese–Siamese War of 1765–1767","year":1765,"type":"war","links":15,"by":"location","to":1767,"wiki":"Burmese–Siamese War (1765–1767)"},
+  {"id":"Q29122","name":"First Anglo-Burmese War","year":1824,"type":"war","links":29,"by":"location","to":1826,"wiki":"First Anglo-Burmese War"},
+  {"id":"Q2248139","name":"Anglo-Burmese Wars","year":1824,"type":"war","links":26,"by":"location","to":1886,"wiki":"Anglo-Burmese Wars"},
+  {"id":"Q2639320","name":"Treaty of Yandabo","year":1826,"type":"treaty","links":20,"by":"location","wiki":"Treaty of Yandabo"}
+]}

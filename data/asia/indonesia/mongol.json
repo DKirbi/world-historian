@@ -1,0 +1,15 @@
+{"lane": "indonesia", "period": "mongol", "years": [1206, 1367], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"srivijaya","name":"Srivijaya","from":682,"to":1293,"peak":0.16,"km2":306000,"tier":2},
+  {"id":"sunda-kingdom","name":"Sunda Kingdom","from":741,"to":1578,"peak":0.03,"km2":56000,"tier":3,"inside":true},
+  {"id":"kediri-kingdom","name":"Kediri Kingdom","from":1046,"to":1226,"peak":0.04,"km2":67000,"tier":3,"inside":true},
+  {"id":"early-balinese-kingdoms","name":"Early Balinese Kingdoms","from":1046,"to":1235,"peak":0.0,"km2":5000,"tier":3,"inside":true},
+  {"id":"singhasari","name":"Singhasari","from":1227,"to":1293,"peak":0.04,"km2":71000,"tier":3,"inside":true},
+  {"id":"samudera-pasai-sultanate","name":"Samudera Pasai Sultanate","from":1272,"to":1351,"peak":0.0,"km2":9000,"tier":3,"inside":true},
+  {"id":"early-balinese-kingdoms","name":"Early Balinese Kingdoms","from":1285,"to":1343,"peak":0.0,"km2":5000,"tier":3,"inside":true},
+  {"id":"majapahit","name":"Majapahit","from":1294,"to":1474,"peak":0.39,"km2":728000,"tier":2},
+  {"id":"samudera-pasai-sultanate","name":"Samudera Pasai Sultanate","from":1363,"to":1520,"peak":0.0,"km2":9000,"tier":3,"inside":true}
+],
+ "events":[
+  {"id":"Q2672432","name":"Mongol invasion of Java","year":1293,"type":"invasion","links":22,"by":"location","wiki":"Mongol invasion of Java"}
+]}

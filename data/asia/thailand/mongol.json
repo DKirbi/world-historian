@@ -1,0 +1,11 @@
+{"lane": "thailand", "period": "mongol", "years": [1206, 1367], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"haripunjaya","name":"Haripuñjaya","from":661,"to":1293,"peak":0.27,"km2":137000,"tier":2},
+  {"id":"khmer-empire","name":"Khmer Empire","from":806,"to":1374,"peak":0.76,"km2":390000,"tier":1},
+  {"id":"sukhothai-kingdom","name":"Sukhothai Kingdom","from":1241,"to":1449,"peak":0.46,"km2":236000,"tier":2},
+  {"id":"lavo-kingdom-1241","name":"Lavo Kingdom","from":1241,"to":1394,"peak":0.08,"km2":42000,"tier":3},
+  {"id":"lan-na-kingdom","name":"Lan Na Kingdom","from":1294,"to":1563,"peak":0.1,"km2":51000,"tier":3},
+  {"id":"phayao-kingdom","name":"Phayao Kingdom","from":1294,"to":1343,"peak":0.01,"km2":5000,"tier":3,"inside":true},
+  {"id":"ayutthaya-kingdom","name":"Ayutthaya Kingdom","from":1352,"to":1374,"peak":0.01,"km2":7000,"tier":3,"inside":true},
+  {"id":"lan-xang","name":"Lan Xang","from":1363,"to":1578,"peak":0.21,"km2":110000,"tier":2}
+]}

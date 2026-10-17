@@ -1,0 +1,14 @@
+{"lane": "sri-lanka", "period": "early-modern", "years": [1368, 1838], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ceylon","name":"Ceylon","from":1236,"to":1506,"peak":1.0,"km2":65000,"tier":1},
+  {"id":"jaffna-kingdom","name":"Jaffna kingdom","from":1314,"to":1594,"peak":0.31,"km2":20000,"tier":2},
+  {"id":"portuguese-ceylon","name":"Portuguese Ceylon","from":1507,"to":1686,"peak":0.87,"km2":57000,"tier":1},
+  {"id":"portuguese-empire","name":"Portuguese Empire","from":1507,"to":1571,"peak":0.86,"km2":56000,"tier":1,"realm":true},
+  {"id":"portuguese-colonies","name":"Portuguese Colonies","from":1564,"to":1581,"peak":0.13,"km2":8000,"tier":3},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1582,"to":1639,"peak":0.51,"km2":34000,"tier":1},
+  {"id":"portuguese-colonies","name":"Portuguese Colonies","from":1640,"to":1661,"peak":0.51,"km2":34000,"tier":1},
+  {"id":"dutch-republic","name":"Dutch Republic","from":1659,"to":1795,"peak":1.0,"km2":65000,"tier":1,"realm":true},
+  {"id":"dutch-ceylon","name":"Dutch Ceylon","from":1687,"to":1795,"peak":0.65,"km2":42000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1796,"to":1858,"peak":1.0,"km2":65000,"tier":1,"realm":true},
+  {"id":"british-ceylon","name":"British Ceylon","from":1796,"to":1814,"peak":0.44,"km2":29000,"tier":2}
+]}

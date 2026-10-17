@@ -1,0 +1,4 @@
+{"lane": "timor-leste", "period": "mongol", "years": [1206, 1367], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"majapahit","name":"Majapahit","from":1363,"to":1474,"peak":0.96,"km2":14000,"tier":1}
+]}

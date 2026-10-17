@@ -1,0 +1,8 @@
+{"lane": "kazakhstan", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"union-of-soviet-socialist-republics","name":"Union of Soviet Socialist Republics","from":1922,"to":1991,"peak":0.99,"km2":2705000,"tier":1},
+  {"id":"kazakhstan","name":"Kazakhstan","from":1992,"to":2024,"peak":0.97,"km2":2626000,"tier":1}
+],
+ "events":[
+  {"id":"Q56062455","name":"Convention on the legal status of the Caspian Sea","year":2018,"type":"treaty","links":13,"by":"location","wiki":"Convention on the legal status of the Caspian Sea"}
+]}

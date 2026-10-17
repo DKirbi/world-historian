@@ -1,0 +1,12 @@
+{"lane": "vietnam", "period": "mongol", "years": [1206, 1367], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"khmer-empire","name":"Khmer Empire","from":806,"to":1699,"peak":0.54,"km2":177000,"tier":1},
+  {"id":"ngo-dynasty","name":"Ngô Dynasty","from":947,"to":1406,"peak":0.43,"km2":142000,"tier":2},
+  {"id":"champa","name":"Chámpa","from":1220,"to":1474,"peak":0.35,"km2":116000,"tier":2},
+  {"id":"sukhothai-kingdom","name":"Sukhothai Kingdom","from":1294,"to":1362,"peak":0.06,"km2":19000,"tier":3},
+  {"id":"lan-xang","name":"Lan Xang","from":1363,"to":1578,"peak":0.13,"km2":42000,"tier":3}
+],
+ "events":[
+  {"id":"Q2448644","name":"Mongol invasions of Vietnam","year":1258,"type":"invasion","links":20,"by":"location","to":1288,"wiki":"Mongol invasions of Vietnam"},
+  {"id":"Q1369379","name":"Battle of Bạch Đằng","year":1288,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Bạch Đằng (1288)"}
+]}

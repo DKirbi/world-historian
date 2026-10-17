@@ -1,0 +1,8 @@
+{"lane": "uzbekistan", "period": "iron-age", "years": [-1300, -222], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"scythia","name":"Scythia","from":-650,"to":-551,"peak":0.07,"km2":33000,"tier":3},
+  {"id":"achaemenid-empire","name":"Achaemenid Empire","from":-550,"to":-327,"peak":0.58,"km2":260000,"tier":1},
+  {"id":"macedonian-empire","name":"Macedonian Empire","from":-323,"to":-308,"peak":0.17,"km2":77000,"tier":3},
+  {"id":"seleucid-empire","name":"Seleucid Empire","from":-307,"to":-248,"peak":0.17,"km2":77000,"tier":3},
+  {"id":"greco-bactrian-kingdom","name":"Greco-Bactrian Kingdom","from":-247,"to":-127,"peak":0.35,"km2":155000,"tier":2}
+]}

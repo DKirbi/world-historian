@@ -1,0 +1,7 @@
+{"lane": "north-korea", "period": "early-modern", "years": [1368, 1838], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"yuan-dynasty","name":"Yuan Dynasty","from":1294,"to":1374,"peak":1.0,"km2":122000,"tier":1},
+  {"id":"goryeo-1363","name":"Goryeo","from":1363,"to":1394,"peak":0.8,"km2":98000,"tier":1},
+  {"id":"joseon","name":"Joseon","from":1395,"to":1897,"peak":0.99,"km2":122000,"tier":1},
+  {"id":"ming-dynasty","name":"Ming Dynasty","from":1415,"to":1439,"peak":0.2,"km2":25000,"tier":2}
+]}

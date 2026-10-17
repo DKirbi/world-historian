@@ -1,0 +1,6 @@
+{"lane": "nepal", "period": "early-modern", "years": [1368, 1838], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kathmandu","name":"Kathmandu","from":1202,"to":1761,"peak":0.0,"km2":1000,"tier":3,"inside":true},
+  {"id":"gorkha-kingdom","name":"Gorkha Kingdom","from":1588,"to":1787,"peak":0.98,"km2":144000,"tier":1},
+  {"id":"nepal","name":"Nepal","from":1775,"to":2024,"peak":0.99,"km2":145000,"tier":1}
+]}

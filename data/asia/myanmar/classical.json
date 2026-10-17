@@ -1,0 +1,4 @@
+{"lane": "myanmar", "period": "classical", "years": [-221, 588], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"pyu-city-states","name":"Pyu City-States","from":84,"to":1045,"peak":0.18,"km2":116000,"tier":2}
+]}

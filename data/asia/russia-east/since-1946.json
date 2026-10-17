@@ -1,0 +1,10 @@
+{"lane": "russia-east", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"union-of-soviet-socialist-republics","name":"Union of Soviet Socialist Republics","from":1922,"to":1991,"peak":0.99,"km2":12881000,"tier":1},
+  {"id":"russian-federation","name":"Russian Federation","from":1992,"to":2024,"peak":0.98,"km2":12835000,"tier":1}
+],
+ "events":[
+  {"id":"Q169401","name":"Intermediate-Range Nuclear Forces Treaty","year":1987,"type":"treaty","links":46,"by":"location","wiki":"Intermediate-Range Nuclear Forces Treaty"},
+  {"id":"Q849563","name":"insurgency in the North Caucasus","year":2009,"type":"rebellion","links":23,"by":"location","to":2017,"wiki":"Insurgency in the North Caucasus"},
+  {"id":"Q110999040","name":"full-scale Russo-Ukrainian war","year":2022,"type":"invasion","links":176,"by":"location","wiki":"Russo-Ukrainian war (2022–present)"}
+]}

@@ -1,0 +1,10 @@
+{"lane": "kyrgyzstan", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"union-of-soviet-socialist-republics","name":"Union of Soviet Socialist Republics","from":1922,"to":1991,"peak":1.0,"km2":198000,"tier":1},
+  {"id":"kyrgyzstan","name":"Kyrgyzstan","from":1992,"to":2024,"peak":0.94,"km2":187000,"tier":1}
+],
+ "events":[
+  {"id":"Q459162","name":"Tulip Revolution","year":2005,"type":"revolution","links":39,"by":"location","wiki":"Tulip Revolution"},
+  {"id":"Q236023","name":"Kyrgyz Revolution of 2010","year":2010,"type":"revolution","links":37,"by":"country","wiki":"2010 Kyrgyz Revolution"},
+  {"id":"Q106647377","name":"2021 Kyrgyzstan–Tajikistan clashes","year":2021,"type":"battle","links":24,"by":"location","wiki":"2021 Kyrgyzstan–Tajikistan clashes"}
+]}

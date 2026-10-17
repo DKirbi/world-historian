@@ -1,0 +1,21 @@
+{"lane": "uzbekistan", "period": "classical", "years": [-221, 588], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"greco-bactrian-kingdom","name":"Greco-Bactrian Kingdom","from":-247,"to":-127,"peak":0.35,"km2":155000,"tier":2},
+  {"id":"yuezhi","name":"Yuezhi","from":-144,"to":42,"peak":0.28,"km2":127000,"tier":2},
+  {"id":"indo-scythians","name":"Indo-Scythians","from":-144,"to":-92,"peak":0.07,"km2":31000,"tier":3},
+  {"id":"great-yuan","name":"Great Yuan","from":-110,"to":50,"peak":0.07,"km2":30000,"tier":3},
+  {"id":"parthian-empire","name":"Parthian Empire","from":-91,"to":237,"peak":0.06,"km2":28000,"tier":3},
+  {"id":"kushan-empire","name":"Kushan Empire","from":43,"to":237,"peak":0.28,"km2":124000,"tier":2},
+  {"id":"western-kushans","name":"Western Kushans","from":238,"to":259,"peak":0.28,"km2":124000,"tier":2},
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":238,"to":386,"peak":0.19,"km2":84000,"tier":3},
+  {"id":"indo-sasanian-empire","name":"Indo-Sasanian Empire","from":260,"to":357,"peak":0.28,"km2":124000,"tier":2},
+  {"id":"kidarites","name":"Kidarites","from":358,"to":450,"peak":0.5,"km2":225000,"tier":1},
+  {"id":"xionites","name":"Xionites","from":387,"to":401,"peak":0.43,"km2":193000,"tier":2},
+  {"id":"white-huns","name":"White Huns","from":410,"to":560,"peak":0.77,"km2":345000,"tier":1},
+  {"id":"gokturk-khaganate","name":"Göktürk Khaganate","from":555,"to":586,"peak":0.91,"km2":408000,"tier":1},
+  {"id":"western-gokturks","name":"Western Göktürks","from":587,"to":660,"peak":0.91,"km2":408000,"tier":1}
+],
+ "events":[
+  {"id":"Q7968690","name":"War of the Heavenly Horses","year":-104,"type":"war","links":12,"by":"location","to":-101,"wiki":"War of the Heavenly Horses"},
+  {"id":"Q13600791","name":"Battle of Gol-Zarriun","year":560,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Gol-Zarriun"}
+]}

@@ -1,0 +1,17 @@
+{"lane": "pakistan", "period": "imperialism", "years": [1839, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"sikh-empire","name":"Sikh Empire","from":1800,"to":1848,"peak":0.29,"km2":254000,"tier":2},
+  {"id":"talpur-dynasty","name":"Talpur Dynasty","from":1820,"to":1894,"peak":0.59,"km2":511000,"tier":1},
+  {"id":"emirate-of-afghanistan","name":"Emirate of Afghanistan","from":1828,"to":1839,"peak":0.21,"km2":184000,"tier":2},
+  {"id":"british-empire","name":"British Empire","from":1840,"to":1858,"peak":0.85,"km2":744000,"tier":1},
+  {"id":"kashmir-and-jammu-1846","name":"Kashmir and Jammu","from":1846,"to":1884,"peak":0.06,"km2":50000,"tier":3},
+  {"id":"british-raj","name":"British Raj","from":1859,"to":1946,"peak":0.99,"km2":864000,"tier":1}
+],
+ "events":[
+  {"id":"Q582584","name":"First Anglo-Sikh War","year":1845,"type":"war","links":36,"by":"location","to":1846,"wiki":"First Anglo-Sikh War"},
+  {"id":"Q243590","name":"Second Anglo-Sikh war","year":1848,"type":"war","links":30,"by":"location","to":1849,"wiki":"Second Anglo-Sikh War"},
+  {"id":"Q383067","name":"Battle of Saragarhi","year":1897,"type":"battle","links":24,"by":"coordinates","wiki":"Battle of Saragarhi"},
+  {"id":"Q64879","name":"Siege of Malakand","year":1897,"type":"siege","links":15,"by":"coordinates","wiki":"Siege of Malakand"},
+  {"id":"Q1259237","name":"Third Anglo-Afghan War","year":1919,"type":"war","links":38,"by":"location","wiki":"Third Anglo-Afghan War"},
+  {"id":"Q1456454","name":"Anglo-Afghan Treaty of 1919","year":1919,"type":"treaty","links":28,"by":"coordinates","wiki":"Anglo-Afghan Treaty of 1919"}
+]}

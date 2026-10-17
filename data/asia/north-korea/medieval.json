@@ -1,0 +1,15 @@
+{"lane": "north-korea", "period": "medieval", "years": [589, 1205], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"goguryeo","name":"Goguryeo","from":-36,"to":673,"peak":1.0,"km2":122000,"tier":1},
+  {"id":"silla","name":"Silla","from":555,"to":681,"peak":0.14,"km2":17000,"tier":3},
+  {"id":"tang-dynasty","name":"Tang Dynasty","from":674,"to":704,"peak":0.86,"km2":105000,"tier":1},
+  {"id":"unified-silla","name":"Unified Silla","from":682,"to":910,"peak":0.34,"km2":42000,"tier":2},
+  {"id":"balhae","name":"Balhae","from":705,"to":925,"peak":0.7,"km2":85000,"tier":1},
+  {"id":"taebong","name":"Taebong","from":911,"to":921,"peak":0.3,"km2":37000,"tier":2},
+  {"id":"goryeo-922","name":"Goryeo","from":922,"to":1259,"peak":0.3,"km2":37000,"tier":2},
+  {"id":"liao-dynasty","name":"Liao Dynasty","from":926,"to":1125,"peak":0.7,"km2":85000,"tier":1},
+  {"id":"great-jin","name":"Great Jin","from":1126,"to":1215,"peak":0.7,"km2":86000,"tier":1}
+],
+ "events":[
+  {"id":"Q29680","name":"Battle of Salsu","year":612,"type":"battle","links":22,"by":"location","wiki":"Battle of Salsu"}
+]}

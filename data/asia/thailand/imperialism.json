@@ -1,0 +1,11 @@
+{"lane": "thailand", "period": "imperialism", "years": [1839, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"chiangmai","name":"Chiangmai","from":1775,"to":1884,"peak":0.1,"km2":52000,"tier":3},
+  {"id":"rattanakosin-kingdom","name":"Rattanakosin Kingdom","from":1783,"to":1931,"peak":0.98,"km2":504000,"tier":1},
+  {"id":"kingdom-of-thailand","name":"Kingdom of Thailand","from":1932,"to":2024,"peak":0.98,"km2":502000,"tier":1}
+],
+ "events":[
+  {"id":"Q745728","name":"Bowring Treaty","year":1855,"type":"treaty","links":15,"by":"country","wiki":"Bowring Treaty"},
+  {"id":"Q1200928","name":"Japanese invasion of Thailand","year":1941,"type":"invasion","links":24,"by":"country","wiki":"Japanese invasion of Thailand"},
+  {"id":"Q702579","name":"Battle of Ko Chang","year":1941,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Ko Chang"}
+]}

@@ -1,0 +1,7 @@
+{"lane": "singapore", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1820,"to":1962,"peak":0.89,"km2":400,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1946,"to":1962,"peak":0.86,"km2":400,"tier":1,"realm":true},
+  {"id":"malaysia","name":"Malaysia","from":1963,"to":1966,"peak":0.85,"km2":400,"tier":1},
+  {"id":"republic-of-singapore","name":"Republic of Singapore","from":1967,"to":2024,"peak":0.86,"km2":400,"tier":1}
+]}

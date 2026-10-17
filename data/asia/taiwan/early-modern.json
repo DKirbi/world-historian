@@ -1,0 +1,10 @@
+{"lane": "taiwan", "period": "early-modern", "years": [1368, 1838], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"dutch-republic","name":"Dutch Republic","from":1632,"to":1661,"peak":1.0,"km2":36000,"tier":1},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1632,"to":1658,"peak":0.13,"km2":5000,"tier":3},
+  {"id":"southern-ming","name":"Southern Ming","from":1662,"to":1682,"peak":1.0,"km2":36000,"tier":1},
+  {"id":"qing-dynasty","name":"Qing Dynasty","from":1683,"to":1894,"peak":1.0,"km2":36000,"tier":1}
+],
+ "events":[
+  {"id":"Q697621","name":"Siege of Fort Zeelandia","year":1661,"type":"siege","links":22,"by":"coordinates","to":1662,"wiki":"Siege of Fort Zeelandia"}
+]}

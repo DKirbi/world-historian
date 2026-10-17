@@ -1,0 +1,10 @@
+{"lane": "turkmenistan", "period": "classical", "years": [-221, 588], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"greco-bactrian-kingdom","name":"Greco-Bactrian Kingdom","from":-247,"to":-165,"peak":0.34,"km2":162000,"tier":2},
+  {"id":"parthian-empire","name":"Parthian Empire","from":-239,"to":237,"peak":0.72,"km2":338000,"tier":1},
+  {"id":"indo-scythians","name":"Indo-Scythians","from":-144,"to":-92,"peak":0.32,"km2":150000,"tier":2},
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":238,"to":489,"peak":0.91,"km2":426000,"tier":1},
+  {"id":"white-huns","name":"White Huns","from":490,"to":560,"peak":0.93,"km2":438000,"tier":1},
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":523,"to":643,"peak":0.69,"km2":323000,"tier":1},
+  {"id":"gokturk-khaganate","name":"Göktürk Khaganate","from":561,"to":586,"peak":0.07,"km2":32000,"tier":3}
+]}

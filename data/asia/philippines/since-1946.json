@@ -1,0 +1,12 @@
+{"lane": "philippines", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"united-states-of-america","name":"United States of America","from":1945,"to":1946,"peak":0.98,"km2":284000,"tier":1},
+  {"id":"republic-of-the-philippines","name":"Republic of the Philippines","from":1947,"to":2024,"peak":0.98,"km2":284000,"tier":1}
+],
+ "events":[
+  {"id":"Q7837141","name":"Treaty of Manila","year":1946,"type":"treaty","links":15,"by":"location","wiki":"Treaty of Manila (1946)"},
+  {"id":"Q1225409","name":"Moro conflict","year":1969,"type":"rebellion","links":26,"by":"location","wiki":"Moro conflict"},
+  {"id":"Q1551546","name":"New People's Army rebellion","year":1969,"type":"rebellion","links":12,"by":"location","wiki":"New People's Army rebellion"},
+  {"id":"Q1274389","name":"People Power Revolution","year":1986,"type":"revolution","links":38,"by":"country","wiki":"People Power Revolution"},
+  {"id":"Q30041564","name":"Siege of Marawi","year":2017,"type":"battle","links":26,"by":"coordinates","wiki":"Siege of Marawi"}
+]}

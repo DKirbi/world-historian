@@ -1,0 +1,17 @@
+{"lane": "south-korea", "period": "medieval", "years": [589, 1205], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"tamna-263","name":"Tamna","from":263,"to":681,"peak":0.02,"km2":2000,"tier":3,"inside":true},
+  {"id":"baekje","name":"Baekje","from":347,"to":660,"peak":0.45,"km2":44000,"tier":2},
+  {"id":"silla","name":"Silla","from":378,"to":681,"peak":0.65,"km2":63000,"tier":1},
+  {"id":"tang-dynasty","name":"Tang Dynasty","from":661,"to":681,"peak":0.32,"km2":31000,"tier":2},
+  {"id":"unified-silla","name":"Unified Silla","from":682,"to":935,"peak":0.99,"km2":96000,"tier":1},
+  {"id":"hubaekje","name":"Hubaekje","from":892,"to":935,"peak":0.22,"km2":22000,"tier":2},
+  {"id":"taebong","name":"Taebong","from":911,"to":921,"peak":0.4,"km2":39000,"tier":2},
+  {"id":"goryeo-922","name":"Goryeo","from":922,"to":1259,"peak":0.97,"km2":95000,"tier":1},
+  {"id":"tamna-936","name":"Tamna","from":936,"to":1278,"peak":0.02,"km2":2000,"tier":3,"inside":true}
+],
+ "events":[
+  {"id":"Q608727","name":"Battle of Baekgang","year":663,"type":"battle","links":20,"by":"coordinates","wiki":"Battle of Baekgang"},
+  {"id":"Q710709","name":"Silla–Tang War","year":670,"type":"war","links":12,"by":"location","to":676,"wiki":"Silla–Tang War"},
+  {"id":"Q1967193","name":"Second conflict in the Goryeo–Khitan War","year":1010,"type":"war","links":12,"by":"location","to":1011,"wiki":"Second conflict in the Goryeo–Khitan War"}
+]}

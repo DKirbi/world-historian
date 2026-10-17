@@ -1,0 +1,15 @@
+{"lane": "georgia", "period": "imperialism", "years": [1839, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"russian-empire","name":"Russian Empire","from":1803,"to":1916,"peak":0.98,"km2":68000,"tier":1},
+  {"id":"russian-republic","name":"Russian Republic","from":1917,"to":1917,"peak":0.98,"km2":68000,"tier":1},
+  {"id":"georgia-1918","name":"Georgia","from":1918,"to":1921,"peak":0.97,"km2":67000,"tier":1},
+  {"id":"union-of-soviet-socialist-republics","name":"Union of Soviet Socialist Republics","from":1922,"to":1991,"peak":0.98,"km2":68000,"tier":1}
+],
+ "events":[
+  {"id":"Q130271137","name":"Battle of Qbaada","year":1864,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Qbaada"},
+  {"id":"Q2287161","name":"Treaty of Batum","year":1918,"type":"treaty","links":30,"by":"location","wiki":"Treaty of Batum"},
+  {"id":"Q1859103","name":"Georgian–Armenian War","year":1918,"type":"war","links":28,"by":"location","wiki":"Armeno-Georgian War"},
+  {"id":"Q1208479","name":"Georgian–Ossetian conflict (1918–1920)","year":1918,"type":"war","links":19,"by":"location","to":1920,"wiki":"Georgian–Ossetian conflicts of 1918-1920"},
+  {"id":"Q760629","name":"August Uprising","year":1924,"type":"rebellion","links":27,"by":"location","wiki":"August Uprising"},
+  {"id":"Q653470","name":"Battle of the Caucasus","year":1942,"type":"battle","links":29,"by":"location","to":1943,"wiki":"Battle of the Caucasus"}
+]}

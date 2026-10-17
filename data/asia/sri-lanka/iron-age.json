@@ -1,0 +1,4 @@
+{"lane": "sri-lanka", "period": "iron-age", "years": [-1300, -222], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"anuradhapura","name":"Anurādhapura","from":-291,"to":1017,"peak":1.0,"km2":65000,"tier":1}
+]}

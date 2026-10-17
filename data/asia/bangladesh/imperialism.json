@@ -1,0 +1,9 @@
+{"lane": "bangladesh", "period": "imperialism", "years": [1839, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1762,"to":1858,"peak":1.0,"km2":135000,"tier":1},
+  {"id":"british-raj","name":"British Raj","from":1859,"to":1946,"peak":1.0,"km2":135000,"tier":1}
+],
+ "events":[
+  {"id":"Q5476234","name":"fourth cholera pandemic","year":1863,"type":"pandemic","links":14,"by":"location","to":1875,"wiki":"1863–1875 cholera pandemic"},
+  {"id":"Q5447588","name":"fifth cholera pandemic","year":1881,"type":"pandemic","links":17,"by":"location","to":1896,"wiki":"1881–1896 cholera pandemic"}
+]}

@@ -1,0 +1,15 @@
+{"lane": "north-korea", "period": "classical", "years": [-221, 588], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"gojoseon","name":"Gojoseon","from":-197,"to":-92,"peak":0.56,"km2":68000,"tier":1},
+  {"id":"korean-jin","name":"Korean Jin","from":-197,"to":-92,"peak":0.07,"km2":9000,"tier":3},
+  {"id":"han-dynasty","name":"Han Dynasty","from":-91,"to":5,"peak":0.56,"km2":68000,"tier":1},
+  {"id":"dongye","name":"Dongye","from":-91,"to":391,"peak":0.09,"km2":11000,"tier":3},
+  {"id":"goguryeo","name":"Goguryeo","from":-36,"to":673,"peak":1.0,"km2":122000,"tier":1},
+  {"id":"dong-okjeo","name":"Dong-okjeo","from":-36,"to":153,"peak":0.25,"km2":31000,"tier":2},
+  {"id":"xin-dynasty","name":"Xin Dynasty","from":6,"to":22,"peak":0.42,"km2":51000,"tier":2},
+  {"id":"han-dynasty","name":"Han Dynasty","from":43,"to":206,"peak":0.41,"km2":50000,"tier":2},
+  {"id":"cao-cao","name":"Cao Cao","from":207,"to":223,"peak":0.41,"km2":50000,"tier":2},
+  {"id":"cao-wei","name":"Cao Wei","from":224,"to":264,"peak":0.41,"km2":50000,"tier":2},
+  {"id":"western-jin","name":"Western Jin","from":265,"to":312,"peak":0.41,"km2":50000,"tier":2},
+  {"id":"silla","name":"Silla","from":555,"to":681,"peak":0.14,"km2":17000,"tier":3}
+]}

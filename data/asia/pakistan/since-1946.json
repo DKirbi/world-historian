@@ -1,0 +1,15 @@
+{"lane": "pakistan", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-raj","name":"British Raj","from":1859,"to":1946,"peak":0.99,"km2":864000,"tier":1},
+  {"id":"islamic-republic-of-pakistan","name":"Islamic Republic of Pakistan","from":1947,"to":2024,"peak":0.99,"km2":863000,"tier":1}
+],
+ "events":[
+  {"id":"Q4114551","name":"1958 Pakistani coup d'état","year":1958,"type":"coup","links":13,"by":"country","wiki":"1958 Pakistani military coup"},
+  {"id":"Q1661917","name":"Indus Waters Treaty","year":1960,"type":"treaty","links":34,"by":"country","wiki":"Indus Waters Treaty"},
+  {"id":"Q233583","name":"Indo-Pakistani War of 1965","year":1965,"type":"war","links":60,"by":"location","wiki":"India–Pakistan war of 1965"},
+  {"id":"Q2352036","name":"1999 Pakistani coup d'état","year":1999,"type":"coup","links":17,"by":"location","wiki":"1999 Pakistani coup d'état"},
+  {"id":"Q179275","name":"insurgency in Khyber Pakhtunkhwa","year":2004,"type":"war","links":39,"by":"location","wiki":"Insurgency in Khyber Pakhtunkhwa"},
+  {"id":"Q1260080","name":"drone strikes in Pakistan","year":2004,"type":"war","links":13,"by":"location","wiki":"American drone strikes in Pakistan"},
+  {"id":"Q2621757","name":"Lal Masjid Siege","year":2007,"type":"siege","links":12,"by":"coordinates","wiki":"Siege of Lal Masjid"},
+  {"id":"Q114065797","name":"Mahsa Amini protests","year":2022,"type":"rebellion","links":53,"by":"location","to":2023,"wiki":"Mahsa Amini protests"}
+]}

@@ -1,0 +1,11 @@
+{"lane": "north-korea", "period": "imperialism", "years": [1839, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"joseon","name":"Joseon","from":1395,"to":1897,"peak":0.99,"km2":122000,"tier":1},
+  {"id":"korean-empire","name":"Korean Empire","from":1898,"to":1910,"peak":0.99,"km2":121000,"tier":1},
+  {"id":"empire-of-japan","name":"Empire of Japan","from":1911,"to":1945,"peak":1.0,"km2":122000,"tier":1}
+],
+ "events":[
+  {"id":"Q712464","name":"General Sherman incident","year":1866,"type":"battle","links":15,"by":"location","wiki":"General Sherman incident"},
+  {"id":"Q715791","name":"Battle of Pyongyang","year":1894,"type":"battle","links":21,"by":"coordinates","wiki":"Battle of Pyongyang (1894)"},
+  {"id":"Q2273445","name":"Battle of Yalu River","year":1904,"type":"battle","links":20,"by":"coordinates","wiki":"Battle of the Yalu River (1904)"}
+]}

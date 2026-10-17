@@ -1,0 +1,16 @@
+{"lane": "myanmar", "period": "imperialism", "years": [1839, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"burma-1820","name":"Burma","from":1820,"to":1884,"peak":0.99,"km2":654000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1825,"to":1858,"peak":0.34,"km2":228000,"tier":2,"realm":true},
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1825,"to":1852,"peak":0.09,"km2":57000,"tier":3},
+  {"id":"british-raj","name":"British Raj","from":1859,"to":1942,"peak":0.99,"km2":655000,"tier":1},
+  {"id":"empire-of-japan","name":"Empire of Japan","from":1943,"to":1944,"peak":0.98,"km2":649000,"tier":1},
+  {"id":"british-raj","name":"British Raj","from":1945,"to":1947,"peak":0.99,"km2":655000,"tier":1}
+],
+ "events":[
+  {"id":"Q233500","name":"Second Anglo-Burmese War","year":1852,"type":"war","links":27,"by":"location","wiki":"Second Anglo-Burmese War"},
+  {"id":"Q1209946","name":"Third Anglo-Burmese War","year":1885,"type":"war","links":28,"by":"location","wiki":"Third Anglo-Burmese War"},
+  {"id":"Q179975","name":"Chinese Civil War","year":1927,"type":"war","links":85,"by":"location","to":1950,"wiki":"Chinese Civil War"},
+  {"id":"Q221519","name":"Burma Campaign","year":1942,"type":"campaign","links":32,"by":"coordinates","to":1945,"wiki":"Burma campaign"},
+  {"id":"Q710000","name":"Battle of Ramree Island","year":1945,"type":"battle","links":22,"by":"coordinates","wiki":"Battle of Ramree Island"}
+]}

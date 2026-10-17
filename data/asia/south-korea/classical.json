@@ -1,0 +1,12 @@
+{"lane": "south-korea", "period": "classical", "years": [-221, 588], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"korean-jin","name":"Korean Jin","from":-197,"to":-92,"peak":0.97,"km2":95000,"tier":1},
+  {"id":"mahan","name":"Mahan","from":-91,"to":346,"peak":0.45,"km2":44000,"tier":2},
+  {"id":"jinhan","name":"Jinhan","from":-91,"to":377,"peak":0.23,"km2":22000,"tier":2},
+  {"id":"dongye","name":"Dongye","from":-91,"to":391,"peak":0.17,"km2":16000,"tier":3},
+  {"id":"byeonhan","name":"Byeonhan","from":-91,"to":566,"peak":0.12,"km2":12000,"tier":3},
+  {"id":"tamna-263","name":"Tamna","from":263,"to":681,"peak":0.02,"km2":2000,"tier":3,"inside":true},
+  {"id":"baekje","name":"Baekje","from":347,"to":660,"peak":0.45,"km2":44000,"tier":2},
+  {"id":"silla","name":"Silla","from":378,"to":681,"peak":0.65,"km2":63000,"tier":1},
+  {"id":"goguryeo","name":"Goguryeo","from":392,"to":554,"peak":0.3,"km2":29000,"tier":2}
+]}

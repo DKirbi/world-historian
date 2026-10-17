@@ -1,0 +1,17 @@
+{"lane": "kyrgyzstan", "period": "early-modern", "years": [1368, 1838], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"chagatai-khanate","name":"Chagatai Khanate","from":1294,"to":1462,"peak":1.0,"km2":199000,"tier":1},
+  {"id":"timurid-empire-1375","name":"Timurid Empire","from":1375,"to":1501,"peak":0.23,"km2":45000,"tier":2},
+  {"id":"moghulistan","name":"Moghulistan","from":1463,"to":1491,"peak":0.78,"km2":155000,"tier":1},
+  {"id":"kazakh-khanate","name":"Kazakh Khanate","from":1468,"to":1821,"peak":0.34,"km2":67000,"tier":2},
+  {"id":"eastern-chagatai-khanate","name":"Eastern Chagatai Khanate","from":1492,"to":1511,"peak":0.63,"km2":125000,"tier":1},
+  {"id":"shaybanids","name":"Shaybanids","from":1502,"to":1511,"peak":0.35,"km2":69000,"tier":2},
+  {"id":"moghulistan","name":"Moghulistan","from":1512,"to":1518,"peak":0.54,"km2":108000,"tier":1},
+  {"id":"khanate-of-bukhara","name":"Khanate of Bukhara","from":1516,"to":1787,"peak":0.35,"km2":69000,"tier":2},
+  {"id":"western-moghulistan","name":"Western Moghulistan","from":1519,"to":1635,"peak":0.54,"km2":108000,"tier":1},
+  {"id":"oirat-confederation","name":"Oirat Confederation","from":1636,"to":1676,"peak":0.59,"km2":117000,"tier":1},
+  {"id":"dzungar-khanate-1677","name":"Dzungar Khanate","from":1677,"to":1756,"peak":0.59,"km2":118000,"tier":1},
+  {"id":"khanate-of-kokand","name":"Khanate of Kokand","from":1709,"to":1876,"peak":0.89,"km2":177000,"tier":1},
+  {"id":"qing-dynasty","name":"Qing Dynasty","from":1757,"to":1821,"peak":0.59,"km2":117000,"tier":1},
+  {"id":"emirate-of-bukhara-1788","name":"Emirate of Bukhara","from":1788,"to":1867,"peak":0.06,"km2":12000,"tier":3}
+]}

@@ -1,0 +1,13 @@
+{"lane": "uzbekistan", "period": "mongol", "years": [1206, 1367], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kimek-kipchak-confederation","name":"Kimek-Kipchak confederation","from":1056,"to":1226,"peak":0.15,"km2":67000,"tier":3},
+  {"id":"kara-khitans","name":"Kara-Khitans","from":1147,"to":1215,"peak":0.66,"km2":295000,"tier":1},
+  {"id":"khwarezmid-empire","name":"Khwarezmid Empire","from":1202,"to":1226,"peak":0.77,"km2":344000,"tier":1},
+  {"id":"mongol-empire","name":"Mongol Empire","from":1220,"to":1293,"peak":1.0,"km2":448000,"tier":1},
+  {"id":"chagatai-khanate","name":"Chagatai Khanate","from":1294,"to":1351,"peak":0.68,"km2":302000,"tier":1},
+  {"id":"golden-horde","name":"Golden Horde","from":1294,"to":1362,"peak":0.32,"km2":145000,"tier":2},
+  {"id":"white-horde","name":"White Horde","from":1363,"to":1384,"peak":0.32,"km2":145000,"tier":2}
+],
+ "events":[
+  {"id":"Q110970851","name":"Siege of Bukhara (1220)","year":1220,"type":"siege","links":20,"by":"coordinates","wiki":"Siege of Bukhara"}
+]}

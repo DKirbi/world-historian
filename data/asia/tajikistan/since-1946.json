@@ -1,0 +1,8 @@
+{"lane": "tajikistan", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"union-of-soviet-socialist-republics","name":"Union of Soviet Socialist Republics","from":1922,"to":1991,"peak":0.99,"km2":141000,"tier":1},
+  {"id":"republic-of-tajikistan","name":"Republic of Tajikistan","from":1992,"to":2024,"peak":0.97,"km2":138000,"tier":1}
+],
+ "events":[
+  {"id":"Q1122110","name":"Tajikistani Civil War","year":1992,"type":"war","links":44,"by":"location","to":1997,"wiki":"Tajikistani Civil War"}
+]}

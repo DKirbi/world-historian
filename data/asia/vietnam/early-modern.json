@@ -1,0 +1,20 @@
+{"lane": "vietnam", "period": "early-modern", "years": [1368, 1838], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"khmer-empire","name":"Khmer Empire","from":806,"to":1699,"peak":0.54,"km2":177000,"tier":1},
+  {"id":"ngo-dynasty","name":"Ngô Dynasty","from":947,"to":1406,"peak":0.43,"km2":142000,"tier":2},
+  {"id":"champa","name":"Chámpa","from":1220,"to":1474,"peak":0.35,"km2":116000,"tier":2},
+  {"id":"lan-xang","name":"Lan Xang","from":1363,"to":1578,"peak":0.13,"km2":42000,"tier":3},
+  {"id":"ming-dynasty","name":"Ming Dynasty","from":1407,"to":1428,"peak":0.38,"km2":125000,"tier":2},
+  {"id":"le-dynasty","name":"Lê Dynasty","from":1429,"to":1528,"peak":0.54,"km2":177000,"tier":1},
+  {"id":"champa","name":"Chámpa","from":1475,"to":1652,"peak":0.02,"km2":7000,"tier":3,"inside":true},
+  {"id":"dai-viet","name":"Đại Việt","from":1529,"to":1594,"peak":0.54,"km2":177000,"tier":1},
+  {"id":"le-dynasty","name":"Lê Dynasty","from":1534,"to":1571,"peak":0.38,"km2":126000,"tier":2},
+  {"id":"trinh-lords","name":"Trịnh lords","from":1572,"to":1787,"peak":0.45,"km2":146000,"tier":2},
+  {"id":"nguyen-lords","name":"Nguyễn lords","from":1572,"to":1774,"peak":0.29,"km2":94000,"tier":2},
+  {"id":"lan-xang","name":"Lan Xang","from":1588,"to":1708,"peak":0.13,"km2":42000,"tier":3},
+  {"id":"dai-viet","name":"Đại Việt","from":1595,"to":1833,"peak":0.04,"km2":13000,"tier":3,"inside":true},
+  {"id":"cambodia","name":"Cambodia","from":1700,"to":1802,"peak":0.24,"km2":80000,"tier":2},
+  {"id":"kingdom-of-luang-phrabang","name":"Kingdom of Luang Phrabang","from":1709,"to":1889,"peak":0.12,"km2":38000,"tier":3},
+  {"id":"tay-son-dynasty","name":"Tây Sơn dynasty","from":1775,"to":1802,"peak":0.61,"km2":199000,"tier":1},
+  {"id":"nguyen-dynasty","name":"Nguyễn dynasty","from":1794,"to":1884,"peak":0.86,"km2":280000,"tier":1}
+]}

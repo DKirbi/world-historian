@@ -1,0 +1,7 @@
+{"lane": "laos", "period": "mongol", "years": [1206, 1367], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"khmer-empire","name":"Khmer Empire","from":806,"to":1362,"peak":0.82,"km2":187000,"tier":1},
+  {"id":"sukhothai-kingdom","name":"Sukhothai Kingdom","from":1241,"to":1362,"peak":0.4,"km2":90000,"tier":2},
+  {"id":"lan-na-kingdom","name":"Lan Na Kingdom","from":1294,"to":1362,"peak":0.12,"km2":27000,"tier":3},
+  {"id":"lan-xang","name":"Lan Xang","from":1363,"to":1578,"peak":0.98,"km2":223000,"tier":1}
+]}

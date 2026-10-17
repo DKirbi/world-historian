@@ -1,0 +1,11 @@
+{"lane": "georgia", "period": "mongol", "years": [1206, 1367], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-georgia-1010","name":"Kingdom of Georgia","from":1010,"to":1240,"peak":0.98,"km2":68000,"tier":1},
+  {"id":"mongol-empire","name":"Mongol Empire","from":1236,"to":1293,"peak":0.98,"km2":68000,"tier":1},
+  {"id":"golden-horde","name":"Golden Horde","from":1294,"to":1332,"peak":0.57,"km2":39000,"tier":1},
+  {"id":"ilkhanate","name":"Ilkhanate","from":1294,"to":1332,"peak":0.41,"km2":29000,"tier":2},
+  {"id":"kingdom-of-georgia-1333","name":"Kingdom of Georgia","from":1333,"to":1462,"peak":0.98,"km2":68000,"tier":1}
+],
+ "events":[
+  {"id":"Q4117235","name":"Berke–Hulegu war","year":1262,"type":"war","links":14,"by":"location","to":1266,"wiki":"Berke–Hulegu war"}
+]}

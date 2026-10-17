@@ -1,0 +1,11 @@
+{"lane": "taiwan", "period": "imperialism", "years": [1839, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"qing-dynasty","name":"Qing Dynasty","from":1683,"to":1894,"peak":1.0,"km2":36000,"tier":1},
+  {"id":"empire-of-japan","name":"Empire of Japan","from":1895,"to":1945,"peak":1.0,"km2":36000,"tier":1}
+],
+ "events":[
+  {"id":"Q703942","name":"Japanese invasion of Taiwan","year":1874,"type":"invasion","links":25,"by":"location","wiki":"1874 Japanese expedition to Taiwan"},
+  {"id":"Q706183","name":"Sino-French War","year":1884,"type":"war","links":37,"by":"location","to":1885,"wiki":"Sino-French War"},
+  {"id":"Q717373","name":"Japanese invasion of Taiwan","year":1895,"type":"invasion","links":21,"by":"location","wiki":"1895 Japanese invasion of Taiwan"},
+  {"id":"Q714535","name":"Musha incident","year":1930,"type":"rebellion","links":16,"by":"location","wiki":"Musha Incident"}
+]}

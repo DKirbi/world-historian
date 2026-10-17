@@ -1,0 +1,18 @@
+{"lane": "georgia", "period": "classical", "years": [-221, 588], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-armenia-326bce","name":"Kingdom of Armenia","from":-326,"to":-211,"peak":0.06,"km2":4000,"tier":3},
+  {"id":"seleucid-empire","name":"Seleucid Empire","from":-210,"to":-189,"peak":0.06,"km2":4000,"tier":3},
+  {"id":"kingdom-of-armenia-326bce","name":"Kingdom of Armenia","from":-188,"to":-64,"peak":0.06,"km2":4000,"tier":3},
+  {"id":"kingdom-of-pontus","name":"Kingdom of Pontus","from":-91,"to":-64,"peak":0.32,"km2":22000,"tier":2},
+  {"id":"caucasian-iberia","name":"Caucasian Iberia","from":-63,"to":259,"peak":0.48,"km2":34000,"tier":2},
+  {"id":"lazica","name":"Lazica","from":-63,"to":545,"peak":0.32,"km2":22000,"tier":2},
+  {"id":"caucasian-albania","name":"Caucasian Albania","from":-63,"to":259,"peak":0.17,"km2":12000,"tier":3},
+  {"id":"roman-empire","name":"Roman Empire","from":68,"to":305,"peak":0.1,"km2":7000,"tier":3},
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":260,"to":286,"peak":0.66,"km2":46000,"tier":1},
+  {"id":"caucasian-iberia","name":"Caucasian Iberia","from":287,"to":533,"peak":0.48,"km2":34000,"tier":2},
+  {"id":"caucasian-albania","name":"Caucasian Albania","from":287,"to":509,"peak":0.17,"km2":12000,"tier":3},
+  {"id":"sasanian-empire","name":"Sasanian Empire","from":510,"to":626,"peak":0.98,"km2":68000,"tier":1},
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":555,"to":566,"peak":0.32,"km2":22000,"tier":2},
+  {"id":"georgia-567","name":"Georgia","from":567,"to":576,"peak":0.31,"km2":22000,"tier":2},
+  {"id":"eastern-roman-empire","name":"Eastern Roman Empire","from":577,"to":616,"peak":0.73,"km2":51000,"tier":1}
+]}

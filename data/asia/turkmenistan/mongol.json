@@ -1,0 +1,15 @@
+{"lane": "turkmenistan", "period": "mongol", "years": [1206, 1367], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kimek-kipchak-confederation","name":"Kimek-Kipchak confederation","from":1056,"to":1226,"peak":0.05,"km2":26000,"tier":3},
+  {"id":"khwarezmid-empire","name":"Khwarezmid Empire","from":1202,"to":1226,"peak":0.93,"km2":440000,"tier":1},
+  {"id":"mongol-empire","name":"Mongol Empire","from":1227,"to":1293,"peak":0.99,"km2":465000,"tier":1},
+  {"id":"ilkhanate","name":"Ilkhanate","from":1294,"to":1343,"peak":0.68,"km2":320000,"tier":1},
+  {"id":"golden-horde","name":"Golden Horde","from":1294,"to":1362,"peak":0.24,"km2":114000,"tier":2},
+  {"id":"chagatai-khanate","name":"Chagatai Khanate","from":1294,"to":1351,"peak":0.07,"km2":32000,"tier":3},
+  {"id":"sarbadars","name":"Sarbadars","from":1344,"to":1394,"peak":0.35,"km2":167000,"tier":2},
+  {"id":"kartids","name":"Kartids","from":1344,"to":1384,"peak":0.32,"km2":152000,"tier":2},
+  {"id":"white-horde","name":"White Horde","from":1363,"to":1384,"peak":0.24,"km2":114000,"tier":2}
+],
+ "events":[
+  {"id":"Q4117235","name":"Berke–Hulegu war","year":1262,"type":"war","links":14,"by":"location","to":1266,"wiki":"Berke–Hulegu war"}
+]}

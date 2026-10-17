@@ -1,0 +1,4 @@
+{"lane": "bhutan", "period": "iron-age", "years": [-1300, -222], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"maurya-empire","name":"Maurya Empire","from":-318,"to":-226,"peak":0.29,"km2":12000,"tier":2}
+]}

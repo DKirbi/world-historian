@@ -1,0 +1,25 @@
+{"lane": "russia-east", "period": "imperialism", "years": [1839, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"qing-dynasty","name":"Qing Dynasty","from":1691,"to":1859,"peak":0.08,"km2":1060000,"tier":2},
+  {"id":"russian-empire","name":"Russian Empire","from":1721,"to":1916,"peak":0.98,"km2":12834000,"tier":1},
+  {"id":"qing-dynasty","name":"Qing Dynasty","from":1860,"to":1911,"peak":0.01,"km2":159000,"tier":2,"large":true},
+  {"id":"republic-of-uryankhay","name":"Republic of Uryankhay","from":1912,"to":1913,"peak":0.01,"km2":148000,"tier":2,"large":true},
+  {"id":"russian-republic","name":"Russian Republic","from":1917,"to":1919,"peak":0.98,"km2":12834000,"tier":1},
+  {"id":"republics-of-the-soviet-union","name":"Republics of the Soviet Union","from":1920,"to":1921,"peak":0.98,"km2":12794000,"tier":1},
+  {"id":"union-of-soviet-socialist-republics","name":"Union of Soviet Socialist Republics","from":1922,"to":1991,"peak":0.99,"km2":12881000,"tier":1},
+  {"id":"provisional-priamurye-government","name":"Provisional Priamurye Government","from":1922,"to":1923,"peak":0.03,"km2":339000,"tier":2,"large":true}
+],
+ "events":[
+  {"id":"Q815197","name":"Siege of Petropavlovsk","year":1854,"type":"siege","links":20,"by":"coordinates","wiki":"Siege of Petropavlovsk"},
+  {"id":"Q618292","name":"Treaty of Aigun","year":1858,"type":"treaty","links":40,"by":"coordinates","wiki":"Treaty of Aigun"},
+  {"id":"Q4871480","name":"Battle of Korsakov","year":1904,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Korsakov"},
+  {"id":"Q184928","name":"Russian Revolution of 1905","year":1905,"type":"revolution","links":71,"by":"location","to":1907,"wiki":"Russian Revolution of 1905"},
+  {"id":"Q4538445","name":"Japanese invasion of Sakhalin","year":1905,"type":"invasion","links":14,"by":"coordinates","wiki":"Japanese invasion of Sakhalin"},
+  {"id":"Q7318712","name":"Revolution in the Kingdom of Poland","year":1905,"type":"revolution","links":13,"by":"location","to":1907,"wiki":"Revolution in the Kingdom of Poland"},
+  {"id":"Q7837109","name":"Treaty of Kyakhta","year":1915,"type":"treaty","links":16,"by":"location","wiki":"Treaty of Kyakhta (1915)"},
+  {"id":"Q8729","name":"Russian Revolution","year":1917,"type":"revolution","links":132,"by":"location","wiki":"Russian Revolution"},
+  {"id":"Q101534","name":"February Revolution","year":1917,"type":"revolution","links":88,"by":"location","wiki":"February Revolution"},
+  {"id":"Q697579","name":"Battle of Lake Khasan","year":1938,"type":"battle","links":35,"by":"coordinates","wiki":"Battle of Lake Khasan"},
+  {"id":"Q22082249","name":"Soviet invasion of South Sakhalin","year":1945,"type":"invasion","links":15,"by":"location","wiki":"Soviet invasion of South Sakhalin"},
+  {"id":"Q14565619","name":"Battle of Shumshu","year":1945,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Shumshu"}
+]}

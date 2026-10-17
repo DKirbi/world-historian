@@ -1,0 +1,11 @@
+{"lane": "nepal", "period": "medieval", "years": [589, 1205], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"maukhari-dynasty","name":"Maukhari Dynasty","from":555,"to":611,"peak":0.2,"km2":30000,"tier":2},
+  {"id":"tibetan-empire","name":"Tibetan Empire","from":634,"to":849,"peak":0.06,"km2":9000,"tier":3},
+  {"id":"kannauj-varman-dynasty","name":"Kannauj-Varman Dynasty","from":732,"to":771,"peak":0.05,"km2":8000,"tier":3},
+  {"id":"pala-empire","name":"Pala Empire","from":788,"to":946,"peak":0.14,"km2":20000,"tier":3},
+  {"id":"tibetans","name":"Tibetans","from":850,"to":1249,"peak":0.06,"km2":9000,"tier":3},
+  {"id":"pala-empire","name":"Pala Empire","from":1000,"to":1151,"peak":0.1,"km2":14000,"tier":3},
+  {"id":"gahadavala-dynasty","name":"Gahadavala Dynasty","from":1085,"to":1201,"peak":0.14,"km2":20000,"tier":3},
+  {"id":"kathmandu","name":"Kathmandu","from":1202,"to":1761,"peak":0.0,"km2":1000,"tier":3,"inside":true}
+]}

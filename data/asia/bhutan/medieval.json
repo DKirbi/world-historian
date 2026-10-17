@@ -1,0 +1,5 @@
+{"lane": "bhutan", "period": "medieval", "years": [589, 1205], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kamarupa-kingdom","name":"Kamarupa Kingdom","from":353,"to":655,"peak":0.46,"km2":18000,"tier":2},
+  {"id":"kamarupa-kingdom","name":"Kamarupa Kingdom","from":960,"to":1138,"peak":0.77,"km2":31000,"tier":1}
+]}

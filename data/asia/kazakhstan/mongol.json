@@ -1,0 +1,11 @@
+{"lane": "kazakhstan", "period": "mongol", "years": [1206, 1367], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kimek-kipchak-confederation","name":"Kimek-Kipchak confederation","from":750,"to":1235,"peak":0.68,"km2":1857000,"tier":1},
+  {"id":"kara-khitans","name":"Kara-Khitans","from":1139,"to":1219,"peak":0.24,"km2":654000,"tier":2},
+  {"id":"khwarezmid-empire","name":"Khwarezmid Empire","from":1210,"to":1219,"peak":0.12,"km2":320000,"tier":2},
+  {"id":"mongol-empire","name":"Mongol Empire","from":1220,"to":1293,"peak":0.97,"km2":2640000,"tier":1},
+  {"id":"golden-horde","name":"Golden Horde","from":1294,"to":1362,"peak":0.8,"km2":2186000,"tier":1},
+  {"id":"chagatai-khanate","name":"Chagatai Khanate","from":1294,"to":1462,"peak":0.18,"km2":478000,"tier":2},
+  {"id":"white-horde","name":"White Horde","from":1363,"to":1384,"peak":0.69,"km2":1877000,"tier":1},
+  {"id":"blue-horde","name":"Blue Horde","from":1363,"to":1401,"peak":0.11,"km2":307000,"tier":2}
+]}

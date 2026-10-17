@@ -1,0 +1,16 @@
+{"lane": "cambodia", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"french-indochina","name":"French Indochina","from":1868,"to":1955,"peak":0.99,"km2":179000,"tier":1},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1946,"to":1955,"peak":0.99,"km2":179000,"tier":1,"realm":true},
+  {"id":"kingdom-of-cambodia","name":"Kingdom of Cambodia","from":1956,"to":1975,"peak":0.99,"km2":178000,"tier":1},
+  {"id":"khmer-rouge","name":"Khmer Rouge","from":1976,"to":1978,"peak":0.99,"km2":178000,"tier":1},
+  {"id":"people-s-republic-of-kampuchea","name":"People's Republic of Kampuchea","from":1979,"to":1995,"peak":0.99,"km2":178000,"tier":1},
+  {"id":"kingdom-of-cambodia","name":"Kingdom of Cambodia","from":1996,"to":2024,"peak":0.99,"km2":178000,"tier":1}
+],
+ "events":[
+  {"id":"Q817206","name":"Cambodian Civil War","year":1967,"type":"war","links":44,"by":"location","to":1975,"wiki":"Cambodian Civil War"},
+  {"id":"Q683271","name":"Operation Menu","year":1969,"type":"battle","links":14,"by":"country","to":1970,"wiki":"Operation Menu"},
+  {"id":"Q4919446","name":"1970 Cambodian coup d'état","year":1970,"type":"coup","links":18,"by":"country","wiki":"1970 Cambodian coup d'état"},
+  {"id":"Q85760415","name":"Fall of Phnom Penh","year":1975,"type":"battle","links":14,"by":"coordinates","wiki":"Fall of Phnom Penh"},
+  {"id":"Q635533","name":"Cambodian–Vietnamese War","year":1977,"type":"war","links":46,"by":"location","to":1991,"wiki":"Cambodian–Vietnamese War"}
+]}

@@ -1,0 +1,4 @@
+{"lane": "philippines", "period": "medieval", "years": [589, 1205], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"namayan","name":"Namayan","from":1202,"to":1571,"peak":0.0,"km2":1000,"tier":3,"inside":true}
+]}

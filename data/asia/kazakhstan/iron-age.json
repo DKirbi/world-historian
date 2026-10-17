@@ -1,0 +1,5 @@
+{"lane": "kazakhstan", "period": "iron-age", "years": [-1300, -222], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"scythia","name":"Scythia","from":-650,"to":-551,"peak":0.14,"km2":371000,"tier":2},
+  {"id":"yuezhi","name":"Yuezhi","from":-404,"to":-171,"peak":0.06,"km2":158000,"tier":2}
+]}

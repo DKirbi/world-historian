@@ -1,0 +1,10 @@
+{"lane": "turkmenistan", "period": "iron-age", "years": [-1300, -222], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"median-kingdom","name":"Median Kingdom","from":-615,"to":-551,"peak":0.26,"km2":122000,"tier":2},
+  {"id":"achaemenid-empire","name":"Achaemenid Empire","from":-550,"to":-327,"peak":0.84,"km2":395000,"tier":1},
+  {"id":"ptolemaic-kingdom","name":"Ptolemaic Kingdom","from":-326,"to":-324,"peak":0.45,"km2":212000,"tier":2},
+  {"id":"macedonian-empire","name":"Macedonian Empire","from":-323,"to":-308,"peak":0.45,"km2":212000,"tier":2},
+  {"id":"seleucid-empire","name":"Seleucid Empire","from":-307,"to":-240,"peak":0.45,"km2":212000,"tier":2},
+  {"id":"greco-bactrian-kingdom","name":"Greco-Bactrian Kingdom","from":-247,"to":-165,"peak":0.34,"km2":162000,"tier":2},
+  {"id":"parthian-empire","name":"Parthian Empire","from":-239,"to":237,"peak":0.72,"km2":338000,"tier":1}
+]}

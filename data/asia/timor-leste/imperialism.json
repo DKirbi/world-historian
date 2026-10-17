@@ -1,0 +1,7 @@
+{"lane": "timor-leste", "period": "imperialism", "years": [1839, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"portuguese-colonies","name":"Portuguese Colonies","from":1640,"to":1910,"peak":0.96,"km2":14000,"tier":1},
+  {"id":"portuguese-republic","name":"Portuguese Republic","from":1911,"to":1925,"peak":0.95,"km2":14000,"tier":1},
+  {"id":"estado-novo","name":"Estado Novo","from":1926,"to":1975,"peak":0.95,"km2":14000,"tier":1},
+  {"id":"empire-of-japan","name":"Empire of Japan","from":1943,"to":1945,"peak":0.96,"km2":14000,"tier":1}
+]}

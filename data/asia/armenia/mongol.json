@@ -1,0 +1,13 @@
+{"lane": "armenia", "period": "mongol", "years": [1206, 1367], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-georgia-1010","name":"Kingdom of Georgia","from":1126,"to":1226,"peak":1.0,"km2":30000,"tier":1},
+  {"id":"hamdanid-emirates","name":"Hamdanid Emirates","from":1227,"to":1235,"peak":1.0,"km2":30000,"tier":1},
+  {"id":"mongol-empire","name":"Mongol Empire","from":1236,"to":1293,"peak":1.0,"km2":30000,"tier":1},
+  {"id":"ilkhanate","name":"Ilkhanate","from":1294,"to":1343,"peak":1.0,"km2":30000,"tier":1},
+  {"id":"kingdom-of-georgia-1333","name":"Kingdom of Georgia","from":1333,"to":1394,"peak":0.92,"km2":27000,"tier":1},
+  {"id":"chobanids","name":"Chobanids","from":1344,"to":1362,"peak":0.09,"km2":3000,"tier":3},
+  {"id":"jalayirid-sultanate","name":"Jalayirid Sultanate","from":1363,"to":1374,"peak":0.09,"km2":3000,"tier":3}
+],
+ "events":[
+  {"id":"Q2916261","name":"Battle of Garni","year":1225,"type":"battle","links":16,"by":"coordinates","wiki":"Battle of Garni"}
+]}

@@ -1,0 +1,7 @@
+{"lane": "nepal", "period": "mongol", "years": [1206, 1367], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"tibetans","name":"Tibetans","from":850,"to":1249,"peak":0.06,"km2":9000,"tier":3},
+  {"id":"kathmandu","name":"Kathmandu","from":1202,"to":1761,"peak":0.0,"km2":1000,"tier":3,"inside":true},
+  {"id":"mongol-empire","name":"Mongol Empire","from":1250,"to":1293,"peak":0.06,"km2":9000,"tier":3},
+  {"id":"yuan-dynasty","name":"Yuan Dynasty","from":1294,"to":1362,"peak":0.06,"km2":9000,"tier":3}
+]}

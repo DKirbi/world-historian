@@ -1,0 +1,11 @@
+{"lane": "japan", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"united-states-of-america","name":"United States of America","from":1946,"to":1966,"peak":0.99,"km2":366000,"tier":1},
+  {"id":"japan","name":"Japan","from":1953,"to":2024,"peak":0.99,"km2":366000,"tier":1}
+],
+ "events":[
+  {"id":"Q485343","name":"Treaty on Basic Relations between Japan and the Republic of Korea","year":1965,"type":"treaty","links":20,"by":"country","wiki":"Treaty on Basic Relations Between Japan and the Republic of Korea"},
+  {"id":"Q446495","name":"Treaty of Peace and Friendship between Japan and the People's Republic of China","year":1978,"type":"treaty","links":13,"by":"country","wiki":"Treaty of Peace and Friendship between Japan and China"},
+  {"id":"Q6862837","name":"Minamata Convention on Mercury","year":2013,"type":"treaty","links":26,"by":"location","wiki":"Minamata Convention on Mercury"},
+  {"id":"Q1963613","name":"Nagoya Protocol","year":2014,"type":"treaty","links":30,"by":"location","wiki":"Nagoya Protocol"}
+]}

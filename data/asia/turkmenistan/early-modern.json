@@ -1,0 +1,19 @@
+{"lane": "turkmenistan", "period": "early-modern", "years": [1368, 1838], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"sarbadars","name":"Sarbadars","from":1344,"to":1394,"peak":0.35,"km2":167000,"tier":2},
+  {"id":"kartids","name":"Kartids","from":1344,"to":1384,"peak":0.32,"km2":152000,"tier":2},
+  {"id":"white-horde","name":"White Horde","from":1363,"to":1384,"peak":0.24,"km2":114000,"tier":2},
+  {"id":"timurid-empire-1375","name":"Timurid Empire","from":1375,"to":1506,"peak":0.99,"km2":465000,"tier":1},
+  {"id":"golden-horde","name":"Golden Horde","from":1385,"to":1401,"peak":0.24,"km2":114000,"tier":2},
+  {"id":"shaybanids","name":"Shaybanids","from":1507,"to":1511,"peak":0.95,"km2":449000,"tier":1},
+  {"id":"khanate-of-khiva","name":"Khanate of Khiva","from":1512,"to":1872,"peak":0.94,"km2":443000,"tier":1},
+  {"id":"safavid-dynasty","name":"Safavid Dynasty","from":1512,"to":1525,"peak":0.65,"km2":308000,"tier":1},
+  {"id":"khanate-of-bukhara","name":"Khanate of Bukhara","from":1526,"to":1528,"peak":0.68,"km2":321000,"tier":1},
+  {"id":"safavid-dynasty","name":"Safavid Dynasty","from":1529,"to":1720,"peak":0.65,"km2":308000,"tier":1},
+  {"id":"afsharid-iran","name":"Afsharid Iran","from":1738,"to":1751,"peak":0.65,"km2":307000,"tier":1},
+  {"id":"durrani-empire","name":"Durrani Empire","from":1752,"to":1799,"peak":0.32,"km2":150000,"tier":2},
+  {"id":"emirate-of-bukhara-1788","name":"Emirate of Bukhara","from":1791,"to":1821,"peak":0.26,"km2":121000,"tier":2}
+],
+ "events":[
+  {"id":"Q4132831","name":"Battle of Merv","year":1510,"type":"battle","links":12,"by":"location","wiki":"Battle of Merv"}
+]}

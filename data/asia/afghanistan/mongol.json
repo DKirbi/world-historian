@@ -1,0 +1,15 @@
+{"lane": "afghanistan", "period": "mongol", "years": [1206, 1367], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"ghurid-dynasty","name":"Ghurid Dynasty","from":1152,"to":1209,"peak":0.87,"km2":557000,"tier":1},
+  {"id":"lohara-dynasty","name":"Lohara Dynasty","from":1152,"to":1259,"peak":0.08,"km2":48000,"tier":3},
+  {"id":"khwarezmid-empire","name":"Khwarezmid Empire","from":1202,"to":1235,"peak":0.92,"km2":594000,"tier":1},
+  {"id":"hamdanid-emirates","name":"Hamdanid Emirates","from":1210,"to":1215,"peak":0.39,"km2":248000,"tier":2},
+  {"id":"hamdanid-emirates","name":"Hamdanid Emirates","from":1220,"to":1249,"peak":0.32,"km2":202000,"tier":2},
+  {"id":"mongol-empire","name":"Mongol Empire","from":1227,"to":1293,"peak":1.0,"km2":642000,"tier":1},
+  {"id":"ilkhanate","name":"Ilkhanate","from":1294,"to":1343,"peak":0.8,"km2":514000,"tier":1},
+  {"id":"chagatai-khanate","name":"Chagatai Khanate","from":1294,"to":1351,"peak":0.2,"km2":128000,"tier":2},
+  {"id":"kartids","name":"Kartids","from":1344,"to":1384,"peak":0.44,"km2":281000,"tier":2}
+],
+ "events":[
+  {"id":"Q3269746","name":"Battle of Parwan","year":1221,"type":"battle","links":18,"by":"location","wiki":"Battle of Parwan"}
+]}

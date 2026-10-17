@@ -1,0 +1,24 @@
+{"lane": "india", "period": "imperialism", "years": [1839, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1762,"to":1858,"peak":0.93,"km2":2938000,"tier":1,"realm":true},
+  {"id":"mughal-empire","name":"Mughal Empire","from":1772,"to":1856,"peak":0.11,"km2":353000,"tier":2},
+  {"id":"maratha-empire","name":"Maratha Empire","from":1820,"to":1845,"peak":0.03,"km2":83000,"tier":3,"inside":true},
+  {"id":"sikh-empire","name":"Sikh Empire","from":1834,"to":1845,"peak":0.04,"km2":141000,"tier":2,"large":true},
+  {"id":"kashmir-and-jammu-1846","name":"Kashmir and Jammu","from":1846,"to":1884,"peak":0.04,"km2":116000,"tier":2,"large":true},
+  {"id":"british-raj","name":"British Raj","from":1859,"to":1946,"peak":0.99,"km2":3129000,"tier":1}
+],
+ "events":[
+  {"id":"Q910528","name":"Battle of Mudki","year":1845,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Mudki"},
+  {"id":"Q1540820","name":"Battle of Aliwal","year":1846,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Aliwal"},
+  {"id":"Q1573825","name":"Battle of Sobraon","year":1846,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Sobraon"},
+  {"id":"Q185263","name":"Santhal rebellion","year":1855,"type":"rebellion","links":14,"by":"coordinates","wiki":"Santhal rebellion"},
+  {"id":"Q129864","name":"Indian Mutiny of 1857","year":1857,"type":"rebellion","links":82,"by":"country","to":1858,"wiki":"Indian Rebellion of 1857"},
+  {"id":"Q815165","name":"Siege of Lucknow","year":1857,"type":"siege","links":13,"by":"coordinates","wiki":"Siege of Lucknow"},
+  {"id":"Q2343263","name":"Siege of Delhi","year":1857,"type":"siege","links":13,"by":"coordinates","wiki":"Siege of Delhi (1857)"},
+  {"id":"Q627881","name":"Siege of Cawnpore","year":1857,"type":"siege","links":12,"by":"coordinates","wiki":"Siege of Cawnpore"},
+  {"id":"Q7533201","name":"sixth cholera pandemic","year":1899,"type":"pandemic","links":22,"by":"location","to":1923,"wiki":"1899–1923 cholera pandemic"},
+  {"id":"Q592550","name":"British expedition to Tibet","year":1903,"type":"invasion","links":30,"by":"coordinates","to":1904,"wiki":"British expedition to Tibet"},
+  {"id":"Q944568","name":"Malabar Rebellion","year":1921,"type":"rebellion","links":14,"by":"coordinates","wiki":"Malabar rebellion"},
+  {"id":"Q383614","name":"Battle of Kohima","year":1944,"type":"battle","links":32,"by":"coordinates","wiki":"Battle of Kohima"},
+  {"id":"Q707238","name":"Battle of Imphal","year":1944,"type":"battle","links":28,"by":"coordinates","wiki":"Battle of Imphal"}
+]}

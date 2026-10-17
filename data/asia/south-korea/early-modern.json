@@ -1,0 +1,18 @@
+{"lane": "south-korea", "period": "early-modern", "years": [1368, 1838], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"goryeo-1363","name":"Goryeo","from":1363,"to":1394,"peak":0.99,"km2":96000,"tier":1},
+  {"id":"joseon","name":"Joseon","from":1395,"to":1897,"peak":0.99,"km2":96000,"tier":1}
+],
+ "events":[
+  {"id":"Q576338","name":"Japanese invasions of Korea","year":1592,"type":"invasion","links":46,"by":"location","to":1598,"wiki":"Imjin War"},
+  {"id":"Q484256","name":"Battle of Okpo","year":1592,"type":"battle","links":15,"by":"coordinates","wiki":"Battle of Okpo"},
+  {"id":"Q497046","name":"Siege of Busan","year":1592,"type":"siege","links":15,"by":"coordinates","wiki":"Siege of Busanjin"},
+  {"id":"Q487332","name":"Battle of Hansan Island","year":1592,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Hansan Island"},
+  {"id":"Q482970","name":"Battle of Sacheon","year":1592,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Sacheon (1592)"},
+  {"id":"Q497034","name":"Battle of Sangju","year":1592,"type":"battle","links":12,"by":"location","wiki":"Battle of Sangju (1592)"},
+  {"id":"Q497348","name":"Siege of Dongnae","year":1592,"type":"siege","links":12,"by":"coordinates","wiki":"Siege of Dongnae"},
+  {"id":"Q279611","name":"Siege of Haengju","year":1593,"type":"siege","links":12,"by":"coordinates","wiki":"Battle of Haengju"},
+  {"id":"Q385677","name":"Battle of Myeongnyang","year":1597,"type":"battle","links":19,"by":"coordinates","wiki":"Battle of Myeongnyang"},
+  {"id":"Q483088","name":"Battle of Chilcheollyang","year":1597,"type":"battle","links":12,"by":"coordinates","wiki":"Battle of Chilcheollyang"},
+  {"id":"Q484271","name":"Battle of Noryang","year":1598,"type":"battle","links":18,"by":"coordinates","wiki":"Battle of Noryang"}
+]}

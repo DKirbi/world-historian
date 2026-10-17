@@ -1,0 +1,7 @@
+{"lane": "myanmar", "period": "medieval", "years": [589, 1205], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"pyu-city-states","name":"Pyu City-States","from":84,"to":1045,"peak":0.18,"km2":116000,"tier":2},
+  {"id":"pagan-kingdom","name":"Pagan Kingdom","from":850,"to":959,"peak":0.04,"km2":27000,"tier":3,"inside":true},
+  {"id":"chandra-dynasty","name":"Chandra Dynasty","from":900,"to":1055,"peak":0.06,"km2":37000,"tier":3},
+  {"id":"pagan-kingdom","name":"Pagan Kingdom","from":960,"to":1293,"peak":0.65,"km2":427000,"tier":1}
+]}

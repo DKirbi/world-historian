@@ -1,0 +1,11 @@
+{"lane": "singapore", "period": "imperialism", "years": [1839, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1820,"to":1962,"peak":0.89,"km2":400,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1820,"to":1942,"peak":0.89,"km2":400,"tier":1,"realm":true},
+  {"id":"empire-of-japan","name":"Empire of Japan","from":1943,"to":1945,"peak":0.85,"km2":400,"tier":1}
+],
+ "events":[
+  {"id":"Q4560078","name":"1915 Singapore Mutiny","year":1915,"type":"rebellion","links":15,"by":"location","wiki":"1915 Singapore Mutiny"},
+  {"id":"Q296754","name":"Battle of Singapore","year":1942,"type":"battle","links":45,"by":"coordinates","wiki":"Fall of Singapore"},
+  {"id":"Q569689","name":"Bombing of Singapore","year":1944,"type":"campaign","links":21,"by":"coordinates","to":1945,"wiki":"Bombing of Singapore (1944–1945)"}
+]}

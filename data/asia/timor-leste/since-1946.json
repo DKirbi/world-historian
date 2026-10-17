@@ -1,0 +1,9 @@
+{"lane": "timor-leste", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"estado-novo","name":"Estado Novo","from":1926,"to":1975,"peak":0.95,"km2":14000,"tier":1},
+  {"id":"republic-of-indonesia","name":"Republic of Indonesia","from":1976,"to":2005,"peak":0.96,"km2":14000,"tier":1},
+  {"id":"east-timor","name":"East Timor","from":2006,"to":2024,"peak":0.95,"km2":14000,"tier":1}
+],
+ "events":[
+  {"id":"Q2583734","name":"Indonesian invasion of East Timor","year":1975,"type":"invasion","links":24,"by":"location","to":1979,"wiki":"Indonesian invasion of East Timor"}
+]}

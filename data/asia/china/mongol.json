@@ -1,0 +1,27 @@
+{"lane": "china", "period": "mongol", "years": [1206, 1367], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"tibetans","name":"Tibetans","from":850,"to":1249,"peak":0.19,"km2":1810000,"tier":2},
+  {"id":"kingdom-of-dali","name":"Kingdom of Dali","from":947,"to":1259,"peak":0.04,"km2":357000,"tier":2,"large":true},
+  {"id":"western-xia","name":"Western Xia","from":1040,"to":1215,"peak":0.05,"km2":472000,"tier":2},
+  {"id":"great-jin","name":"Great Jin","from":1126,"to":1235,"peak":0.19,"km2":1754000,"tier":2},
+  {"id":"southern-song","name":"Southern Song","from":1139,"to":1278,"peak":0.22,"km2":2025000,"tier":2},
+  {"id":"kara-khitans","name":"Kara-Khitans","from":1139,"to":1219,"peak":0.14,"km2":1287000,"tier":2},
+  {"id":"mongol-empire","name":"Mongol Empire","from":1206,"to":1293,"peak":1.0,"km2":9338000,"tier":1},
+  {"id":"western-xia","name":"Western Xia","from":1216,"to":1226,"peak":0.01,"km2":110000,"tier":2,"large":true},
+  {"id":"tibetans","name":"Tibetans","from":1250,"to":1259,"peak":0.0,"km2":2000,"tier":3,"inside":true},
+  {"id":"yuan-dynasty","name":"Yuan Dynasty","from":1294,"to":1374,"peak":0.88,"km2":8256000,"tier":1},
+  {"id":"chagatai-khanate","name":"Chagatai Khanate","from":1294,"to":1462,"peak":0.14,"km2":1279000,"tier":2},
+  {"id":"tibet-1363","name":"Tibet","from":1363,"to":1793,"peak":0.17,"km2":1569000,"tier":2}
+],
+ "events":[
+  {"id":"Q1014253","name":"Mongol conquest of the Jin dynasty","year":1211,"type":"war","links":17,"by":"location","to":1234,"wiki":"Mongol conquest of the Jin dynasty"},
+  {"id":"Q1018947","name":"Battle of Yehuling","year":1211,"type":"battle","links":15,"by":"coordinates","wiki":"Yehuling Campaign"},
+  {"id":"Q954923","name":"Siege of Zhongdu","year":1215,"type":"siege","links":15,"by":"coordinates","wiki":"Sieges of Zhongdu"},
+  {"id":"Q15473934","name":"Siege of Kaifeng (1232)","year":1232,"type":"siege","links":12,"by":"coordinates","to":1233,"wiki":"Siege of Kaifeng (1232)"},
+  {"id":"Q6899566","name":"Mongol conquest of Tibet","year":1251,"type":"invasion","links":14,"by":"location","to":1253,"wiki":"Mongol invasions of Tibet"},
+  {"id":"Q1205096","name":"Battle of Xiangyang","year":1267,"type":"battle","links":12,"by":"coordinates","to":1273,"wiki":"Battle of Xiangyang"},
+  {"id":"Q531916","name":"First Mongol invasion of Burma","year":1277,"type":"invasion","links":18,"by":"location","to":1287,"wiki":"First Mongol invasion of Burma"},
+  {"id":"Q1078359","name":"Battle of Yamen","year":1279,"type":"battle","links":31,"by":"coordinates","wiki":"Battle of Yamen"},
+  {"id":"Q112524","name":"Red Turban Rebellion","year":1351,"type":"rebellion","links":33,"by":"location","to":1368,"wiki":"Red Turban Rebellions"},
+  {"id":"Q1291963","name":"Battle of Lake Poyang","year":1363,"type":"battle","links":18,"by":"coordinates","wiki":"Battle of Lake Poyang"}
+]}

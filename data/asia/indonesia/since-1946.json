@@ -1,0 +1,11 @@
+{"lane": "indonesia", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"republic-of-indonesia","name":"Republic of Indonesia","from":1946,"to":2024,"peak":0.96,"km2":1789000,"tier":1},
+  {"id":"dutch-east-indies","name":"Dutch East Indies","from":1946,"to":1949,"peak":0.88,"km2":1633000,"tier":1},
+  {"id":"netherlands","name":"Netherlands","from":1946,"to":1949,"peak":0.88,"km2":1633000,"tier":1,"realm":true}
+],
+ "events":[
+  {"id":"Q15562333","name":"Seventh cholera pandemic","year":1961,"type":"pandemic","links":17,"by":"location","wiki":"Seventh cholera pandemic"},
+  {"id":"Q1643006","name":"30 September Movement","year":1965,"type":"coup","links":25,"by":"country","wiki":"30 September Movement"},
+  {"id":"Q15284773","name":"Bali Package","year":2013,"type":"treaty","links":12,"by":"location","wiki":"Bali Package"}
+]}

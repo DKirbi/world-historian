@@ -1,0 +1,8 @@
+{"lane": "bangladesh", "period": "classical", "years": [-221, 588], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"maurya-empire","name":"Maurya Empire","from":-318,"to":-171,"peak":0.99,"km2":135000,"tier":1},
+  {"id":"shunga-empire","name":"Shunga Empire","from":-170,"to":-67,"peak":0.44,"km2":60000,"tier":2},
+  {"id":"kanva-dynasty","name":"Kanva Dynasty","from":-66,"to":-28,"peak":0.44,"km2":60000,"tier":2},
+  {"id":"gupta-empire","name":"Gupta Empire","from":347,"to":554,"peak":0.92,"km2":125000,"tier":1},
+  {"id":"maukhari-dynasty","name":"Maukhari Dynasty","from":555,"to":611,"peak":0.24,"km2":32000,"tier":2}
+]}

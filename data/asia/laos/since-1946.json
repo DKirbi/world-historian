@@ -1,0 +1,11 @@
+{"lane": "laos", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"french-indochina","name":"French Indochina","from":1895,"to":1955,"peak":0.96,"km2":220000,"tier":1},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1946,"to":1955,"peak":0.96,"km2":220000,"tier":1,"realm":true},
+  {"id":"kingdom-of-laos","name":"Kingdom of Laos","from":1956,"to":1975,"peak":0.96,"km2":219000,"tier":1},
+  {"id":"communist-laos","name":"Communist Laos","from":1976,"to":2024,"peak":0.96,"km2":219000,"tier":1}
+],
+ "events":[
+  {"id":"Q2095768","name":"Operation Lam Son 719","year":1971,"type":"battle","links":19,"by":"location","wiki":"Operation Lam Son 719"},
+  {"id":"Q249853","name":"Insurgency in Laos","year":1975,"type":"rebellion","links":14,"by":"country","wiki":"Insurgency in Laos"}
+]}

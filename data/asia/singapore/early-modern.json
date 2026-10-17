@@ -1,0 +1,9 @@
+{"lane": "singapore", "period": "early-modern", "years": [1368, 1838], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-singapura","name":"Kingdom of Singapura","from":1305,"to":1401,"peak":0.86,"km2":400,"tier":1},
+  {"id":"majapahit","name":"Majapahit","from":1402,"to":1474,"peak":0.85,"km2":400,"tier":1},
+  {"id":"sultanate-of-malacca","name":"Sultanate of Malacca","from":1459,"to":1528,"peak":0.88,"km2":400,"tier":1},
+  {"id":"sultanate-of-johor","name":"Sultanate of Johor","from":1529,"to":1819,"peak":0.88,"km2":400,"tier":1},
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1820,"to":1962,"peak":0.89,"km2":400,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1820,"to":1942,"peak":0.89,"km2":400,"tier":1,"realm":true}
+]}

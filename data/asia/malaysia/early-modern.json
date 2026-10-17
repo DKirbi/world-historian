@@ -1,0 +1,21 @@
+{"lane": "malaysia", "period": "early-modern", "years": [1368, 1838], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"sultanate-of-kedah","name":"Sultanate of Kedah","from":1139,"to":1821,"peak":0.03,"km2":11000,"tier":3,"inside":true},
+  {"id":"majapahit","name":"Majapahit","from":1352,"to":1474,"peak":0.37,"km2":119000,"tier":2},
+  {"id":"sultanate-of-malacca","name":"Sultanate of Malacca","from":1459,"to":1511,"peak":0.01,"km2":4000,"tier":3,"inside":true},
+  {"id":"sultanate-of-brunei-1363","name":"Sultanate of Brunei","from":1492,"to":1869,"peak":0.25,"km2":83000,"tier":2},
+  {"id":"sultanate-of-malacca","name":"Sultanate of Malacca","from":1512,"to":1639,"peak":0.29,"km2":94000,"tier":2},
+  {"id":"portuguese-empire","name":"Portuguese Empire","from":1512,"to":1528,"peak":0.07,"km2":23000,"tier":3,"realm":true},
+  {"id":"sultanate-of-johor","name":"Sultanate of Johor","from":1529,"to":1884,"peak":0.22,"km2":72000,"tier":2},
+  {"id":"sultanate-of-perak","name":"Sultanate of Perak","from":1529,"to":1876,"peak":0.07,"km2":22000,"tier":3},
+  {"id":"sultanate-of-sulu","name":"Sultanate of Sulu","from":1673,"to":1879,"peak":0.12,"km2":40000,"tier":3},
+  {"id":"sultanate-of-malacca","name":"Sultanate of Malacca","from":1691,"to":1743,"peak":0.05,"km2":18000,"tier":3},
+  {"id":"sultanate-of-terengganu","name":"Sultanate of Terengganu","from":1727,"to":1904,"peak":0.04,"km2":14000,"tier":3,"inside":true},
+  {"id":"sultanate-of-selangor","name":"Sultanate of Selangor","from":1744,"to":1876,"peak":0.03,"km2":9000,"tier":3,"inside":true},
+  {"id":"kelantan","name":"Kelantan","from":1762,"to":1904,"peak":0.03,"km2":8000,"tier":3,"inside":true},
+  {"id":"negeri-sembilan","name":"Negeri Sembilan","from":1775,"to":1894,"peak":0.02,"km2":5000,"tier":3,"inside":true}
+],
+ "events":[
+  {"id":"Q4110453","name":"Capture of Malacca","year":1511,"type":"siege","links":15,"by":"coordinates","wiki":"Capture of Malacca (1511)"},
+  {"id":"Q3263276","name":"Bruneian Civil War of 1660","year":1660,"type":"war","links":13,"by":"location","to":1673,"wiki":"Bruneian Civil War of 1660"}
+]}

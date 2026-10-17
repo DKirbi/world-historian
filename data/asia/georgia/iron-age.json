@@ -1,0 +1,7 @@
+{"lane": "georgia", "period": "iron-age", "years": [-1300, -222], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"scythia","name":"Scythia","from":-650,"to":-551,"peak":0.08,"km2":6000,"tier":3},
+  {"id":"achaemenid-empire","name":"Achaemenid Empire","from":-550,"to":-327,"peak":0.16,"km2":11000,"tier":3},
+  {"id":"kingdom-of-armenia-326bce","name":"Kingdom of Armenia","from":-326,"to":-211,"peak":0.06,"km2":4000,"tier":3},
+  {"id":"colchis","name":"Colchis","from":-301,"to":-231,"peak":0.55,"km2":38000,"tier":1}
+]}

@@ -1,0 +1,12 @@
+{"lane": "russia-east", "period": "medieval", "years": [589, 1205], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"yenisei-kyrgyz","name":"Yenisei Kyrgyz","from":555,"to":762,"peak":0.03,"km2":424000,"tier":2,"large":true},
+  {"id":"eastern-gokturks","name":"Eastern Göktürks","from":587,"to":632,"peak":0.03,"km2":416000,"tier":2,"large":true},
+  {"id":"tang-dynasty","name":"Tang Dynasty","from":633,"to":681,"peak":0.03,"km2":442000,"tier":2,"large":true},
+  {"id":"turgesh","name":"Türgesh","from":692,"to":749,"peak":0.03,"km2":442000,"tier":2,"large":true},
+  {"id":"uyghur-khaganate","name":"Uyghur Khaganate","from":750,"to":849,"peak":0.05,"km2":611000,"tier":2},
+  {"id":"yenisei-kyrgyz","name":"Yenisei Kyrgyz","from":793,"to":1219,"peak":0.03,"km2":424000,"tier":2,"large":true},
+  {"id":"balhae","name":"Balhae","from":825,"to":925,"peak":0.01,"km2":131000,"tier":2,"large":true},
+  {"id":"liao-dynasty","name":"Liao Dynasty","from":926,"to":1125,"peak":0.01,"km2":131000,"tier":2,"large":true},
+  {"id":"great-jin","name":"Great Jin","from":1126,"to":1215,"peak":0.02,"km2":263000,"tier":2,"large":true}
+]}

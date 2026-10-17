@@ -1,0 +1,12 @@
+{"lane": "north-korea", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"union-of-soviet-socialist-republics","name":"Union of Soviet Socialist Republics","from":1946,"to":1947,"peak":0.98,"km2":120000,"tier":1},
+  {"id":"democratic-people-s-republic-of-korea","name":"Democratic People's Republic of Korea","from":1948,"to":2024,"peak":0.98,"km2":121000,"tier":1}
+],
+ "events":[
+  {"id":"Q277337","name":"Battle of Changjin Reservoir","year":1950,"type":"battle","links":20,"by":"coordinates","wiki":"Battle of Chosin Reservoir"},
+  {"id":"Q2862267","name":"Korean Armistice Agreement","year":1953,"type":"treaty","links":30,"by":"coordinates","wiki":"Korean Armistice Agreement"},
+  {"id":"Q10854408","name":"August Faction Incident","year":1956,"type":"coup","links":13,"by":"country","wiki":"August faction incident"},
+  {"id":"Q10855109","name":"Kapsan Faction Incident","year":1967,"type":"coup","links":13,"by":"country","wiki":"Kapsan faction incident"},
+  {"id":"Q494058","name":"ROKS Cheonan sinking","year":2010,"type":"battle","links":17,"by":"coordinates","wiki":"Sinking of ROKS Cheonan"}
+]}

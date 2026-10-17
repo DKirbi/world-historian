@@ -1,0 +1,20 @@
+{"lane": "indonesia", "period": "medieval", "years": [589, 1205], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"tarumanagara","name":"Tarumanagara","from":367,"to":673,"peak":0.03,"km2":56000,"tier":3,"inside":true},
+  {"id":"sunda-kingdom","name":"Sunda Kingdom","from":674,"to":731,"peak":0.03,"km2":56000,"tier":3,"inside":true},
+  {"id":"galuh-kingdom-674","name":"Galuh Kingdom","from":674,"to":723,"peak":0.02,"km2":33000,"tier":3,"inside":true},
+  {"id":"srivijaya","name":"Srivijaya","from":682,"to":1293,"peak":0.16,"km2":306000,"tier":2},
+  {"id":"sunda-kingdom","name":"Sunda Kingdom","from":732,"to":740,"peak":0.06,"km2":111000,"tier":2},
+  {"id":"sunda-kingdom","name":"Sunda Kingdom","from":741,"to":1578,"peak":0.03,"km2":56000,"tier":3,"inside":true},
+  {"id":"mataram-kingdom","name":"Mataram Kingdom","from":741,"to":1009,"peak":0.03,"km2":55000,"tier":3,"inside":true},
+  {"id":"galuh-kingdom-674","name":"Galuh Kingdom","from":741,"to":824,"peak":0.02,"km2":33000,"tier":3,"inside":true},
+  {"id":"galuh-kingdom-896","name":"Galuh Kingdom","from":896,"to":1027,"peak":0.02,"km2":33000,"tier":3,"inside":true},
+  {"id":"early-balinese-kingdoms","name":"Early Balinese Kingdoms","from":922,"to":1009,"peak":0.0,"km2":5000,"tier":3,"inside":true},
+  {"id":"kahuripan","name":"Kahuripan","from":1028,"to":1045,"peak":0.04,"km2":72000,"tier":3,"inside":true},
+  {"id":"kediri-kingdom","name":"Kediri Kingdom","from":1046,"to":1226,"peak":0.04,"km2":67000,"tier":3,"inside":true},
+  {"id":"kingdom-of-janggala","name":"Kingdom of Janggala","from":1046,"to":1138,"peak":0.02,"km2":32000,"tier":3,"inside":true},
+  {"id":"early-balinese-kingdoms","name":"Early Balinese Kingdoms","from":1046,"to":1235,"peak":0.0,"km2":5000,"tier":3,"inside":true}
+],
+ "events":[
+  {"id":"Q16957926","name":"Chola invasion of Srivijaya","year":1025,"type":"invasion","links":12,"by":"location","wiki":"Chola invasion of Srivijaya"}
+]}
