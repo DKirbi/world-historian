@@ -1,0 +1,4 @@
+{"lane": "polynesian-islands", "period": "before-contact", "years": [-3400, 1520], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"tui-tonga-empire","name":"Tuʻi Tonga Empire","from":950,"to":1826,"tier":2,"extent":"unknown","cited":"wikidata","approx":true}
+]}

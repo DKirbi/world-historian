@@ -1,0 +1,23 @@
+{"region": "oceania", "note": "Automatic flags on source records that need a human check before release.",
+ "items":[
+  {"id":"tui-tonga-empire","name":"Tuʻi Tonga Empire","years":[950,1826],"severity":"info","flags":["supplement:extent-unknown","dates-approximate"]},
+  {"id":"saudeleur-dynasty","name":"Saudeleur dynasty","years":[1100,1628],"severity":"info","flags":["supplement:extent-unknown","dates-from-wikipedia","dates-approximate"]},
+  {"id":"spanish-empire","name":"Spanish Empire","years":[1516,1879],"severity":"check","flags":["multiple-wikipedia-titles"]},
+  {"id":"kingdom-of-spain-1640","name":"Kingdom of Spain","years":[1640,2024],"severity":"info","flags":["shared-wikidata:kingdom-of-spain-1516","wikipedia-title-differs:Spain","split-incarnation"]},
+  {"id":"british-colonial-empire","name":"British Colonial Empire","years":[1706,1999],"severity":"check","flags":["shared-wikidata:british-empire","wikipedia-title-differs:British Empire"]},
+  {"id":"british-empire","name":"British Empire","years":[1757,1858],"severity":"check","flags":["shared-wikidata:british-colonial-empire"]},
+  {"id":"united-states-of-america","name":"United States of America","years":[1776,2024],"severity":"info","flags":["wikipedia-title-differs:United States"]},
+  {"id":"kingdom-of-tahiti","name":"Kingdom of Tahiti","years":[1788,1880],"severity":"info","flags":["supplement:extent-unknown"]},
+  {"id":"kingdom-of-hawai-i","name":"Kingdom of Hawaï'i","years":[1791,1894],"severity":"info","flags":["wikipedia-title-differs:Hawaiian Kingdom"]},
+  {"id":"french-polynesia","name":"French Polynesia","years":[1842,2024],"severity":"info","flags":["supplement:extent-unknown"]},
+  {"id":"empire-of-japan","name":"Empire of Japan","years":[1868,1945],"severity":"check","flags":["shared-wikidata:japan"]},
+  {"id":"kingdom-of-samoa","name":"Kingdom of Samoa","years":[1873,1899],"severity":"info","flags":["supplement:extent-unknown","dates-from-wikipedia"]},
+  {"id":"republic-of-hawai-i","name":"Republic of Hawai'i","years":[1895,1897],"severity":"info","flags":["wikipedia-title-differs:Republic of Hawaii"]},
+  {"id":"german-samoa","name":"German Samoa","years":[1900,1920],"severity":"info","flags":["supplement:extent-unknown"]},
+  {"id":"kingdom-of-tonga","name":"Kingdom of Tonga","years":[1900,1970],"severity":"info","flags":["supplement:extent-unknown","placed-by:capital"]},
+  {"id":"commonwealth-of-australia","name":"Commonwealth of Australia","years":[1905,2024],"severity":"info","flags":["wikipedia-title-differs:Australia"]},
+  {"id":"western-samoa-trust-territory","name":"Western Samoa Trust Territory","years":[1920,1962],"severity":"info","flags":["supplement:extent-unknown"]},
+  {"id":"samoa","name":"Samoa","years":[1962,2024],"severity":"info","flags":["supplement:extent-unknown"]},
+  {"id":"tonga","name":"Tonga","years":[1970,2024],"severity":"info","flags":["supplement:extent-unknown","placed-by:capital"]},
+  {"id":"republic-of-fiji","name":"Republic of Fiji","years":[1973,2024],"severity":"info","flags":["wikipedia-title-differs:Fiji"]}
+]}

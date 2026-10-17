@@ -1,0 +1,7 @@
+{"lane": "new-caledonia", "period": "world-wars", "years": [1914, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"french-indochina","name":"French Indochina","from":1860,"to":1957,"peak":0.79,"km2":15000,"tier":1},
+  {"id":"french-third-republic","name":"French Third Republic","from":1871,"to":1939,"peak":0.79,"km2":15000,"tier":1,"realm":true},
+  {"id":"vichy-france","name":"Vichy France","from":1940,"to":1943,"peak":0.79,"km2":15000,"tier":1,"realm":true},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1957,"peak":0.79,"km2":15000,"tier":1,"realm":true}
+]}

@@ -1,0 +1,5 @@
+{"lane": "polynesian-islands", "period": "colonial", "years": [1788, 1913], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"tui-tonga-empire","name":"Tuʻi Tonga Empire","from":950,"to":1826,"tier":2,"extent":"unknown","cited":"wikidata","approx":true},
+  {"id":"kingdom-of-tonga","name":"Kingdom of Tonga","from":1900,"to":1970,"tier":2,"extent":"unknown","cited":"wikidata"}
+]}

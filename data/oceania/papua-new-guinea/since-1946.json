@@ -1,0 +1,7 @@
+{"lane": "papua-new-guinea", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"papua-new-guinea","name":"Papua New Guinea","from":1946,"to":2024,"peak":0.96,"km2":442000,"tier":1}
+],
+ "events":[
+  {"id":"Q10360270","name":"Bougainville conflict","year":1988,"type":"war","links":14,"by":"coordinates","to":1998,"wiki":"Bougainville conflict"}
+]}

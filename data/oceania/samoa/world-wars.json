@@ -1,0 +1,5 @@
+{"lane": "samoa", "period": "world-wars", "years": [1914, 1945], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"german-samoa","name":"German Samoa","from":1900,"to":1920,"tier":2,"extent":"unknown","cited":"wikidata"},
+  {"id":"western-samoa-trust-territory","name":"Western Samoa Trust Territory","from":1920,"to":1962,"tier":2,"extent":"unknown","cited":"wikidata"}
+]}

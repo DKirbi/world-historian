@@ -1,0 +1,10 @@
+{"lane": "micronesian-islands", "period": "colonial", "years": [1788, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"spanish-empire","name":"Spanish Empire","from":1670,"to":1872,"peak":0.15,"km2":400,"tier":3,"realm":true},
+  {"id":"kingdom-of-spain-1640","name":"Kingdom of Spain","from":1877,"to":1899,"peak":0.29,"km2":1000,"tier":2},
+  {"id":"united-states-of-america","name":"United States of America","from":1898,"to":1941,"peak":0.15,"km2":400,"tier":3},
+  {"id":"german-empire","name":"German Empire","from":1900,"to":1914,"peak":0.14,"km2":400,"tier":3}
+],
+ "events":[
+  {"id":"Q519546","name":"Nauruan Civil War","year":1878,"type":"war","links":15,"by":"location","to":1888,"wiki":"Nauruan Civil War"}
+]}

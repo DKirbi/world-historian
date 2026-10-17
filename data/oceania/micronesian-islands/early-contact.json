@@ -1,0 +1,5 @@
+{"lane": "micronesian-islands", "period": "early-contact", "years": [1521, 1787], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"saudeleur-dynasty","name":"Saudeleur dynasty","from":1100,"to":1628,"tier":2,"extent":"unknown","cited":"wikipedia","approx":true},
+  {"id":"spanish-empire","name":"Spanish Empire","from":1670,"to":1872,"peak":0.15,"km2":400,"tier":3,"realm":true}
+]}

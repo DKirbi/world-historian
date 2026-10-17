@@ -1,0 +1,7 @@
+{"lane": "french-polynesia", "period": "world-wars", "years": [1914, 1945], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"french-polynesia","name":"French Polynesia","from":1842,"to":2024,"tier":2,"extent":"unknown","cited":"wikidata"}
+],
+ "events":[
+  {"id":"Q523742","name":"Bombardment of Papeete","year":1914,"type":"battle","links":12,"by":"coordinates","wiki":"Bombardment of Papeete"}
+]}

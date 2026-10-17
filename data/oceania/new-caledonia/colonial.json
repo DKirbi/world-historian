@@ -1,0 +1,7 @@
+{"lane": "new-caledonia", "period": "colonial", "years": [1788, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"new-caledonia","name":"New Caledonia","from":1856,"to":1859,"peak":0.79,"km2":15000,"tier":1},
+  {"id":"french-indochina","name":"French Indochina","from":1860,"to":1957,"peak":0.79,"km2":15000,"tier":1},
+  {"id":"second-french-empire","name":"Second French Empire","from":1860,"to":1870,"peak":0.79,"km2":15000,"tier":1,"realm":true},
+  {"id":"french-third-republic","name":"French Third Republic","from":1871,"to":1939,"peak":0.79,"km2":15000,"tier":1,"realm":true}
+]}

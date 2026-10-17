@@ -1,0 +1,9 @@
+{"lane": "new-zealand", "period": "colonial", "years": [1788, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1853,"to":1947,"peak":0.96,"km2":257000,"tier":1,"realm":true},
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1853,"to":1957,"peak":0.96,"km2":257000,"tier":1}
+],
+ "events":[
+  {"id":"Q1192398","name":"Musket Wars","year":1807,"type":"war","links":23,"by":"location","to":1842,"wiki":"Musket Wars"},
+  {"id":"Q1545405","name":"New Zealand Wars","year":1845,"type":"war","links":26,"by":"location","to":1872,"wiki":"New Zealand Wars"}
+]}

@@ -1,0 +1,4 @@
+{"lane": "vanuatu", "period": "colonial", "years": [1788, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"new-hebrides","name":"New Hebrides","from":1890,"to":1982,"peak":0.62,"km2":7000,"tier":1}
+]}

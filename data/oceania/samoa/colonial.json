@@ -1,0 +1,5 @@
+{"lane": "samoa", "period": "colonial", "years": [1788, 1913], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"kingdom-of-samoa","name":"Kingdom of Samoa","from":1873,"to":1899,"tier":2,"extent":"unknown","cited":"wikipedia"},
+  {"id":"german-samoa","name":"German Samoa","from":1900,"to":1920,"tier":2,"extent":"unknown","cited":"wikidata"}
+]}

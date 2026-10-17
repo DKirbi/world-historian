@@ -1,0 +1,4 @@
+{"lane": "micronesian-islands", "period": "before-contact", "years": [-3400, 1520], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"saudeleur-dynasty","name":"Saudeleur dynasty","from":1100,"to":1628,"tier":2,"extent":"unknown","cited":"wikipedia","approx":true}
+]}

@@ -1,0 +1,4 @@
+{"lane": "polynesian-islands", "period": "world-wars", "years": [1914, 1945], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"kingdom-of-tonga","name":"Kingdom of Tonga","from":1900,"to":1970,"tier":2,"extent":"unknown","cited":"wikidata"}
+]}

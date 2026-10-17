@@ -1,0 +1,8 @@
+{"lane": "vanuatu", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"new-hebrides","name":"New Hebrides","from":1890,"to":1982,"peak":0.62,"km2":7000,"tier":1},
+  {"id":"vanuatu","name":"Vanuatu","from":1983,"to":2024,"peak":0.62,"km2":7000,"tier":1}
+],
+ "events":[
+  {"id":"Q3446722","name":"Coconut War","year":1980,"type":"rebellion","links":12,"by":"location","wiki":"Coconut War"}
+]}

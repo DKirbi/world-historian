@@ -1,0 +1,5 @@
+{"lane": "samoa", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"western-samoa-trust-territory","name":"Western Samoa Trust Territory","from":1920,"to":1962,"tier":2,"extent":"unknown","cited":"wikidata"},
+  {"id":"samoa","name":"Samoa","from":1962,"to":2024,"tier":2,"extent":"unknown","cited":"wikidata"}
+]}

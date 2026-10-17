@@ -1,0 +1,6 @@
+{"lane": "solomon-islands", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1895,"to":1995,"peak":0.74,"km2":19000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1946,"to":1995,"peak":0.74,"km2":19000,"tier":1,"realm":true},
+  {"id":"solomon-islands","name":"Solomon Islands","from":1979,"to":2024,"peak":0.74,"km2":19000,"tier":1}
+]}

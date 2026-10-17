@@ -1,0 +1,27 @@
+{"lane": "solomon-islands", "period": "world-wars", "years": [1914, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1895,"to":1995,"peak":0.74,"km2":19000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1895,"to":1942,"peak":0.74,"km2":19000,"tier":1,"realm":true},
+  {"id":"empire-of-japan","name":"Empire of Japan","from":1943,"to":1945,"peak":0.74,"km2":19000,"tier":1}
+],
+ "events":[
+  {"id":"Q217145","name":"Guadalcanal campaign","year":1942,"type":"campaign","links":46,"by":"coordinates","to":1943,"wiki":"Guadalcanal campaign"},
+  {"id":"Q1759161","name":"Solomon Islands Campaign","year":1942,"type":"campaign","links":33,"by":"location","to":1945,"wiki":"Solomon Islands campaign"},
+  {"id":"Q700032","name":"Battle of Savo Island","year":1942,"type":"battle","links":29,"by":"coordinates","wiki":"Battle of Savo Island"},
+  {"id":"Q696438","name":"Naval Battle of Guadalcanal","year":1942,"type":"battle","links":28,"by":"coordinates","wiki":"Naval Battle of Guadalcanal"},
+  {"id":"Q1475243","name":"Battle of Cape Esperance","year":1942,"type":"battle","links":24,"by":"coordinates","wiki":"Battle of Cape Esperance"},
+  {"id":"Q1475679","name":"Battle of Tassafaronga","year":1942,"type":"battle","links":24,"by":"coordinates","wiki":"Battle of Tassafaronga"},
+  {"id":"Q1414998","name":"Battle of the Tenaru","year":1942,"type":"battle","links":23,"by":"coordinates","wiki":"Battle of the Tenaru"},
+  {"id":"Q1754443","name":"Battle of Edson's Ridge","year":1942,"type":"battle","links":19,"by":"coordinates","wiki":"Battle of Edson's Ridge"},
+  {"id":"Q1497996","name":"Battle of Tulagi and Gavutu–Tanambogo","year":1942,"type":"battle","links":18,"by":"coordinates","wiki":"Battle of Tulagi and Gavutu–Tanambogo"},
+  {"id":"Q2277035","name":"Battle for Henderson Field","year":1942,"type":"battle","links":17,"by":"coordinates","wiki":"Battle for Henderson Field"},
+  {"id":"Q2673191","name":"Invasion of Tulagi","year":1942,"type":"invasion","links":16,"by":"coordinates","wiki":"Invasion of Tulagi (May 1942)"},
+  {"id":"Q2394315","name":"Battle of Mount Austen, the Galloping Horse, and the Sea Horse","year":1942,"type":"battle","links":13,"by":"coordinates","to":1943,"wiki":"Battle of Mount Austen, the Galloping Horse, and the Sea Horse"},
+  {"id":"Q1646284","name":"Actions along the Matanikau","year":1942,"type":"battle","links":12,"by":"coordinates","wiki":"Actions along the Matanikau"},
+  {"id":"Q2394303","name":"Koli Point action","year":1942,"type":"battle","links":12,"by":"coordinates","wiki":"Koli Point action"},
+  {"id":"Q702096","name":"Battle of Kula Gulf","year":1943,"type":"battle","links":19,"by":"coordinates","wiki":"Battle of Kula Gulf"},
+  {"id":"Q702142","name":"Battle of Vella Gulf","year":1943,"type":"battle","links":17,"by":"coordinates","wiki":"Battle of Vella Gulf"},
+  {"id":"Q515168","name":"Battle off Horaniu","year":1943,"type":"battle","links":16,"by":"coordinates","wiki":"Battle off Horaniu"},
+  {"id":"Q1668495","name":"Battle of Kolombangara","year":1943,"type":"battle","links":14,"by":"coordinates","wiki":"Battle of Kolombangara"},
+  {"id":"Q1970470","name":"New Georgia Campaign","year":1943,"type":"battle","links":14,"by":"coordinates","wiki":"New Georgia campaign"}
+]}

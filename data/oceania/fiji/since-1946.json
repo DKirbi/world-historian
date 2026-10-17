@@ -1,0 +1,10 @@
+{"lane": "fiji", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1877,"to":1995,"peak":0.86,"km2":16000,"tier":1},
+  {"id":"british-empire","name":"British Empire","from":1877,"to":1995,"peak":0.86,"km2":16000,"tier":1,"realm":true},
+  {"id":"republic-of-fiji","name":"Republic of Fiji","from":1973,"to":2024,"peak":0.86,"km2":16000,"tier":1}
+],
+ "events":[
+  {"id":"Q2998924","name":"1987 Fijian coups d'état","year":1987,"type":"coup","links":12,"by":"country","wiki":"1987 Fijian coups d'état"},
+  {"id":"Q2567468","name":"2006 Fijian coup d'état","year":2006,"type":"coup","links":13,"by":"country","wiki":"2006 Fijian coup d'état"}
+]}

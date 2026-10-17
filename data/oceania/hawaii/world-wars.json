@@ -1,0 +1,7 @@
+{"lane": "hawaii", "period": "world-wars", "years": [1914, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"united-states-of-america","name":"United States of America","from":1898,"to":2024,"peak":0.91,"km2":15000,"tier":1}
+],
+ "events":[
+  {"id":"Q52418","name":"Attack on Pearl Harbor","year":1941,"type":"battle","links":88,"by":"coordinates","wiki":"Attack on Pearl Harbor"}
+]}

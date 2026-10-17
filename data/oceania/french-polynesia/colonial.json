@@ -1,0 +1,5 @@
+{"lane": "french-polynesia", "period": "colonial", "years": [1788, 1913], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"kingdom-of-tahiti","name":"Kingdom of Tahiti","from":1788,"to":1880,"tier":2,"extent":"unknown","cited":"wikidata"},
+  {"id":"french-polynesia","name":"French Polynesia","from":1842,"to":2024,"tier":2,"extent":"unknown","cited":"wikidata"}
+]}

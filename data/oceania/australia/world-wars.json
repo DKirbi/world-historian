@@ -1,0 +1,7 @@
+{"lane": "australia", "period": "world-wars", "years": [1914, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"commonwealth-of-australia","name":"Commonwealth of Australia","from":1905,"to":2024,"peak":0.99,"km2":7636000,"tier":1}
+],
+ "events":[
+  {"id":"Q696557","name":"Bombing of Darwin","year":1942,"type":"battle","links":26,"by":"coordinates","wiki":"Bombing of Darwin"}
+]}

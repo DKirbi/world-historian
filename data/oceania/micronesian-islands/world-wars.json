@@ -1,0 +1,15 @@
+{"lane": "micronesian-islands", "period": "world-wars", "years": [1914, 1945], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"united-states-of-america","name":"United States of America","from":1898,"to":1941,"peak":0.15,"km2":400,"tier":3},
+  {"id":"german-empire","name":"German Empire","from":1900,"to":1914,"peak":0.14,"km2":400,"tier":3},
+  {"id":"empire-of-japan","name":"Empire of Japan","from":1915,"to":1944,"peak":0.29,"km2":1000,"tier":2},
+  {"id":"united-states-of-america","name":"United States of America","from":1944,"to":2024,"peak":0.29,"km2":1000,"tier":2}
+],
+ "events":[
+  {"id":"Q699897","name":"Battle of Guam","year":1941,"type":"battle","links":29,"by":"location","wiki":"Battle of Guam (1941)"},
+  {"id":"Q250309","name":"Battle of Tarawa","year":1943,"type":"battle","links":36,"by":"coordinates","wiki":"Battle of Tarawa"},
+  {"id":"Q2670873","name":"Battle of Makin","year":1943,"type":"battle","links":17,"by":"coordinates","wiki":"Battle of Makin"},
+  {"id":"Q700705","name":"Battle of Saipan","year":1944,"type":"battle","links":33,"by":"coordinates","wiki":"Battle of Saipan"},
+  {"id":"Q696900","name":"Battle of Guam","year":1944,"type":"battle","links":31,"by":"coordinates","wiki":"Battle of Guam (1944)"},
+  {"id":"Q176915","name":"Battle of Tinian","year":1944,"type":"battle","links":27,"by":"coordinates","wiki":"Battle of Tinian"}
+]}

@@ -1,0 +1,9 @@
+{"lane": "hawaii", "period": "colonial", "years": [1788, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"kingdom-of-hawai-i","name":"Kingdom of Hawaï'i","from":1791,"to":1894,"peak":0.91,"km2":15000,"tier":1},
+  {"id":"republic-of-hawai-i","name":"Republic of Hawai'i","from":1895,"to":1897,"peak":0.91,"km2":15000,"tier":1},
+  {"id":"united-states-of-america","name":"United States of America","from":1898,"to":2024,"peak":0.91,"km2":15000,"tier":1}
+],
+ "events":[
+  {"id":"Q10931943","name":"Overthrow of the Hawaiian Kingdom","year":1893,"type":"coup","links":16,"by":"location","wiki":"Overthrow of the Hawaiian Kingdom"}
+]}

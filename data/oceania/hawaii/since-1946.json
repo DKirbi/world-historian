@@ -1,0 +1,4 @@
+{"lane": "hawaii", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"united-states-of-america","name":"United States of America","from":1898,"to":2024,"peak":0.91,"km2":15000,"tier":1}
+]}

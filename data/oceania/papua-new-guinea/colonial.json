@@ -1,0 +1,6 @@
+{"lane": "papua-new-guinea", "period": "colonial", "years": [1788, 1913], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"british-empire","name":"British Empire","from":1885,"to":1942,"peak":0.96,"km2":446000,"tier":1,"realm":true},
+  {"id":"british-colonial-empire","name":"British Colonial Empire","from":1885,"to":1945,"peak":0.96,"km2":446000,"tier":1},
+  {"id":"german-empire","name":"German Empire","from":1885,"to":1914,"peak":0.5,"km2":231000,"tier":1}
+]}

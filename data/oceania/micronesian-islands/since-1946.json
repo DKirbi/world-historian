@@ -1,0 +1,6 @@
+{"lane": "micronesian-islands", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"united-states-of-america","name":"United States of America","from":1944,"to":2024,"peak":0.29,"km2":1000,"tier":2},
+  {"id":"micronesia","name":"Micronesia","from":1987,"to":2024,"peak":0.06,"km2":200,"tier":3},
+  {"id":"palau","name":"Palau","from":1996,"to":2024,"peak":0.08,"km2":200,"tier":3}
+]}

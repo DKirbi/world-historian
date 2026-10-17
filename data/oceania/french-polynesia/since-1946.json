@@ -1,0 +1,4 @@
+{"lane": "french-polynesia", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"french-polynesia","name":"French Polynesia","from":1842,"to":2024,"tier":2,"extent":"unknown","cited":"wikidata"}
+]}

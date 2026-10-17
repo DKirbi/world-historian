@@ -1,0 +1,6 @@
+{"lane": "new-caledonia", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1",
+ "spans":[
+  {"id":"french-indochina","name":"French Indochina","from":1860,"to":1957,"peak":0.79,"km2":15000,"tier":1},
+  {"id":"french-fourth-republic","name":"French Fourth Republic","from":1945,"to":1957,"peak":0.79,"km2":15000,"tier":1,"realm":true},
+  {"id":"french-fifth-republic","name":"French Fifth Republic","from":1958,"to":2024,"peak":0.79,"km2":15000,"tier":1}
+]}

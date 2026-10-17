@@ -1,0 +1,8 @@
+{"lane": "polynesian-islands", "period": "since-1946", "years": [1946, 2024], "source": "cliopatria@v0.2.1+wikidata",
+ "spans":[
+  {"id":"kingdom-of-tonga","name":"Kingdom of Tonga","from":1900,"to":1970,"tier":2,"extent":"unknown","cited":"wikidata"},
+  {"id":"tonga","name":"Tonga","from":1970,"to":2024,"tier":2,"extent":"unknown","cited":"wikidata"}
+],
+ "events":[
+  {"id":"Q1760687","name":"Treaty of Rarotonga","year":1985,"type":"treaty","links":14,"by":"coordinates","wiki":"Treaty of Rarotonga"}
+]}
