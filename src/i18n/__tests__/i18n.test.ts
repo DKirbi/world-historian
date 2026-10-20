@@ -40,6 +40,21 @@ describe('message catalogues', () => {
   it('names every region, period, area and group the data uses', () => {
     for (const r of REGIONS) expect(en).toHaveProperty(`region.${r.id}.label`);
   });
+  it('never gives two different states one Slovenian name', () => {
+    const polities = (slNames as { polities?: Record<string, string> }).polities ?? {};
+    const english = new Map<string, Set<string>>();
+    for (const r of REGIONS) {
+      const file = import.meta.glob('/data/*/_polities.json', { eager: true, import: 'default' })[`/data/${r.id}/_polities.json`] as {
+        polities: Array<{ id: string; name: string }>;
+      };
+      for (const p of file.polities) {
+        const sl = polities[p.id];
+        if (sl) (english.get(sl) ?? english.set(sl, new Set()).get(sl)!).add(p.name);
+      }
+    }
+    expect([...english.entries()].filter(([, names]) => names.size > 1)).toEqual([]);
+    expect(polities['habsburg-monarchy']).toBe('Habsburška monarhija');
+  });
   it('has a Slovenian name for every country column', () => {
     expect(Object.keys(slNames.lanes).length).toBeGreaterThanOrEqual(190);
     expect(slNames.lanes.slovenia).toBe('Slovenija');
