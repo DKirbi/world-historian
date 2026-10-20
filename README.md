@@ -109,6 +109,7 @@ Each region is bundled into its own chunk (`src/data/bundles/<region>.ts`, plus 
 These come from the source data, not the app (details in `data/README.md` and the "Source notes" under "Behind the record" in each state's story):
 - Start and end years follow Cliopatria's map snapshots and can be a few years off textbook dates.
 - Some states are modelled unusually. For example, the Kingdom of Great Britain runs to 2024, and the Holy Roman Empire splits into "Minor States" after 1259.
+- **In Slovenian**, states, events and eras without a Slovenian Wikipedia article (or a safe Wikidata label) keep their English names: about a third of states and two thirds of key events. Cited era names from "History of …" headings stay in English.
 - Records flagged "Needs review" in each region's `_review.json`: 126 Europe, 28 Americas, 4 Oceania, 65 Africa & Middle East, 124 Asia.
 - **Americas before 1500:** only a few Indigenous states are in Cliopatria. The chart adds 8 states from Wikidata and 100 dated cultures from Wikipedia's culture lists, without mapped territories, and cited eras for Eastern North America, Mesoamerica, the Antilles and the Andes. Greenland, Lower Central America, Venezuela, the Guianas and the Río de la Plata countries have no cited era before 1492.
 - **Sub-Saharan Africa before colonisation:** many states are in the source (Mali, Songhai, Kongo, Axum and others); 18 more (Great Zimbabwe, Mutapa, Benin, Buganda, Kilwa and others) are added from Wikidata without mapped territories.

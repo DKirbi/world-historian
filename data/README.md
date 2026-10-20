@@ -291,6 +291,7 @@ They read the snapshots in `sources/` (retrieved 2026-10-17: Wikidata and Period
   - `eras.py` gives eras the Wikipedia article their cited row links to (`article`, 30 eras), for the app's stories. `verify_region.py` checks that each article is a link written in the cited row itself, and that only cited eras have one.
   - A full rebuild from the pinned sources reproduced every published file byte for byte before this change; after it, only the five `_eras.json` files differ, and only by the new field. Verify reports 0 errors for all five regions.
   - `tools/fetch_names.py` snapshots names of states, events and eras in another language (`sources/names-<lang>.json`); the app's `scripts/gen-names.mjs` turns the snapshot into `src/i18n/names/<lang>.json`.
+  - `sources/names-sl.json` (retrieved 2026-10-21): Slovenian titles or Wikidata labels for 1,234 of 1,696 states, 1,529 of 4,086 key events and 13 of 27 eras with an article. After resolving names that two different records would share, the app uses 1,064 state, 1,488 event and 13 era names.
 
 - **2026-10-17, Europe eras.**
   - 79 cited eras in twelve areas (Scandinavia 7, Ireland 10, Greece 6, the Netherlands 9, France 5, Iceland 4, Switzerland 3, Russia 8, Bulgaria 6, Croatia 8, Bosnia and Herzegovina 7, Moldova 6), quoted from pinned revisions of eleven articles and the list of archaeological periods; PeriodO adds other datings for the two last Scandinavian periods. Europe now has 167 era blocks.
