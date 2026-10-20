@@ -1,6 +1,7 @@
 import { useCallback, useState } from 'react';
 import type { Lane } from '@/data/types';
-import { groupLabel } from '@/data/regions';
+import { useI18n } from '@/i18n/useI18n';
+import { groupName } from '@/i18n/regionText';
 import { useTimeline } from '@/state/store';
 import { Button } from '@/components/ui/Button';
 import { Popover } from '@/components/ui/Popover';
@@ -13,6 +14,8 @@ interface Props {
 
 /** Pick exactly which countries sit side by side. */
 export function CountryPicker({ lanes, visible }: Props) {
+  const i18n = useI18n();
+  const { t } = i18n;
   const [open, setOpen] = useState(false);
   const toggleLane = useTimeline((st) => st.toggleLane);
   const setLaneFilter = useTimeline((st) => st.setLaneFilter);
@@ -20,16 +23,13 @@ export function CountryPicker({ lanes, visible }: Props) {
   const visibleIds = visible.map((l) => l.id);
   const allIds = lanes.map((l) => l.id);
   const groups = [...new Set(lanes.map((l) => l.group))];
-  const label =
-    visible.length === lanes.length
-      ? 'All countries'
-      : `${visible.length} ${visible.length === 1 ? 'country' : 'countries'}`;
+  const label = visible.length === lanes.length ? t('countries.all') : t('countries.count', { n: visible.length });
 
   return (
     <Popover
       open={open}
       onClose={close}
-      label="Choose countries"
+      label={t('countries.choose')}
       trigger={
         <Button trailingIcon="chevron" aria-expanded={open} onClick={() => setOpen((o) => !o)}>
           {label}
@@ -38,15 +38,15 @@ export function CountryPicker({ lanes, visible }: Props) {
     >
       <div className={s.pickerHead}>
         <Button variant="quiet" onClick={() => setLaneFilter({ kind: 'all' })}>
-          Show all
+          {t('countries.showAll')}
         </Button>
         <Button variant="quiet" onClick={() => setLaneFilter({ kind: 'custom', lanes: [] })}>
-          Clear
+          {t('countries.clear')}
         </Button>
       </div>
       {groups.map((g) => (
         <fieldset key={g} className={s.pickerGroup}>
-          <legend>{groupLabel(g)}</legend>
+          <legend>{groupName(i18n, g)}</legend>
           {lanes
             .filter((l) => l.group === g)
             .map((l) => (
@@ -57,7 +57,7 @@ export function CountryPicker({ lanes, visible }: Props) {
                   checked={visibleIds.includes(l.id)}
                   onChange={() => toggleLane(l.id, allIds, visibleIds)}
                 />
-                <span>{l.label}</span>
+                <span>{i18n.lane(l)}</span>
               </label>
             ))}
         </fieldset>

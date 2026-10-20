@@ -13,10 +13,20 @@ interface Props {
   scale: TimeScale;
   viewH: number;
   charW: number;
+  /** Name of an era and of its leaders in the reader's language. */
+  nameOf: (era: Era) => string;
+  leaderName: (l: { id: string; name: string }) => string;
+  /** The era whose story is open. */
+  selectedId?: string;
+  /** Eras faded back while a story about another country is open. */
+  isDimmed: (p: PlacedEra) => boolean;
   hoveredId?: string;
   onEnter: (era: Era, e: React.PointerEvent) => void;
   onLeave: () => void;
-  onSelect: (p: PlacedEra) => void;
+  /** Select: open the era's story, told from the column under the pointer. */
+  onSelect: (p: PlacedEra, e: React.MouseEvent) => void;
+  /** Double-click: zoom one level deeper into it. */
+  onZoom: (p: PlacedEra) => void;
 }
 
 /** The Eras level: one block per culture-area period, spanning that area's columns. */
@@ -27,10 +37,15 @@ export const EraBlocks = memo(function EraBlocks({
   scale,
   viewH,
   charW,
+  nameOf,
+  leaderName,
+  selectedId,
+  isDimmed,
   hoveredId,
   onEnter,
   onLeave,
   onSelect,
+  onZoom,
 }: Props) {
   return (
     <g className={s.eras}>
@@ -54,8 +69,8 @@ export const EraBlocks = memo(function EraBlocks({
         const visTop = Math.max(top, 0);
         const visH = Math.min(bottom, viewH) - visTop;
         const maxChars = Math.floor((w - 16) / (charW * 1.12));
-        const nameLines = visH >= 18 && maxChars >= 4 ? wrapLabel(era.name, maxChars, visH >= 44 ? 2 : 1) : [];
-        const lead = era.leaders.map((l) => l.name).join(' · ');
+        const nameLines = visH >= 18 && maxChars >= 4 ? wrapLabel(nameOf(era), maxChars, visH >= 44 ? 2 : 1) : [];
+        const lead = era.leaders.map(leaderName).join(', ');
         const showLead = lead && visH >= 18 + nameLines.length * 15 + 12 && maxChars >= 8;
         const y =
           Math.min(visTop, Math.max(top, visTop + visH - (nameLines.length * 15 + (showLead ? LINE_H : 0)) - 8)) + 16;
@@ -65,11 +80,17 @@ export const EraBlocks = memo(function EraBlocks({
             className={s.era}
             data-tone={toneOf.get(era.id) ?? 1}
             data-hovered={hoveredId === era.id || undefined}
+            data-selected={selectedId === era.id || undefined}
+            data-dimmed={isDimmed(p) || undefined}
             onPointerEnter={(e) => e.pointerType === 'mouse' && onEnter(era, e)}
             onPointerLeave={onLeave}
             onClick={(e) => {
               e.stopPropagation();
-              onSelect(p);
+              onSelect(p, e);
+            }}
+            onDoubleClick={(e) => {
+              e.stopPropagation();
+              onZoom(p);
             }}
           >
             {p.slots.length === 1 ? (

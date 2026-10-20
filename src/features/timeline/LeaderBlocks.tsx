@@ -3,7 +3,6 @@ import type { Span } from '@/data/types';
 import type { Segment } from '@/lib/levels';
 import type { TimeScale } from '@/lib/time';
 import { LINE_H, wrapLabel } from '@/lib/labels';
-import type { HighlightSlot } from '@/state/store';
 import { blockColors } from './colors';
 import s from './Timeline.module.scss';
 
@@ -16,11 +15,19 @@ interface Props {
   scale: TimeScale;
   viewH: number;
   charW: number;
-  slotOf: Map<string, HighlightSlot>;
+  /** Name of a record in the reader's language. */
+  nameOf: (span: Span) => string;
+  /** The state whose story is open. */
+  selectedId: string | null;
+  /** Lanes faded back while a story about another country is open. */
+  isDimmed: (laneIndex: number, span: Span) => boolean;
   hoveredId?: string;
   onEnter: (span: Span, laneIndex: number, e: React.PointerEvent) => void;
   onLeave: () => void;
+  /** Select: open the story of this state, told from this column. */
   onSelect: (seg: Segment, laneIndex: number) => void;
+  /** Double-click: zoom one level deeper into it. */
+  onZoom: (seg: Segment, laneIndex: number) => void;
 }
 
 const overlaps = (a: Segment, from: number, to: number) => a.from <= to && from <= a.to;
@@ -38,11 +45,14 @@ export const LeaderBlocks = memo(function LeaderBlocks({
   scale,
   viewH,
   charW,
-  slotOf,
+  nameOf,
+  selectedId,
+  isDimmed,
   hoveredId,
   onEnter,
   onLeave,
   onSelect,
+  onZoom,
 }: Props) {
   const same = (j: number, seg: Segment, from = seg.from, to = seg.to) =>
     (segments[j] ?? []).some((o) => o.span.id === seg.span.id && overlaps(o, from, to));
@@ -60,7 +70,9 @@ export const LeaderBlocks = memo(function LeaderBlocks({
       const x0 = laneX + (leftSame ? 0 : 1);
       const x1 = laneX + laneW - (rightSame ? 0 : 1);
       const h = bottom - top;
-      const { fill, ink } = blockColors(span, slotOf.get(span.id));
+      const selected = selectedId === span.id;
+      const dimmed = isDimmed(j, span);
+      const { fill, ink } = blockColors(span, selected);
       const visTop = Math.max(top, 0);
       const visH = Math.min(bottom, viewH) - visTop;
       // one label per merged run: drawn by its leftmost column, as wide as the run at that height
@@ -69,7 +81,7 @@ export const LeaderBlocks = memo(function LeaderBlocks({
         let run = 1;
         while (j + run <= last + 1 && same(j + run, seg, year, year)) run += 1;
         const w = run * laneW;
-        const lines = wrapLabel(span.name, Math.floor((w - 12) / charW), Math.min(3, Math.floor((visH - 4) / LINE_H)));
+        const lines = wrapLabel(nameOf(span), Math.floor((w - 12) / charW), Math.min(3, Math.floor((visH - 4) / LINE_H)));
         const y = Math.min(visTop, visTop + visH - lines.length * LINE_H - 4) + 13;
         labels.push(
           <text
@@ -78,7 +90,8 @@ export const LeaderBlocks = memo(function LeaderBlocks({
             x={x0 + 6}
             y={y}
             style={{ fill: ink }}
-            data-strong={slotOf.has(span.id) ? '' : undefined}
+            data-strong={selected ? '' : undefined}
+            data-dimmed={dimmed || undefined}
             pointerEvents="none"
           >
             {lines.map((l, i) => (
@@ -93,11 +106,16 @@ export const LeaderBlocks = memo(function LeaderBlocks({
         <g
           key={`${j}|${span.id}|${seg.from}`}
           className={s.block}
+          data-dimmed={dimmed || undefined}
           onPointerEnter={(e) => e.pointerType === 'mouse' && onEnter(span, j, e)}
           onPointerLeave={onLeave}
           onClick={(e) => {
             e.stopPropagation();
             onSelect(seg, j);
+          }}
+          onDoubleClick={(e) => {
+            e.stopPropagation();
+            onZoom(seg, j);
           }}
         >
           <rect

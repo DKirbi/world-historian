@@ -1,12 +1,14 @@
 import type { Period, Year } from '@/data/types';
 import type { TimeScale } from '@/lib/time';
-import { formatRange } from '@/lib/format';
+import { useI18n } from '@/i18n/useI18n';
 import s from './Timeline.module.scss';
 
 interface Props {
   scale: TimeScale;
   ticks: Year[];
   periods: Period[];
+  /** Period name in the reader's language. */
+  periodName: (p: Period) => string;
   width: number;
   height: number;
   cursorYear: Year;
@@ -16,8 +18,10 @@ interface Props {
 const ERA_W = 18;
 
 /** Left gutter: named periods as vertical brackets, year ticks, and the year-marker pill. */
-export function TimeAxis({ scale, ticks, periods, width, height, cursorYear, onPeriod }: Props) {
+export function TimeAxis({ scale, ticks, periods, periodName, width, height, cursorYear, onPeriod }: Props) {
+  const { t, fmt } = useI18n();
   const cy = scale(cursorYear + 0.5);
+  const bce = fmt.eraSuffix(-1);
   return (
     <svg className={s.axis} width={width} height={height} aria-hidden="false">
       <g>
@@ -25,14 +29,15 @@ export function TimeAxis({ scale, ticks, periods, width, height, cursorYear, onP
           const y0 = Math.max(0, scale(p.years[0]));
           const y1 = Math.min(height, scale(p.years[1] + 1));
           if (y1 - y0 < 6) return null;
-          const showLabel = y1 - y0 >= p.label.length * 5.6 + 16;
+          const label = periodName(p);
+          const showLabel = y1 - y0 >= label.length * 5.6 + 16;
           return (
             <g
               key={p.id}
               className={s.era}
               role="button"
               tabIndex={0}
-              aria-label={`Zoom to ${p.label}, ${formatRange(p.years[0], p.years[1])}`}
+              aria-label={t('timeline.periodZoom', { period: label, range: fmt.range(p.years[0], p.years[1]) })}
               onClick={() => onPeriod(p)}
               onKeyDown={(e) => {
                 if (e.key === 'Enter' || e.key === ' ') {
@@ -49,7 +54,7 @@ export function TimeAxis({ scale, ticks, periods, width, height, cursorYear, onP
                   transform={`translate(${ERA_W - 7},${(y0 + y1) / 2}) rotate(-90)`}
                   textAnchor="middle"
                 >
-                  {p.label}
+                  {label}
                 </text>
               )}
             </g>
@@ -68,7 +73,7 @@ export function TimeAxis({ scale, ticks, periods, width, height, cursorYear, onP
               </text>
               {t < 0 && (
                 <text x={width - 8} y={10} textAnchor="end" className={s.tickEra}>
-                  BCE
+                  {bce}
                 </text>
               )}
             </g>
@@ -79,7 +84,7 @@ export function TimeAxis({ scale, ticks, periods, width, height, cursorYear, onP
         <g className={s.cursorPill} transform={`translate(${ERA_W + 2},${cy})`}>
           <rect x={0} y={-10} width={width - ERA_W - 2} height={20} rx={10} />
           <text x={(width - ERA_W - 2) / 2} y={4} textAnchor="middle">
-            {cursorYear < 0 ? `${-cursorYear} BCE` : cursorYear}
+            {cursorYear < 0 ? `${-cursorYear} ${bce}` : cursorYear}
           </text>
         </g>
       )}

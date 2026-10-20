@@ -1,7 +1,7 @@
 import { useMemo } from 'react';
 import type { RegionData } from '@/data/types';
-import { groupLabel, regionMeta } from '@/data/regions';
-import { formatYear } from '@/lib/format';
+import { useI18n } from '@/i18n/useI18n';
+import { groupName, regionText } from '@/i18n/regionText';
 import { selectLanes, useTimeline } from '@/state/store';
 import { useMediaQuery } from '@/lib/hooks';
 import { Button, IconButton } from '@/components/ui/Button';
@@ -14,6 +14,8 @@ import s from './FilterBar.module.scss';
 
 /** One row of controls that scope the chart below. */
 export function FilterBar({ region }: { region: RegionData }) {
+  const i18n = useI18n();
+  const { t, fmt } = i18n;
   const laneFilter = useTimeline((st) => st.laneFilter);
   const level = useTimeline((st) => st.level);
   const cursorYear = useTimeline((st) => st.cursorYear);
@@ -35,42 +37,42 @@ export function FilterBar({ region }: { region: RegionData }) {
         <PolitySearch region={region} />
         <CountryPicker lanes={region.lanes} visible={visible} />
         <SegmentedControl
-          label="Level of detail"
+          label={t('level.label')}
           value={String(level)}
           onChange={(v) => zoomTo({ type: 'level', level: Number(v) as Level })}
           options={LEVELS.map((l) => ({
             value: String(l.level),
-            label: l.label,
-            title: l.hint,
+            label: t(`level.${l.id}`),
+            title: t(`level.${l.id}.hint`),
           }))}
         />
         {hasEvents && (
           <Chip
             pressed={showEvents}
             onClick={() => setShowEvents(!showEvents)}
-            title="Battles, wars, treaties and other key events from Wikidata"
+            title={t('filters.eventsTitle')}
           >
-            {narrow ? 'Events' : 'Key events'}
+            {narrow ? t('filters.eventsShort') : t('filters.events')}
           </Chip>
         )}
-        <div className={s.zoom} role="group" aria-label="Zoom">
-          <IconButton icon="minus" label="Zoom out" onClick={() => zoomTo({ type: 'by', factor: 1 / 1.6 })} />
-          <IconButton icon="plus" label="Zoom in" onClick={() => zoomTo({ type: 'by', factor: 1.6 })} />
-          <IconButton icon="fit" label="Show all of history" onClick={() => zoomTo({ type: 'reset' })} />
+        <div className={s.zoom} role="group" aria-label={t('zoom.group')}>
+          <IconButton icon="minus" label={t('zoom.out')} onClick={() => zoomTo({ type: 'by', factor: 1 / 1.6 })} />
+          <IconButton icon="plus" label={t('zoom.in')} onClick={() => zoomTo({ type: 'by', factor: 1.6 })} />
+          <IconButton icon="fit" label={t('zoom.all')} onClick={() => zoomTo({ type: 'reset' })} />
         </div>
         <Button
           icon="list"
           className={s.listButton}
           onClick={() => openPanel({ kind: 'year' })}
-          title={`List who held each country in ${formatYear(cursorYear)}`}
-          aria-label={`${formatYear(cursorYear)} as a list`}
+          title={t('filters.yearListTitle', { year: fmt.year(cursorYear) })}
+          aria-label={t('filters.yearList', { year: fmt.year(cursorYear) })}
         >
-          {formatYear(cursorYear)} as a list
+          {t('filters.yearList', { year: fmt.year(cursorYear) })}
         </Button>
       </div>
-      <div className={s.chips} role="group" aria-label="Show a group of countries">
+      <div className={s.chips} role="group" aria-label={t('filters.groups')}>
         <Chip pressed={laneFilter.kind === 'all'} onClick={() => setLaneFilter({ kind: 'all' })}>
-          {regionMeta(region.id).allLabel}
+          {regionText(i18n, region.id).all}
         </Chip>
         {groups.map((g) => {
           const pressed = laneFilter.kind === 'group' && laneFilter.group === g;
@@ -80,7 +82,7 @@ export function FilterBar({ region }: { region: RegionData }) {
               pressed={pressed}
               onClick={() => setLaneFilter(pressed ? { kind: 'all' } : { kind: 'group', group: g })}
             >
-              {groupLabel(g)}
+              {groupName(i18n, g)}
             </Chip>
           );
         })}

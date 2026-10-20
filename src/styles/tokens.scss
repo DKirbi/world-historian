@@ -38,13 +38,14 @@
   --era-ink: #0b0b0b;
   --era-ink-2: #52514e;
 
-  /* Highlight slots, categorical 1–3 (validated all-pairs, both modes) */
-  --hl-1: #2a78d6;
-  --hl-2: #eb6834;
-  --hl-3: #1baf7a;
-  --hl-1-ink: #ffffff;
-  --hl-2-ink: #0b0b0b;
-  --hl-3-ink: #0b0b0b;
+  /* The one selection: the story being read, followed across every country (was highlight slot 1) */
+  --sel: #2a78d6;
+  --sel-ink: #ffffff;
+  /* Columns other than the story's own fade back while a story is open */
+  --dim: 0.42;
+  /* "+N" blocks: several small states gathered where they would be too narrow to tap */
+  --stack: #d6d2c6;
+  --stack-edge: #6f6a5e;
 
   --focus: #2a78d6;
   --cursor: #0b0b0b;
@@ -53,6 +54,9 @@
   /* Type */
   --font-ui: 'IBM Plex Sans Condensed', 'Roboto Condensed', 'Arial Narrow', system-ui, sans-serif;
   --font-display: 'IBM Plex Serif', Georgia, 'Times New Roman', serif;
+  /* Stories: Caslon, a face of the printing-press era, for a newspaper page */
+  --font-story: 'Libre Caslon Text', 'Iowan Old Style', Georgia, 'Times New Roman', serif;
+  --font-headline: 'Libre Caslon Display', 'Libre Caslon Text', 'Iowan Old Style', Georgia, serif;
   --fs-xs: 0.6875rem; /* 11 */
   --fs-sm: 0.8125rem; /* 13 */
   --fs-md: 0.9375rem; /* 15 */
@@ -102,12 +106,11 @@
   --era-ink: #f0efec;
   --era-ink-2: #c3c2b7;
 
-  --hl-1: #3987e5;
-  --hl-2: #d95926;
-  --hl-3: #199e70;
-  --hl-1-ink: #0b0b0b;
-  --hl-2-ink: #0b0b0b;
-  --hl-3-ink: #0b0b0b;
+  --sel: #3987e5;
+  --sel-ink: #0b0b0b;
+  --dim: 0.38;
+  --stack: #3a3833;
+  --stack-edge: #a29c8e;
 
   --focus: #3987e5;
   --cursor: #f0efec;

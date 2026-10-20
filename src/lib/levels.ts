@@ -10,31 +10,12 @@ import type { Era, Span, Year } from '@/data/types';
  */
 export type Level = 1 | 2 | 3 | 4;
 
-export const LEVELS: ReadonlyArray<{
-  level: Level;
-  id: string;
-  label: string;
-  hint: string;
-}> = [
-  { level: 1, id: 'eras', label: 'Eras', hint: 'Periods of each culture area' },
-  {
-    level: 2,
-    id: 'empires',
-    label: 'Empires',
-    hint: 'The leading state or culture of each country',
-  },
-  {
-    level: 3,
-    id: 'states',
-    label: 'States',
-    hint: 'The major states of each country',
-  },
-  {
-    level: 4,
-    id: 'detail',
-    label: 'Detail',
-    hint: 'Every state, culture and key event',
-  },
+/** The four levels in order; their names and hints are in the message catalogues (`level.<id>`). */
+export const LEVELS: ReadonlyArray<{ level: Level; id: 'eras' | 'empires' | 'states' | 'detail' }> = [
+  { level: 1, id: 'eras' },
+  { level: 2, id: 'empires' },
+  { level: 3, id: 'states' },
+  { level: 4, id: 'detail' },
 ];
 
 /** Visible years at which the level changes: more than 1,500 years is Eras, 450–1,500 Empires… */

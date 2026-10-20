@@ -2,28 +2,33 @@ import { create } from 'zustand';
 import type { Lane, Year } from '@/data/types';
 import { REGIONS } from '@/data/regions';
 import type { Level } from '@/lib/levels';
+import { detectLocale, rememberLocale, type Locale } from '@/i18n/locales';
+import { decodeHash, encodeHash, type StoryRef } from './url';
+
+export type { StoryRef } from './url';
 
 export type LaneFilter = { kind: 'all' } | { kind: 'group'; group: string } | { kind: 'custom'; lanes: string[] };
 
-export type Panel =
-  | { kind: 'none' }
-  | { kind: 'polity'; id: string }
-  | { kind: 'event'; id: string }
-  | { kind: 'year' }
-  | { kind: 'sources' };
+/** Utility panels that share the drawer with stories. */
+export type Panel = { kind: 'none' } | { kind: 'year' } | { kind: 'sources' };
 
 export type Theme = 'system' | 'light' | 'dark';
-export type HighlightSlot = 1 | 2 | 3;
-export interface Highlight {
-  id: string;
-  slot: HighlightSlot;
-}
 
 export type ZoomCommand =
   | { type: 'years'; years: [Year, Year]; laneId?: string }
   | { type: 'by'; factor: number }
   | { type: 'level'; level: Level }
   | { type: 'reset' };
+
+export interface DrawerState {
+  /** Width of the side view, px. */
+  width: number;
+  /** Reading at the full width of the chart area. */
+  full: boolean;
+}
+
+/** How a story change reaches the address bar: a new history entry, a replaced one, or none (already there). */
+type HistoryMode = 'push' | 'replace' | 'none';
 
 interface TimelineState {
   regionId: string;
@@ -33,36 +38,33 @@ interface TimelineState {
   /** Key-event markers on the chart. */
   showEvents: boolean;
   cursorYear: Year;
-  /** Up to three polities painted in highlight colours. A slot stays with its polity until removed. */
-  highlights: Highlight[];
+  /**
+   * The one thing being read. Selecting a block opens its story; selecting another replaces it.
+   * The story's state is followed across every country on the chart; closing the story clears it.
+   */
+  story: StoryRef | null;
+  /** Bumped whenever a story is opened, so the chart re-focuses its country even for the same story. */
+  storyNonce: number;
   panel: Panel;
+  drawer: DrawerState;
   theme: Theme;
+  locale: Locale;
   zoom: (ZoomCommand & { nonce: number }) | null;
 
-  setRegion: (id: string) => void;
+  setRegion: (id: string, history?: HistoryMode) => void;
   setLaneFilter: (f: LaneFilter) => void;
   toggleLane: (laneId: string, allLaneIds: string[], visibleIds: string[]) => void;
   setLevel: (l: Level) => void;
   setShowEvents: (on: boolean) => void;
   setCursorYear: (y: Year) => void;
-  selectPolity: (id: string) => void;
-  toggleHighlight: (id: string) => void;
-  removeHighlight: (id: string) => void;
+  openStory: (ref: StoryRef, history?: HistoryMode) => void;
+  closeStory: (history?: HistoryMode) => void;
   openPanel: (p: Panel) => void;
   closePanel: () => void;
+  setDrawer: (d: Partial<DrawerState>) => void;
   setTheme: (t: Theme) => void;
+  setLocale: (l: Locale) => void;
   zoomTo: (cmd: ZoomCommand) => void;
-}
-
-const SLOTS: HighlightSlot[] = [1, 2, 3];
-
-function withHighlight(list: Highlight[], id: string): Highlight[] {
-  if (list.some((h) => h.id === id)) return list;
-  const used = new Set(list.map((h) => h.slot));
-  const free = SLOTS.find((s) => !used.has(s));
-  if (free) return [...list, { id, slot: free }];
-  const [oldest, ...rest] = list; // all slots taken: the oldest gives up its colour
-  return [...rest, { id, slot: oldest.slot }];
 }
 
 const readTheme = (): Theme => {
@@ -74,39 +76,65 @@ const readTheme = (): Theme => {
   }
 };
 
-/** A bare #region anchor (e.g. #americas) opens that region. */
-const readRegion = (): string => {
+export const DRAWER_MIN = 360;
+export const DRAWER_DEFAULT = 520;
+const readDrawerWidth = (): number => {
   try {
-    const id = window.location.hash.replace(/^#/, '');
-    return REGIONS.some((r) => r.id === id && r.available) ? id : 'europe';
+    const w = Number(localStorage.getItem('wht-drawer-w'));
+    return Number.isFinite(w) && w >= DRAWER_MIN ? w : DRAWER_DEFAULT;
   } catch {
-    return 'europe';
+    return DRAWER_DEFAULT;
   }
 };
 
+const available = (id: string) => REGIONS.some((r) => r.id === id && r.available);
+
+/** The address the app opened with: #region, or #region/kind/id[/lane] for a story. */
+const initial = (() => {
+  try {
+    const parsed = decodeHash(window.location.hash);
+    if (parsed && available(parsed.regionId)) return parsed;
+  } catch {
+    /* no window */
+  }
+  return { regionId: 'europe', story: null as StoryRef | null };
+})();
+
+function writeHash(regionId: string, story: StoryRef | null, mode: HistoryMode) {
+  if (mode === 'none') return;
+  try {
+    const hash = encodeHash(regionId, story);
+    if (window.location.hash === hash) return;
+    const url = `${window.location.pathname}${window.location.search}${hash}`;
+    if (mode === 'push') window.history.pushState(null, '', url);
+    else window.history.replaceState(null, '', url);
+  } catch {
+    /* some embedded viewers block history updates; the app still works without the address */
+  }
+}
+
 let nonce = 0;
 
-export const useTimeline = create<TimelineState>((set) => ({
-  regionId: readRegion(),
+export const useTimeline = create<TimelineState>((set, get) => ({
+  regionId: initial.regionId,
   laneFilter: { kind: 'all' },
   level: 1,
   showEvents: true,
   cursorYear: 1500,
-  highlights: [],
+  story: initial.story,
+  storyNonce: initial.story ? 1 : 0,
   panel: { kind: 'none' },
+  drawer: { width: readDrawerWidth(), full: false },
   theme: readTheme(),
+  locale: detectLocale(),
   zoom: null,
 
-  setRegion: (regionId) => {
-    try {
-      window.history.replaceState(null, '', `#${regionId}`);
-    } catch {
-      /* some embedded viewers block history updates; the region still switches */
-    }
+  setRegion: (regionId, history = 'replace') => {
+    writeHash(regionId, null, history);
     set({
       regionId,
       laneFilter: { kind: 'all' },
-      highlights: [],
+      story: null,
       panel: { kind: 'none' },
     });
   },
@@ -122,20 +150,31 @@ export const useTimeline = create<TimelineState>((set) => ({
   setLevel: (level) => set({ level }),
   setShowEvents: (showEvents) => set({ showEvents }),
   setCursorYear: (cursorYear) => set({ cursorYear }),
-  selectPolity: (id) =>
-    set((s) => ({
-      panel: { kind: 'polity', id },
-      highlights: withHighlight(s.highlights, id),
-    })),
-  toggleHighlight: (id) =>
-    set((s) => ({
-      highlights: s.highlights.some((h) => h.id === id)
-        ? s.highlights.filter((h) => h.id !== id)
-        : withHighlight(s.highlights, id),
-    })),
-  removeHighlight: (id) => set((s) => ({ highlights: s.highlights.filter((h) => h.id !== id) })),
-  openPanel: (panel) => set({ panel }),
+  openStory: (story, history = 'push') => {
+    writeHash(get().regionId, story, history);
+    set((s) => ({ story, storyNonce: s.storyNonce + 1, panel: { kind: 'none' } }));
+  },
+  closeStory: (history = 'push') => {
+    if (!get().story) return;
+    writeHash(get().regionId, null, history);
+    set({ story: null, drawer: { ...get().drawer, full: false } });
+  },
+  openPanel: (panel) => {
+    if (get().story) writeHash(get().regionId, null, 'push');
+    set({ panel, story: null });
+  },
   closePanel: () => set({ panel: { kind: 'none' } }),
+  setDrawer: (d) => {
+    const drawer = { ...get().drawer, ...d };
+    if (d.width !== undefined) {
+      try {
+        localStorage.setItem('wht-drawer-w', String(Math.round(drawer.width)));
+      } catch {
+        /* storage unavailable: the width lasts for this visit */
+      }
+    }
+    set({ drawer });
+  },
   setTheme: (theme) => {
     try {
       if (theme === 'system') localStorage.removeItem('wht-theme');
@@ -145,8 +184,22 @@ export const useTimeline = create<TimelineState>((set) => ({
     }
     set({ theme });
   },
+  setLocale: (locale) => {
+    rememberLocale(locale);
+    set({ locale });
+  },
   zoomTo: (cmd) => set({ zoom: { ...cmd, nonce: ++nonce } }),
 }));
+
+/** Apply the address after back/forward or an edited link, without writing it again. */
+export function applyHash(hash: string) {
+  const parsed = decodeHash(hash);
+  if (!parsed || !available(parsed.regionId)) return;
+  const st = useTimeline.getState();
+  if (parsed.regionId !== st.regionId) st.setRegion(parsed.regionId, 'none');
+  if (parsed.story) useTimeline.getState().openStory(parsed.story, 'none');
+  else useTimeline.getState().closeStory('none');
+}
 
 /** Lanes shown for the current filter, in chart order. */
 export function selectLanes(lanes: Lane[], filter: LaneFilter): Lane[] {
@@ -155,3 +208,6 @@ export function selectLanes(lanes: Lane[], filter: LaneFilter): Lane[] {
   const keep = new Set(filter.lanes);
   return lanes.filter((l) => keep.has(l.id));
 }
+
+/** Id of the polity a story follows across the chart, if any. */
+export const followedPolity = (story: StoryRef | null) => (story?.kind === 'polity' ? story.id : null);
