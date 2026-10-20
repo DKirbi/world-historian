@@ -42,6 +42,8 @@ sources/
   periodo-eras.json          PeriodO definitions of the same periods, for cross-checking (CC0), keyed region|area|page|row
   cultures-<region>.json     rules for turning the culture lists into records (classes, exclusions, place aliases)
   wikipedia-cultures.json    the culture lists' rows, their Wikidata items and article leads (CC BY-SA 4.0 / CC0)
+  names-<lang>.json          names of states, events and eras in another language: the English article's language
+                             link, else the Wikidata label (CC BY-SA 4.0 / CC0); read by scripts/gen-names.mjs
 tools/build_region.py    python3 build_region.py <region> <cliopatria.geojson> <ne_countries.geojson> <out_dir>
 tools/enrich.py          the cited layers (link check, added states, events), used by build_region.py
 tools/cultures.py        cultures from the Wikipedia lists; tools/eras.py the Eras level
@@ -49,6 +51,7 @@ tools/wikipedia.py, wikitext.py, fetch_eras.py, fetch_cultures.py, fetch_periodo
 tools/verify_region.py   independent checks against the raw sources and snapshots
 tools/audit_coverage.py  world coverage audit; tools/audit_events.py adds the events section
 tools/wikidata.py, fetch_*.py, wdcheck.py   snapshot fetchers and the link check
+tools/fetch_names.py     python3 fetch_names.py <data_dir> <lang>: the names snapshot for the app's translations
 ```
 
 Regions: `europe`, `americas`, `oceania`, `africa-middle-east`, `asia`.
@@ -145,6 +148,7 @@ The bins are for loading and navigation only.
 | `lanes` | the columns the block spans; non-adjacent columns are drawn as separate blocks |
 | `leaders` | names shown under the era: the records the cited row names (`leadersBy: "source"`), else those most present in the data (`"data"`) |
 | `cite` | the Wikipedia row, quoted, with a link to the revision read; absent for period bins (`basis: "period-bin"`) |
+| `article` | the period's own Wikipedia article, `{title, section?}`, read from the wikilink in its cited row (see **Cited layers**, Eras); absent when the row links none, or links an example rather than the period |
 | `periodo` | PeriodO definitions of the same period for the same countries, when there are any |
 | `clippedFrom` | the source's start year when it lies before the chart's 3400 BCE |
 
@@ -201,6 +205,7 @@ They read the snapshots in `sources/` (retrieved 2026-10-17: Wikidata and Period
    - Oceania, continued: Polynesia, Melanesia and Micronesia have no sourced periodization yet: the periods the Tonga and Pohnpei articles give belong to those islands, not to the chart's combined columns, so those columns use the period bins.
    - Europe: twelve areas. Scandinavia (Denmark, Norway, Sweden) from the Northern Europe row of the list of archaeological periods (Nordic Bronze Age, c. 1700 BCE, to Post-medieval, to c. 1800; the row names no countries, so those three columns are an editorial choice). Eleven single columns from the dated section headings of their *History of …* article: Ireland (prehistory to the present), Greece (from the Neolithic to the present; the article's sections between the Fourth Crusade, 1204, and the 15th century carry no date range, so that stretch stays blank), the Netherlands (Roman era to 1839), France (Frankish kingdoms to 1815), Iceland, Switzerland (from 1300), Russia, Bulgaria (from 681), Croatia (from 800), Bosnia and Herzegovina (from 1463) and Moldova (from 1346). The articles' own overlaps are drawn as written (Russia: Kievan Rus' to 1240, the Mongol period from 1223, Moscow from 1283; Moldova: Moldavia to 1862, Bessarabia from 1812). A century heading ("15th century – 1821") is read as the whole century and marked approximate. Not sourced yet: Iberia (the headings give overlapping centuries, or modern dates only), Italy and Germany (modern dates only), Austria (headings follow reigns and wars), Poland (its Commonwealth heading is undated), Hungary (gaps of centuries), the United Kingdom, Turkey, Cyprus, Malta, Finland, the Baltic states, Belarus, Ukraine, the other Balkan and central European countries and the small states (undated headings, or none): they keep the region's period bins.
    - Everywhere else, and after an area's last period, each lane group gets the region's period bins, kept only where the data records some state or culture. An area whose source starts late sets `"binsBefore": true` in its config, and the bins then fill the years before its first period too (Europe's countries; not when the leftover would be shorter than 25 years, as in France between 476 and 486). In the Americas the bins start at 1492, because the earlier ones are Mesoamerican names.
+   - The era's own article (`article`): the first wikilink of its cited row, kept only when the link is about the period, that is when its title shares a significant word with the era's name ("Old Kingdom" → *Old Kingdom of Egypt*; "Early Woodland" → *Woodland period*, section "Early Woodland period (1000–1 BCE)"), or starts with the name ("Late Period" → *Late Period of Egypt*). A row that links "Bronze Age" to *Nubia* or "Iron Age" to *Ghana Empire* points at an example, so no article is given. 30 eras have one. Eras whose row is a heading of a "History of …" article get no `article`; the app reads that heading's section instead.
    - Names under an era: the cultures its cited row lists, when the chart has them (matched by Wikidata item); otherwise the records with the most lane-years, weighted by tier and by Wikipedia language editions. After 1492 the rows list Indigenous peoples under colonial rule, so the names come from the data.
    - PeriodO (`sources/periodo-eras.json`) adds other scholarly datings of the same period where it has them (for example the Oxford Handbook of Mesoamerican Archaeology's Late Postclassic, 1400–1521).
 5. **Cultures of the Americas** (`tools/cultures.py`, rules in `sources/cultures-americas.json`). The index is every linked culture in Wikipedia's list of pre-Columbian cultures, the table of North American archaeological periods and the periodization of pre-Columbian Peru.
@@ -281,6 +286,11 @@ They read the snapshots in `sources/` (retrieved 2026-10-17: Wikidata and Period
 - Post-1945 occupation zones appear as the occupying power.
 
 ## Changes
+
+- **2026-10-21, era articles and names in other languages.**
+  - `eras.py` gives eras the Wikipedia article their cited row links to (`article`, 30 eras), for the app's stories. `verify_region.py` checks that each article is a link written in the cited row itself, and that only cited eras have one.
+  - A full rebuild from the pinned sources reproduced every published file byte for byte before this change; after it, only the five `_eras.json` files differ, and only by the new field. Verify reports 0 errors for all five regions.
+  - `tools/fetch_names.py` snapshots names of states, events and eras in another language (`sources/names-<lang>.json`); the app's `scripts/gen-names.mjs` turns the snapshot into `src/i18n/names/<lang>.json`.
 
 - **2026-10-17, Europe eras.**
   - 79 cited eras in twelve areas (Scandinavia 7, Ireland 10, Greece 6, the Netherlands 9, France 5, Iceland 4, Switzerland 3, Russia 8, Bulgaria 6, Croatia 8, Bosnia and Herzegovina 7, Moldova 6), quoted from pinned revisions of eleven articles and the list of archaeological periods; PeriodO adds other datings for the two last Scandinavian periods. Europe now has 167 era blocks.
@@ -368,4 +378,5 @@ python3 tools/fetch_periodo.py sources/ $N  # PeriodO cross-check (downloads dat
 The build is deterministic: rebuilding in a fresh environment reproduced the previously published files byte for byte before this round of changes. The verify step reports 0 errors for all five regions. It checks:
 - every file parses, every span resolves to a polity and sits inside its period, and every tier matches the rule;
 - every polity matches raw Cliopatria rows;
+- every era `article` is a link written in its cited row;
 - the share and area of 40 random spans per region, recomputed by a separate code path.
