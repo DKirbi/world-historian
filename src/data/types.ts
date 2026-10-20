@@ -135,6 +135,8 @@ export interface Era {
   /** source: the records the cited row names; data: computed from the chart's spans. */
   leadersBy: 'source' | 'data' | null;
   cite?: Cite;
+  /** The period's own Wikipedia article, read from the link in its cited row (a section when given). */
+  article?: { title: string; section?: string };
   basis?: 'period-bin';
   approx?: boolean;
   clippedFrom?: Year;
