@@ -1491,7 +1491,7 @@
   "Q1361929": "Konfrontacija med Indonezijo in Malezijo",
   "Q1363925": "Napad na Port Artur",
   "Q1364346": "Bitka pri Bailénu",
-  "Q1366688": "Čezpacifiško strateško gospodarsko partnerstvo",
+  "Q1366688": "Transpacifiško partnerstvo",
   "Q1367199": "Bitka pri Strasbourgu",
   "Q1368240": "Vojne za škotsko neodvisnost",
   "Q1368440": "Perzijska ustavna revolucija",
@@ -2763,5 +2763,11 @@
   "scandinavia-medieval-period": "Srednji vek",
   "scandinavia-viking-age": "Vikinška doba"
  },
- "retrieved": "2026-10-21"
+ "retrieved": "2026-10-21",
+ "overrides": {
+  "_note": "Corrections to the snapshot names, applied by scripts/gen-names.mjs. Each says what it fixes.",
+  "events": {
+   "Q1366688": "Transpacifiško partnerstvo"
+  }
+ }
 }

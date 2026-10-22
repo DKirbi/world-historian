@@ -89,6 +89,11 @@ function names(records, english) {
 const p = names(snap.polities, polities);
 const e = names(snap.events, events);
 const r = names(snap.eras ?? {}, eras);
+// Hand corrections, kept in the names file under "overrides" so a rebuild keeps them: a Wikidata label
+// that names the wrong thing (the 2016 Trans-Pacific Partnership labelled as its 2005 predecessor).
+const over = out.overrides ?? {};
+for (const [group, list] of [['polities', p.list], ['events', e.list], ['eras', r.list]])
+  for (const [id, name] of Object.entries(over[group] ?? {})) list[id] = name;
 out._note =
   out._note ??
   `Names in ${lang}: country columns from CLDR with hand overrides; states, events and eras from ${snapPath}.`;
