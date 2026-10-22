@@ -52,6 +52,11 @@ tools/verify_region.py   independent checks against the raw sources and snapshot
 tools/audit_coverage.py  world coverage audit; tools/audit_events.py adds the events section
 tools/wikidata.py, fetch_*.py, wdcheck.py   snapshot fetchers and the link check
 tools/fetch_names.py     python3 fetch_names.py <data_dir> <lang>: the names snapshot for the app's translations
+translations/<lang>/
+  _worklist.json           articles with no version in <lang>, by priority (scripts/translation-worklist.mjs)
+  _sources/<region>.json   the English introductions to translate, with revision ids (CC BY-SA 4.0)
+  <region>.json            the translations the drawer shows, each with its English source (CC BY-SA 4.0)
+tools/fetch_translation_sources.py   python3 fetch_translation_sources.py <data_dir> <lang> <region>
 ```
 
 Regions: `europe`, `americas`, `oceania`, `africa-middle-east`, `asia`.
@@ -286,6 +291,11 @@ They read the snapshots in `sources/` (retrieved 2026-10-17: Wikidata and Period
 - Post-1945 occupation zones appear as the occupying power.
 
 ## Changes
+
+- **2026-10-22, translated summaries (Oceania).**
+  - `scripts/translation-worklist.mjs sl` lists 4,249 English articles whose stories have no Slovenian article (from the names snapshot), by priority; Oceania has 63.
+  - `tools/fetch_translation_sources.py` re-checked all 63 against the English articles' language links (none has a Slovenian article) and snapshotted their introductions, cut as the drawer prints them (up to 3 paragraphs, 1,100 characters): 6,909 words, revisions of 22 October 2026.
+  - `translations/sl/oceania.json`: the 63 translated with the project's Slovenian newspaper style, marked as machine translations, not yet reviewed (5,991 words). `scripts/merge-translations.mjs` checked paragraphs, numbers and banned calques before writing it.
 
 - **2026-10-21, era articles and names in other languages.**
   - `eras.py` gives eras the Wikipedia article their cited row links to (`article`, 30 eras), for the app's stories. `verify_region.py` checks that each article is a link written in the cited row itself, and that only cited eras have one.

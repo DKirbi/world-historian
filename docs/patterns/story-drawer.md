@@ -80,9 +80,18 @@ At full width the article becomes a page: the summary sets in two newspaper colu
 |---|---|
 | Loading | "Fetching the article from Wikipedia…" over three grey type lines |
 | Ready | Summary paragraphs, drop cap, [1] at the end |
+| Reader's language has no article, a stored translation exists | The translation, under a **PREVOD UI / AI translation** tag (sparkle icon + text) and a note that it was translated by AI and not yet reviewed; **Show the English original** swaps in the English text it was made from. Source [1] cites the translated revision and the date |
 | Reader's language has no article | English summary with `lang="en"` and a note saying so |
 | No article linked (or a list of "+N") | A note that the story is told from the data (none for "+N") |
 | Offline / error | "Wikipedia could not be reached…" with **Try again**; the data story stays |
+
+### AI translations
+
+- The mark sits on the summary only: the kicker, standfirst and facts are written from the catalogue and the data, so they are not translations.
+- A tag with an icon **and** text (an icon alone does not explain itself, and a tooltip does not work on touch), then one line saying what it means, then the toggle. At full width the mark spans both columns.
+- The tag stays after review and changes to *Prevod UI, pregledan* with the reviewer and date: CC BY-SA asks that changes be indicated, and readers deserve to know.
+- The translation's headline replaces the English name only when the glossary has none.
+- A native article always wins: once the reader's language has one, the drawer shows it and the stored translation is ignored.
 
 ## Phones (< 720 px)
 
