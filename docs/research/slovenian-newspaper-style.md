@@ -34,6 +34,17 @@ LanguageTool's public service was not reachable from the build environment, and 
 
 **Hedging.** Slovenian reporting marks unverified claims with *naj bi* + participle ("naj bi ukradel"); Korošec treats it as a mood of its own in journalism ([review](https://srl.si/sql_pdf/SRL_2001_1-2_8.pdf)). In our stories it belongs only where the English source hedges ("reportedly", "is said to", "according to legend").
 
+## How Slovenian Wikipedia reads
+
+The drawer shows native Slovenian summaries next to translated ones, so the translations should not sound like a different publication. Three history articles were read (others refused automated reading): [*Habsburška monarhija*](https://sl.wikipedia.org/wiki/Habsburška_monarhija), [*Sveto rimsko cesarstvo*](https://sl.wikipedia.org/wiki/Sveto_rimsko_cesarstvo) and [*Bizantinsko cesarstvo*](https://sl.wikipedia.org/wiki/Bizantinsko_cesarstvo). All three are written natively, not translated from English.
+
+- **Lead formula.** Name, an alternative with *ali*, the original in brackets with its language, then a past-tense definition and a *ki*-clause: "Sveto rimsko cesarstvo (latinsko: Sacrum Romanum Imperium) je bila naddržavna, multinacionalna skupnost, ki je …"; "Bizantinsko cesarstvo ali Vzhodno rimsko cesarstvo je bil vzhodni od dveh delov, na katere je razpadlo Rimsko cesarstvo."
+- **Sentences.** Long and subordinated (20–25 words on average), nominal (*ustanovitev*, *ukinitev*), formal. Historians' views are attributed and hedged ("običajno razmejujemo", "nekateri zgodovinarji").
+- **Conventions.** "leta 962"; "v 18. stoletju"; "11. maj 395" in infoboxes; rulers with a full stop after the numeral (Oton I., Karel V.); Slovenian names of rulers where they exist (Karel Veliki); foreign institutions kept with a gloss (Reichstag); Slovenian place names with the original alongside.
+- **Weak spots.** Few footnotes (2–6 in long articles), an occasional English label left in an infobox, a few stiff phrases ("Na Wolfa samega je vplivala …"), and abbreviated ranges ("1624-56") where the norm wants "1624–1656".
+
+**What follows for translations.** Keep the encyclopedia's first sentence — the definition with *je bil/bila … ki* — so a translated summary opens like a native one. After it, write the newspaper way: shorter sentences, verbs rather than nouns, one idea per sentence. Our own parts (kicker, dateline, standfirst) carry the newspaper voice in full.
+
 ## Style sheet for our Slovenian stories
 
 **Anatomy.** Our parts already match the newspaper's: kicker = *nadnaslov* (DRŽAVA, BITKA), headline = *naslov*, standfirst with dateline = *vodilo*, summary = *jedro*, facts = *okvirček* (box). Keep the headline the record's name: the drawer is a reference, and an informative headline is the newspaper's own first rule. No *klikolovnik*.
@@ -59,6 +70,21 @@ LanguageTool's public service was not reachable from the build environment, and 
 | *pozno v dnevu* (late in the day) | *proti večeru* |
 | *linija se je zlomila* (the line broke) | *bojna vrsta je razpadla* |
 | *je bil ubit* (in battle) | *je padel* |
+| *preko 100 ladij* | *več kot 100 ladij* |
+| *skozi stoletja* | *v teh stoletjih, stoletja dolgo* |
+| *kot rezultat* | *zato, zaradi tega* |
+| *v primeru, da* | *če* |
+| *izvesti napad, nuditi pomoč* | *napasti, pomagati* |
+
+**Grammar that English pulls the wrong way.**
+- *svoj*, not *njegov*, for the subject's own: "Karel je cesarstvo razdelil med svoje sinove."
+- No articles and no needless subject pronouns: "je bil pomemben vladar", not "on je bil en pomemben vladar".
+- Clitics (*je, se, so, ga, mu*) sit in second place; a sentence never starts with one.
+- Aspect carries meaning: *so osvojili* (done once) against *so osvajali* (over years). English "would" for habit becomes the imperfective.
+- Two of anything take the dual: *obe vojski sta se umaknili*.
+- English past perfect becomes the ordinary past (*perfekt*); the old pluperfect (*je bil napadel*) is out.
+- Titles are lowercase before a name: *kralj Harold*, *cesar Karel V.*, *papež Leon III.*; peoples are capitalised, their adjectives not (*Turki*, *turški*).
+- Prefer the active with an implied subject to the long passive: *Mesto so ustanovili Rimljani*, *grad so porušili*.
 
 **Dates and numbers** (Slovenski pravopis): "14. oktobra 1066", "v 16. stoletju", "v 1620. letih", "27 pr. n. št.", "ok. 1200", "100.000 km²", "62 %". Numbers agree with the noun in four forms (1 država, 2 državi, 3 države, 5 držav).
 
