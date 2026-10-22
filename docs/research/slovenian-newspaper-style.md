@@ -86,6 +86,19 @@ The drawer shows native Slovenian summaries next to translated ones, so the tran
 - Titles are lowercase before a name: *kralj Harold*, *cesar Karel V.*, *papež Leon III.*; peoples are capitalised, their adjectives not (*Turki*, *turški*).
 - Prefer the active with an implied subject to the long passive: *Mesto so ustanovili Rimljani*, *grad so porušili*.
 
+**What translation research adds.** Studies of English→Slovene translation, and of translated Slovene against original Slovene, point at the same weak places:
+
+- **Passives.** Slovenian translators keep far fewer English passives than Swedish ones and turn the agented passive into an active sentence, putting the agent last so the English focus survives: "Dragonbone bows are greatly prized by the Dothraki" → "Loke iz zmajevine še posebej častijo Dothraki" ([Čibej & Orel Kos](https://ebooks.uni-lj.si/ZalozbaUL/catalog/download/20/79/823?inline=1)). For us: "Vienna was besieged by the Ottomans in 1529" → "Dunaj so leta 1529 oblegali Turki".
+- **Word order.** Both languages put given information before new and the news at the end; Slovene moves English mid-sentence adverbials to the front as a frame, and word order should change only for a reason ([Limon](https://ebooks.uni-lj.si/ZalozbaUL/catalog/download/20/79/822?inline=1)). For us: time and place first ("Leta 1529 …"), the new fact last.
+- **Connectives.** Translators add the explanatory *namreč* where English has none (about half of its uses in translations), and *namely* is never its source; it renders causal *for* ("For it is plain that …" → "Očitno je namreč, da …") ([Hirci](https://ebooks.uni-lj.si/ZalozbaUL/catalog/download/25/68/687?inline=1)). For us: *namreč* for "for/because" explanations; "namely" → *in sicer*, *to je*.
+- **Interference in plain words.** Translated Slovene uses *človek* about 20 % less than original Slovene; generic English *one/you* and ascriptive "a good man" are where it shows ([Pisanski Peterlin](https://ebooks.uni-lj.si/ZalozbaUL/catalog/download/25/68/688?inline=1)). For us: "he was a capable man" → "bil je sposoben človek"; "10,000 men" (troops) → "10.000 mož".
+- **Participles.** Slovene rarely uses participial forms (*-č, -e, -aje*); they appear under a foreign original's influence, and translators turn them into clauses ([Horvat](https://ebooks.uni-lj.si/ZalozbaUL/catalog/download/109/200/2359?inline=1), on French). For us: "Crossing the river, the army …" → "Ko je vojska prečkala reko, …", not "Prečkajoč reko …".
+- **Machine translation.** In the European Commission's review of its English→Slovene engine, mistranslation and unclear sentences made up about 70 % of marked errors, ahead of grammar and terminology: wrong relations behind prepositions ("requirements on SMEs" → "zahteve MSP"), abbreviations in the wrong gender, untranslated titles, source-like sentence structure; no sample was fit to publish ([Arnejšek & Unk 2020](https://aclanthology.org/2020.eamt-1.41.pdf)).
+
+**Titles and epithets.** English "X of Y" becomes a Slovenian adjective: "Duke of Normandy" → *normandijski vojvoda*, "King of England" → *angleški kralj*, "Counts of Celje" → *celjski grofje*; epithets take their established form (*Veliki, Osvajalec, Lepi*).
+
+**False friends** (well-known pairs): *eventually* → *sčasoma, nazadnje* (not *eventualno*); *actual* → *dejanski* (not *aktualen*); *evidence* → *dokazi, viri* (not *evidenca*); *sympathetic to* → *naklonjen* (not *simpatičen*); *realise* → *spoznati, ugotoviti* (not *realizirati*); *dramatic* → *korenit, silovit*.
+
 **Dates and numbers** (Slovenski pravopis): "14. oktobra 1066", "v 16. stoletju", "v 1620. letih", "27 pr. n. št.", "ok. 1200", "100.000 km²", "62 %". Numbers agree with the noun in four forms (1 država, 2 državi, 3 države, 5 držav).
 
 **Names.**
