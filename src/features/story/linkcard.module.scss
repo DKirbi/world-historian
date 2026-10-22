@@ -27,20 +27,24 @@
   min-width: 0;
 }
 
+/* the drawer's type: slab capitals for labels, slab headline (story.module.scss) */
 .kicker {
-  margin: 0 0 2px;
+  margin: 0 0 4px;
   color: var(--ink-2);
-  font-family: var(--font-story);
-  font-style: italic;
-  font-size: 0.875rem;
+  font-family: var(--font-headline);
+  font-weight: 600;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
 }
 
 .headline {
   margin: 0;
   font-family: var(--font-headline);
-  font-weight: 400;
-  font-size: 1.75rem;
-  line-height: 1.05;
+  font-weight: 700;
+  font-size: 1.625rem;
+  line-height: 1.08;
+  letter-spacing: -0.01em;
   text-wrap: balance;
 
   &:focus {
@@ -51,10 +55,11 @@
 .dateline {
   margin: 6px 0 12px;
   color: var(--ink-2);
-  font-family: var(--font-story);
-  font-variant-caps: all-small-caps;
-  letter-spacing: 0.05em;
-  font-weight: 700;
+  font-family: var(--font-headline);
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
 }
 
 .link {
@@ -81,5 +86,4 @@
   display: flex;
   align-items: center;
   color: var(--ink-2);
-  font-style: italic;
 }

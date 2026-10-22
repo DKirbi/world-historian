@@ -54,9 +54,11 @@
   /* Type */
   --font-ui: 'IBM Plex Sans Condensed', 'Roboto Condensed', 'Arial Narrow', system-ui, sans-serif;
   --font-display: 'IBM Plex Serif', Georgia, 'Times New Roman', serif;
-  /* Stories: Caslon, a face of the printing-press era, for a newspaper page */
-  --font-story: 'Libre Caslon Text', 'Iowan Old Style', Georgia, 'Times New Roman', serif;
-  --font-headline: 'Libre Caslon Display', 'Libre Caslon Text', 'Iowan Old Style', Georgia, serif;
+  /* Stories: a slab for headlines and labels, a screen text serif for reading (docs/research/typography.md).
+     Literata covers the scripts history articles quote (Greek, Cyrillic, pinyin, transliterations, Vietnamese);
+     it is second in the headline stack so a glyph Roboto Slab lacks (the ʻokina) comes from a matching face. */
+  --font-story: 'Literata', 'Source Serif 4', Georgia, 'Times New Roman', serif;
+  --font-headline: 'Roboto Slab', 'Literata', Georgia, serif;
   --fs-xs: 0.6875rem; /* 11 */
   --fs-sm: 0.8125rem; /* 13 */
   --fs-md: 0.9375rem; /* 15 */
