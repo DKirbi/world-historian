@@ -452,5 +452,12 @@
   "wiki.edition.en": "angleška izdaja",
   "wiki.edition.sl": "slovenska izdaja",
   "story.polity.ledeAll": "{duration}, od {from} do {to}, je bilo pod to oblastjo vse ozemlje, ki ga danes obsega {lane}.",
-  "story.event.rulers": "Za ta čas časovnica na tem ozemlju kaže: {list}."
+  "story.event.rulers": "Za ta čas časovnica na tem ozemlju kaže: {list}.",
+  "story.ai.tag": "Prevod UI",
+  "story.ai.tagReviewed": "Prevod UI, pregledan",
+  "story.ai.note": "Tega članka v slovenščini še ni. Povzetek angleškega članka je prevedla umetna inteligenca in ga še nihče ni pregledal, zato morda potrebuje izboljšave.",
+  "story.ai.noteReviewed": "Tega članka v slovenščini še ni. Povzetek angleškega članka je prevedla umetna inteligenca, prevod pa je pregledal človek ({by}, {date}).",
+  "story.ai.showOriginal": "Pokaži angleški izvirnik",
+  "story.ai.showTranslation": "Pokaži prevod",
+  "story.cite.wikipediaTranslated": "Wikipedija, »{title}« ({edition}), redakcija {rev}. Besedilo CC BY-SA 4.0, prevedla umetna inteligenca {date}."
 }

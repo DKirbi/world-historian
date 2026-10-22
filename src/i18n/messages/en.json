@@ -452,5 +452,12 @@
   "wiki.edition.en": "English edition",
   "wiki.edition.sl": "Slovenian edition",
   "story.polity.ledeAll": "For {duration}, from {from} to {to}, it held the whole of the land that is now {lane}.",
-  "story.event.rulers": "At the time, the chart shows {list} holding this land."
+  "story.event.rulers": "At the time, the chart shows {list} holding this land.",
+  "story.ai.tag": "AI translation",
+  "story.ai.tagReviewed": "AI translation, reviewed",
+  "story.ai.note": "There is no article on this in your language yet. This summary of the English Wikipedia article was translated by AI and has not been reviewed, so it may need improvement.",
+  "story.ai.noteReviewed": "There is no article on this in your language yet. This summary of the English Wikipedia article was translated by AI and reviewed by {by} on {date}.",
+  "story.ai.showOriginal": "Show the English original",
+  "story.ai.showTranslation": "Show the translation",
+  "story.cite.wikipediaTranslated": "Wikipedia, “{title}” ({edition}), revision {rev}. Text CC BY-SA 4.0, translated by AI on {date}."
 }

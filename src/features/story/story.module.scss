@@ -251,6 +251,50 @@
   font-size: 0.9375rem;
 }
 
+/* Where the summary is a translation: a tag that names it, then what it means. Spans both columns at
+   full width so the mark sits above everything it covers. */
+.provenance {
+  column-span: all;
+  margin: 0 0 1em;
+  padding: 10px 0 10px 12px;
+  border-left: 3px solid var(--ink-2);
+}
+
+.aiTag {
+  @include label;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 3px 7px 3px 5px;
+  border: 1px solid var(--ink);
+  border-radius: var(--radius-sm);
+  color: var(--ink);
+  font-size: 0.6875rem;
+  line-height: 1.2;
+}
+
+.aiNote {
+  margin: 8px 0 0;
+  color: var(--ink-2);
+  font-family: var(--font-ui);
+  font-size: var(--fs-sm);
+  line-height: 1.45;
+  hyphens: manual;
+}
+
+.aiToggle {
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--ink);
+  font: inherit;
+  font-weight: 500;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
 .retry {
   padding: 0;
   border: 0;

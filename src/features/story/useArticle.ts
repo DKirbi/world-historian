@@ -1,5 +1,32 @@
 import { useCallback, useEffect, useState } from 'react';
 import { fetchImageCredit, loadArticle, resolveTitle, articleUrl, type ArticleRef, type ImageCredit, type WikiArticle } from './wiki';
+import { hasTranslations, loadTranslations, type StoredTranslation } from './translations';
+
+export type TranslationState = { status: 'none' | 'loading' } | { status: 'ready'; translation: StoredTranslation };
+
+/** The stored translation of the English article `enTitle` into `lang`, when there is one. */
+export function useStoredTranslation(lang: string, enTitle: string | undefined): TranslationState {
+  const wanted = !!enTitle && hasTranslations(lang);
+  const [state, setState] = useState<TranslationState>({ status: wanted ? 'loading' : 'none' });
+  useEffect(() => {
+    if (!wanted || !enTitle) {
+      setState({ status: 'none' });
+      return;
+    }
+    let live = true;
+    setState({ status: 'loading' });
+    loadTranslations(lang)
+      .then((all) => {
+        const tr = all.get(enTitle);
+        if (live) setState(tr ? { status: 'ready', translation: tr } : { status: 'none' });
+      })
+      .catch(() => live && setState({ status: 'none' }));
+    return () => {
+      live = false;
+    };
+  }, [lang, enTitle, wanted]);
+  return state;
+}
 
 export type ArticleState =
   | { status: 'none' }

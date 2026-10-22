@@ -1,11 +1,12 @@
-import { useEffect, useMemo, useRef, type ReactNode } from 'react';
+import { useEffect, useRef, useState, type ReactNode } from 'react';
 import type { RegionData } from '@/data/types';
 import { useI18n } from '@/i18n/useI18n';
 import { useTimeline, type StoryRef } from '@/state/store';
 import { Icon } from '@/components/ui/Icon';
 import type { StoryModel } from './templates';
-import { useArticle, useImageCredit } from './useArticle';
-import { headlineFromTitle, type WikiArticle } from './wiki';
+import { useArticle, useImageCredit, useStoredTranslation } from './useArticle';
+import { articleUrl, headlineFromTitle, type WikiArticle } from './wiki';
+import type { StoredTranslation } from './translations';
 import { EraRecord, EventRecord, PolityRecord } from './Records';
 import s from './story.module.scss';
 
@@ -46,16 +47,27 @@ export function Story({ model, region, full }: Props) {
   const ready = article.status === 'ready' ? article.article : null;
   const headingRef = useRef<HTMLHeadingElement>(null);
 
+  // A stored translation stands in for the English summary when the reader's language has no article
+  // (never for a section of an article: those are translated as their own units).
+  const intro = model.kind !== 'stack' && !model.article?.section && !model.article?.sectionLike;
+  const stored = useStoredTranslation(i18n.meta.id, intro ? model.article?.enTitle : undefined);
+  const noOwnArticle = ready?.fallback || article.status === 'error' || article.status === 'none';
+  const translation = stored.status === 'ready' && noOwnArticle ? stored.translation : null;
+  const waiting = stored.status === 'loading' && !!ready?.fallback; // no flash of English before the translation
+  const [original, setOriginal] = useState(false);
+
   // Focus the headline when a new story opens, so screen readers announce it and Tab starts here.
   useEffect(() => {
     headingRef.current?.focus({ preventScroll: true });
+    setOriginal(false);
   }, [model.key]);
 
-  // A name the data has only in English is replaced by the title of the reader's own article.
+  // A name the data has only in English is replaced by the title of the reader's own article, or by
+  // the name its translation gives.
   const translatedTitle =
     ready && !ready.fallback && !ready.section && model.kind !== 'stack' && model.headlineLang !== i18n.meta.tag
       ? headlineFromTitle(ready.title)
-      : null;
+      : (model.headlineLang !== i18n.meta.tag && translation?.headline) || null;
   const headline = translatedTitle ?? model.headline;
   const headlineLang = translatedTitle ? i18n.meta.tag : model.headlineLang;
 
@@ -71,7 +83,9 @@ export function Story({ model, region, full }: Props) {
       </sup>
     ) : null;
 
-  const shown = useMemo(() => excerpt(ready?.paragraphs ?? [], full), [ready, full]);
+  const paragraphs = translation ? (original ? translation.source.paragraphs : translation.paragraphs) : ready?.paragraphs ?? [];
+  const shown = excerpt(paragraphs, full);
+  const readMoreUrl = ready?.url ?? (translation ? articleUrl('en', translation.source.title) : null);
   const go = (ref: StoryRef) => openStory(ref);
 
   return (
@@ -100,10 +114,20 @@ export function Story({ model, region, full }: Props) {
           {ready?.image && <Figure article={ready} />}
 
           <div className={s.body}>
-            <Summary state={article} model={model} shown={shown} citeN={1} storyKey={model.key} />
-            {ready && (
+            <Summary
+              state={article}
+              model={model}
+              shown={shown}
+              citeN={1}
+              storyKey={model.key}
+              waiting={waiting}
+              translation={translation}
+              original={original}
+              onToggleOriginal={() => setOriginal((o) => !o)}
+            />
+            {readMoreUrl && !waiting && (
               <p className={s.readMore}>
-                <a href={ready.url} target="_blank" rel="noreferrer">
+                <a href={readMoreUrl} target="_blank" rel="noreferrer" hrefLang={translation ? 'en' : ready?.lang}>
                   {t('story.readMore')}
                   <Icon name="external" size={14} />
                 </a>
@@ -151,7 +175,7 @@ export function Story({ model, region, full }: Props) {
         <ol>
           {model.article && (
             <li id={`src-${model.key}-1`}>
-              <WikiSource state={article} fallbackTitle={model.article.enTitle ?? model.article.qid ?? ''} />
+              <WikiSource state={article} translation={translation} fallbackTitle={model.article.enTitle ?? model.article.qid ?? ''} />
             </li>
           )}
           {model.sources.map((src, i) => (
@@ -196,17 +220,60 @@ function Summary({
   shown,
   citeN,
   storyKey,
+  waiting,
+  translation,
+  original,
+  onToggleOriginal,
 }: {
   state: ReturnType<typeof useArticle>;
   model: StoryModel;
   shown: string[];
   citeN: number;
   storyKey: string;
+  waiting: boolean;
+  translation: StoredTranslation | null;
+  original: boolean;
+  onToggleOriginal: () => void;
 }) {
-  const { t } = useI18n();
+  const { t, meta } = useI18n();
   if (model.kind === 'stack') return null; // a list of states has no article of its own, by design
+  const paras = (lang: string) => (
+    <div className={s.summary} lang={lang}>
+      {shown.map((p, i) => (
+        <p key={i} className={i === 0 ? s.lead : undefined}>
+          {p}
+          {i === shown.length - 1 && (
+            <sup className={s.cite}>
+              <a href={`#src-${storyKey}-${citeN}`}>[{citeN}]</a>
+            </sup>
+          )}
+        </p>
+      ))}
+    </div>
+  );
+  if (translation) {
+    const reviewed = translation.reviewed;
+    const date = (d: string) => new Date(d).toLocaleDateString(meta.tag, { day: 'numeric', month: 'numeric', year: 'numeric' });
+    return (
+      <>
+        <div className={s.provenance} role="note">
+          <span className={s.aiTag}>
+            <Icon name="sparkle" size={14} />
+            {t(reviewed ? 'story.ai.tagReviewed' : 'story.ai.tag')}
+          </span>
+          <p className={s.aiNote}>
+            {reviewed ? t('story.ai.noteReviewed', { by: reviewed.by, date: date(reviewed.date) }) : t('story.ai.note')}{' '}
+            <button type="button" className={s.aiToggle} aria-pressed={original} onClick={onToggleOriginal}>
+              {t(original ? 'story.ai.showTranslation' : 'story.ai.showOriginal')}
+            </button>
+          </p>
+        </div>
+        {paras(original ? 'en' : translation.lang)}
+      </>
+    );
+  }
   if (!model.article || state.status === 'none') return <p className={s.note}>{t('story.noArticle')}</p>;
-  if (state.status === 'loading')
+  if (state.status === 'loading' || waiting)
     return (
       <div className={s.pending} aria-busy="true">
         <p className={s.note}>{t('story.loading')}</p>
@@ -228,24 +295,35 @@ function Summary({
   return (
     <>
       {a.fallback && <p className={s.note}>{t(a.section ? 'story.sectionFallback' : 'story.fallback')}</p>}
-      <div className={s.summary} lang={a.lang}>
-        {shown.map((p, i) => (
-          <p key={i} className={i === 0 ? s.lead : undefined}>
-            {p}
-            {i === shown.length - 1 && (
-              <sup className={s.cite}>
-                <a href={`#src-${storyKey}-${citeN}`}>[{citeN}]</a>
-              </sup>
-            )}
-          </p>
-        ))}
-      </div>
+      {paras(a.lang)}
     </>
   );
 }
 
-function WikiSource({ state, fallbackTitle }: { state: ReturnType<typeof useArticle>; fallbackTitle: string }) {
-  const { t, fmt } = useI18n();
+function WikiSource({
+  state,
+  translation,
+  fallbackTitle,
+}: {
+  state: ReturnType<typeof useArticle>;
+  translation: StoredTranslation | null;
+  fallbackTitle: string;
+}) {
+  const { t, fmt, meta } = useI18n();
+  const rev = (n: number) => fmt.number(n).replace(/[\s., ]/g, '');
+  if (translation) {
+    const src = translation.source;
+    return (
+      <a href={`https://${src.wiki}.wikipedia.org/w/index.php?oldid=${src.rev}`} target="_blank" rel="noreferrer">
+        {t('story.cite.wikipediaTranslated', {
+          title: src.title,
+          edition: t('wiki.edition.en'),
+          rev: rev(src.rev),
+          date: new Date(translation.translated).toLocaleDateString(meta.tag, { day: 'numeric', month: 'numeric', year: 'numeric' }),
+        })}
+      </a>
+    );
+  }
   if (state.status === 'ready') {
     const a = state.article;
     const title = a.section ? `${a.title}, ${a.section}` : a.title;
