@@ -13,15 +13,16 @@
 | | Skills on this account | None for Slovenian or translation. |
 | Connectors | DeepL | Translates English ↔ Slovenian. **DeepL Write does not support Slovenian** ([specification](https://www.deepl.com/en/pro-service-specifications)), so it cannot polish style. Useful as a second draft to compare. |
 | | LILT, Smartling | Human-verified translation; paid. For a reviewed sample, not the whole set. |
-| Slovenian tools | [Slovenščina.eu services](https://storitve.cjvt.si/en) (CJVT, University of Ljubljana) | English–Slovene machine translation, named-entity recognition, summarisation. Research-grade. |
-| | [GaMS3-12B](https://app.alphaneural.io/models/cjvt/GaMS3-12B) (UL FRI) | A Slovene language model on Gemma 3, with an Instruct version. Self-hosted only. |
+| Slovenian tools | [Slovenščina.eu services](https://storitve.cjvt.si/en) (CJVT, University of Ljubljana) | Web tools: English–Slovene translation, named-entity recognition, summarisation. No documented public API. |
+| | RSDO translator, open ([model](https://www.clarin.si/repository/xmlui/handle/11356/1736?show=full), [REST service](https://www.clarin.si/repository/xmlui/handle/11356/1739?show=full)) | The engine of the Slovenščina.eu translator: NeMo models in both directions, Apache 2.0, about 4 GB. The service takes up to 5,000 characters per request (about 200 s on 24 CPU cores). Reported to do poorly outside its training domains ([Vajda et al.](https://arxiv.org/html/2508.14951v1)). |
+| | [GaMS3-12B-GRPO-Translator](https://huggingface.co/cjvt/GaMS3-12B-GRPO-Translator) (UL FRI) | English→Slovene translation model on Gemma 3 12B (Gemma licence). Needs a GPU; can be served with vLLM behind an OpenAI-compatible API. Its base, GaMS3-12B-Instruct, scores 0.700 COMET on EN→SL against Gemini 2.5 Flash's 0.718 ([paper](https://arxiv.org/pdf/2603.01691)). GaMS Instruct models are hosted by [Featherless](https://featherless.ai/models/cjvt/GaMS-9B-Instruct); the Translator is not listed there. |
 | | [Amebis](https://en.wikipedia.org/wiki/Amebis): Besana, Termania | Besana is a Slovenian grammar checker; Termania is a portal of 135+ dictionaries. Desktop and web, no API we could use. |
 | | Hunspell `dictionary-sl` | Spelling only; tested in this project (flags misspellings, needs an allowlist for names). |
 | References | [Fran and Jezikovna svetovalnica](https://isjfr.zrc-sazu.si/en/programi-in-projekti/language-portals-for-everything-fran-francek-terminologisce-jezikovna) (ZRC SAZU) | SSKJ, Slovenski pravopis, and answered language questions: the authority when a usage is in doubt. |
 | | [Gigafida 2.2](https://gigafida22-host.cjvt.si/en/about) | 1.16 billion words of written Slovene, built from daily news, magazines and books. Shows how Slovenian papers actually phrase something. |
 | | Exonyms and country names (ZRC SAZU, [GIAM](https://giam.zrc-sazu.si/en/programi-in-projekti/names-of-countries)) | Standard Slovenian names of countries and places (Benetke, Dunaj, Carigrad). |
 
-LanguageTool's public service was not reachable from the build environment, and we could not confirm its Slovenian rules.
+LanguageTool's public service was not reachable from the build environment, and we could not confirm its Slovenian rules. Neither are CJVT's, Slovenščina.eu's or Hugging Face's hosts: a Slovenian engine would run on our own machine or server, called by the build script.
 
 ## How a Slovenian newspaper builds a story
 
