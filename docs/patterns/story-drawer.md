@@ -51,6 +51,8 @@ While a story is open, the chart shows it:
 
 At full width the article becomes a page: the summary sets in two newspaper columns, and facts and points of view move into a sticky sidebar.
 
+**Type** ([research](../research/typography.md)): Roboto Slab for the headline (700, 600 at full width), the drop cap and the labels — kicker, dateline and section heads in tracked capitals; Literata for the standfirst, the summary and the points of view; the chart's condensed sans for facts, captions and provenance. No italic labels.
+
 | Part | Content | Source |
 |---|---|---|
 | Kicker | Kind: State / State, borders not mapped / Archaeological culture / Era / Battle… / Several states | template |
