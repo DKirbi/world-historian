@@ -1,0 +1,820 @@
+{
+ "lang": "sl",
+ "region": "europe",
+ "method": "machine",
+ "translator": "Claude Opus 5.5 (claude-opus-5-5) with the slovene-newspaper-translation skill",
+ "translated": "2026-10-23",
+ "reviewed": false,
+ "licence": "CC BY-SA 4.0: translations of English Wikipedia text, attributed to each article and revision",
+ "units": {
+  "Berga": {
+   "paragraphs": [
+    "Berga je glavno mesto comarce (okraja) Berguedà v provinci Barcelona v Kataloniji v Španiji. Meji na občine Cercs, Olvan, Avià, Capolat in Castellar del Riu."
+   ],
+   "notes": [
+    "The Catalan pronunciation in IPA is dropped.",
+    "The record is a state, but its link points to the article on the modern town; the data link is worth checking."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Berga",
+    "rev": 1375116111,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Berga (Catalan pronunciation: [ˈbeɾɣə]) is the capital of the comarca (county) of Berguedà, in the province of Barcelona, Catalonia, Spain. It is bordered by the municipalities of Cercs, Olvan, Avià, Capolat and Castellar del Riu."
+    ]
+   },
+   "records": [
+    "county-of-berga"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Bernicia": {
+   "headline": "Bernicija",
+   "paragraphs": [
+    "Bernicija (staroangleško: Bernica rice, Beornica rice) je bila anglosaško kraljestvo, ki so ga v 6. stoletju ustanovili anglski naseljenci na območju današnje jugovzhodne Škotske in severovzhodne Anglije.",
+    "Anglsko ozemlje Bernicije je približno ustrezalo današnjim angleškim grofijam Northumberland, Tyne and Wear in Durham ter škotskima grofijama Berwickshire in East Lothian in je segalo od reke Forth do reke Tees. V začetku 7. stoletja se je Bernicija združila z južno sosedo Deiro v kraljestvo Northumbrija, njene meje pa so se nato precej razširile."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Bernicia",
+    "rev": 1381193038,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Bernicia (Old English: Bernica rice, Beornica rice) was an Anglo-Saxon kingdom established by Anglian settlers of the 6th century in what is now southeastern Scotland and North East England.",
+     "The Anglian territory of Bernicia was approximately equivalent to the modern English counties of Northumberland, Tyne and Wear, and Durham, as well as the Scottish counties of Berwickshire and East Lothian, stretching from the Forth to the Tees. In the early 7th century, it merged with its southern neighbour, Deira, to form the kingdom of Northumbria, and its borders subsequently expanded considerably."
+    ]
+   },
+   "records": [
+    "kingdom-of-bernicia"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Brycheiniog": {
+   "headline": "Brycheiniog",
+   "paragraphs": [
+    "Brycheiniog je bil neodvisno kraljestvo v južnem Walesu v zgodnjem srednjem veku. Pogosto je bil tamponska država med Anglijo na vzhodu in južnovaližanskim kraljestvom Deheubarth na zahodu. Normani so ga med letoma 1088 in 1095 osvojili in pomirili, a je ohranil valižanski značaj. Preoblikovali so ga v gospostvo Brecknock, pozneje pa je tvoril južni in večji del zgodovinske grofije Brecknockshire. Južno od njega je ležalo kraljestvo Morgannwg.",
+    "Glavna dediščina kraljestva Brycheiniog je etimološka in geografska. Ime se ohranja v Bannau Brycheiniog, valižanskem imenu gorovja Brecon Beacons, od leta 2023 pa tudi v imenu narodnega parka v tem gorovju. Iz njega izhajata tudi poangleščeni imeni Brecknockshire (v valižanščini ohranjeno kot Sir Frycheiniog, »grofija Brycheiniog«) in Brecon (v valižanščini tudi Aberhonddu)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Brycheiniog",
+    "rev": 1370015907,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Brycheiniog was an independent kingdom in South Wales in the Early Middle Ages. It often acted as a buffer state between England to the east and the south Welsh kingdom of Deheubarth to the west. It was conquered and pacified by the Normans between 1088 and 1095, though it remained Welsh in character. It was transformed into the Lordship of Brecknock and later formed the southern and larger part of the historic county of Brecknockshire. To its south was the Kingdom of Morgannwg.",
+     "The main legacy of the kingdom of Brycheiniog is etymological and geographical. It is used in Bannau Brycheiniog, the Welsh name for the Brecon Beacons range and, since 2023, in name used for the range's national park. Its name is also the origin to the anglicised names Brecknockshire (retained in Welsh as Sir Frycheiniog, 'the shire of Brycheiniog'), and Brecon (otherwise known as Aberhonddu in Welsh)."
+    ]
+   },
+   "records": [
+    "kingdom-of-brycheiniog"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Commonwealth of England": {
+   "paragraphs": [
+    "Angleška republika (Commonwealth of England), ki se je leta 1653 razširila v Republiko Anglijo, Škotsko in Irsko, je bila politična ureditev v obdobju 1649–1660, ko je bilo Kraljestvo Anglija po koncu druge angleške državljanske vojne ter sojenju in usmrtitvi Karla I. razpuščeno in spremenjeno v republiko. Obstoj republike je razglasil zakon »An Act declaring England to be a Commonwealth« (Zakon o razglasitvi Anglije za republiko), ki ga je okrnjeni parlament (Rump Parliament) sprejel 19. maja 1649. Oblast v zgodnji republiki sta imela predvsem parlament in državni svet. V tem času so se nadaljevali boji med parlamentarnimi silami in njihovimi nasprotniki, zlasti na Irskem in Škotskem: Cromwellova osvojitev Irske in angleško-škotska vojna v letih 1650–1652."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Commonwealth of England",
+    "rev": 1370166405,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Commonwealth of England, enlarged in 1653 as the Commonwealth of England, Scotland and Ireland, was the political structure during the period from 1649 to 1660 when the Kingdom of England was dissolved into a republic after the end of the Second English Civil War and the trial and execution of Charles I. The republic's existence was declared through \"An Act declaring England to be a Commonwealth\", adopted by the Rump Parliament on 19 May 1649. Power in the early Commonwealth was vested primarily in the Parliament and a Council of State. During the period, fighting continued, particularly in Ireland and Scotland, between the parliamentary forces and those opposed to them, in the Cromwellian conquest of Ireland and the Anglo-Scottish war of 1650–1652."
+    ]
+   },
+   "records": [
+    "commonwealth-of-england"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Confederate Ireland": {
+   "paragraphs": [
+    "Irska konfederacija, imenovana tudi Irska katoliška konfederacija, je bila obdobje irske katoliške samouprave med letoma 1642 in 1652, med enajstletno vojno. Ustanovili so jo katoliški aristokrati, zemljiško plemstvo, duhovščina in vojaški voditelji po irskem uporu leta 1641; konfederati so s sedežem v Kilkennyju nadzorovali do dve tretjini Irske, zato jo včasih imenujejo tudi konfederacija iz Kilkennyja."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Confederate Ireland",
+    "rev": 1372879818,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Confederate Ireland, also referred to as the Irish Catholic Confederation, was a period of Irish Catholic self-government between 1642 and 1652, during the Eleven Years' War. Formed by Catholic aristocrats, landed gentry, clergy and military leaders after the Irish Rebellion of 1641, the Confederates controlled up to two-thirds of Ireland from their base in Kilkenny; hence it is sometimes called the Confederation of Kilkenny."
+    ]
+   },
+   "records": [
+    "irish-catholic-confederation"
+   ],
+   "translated": "2026-10-23"
+  },
+  "County of Aragon": {
+   "paragraphs": [
+    "Grofija Aragonija (aragonsko: Condato d'Aragón) ali grofija Jaca (aragonsko: Condato de Chaca) je bila majhna frankovska mejna grofija v osrednji pirenejski dolini reke Aragón, ki je obsegala Ansó, Echo in Canfranc s središčem v mestecu Jaca (latinsko Iacca, aragonsko Chaca), na območju današnje Španije. Ustanovili so jo Karolingi konec 8. ali v začetku 9. stoletja, a je kmalu prišla pod vpliv navarskega kraljestva, ki mu je bila leta 922 priključena. Pozneje je postala jedro aragonskega kraljestva v 11. stoletju."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "County of Aragon",
+    "rev": 1374846818,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The County of Aragon (Aragonese: Condato d'Aragón) or County of Jaca (Aragonese: Condato de Chaca) was a small Frankish marcher county in the central Pyrenean valley of the Aragon river, comprising Ansó, Echo, and Canfranc and centered on the small town of Jaca (Iacca in Latin and Chaca in Aragonese), an area now part of Spain. It was created by the Carolingians late in the 8th or early in the 9th century, but soon fell into the orbit of the Kingdom of Navarre, into which it was absorbed in 922. It would later form the core of the 11th century Kingdom of Aragon."
+    ]
+   },
+   "records": [
+    "county-of-aragon"
+   ],
+   "translated": "2026-10-23"
+  },
+  "County of Besalú": {
+   "headline": "Grofija Besalú",
+   "paragraphs": [
+    "Grofija Besalú (katalonsko: Comtat de Besalú; latinsko: Comitatus Bisuldunensis) je bila ena od srednjeveških katalonskih grofij brez dostopa do morja blizu sredozemske obale. Približno se je ujemala z današnjo comarco Garrotxa, občasno pa je segala vse do Corbièresa v departmaju Aude, danes v Franciji. Glavni kraj je bila vas Besalú. Večino zgodovine je bila priključena kateri od drugih, močnejših grofij, stoletje pa je bila neodvisna, preden so jo dokončno in nepreklicno priključili barcelonski grofiji."
+   ],
+   "notes": [
+    "The Catalan pronunciation in IPA is dropped."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "County of Besalú",
+    "rev": 1329169484,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The County of Besalú (Catalan: Comtat de Besalú, IPA: [kumˈtad də βəzəˈlu]; Latin: Comitatus Bisuldunensis) was one of the landlocked medieval Catalan counties near the Mediterranean coastline. It was roughly coterminous with the modern comarca of Garrotxa and at various times extended as far north as Corbières, Aude, now in France. Its capital was the village of Besalú. Throughout most of its history it was attached to one of the other more powerful counties, but it experienced a century of independence before it was finally and irrevocably annexed to the County of Barcelona."
+    ]
+   },
+   "records": [
+    "county-of-besalu"
+   ],
+   "translated": "2026-10-23"
+  },
+  "County of Empúries": {
+   "paragraphs": [
+    "Grofija Empúries (katalonsko: Comtat d'Empúries), znana tudi kot grofija Ampurias (špansko: Condado de Ampurias), je bila srednjeveška grofija s središčem v mestu Empúries, ki je obsegala katalonsko pokrajino Peralada. Ustreza zgodovinski comarci Empordà.",
+    "Ko so Franki leta 785 osvojili te pokrajine, sta Empúries in Peralada prišli pod oblast grofije Girona. Okoli leta 813 je Empúries skupaj s Peralado postala samostojna grofija pod Ermenguerjem. Ta in drugi zgodnji grofje so bili verjetno vizigotskega rodu. Leta 817 so Empúries združili z grofijo Roussillon, zveza pa je trajala do leta 989. Eden od grofov Empúriesa v 9. stoletju je zbral dovolj močno ladjevje, da je osvojil Balearske otoke, a le za kratek čas. Od leta 835 do 844 je Empúriesu in Peraladi vladal Sunyer I., Roussillonu in Vallespirju pa Alarik I."
+   ],
+   "notes": [
+    "The Catalan pronunciation in IPA is dropped."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "County of Empúries",
+    "rev": 1349115986,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The County of Empúries (Catalan: Comtat d'Empúries, IPA: [kumˈtad dəmˈpuɾiəs]), also known as the County of Ampurias (Spanish: Condado de Ampurias), was a medieval county centred on the town of Empúries and enclosing the Catalan region of Peralada. It corresponds to the historic comarca of Empordà.",
+     "After the Franks conquered the regions in 785, Empúries and Peralada came under the authority of the County of Girona. Around 813, Empúries, with Peralada, became a separate county under Ermenguer. He and the other early counts were probably of Visigothic origin. In 817, Empúries was merged with the County of Roussillon, a union which lasted until 989. One of the ninth-century counts of Empúries assembled a fleet powerful enough to conquer the Balearic Islands, but only for a brief time. From 835 to 844, Sunyer I ruled Empúries and Peralada while Alaric I ruled Roussillon and Vallespir."
+    ]
+   },
+   "records": [
+    "county-of-ampuria"
+   ],
+   "translated": "2026-10-23"
+  },
+  "County of Osona": {
+   "headline": "Grofija Osona",
+   "paragraphs": [
+    "Grofija Osona ali Ausona (katalonsko: Comtat d'Osona; latinsko: Comitatus Ausonae) je bila ena od katalonskih grofij Hispanske marke v zgodnjem in visokem srednjem veku. Središče je imela v glavnem mestu Vic (Vicus) in pripadajoči škofiji, katere ozemlje je približno ustrezalo današnji comarci Osona."
+   ],
+   "notes": [
+    "The Catalan pronunciation in IPA is dropped."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "County of Osona",
+    "rev": 1329167594,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The County of Osona, also Ausona (Catalan: Comtat d'Osona, IPA: [kumˈtad duˈzonə]; Latin: Comitatus Ausonae), was one of the Catalan counties of the Marca Hispanica in the Early and High Middle Ages. It was based around the capital city of Vic (Vicus) and the corresponding diocese, whose territory was roughly the current comarca of Osona."
+    ]
+   },
+   "records": [
+    "county-of-osona"
+   ],
+   "translated": "2026-10-23"
+  },
+  "County of Pallars": {
+   "headline": "Grofija Pallars",
+   "paragraphs": [
+    "Grofija Pallars ali Pallás (katalonsko: Comtat de Pallars; latinsko: Comitatus Pallariensis) je bila v 9. in 10. stoletju dejansko neodvisna majhna država, formalno v Karolinškem cesarstvu in nato v Zahodni Frankovski, morda ena od katalonskih grofij, ki je bila sprva v 9. stoletju del Hispanske marke. Obsegala je zgornjo dolino reke Noguera Pallaresa od grebena Pirenejev do vasi Tremp, z dolinami Vall d'Àneu, Vall de Cardós in Vall Ferrera, desnim bregom reke Noguera Ribagorçana in dolino reke Flamicell. Približno je ustrezala zgodovinski katalonski pokrajini Pallars. Glavno mesto je bil Sort."
+   ],
+   "notes": [
+    "The Catalan pronunciation in IPA is dropped."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "County of Pallars",
+    "rev": 1354476244,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The County of Pallars or Pallás (Catalan: Comtat de Pallars, IPA: [kumˈtad də pəˈʎas]; Latin: Comitatus Pallariensis) was a de facto independent petty state, nominally within the Carolingian Empire and then West Francia during the ninth and tenth centuries, perhaps one of the Catalan counties, originally part of the Marca Hispanica in the ninth century. It was coterminous with the upper Noguera Pallaresa valley from the crest of the Pyrenees to the village of Tremp, comprising the Vall d'Àneu, Vall de Cardós, Vall Ferrera, the right bank of the Noguera Ribagorçana, and the valley of the Flamicell. It roughly corresponded with the historic region of Catalonia called Pallars. Its chief city was Sort."
+    ]
+   },
+   "records": [
+    "county-of-pallars"
+   ],
+   "translated": "2026-10-23"
+  },
+  "County of Ribagorza": {
+   "headline": "Grofija Ribagorza",
+   "paragraphs": [
+    "Grofija Ribagorza ali Ribagorça (aragonsko: Condato de Ribagorza; katalonsko: Comtat de Ribagorça; latinsko: Comitatus Ripacurtiae) je bila srednjeveška grofija na južni strani Pirenejev, ki je obsegala severovzhod današnje Aragonije in del severozahoda današnje Katalonije, obe v Španiji. Sprva jo je samostojno ustanovila krajevna dinastija, pozneje pa je bila vključena v navarsko kraljestvo in nato v Aragonsko krono. Tesno zgodovinsko je bila povezana s sosednjima grofijama Sobrarbe (na zahodu) in Pallars (na vzhodu). Njeno ozemlje so sestavljale doline rek Ésera, Isábena in Noguera Ribagorzana. Sedež grofov je bil v Benabarreju, med drugimi pomembnimi kraji so Benasque, Graus in Pont de Suert. Zahodni del grofije danes približno ustreza aragonski comarci Ribagorza s središčem v Grausu, vzhodni pa katalonski comarci Alta Ribagorça."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "County of Ribagorza",
+    "rev": 1329170638,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The County of Ribagorza or Ribagorça (Aragonese: Condato de Ribagorza; Catalan: Comtat de Ribagorça; Latin: Comitatus Ripacurtiae) was a medieval county on the southern side of the Pyrenees, including the northeast of modern Aragón and part of the northwest of modern Catalonia, both in Spain. It was originally the independent creation of a local dynasty, later absorbed into the Kingdom of Navarre and then into the Crown of Aragon. It had a strong historical connection with the neighboring counties of Sobrarbe (to the west) and Pallars (to the east). Its territory consisted of the valleys of the rivers Ésera, Isábena, and Noguera Ribagorzana. The seat of its counts was at Benabarre. Other notable towns include Benasque, Graus and Pont de Suert. Today the western portion of the county roughly corresponds to the Aragonese comarca of Ribagorza, with its administrative centre in Graus; the eastern portion roughly corresponds to the Catalan comarca of Alta Ribagorça."
+    ]
+   },
+   "records": [
+    "county-of-ribagorza"
+   ],
+   "translated": "2026-10-23"
+  },
+  "County of Urgell": {
+   "paragraphs": [
+    "Grofija Urgell (katalonsko: Comtat d'Urgell; latinsko: Comitatus Urgellensis) je ena od zgodovinskih katalonskih grofij, ki je mejila na grofiji Pallars in Cerdanya."
+   ],
+   "notes": [
+    "The Catalan pronunciation in IPA is dropped."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "County of Urgell",
+    "rev": 1329167666,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The County of Urgell (Catalan: Comtat d'Urgell, IPA: [komˈtad duɾˈdʒeʎ]; Latin: Comitatus Urgellensis) is one of the historical Catalan counties, bordering on the counties of Pallars and Cerdanya."
+    ]
+   },
+   "records": [
+    "county-of-urgell"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Dál Riata": {
+   "headline": "Dál Riata",
+   "paragraphs": [
+    "Dál Riata ali Dál Riada (tudi Dalriada) je bila gelsko kraljestvo na zahodni obali Škotske in severovzhodu Irske, na obeh straneh Severnega preliva. Na vrhuncu v 6. in 7. stoletju je obsegala današnji Argyll (»obala Gelov«) na Škotskem in del grofije Antrim na Severnem Irskem. Po obdobju širitve se je Dál Riata sčasoma povezala z gelskim kraljestvom Alba."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Dál Riata",
+    "rev": 1380661486,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Dál Riata or Dál Riada (also Dalriada) was a Gaelic kingdom that encompassed the western seaboard of Scotland and northeastern Ireland, on each side of the North Channel. At its height in the 6th and 7th centuries, it covered what is now Argyll (\"Coast of the Gaels\") in Scotland and part of County Antrim in Northern Ireland. After a period of expansion, Dál Riata eventually became associated with the Gaelic Kingdom of Alba."
+    ]
+   },
+   "records": [
+    "dal-riata"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Danish attacks on Norman England": {
+   "headline": "Danski napadi na normansko Anglijo",
+   "paragraphs": [
+    "Danci so normansko Anglijo napadli dvakrat. Prvič so v letih 1069–1070 vdrli v zavezništvu z različnimi angleškimi uporniki in zavzeli najprej York in nato Ely, nazadnje pa so sprejeli podkupnino in zapustili državo. Drugič je šlo za obsežen roparski pohod leta 1075 v podporo uporu grofov, med katerim so opustošili obalo Lincolnshira in York. Tretji napad je bil načrtovan leta 1085: zbrali so veliko invazijsko ladjevje danskih, flamskih in norveških ladij, ki pa ni nikoli izplulo. Vse tri napade je spodbudila zahteva po angleškem prestolu, ki jo je prvi uveljavljal danski kralj Sven II. (vladal 1047–1076), nečak Knuta Velikega, poznejši danski kralji pa so jo vzdrževali vse do 13. stoletja. Toda nobeden od obeh uresničenih napadov ni Svenove zahteve uveljavil niti Dancem ni prinesel ničesar razen nekaj plena."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Danish attacks on Norman England",
+    "rev": 1377147393,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "There were two Danish attacks on Norman England. The first was an invasion in 1069–1070 conducted in alliance with various English rebels which succeeded in taking first York and then Ely before the Danes finally accepted a bribe to leave the country. The second was a large-scale raid in 1075, intended to support the Revolt of the Earls, in which the Lincolnshire coast and York were both ravaged. A third attack was planned in 1085, and a large invasion fleet composed of Danish, Flemish, and Norwegian vessels was assembled which never sailed. All three attacks were motivated by a claim on the English throne asserted originally by Cnut the Great's nephew Sweyn II, king of Denmark (r. 1047–1076), and maintained by later Danish kings until as late as the 13th century, but neither of the two realised attacks succeeded in making Sweyn's claim good, or indeed gained anything for the Danes apart from a certain amount of plunder."
+    ]
+   },
+   "records": [
+    "denmark-england"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Deira": {
+   "paragraphs": [
+    "Deira (starovaližansko/kumbrijsko: Deywr ali Deifr; staroangleško: Dere ali Dera rice) je bila območje v porimski Britaniji in pozneje anglsko kraljestvo."
+   ],
+   "notes": [
+    "The English pronunciation guide is dropped."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Deira",
+    "rev": 1375150246,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Deira ( DY-rə, DAIR-ə; Old Welsh/Cumbric: Deywr or Deifr; Old English: Dere or Dera rice) was an area of Post-Roman Britain, and a later Anglian kingdom."
+    ]
+   },
+   "records": [
+    "kingdom-of-deira"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Denmark-Norway": {
+   "paragraphs": [
+    "Danska - Norveška je bila večnarodna in večjezična realna unija od 16. do 19. stoletja, ki so jo sestavljali Kraljevina Danska, Kraljevina Norveška (s tedanjimi norveškimi čezmorskimi posestmi: Ferskimi otoki, Islandijo, Grenlandijo in drugimi), Vojvodina Schleswig in Vojvodina Holstein. Država je zahtevala suverenost tudi nad tremi zgodovinskimi ljudstvi: Frizijci, Guti in Vendi. Imela je več kolonij, in sicer Dansko Zlato obalo, Dansko Indijo (Nikobarske otoke, Serampore, Tharangambadi) in Dansko Zahodno Indijo.",
+    "Prebivalci države so bili predvsem Danci, Norvežani in Nemci, v norveških čezmorskih posestih pa tudi Ferci, Islandci in Inuiti, na severu Norveške samijska manjšina ter druga domorodna ljudstva. Glavna mesta Danske - Norveške so bila København, Christiania (Oslo), Altona, Bergen in Trondhjem, glavna uradna jezika sta bila danščina in nemščina, krajevno pa so govorili tudi norveško, islandsko, fersko, samijsko in grenlandsko."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Denmark–Norway",
+    "rev": 1381167979,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Denmark–Norway was a 16th-to-19th-century multi-national and multi-lingual real union consisting of the Kingdom of Denmark, the Kingdom of Norway (including the then Norwegian overseas possessions: the Faroe Islands, Iceland, Greenland, and other possessions), the Duchy of Schleswig, and the Duchy of Holstein. The state also claimed sovereignty over three historical peoples: Frisians, Gutes and Wends. Denmark–Norway had several colonies, namely the Danish Gold Coast, Danish India (the Nicobar Islands, Serampore, Tharangambadi), and the Danish West Indies.",
+     "The state's inhabitants were mainly Danes, Norwegians and Germans, and also included Faroese, Icelanders and Inuit in the Norwegian overseas possessions, a Sami minority in northern Norway, as well as other indigenous peoples. The main cities of Denmark–Norway were Copenhagen, Christiania (Oslo), Altona, Bergen and Trondhjem, and the primary official languages were Danish and German, but Norwegian, Icelandic, Faroese, Sami and Greenlandic were also spoken locally."
+    ]
+   },
+   "records": [
+    "denmark-norway",
+    "norway-denmark"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Duchy of Gascony": {
+   "paragraphs": [
+    "Vojvodina Gaskonja ali vojvodina Vaskonija je bila vojvodina na jugozahodu današnje Francije in severovzhodu Španije, na območju današnje pokrajine Gaskonja. Vojvodina, tedaj znana kot Vaskonija, je bila sprva frankovska marka, ustanovljena za obvladovanje Baskov. Doživela je različna obdobja, od zgodnjih let z izrazito baskovsko prvino prek personalne unije z Vojvodino Akvitanijo do poznejšega obdobja, ko je bila odvisno ozemlje angleških kraljev iz rodbine Plantagenet.",
+    "Gaskonja je bila približno 300 let, od leta 1152 do 1453, neprekinjeno pod angleško oblastjo. Francoski kralj Karel VII. je ozemlje znova osvojil kot zadnje dejanje stoletne vojne, Kraljevina Francija pa si je severni del ozemlja priključila leta 1453. Ustrezni del na Iberskem polotoku je postal Kraljestvo Navara."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Duchy of Gascony",
+    "rev": 1371611529,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Duchy of Gascony or Duchy of Vasconia was a duchy located in present-day southwestern France and northeastern Spain, an area encompassing the modern region of Gascony. The Duchy of Gascony, then known as Vasconia, was originally a Frankish march formed to hold sway over the Basques. However, the duchy went through different periods, from its early years with its distinctively Basque element to the merger in personal union with the Duchy of Aquitaine to the later period as a dependency of the Plantagenet kings of England.",
+     "Gascony was under continuous English rule for approximately 300 years, from 1152 to 1453. Charles VII of France reconquered the territory as a final act of the Hundred Years' War and the northern part of the territory was annexed by the Kingdom of France in 1453. The corresponding portion within the Iberian Peninsula became the Kingdom of Navarre."
+    ]
+   },
+   "records": [
+    "duchy-of-gascony-768",
+    "duchy-of-gascony-990"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Dumnonia": {
+   "paragraphs": [
+    "Dumnonija (starogrško: Δαμνόνιον, Damnónion, v pridevniški obliki), polatinjeno ime, je bila britonsko kraljestvo, ki je med 6. in 7. stoletjem n. št. obstajalo v porimski Britaniji, v zahodnejših delih današnje jugozahodne Anglije.",
+    "Predhodno predrimsko ozemlje Dumnonijcev je imelo središče na območju današnjega Devona, obsegalo pa je tudi današnji Cornwall in del Somerseta; njegova vzhodna meja se je sčasoma pomikala proti zahodu, ko se je postopoma širilo sosednje anglosaško kraljestvo Wessex. Včasih se pojavlja tudi zapis Damnonia, ki pa označuje tudi deželo Damnonijcev, pozneje del Kraljestva Strathclyde na jugu današnje Škotske.",
+    "Pojavlja se tudi oblika Domnonia. Ime kraljestva je jezikovno sorodno z imenom bretonske pokrajine Domnonée (bretonsko: Domnonea)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Dumnonia",
+    "rev": 1375656231,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Dumnonia (Ancient Greek: Δαμνόνιον, romanized: Damnónion, in the adjective form), a Latinised name, was a Brythonic kingdom that existed in Sub-Roman Britain between the 6th century CE and the 7th century CE in the more westerly parts of present-day South West England.",
+     "Its predecessor, the pre-Roman Dumnonii territory, was centred in the area of modern Devon, but also included modern Cornwall and part of Somerset; its eastern boundary was moved westward over time with the gradual expansion of the neighbouring Anglo-Saxon kingdom of Wessex. The spelling Damnonia is sometimes encountered, but that spelling is also used for the land of the Damnonii, later part of the Kingdom of Strathclyde, in present-day southern Scotland.",
+     "The form Domnonia also occurs. The name of the kingdom shares a linguistic relationship with the Breton region of Domnonée (Breton: Domnonea)."
+    ]
+   },
+   "records": [
+    "dumnonia"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Dunoding": {
+   "headline": "Dunoding",
+   "paragraphs": [
+    "Dunoding je bil zgodnje podkraljestvo v Kraljestvu Gwynedd na severozahodu Walesa, ki je obstajalo med 5. in 10. stoletjem. Po izročilu je dobil ime po Dunodu, ki je okoli leta 460 z območja pregnal irske naseljence; Dunod je bil sin Cunedde Wlediga, ustanovitelja Gwynedda. Ozemlje je kot podrejeno kraljestvo v Gwyneddu obstajalo, dokler okoli leta 925 ni izumrla rodbina vladarjev, ki so izhajali od Dunoda. Po koncu Dunodove rodbine so ga razdelili na kantrefa Eifionydd in Ardudwy ter ga v celoti priključili Gwyneddu. Ko je bilo kraljestvo Gwynedd leta 1283 poraženo in priključeno Angliji, sta kantrefa postala dela grofij Caernarfonshire oziroma Merionethshire. Danes je ozemlje del sodobne grofije Gwynedd."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Dunoding",
+    "rev": 1344991421,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Dunoding was an early sub-kingdom within the Kingdom of Gwynedd in north-west Wales which existed between the 5th and 10th centuries. According to tradition, it was named after Dunod, a son of the founding father of Gwynedd – Cunedda Wledig – who drove the Irish settlers from the area in c. 460. The territory existed as a subordinate realm within Gwynedd until the line of rulers descended from Dunod expired in c. 925. Following the end of the House of Dunod, it was split into the cantrefi of Eifionydd and Ardudwy and fully incorporated into Gwynedd. After the defeat of the kingdom of Gwynedd in 1283 and its annexation to England, the two cantrefi became parts of the counties of Caernarfonshire and Merionethshire, respectively. It is now part of the modern county of Gwynedd."
+    ]
+   },
+   "records": [
+    "kingdom-of-dunoting"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Earl of Desmond": {
+   "headline": "Grof Desmond",
+   "paragraphs": [
+    "Grof Desmond (irsko: Iarla Dheasumhan, kar pomeni »grof južnega Munstra«) je plemiški naslov, ki ga je angleški monarh ustvaril v irskem plemstvu. Naslov je bil podeljen štirikrat. Prvič ga je leta 1329 dobil Maurice FitzGerald, 4. baron Desmond, hibernsko-normanski gospod na jugozahodu Irske, njegovi potomci pa so ga imeli do leta 1583, ko so se v desmondskih uporih uprli angleški kroni. Po dveh kratkotrajnih ponovnih podelitvah v začetku 17. stoletja ima naslov od leta 1628 rodbina Feilding iz Warwickshira v Angliji. Sedanji nosilec je Alexander Feilding, 12. grof Denbigh in 11. grof Desmond (4. podelitev). Grofija rodbine Fitzgerald je zgodovinsko obsegala vso današnjo grofijo Limerick ter velike dele grofij Cork, Kerry in Waterford. Mejila je na kraljestvi Desmond in Thomond ter na grofijo Ormond."
+   ],
+   "notes": [
+    "The record is the earldom as a state; the article is about the title. \"The early 1600s\" is given as the beginning of the 17th century."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Earl of Desmond",
+    "rev": 1376632964,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Earl of Desmond (Irish: Iarla Dheasumhan meaning Earl of South Munster) is a title of nobility created by the English monarch in the peerage of Ireland. The title has been created four times. It was first awarded in 1329 to Maurice FitzGerald, 4th Baron Desmond, a Hiberno-Norman lord in Southwest Ireland, and it was held by his descendants until 1583 when they rose against the English crown in the Desmond Rebellions. Following two short-lived recreations of the title in the early 1600s, the title has been held since 1628 by the Feilding family of Warwickshire, England. The current holder is Alexander Feilding, 12th Earl of Denbigh and 11th Earl of Desmond (4th creation). The earldom held by the Fitzgerald family historically comprised what is now the entirety of County Limerick with large swathes of County Cork, County Kerry and County Waterford also being included. It bordered the Kingdom of Desmond, Kingdom of Thomond and the Earldom of Ormond"
+    ]
+   },
+   "records": [
+    "earldom-of-desmond"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Habsburg Spain": {
+   "paragraphs": [
+    "Habsburška Španija, znana tudi kot katoliška monarhija, je bila obdobje španske zgodovine in Španskega imperija od leta 1516 do 1700, ko so vladali kralji iz habsburške dinastije. Španski imperij je bil tedaj na vrhuncu moči in vpliva. Španija je imela številna ozemlja, med drugim celinske posesti v Ameriki in Zahodno Indijo; evropska ozemlja, kot so Nizke dežele, italijanska ozemlja, Portugalska in deli Francije; ter Filipine in druge posesti v jugovzhodni Aziji. To obdobje španske zgodovine imenujejo tudi »doba širitve«.",
+    "Člani rodbine imena Habsburg niso vedno uporabljali, pogosto so poudarjali svoje uglednejše kneževske naslove. Dinastija je bila dolgo znana kot »avstrijska hiša«. Poimenovanje tega obdobja kot »habsburškega« je do neke mere pripomoček zgodovinarjev."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Habsburg Spain",
+    "rev": 1380230555,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Habsburg Spain, also known as the Catholic Monarchy, was the period of Spanish history and Spanish Empire from 1516 to 1700 when it was ruled by kings from the House of Habsburg. In this period the Spanish Empire was at the zenith of its power and influence. During this period, Spain held many territories, including Pan-American continental holdings and the West Indies; European territories like the Low Countries, Italian territories, Portugal and parts of France; and the Philippines and other possessions in Southeast Asia. The period of Spanish history has also been referred to as the \"Age of Expansion\".",
+     "The Habsburg name was not always used by the family members, who often emphasized their more prestigious princely titles. The dynasty was long known as the \"House of Austria\". Calling this era \"Habsburg\", is, to some extent, a convenience for historians."
+    ]
+   },
+   "records": [
+    "pro-habsburg-spain"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Hwicce": {
+   "headline": "Hwicce",
+   "paragraphs": [
+    "Hwicce je bilo kraljestvo v anglosaški Angliji. Po Anglosaški kroniki je bilo ustanovljeno leta 577, po bitki pri Deorhamu. Po letu 628 je zaradi bitke pri Cirencestru postalo odvisno kraljestvo ali podkraljestvo Mercie.",
+    "V popisu Tribal Hidage je bilo Hwicce ocenjeno na 7000 hid, kar ustreza kmetijskemu gospodarstvu kraljestva Essex ali Sussex.",
+    "Natančne meje kraljestva niso znane, verjetno pa so se ujemale z mejami stare škofije Worcester, ustanovljene v letih 679–680, katere zgodnji škofje so nosili naslov Episcopus Hwicciorum. Kraljestvo bi torej obsegalo Worcestershire brez severozahodnega roba, Gloucestershire brez gozda Dean, jugozahodno polovico Warwickshira, okolico Batha severno od reke Avon, del zahodnega Oxfordshira ter majhne dele Herefordshira, Shropshira, Staffordshira in severozahodnega Wiltshira."
+   ],
+   "notes": [
+    "The Old English pronunciation in IPA is dropped."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Hwicce",
+    "rev": 1372006177,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Hwicce (Old English: [ˈʍittʃe]) was a kingdom in Anglo-Saxon England. According to the Anglo-Saxon Chronicle, the kingdom was established in 577, after the Battle of Deorham. After 628, the kingdom became a client or sub-kingdom of Mercia as a result of the Battle of Cirencester.",
+     "The Tribal Hidage assessed Hwicce at 7,000 hides, an agricultural economy akin to either the kingdom of Essex or Sussex.",
+     "The exact boundaries of the kingdom remain uncertain, though it is likely that they coincided with those of the old Diocese of Worcester, founded in 679–680, the early bishops of which bore the title Episcopus Hwicciorum. The kingdom would therefore have included Worcestershire except the northwestern tip, Gloucestershire except the Forest of Dean, the southwestern half of Warwickshire, the neighbourhood of Bath north of the Avon, part of west Oxfordshire and small parts of Herefordshire, Shropshire, Staffordshire and north-west Wiltshire."
+    ]
+   },
+   "records": [
+    "hwicce"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Irish Free State": {
+   "paragraphs": [
+    "Irska svobodna država (6. decembra 1922 – 29. decembra 1937), znana tudi z irskim imenom Saorstát Éireann, je bila irska država, ustanovljena decembra 1922 na podlagi angleško-irske pogodbe iz decembra 1921, sprva kot dominion. Pogodba je končala triletno irsko osamosvojitveno vojno med silami Irske republike, Irsko republikansko armado (IRA), in silami britanske krone."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Irish Free State",
+    "rev": 1378372991,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Irish Free State (6 December 1922 – 29 December 1937), also known by its Irish name Saorstát Éireann, was the Irish state established in December 1922 under the Anglo-Irish Treaty of December 1921, initially as a Dominion. The treaty ended the three-year Irish War of Independence between the forces of the Irish Republic—the Irish Republican Army (IRA)—and British Crown forces."
+    ]
+   },
+   "records": [
+    "irish-free-state"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kingdom of Alba": {
+   "headline": "Kraljestvo Alba",
+   "paragraphs": [
+    "Kraljestvo Alba (latinsko: Scotia; škotsko gelsko: Alba) je bilo ime Kraljevine Škotske v obdobju od smrti Donalda II. leta 900 do smrti Aleksandra III. leta 1286. Aleksandrova smrt je posredno pripeljala do vdora angleškega kralja Edvarda I. na Škotsko leta 1296 in do prve škotske osamosvojitvene vojne.",
+    "Alba je vključevala Dalriado, sprva pa ni obsegala velikih delov današnjega Škotskega nižavja, ki sta si ga tedaj vse do zaliva Firth of Forth na severu delila Strathclyde in Northumbrija. Piktsko kraljestvo Fortriu na severu je bilo Albi priključeno v 10. stoletju.",
+    "Do začetka 13. stoletja Moraya niso šteli za del Albe, za katero so menili, da sega le od zaliva Firth of Forth do reke Spey."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Alba",
+    "rev": 1291961087,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Kingdom of Alba (Latin: Scotia; Scottish Gaelic: Alba) was the Kingdom of Scotland between the deaths of Donald II in 900 and of Alexander III in 1286. The latter's death led indirectly to an invasion of Scotland by Edward I of England in 1296 and the First War of Scottish Independence.",
+     "Alba included Dalriada, but initially excluded large parts of the present-day Scottish Lowlands, which were then divided between Strathclyde and Northumbria as far north as the Firth of Forth. Fortriu, a Pictish kingdom in the north, was added to Alba in the tenth century.",
+     "Until the early 13th century, Moray was not considered part of Alba, which was seen as extending only between the Firth of Forth and the River Spey."
+    ]
+   },
+   "records": [
+    "kingdom-of-alba"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kingdom of Castile": {
+   "paragraphs": [
+    "Kraljestvo Kastilija je bilo srednjeveška država na Iberskem polotoku. Izvira iz grofije Kastilija iz 9. stoletja, vzhodnega obmejnega gospostva Kraljestva León. Kastiljski grofje so v 10. stoletju povečali svojo samostojnost, a šele leta 1065 se je Kastilija ločila od Kraljestva León in postala samostojno kraljestvo. Med letoma 1072 in 1157 je bila znova združena z Leónom, po letu 1230 pa je zveza postala trajna.",
+    "V tem obdobju so kastiljski kralji na jugu Iberskega polotoka na račun islamskih kneževin veliko osvojili. Kraljestvi Kastilija in León s svojimi južnimi pridobitvami sta postali znani kot Kastiljska krona, izraz, ki je pozneje zajemal tudi čezmorsko širitev."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Castile",
+    "rev": 1359991498,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Kingdom of Castile was a polity in the Iberian Peninsula during the Middle Ages. It traces its origins to the 9th-century County of Castile, as an eastern frontier lordship of the Kingdom of León. During the 10th century, the Castilian counts increased their autonomy, but it was not until 1065 that it was separated from the Kingdom of León and became a kingdom in its own right. Between 1072 and 1157, it was again united with León, and after 1230, the union became permanent.",
+     "Throughout that period, the Castilian kings made extensive conquests in southern Iberia at the expense of the Islamic principalities. The Kingdoms of Castile and of León, with their southern acquisitions, came to be known collectively as the Crown of Castile, a term that also came to encompass overseas expansion."
+    ]
+   },
+   "records": [
+    "kingdom-of-castile"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kingdom of East Anglia": {
+   "paragraphs": [
+    "Kraljestvo Vzhodnih Anglov (staroangleško: Ēastengla Rīċe; latinsko: Regnum Orientalium Anglorum), neuradno znano kot Kraljestvo Vzhodna Anglija ali Vzhodna Anglija, je bilo zgodnjesrednjeveško angleško kraljestvo Anglov v anglosaškem obdobju, ki je obstajalo od 6. stoletja do leta 918 n. št. Obsegalo je ozemlje današnjih angleških grofij Norfolk in Suffolk ter morda vzhodni del Fens; območje se še danes imenuje Vzhodna Anglija.",
+    "Kraljestvo, ki je nastalo v 6. stoletju po anglosaški naselitvi Britanije, je bilo eno od kraljestev heptarhije. V 7. in 8. stoletju je vladala rodbina Wuffingas, leta 794 pa je ozemlje zavzel mercijski kralj Offa. Po Offovi smrti je mercijska oblast za kratek čas popustila, nato pa so jo znova vzpostavili. Danska velika poganska vojska se je leta 865 izkrcala v Vzhodni Angliji; po zavzetju Yorka se je vrnila, leta 869 ubila kralja Edmunda (»Mučenca«) in deželo spremenila v dansko. Ko je Alfred Veliki Dancem vsilil pogodbo, je Vzhodna Anglija ostala del danskega prava (Danelaw)."
+   ],
+   "notes": [
+    "The English pronunciation in IPA is dropped."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of East Anglia",
+    "rev": 1375365773,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Kingdom of the East Angles (/ˈæŋ.ɡli.ə/; Old English: Ēastengla Rīċe; Latin: Regnum Orientalium Anglorum), informally known as the Kingdom of East Anglia or East Anglia, was an early medieval English kingdom of the Angles during the Anglo-Saxon period, existing from the 6th century to 918 CE. It comprised the territory which now constitutes the English counties of Norfolk and Suffolk and perhaps the eastern part of the Fens; the area is still known as East Anglia.",
+     "The kingdom formed in the 6th century in the wake of the Anglo-Saxon settlement of Britain was one of the kingdoms of the Heptarchy. It was ruled by the Wuffingas dynasty in the 7th and 8th centuries, but the territory was taken by Offa of Mercia in 794. Mercian control lapsed briefly following the death of Offa but was re-established. The Danish Great Heathen Army landed in East Anglia in 865; after taking York it returned to East Anglia, killing King Edmund (\"the Martyr\") and making it Danish land in 869. After Alfred the Great forced a treaty with the Danes, East Anglia was left as part of the Danelaw."
+    ]
+   },
+   "records": [
+    "kingdom-of-east-anglia"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kingdom of Essex": {
+   "paragraphs": [
+    "Kraljestvo Vzhodnih Sasov, imenovano Kraljestvo Essex, je bilo zgodnjesrednjeveško angleško kraljestvo, eno od sedmih tradicionalnih kraljestev anglosaškega obdobja. Ustanovljeno je bilo v 6. stoletju in je obsegalo ozemlje poznejših grofij Essex in Middlesex, velikega dela Hertfordshira in (za kratek čas) zahodnega Kenta. Zadnji kralj Essexa je bil Sigered, ki je leta 825 kraljestvo prepustil wessexškemu kralju Ecgberhtu."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Essex",
+    "rev": 1373209428,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Kingdom of the East Saxons, referred to as the Kingdom of Essex, was an early medieval English kingdom, constituting one of the seven traditional kingdoms of the Anglo-Saxon period. It was founded in the 6th century and covered the territory later occupied by the counties of Essex, Middlesex, much of Hertfordshire and (for a short while) west Kent. The last king of Essex was Sigered of Essex, who in 825 ceded the kingdom to Ecgberht, King of Wessex."
+    ]
+   },
+   "records": [
+    "kingdom-of-essex"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kingdom of Galicia": {
+   "paragraphs": [
+    "Kraljestvo Galicija je bilo politična tvorba v jugozahodni Evropi, ki je na vrhuncu ozemeljskega obsega zavzemala ves severozahod Iberskega polotoka. Nastalo je v začetku 10. stoletja z razdelitvijo Kraljestva Asturija po smrti Alfonza III. leta 910: njegovi sinovi so si kraljestvo razdelili in Galicijo je podedoval Ordoño II. Galicija je postala samostojna politična tvorba, a je z leonskim in asturijskim kraljestvom ostala tesno povezana z dinastičnimi vezmi. Ordoño II. jo je pozneje, ko je podedoval León, vključil v Kraljestvo León. Kraljestvo Galicija je bilo občasno napol neodvisno, navadno pa so ga imeli za del Kraljestva León. Santiago de Compostela je postal prestolnica Galicije v 11. stoletju, neodvisnost Portugalske (1128) pa je določila njeno južno mejo. Ko je kastiljski kralj Ferdinand III. leta 1230 nasledil leonski prestol, je Galicija prišla pod nadzor Kastiljske krone."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Galicia",
+    "rev": 1380362124,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Kingdom of Galicia was a political entity located in southwestern Europe, which, at its territorial zenith, occupied the entire northwest of the Iberian Peninsula. In the early 10th century, the Kingdom of Galicia was formed following the division of the Kingdom of Asturias after the death of Alfonso III in 910. His sons split the kingdom, with Ordoño II inheriting Galicia. While Galicia became a distinct political entity, it remained closely tied to the Leonese and Asturian realms through dynastic connections. Later, Ordoño II integrated Galicia into the Kingdom of León when he inherited the latter. Though the Kingdom of Galicia had moments of semi-independence, it was typically seen as part of the Kingdom of León. Santiago de Compostela became the capital of Galicia in the 11th century, while the independence of Portugal (1128) determined its southern boundary. The accession of Castilian King Ferdinand III to the Leonese kingdom in 1230 brought Galicia under the control of the Crown of Castile."
+    ]
+   },
+   "records": [
+    "kingdom-of-galicia-1034",
+    "kingdom-of-galicia-911"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kingdom of Gwent": {
+   "paragraphs": [
+    "Gwent (starovaližansko: Guent) je bil srednjeveško valižansko kraljestvo med rekama Wye in Usk. Obstajal je od konca rimske oblasti v Britaniji okoli 5. stoletja do normanske invazije na Wales v 11. stoletju. Skupaj s sosednjim Glywysingom je imel očitno veliko kulturne kontinuitete s starejšimi Siluri: kraljestvi sta ohranili svoje dvore in škofijo, ločeno od preostalega Walesa, dokler ju ni osvojil Gruffydd ap Llywelyn. Čeprav je po njegovi smrti leta 1063 znova postal neodvisen, je bil Gwent prvo valižansko kraljestvo, ki so ga po normanski osvojitvi pregazili."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Gwent",
+    "rev": 1371113769,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Gwent (Old Welsh: Guent) was a medieval Welsh kingdom, lying between the Rivers Wye and Usk. It existed from the end of Roman rule in Britain in about the 5th century until the Norman invasion of Wales in the 11th century. Along with its neighbour Glywysing, it seems to have had a great deal of cultural continuity with the earlier Silures, keeping their own courts and diocese separate from the rest of Wales until their conquest by Gruffydd ap Llywelyn. Although it recovered its independence after his death in 1063, Gwent was the first of the Welsh kingdoms to be overrun following the Norman conquest."
+    ]
+   },
+   "records": [
+    "kingdom-of-gwent"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kingdom of Gwynedd": {
+   "paragraphs": [
+    "Kraljestvo Gwynedd je bilo valižansko kraljestvo, ki se je prvič pojavilo na prelomu 6. stoletja. Vladarji Gwynedda s središčem na severozahodu Walesa so se večkrat povzpeli do prevlade in bili razglašeni za »kralja Britov«, nato pa so oblast izgubili v državljanskih vojnah ali invazijah. Kraljestvo Gruffudda ap Llywelyna, kralja Walesa od leta 1055 do 1063, je leta 1063, tik pred normansko invazijo na Wales, razbila saška invazija. Rodbina Aberffraw, ki jo je obnovil Gruffudd ap Cynan, si je počasi opomogla, in Llywelyn Veliki iz Gwynedda je leta 1216 na zboru valižanskih knezov v Aberdyfiju razglasil Kneževino Wales. Pogodba iz Aberconwyja med angleškim kraljem Edvardom I. in Llywelynovim vnukom Llywelynom ap Gruffuddom je leta 1277 prinesla mir, hkrati pa je zagotovila, da se bo valižanska samouprava z Llywelynovo smrtjo končala, zato je pomenila konec prve faze Edvardove osvojitve Walesa."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Gwynedd",
+    "rev": 1374613984,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Kingdom of Gwynedd was a Welsh kingdom which first appeared at the turn of the sixth century. Based in northwest Wales, the rulers of Gwynedd repeatedly rose to dominance and were acclaimed as \"King of the Britons\" before losing their power in civil wars or invasions. The kingdom of Gruffudd ap Llywelyn—the King of Wales from 1055 to 1063—was shattered by a Saxon invasion in 1063 just prior to the Norman invasion of Wales, but the House of Aberffraw restored by Gruffudd ap Cynan slowly recovered and Llywelyn the Great of Gwynedd was able to proclaim the Principality of Wales at the Aberdyfi gathering of Welsh princes in 1216. In 1277, the Treaty of Aberconwy between Edward I of England and Llywelyn's grandson Llywelyn ap Gruffudd granted peace between the two but would also guarantee that Welsh self-rule would end upon Llywelyn's death, and so it represented the completion of the first stage of the conquest of Wales by Edward I."
+    ]
+   },
+   "records": [
+    "kingdom-of-gwynedd"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kingdom of Kent": {
+   "paragraphs": [
+    "Kraljestvo Kentčanov, danes imenovano Kraljestvo Kent, je bilo zgodnjesrednjeveško angleško kraljestvo na območju današnje jugovzhodne Anglije. Obstajalo je od 5. ali 6. stoletja n. št., dokler ga sredi 9. stoletja ni v celoti vsrkalo Kraljestvo Wessex, v začetku 10. stoletja pa Kraljestvo Anglija."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Kent",
+    "rev": 1373173105,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Kingdom of the Kentish, today referred to as the Kingdom of Kent, was an early medieval English kingdom in present-day South East England. It existed from either the fifth or the sixth century AD until it was fully absorbed into the Kingdom of Wessex in the mid-9th century and later into the Kingdom of England in the early 10th century."
+    ]
+   },
+   "records": [
+    "kingdom-of-kent"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kingdom of León": {
+   "paragraphs": [
+    "Kraljestvo León je bilo srednjeveška država na severozahodu Iberskega polotoka. Ustanovljeno je bilo leta 910, ko so krščanski knezi Asturije ob severni obali polotoka prestolnico preselili iz Ovieda v mesto León. Leonski kralji so se v nemirnem času bojevali v državljanskih vojnah, vojnah s sosednjimi kraljestvi ter proti vpadom Mavrov in Vikingov, da bi ohranili svoje kraljestvo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of León",
+    "rev": 1377214835,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Kingdom of León was a medieval state situated in the northwest region of the Iberian Peninsula. It was founded in 910, when the Christian princes of Asturias along the northern coast of the peninsula shifted their capital from Oviedo to the city of León. The kings of León fought civil wars, wars against neighbouring kingdoms, and invasions by the Moors and the Vikings, to sustain their kingdom through a turbulent age."
+    ]
+   },
+   "records": [
+    "kingdom-of-leon-1126",
+    "kingdom-of-leon-911"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kingdom of Lindsey": {
+   "headline": "Kraljestvo Lindsey",
+   "paragraphs": [
+    "Kraljestvo Lindsey (staroangleško: Lindesege) je bilo manjše anglosaško kraljestvo na območju današnjega severnega Lincolnshira v 6. in 7. stoletju, morda pa je obstajalo še v začetku 8. stoletja. Ime Lindsey izhaja iz staroangleškega toponima Lindesege, »otok Lind«. Rimljani so naselje, ki je danes mesto Lincoln v Lincolnshiru, imenovali Lindum Colonia. (V stari angleščini se je Lindum Colonia skrajšalo v Lindocolina in nato v Lincylene.) Lindum je polatinjena oblika domačega britonskega imena, ki so ga rekonstruirali kot *Lindon (dobesedno »tolmun« ali »jezero«; prim. sodobno valižansko llyn)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Lindsey",
+    "rev": 1378414475,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Lindsey (Old English: Lindesege) was a lesser Anglo-Saxon kingdom in what is now north Lincolnshire in the sixth and seventh centuries, possibly extending into the early eighth century. The name Lindsey derives from the Old English toponym Lindesege, meaning \"Isle of Lind\". Lindum Colonia was the Roman name of the settlement which is now the City of Lincoln in Lincolnshire. (Lindum Colonia was shortened in Old English to Lindocolina and then Lincylene.) Lindum was a Latinised form of a native Brittonic name which has been reconstructed as *Lindon (lit. 'pool' or 'lake'; cf. modern Welsh llyn)."
+    ]
+   },
+   "records": [
+    "kingdom-of-lindsey"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kingdom of Majorca": {
+   "paragraphs": [
+    "Kraljestvo Majorka je bilo otoško kraljestvo ob vzhodni obali današnje Španije, ki je obsegalo otoke Majorka, Minorka, Ibiza in Formentera. Otoke je Almohadskemu kalifatu odvzel aragonski kralj Jakob I. in jih vključil v Aragonsko krono. Zaradi osvojitve Majorke je dobil vzdevek Jakob Osvajalec.",
+    "Jakob I. je ob smrti leta 1276 svoja ozemlja razdelil med tri preživele sinove. Najstarejši, Peter, je očeta nasledil na celini kot aragonski kralj Peter III. ali Peter Veliki. Kraljestvo Majorka je prešlo na mlajšega sina Jakoba, ki je vladal kot Jakob II. Majorški.",
+    "Peter III. Aragonski je po letu 1279 odredil, da mora biti majorški kralj vazal aragonskega kralja, kar je seveda pripeljalo do spora med bratoma. Nazadnje je leta 1344 Kraljestvo Majorko zasedel aragonski kralj Peter IV. in ga priključil Aragonski kroni. Ostalo je ločeno kraljestvo, a z istim kraljem, dokler ga leta 1715 niso odpravili dekreti Nueva Planta."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Majorca",
+    "rev": 1379543148,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Kingdom of Majorca was an insular realm off the east coast of modern day Spain, which included the islands of Mallorca, Menorca, Ibiza and Formentera. The islands were conquered from the Almohad Caliphate by James I of Aragon, and were integrated in the Crown of Aragon. The king became known as James the Conqueror due to the Conquest of Majorca.",
+     "When James I died in 1276, he divided his territories between his three surviving sons. Peter, the eldest, succeeded his father in the mainland as Peter III of Aragon or Peter the Great. The Kingdom of Majorca passed to the younger son James, who reigned as James II of Majorca.",
+     "After 1279, Peter III of Aragon decreed that the King of Majorca was to be a vassal of the King of Aragon. Naturally, this led to conflict between the two brothers. Finally, in 1344, the Kingdom of Mallorca was invaded by King Peter IV of Aragon and brought under the Crown of Aragon. It remained a separate Kingdom, but with the same King, until its dissolution in 1715 by the Nueva Planta decrees."
+    ]
+   },
+   "records": [
+    "kingdom-of-majorca"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kingdom of Scotland": {
+   "paragraphs": [
+    "Kraljevina Škotska je bila suverena država v severozahodni Evropi, ki naj bi bila po izročilu ustanovljena leta 843. Njeno ozemlje se je širilo in krčilo, sčasoma pa je zavzela severno tretjino otoka Velika Britanija in na jugu mejila na Kraljevino Anglijo. V srednjem veku se je Škotska občasno vojskovala z Anglijo, najbolj znane so škotske osamosvojitvene vojne, v katerih so Škoti ohranili in uveljavili svojo neodvisnost od Angležev. Ko si je Škotska leta 1266 od Norveške priključila Hebride in leta 1472 Severne otoke, Anglija pa leta 1482 zavzela Berwick, je ozemlje Kraljevine Škotske ustrezalo današnji Škotski, ki jo na vzhodu omejuje Severno morje, na severu in zahodu Atlantski ocean, na jugozahodu pa Severni preliv in Irsko morje."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Scotland",
+    "rev": 1374881403,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Kingdom of Scotland was a sovereign state in northwest Europe, traditionally said to have been founded in 843. Its territories expanded and shrank, but it came to occupy the northern third of the island of Great Britain, sharing a land border to the south with the Kingdom of England. During the Middle Ages, Scotland engaged in intermittent conflict with England, most prominently the Wars of Scottish Independence, which saw the Scots maintain and assert their independence from the English. Following Scotland's annexation of the Hebrides and the Northern Isles from Norway in 1266 and 1472 respectively, and England's capture of Berwick in 1482, the territory of the Kingdom of Scotland corresponded to that of modern-day Scotland, bounded by the North Sea to the east, the Atlantic Ocean to the north and west, and the North Channel and Irish Sea to the southwest."
+    ]
+   },
+   "records": [
+    "kingdom-of-scotland"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kingdom of the Isles": {
+   "headline": "Kraljestvo otokov",
+   "paragraphs": [
+    "Kraljestvo otokov je bilo nordijsko-gelsko kraljestvo, ki je od 9. do 13. stoletja obsegalo otok Man, Hebride in otoke v zalivu Clyde. Imenujejo ga tudi Sodor ali Sudreys, po staronordijskem imenu Suðreyjar, »južni otoki«, v nasprotju z Norðreyjar, severnimi otoki Orkney in Shetland. Nekatere poznejše vladarje so imenovali kralji Mana in otokov. Zgodovinski viri so nepopolni in kraljestvo v vsem obdobju ni bilo neprekinjena celota. Občasno je bilo neodvisno od zunanjega nadzora, čeprav so bili otoki večji del obdobja norveško odvisno ozemlje, njihovi vladarji pa so imeli nadoblastnike na Norveškem, Orkneyju ali Irskem. Kot kaže, so si občasno celotno ozemlje ali njegove dele lastili tudi tekmeci. Otoki imajo skupno več kot 8300 kvadratnih kilometrov kopnega in se raztezajo več kot 500 kilometrov od severa proti jugu."
+   ],
+   "notes": [
+    "The square-mile and mile conversions are dropped."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of the Isles",
+    "rev": 1373214961,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Kingdom of the Isles was a Norse–Gaelic kingdom comprising the Isle of Man, the Hebrides and the islands of the Clyde from the 9th to the 13th centuries. It is also called Sodor or the Sudreys, from its Old Norse name Suðreyjar, or \"Southern Isles\"; as distinct from the Norðreyjar or Northern Isles of Orkney and Shetland. Some of its later rulers were referred to as kings of Mann and the Isles. The historical record is incomplete, and the kingdom was not a continuous entity throughout the whole period. At times it was independent of outside control, although for much of the period the Isles were a Norwegian dependency and its rulers had overlords in Norway, Orkney, or Ireland. At times there also appear to have been competing claims for all or parts of the territory. The islands have a total land area of over 8,300 square kilometres (3,205 sq mi) and extend for more than 500 kilometres (310 mi) from north to south."
+    ]
+   },
+   "records": [
+    "kingdom-of-mann",
+    "kingdom-of-the-isles"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kingdom of the Suebi": {
+   "paragraphs": [
+    "Kraljestvo Suebov (latinsko: Regnum Suevorum), imenovano tudi Kraljestvo Galicija (latinsko: Regnum Galicia) ali suebsko kraljestvo Galicija (latinsko: Galicia suevorum regnum), je bilo germansko porimsko kraljestvo, eno prvih, ki so se odcepila od Rimskega cesarstva. Dejansko kraljestvo s središčem v nekdanjih rimskih provincah Galecija in severna Luzitanija so Suebi ustanovili okoli leta 409, v 6. stoletju pa je postalo formalno razglašeno kraljestvo, ki se je istovetilo z Galecijo. Neodvisnost je ohranilo do leta 585, ko so ga priključili Vizigoti in ga spremenili v šesto provinco Vizigotskega kraljestva v Hispaniji."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of the Suebi",
+    "rev": 1374876932,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Kingdom of the Suebi (Latin: Regnum Suevorum), also called the Kingdom of Galicia (Latin: Regnum Galicia) or Suebi Kingdom of Galicia (Latin: Galicia suevorum regnum), was a Germanic post-Roman kingdom that was one of the first to separate from the Roman Empire. Based in the former Roman provinces of Gallaecia and northern Lusitania, the de facto kingdom was established by the Suebi about 409, and during the 6th century it became a formally declared kingdom identifying with Gallaecia. It maintained its independence until 585, when it was annexed by the Visigoths, and was turned into the sixth province of the Visigothic Kingdom in Hispania."
+    ]
+   },
+   "records": [
+    "kingdom-of-the-suebi"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Nationalist faction (Spanish Civil War)": {
+   "paragraphs": [
+    "Nacionalistična frakcija (špansko: Bando nacional), imenovana tudi uporniška frakcija (Bando sublevado) in frankistična frakcija (Bando franquista), je bila glavna stran v španski državljanski vojni v letih 1936–1939. Sestavljale so jo različne desničarske politične skupine, ki so podprle španski državni udar julija 1936 proti drugi španski republiki in republikanski strani ter hotele odstaviti Manuela Azaño. Vključevala je Falange Española de las JONS, CEDA (»Španska konfederacija avtonomne desnice«) in dve monarhistični skupini, ki sta podpirali tekmeca za prestol: alfonsistično Renovación Española (Španska prenova) in karlistično Comunión Tradicionalista (Tradicionalistično občestvo). Dekret o združitvi je leta 1937 vse te skupine združil v FET y de las JONS. Med vojno so se nacionalistične skupine, ki so kazale nekatere »fašizoidne« in »predfašistične« težnje, poenotile okoli novega ideološkega projekta, ki sta ga zaznamovala sodoben ultranacionalizem in cilj narod očistiti in preroditi v »grmadi« vojne ter po zgledu italijanskega fašizma ustvariti španskega »novega človeka«."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Nationalist faction (Spanish Civil War)",
+    "rev": 1379444012,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Nationalist faction (Spanish: Bando nacional), also called the Rebel faction (Spanish: Bando sublevado) and Francoist faction (Spanish: Bando franquista), was a major faction in the Spanish Civil War of 1936 to 1939. It was composed of a variety of right-wing political groups that supported the Spanish coup of July 1936 against the Second Spanish Republic and Republican faction and sought to depose Manuel Azaña. It included the Falange Española de las JONS, the CEDA ('Spanish Confederation of the Autonomous Right'), and two rival monarchist claimants: the Alfonsist Spanish Renovation and the Carlist Traditionalist Communion. In 1937, the Unification Decree merged all these groups into the FET y de las JONS. In the course of the war, the Nationalist groups, which exhibited certain \"fascisant\" and \"pre-fascist\" tendencies, became unified around a new emerging ideological project marked by modern ultranationalism and the goal of purifying and reviving the nation in the \"bonfire\" of the war to achieve a Spanish \"New Man\" similarly to Italian Fascism."
+    ]
+   },
+   "records": [
+    "spanish-nationalists"
+   ],
+   "translated": "2026-10-23"
+  },
+  "North Sea Empire": {
+   "headline": "Severnomorski imperij",
+   "paragraphs": [
+    "Severnomorski imperij, znan tudi kot anglo-skandinavski imperij, je bil personalna unija kraljestev Anglije, Danske in Norveške v večjem delu obdobja med letoma 1013 in 1042, proti koncu vikinške dobe. Ta kratkotrajni imperij pod nordijsko oblastjo je bil talasokracija, katere dele je povezovalo le morje in so bili od njega odvisni.",
+    "Prvi kralj, ki je združil vsa tri kraljestva, je bil Sven Vilobradi, danski kralj od leta 986 in norveški od leta 1000: to mu je uspelo, ko je leta 1013 osvojil Anglijo. Umrl je naslednje leto in njegovo kraljestvo je bilo razdeljeno. Njegov sin Knut Veliki je leta 1016 pridobil Anglijo, leta 1018 Dansko in leta 1028 Norveško. Umrl je leta 1035 in kraljestvo je bilo znova razdeljeno, toda njegov naslednik na Danskem, Hardeknut, je leta 1040 podedoval Anglijo in ji vladal do svoje smrti leta 1042. Na vrhuncu moči, ko je vladal vsem trem kraljestvom (1028–1035), je bil Knut za cesarjem Svetega rimskega cesarstva najmočnejši vladar zahodne Evrope."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "North Sea Empire",
+    "rev": 1373214816,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The North Sea Empire, also known as the Anglo-Scandinavian Empire, was the personal union of the kingdoms of England, Denmark and Norway for most of the period between 1013 and 1042 towards the end of the Viking Age. This ephemeral Norse-ruled empire was a thalassocracy, its components only connected by and dependent upon the sea.",
+     "The first king to unite all three kingdoms was Sweyn Forkbeard, king of Denmark since 986 and of Norway since 1000, when he conquered England in 1013. He died in the following year, and his realm was divided. His son Cnut the Great acquired England in 1016, Denmark in 1018 and Norway in 1028. He died in 1035 and his realm was again divided, but his successor in Denmark, Harthacnut, inherited England in 1040 and ruled it until his death in 1042. At the height of his power, when Cnut ruled all three kingdoms (1028–1035), he was the most powerful ruler in western Europe after the Holy Roman Emperor."
+    ]
+   },
+   "records": [
+    "north-sea-empire"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Taifa of Badajoz": {
+   "headline": "Taifa Badajoz",
+   "paragraphs": [
+    "Taifa Badajoz (arabsko: طائفة بطليوس) je bila srednjeveško islamsko mavrsko kraljestvo na ozemlju današnje Portugalske in Španije. Središče je imela v mestu Badajoz, ki je danes največje mesto Extremadure v Španiji."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Taifa of Badajoz",
+    "rev": 1371136495,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Taifa of Badajoz (from Arabic: طائفة بطليوس) was a medieval Islamic Moorish kingdom located in what is now parts of Portugal and Spain. It was centred on the city of Badajoz which exists today as the first city of Extremadura, in Spain."
+    ]
+   },
+   "records": [
+    "taifa-of-badajoz-1010"
+   ],
+   "translated": "2026-10-23"
+  }
+ }
+}
