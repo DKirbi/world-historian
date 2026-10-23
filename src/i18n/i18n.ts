@@ -85,7 +85,8 @@ export function createI18n(locale: Locale): I18n {
   const format = (key: string, values?: Values) => {
     const found = lookup(locale, key);
     if (!found) return key;
-    return String(formatter(found.locale, key, found.message).format(values ?? {}));
+    // A value ending in an abbreviation ("1 n. št.") before the message's own full stop leaves two; keep one.
+    return String(formatter(found.locale, key, found.message).format(values ?? {})).replace(/(?<!\.)\.\.(?!\.)/g, '.');
   };
 
   const i18n: I18n = {

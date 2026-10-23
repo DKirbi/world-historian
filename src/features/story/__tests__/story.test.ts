@@ -6,7 +6,7 @@ import { capColumns, maxColumns, packLane } from '@/lib/pack';
 import type { Span } from '@/data/types';
 import { decodeHash, encodeHash, sameStory, type StoryRef } from '@/state/url';
 import { buildStory } from '../templates';
-import { headlineFromTitle, paragraphs } from '../wiki';
+import { headlineFromTitle, paragraphs, resolveTitle, setWikiFetch } from '../wiki';
 
 const europe = assembleRegion('europe', (p) => files[`/data/${p}`]);
 const en = { region: europe, i18n: createI18n('en') };
@@ -116,6 +116,11 @@ describe('story templates', () => {
     const croatia = buildStory({ kind: 'era', id: 'croatia-kingdom-of-croatia', lane: 'croatia' }, en);
     expect(croatia.article).toEqual({ enTitle: 'History of Croatia', sectionLike: 'Kingdom of Croatia (925–1102)' });
   });
+  it('ends a sentence once when it closes on an abbreviated date', () => {
+    expect(sl.i18n.t('story.era.lede', { page: 'X', from: '1000 pr. n. št.', to: '1 n. št.' })).toBe(
+      'Po članku »X« v Wikipediji traja to obdobje od 1000 pr. n. št. do 1 n. št.',
+    );
+  });
   it('names a period bin in the reader’s language and reads no article for it', () => {
     const bin = europe.eras.find((e) => e.basis === 'period-bin' && e.name === 'Late Middle Ages')!;
     const m = buildStory({ kind: 'era', id: bin.id }, sl);
@@ -146,5 +151,26 @@ describe('Wikipedia text', () => {
   it('drops a title’s disambiguation from a headline', () => {
     expect(headlineFromTitle('Kranjska (vojvodina)')).toBe('Kranjska');
     expect(headlineFromTitle('Habsburška monarhija')).toBe('Habsburška monarhija');
+  });
+});
+
+describe('Wikipedia requests', () => {
+  it('serve a request shared by two callers to the second when the first cancels', async () => {
+    // a fake network that honours an AbortSignal, as fetch does
+    setWikiFetch(
+      (_url, init) =>
+        new Promise<Response>((resolve, reject) => {
+          init?.signal?.addEventListener('abort', () => reject(new DOMException('aborted', 'AbortError')));
+          const body = { query: { pages: [{ title: 'Woodland period', langlinks: [{ lang: 'sl', title: 'Gozdno obdobje' }] }] } };
+          setTimeout(() => resolve(new Response(JSON.stringify(body))), 5);
+        }),
+    );
+    const first = new AbortController();
+    const a = resolveTitle({ enTitle: 'Woodland period' }, 'sl', first.signal);
+    // the story closed and reopened at once (or StrictMode undid and redid its first mount)
+    first.abort();
+    const b = resolveTitle({ enTitle: 'Woodland period' }, 'sl', new AbortController().signal);
+    await expect(a).rejects.toThrow();
+    await expect(b).resolves.toBe('Gozdno obdobje');
   });
 });

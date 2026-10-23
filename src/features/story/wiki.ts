@@ -71,24 +71,40 @@ export const setWikiFetch = (f: Fetch) => {
 
 const memo = new Map<string, Promise<unknown>>();
 
+/** `p` for one caller: rejects with an AbortError as soon as that caller's `signal` aborts. */
+function abortable<T>(p: Promise<T>, signal?: AbortSignal): Promise<T> {
+  if (!signal) return p;
+  const aborted = () => new DOMException('The request was cancelled', 'AbortError');
+  if (signal.aborted) return Promise.reject(aborted());
+  return new Promise<T>((resolve, reject) => {
+    const onAbort = () => reject(aborted());
+    signal.addEventListener('abort', onAbort, { once: true });
+    p.then(resolve, reject).finally(() => signal.removeEventListener('abort', onAbort));
+  });
+}
+
 async function api<T>(host: string, params: Record<string, string>, signal?: AbortSignal): Promise<T> {
   const url = new URL(`https://${host}/w/api.php`);
   const all = { action: 'query', format: 'json', formatversion: '2', origin: '*', ...params };
   for (const [k, v] of Object.entries(all).sort(([a], [b]) => a.localeCompare(b))) url.searchParams.set(k, v);
   const key = url.toString();
-  const hit = memo.get(key);
-  if (hit) return hit as Promise<T>;
-  const p = (async () => {
-    const res = await fetcher(key, { headers: { 'Api-User-Agent': API_USER_AGENT }, signal });
-    if (!res.ok) throw new WikiError(`Wikipedia answered ${res.status}`, res.status);
-    const body = (await res.json()) as T & { error?: { info?: string } };
-    if (body.error) throw new WikiError(body.error.info ?? 'Wikipedia returned an error');
-    return body as T;
-  })();
-  memo.set(key, p);
-  // a failed or cancelled request is not remembered, so "Try again" really tries again
-  p.catch(() => memo.delete(key));
-  return p;
+  // One request per URL, shared by every caller, so it is not tied to any caller's signal: a story closed
+  // and reopened (or mounted twice by React's StrictMode) gets the pending request, and the first
+  // caller's cancellation must not fail it for the second. Each caller still stops waiting when it cancels.
+  let p = memo.get(key) as Promise<T> | undefined;
+  if (!p) {
+    p = (async () => {
+      const res = await fetcher(key, { headers: { 'Api-User-Agent': API_USER_AGENT } });
+      if (!res.ok) throw new WikiError(`Wikipedia answered ${res.status}`, res.status);
+      const body = (await res.json()) as T & { error?: { info?: string } };
+      if (body.error) throw new WikiError(body.error.info ?? 'Wikipedia returned an error');
+      return body as T;
+    })();
+    memo.set(key, p);
+    // a failed request is not remembered, so "Try again" really tries again
+    p.catch(() => memo.delete(key));
+  }
+  return abortable(p, signal);
 }
 
 const wiki = (lang: string) => `${lang}.wikipedia.org`;

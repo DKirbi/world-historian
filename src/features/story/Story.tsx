@@ -107,7 +107,12 @@ export function Story({ model, region, full }: Props) {
         <div className={s.main}>
           {model.dek.length > 0 && (
             <p className={s.dek}>
-              {model.dateline && <span className={s.dateline}>{model.dateline}.</span>}{' '}
+              {model.dateline && (
+                <span className={s.dateline}>
+                  {model.dateline}
+                  {model.dateline.endsWith('.') ? '' : '.'}
+                </span>
+              )}{' '}
               {model.dek.map((sen, i) => (
                 <span key={i}>
                   {sen.text}
