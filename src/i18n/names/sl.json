@@ -849,8 +849,8 @@
   "nayaks-of-thanjavur": "Tanjorski Najak",
   "nazca-culture": "Kultura Nazca",
   "nazi-germany": "Tretji rajh",
-  "neo-assyrian-empire": "Novo asirsko kraljestvo",
-  "neo-babylonian-empire": "Novo babilonsko kraljestvo",
+  "neo-assyrian-empire": "Novoasirsko cesarstvo",
+  "neo-babylonian-empire": "Novobabilonsko cesarstvo",
   "netherlands": "Nizozemska",
   "netherlands-antilles": "Nizozemski Antili",
   "new-caledonia": "Nova Kaledonija",
@@ -870,7 +870,7 @@
   "norse-greenland-1072": "Nordijsko raziskovanje Amerike",
   "norse-greenland-1363": "Nordijsko raziskovanje Amerike",
   "north-german-confederation": "Severnonemška konfederacija",
-  "north-yemen": "Nordjemen",
+  "north-yemen": "Severni Jemen",
   "northern-han": "Severni Han",
   "northern-liang": "Severni Liang",
   "northern-qi": "Severni Či",
@@ -2032,7 +2032,7 @@
   "Q283015": "Bitka pri Beaugencyju",
   "Q283364": "Bitka pri Legnanu",
   "Q28365": "Lamijska vojna",
-  "Q28419687": "Obleganje Deir Ez-Zora",
+  "Q28419687": "Obleganje Dejr ez Zorja",
   "Q285280": "Vojna v Pridnestrju",
   "Q2862267": "Sporazum o premirju na Korejskem polotoku",
   "Q288251": "Cisplatinska vojna",
@@ -2081,7 +2081,7 @@
   "Q3151731": "Umazana vojna",
   "Q315921": "Trinajstletna vojna",
   "Q316897": "Bitka pri Malplaquetu",
-  "Q3178783": "Obleganje Jaffe",
+  "Q3178783": "Obleganje Jafe",
   "Q318161": "Helsinška sklepna listina o varnosti in sodelovanju v Evropi",
   "Q318250": "Ogadenska vojna",
   "Q31900": "Bitka na Maratonskem polju",
@@ -2094,7 +2094,7 @@
   "Q3242848": "Prva vojna za škotsko neodvisnost",
   "Q324438": "Pirenejska vojna",
   "Q325314": "Tecumsehova vojna",
-  "Q325985": "Obleganje Ake",
+  "Q325985": "Obleganje Akre",
   "Q326303": "Montrealska konvencija",
   "Q326989": "Bitka pri Morgartenu",
   "Q327035": "Bitka pri Gazali",
@@ -2619,9 +2619,9 @@
   "Q811250": "Tambovski upor",
   "Q814235": "Nemška kampanja leta 1813",
   "Q815108": "Obleganje Alcázarja",
-  "Q815109": "Obleganje Ake",
+  "Q815109": "Obleganje Akre",
   "Q815110": "Obleganje Amide",
-  "Q815116": "Obleganje Ake",
+  "Q815116": "Obleganje Akre",
   "Q815128": "Obleganje Bostona",
   "Q815140": "Bitka za Dubrovnik",
   "Q815143": "Obleganje Gaze",
@@ -2766,11 +2766,21 @@
  "retrieved": "2026-10-21",
  "overrides": {
   "_note": "Corrections to the snapshot names, applied by scripts/gen-names.mjs. Each says what it fixes.",
+  "polities": {
+   "neo-assyrian-empire": "Novoasirsko cesarstvo",
+   "neo-babylonian-empire": "Novobabilonsko cesarstvo",
+   "north-yemen": "Severni Jemen"
+  },
   "events": {
    "Q1366688": "Transpacifiško partnerstvo",
    "Q501866": "Invazija na Grenado leta 1983",
    "Q3536871": "Pogodba iz Ria de Janeira",
-   "Q54434": "Vojna za Jenkinsovo uho"
+   "Q54434": "Vojna za Jenkinsovo uho",
+   "Q28419687": "Obleganje Dejr ez Zorja",
+   "Q3178783": "Obleganje Jafe",
+   "Q325985": "Obleganje Akre",
+   "Q815109": "Obleganje Akre",
+   "Q815116": "Obleganje Akre"
   }
  }
 }
