@@ -477,6 +477,25 @@
    ],
    "translated": "2026-10-23"
   },
+  "Ahis": {
+   "headline": "Ahijsko bratstvo",
+   "paragraphs": [
+    "Ahijsko bratstvo (turško: Ahî, mn. Ahîler), ki ga sodobno zgodovinopisje imenuje Ahijska republika, je bila bratovščina, ki jo je v 13. in 14. stoletju v Anatoliji (na območju današnje Ankare) ustanovil Ahi Evran."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Ahis",
+    "rev": 1363511752,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Ahi Brotherhood (Turkish: Ahî, pl. Ahîler), referred to as Ahi Republic in modern historiography, was a brotherhood union by Ahi Evran in Anatolia (around present-day Ankara) in the 13th and 14th centuries."
+    ]
+   },
+   "records": [
+    "ahi-republic"
+   ],
+   "translated": "2026-10-23"
+  },
   "Al-Ahsa Oasis": {
    "paragraphs": [
     "Oaza Al Ahsa (arabsko: al-Ahsā), znana tudi kot al Hasa ali Hadžar, je oaza in zgodovinska pokrajina na vzhodu Savdske Arabije. Po njej se imenuje guvernorat Al Ahsa, ki obsega velik del Vzhodne province države. Oaza leži okoli 60 km v notranjosti od obale Perzijskega zaliva in jo sestavljajo štiri glavna mesta in 22 vasi. Med mesti sta Al Mubaraz in Al Hufuf, dve največji mesti v Savdski Arabiji."
@@ -3259,6 +3278,66 @@
    ],
    "translated": "2026-10-23"
   },
+  "Beylik of Dulkadir": {
+   "headline": "Beglik Dulkadir",
+   "paragraphs": [
+    "Beglik Dulkadir (turško: Dulkadiroğulları Beyliği) je bil eden od turških anatolskih beglikov (kneževin), ki so jih po zatonu Rumskega sultanata Seldžukov ustanovili oguški turški klani Bajat, Afšar in Begdili."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Beylik of Dulkadir",
+    "rev": 1350830215,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Beylik of Dulkadir (Turkish: Dulkadiroğulları Beyliği) was one of the Turkish Anatolian beyliks (principality) established by the Oghuz Turk clans Bayat, Afshar, and Begdili after the decline of Seljuk Sultanate of Rûm."
+    ]
+   },
+   "records": [
+    "beylik-of-dulkadir"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Beylik of Teke": {
+   "headline": "Beglik Teke",
+   "paragraphs": [
+    "Anatolski beglik Teke (turško: Tekeoğulları Beyliği) je bil ena od obmejnih kneževin, ki so jih po zatonu Rumskega sultanata Seldžukov ustanovili oguški turški klani. Prestolnica je bila Antalya na južni obali današnje Turčije. Beglik je leta 1321 ustanovila veja dinastije Hamididov, obstajal pa je do leta 1423, ko si ga je dokončno priključilo Osmansko cesarstvo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Beylik of Teke",
+    "rev": 1362004668,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Anatolian beylik of Teke (Turkish: Tekeoğulları Beyliği), was one of the frontier principalities established by Oghuz Turkish clans after the decline of the Seljuk Sultanate of Rûm. Its capital was Antalya, on the southern coast of modern Turkey. The beylik was established by a branch of the Hamidid dynasty in 1321 and lasted until 1423, when it was permanently annexed by the Ottoman Empire."
+    ]
+   },
+   "records": [
+    "beylik-of-teke"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Beylik of Tunis": {
+   "paragraphs": [
+    "Beglik Tunis (arabsko: بايلك تونس) je bila pravna oblika Tunizije med letoma 1705 in 1881. Vladala mu je dinastija Husainidov, dokler niso ustanovili francoskega protektorata Tunizija. Izraz beglik se nanaša na vladarja, imenovanega tuniški beg. Ta je v času protektorata ostal formalni poglavar države, Husainidi pa so bili večinoma le simbolni vladarji.",
+    "Begi so ostali zvesti Visoki porti, vendar so vladali kot monarhi, saj so se postopno osamosvojili od Osmanskega cesarstva. Med letoma 1861 in 1864 je Beglik Tunis postal ustavna monarhija, saj je sprejel prvo ustavo v Afriki in arabskem svetu. Država je imela svojo valuto in samostojno vojsko, leta 1831 pa je sprejela zastavo, ki jo uporablja še danes.",
+    "Dinastija Husainidov je Tuniziji vladala tudi po ustanovitvi francoskega protektorata leta 1881 in je obstajala vse do razglasitve republike 25. julija 1957, leto dni po osamosvojitvi."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Beylik of Tunis",
+    "rev": 1380557437,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Beylik of Tunis (Arabic: بايلك تونس) was the legal form of Tunisia, between 1705 and 1881. It was ruled by the Husainid dynasty until the establishment of the French protectorate of Tunisia. The term beylik refers to the monarch, who was called the Bey of Tunis. Under the protectorate, the latter remained nominally the head of state, with the Husainids remaining as largely symbolic sovereigns.",
+     "The Beys remained faithful to the Sublime Porte, but reigned as monarchs after gradually gaining independence from the Ottoman Empire. Between 1861 and 1864, the Beylik of Tunis became a constitutional monarchy after adopting the first constitution in Africa and the Arab world. The country had its own currency and an independent army, and in 1831 it adopted its flag, which is still in use today.",
+     "The Husainid dynasty continued to rule Tunisia, even after the establishment of the French protectorate in 1881, and remained in existence until the republic was declared on 25 July 1957, one year after independence."
+    ]
+   },
+   "records": [
+    "beylik-of-tunis"
+   ],
+   "translated": "2026-10-23"
+  },
   "Black September": {
    "headline": "Črni september",
    "paragraphs": [
@@ -3294,6 +3373,31 @@
    },
    "records": [
     "Q2320020"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Candar dynasty": {
+   "headline": "Dinastija Candar",
+   "paragraphs": [
+    "Dinastija Candar ali hiša Candar (sodobno turško: Candaroğulları), beglik Candar, kneževina Candar (Candaroğulları Beyliği, Candar Beyliği), znana tudi kot dinastija Isfendiyar (İsfendiyaroğulları), je bila oguška turška knežja anatolska dinastija, ki je od leta 1291 do 1461 vladala ozemljem, ki ustrezajo provincam Eflani, Kastamonu, Sinop, Zonguldak, Bartın, Karabük, Samsun, Bolu, Ankara in Çankırı v današnji Republiki Turčiji. V zahodni literaturi je pokrajina znana kot Paflagonija, ime, ki so ga za isto zemljepisno območje uporabljali v rimskem obdobju.",
+    "Dinastijo in kneževino, ki ju je ustanovil Şemseddin Yaman Candar beg, je sultan Mehmed II. leta 1461 vključil v Osmansko cesarstvo."
+   ],
+   "notes": [
+    "The pronunciation /ˈdʒandar/ is dropped; Turkish names keep their Turkish spelling."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Candar dynasty",
+    "rev": 1375272598,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Candar dynasty (/ˈdʒandar/) or the House of Candar (Modern Turkish: Candaroğulları), Beylik of Candar, Principality of Candar (Candaroğulları Beyliği, Candar Beyliği), also known as the Isfendiyar dynasty (İsfendiyaroğulları), was an Oghuz Turkic princely Anatolian dynasty that reigned in the territories corresponding to the provinces of Eflani, Kastamonu, Sinop, Zonguldak, Bartın, Karabük, Samsun, Bolu, Ankara and Çankırı in the present-day Republic of Turkey from the year 1291 to 1461. The region is known in Western literature as Paphlagonia, a name applied to the same geographical area during the Roman period.",
+     "The dynasty and principality, founded by Şemseddin Yaman Candar Bey, were incorporated into the Ottoman Empire by Sultan Mehmed II in 1461."
+    ]
+   },
+   "records": [
+    "beylik-of-isfendiyar",
+    "beylik-of-sinop"
    ],
    "translated": "2026-10-23"
   },
@@ -3433,6 +3537,25 @@
    ],
    "translated": "2026-10-23"
   },
+  "Colonies in antiquity": {
+   "headline": "Kolonije v antiki",
+   "paragraphs": [
+    "Kolonije v antiki so bile mestne države iz časa po železni dobi, ki jih je ustanovilo matično mesto ali metropola, ne pa širše ozemlje. Vezi med kolonijo in njeno metropolo so pogosto ostale tesne in so v klasični antiki dobile posebne oblike. Kolonije, ki so jih ustanovili stari Feničani, Kartagina, Rim, Aleksander Veliki in njegovi nasledniki, so na splošno ostale povezane s svojo metropolo, grške kolonije iz arhaične in klasične dobe pa so bile že od ustanovitve suverene in samoupravne. Starejše grške kolonije so pogosto ustanavljali zato, da bi z izselitvijo dela prebivalstva odpravili družbene nemire v matičnem mestu, helenistične, rimske, kartažanske in kitajske kolonije iz dinastije Han pa so bile središča trgovine (tranzitna skladišča), širjenja in gradnje imperija."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Colonies in antiquity",
+    "rev": 1379898229,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Colonies in antiquity were post-Iron Age city-states founded from a mother-city or metropolis rather than from a territory-at-large. Bonds between a colony and its metropolis often remained close, and took specific forms during the period of classical antiquity. Generally, colonies founded by the ancient Phoenicians, Carthage, Rome, Alexander the Great and his successors remained tied to their metropolis, though Greek colonies of the Archaic and Classical eras were sovereign and self-governing from their inception. While earlier Greek colonies were often founded to solve social unrest in the mother-city by expelling a part of the population, Hellenistic, Roman, Carthaginian, and Han Chinese colonies served as centres for trade (entrepôts), expansion and empire-building."
+    ]
+   },
+   "records": [
+    "phoenician-colonies"
+   ],
+   "translated": "2026-10-23"
+  },
   "Conquest of Mecca": {
    "paragraphs": [
     "Zavzetje Meke (arabsko: Fatḥ Makka) je bil vojaški pohod, ki so ga izvedli Mohamed in njegovi tovariši med muslimansko-kurajšitsko vojno. Zgodnje muslimane so decembra 629 ali januarja 630 (10.–20. ramadana leta 8 po hidžri) povedli nad Meko, ki so jo nadzorovali Kurajšiti. Padec mesta v Mohamedove roke je formalno končal spopad med njegovimi privrženci in kurajšitsko plemensko zvezo."
@@ -3568,6 +3691,43 @@
    ],
    "translated": "2026-10-23"
   },
+  "Emirate of Nekor": {
+   "paragraphs": [
+    "Nekorski emirat ali Salihidski emirat (arabsko: إمارة بني صالح, ʾImārat Banī Ṣāliḥ) je bil emirat s središčem v pokrajini Rif na ozemlju današnjega Maroka. Prestolnica je bila sprva v Temsamanu, nato so jo preselili v Nekor. Vladajoči dinastiji pripisujejo bodisi himjaritski arabski bodisi berberski izvor iz plemena Nafza. Emirat je leta 710 n. št. na podlagi kalifove podelitve ustanovil Salih I. ibn Mansur. Pod njegovim vodstvom so krajevna berberska (amaziška) plemena sprejela islam, pozneje pa so ga odstavila in na njegovo mesto postavila nekega Davuda al Rundija iz plemena Nafza (ki verjetno ni bil doma iz Ronde). Nato so si premislila in Saliha ibn Mansurja znova postavila za vladarja. Njegova dinastija, Banu Salih, je nato pokrajini vladala do okoli leta 1015."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Emirate of Nekor",
+    "rev": 1380994446,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Emirate of Nekor or Salihid Emirate (Arabic: إمارة بني صالح, romanized: ʾImārat Banī Ṣāliḥ) was an emirate centered in the Rif area of present-day Morocco. Its capital was initially located at Temsamane, and then moved to Nekor. The ruling dynasty has been described as either of Himyarite Arab descent or of Nafza Berber descent. The emirate was founded in 710 CE by Salih I ibn Mansur through a Caliphate grant. Under his guidance, the local Berber (Amazigh) tribes adopted Islam, but later deposed him in favor of one Dawud al-Rundi (unlikely to have been a native of Ronda) from the Nafza tribe. They subsequently changed their mind and reappointed Salih ibn Mansur. His dynasty, the Banu Salih, thereafter ruled the region until about 1015."
+    ]
+   },
+   "records": [
+    "emirate-of-nekor"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Eshrefids": {
+   "headline": "Ešrefidi",
+   "paragraphs": [
+    "Ešrefidi ali Ašrafidi (sodobno turško: Eşrefoğulları ali Eşrefoğulları Beyliği) so bili turški anatolski beglik iz 13. in 14. stoletja."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Eshrefids",
+    "rev": 1353219977,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Eshrefids or Ashrafids (Modern Turkish: Eşrefoğulları or Eşrefoğulları Beyliği ) was a 13th-14th century Turkish Anatolian beylik."
+    ]
+   },
+   "records": [
+    "eshrefids"
+   ],
+   "translated": "2026-10-23"
+  },
   "Expedition of Dumat al-Jandal": {
    "headline": "Odprava na Dumat al Džandal",
    "paragraphs": [
@@ -3687,6 +3847,27 @@
    },
    "records": [
     "Q1286106"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Fihrids": {
+   "headline": "Fihridi",
+   "paragraphs": [
+    "Fihridi (arabsko: الفهريون, al-Fihriyyūn), znani tudi kot Banu Fihr (arabsko: بنو فهر), so bili arabska družina in klan, ki je bil v 8. stoletju vpliven v Ifrikiji in Al Andaluzu.",
+    "Fihridi so izhajali iz arabskega klana Banu Fihr, dela plemena Kurejš, iz katerega je izhajal prerok. Najslavnejši Fihrid je bil verjetno Ukba ibn Nafi al Fihri, arabski muslimanski osvajalec severne Afrike v 670. in 680. letih in ustanovitelj Kajruana. Več njegovih sinov in vnukov je sodelovalo pri poznejši osvojitvi Hispanije leta 712."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Fihrids",
+    "rev": 1375128868,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Fihrids (Arabic: الفهريون, romanized: al-Fihriyyūn), also known as Banū Fihr (Arabic: بنو فهر), were an Arab family and clan, prominent in Ifriqiya and Al-Andalus in the 8th century.",
+     "The Fihrids were from the Arabian clan of Banu Fihr, part of the Quraysh, the tribe of the Prophet. Probably the most illustrious of the Fihrids was Uqba ibn Nafi al-Fihri, the Arab Muslim conqueror of North Africa in 670-680s, and founder of al-Qayrawan. Several of his sons and grandsons participated in the subsequent conquest of Hispania in 712."
+    ]
+   },
+   "records": [
+    "fihrids"
    ],
    "translated": "2026-10-23"
   },
@@ -3834,6 +4015,42 @@
    ],
    "translated": "2026-10-23"
   },
+  "French Africa": {
+   "paragraphs": [
+    "Francoska Afrika obsega vse zgodovinske posesti Francije na afriški celini."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "French Africa",
+    "rev": 1379619096,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "French Africa includes all the historic holdings of France on the African continent."
+    ]
+   },
+   "records": [
+    "french-africa"
+   ],
+   "translated": "2026-10-23"
+  },
+  "French Algeria": {
+   "paragraphs": [
+    "Francoska Alžirija, znana tudi kot kolonialna Alžirija, je bila kolonija in pozneje sestavni del Francije. Francoska oblast je trajala od začetka francoske osvojitve leta 1830 do konca alžirske vojne, po kateri je Alžirija 5. julija 1962 postala neodvisna."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "French Algeria",
+    "rev": 1377885217,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "French Algeria, also known as Colonial Algeria, was a colony and later an integral part of France. French rule lasted from the beginning of the French conquest in 1830 until the end of the Algerian War which resulted in Algeria gaining independence on 5 July 1962."
+    ]
+   },
+   "records": [
+    "french-algeria"
+   ],
+   "translated": "2026-10-23"
+  },
   "French invasion of Egypt and Syria": {
    "paragraphs": [
     "Francoska invazija na Egipt in Sirijo (1798–1801) je bila vojaška odprava v Egipt in Sirijo pod osmansko oblastjo, ki jo je med francoskimi revolucionarnimi vojnami vodil Napoleon Bonaparte. Pohod naj bi spodkopal britanske trgovske poti, razširil francoski vpliv ter v Egiptu vzpostavil znanstveno in upravno navzočnost. Napoleon je hotel tudi presekati britansko povezavo s kolonialnimi posestmi v Indiji, z dolgoročnim ciljem izzvati britansko prevlado v regiji."
@@ -3849,6 +4066,28 @@
    },
    "records": [
     "Q253684"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Garamantes": {
+   "headline": "Garamanti",
+   "paragraphs": [
+    "Garamanti (starogrško: Γαράμαντες, Garámantes; latinsko: Garamantes) so bili starodavno ljudstvo, ki je morda izhajalo iz berberskih plemen, plemen Tubu in saharskih pastirjev in se je najpozneje okoli leta 1000 pr. n. št. naselilo v pokrajini Fezan, kjer je ustvarilo civilizacijo, ki je cvetela do svojega konca v poznem 7. stoletju n. št. Garamanti so se kot pomembna regionalna sila prvič uveljavili sredi 2. stoletja n. št. in ustanovili kraljestvo, ki je obsegalo približno 180.000 km² v pokrajini Fezan na jugu Libije. Njihova rast in širitev sta temeljili na zapletenem in obsežnem namakalnem sistemu kanatov (berbersko: foggaras), ki je vzdrževal močno kmetijstvo in številno prebivalstvo. Pozneje so razvili prvo mestno družbo v veliki puščavi, ki ni bila vezana na rečni sistem: njihovo največje mesto, Garama, je imelo okoli štiri tisoč prebivalcev, v okoliških predmestjih pa jih je živelo še šest tisoč. Na vrhuncu je garamantsko kraljestvo vzpostavilo in ohranjalo »življenjsko raven, ki je daleč presegala raven katere koli druge starodavne saharske družbe«, sestavljali pa so ga »odlični kmetje, iznajdljivi inženirji in podjetni trgovci, ki so ustvarili izjemno civilizacijo«."
+   ],
+   "notes": [
+    "The square-mile conversion (70,000 sq mi) is dropped."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Garamantes",
+    "rev": 1378518920,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Garamantes (Ancient Greek: Γαράμαντες, romanized: Garámantes; Latin: Garamantes) were ancient peoples, who may have descended from Berber tribes, Toubou tribes, and Saharan pastoralists and who had settled, at least as early as 1000 BC, in the Fezzan region, where they established a civilization that flourished until its end in the late 7th century AD. The Garamantes first emerged as a major regional power in the mid-2nd century AD and established a kingdom that spanned roughly 180,000 km2 (70,000 sq mi) in the Fezzan region of southern Libya. Their growth and expansion was based on a complex and extensive qanat irrigation system (Berber: foggaras), which supported a strong agricultural economy and a large population. They subsequently developed the first urban society in a major desert that was not centered on a river system; their largest town, Garama, had a population of around four thousand, with an additional six thousand living in surrounding suburban areas. At its pinnacle, the Garamantian kingdom established and maintained a \"standard of living far superior to that of any other ancient Saharan society\" and was composed of \"brilliant farmers, resourceful engineers, and enterprising merchants who produced a remarkable civilization.\""
+    ]
+   },
+   "records": [
+    "garamantes"
    ],
    "translated": "2026-10-23"
   },
@@ -3910,6 +4149,28 @@
    ],
    "translated": "2026-10-23"
   },
+  "Hammadid dynasty": {
+   "headline": "Hamadidi",
+   "paragraphs": [
+    "Hamadidi (arabsko: الحماديون, Al-Hammādiyyūn, dobesedno »Hamadovi otroci«), znani tudi kot Hamadidski emirat ali Kraljestvo Bedžaja, so bili srednjeveško islamsko kraljestvo v osrednjem Magrebu, na ozemlju današnje Alžirije. Nastalo je v začetku 11. stoletja, ko se je Hamad ibn Bulugin razglasil za emirja in s tem razdelil ziridske posesti med dve ločeni dinastiji. Pod emirjem Al Nasirjem je emirat za kratek čas postal najpomembnejša država v Magrebu in dosegel največji obseg: od Tlemcena na zahodu do Tunisa na vzhodu ter od Sredozemskega morja na severu do puščavskih oaz Vargla in Ued Righ na jugu. Za kratek čas so Hamadidi nadzorovali tudi kneževino Fes na zahodu ter mesta, kot so Sfaks, Kajruan, Laribus in Tripoli, na vzhodu."
+   ],
+   "notes": [
+    "The last English sentence is a fragment (\"While they briefly controlled …\"); translated as a full sentence with the same content."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Hammadid dynasty",
+    "rev": 1380326882,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Hammadid dynasty (Arabic: الحماديون, romanized: Al-Hammādiyyūn, lit. 'children of Hammad'), also known as the Hammadid Emirate or the Kingdom of Bejaia, was a medieval Islamic kingdom in the central Maghreb, encompassing what is now Algeria. It was established at the beginning of the 11th century when Hammad ibn Buluggin declared himself emir, thus splitting the Zirid domains into two separate dynasties. Under the reign of Emir Al Nasir, the emirate briefly became the most important state in the Maghreb, and reached its greatest territorial extent, stretching from Tlemcen in the west to Tunis in the east, and from the Mediterranean Sea in the north to the desert oasis of Ouargla and Oued Righ in the south. While they briefly controlled the principality of Fez in the west and cities like Sfax, Kairouan, Laribus, and Tripoli to the east."
+    ]
+   },
+   "records": [
+    "hammadid-dynasty"
+   ],
+   "translated": "2026-10-23"
+  },
   "History of Egypt under the Muhammad Ali dynasty": {
    "headline": "Egipt pod dinastijo Mohameda Alija",
    "paragraphs": [
@@ -3926,6 +4187,24 @@
    },
    "records": [
     "muhammad-ali-dynasty"
+   ],
+   "translated": "2026-10-23"
+  },
+  "History of Libya under Muammar Gaddafi": {
+   "paragraphs": [
+    "Moamer Gadafi je 1. septembra 1969 postal dejanski voditelj Libije, potem ko je skupino častnikov libijske vojske povedel v nekrvav državni udar proti kralju Idrisu I. Ko je bil Idris na zdravljenju v Turčiji, je Revolucionarni poveljniški svet (RCC) pod Gadafijevim vodstvom odpravil monarhijo in ustavo ter ustanovil Libijsko arabsko republiko z baatističnim geslom »Enotnost, svoboda, socializem«."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "History of Libya under Muammar Gaddafi",
+    "rev": 1380819887,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Muammar Gaddafi became the de facto leader of Libya on 1 September 1969 after leading a group of Libyan Army officers against King Idris I in a bloodless coup d'état. When Idris was in Turkey for medical treatment, the Revolutionary Command Council (RCC) headed by Gaddafi abolished the monarchy and the constitution and established the Libyan Arab Republic, with the Ba'athist motto \"Unity, Freedom, Socialism\"."
+    ]
+   },
+   "records": [
+    "libyan-arab-republic"
    ],
    "translated": "2026-10-23"
   },
@@ -4376,6 +4655,47 @@
    ],
    "translated": "2026-10-23"
   },
+  "Karamanli dynasty": {
+   "headline": "Karamanliji",
+   "paragraphs": [
+    "Karamanliji (tudi Caramanli ali Qaramanli) so bili samostojna dinastija, ki je od leta 1711 do 1835 vladala osmanski Tripolitaniji. Njihovo ozemlje je obsegalo Tripoli z okolico na območju današnje Libije. Na vrhuncu je vpliv Karamanlijev segal do Kirenajke in Fezana in je pokrival večji del Libije. Ustanovitelj dinastije je bil Ahmed Karamanli, potomec srednjeveških Karamanidov. Najbolj znani karamanlijski vladar je bil Jusuf ibn Ali Karamanli, ki je vladal od leta 1795 do 1832 in se med letoma 1801 in 1805 vojskoval z Združenimi državami Amerike. Zadnji iz dinastije je bil Ali II."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Karamanli dynasty",
+    "rev": 1367529537,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Karamanli dynasty (also spelled Caramanli or Qaramanli) was an autonomous dynasty that ruled Ottoman Tripolitania from 1711 to 1835. Their territory comprised Tripoli and its surroundings in present-day Libya. At its peak, the Karamanli dynasty's influence reached Cyrenaica and Fezzan, covering most of Libya. The founder of the dynasty was Ahmed Karamanli, a descendant of the medieval Karamanids. The most well-known Karamanli ruler was Yusuf ibn Ali Karamanli who reigned from 1795 to 1832, who fought a war with the United States between 1801 and 1805. Ali II was the last of the dynasty."
+    ]
+   },
+   "records": [
+    "karamanli-dynasty"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Karasids": {
+   "headline": "Karasidi",
+   "paragraphs": [
+    "Karasidi (osmansko turško: قرا صـی; turško: Karesioğulları) so bili turkmenska dinastija, ki je v prvi polovici 14. stoletja vladala pokrajini Miziji na severozahodu Anatolije. Legendarni rodovniki družino sicer povezujejo z Danišmendidi, dinastijo iz osrednje Anatolije iz 11. in 12. stoletja, vendar naj bi prva karasidska vladarja, Karasi beg, po katerem se dinastija imenuje, in njegov oče Kalam šah, prevzela pokrajino okoli Balıkesirja med vladavino Mesuda II. (vladal 1284–1297 in 1303–1308) iz Rumskega sultanata in razglasila samostojnost. Po smrti Karasi bega je dinastija vladala dvema ločenima emiratoma, na čelu katerih sta bila Demir kan in Jahši kan. Demir kan je s svojim ladjevjem nadlegoval mesto Kizik in naselja v Trakiji, zato je leta 1328 sklenil premirje z bizantinskim cesarjem Andronikom III. (vladal 1328–1341). Leta 1333 se je sestal z Ibn Batuto, ki je o njem pisal neprizanesljivo. Sulejman beg, zadnji karasidski vladar, ki ga omenjajo bizantinski viri, je bil poročen s hčerjo Ivana Vataca in se je vmešaval v notranje boje na bizantinskem ozemlju. Po tem bizantinski viri Karasidov ne omenjajo več."
+   ],
+   "notes": [
+    "Abbreviated reign ranges (1284–97, 1303–8, 1328–41) are written in full, as the Pravopis asks."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Karasids",
+    "rev": 1350238248,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Karasids (Ottoman Turkish: قرا صـی; Turkish: Karesioğulları) were a Turkoman dynasty that ruled the region of Mysia in northwestern Anatolia during the first half of the 14th century. While legendary lineages link the family to the Danishmendids, an 11–12th-century dynasty in central Anatolia, the earliest Karasid rulers the eponymous Karasi Bey and his father Kalam Shah are thought to have taken over the region around Balıkesir during the reign of Mesud II (r. 1284–97, 1303–8) of the Sultanate of Rum claiming independence. Following the death of Karasi Bey, the dynasty ended up ruling two separate emirates, headed by Demir Khan and Yakhshi Khan. Demir Khan is known to have harassed the town of Cyzicus and settlements in Thrace through his naval forces and thus signed a truce with the Byzantine Emperor Andronikos III (r. 1328–41) in 1328. In 1333, he met with Ibn Battuta, who wrote unfavorably about him. Suleiman Bey, the latest Karasid ruler attested to by Byzantine sources, was married to the daughter of John Vatatzes and meddled with the internal strife within the Byzantine domains. Byzantine sources ceased mentioning the Karasids after that point."
+    ]
+   },
+   "records": [
+    "beylik-of-karasi"
+   ],
+   "translated": "2026-10-23"
+  },
   "Kart dynasty": {
    "headline": "Dinastija Kart",
    "paragraphs": [
@@ -4392,6 +4712,29 @@
    },
    "records": [
     "kartids"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kastamonu": {
+   "headline": "Kastamonu",
+   "paragraphs": [
+    "Kastamonu je mesto na severu Turčije in sedež province Kastamonu in okrožja Kastamonu. Ima 125.622 prebivalcev (2021). Mesto leži na nadmorski višini 904 m, na južnem delu province."
+   ],
+   "notes": [
+    "The feet conversion (2,966 ft) is dropped.",
+    "The record is a state, but its link points to the article on the modern city of Kastamonu; the data link is worth checking."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kastamonu",
+    "rev": 1376399754,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Kastamonu is a city in northern Turkey. It is the seat of Kastamonu Province and Kastamonu District. Its population is 125,622 (2021). The city lies at an elevation of 904 m (2,966 ft). It is located in the southern part of the province."
+    ]
+   },
+   "records": [
+    "kastamonu"
    ],
    "translated": "2026-10-23"
   },
@@ -4413,6 +4756,65 @@
    ],
    "translated": "2026-10-23"
   },
+  "Kingdom of Africa": {
+   "headline": "Afriško kraljestvo",
+   "paragraphs": [
+    "Afriško kraljestvo je bilo podaljšek obmejnega pasu Sicilskega kraljestva v nekdanji rimski provinci Afriki (arabsko Ifrīqiya), ki ustreza današnji Tuniziji ter delom Alžirije in Libije. Glavni primarni viri o kraljestvu so arabski (muslimanski), latinskih (krščanskih) je manj."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Africa",
+    "rev": 1381377028,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Kingdom of Africa was an extension of the frontier zone of the Kingdom of Sicily in the former Roman province of Africa (Ifrīqiya in Arabic), corresponding to Tunisia and parts of Algeria and Libya today. The main primary sources for the kingdom are Arabic (Muslim); the Latin (Christian) sources are scanter."
+    ]
+   },
+   "records": [
+    "kingdom-of-africa"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kingdom of Bithynia": {
+   "paragraphs": [
+    "Kraljestvo Bitinija (starogrško: Βιθυνία) je bilo helenistično kraljestvo s središčem v zgodovinski pokrajini Bitiniji na severozahodu Anatolije, ki je bilo očitno ustanovljeno v 4. stoletju pr. n. št. Sredi vojn diadohov si je Zipojt leta 297 pr. n. št. nadel grški naziv basileus (kralj).",
+    "Njegov sin in naslednik Nikomed I. je ustanovil Nikomedijo, ki je kmalu zelo uspevala. Med njegovo dolgo vladavino (ok. 278 – ok. 255 pr. n. št.) in vladavinami njegovih naslednikov Prusiasa I. (vladal ok. 228–182 pr. n. št.), Prusiasa II. (vladal ok. 182–149 pr. n. št.) in Nikomeda II. (vladal ok. 149–127 pr. n. št.) je Kraljestvo Bitinija cvetelo in imelo precejšen ugled in vpliv med manjšimi monarhijami Anatolije. Zadnji kralj, Nikomed IV., pa se ni mogel obdržati na oblasti proti pontskemu kralju Mitridatu VI. Ko ga je rimski senat vrnil na prestol, je leta 74 pr. n. št. z oporoko zapustil kraljestvo Rimski republiki, ki ga je istega leta preoblikovala v provinco Bitinija in Pont."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Bithynia",
+    "rev": 1367866719,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Kingdom of Bithynia (Ancient Greek: Βιθυνία) was a Hellenistic kingdom centred in the historical region of Bithynia, in northwest Anatolia, which seems to have been established in the 4th century BC. In the midst of the Wars of the Diadochi, Zipoites assumed the Greek title of basileus (meaning king) in 297 BC.",
+     "His son and successor, Nicomedes I, founded Nicomedia, which soon rose to great prosperity. During his long reign (c. 278 – c. 255 BC), as well as those of his successors, Prusias I (r. c. 228 – 182 BC), Prusias II (r. c. 182 – 149 BC) and Nicomedes II (r. c. 149 – 127 BC), the Kingdom of Bithynia prospered and had a considerable standing and influence among the minor monarchies of Anatolia. But the last king, Nicomedes IV, was unable to maintain himself in power against Mithridates VI of Pontus. After being restored to his throne by the Roman Senate, he bequeathed his kingdom through his will to the Roman republic in 74 BC and it became the province of Bithynia et Pontus in 74 BC."
+    ]
+   },
+   "records": [
+    "kingdom-of-bithynia"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kingdom of Cappadocia": {
+   "paragraphs": [
+    "Kapadokija (grško: Καππαδοκία) je bila iransko kraljestvo helenističnega obdobja s središčem v zgodovinski pokrajini Kapadokiji v Mali Aziji (v današnji osrednji Turčiji).",
+    "Razvilo se je iz nekdanje ahemenidske satrapije Kapadokije, ustanovil pa ga je njen zadnji satrap Ariarat (pozneje Ariarat I.). V vsej svoji zgodovini so mu zaporedoma vladale tri rodbine: Ariaratova (331–96 pr. n. št.), Ariobarzanova (96–36 pr. n. št.) in nazadnje Arhelajeva (36 pr. n. št.–17 n. št.). Kapadoški kralji so različne vidike kraljestva načrtno helenizirali. Leta 17 n. št., po Arhelajevi smrti in med vladavino rimskega cesarja Tiberija (14–37 n. št.), so kraljestvo vključili v rimsko provinco."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Cappadocia",
+    "rev": 1373079375,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Cappadocia (Greek: Καππαδοκία) was a Hellenistic-era Iranian kingdom centered in the historical region of Cappadocia in Asia Minor (present-day central Turkey).",
+     "It developed from the former Achaemenid satrapy of Cappadocia, and it was founded by its last satrap, Ariarathes (later Ariarathes I). Throughout its history, it was ruled by three families in succession: the House of Ariarathes (331–96 BC), the House of Ariobarzanes (96–36 BC), and lastly that of Archelaus (36 BC–17 AD). The Cappadocian kings Hellenized various aspects of the kingdom on purpose. In 17 AD, following the death of Archelaus, during the reign of Roman emperor Tiberius (14–37 AD), the kingdom was incorporated as a Roman province."
+    ]
+   },
+   "records": [
+    "kingdom-of-cappadocia"
+   ],
+   "translated": "2026-10-23"
+  },
   "Kingdom of Egypt": {
    "paragraphs": [
     "Kraljevina Egipt (arabsko: Al-Mamlaka Al-Miṣriyya, dobesedno »Egiptovsko kraljestvo«) je bila pravna oblika egiptovske države v zadnjem obdobju vladavine dinastije Mohameda Alija, od leta 1922, ko je Združeno kraljestvo priznalo egiptovsko neodvisnost, do odprave monarhije Egipta in Sudana leta 1953 po egiptovski revoluciji leta 1952. Do angleško-egiptovske pogodbe leta 1936 je bila kraljevina neodvisna le navidezno, saj je Združeno kraljestvo obdržalo nadzor nad zunanjimi odnosi, komunikacijami, vojsko in ozemljem Angleško-egiptovskega Sudana. Uradno je bil Sudan kondominij obeh držav, v resnici pa je imelo oblast v Sudanu Združeno kraljestvo. Med letoma 1936 in 1953 so Britanci v zmanjšanem obsegu ohranili vojaško navzočnost ob Sueškem prekopu in vpliv na politične svetovalce Egipta."
@@ -4428,6 +4830,26 @@
    },
    "records": [
     "kingdom-of-egypt"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kingdom of Georgia": {
+   "paragraphs": [
+    "Kraljestvo Gruzija, znano tudi kot Gruzijski imperij, je bila srednjeveška evrazijska monarhija, ustanovljena ok. leta 1008 n. št. Zlato dobo politične in gospodarske moči je doživelo med vladavino kralja Davida IV. in kraljice Tamare Velike od 11. do 13. stoletja. Gruzija je postala ena vodilnih držav krščanskega vzhoda, njen vsekavkaški imperij in mreža tributarnih ozemelj pa sta segala od vzhodne Evrope do Anatolije in severnih obmejnih območij Irana. Na vrhuncu vpliva je imela Gruzija tudi več pomembnih verskih središč v tujini, kot so samostan Bačkovo v Bolgariji, samostan Svetega križa v Jeruzalemu in samostan Iviron v Grčiji. Kraljestvo je glavna zgodovinska predhodnica današnje Gruzije."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Georgia",
+    "rev": 1379043110,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Kingdom of Georgia, also known as the Georgian Empire, was a medieval Eurasian monarchy that was founded in c. 1008 AD. It reached its Golden Age of political and economic strength during the reign of King David IV and Queen Tamar the Great from the 11th to 13th centuries. Georgia became one of the pre-eminent nations of the Christian East, and its pan-Caucasian empire and network of tributaries stretched from Eastern Europe to Anatolia and northern frontiers of Iran. At the height of its influence, Georgia also maintained several important religious centers abroad, such as the Bachkovo Monastery in Bulgaria, Monastery of the Cross in Jerusalem and the Monastery of Iviron in Greece. It is the principal historical precursor of present-day Georgia."
+    ]
+   },
+   "records": [
+    "kingdom-of-georgia-1010",
+    "kingdom-of-georgia-1333",
+    "kingdom-of-georgia-1706"
    ],
    "translated": "2026-10-23"
   },
@@ -4506,6 +4928,46 @@
    ],
    "translated": "2026-10-23"
   },
+  "Kingdom of Libya": {
+   "paragraphs": [
+    "Kraljevina Libija (arabsko: المملكة الليبية, Al-Mamlakah Al-Lībiyya, dobesedno »Libijsko kraljestvo«; italijansko: Regno di Libia), od leta 1951 do 1963 znana kot Združena kraljevina Libija, je bila ustavna monarhija v severni Afriki.",
+    "Združena kraljevina je nastala 24. decembra 1951, ko se je osamosvojila od Združenega kraljestva in Francije, in je obstajala do nekrvavega državnega udara 1. septembra 1969. Udar, ki ga je vodil Moamer Gadafi, je strmoglavil kralja Idrisa in ustanovil Libijsko arabsko republiko."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Libya",
+    "rev": 1377923252,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Kingdom of Libya (Arabic: المملكة الليبية, romanized: Al-Mamlakah Al-Lībiyya, lit. 'Libyan Kingdom'; Italian: Regno di Libia), known as the United Kingdom of Libya from 1951 to 1963, was a constitutional monarchy in North Africa.",
+     "The unified kingdom came into existence upon independence on 24 December 1951 from the United Kingdom and France and lasted until a bloodless coup d'état on 1 September 1969. The coup, led by Muammar Gaddafi, overthrew King Idris and established the Libyan Arab Republic."
+    ]
+   },
+   "records": [
+    "kingdom-of-libya"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kingdom of Pergamon": {
+   "paragraphs": [
+    "Kraljestvo Pergamon, imenovano tudi Pergamsko ali Atalidsko kraljestvo, je bilo grška država helenističnega obdobja, ki je iz prestolnice Pergamon vladala velikemu delu zahodne Male Azije (današnje Turčije). Vladala mu je dinastija Atalidov (grško: Δυναστεία τῶν Ἀτταλιδῶν, Dynasteía ton Attalidón).",
+    "Kraljestvo je nastalo kot ostanek ozemlja, ki mu je vladal Lizimah, vojskovodja Aleksandra Velikega. Filetajros, eden od Lizimahovih poveljnikov, se je uprl ter zavzel mesto Pergamon z okolico, Lizimah pa je kmalu nato, leta 281 pr. n. št., umrl. Novo kraljestvo je bilo sprva v nekakšnem vazalnem razmerju formalne zvestobe do Selevkidskega cesarstva, a je imelo precejšnjo samostojnost in je kmalu postalo povsem neodvisno. Kraljestvo je bilo monarhija, ki so ji vladali Filetajrosova razširjena družina in njeni potomci. Obstajalo je približno 150 let, dokler ga v letih 133–129 pr. n. št. ni nazadnje vključila Rimska republika."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Pergamon",
+    "rev": 1375743550,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Kingdom of Pergamon, Pergamene Kingdom, or Attalid kingdom was a Greek state during the Hellenistic period that ruled much of the Western part of Asia Minor (now Turkey) from its capital city of Pergamon. It was ruled by the Attalid dynasty (Greek: Δυναστεία τῶν Ἀτταλιδῶν, romanized: Dynasteía ton Attalidón).",
+     "The kingdom was a rump state that was created from the territory ruled by Lysimachus, a general of Alexander the Great. Philetaerus, one of Lysimachus' lieutenants, rebelled and seized the city of Pergamon and the surrounding regions; Lysimachus died soon after in 281 BC. The new kingdom was initially in a vassal-like relationship of nominal fealty to the Seleucid Empire, but exercised considerable autonomy and soon became entirely independent. It was a monarchy ruled by Philetaerus's extended family and their descendants. It lasted around 150 years before being eventually absorbed by the Roman Republic during the period from 133–129 BC."
+    ]
+   },
+   "records": [
+    "kingdom-of-pergamon"
+   ],
+   "translated": "2026-10-23"
+  },
   "Kingdom of Portugal": {
    "paragraphs": [
     "Kraljevina Portugalska je bila monarhija na zahodu Iberskega polotoka in predhodnica sodobne Portugalske republike. V različnem obsegu je obstajala od sredine 12. do začetka 20. stoletja, po letu 1471 pa so jo imenovali tudi Kraljevina Portugalska in Algarve. Bila je glavni del Združenega kraljestva Portugalske, Brazilije in Algarvov, ki je obstajalo med letoma 1815 in 1822. Obstajala je ob Portugalskem imperiju, čezmorskih kolonijah kraljestva.",
@@ -4524,6 +4986,44 @@
    "records": [
     "kingdom-of-portugal-1147",
     "kingdom-of-portugal-1640"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kingdom of Sophene": {
+   "paragraphs": [
+    "Kraljestvo Sofena (armensko: Ծոփք, Tsop’k’; starogrško: Σωφηνή, Sōphēnḗ) je bila politična tvorba helenističnega obdobja med staro Armenijo in Sirijo. Njeno ozemlje je bilo nekoč del armenske satrapije, ki ji je vladala dinastija Orontidov, kot samostojno kraljestvo pa se je izoblikovalo v 3. stoletju pr. n. št. pod vejo te dinastije. Kraljestvo je ohranilo neodvisnost do ok. 95 pr. n. št., ko je artaksidski kralj Tigran Veliki njegova ozemlja osvojil in jih vključil v svoj imperij. Kraljestvo je bilo kulturno mešano, z grškimi, armenskimi, iranskimi, sirskimi, anatolskimi in rimskimi vplivi."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Sophene",
+    "rev": 1378729315,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Kingdom of Sophene (Armenian: Ծոփք, romanized: Tsop’k’, Ancient Greek: Σωφηνή, romanized: Sōphēnḗ) was a Hellenistic-era political entity situated between ancient Armenia and Syria. Its territory was once a part of the Satrapy of Armenia, which was ruled by the Orontid dynasty, and it emerged as a separate kingdom in the 3rd century BCE under a branch of that dynasty. The kingdom maintained independence until c. 95 BCE when the Artaxiad king Tigranes the Great conquered the territories as part of his empire. The kingdom was culturally mixed with Greek, Armenian, Iranian, Syrian, Anatolian and Roman influences."
+    ]
+   },
+   "records": [
+    "kingdom-of-sophene"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kingdom of the Iberians": {
+   "paragraphs": [
+    "Kraljestvo Ibercev je bila srednjeveška gruzijska monarhija pod dinastijo Bagrationov, ki je nastala okoli leta 888 n. št. kot naslednica Iberske kneževine v zgodovinski pokrajini Tao-Klardžeti ali gornji Iberiji na severovzhodu Turčije in v delih današnje jugozahodne Gruzije; segala je od Iberskih vrat na jugu do Malega Kavkaza na severu.",
+    "Zgodovinsko je območje obsegalo naslednja zgodovinska okrožja: zahodno od gorovja Arsiani so bili Tao, Klardžeti, Nigali in Šavšeti, vzhodno pa Mesheti, Erušeti, Džavaheti, Artaani, Aboci, Kola in Basiani. Pokrajino zaznamujejo gore ter porečji Čoruha in Kure. Območje je bilo ključno za združitev vseh gruzijskih dežel in kneževin v Kraljestvo Gruzijo leta 1008."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of the Iberians",
+    "rev": 1373451074,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Kingdom of the Iberians was a medieval Georgian monarchy under the Bagrationi dynasty which emerged circa 888 AD, succeeding the Principality of Iberia, in historical region of Tao-Klarjeti, or upper Iberia in north-eastern Turkey as well parts of modern southwestern Georgia, that stretched from the Iberian gates in the south and to the Lesser Caucasus in the north.",
+     "Historically, the area comprised the following historical districts: West of the Arsiani Mountains were Tao, Klarjeti, Nigali, and Shavsheti, to the east lay Meskheti, Erusheti, Javakheti, Artaani, Abotsi, Kola and Basiani. The landscape is characterised by mountains and the river-systems of the Çoruh and the Kura. The region played a crucial role in the unification of all Georgian lands and principalities into the Kingdom of Georgia in 1008."
+    ]
+   },
+   "records": [
+    "kingdom-of-the-iberians"
    ],
    "translated": "2026-10-23"
   },
@@ -4563,6 +5063,25 @@
    },
    "records": [
     "laomedon"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Late Period of Egypt": {
+   "headline": "Pozno obdobje starega Egipta",
+   "paragraphs": [
+    "Pozno obdobje starega Egipta je čas zadnjega razcveta domačih egipčanskih vladarjev po tretjem vmesnem obdobju, v 26. (saiški) dinastiji, ki jo je ustanovil Psametik I.; obsega pa tudi čas ahemenidske oblasti nad Egiptom po osvojitvi Kambiza II. leta 525 pr. n. št. Trajalo je od leta 664 do 332 pr. n. št., po obdobju tuje vladavine nubijske 25. dinastije, začelo pa se je s kratkim obdobjem novoasirske nadoblasti, saj je Psametik I. sprva vladal kot asirski vazal. Končalo se je, ko je Aleksander Veliki osvojil Ahemenidski imperij in je njegov vojskovodja Ptolemaj I. Soter, eden od helenističnih diadohov iz Makedonije na severu Grčije, ustanovil ptolemajsko dinastijo. Z makedonsko-grško osvojitvijo v drugi polovici 4. stoletja pr. n. št. se je začela doba helenističnega Egipta."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Late Period of Egypt",
+    "rev": 1376365886,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Late Period of Egypt refers to the last flowering of native Egyptian rulers after the Third Intermediate Period in the 26th Saite Dynasty founded by Psamtik I, but includes the time of Achaemenid rule over Egypt after the conquest by Cambyses II in 525 BC. The Late Period existed from 664 BC until 332 BC, following a period of foreign rule by the Nubian 25th Dynasty and beginning with a short period of Neo-Assyrian suzerainty, with Psamtik I initially ruling as their vassal. The period ended with the conquests of the Achaemenid Empire by Alexander the Great and the establishment of the Ptolemaic dynasty by his general Ptolemy I Soter, one of the Hellenistic diadochi from Macedon in northern Greece. With the Macedonian Greek conquest in the latter half of the 4th century BC, the age of Hellenistic Egypt began."
+    ]
+   },
+   "records": [
+    "egypt-late-period"
    ],
    "translated": "2026-10-23"
   },
@@ -4619,6 +5138,27 @@
    },
    "records": [
     "Q114065797"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Makuria": {
+   "paragraphs": [
+    "Makurija (staronubijsko: ⲇⲱⲧⲁⲩⲟ, Dotawo; grško: Μακουρία, Makouria; arabsko: المقرة, al-Muqurra) je bila srednjeveško nubijsko kraljestvo na ozemlju današnjega severnega Sudana in južnega Egipta. Prestolnica je bila Dongola (staronubijsko: ⲧⲟⲩⲅⲅⲟⲩⲗ, Touggoul) v rodovitnem dongolskem odseku Nila, približno na polovici poti med 3. in 4. nilskim kataraktom.",
+    "Nastala je po propadu Kraljestva Kuš v 4. stoletju in je sprva obsegala dolino Nila od 3. katarakta do nekje južno od Abu Hameda pri otoku Mograt. Prestolnico Dongolo so ustanovili okoli leta 500 in kmalu nato, sredi 6. stoletja, je Makurija sprejela krščanstvo. Verjetno v začetku 7. stoletja si je Makurija priključila severno sosedo Nobatijo in tako začela mejiti na bizantinski Egipt."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Makuria",
+    "rev": 1380172424,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Makuria (Old Nubian: ⲇⲱⲧⲁⲩⲟ, Dotawo; Greek: Μακουρία, romanized: Makouria; Arabic: المقرة, romanized: al-Muqurra) was a medieval Nubian kingdom in what is today northern Sudan and southern Egypt. Its capital was Dongola (Old Nubian: ⲧⲟⲩⲅⲅⲟⲩⲗ, Touggoul) in the fertile Dongola Reach, about halfway between the 3rd and 4th Nile cataract.",
+     "Coming into being after the collapse of the Kingdom of Kush in the 4th century, it originally covered the Nile Valley from the 3rd cataract to somewhere south of Abu Hamed at Mograt Island. The capital of Dongola was founded around 500 and soon after, in the mid-6th century, Makuria converted to Christianity. Probably in the early 7th century Makuria annexed its northern neighbour Nobatia, now sharing a border with Byzantine Egypt."
+    ]
+   },
+   "records": [
+    "makuria",
+    "makuria-kingdom"
    ],
    "translated": "2026-10-23"
   },
@@ -4698,6 +5238,27 @@
    },
    "records": [
     "Q3436196"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Menteshe": {
+   "headline": "Menteše",
+   "paragraphs": [
+    "Menteše (osmansko turško: منتشه; turško: Menteşe) je bil prvi od turških anatolskih beglikov (kneževin), obmejnih kneževin, ki so jih po zatonu Rumskega sultanata Seldžukov ustanovili oguški Turki. Ustanovljen je bil leta 1260 ali 1290 in se je imenoval po ustanovitelju Menteše begu. Prestolnica je bila Milas (Mylasa) na jugozahodu Anatolije.",
+    "Osrčje beglika je približno ustrezalo antični Kariji oziroma zgodnjenovoveški provinci Muğla v Turčiji, skupaj s tremi polotoki te province. Med pomembnimi središči beglika so bila mesta Beçin, Milas, Balat, Elmalı, Finike, Kaş, Mağrı (današnji Fethiye), Muğla, Çameli, Acıpayam, Tavas, Bozdoğan in Çine. Mesto Aydın (nekdanje Trales) je beglik nekaj časa nadzoroval in tedaj se je imenovalo »Güzelhisar«; pozneje je prešlo k Ajdinidom na severu, ki so ga preimenovali po ustanovitelju svoje dinastije."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Menteshe",
+    "rev": 1334876312,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Menteshe (Ottoman Turkish: منتشه, Turkish: Menteşe) was the first of the Turkish Anatolian beyliks (principality), the frontier principalities established by the Oghuz Turks after the decline of the Seljuk Sultanate of Rum. Founded in 1260/1290, it was named for its founder, Menteshe Bey. Its capital city was Milas (Mylasa) in southwestern Anatolia.",
+     "The heartland of the beylik corresponded roughly to ancient Caria or to the early modern Muğla Province in Turkey, including the province's three protruding peninsulas. Among the important centers within the beylik were the cities of Beçin, Milas, Balat, Elmalı, Finike, Kaş, Mağrı (modern Fethiye), Muğla, Çameli, Acıpayam, Tavas, Bozdoğan, and Çine. The city of Aydın (formerly Tralles) was controlled by this beylik for a time, during which it was called \"Güzelhisar\"; it later was transferred to the Aydinids in the north, who renamed the city for the founder of their dynasty."
+    ]
+   },
+   "records": [
+    "beylik-of-menteshe"
    ],
    "translated": "2026-10-23"
   },
@@ -4884,6 +5445,44 @@
    ],
    "translated": "2026-10-23"
   },
+  "Neo-Hittite states": {
+   "headline": "Novohetitske države",
+   "paragraphs": [
+    "Države, imenovane novohetitske, sirsko-hetitske (v starejši literaturi) ali luvijsko-aramejske (v sodobnih znanstvenih delih), so bile luvijske in aramejske regionalne politične tvorbe železne dobe na jugovzhodu današnje Turčije in severozahodu današnje Sirije, v antiki znane kot dežele Hatti in Aram. Nastale so po propadu Novega hetitskega kraljestva v 12. stoletju pr. n. št. in so obstajale, dokler jih v 8. stoletju pr. n. št. ni pokorilo Asirsko cesarstvo. Raziskovalci jih združujejo na podlagi več kulturnih meril, ki so jih prepoznali kot podobna in skupna obema družbama, severni (luvijski) in južni (aramejski). Kulturna izmenjava med njima velja za poseben regionalni pojav, zlasti ob velikih jezikovnih razlikah med glavnima jezikoma regije: luvijščina spada v anatolsko skupino indoevropskih jezikov, aramejščina pa v severozahodno skupino semitskih jezikov. O več vprašanjih, povezanih z regionalnim združevanjem luvijskih in aramejskih držav, raziskovalci menijo različno, nekateri so do takega združevanja na splošno kritični."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Neo-Hittite states",
+    "rev": 1356363270,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The states called Neo-Hittite, Syro-Hittite (in older literature), or Luwian-Aramean (in modern scholarly works) were Luwian and Aramean regional polities of the Iron Age, situated in southeastern parts of modern Turkey and northwestern parts of modern Syria, known in ancient times as lands of Hatti and Aram. They arose following the collapse of the Hittite New Kingdom in the 12th century BCE, and lasted until they were subdued by the Assyrian Empire in the 8th century BCE. They are grouped together by scholars on the basis of several cultural criteria that are recognized as similar and shared between both societies: northern (Luwian) and southern (Aramean). Cultural exchange between those societies is seen as a specific regional phenomenon, particularly in light of significant linguistic distinctions between the two main regional languages, with Luwian belonging to the Anatolian group of Indo-European languages and Aramaic belonging to the Northwest Semitic group of Semitic languages. Several questions related to the regional grouping of Luwian and Aramaean states are viewed differently among scholars, including some views that are critical towards such grouping in general."
+    ]
+   },
+   "records": [
+    "neo-hittite-states"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Nobatia": {
+   "headline": "Nobatija",
+   "paragraphs": [
+    "Nobatija ali Nobadija (grško: Νοβαδία, Nobadia; staronubijsko: ⲙⲓⲅⲛ̅ Migin ali ⲙⲓⲅⲓⲧⲛ︦ ⲅⲟⲩⲗ, Migitin Goul, dobesedno »nobadijske dežele«) je bila poznoantično kraljestvo v Spodnji Nubiji, na jugu današnjega Egipta. Skupaj z drugima dvema koptsko-nubijskima kraljestvoma, Makurijo in Alodijo, je nasledila Kraljestvo Kuš. Po ustanovitvi okoli leta 400 se je Nobadija postopno širila: na severu je premagala Blemijce, na jugu pa si je priključila ozemlje med drugim in tretjim nilskim kataraktom. Leta 543 je sprejela koptsko krščanstvo. V 7. stoletju si jo je v neznanih okoliščinah priključila Makurija."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Nobatia",
+    "rev": 1374818235,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Nobatia or Nobadia (Greek: Νοβαδία, Nobadia; Old Nubian: ⲙⲓⲅⲛ̅ Migin or ⲙⲓⲅⲓⲧⲛ︦ ⲅⲟⲩⲗ, Migitin Goul lit. \"of Nobadia's land\") was a late antique kingdom in Lower Nubia, modern day southern Egypt. Together with the two other Coptic-Nubian kingdoms, Makuria and Alodia, it succeeded the kingdom of Kush. After its establishment in around 400, Nobadia gradually expanded by defeating the Blemmyes in the north and incorporating the territory between the second and third Nile cataract in the south. In 543, it converted to Coptic Christianity. It would then be annexed by Makuria, under unknown circumstances, during the 7th century."
+    ]
+   },
+   "records": [
+    "nobatia"
+   ],
+   "translated": "2026-10-23"
+  },
   "North Yemen": {
    "paragraphs": [
     "Severni Jemen (arabsko: al-Yaman al-šamāliyya) je izraz za Kraljevino Jemen (1918–1962), Jemensko arabsko republiko (1962–1990) in režime pred njima, ki so imeli suverenost nad tem delom Jemna. Prestolnica je bila Sana od leta 1918 do 1948 in znova od leta 1962 do 1990. Pokrajina (Gornji Jemen) leži na jugozahodu Arabskega polotoka in meri približno 136.000 kvadratnih kilometrov, pred združitvijo Jemna pa je imela okoli trinajst milijonov prebivalcev. Na severu je mejila na Savdsko Arabijo, na jugu in vzhodu na Južni Jemen, na zahodu na Rdeče morje, na jugozahodu pa na Bab el Mandeb.",
@@ -4984,6 +5583,27 @@
    },
    "records": [
     "Q47465940"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Ottoman Tripolitania": {
+   "headline": "Osmanska Tripolitanija",
+   "paragraphs": [
+    "Osmanska Tripolitanija, znana tudi kot Tripolitansko regentstvo, je bila od leta 1551 do 1912 uradno pod oblastjo Osmanskega cesarstva. Približno je ustrezala severnim delom današnje Libije, zgodovinskima pokrajinama Tripolitanija in Kirenajka. Sprva so jo ustanovili kot osmansko provinco, ki ji je vladal paša (guverner) v Tripoliju, imenovan iz Carigrada, v resnici pa je bila zaradi moči krajevnih janičarjev napol samostojna. Od leta 1711 do 1835 je provinci kot dejanska dedna monarhija vladala dinastija Karamanlijev, ki je ostala pod formalno osmansko nadoblastjo. Leta 1835 so Osmani znova vzpostavili neposreden nadzor nad pokrajino in ga obdržali do italijanske priključitve leta 1912.",
+    "Tako kot osmanski regentstvi v Tunisu in Alžiru je bilo tudi Tripolitansko regentstvo pomembno oporišče za gusarske pohode severnoafriških korzarjev, ki so Tripoliju prinašali tudi dohodke. Ostanek stoletij turške vladavine je prebivalstvo turškega in delno turškega izvora, Kuluglije."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Ottoman Tripolitania",
+    "rev": 1381075911,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Ottoman Tripolitania, also known as the Regency of Tripoli, was officially ruled by the Ottoman Empire from 1551 to 1912. It corresponded roughly to the northern parts of modern-day Libya in historic Tripolitania and Cyrenaica. It was initially established as an Ottoman province ruled by a pasha (governor) in Tripoli who was appointed from Constantinople, though in practice it was semi-autonomous due to the power of the local Janissaries. From 1711 to 1835, the Karamanli dynasty ruled the province as a de facto hereditary monarchy while remaining under nominal Ottoman suzerainty. In 1835, the Ottomans reestablished direct control over the region until its annexation by Italy in 1912.",
+     "Like the Ottoman regencies in Tunis and Algiers, the Regency of Tripoli was a major base for the privateering activities of the North African corsairs, who also provided revenues for Tripoli. A remnant of the centuries of Turkish rule is the presence of a population of Turkish origin, and those of partial Turkish origin, the Kouloughlis."
+    ]
+   },
+   "records": [
+    "ottoman-tripolitania"
    ],
    "translated": "2026-10-23"
   },
@@ -5361,6 +5981,24 @@
    ],
    "translated": "2026-10-23"
   },
+  "Regency of Algiers": {
+   "paragraphs": [
+    "Alžirsko regentstvo je bilo zgodnjenovoveška napol samostojna osmanska obmejna provinca in vazalna država na Berberski obali severne Afrike od leta 1516 do 1830. Ustanovila sta ga brata, korzarja Oruč in Hajredin (znana tudi kot brata Barbarossa), in postalo je središče osmanske oblasti v Magrebu ter mogočno oporišče, iz katerega so proti evropskim krščanskim silam vodili pomorsko sveto vojno (džihad). Vladali so mu izvoljeni regenti v okviru stratokracije, ki so jo vodili janičarji in korzarji. Čeprav so evropski viri Alžir pogosto povezovali s piratstvom, je imel dolgoletne diplomatske vezi z evropskimi državami in je veljal za priznano sredozemsko silo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Regency of Algiers",
+    "rev": 1380356155,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Regency of Algiers was an early modern semi-independent Ottoman frontier province and vassal state on the Barbary Coast of North Africa from 1516 to 1830. Founded by the privateer brothers Aruj and Hayreddin Reis (also known as the Barbarossa brothers), the Regency became the centre of Ottoman authority in the Maghreb and a formidable base that waged maritime holy war (Jihad) on European Christian powers. It was ruled by elected regents under a stratocracy led by Janissaries and corsairs. Although European sources often associated Algiers with piracy, Algiers maintained long-standing diplomatic ties with European states and was a recognized Mediterranean power."
+    ]
+   },
+   "records": [
+    "regency-of-algiers"
+   ],
+   "translated": "2026-10-23"
+  },
   "Rojava Revolution": {
    "headline": "Revolucija v Rojavi",
    "paragraphs": [
@@ -5381,6 +6019,43 @@
    },
    "records": [
     "Q2384201"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Rustamid dynasty": {
+   "headline": "Rustamidi",
+   "paragraphs": [
+    "Rustamidi (arabsko: الرستميون) so bili ibaditska dinastija perzijskega izvora, ki je vladala državi s središčem na ozemlju današnje Alžirije. Dinastija je stoletje in pol vladala kot muslimanska teokracija iz prestolnice Tahert (današnji Tagdemt), dokler je ni premagal ismailitski Fatimidski kalifat. Rustamidska oblast je segala čez današnjo osrednjo in zahodno Alžirijo, dele južne Tunizije ter pokrajini Džebel Nafusa in Fezan v Libiji vse do Zavile."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Rustamid dynasty",
+    "rev": 1380992955,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Rustamid dynasty (Arabic: الرستميون) was an Ibadi dynasty of Persian origin which ruled a state that was centered in present-day Algeria. The dynasty governed as a Muslim theocracy for a century and a half from its capital Tahert (present day Tagdemt) until the Isma'ili Fatimid Caliphate defeated it. Rustamid authority extended over what is now central and western Algeria, parts of southern Tunisia, and the Jebel Nafusa and Fezzan regions in Libya as far as Zawila."
+    ]
+   },
+   "records": [
+    "rustamid-dynasty"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Saadi Sultanate": {
+   "paragraphs": [
+    "Saadijski sultanat (arabsko: السعديون, as-saʿdiyyūn), znan tudi kot Šerifski sultanat (arabsko: السلطنة الشريفة), je bila država, ki je v 16. in 17. stoletju vladala današnjemu Maroku in delom severozahodne Afrike. Vodila jo je dinastija Saaditov, arabska šerifska dinastija."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Saadi Sultanate",
+    "rev": 1381056515,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Saadi Sultanate (Arabic: السعديون, romanized: as-saʿdiyyūn), also known as the Sharifian Sultanate (Arabic: السلطنة الشريفة), was a state which ruled present-day Morocco and parts of Northwest Africa in the 16th and 17th centuries. It was led by the Saadi dynasty, an Arab Sharifian dynasty."
+    ]
+   },
+   "records": [
+    "saadi-sultanate"
    ],
    "translated": "2026-10-23"
   },
@@ -6580,6 +7255,25 @@
    ],
    "translated": "2026-10-23"
   },
+  "Tabal (state)": {
+   "headline": "Tabal",
+   "paragraphs": [
+    "Tabal (novoasirsko akadsko: 𒆳𒋫𒁄 in 𒌷𒋫𒁄), pozneje preoblikovan v Bīt-Burutaš (novoasirsko akadsko: 𒆳𒂍𒁹𒁍𒊒𒋫𒀾) ali Bīt-Paruta (novoasirsko akadsko: 𒂍𒁹𒉺𒊒𒋫), je bil novohetitska država z luvijskim jezikom, ki je v železni dobi obstajala na jugovzhodu Anatolije."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Tabal (state)",
+    "rev": 1372410573,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Tabal (Neo-Assyrian Akkadian: 𒆳𒋫𒁄 and 𒌷𒋫𒁄), later reorganised into Bīt-Burutaš (Neo-Assyrian Akkadian: 𒆳𒂍𒁹𒁍𒊒𒋫𒀾) or Bīt-Paruta (Neo-Assyrian Akkadian: 𒂍𒁹𒉺𒊒𒋫), was a Luwian-speaking Neo-Hittite state which existed in southeastern Anatolia in the Iron Age."
+    ]
+   },
+   "records": [
+    "tabal-kingdom"
+   ],
+   "translated": "2026-10-23"
+  },
   "Third Battle of Fallujah": {
    "paragraphs": [
     "Tretja bitka za Faludžo, ki jo je iraška vlada poimenovala operacija Zlom terorizma (arabsko: عملية كسر الإرهاب), je bila vojaška operacija proti ISIL, s katero so hoteli zavzeti mesto Faludža in njegova predmestja približno 69 kilometrov zahodno od iraške prestolnice Bagdad. Operacija se je začela 22. maja 2016, tri mesece potem, ko so iraške sile popolnoma obkolile Faludžo. Iraške sile so mesto Faludža znova zavzele 26. junija, dva dni pozneje pa še zadnji žep odpora ISIL na zahodnem obrobju mesta."
@@ -6618,6 +7312,44 @@
    },
    "records": [
     "Q941322"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Third Intermediate Period of Egypt": {
+   "headline": "Tretje vmesno obdobje starega Egipta",
+   "paragraphs": [
+    "Tretje vmesno obdobje starega Egipta se je začelo s smrtjo faraona Ramzesa XI. leta 1077 pr. n. št., ki je končala Novo kraljestvo, nazadnje pa mu je sledilo pozno obdobje. Za začetek poznega obdobja navajajo različne mejnike, najpogosteje pa ga štejejo od leta 664 pr. n. št., ko je Psametik I. ustanovil 26. dinastijo, potem ko so Asirci pod kraljem Asurbanipalom pregnali nubijske kušitske vladarje 25. dinastije. Izraz »tretje vmesno obdobje«, ki se zgleduje po dobro znanih prvem in drugem vmesnem obdobju, je bil razširjen že leta 1978, ko ga je britanski egiptolog Kenneth Kitchen uporabil v naslovu svoje knjige o tem obdobju. Kitchen je sicer trdil, da obdobje »še zdaleč ni bilo kaotično«, in upal, da bo njegovo delo pripomoglo k opustitvi izraza, sam pa je imel raje izraz »poimperialna doba«; z uporabo izraza v naslovu ga je očitno le še utrdil."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Third Intermediate Period of Egypt",
+    "rev": 1372720102,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Third Intermediate Period of ancient Egypt began with the death of Pharaoh Ramesses XI in 1077 BC, which ended the New Kingdom, and was eventually followed by the Late Period. Various points are offered as the beginning for the latter era, though it is most often regarded as dating from the foundation of the Twenty-Sixth Dynasty by Psamtik I in 664 BC, following the departure of the Nubian Kushite rulers of the Twenty-fifth Dynasty after they were driven out by the Assyrians under King Ashurbanipal. The use of the term \"Third Intermediate Period\", based on the analogy of the well-known First and Second Intermediate Periods, was popular by 1978, when British Egyptologist Kenneth Kitchen used the term for the title of his book on the period. While Kitchen argued that the period was 'far from being chaotic' and hoped that his work would lead to the abolishment of the term, with his own preference being the 'Post-Imperial epoch', his use of the term as a title seems only to have entrenched its use."
+    ]
+   },
+   "records": [
+    "egypt-third-intermediate-period"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Thirtieth Dynasty of Egypt": {
+   "headline": "Trideseta egipčanska dinastija",
+   "paragraphs": [
+    "Trideseta egipčanska dinastija (zapisano tudi XXX. dinastija ali 30. dinastija) velja običajno za peto dinastijo poznega obdobja starega Egipta. Ustanovil jo je Nektanebo I., potem ko je leta 380 pr. n. št. strmoglavil Neferita II., prenehala pa je obstajati, ko je ahemenidski kralj Artakserks III. leta 343 pr. n. št. vdrl v Egipt. Bila je zadnja domača dinastija starega Egipta."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Thirtieth Dynasty of Egypt",
+    "rev": 1376340222,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Thirtieth Dynasty of Egypt (notated Dynasty XXX, alternatively 30th Dynasty or Dynasty 30) is usually classified as the fifth Dynasty of the Late Period of ancient Egypt. It was founded after the overthrow of Nepherites II in 380 BC by Nectanebo I, and was disestablished upon the invasion of Egypt by the Achaemenid king Artaxerxes III in 343 BC. This is the final native dynasty of ancient Egypt."
+    ]
+   },
+   "records": [
+    "thirtieth-dynasty-of-egypt"
    ],
    "translated": "2026-10-23"
   },
@@ -6799,6 +7531,25 @@
    ],
    "translated": "2026-10-23"
   },
+  "Twenty-second Dynasty of Egypt": {
+   "headline": "Dvaindvajseta egipčanska dinastija",
+   "paragraphs": [
+    "Dvaindvajseta dinastija je bila staroegipčanska dinastija, ki je vladala v letih 947–713 pr. n. št., v tretjem vmesnem obdobju. Ustanovil jo je Šešonk I., ki je bil starolibijskega izvora. Znana je tudi kot bubastidska dinastija, saj so faraoni sprva vladali iz mesta Bubastis."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Twenty-second Dynasty of Egypt",
+    "rev": 1376340176,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Twenty-second Dynasty was an Ancient Egyptian dynasty of 947–713 BC, during the Third Intermediate Period. The dynasty was founded by Shoshenq I, who was of ancient Libyan origin. It is also known as the Bubastite Dynasty as the pharaohs originally ruled from the city of Bubastis."
+    ]
+   },
+   "records": [
+    "twenty-second-dynasty-of-egypt"
+   ],
+   "translated": "2026-10-23"
+  },
   "United States–Taliban deal": {
    "headline": "Sporazum med ZDA in talibani",
    "paragraphs": [
@@ -6892,6 +7643,26 @@
    },
    "records": [
     "Q1305130"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Wattasid dynasty": {
+   "paragraphs": [
+    "Vatasidi (arabsko: الوطاسيون, al-waṭṭāsīyūn) so bili vladarska dinastija Maroka. Tako kot Marinidi so bili tudi vatasidski vladarji berberskega izvora iz plemena Zenata. Družini sta bili sorodni in Marinidi so med Vatasidi izbrali veliko vezirjev. Ti vezirji so si postopno prisvojili velik del sultanove oblasti. Leta 1458 ali 1459 je Abd al Hak II. znova uveljavil neposredno marinidsko oblast in zatrl družino Vatasidov, pri čemer naj bi ubil veliko njenih članov. Leta 1465 je bil Abd al Hak ubit v uporu v Fesu, nato pa so Vatasidi nazadnje prevzeli nadzor nad nekdanjim marinidskim kraljestvom.",
+    "Prvi vatasidski sultan je bil Abu Abdulah al Šejk Mohamed ibn Jahja. Nadzoroval je le sever Maroka, jug pa je bil razdeljen na več kneževin. Vatasidi so bili dokončno izpodrinjeni leta 1554, po bitki pri Tadli, ko so jih nadomestili saadijski knezi iz Tagmaderta, ki so od leta 1511 vladali vsemu južnemu Maroku."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Wattasid dynasty",
+    "rev": 1380859857,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Wattasid dynasty (Arabic: الوطاسيون, al-waṭṭāsīyūn) was a ruling dynasty of Morocco. Like the Marinid dynasty, its rulers were of Zenata Berber descent. The two families were related, and the Marinids recruited many viziers from the Wattasids. These viziers gradually assumed many of the powers of the sultans. In 1458 or 1459, Abd al-Haqq II reasserted direct Marinid authority and suppressed the Wattasid family, reportedly killing many of its members. In 1465, Abd al-Haqq was killed during a revolt in Fez, after which the Wattasids eventually established control over the former Marinid realm.",
+     "Abu Abd Allah al-Sheikh Muhammad ibn Yahya was the first Sultan of the Wattasid Dynasty. He controlled only the northern part of Morocco, the south being divided into several principalities. The Wattasids were finally supplanted in 1554, after the Battle of Tadla, by the Saadi dynasty princes of Tagmadert who had ruled all of southern Morocco since 1511."
+    ]
+   },
+   "records": [
+    "wattasid-dynasty"
    ],
    "translated": "2026-10-23"
   },
@@ -7042,6 +7813,27 @@
    },
    "records": [
     "Q123014721"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Zirid dynasty": {
+   "headline": "Ziridi",
+   "paragraphs": [
+    "Ziridi (arabsko: الزيريون, az-zīriyyūn), znani tudi kot Banu Ziri (arabsko: بنو زيري, banū zīrī), so bili berberska dinastija iz plemena Sanhadža z ozemlja današnje Alžirije, ki je od leta 972 do 1014 vladala osrednjemu Magrebu, od leta 972 do 1148 pa Ifrikiji v vzhodnem Magrebu.",
+    "Ziridi, potomci Zirija ibn Manada, vojaškega poveljnika Fatimidskega kalifata in ustanovitelja dinastije, po katerem se imenuje, so bili emirji, ki so vladali v imenu Fatimidov. V Ifrikiji so si z vojaškimi osvajanji postopno pridobili samostojnost, dokler se sredi 11. stoletja uradno niso odcepili od Fatimidov. Vladavina ziridskih emirjev je odprla obdobje severnoafriške zgodovine, v katerem so imele politično oblast berberske dinastije, med njimi Almoravidi, Almohadi, Zajanidi, Marinidi in Hafsidi."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Zirid dynasty",
+    "rev": 1379924612,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Zirid dynasty (Arabic: الزيريون, romanized: az-zīriyyūn), also known as the Banu Ziri (Arabic: بنو زيري, romanized: banū zīrī), was a Sanhaja Berber dynasty from what is now Algeria which ruled the central Maghreb from 972 to 1014 and Ifriqiya in eastern Maghreb from 972 to 1148.",
+     "Descendants of Ziri ibn Manad, a military leader of the Fatimid Caliphate and the eponymous founder of the dynasty, the Zirids were emirs who ruled in the name of the Fatimids. The Zirids gradually established their autonomy in Ifriqiya through military conquest until officially breaking with the Fatimids in the mid-11th century. The rule of the Zirid emirs opened the way to a period in the North African history when political power was held by Berber dynasties, including the Almoravids, Almohads, Zayyanids, Marinids and Hafsids."
+    ]
+   },
+   "records": [
+    "zirid-dynasty"
    ],
    "translated": "2026-10-23"
   },
