@@ -292,6 +292,11 @@ They read the snapshots in `sources/` (retrieved 2026-10-17: Wikidata and Period
 
 ## Changes
 
+- **2026-10-23, translated summaries (the Americas).**
+  - `tools/fetch_translation_sources.py` now takes a region's units in parts (it skips units already translated), and fetches an era that is a section of a longer article as that section's text. The Americas have 456 worklist units; French Fifth Republic was already translated with Oceania. It re-checked the rest against their language links: Mississippian culture has a Slovenian article; Late Archaic has no English article at all (its era tells its story from the data). The other 453 were snapshotted as the drawer prints them: 51,034 words, revisions of 23 October 2026.
+  - The three Woodland period eras link to sections whose headings Wikipedia editors had re-dated ("Early Woodland period (1000–1 BCE)" is now "(1000–200 BCE)"). The tool and the app now fall back to the heading without its bracketed dates; before this, the drawer found no text for these eras.
+  - `translations/sl/americas.json`: the 453 translated with the project's Slovenian newspaper style in twelve parts, marked as machine translations, not yet reviewed (44,137 words). `scripts/merge-translations.mjs --partial` checked paragraphs, numbers and banned calques before writing each part.
+
 - **2026-10-22, translated summaries (Oceania).**
   - `scripts/translation-worklist.mjs sl` lists 4,249 English articles whose stories have no Slovenian article (from the names snapshot), by priority; Oceania has 63.
   - `tools/fetch_translation_sources.py` re-checked all 63 against the English articles' language links (none has a Slovenian article) and snapshotted their introductions, cut as the drawer prints them (up to 3 paragraphs, 1,100 characters): 6,909 words, revisions of 22 October 2026.
