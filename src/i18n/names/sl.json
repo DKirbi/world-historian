@@ -2131,7 +2131,7 @@
   "Q3485982": "Obleganje Pariza",
   "Q3485986": "Obleganje Pariza",
   "Q349422": "Bitka v Okehazami",
-  "Q3536871": "Pogodba iz Rio de Janeira",
+  "Q3536871": "Pogodba iz Ria de Janeira",
   "Q3566991": "Obleganje Jeruzalema",
   "Q3625456": "Obleganje Budima",
   "Q3625498": "Drugo obleganje Neaplja",
@@ -2250,7 +2250,7 @@
   "Q497797": "Bitka za Cold Harbor",
   "Q498871": "Angleški kmečki upor",
   "Q5004719": "Bizantinsko-beneški sporazum",
-  "Q501866": "Invazija na Grenado leta 1993",
+  "Q501866": "Invazija na Grenado leta 1983",
   "Q503347": "Napad na Mers-el-Kébir",
   "Q5036982": "Zavzetje Bagdada",
   "Q503982": "Bitka pri Mikalah",
@@ -2767,7 +2767,9 @@
  "overrides": {
   "_note": "Corrections to the snapshot names, applied by scripts/gen-names.mjs. Each says what it fixes.",
   "events": {
-   "Q1366688": "Transpacifiško partnerstvo"
+   "Q1366688": "Transpacifiško partnerstvo",
+   "Q501866": "Invazija na Grenado leta 1983",
+   "Q3536871": "Pogodba iz Ria de Janeira"
   }
  }
 }
