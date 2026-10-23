@@ -292,6 +292,11 @@ They read the snapshots in `sources/` (retrieved 2026-10-17: Wikidata and Period
 
 ## Changes
 
+- **2026-10-23, translated summaries (Africa & Middle East, part 2 of 3).**
+  - Part 2, Anatolia and Cyprus, North Africa and Egypt: the 348 snapshotted units translated into `translations/sl/africa-middle-east.json` in nine parts (2 eras, 44 states, 302 events; 30,424 words), marked as machine translations, not yet reviewed. 711 of the region's 918 snapshotted units are now translated; part 3 (207) remains.
+  - One more Slovenian name corrected in the overrides: the sack of Amorium was labelled *Oplenitev Armorija*.
+  - Units whose source has a quirk say so in `notes`: a record linked to the wrong article (Kastamonu, a state linked to the modern city), sentences broken across paragraphs or cut mid-sentence in the English excerpt, glossary names worth harmonising.
+
 - **2026-10-23, translated summaries (Africa & Middle East, part 1 of 3).**
   - Africa & Middle East has 920 worklist units, twice the Americas, so it is translated in three parts by column group. `tools/fetch_translation_sources.py --groups` snapshots only the units with a record in those columns; a unit shared by two parts goes with the first one.
   - Part 1, the Middle East (Levant, Mesopotamia and Iran, Arabia): 363 units snapshotted (37,227 words) and translated into `translations/sl/africa-middle-east.json` in nine parts (62 states, 301 events; 31,828 words), marked as machine translations, not yet reviewed.
