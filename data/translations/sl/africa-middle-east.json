@@ -1,0 +1,792 @@
+{
+ "lang": "sl",
+ "region": "africa-middle-east",
+ "method": "machine",
+ "translator": "Claude Opus 5.5 (claude-opus-5-5) with the slovene-newspaper-translation skill",
+ "translated": "2026-10-23",
+ "reviewed": false,
+ "licence": "CC BY-SA 4.0: translations of English Wikipedia text, attributed to each article and revision",
+ "units": {
+  "Afsharid Iran": {
+   "paragraphs": [
+    "Zavarovane dežele Irana, splošno znane kot afšaridski Iran, afšaridska Perzija ali Afšaridski imperij, so bile iranski imperij, ki ga je ustanovilo turkmensko pleme Afšar v severovzhodni iranski provinci Horasan; dinastija Afšaridov je Iranu vladala sredi 18. stoletja. Njen ustanovitelj Nader šah je bil uspešen vojskovodja, ki je leta 1736 odstavil zadnjega pripadnika dinastije Safavidov in se razglasil za šaha.",
+    "Pod Nader šahom je Iran dosegel največji obseg od časov Sasanidskega imperija. Na vrhuncu je vladal današnjemu Iranu, Kavkazu, Afganistanu, Uzbekistanu in drugim delom Srednje Azije ter delom Arabije, indijske podceline, Iraka in Turčije. Po njegovi smrti so si večino imperija razdelili Zandi, Durani in Kalatski kanat, oblast Afšaridov pa se je skrčila na majhno krajevno državo v Horasanu. Dinastijo je leta 1796 dokončno strmoglavil Aga Mohamed kan Kadžar, ki je ustanovil Kadžarski imperij in znova vzpostavil iransko nadoblast nad prej izgubljenimi območji."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Afsharid Iran",
+    "rev": 1381516671,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Guarded Domains of Iran, commonly referred to as Afsharid Iran, Afsharid Persia or the Afsharid Empire, was an Iranian empire established by the Turkoman Afshar tribe in Iran's north-eastern province of Khorasan, the Afsharid dynasty would rule over Iran during the mid 18th century. The dynasty's founder, Nader Shah, was a successful military commander who deposed the last member of the Safavid dynasty in 1736, and proclaimed himself Shah.",
+     "During Nader Shah's reign, Iran reached its greatest extent since the time of the Sasanian Empire. At its height it ruled modern-day Iran, the Caucasus, Afghanistan, Uzbekistan and other parts of Central Asia, as well as parts of Arabia, the Indian subcontinent, Iraq and Turkey. After his death, most of his empire was divided between the Zands, Durranis, and Khanate of Kalat, with Afsharid rule being confined to a small local state in Khorasan. The Afsharid dynasty was finally overthrown in 1796 by Agha Mohammad Khan Qajar, who founded the Qajar Empire and reestablished Iranian suzerainty over the previously lost regions."
+    ]
+   },
+   "records": [
+    "afsharid-iran"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Al-Ahsa Oasis": {
+   "paragraphs": [
+    "Oaza Al Ahsa (arabsko: al-Ahsā), znana tudi kot al Hasa ali Hadžar, je oaza in zgodovinska pokrajina na vzhodu Savdske Arabije. Po njej se imenuje guvernorat Al Ahsa, ki obsega velik del Vzhodne province države. Oaza leži okoli 60 km v notranjosti od obale Perzijskega zaliva in jo sestavljajo štiri glavna mesta in 22 vasi. Med mesti sta Al Mubaraz in Al Hufuf, dve največji mesti v Savdski Arabiji."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Al-Ahsa Oasis",
+    "rev": 1366328834,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Al-Ahsa Oasis (Arabic: الْأَحْسَاء, al-ʾAhsā), also known as al-Ḥasāʾ (الْحَسَا) or Hajar (هَجَر), is an oasis and historical region in eastern Saudi Arabia. Al-Ahsa Governorate, which makes up much of the country's Eastern Province, is named after it. The oasis is located about 60 km (37 miles) inland from the coast of the Persian Gulf. Al-Ahsa Oasis comprises four main cities and 22 villages. The cities include Al-Mubarraz and Al-Hofuf, two of the largest cities in Saudi Arabia."
+    ]
+   },
+   "records": [
+    "bahrani-dynasty"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Arab Federation": {
+   "paragraphs": [
+    "Hašemitska arabska federacija je bila kratkotrajna konfederacija hašemitskih kraljevin Irak in Jordanija, ki je trajala od 14. februarja do 2. avgusta 1958. Čeprav ime nakazuje zvezno ureditev, je bila dejansko konfederacija.",
+    "Federacijo sta 14. februarja 1958 ustanovila iraški kralj Fejsal II. in njegov bratranec, jordanski kralj Husein, ki sta hotela kraljevini združiti v odgovor na nastanek Združene arabske republike Egipta in Sirije. Zveza je trajala le šest mesecev: Fejsala II. je 14. julija odstavil vojaški udar, nova iraška vlada pa je federacijo 2. avgusta 1958 uradno razpustila."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Arab Federation",
+    "rev": 1349192362,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Hashemite Arab Federation was a short-lived confederation that lasted from 14 February to 2 August 1958, between the Hashemite kingdoms of Iraq and Jordan. Although the name implies a federal structure, it was de facto a confederation.",
+     "The Federation was formed on 14 February 1958, when King Faisal II of Iraq and his cousin, King Hussein of Jordan, sought to unite their two Hashemite kingdoms as a response to the formation of the United Arab Republic between Egypt and Syria. The union lasted only six months. Faisal II was deposed by a military coup on 14 July, and the new Iraqi government officially dissolved the Federation on 2 August 1958."
+    ]
+   },
+   "records": [
+    "arab-federation"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Arab Socialist Ba'ath Party - Syria Region": {
+   "paragraphs": [
+    "Arabska socialistična stranka Baath – regija Sirija (arabsko: Ḥizb al-Ba'th al-'Arabī al-Ishtirākī – Quṭr Sūriyā), uradno sirska regionalna veja, je bila baatistična organizacija, ki so jo 7. aprila 1947 ustanovili Michel Aflaq, Salah al Din al Bitar in privrženci Zakija al Arsuzija. Stranka je Sirijo vodila od državnega udara leta 1963, ki je baatiste pripeljal na oblast, do 8. decembra 2024, ko je Bašar al Asad pred uporniško ofenzivo, ki je končala sirsko državljansko vojno, pobegnil iz Damaska. Formalno so jo razpustili januarja 2025."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Arab Socialist Ba'ath Party – Syria Region",
+    "rev": 1370673092,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Arab Socialist Ba'ath Party – Syria Region (Arabic: حزب البعث العربي الاشتراكي – قطر سوريا Ḥizb al-Ba'th al-'Arabī al-Ishtirākī – Quṭr Sūriyā), officially the Syrian Regional Branch (Arabic: الفرع القطري السوري), was a Ba'athist organisation founded on 7 April 1947 by Michel Aflaq, Salah al-Din al-Bitar and followers of Zaki al-Arsuzi. The party ruled Syria from the 1963 coup d'état, which brought the Ba'athists to power, until 8 December 2024, when Bashar al-Assad fled Damascus in the face of a rebel offensive which concluded the Syrian civil war. It was formally disbanded in January 2025."
+    ]
+   },
+   "records": [
+    "arab-socialist-ba-ath-party"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Assyrian conquest of Egypt": {
+   "headline": "Asirska osvojitev Egipta",
+   "paragraphs": [
+    "Asirska osvojitev Egipta je zajela razmeroma kratko obdobje Novoasirskega cesarstva, od leta 673 do 663 pr. n. št. Asirci si niso le podredili dežele z velikim kulturnim ugledom, temveč so z osvojitvijo Egipta cesarstvu dali tudi največji obseg."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Assyrian conquest of Egypt",
+    "rev": 1381354893,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Assyrian conquest of Egypt covered a relatively short period of the Neo-Assyrian Empire from 673 to 663 BCE. The conquest of Egypt not only placed a land of great cultural prestige under Assyrian rule but also brought the Neo-Assyrian Empire to its greatest extent."
+    ]
+   },
+   "records": [
+    "assyrian-egypt"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Emirate of Diriyah": {
+   "paragraphs": [
+    "Prva savdska država (arabsko: ad-dawla as-suʿūdiyya al-ʾūlā), uradno Emirat Dirija (ʾimāra ad-dirʿiyya), je bila politična tvorba na Arabskem polotoku, ki je obstajala med letoma 1744 in 1818. Emir nedždskega mesta Dirija Mohamed bin Saud Al Mukrin in verski voditelj Mohamed ibn Abd al Vahab sta podpisala pakt, s katerim sta ustanovila družbeno-versko reformno gibanje, ki je pod političnim vodstvom rodbine Saud širilo vahabitski verski nauk.",
+    "Državo so nato razširili po Arabskem polotoku, Levantu, do obale iranskega mesta Bandar Abas in do ožine Bab el Mandeb. Prva savdska država se je končala leta 1818, ko so egiptovske sile po večmesečnem obleganju zavzele in porušile prestolnico Dirijo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "First Saudi state",
+    "rev": 1380880992,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The first Saudi state (Arabic: الدَّوْلَةُ السُّعُودِيَّةُ الْأُولَىٰ, romanized: ad-dawla as-suʿūdiyya al-ʾūlā), officially the Emirate of Diriyah (Arabic: إمارة الدرعية, romanized: ʾimāra ad-dirʿiyya), was a polity that existed on the Arabian Peninsula between 1744 and 1818. The emir of a Najdi town called Diriyah, Muhammad bin Saud Al Muqrin, and the religious leader Muhammad ibn Abd al-Wahhab signed a pact founding a socio-religious reform movement that propagated the Wahhabi religious doctrine under the political leadership of the House of Saud.",
+     "They then proceeded to expand their state throughout the Arabian Peninsula, the Levant, the coast of the Iranian city of Bandar Abbas, and the Bab al-Mandab Strait. The first Saudi state ended in 1818 after the Egyptian forces captured and destroyed the Capital town of Diriyah following a siege that lasted for several months."
+    ]
+   },
+   "records": [
+    "emirate-of-diriyah"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Emirate of Jabal Shammar": {
+   "headline": "Emirat Džabal Šamar",
+   "paragraphs": [
+    "Emirat Džabal Šamar (arabsko: Imārah Jabal Shammar), znan tudi kot Emirat Hail ali Rašidski emirat, je bil država na severu Arabskega polotoka, vključno z Nedždom, ki je obstajala od sredine 19. stoletja do leta 1921. Šamar je bil zveza plemen na Arabskem polotoku, ime Džabal Šamar pa pomeni »Šamarjeva gora«. Prestolnica je bil Hail, vladala pa je monarhija dinastije Rašidov. Obsegal je dele današnje Savdske Arabije, Iraka in Jordanije."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Emirate of Jabal Shammar",
+    "rev": 1380971512,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Emirate of Jabal Shammar (Arabic: إِمَارَة جَبَل شَمَّر, romanized: Imārah Jabal Shammar), also known as the Emirate of Haʾil (إِمَارَة حَائِل) or the Rashidi Emirate (إِمَارَة آل رَشِيْد), was a state in the northern part of the Arabian Peninsula, including Najd, existing from the mid-nineteenth century to 1921. Shammar had been a confederation in the Arabian Peninsula. Jabal Shammar in English is translated as the \"Mountain of Shammar\". Jabal Shammar's capital was Ha'il. It was led by the monarchy of the Rashidi dynasty. It included parts of modern-day Saudi Arabia, Iraq, and Jordan."
+    ]
+   },
+   "records": [
+    "emirate-of-jabal-shammar"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Emirate of Nejd": {
+   "paragraphs": [
+    "Druga savdska država (arabsko: ad-Dawla as-Suʿūdiyya ath-Thāniyya), uradno Emirat Nedžd, je bila država, ki je med letoma 1824 in 1891 obstajala v pokrajini Nedžd na ozemlju današnje Savdske Arabije. Savdska oblast se je vrnila v osrednjo (Nedžd) in vzhodno Arabijo, potem ko je prvo savdsko državo v osmansko-vahabitski vojni strmoglavil egiptovski ejalet Osmanskega cesarstva.",
+    "Za drugo savdsko obdobje so bili značilni manjše ozemeljsko širjenje in manjša verska vnema, čeprav so se savdski voditelji še naprej imenovali imami in so še vedno zaposlovali vahabitske verske učenjake. Za začetek druge savdske države navadno velja Turki bin Abdulah, ki je leta 1824 osmansko-egiptovskim silam znova odvzel Rijad. Hudi notranji spori v rodbini Saud so dinastijo nazadnje pokopali v bitki pri Mulajdi leta 1891 med silami, zvestimi zadnjemu savdskemu imamu Abdulu Rahmanu bin Fejsalu, in dinastijo Rašidov iz Haila."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Second Saudi state",
+    "rev": 1379442013,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The second Saudi state (Arabic: الدَّوْلَةُ السُّعُودِيَّةُ الثَّانِيَةُ, romanized: ad-Dawla as-Suʿūdiyya ath-Thāniyya), officially known as the Emirate of Najd, was a state that existed between 1824 and 1891 in the Najd region of what is now Saudi Arabia. Saudi rule was restored to central (Najd) and Eastern Arabia after the first Saudi state having previously been brought down by the Ottoman Empire's Egypt Eyalet in the Ottoman–Wahhabi War.",
+     "The second Saudi period was marked by less territorial expansion and less religious zeal, although the Saudi leaders continued to be called Imam and still employed Wahhabist religious scholars. Turki bin Abdullah's reconquest of Riyadh from Ottoman-Egyptians forces in 1824 is generally regarded as the beginning of the second Saudi state. Severe internal conflicts within the House of Saud eventually led to the dynasty's downfall at the Battle of Mulayda in 1891, between the forces loyal to the last Saudi imam, Abdul Rahman bin Faisal, and the Rashidi dynasty of Hail."
+    ]
+   },
+   "records": [
+    "emirate-of-nejd"
+   ],
+   "translated": "2026-10-23"
+  },
+  "First Sealand dynasty": {
+   "headline": "Prva dinastija Morske dežele",
+   "paragraphs": [
+    "Prva dinastija Morske dežele (URU.KÙKI) ali 2. babilonska dinastija (čeprav je bila neodvisna od Babilona, ki so mu vladali Amoriti), zelo okvirno datirana v ok. 1732–1475 pr. n. št. (po srednji kronologiji), je skrivnostno zaporedje kraljev, ki ga izpričujejo predvsem jedrnate omembe na seznamih kraljev A in B ter sočasni zapisi na asirskem sinhronističnem seznamu kraljev A.117. Sprva so jo imenovali »dinastija Dežele morja«, pozneje pa se je uveljavilo ime Morska dežela.",
+    "Dinastija, ki se je odtrgala od starobabilonskega cesarstva, je dobila ime po provinci na skrajnem jugu Mezopotamije, močvirni pokrajini brez velikih naselij, ki se je z zasipavanjem ustij Tigrisa in Evfrata postopoma širila proti jugu (v železni dobi znani kot mat Kaldi, »Kaldeja«). Lončenino Morske dežele so našli v Girsuju, Uruku in Lagašu, severneje pa na nobenem najdišču."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "First Sealand dynasty",
+    "rev": 1373103158,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The First Sealand dynasty (URU.KÙKI), or the 2nd Dynasty of Babylon (although it was independent of Amorite-ruled Babylon), very speculatively c. 1732–1475 BC (MC), is an enigmatic series of kings attested to primarily in laconic references in the King Lists A and B, and as contemporaries recorded on the Assyrian Synchronistic king list A.117. Initially it was named the \"Dynasty of the Country of the Sea\" with Sealand later becoming customary.",
+     "The dynasty, which had broken free of the Old Babylonian Empire, was named for the province in the far south of Mesopotamia, a swampy region bereft of large settlements which gradually expanded southwards with the silting up of the mouths of the Tigris and Euphrates rivers (the region known as mat Kaldi \"Chaldaea\" in the Iron Age). Sealand pottery has been found at Girsu, Uruk, and Lagash but in no site north of that."
+    ]
+   },
+   "records": [
+    "first-sealand-dynasty"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Ghaznavids": {
+   "paragraphs": [
+    "Gaznavidski imperij (perzijsko: Ġaznaviyān) je bil kulturno perzijsko oblikovana sunitska muslimanska država turškega karluškega izvora. Cvetel je od leta 977 do 1186 in na vrhuncu segal od Oksa do doline Inda. Dinastijo je ustanovil Sabuktigin, ko je po smrti tasta Alp Tigina, nekdanjega generala Samanidskega imperija iz Balha, prevzel oblast v Gazni.",
+    "Sabuktiginov sin Mahmud iz Gazne je imperij razširil na vzhodu do Amudarje, Inda in Indijskega oceana, na zahodu pa do Reja in Hamadana. Pod Masudom I. je dinastija po bitki pri Dandanakanu leta 1040 začela izgubljati zahodna ozemlja v korist Seldžuškega imperija, zato se je njena posest skrčila na današnji Afganistan, Pakistan in severno Indijo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Ghaznavid Empire",
+    "rev": 1380963126,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Ghaznavid Empire (Persian: غزنویان, romanized: Ġaznaviyān) was a culturally Persianate, Sunni Muslim state of Turkic Karluk origin. Flourishing from 977 to 1186, the empire spread from the Oxus to the Indus Valley at its greatest extent. The dynasty was founded by Sabuktigin upon his succession to the rule of Ghazna after the death of his father-in-law, Alp Tigin, who was an ex-general of the Samanid Empire from Balkh.",
+     "Sabuktigin's son, Mahmud of Ghazni, expanded the Ghaznavid Empire to the Amu Darya, the Indus River and the Indian Ocean in the east and to Rey and Hamadan in the west. Under the reign of Mas'ud I, the Ghaznavid dynasty began losing control over its western territories to the Seljuk Empire after the Battle of Dandanaqan in 1040, resulting in a restriction of its holdings to modern-day Afghanistan, Pakistan and Northern India."
+    ]
+   },
+   "records": [
+    "ghaznavid-empire"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Gutian rule in Mesopotamia": {
+   "headline": "Gutejska vladavina v Mezopotamiji",
+   "paragraphs": [
+    "Gutejska dinastija (sumersko: gu-ti-umKI) je bila vrsta kraljev iz ljudstva Gutejcev. Nekoč so menili, da so bili Gutejci horda, ki je pridrla v Mezopotamijo in strmoglavila akadsko in sumersko oblast, danes pa vemo, da so bili tedaj na tem območju že najmanj stoletje. Do konca akadskega obdobja so Gutejci zasedli sumersko mesto Adab in ga naredili za svojo prestolnico. Gutejska dinastija je prišla na oblast v Mezopotamiji proti koncu 3. tisočletja pr. n. št., po zatonu in propadu Akadskega imperija. Koliko časa so gutejski kralji vladali Mezopotamiji, ni gotovo, ocene pa segajo od nekaj let do stoletja. Konec dinastije zaznamuje vzpon uruškega vladarja Utu-hengala (ok. 2119–2112 pr. n. št.), s katerim se začne kratkotrajna »peta uruška dinastija«, za njim pa urskega vladarja Ur-Namuja (ok. 2112–2094 pr. n. št.), ustanovitelja tretje urske dinastije."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Gutian rule in Mesopotamia",
+    "rev": 1376539585,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Gutian dynasty (Sumerian: 𒄖𒋾𒌝𒆠, gu-ti-umKI) was a line of kings, originating among the Gutian people. Originally thought to be a horde that swept in and brought down Akkadian and Sumerian rule in Mesopotamia, the Gutians are now known to have been in the area for at least a century by then. By the end of the Akkadian period, the Sumerian city of Adab was occupied by the Gutians, who made it their capital. The Gutian dynasty came to power in Mesopotamia near the end of the 3rd millennium BC, after the decline and fall of the Akkadian Empire. How long Gutian kings held rulership over Mesopotamia is uncertain, with estimates ranging from a few years up to a century. The end of the Gutian dynasty is marked by the accession of Uruk ruler Utu-hengal (c. 2119 - 2112 BC), marking the short-lived \"Fifth dynasty of Uruk\", followed by Ur ruler Ur-Nammu (c. 2112 – 2094 BC), founder of the Third Dynasty of Ur."
+    ]
+   },
+   "records": [
+    "gutian-dynasty"
+   ],
+   "translated": "2026-10-23"
+  },
+  "History of Egypt under the Muhammad Ali dynasty": {
+   "headline": "Egipt pod dinastijo Mohameda Alija",
+   "paragraphs": [
+    "Zgodovina Egipta pod dinastijo Mohameda Alija (1805–1953) zajema poznejše obdobje osmanskega Egipta, egiptovski kedivat pod britansko zasedbo ter navidezno neodvisna Egiptovski sultanat in Kraljevino Egipt, konča pa se z revolucijo leta 1952 in nastankom Republike Egipt."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "History of Egypt under the Muhammad Ali dynasty",
+    "rev": 1380608129,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The history of Egypt under the Muhammad Ali dynasty (1805–1953) spanned the later period of Ottoman Egypt, the Khedivate of Egypt under British occupation, and the nominally independent Sultanate of Egypt and Kingdom of Egypt, ending with the Revolution of 1952 and the formation of the Republic of Egypt."
+    ]
+   },
+   "records": [
+    "muhammad-ali-dynasty"
+   ],
+   "translated": "2026-10-23"
+  },
+  "History of Qatar": {
+   "headline": "Zgodovina Katarja",
+   "paragraphs": [
+    "Zgodovina Katarja sega od prve človeške naselitve do nastanka sodobne države. Ljudje so v Katarju živeli že pred 50.000 leti, na Arabskem polotoku pa so izkopali kamenodobne tabore in orodje. Prva civilizacija, ki je bila na tem območju navzoča v neolitiku, je bila mezopotamska, kar dokazujejo najdbe črepinj iz obdobja Ubaid ob obalnih taborih."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "History of Qatar",
+    "rev": 1367725439,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The history of Qatar spans from its first duration of human occupation to its formation as a modern state. Human occupation of Qatar dates back 50,000 years, and Stone Age encampments and tools have been unearthed in the Arabian Peninsula. Mesopotamia was the first civilization to have a presence in the area during the Neolithic period, evidenced by the discovery of potsherds originating from the Ubaid period near coastal encampments."
+    ]
+   },
+   "records": [
+    "qatar-protectorate"
+   ],
+   "translated": "2026-10-23"
+  },
+  "History of Sumer": {
+   "paragraphs": [
+    "Zgodovina Sumerije zajema obdobje od poznega 5. do 3. tisočletja pr. n. št. v južni Mezopotamiji in priča o prvem prehodu na svetu od neolitskega vaškega življenja k zapleteni mestni civilizaciji. Razvoj je pospešila »monumentalizacija svetega«: skromna obredna svetišča, zlasti v Eriduju, so prerasla v ogromne templjeve komplekse, ki so delovali kot »sveti magneti«. Ta središča so pokrajino vlekla k sebi in sprožila »mestno implozijo«, ki je prebivalstvo zgostila v prvih pravih velemestih, kot je bil Uruk."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "History of Sumer",
+    "rev": 1369213938,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The history of Sumer spans the late fifth to the third millennium BC in southern Mesopotamia, documenting the world's first transition from Neolithic village life to a complex urban civilization. This development was catalyzed by the \"monumentalization of the sacred,\" a process where modest ritual shrines—most notably at Eridu—evolved into massive temple complexes that functioned as \"sacred magnets.\" These centers exerted a centripetal force on the landscape, triggering an \"urban implosion\" that concentrated populations into the first true metropolises, such as Uruk."
+    ]
+   },
+   "records": [
+    "sumerian-city-states-2100bce",
+    "sumerian-city-states-3400bce"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Hotak dynasty": {
+   "headline": "Dinastija Hotaki",
+   "paragraphs": [
+    "Imperij Hotaki (paštunsko: د هوتکيانو ټولواکمني; perzijsko: امپراتوری هوتکیان) je bila afganistanska dinastija paštunskih Gildžijev, ki je v 1720. letih za kratek čas vladala delom Irana in Afganistana. Leta 1709 jo je ustanovil Mirvais Hotak, ki je vodil uspešen upor proti propadajočemu perzijskemu Safavidskemu imperiju v pokrajini Loj Kandahar (»Veliki Kandahar«) na jugu današnjega Afganistana."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Hotak dynasty",
+    "rev": 1377102514,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Hotak Empire (Pashto: د هوتکيانو ټولواکمني; Persian: امپراتوری هوتکیان) also known as the Hotaki Empire was an Afghan dynasty founded by Ghilji Pashtuns that briefly ruled parts of Iran and Afghanistan during the 1720s. It was established in 1709 by Mirwais Hotak, who led a successful rebellion against the declining Persian Safavid empire in the region of Loy Kandahar (\"Greater Kandahar\") in what is now southern Afghanistan."
+    ]
+   },
+   "records": [
+    "hotaki-dynasty"
+   ],
+   "translated": "2026-10-23"
+  },
+  "House of Khalifa": {
+   "paragraphs": [
+    "Rodbina Al Kalifa (arabsko: Āl Khalīfah) je vladajoča družina Kraljevine Bahrajn. Pripada malikitski pravni šoli sunitskega islama in plemenu Aneza. Nekateri člani plemena so se pridružili zavezništvu Utub, ki se je iz Nedžda v osrednji Arabiji preselilo v Kuvajt, nato pa vladalo vsemu Katarju, natančneje Al Zubari, ki so jo zgradili in ji vladali, preden so leta 1783 osvojili Bahrajn. Družina Al Kalifa je zatirala domorodno prebivalstvo Baharna v Bahrajnu.",
+    "Družina danes vodi avtoritarni režim, v katerem so politične in državljanske svoboščine močno omejene. Njen sedanji poglavar je kralj Hamad bin Isa Al Kalifa, ki je leta 1999 postal bahrajnski emir, leta 2002 pa se je razglasil za kralja Bahrajna in tako dejansko postal ustavni monarh.",
+    "Leta 2025 je bila približno polovica ministrov bahrajnske vlade iz kraljeve družine Al Kalifa, iz nje pa je tudi predsednik vlade Salman bin Hamad Al Kalifa, sin sedanjega kralja."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "House of Khalifa",
+    "rev": 1378407055,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The House of Khalifa (Arabic: آل خليفة, romanized: Āl Khalīfah) is the ruling family of the Kingdom of Bahrain. They follow the Maliki school of Sunni Islam and belong to the Anizah tribe. Some members of this tribe joined the Utub alliance which migrated from Najd in central Arabia to Kuwait, then ruled all of Qatar, more specifically Al Zubarah, which they built and ruled over before conquering Bahrain in 1783. The Khalifa family repressed the indigenous Baharna population in Bahrain.",
+     "The family currently heads an authoritarian regime where political and civil freedoms are substantially curtailed. The current head of the family is King Hamad bin Isa Al Khalifa, who became the Emir of Bahrain in 1999 and proclaimed himself King of Bahrain in 2002, in fact becoming a constitutional monarch.",
+     "As of 2025, roughly half of the serving cabinet ministers of Bahrain were members of the Al Khalifa royal family, while the country's Prime Minister, Salman bin Hamad Al Khalifa, is also from the Al Khalifa family and is the son of the current King."
+    ]
+   },
+   "records": [
+    "house-of-khalifa"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Imams of Yemen": {
+   "paragraphs": [
+    "Jemenski imami, pozneje tudi jemenski kralji, so bili verski voditelji (imami) zajdijske veje šiitskega islama. Od leta 897 so v delih Jemna vzpostavili preplet verske in posvetne politične oblasti. Njihov imamat se je v spreminjajočih se okoliščinah ohranil do konca severnojemenske državljanske vojne leta 1970, ki je sledila republikanski revoluciji leta 1962. Zajdijska teologija se od ismailizma in dvanajstniškega šiizma razlikuje po tem, da poudarja navzočnost dejavnega in vidnega imama kot voditelja. Od imama so pričakovali, da je podkovan v verskih vedah in se izkaže kot vreden voditelj skupnosti, če je bilo treba, tudi v boju. Kdor se je potegoval za imamat, je razglasil »poziv« (dava), in ni bilo redko, da je bilo kandidatov več."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Imams of Yemen",
+    "rev": 1375885679,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Imams of Yemen, later also titled the Kings of Yemen, were religiously consecrated leaders (imams) belonging to the Zaydi branch of Shia Islam. They established a blend of religious and temporal-political rule in parts of Yemen from 897. Their imamate endured under varying circumstances until the end of the North Yemen civil war in 1970, following the republican revolution in 1962. Zaydi theology differs from Isma'ilism and Twelver Shi'ism by stressing the presence of an active and visible imam as leader. The imam was expected to be knowledgeable in religious scholarship, and to prove himself a worthy headman of the community, even in battle if this was necessary. A claimant of the imamate would proclaim a \"call\" (dawah), and there were not infrequently more than one claimant."
+    ]
+   },
+   "records": [
+    "imamate-of-yemen"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Indo-Scythians": {
+   "paragraphs": [
+    "Indoskiti, znani tudi kot Indosaki, so bili nomadsko ljudstvo iranskega skitskega izvora, ki se je iz Srednje Azije preselilo proti jugu na območje današnjega Afganistana, vzhodnega Irana in severozahodne indijske podceline (današnji Pakistan in severna Indija). Selitve so trajale od sredine 2. stoletja pr. n. št. do 4. stoletja n. št."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Indo-Scythian Kingdom",
+    "rev": 1379533486,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Indo-Scythians, also known as Indo-Sakas, were a group of nomadic people of Iranic Scythian origin who migrated from Central Asia southward into the present-day regions of Afghanistan, eastern Iran and the northwestern Indian subcontinent (present-day Pakistan and northern India). The migrations persisted from the middle of the second century BCE to the fourth century CE."
+    ]
+   },
+   "records": [
+    "indo-scythians"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Jalayirid Sultanate": {
+   "headline": "Džalairidski sultanat",
+   "paragraphs": [
+    "Džalairidski sultanat (perzijsko: Jalāyiriyān), imenovan tudi dinastija Ilka ali Ilkanidi, je bila mongolska dinastija, ki je po razpadu Ilkanata v 1330. letih vladala današnjemu Iraku in zahodnemu Iranu. Širila se je okoli petdeset let, dokler je niso zaustavili Timurjeva osvajanja in upori turkmenskih Kara Kojunlujev. Po Timurjevi smrti leta 1405 so sultanat za kratek čas skušali obnoviti v južnem Iraku in Huzestanu, Kara Kojunluji pa so Džalairide dokončno odpravili leta 1432."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Jalayirid Sultanate",
+    "rev": 1378361900,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Jalayirid Sultanate (Persian: جلایریان, romanized: Jalāyiriyān), also Ilka dynasty or Ilkanids, was a Mongol dynasty which ruled over modern-day Iraq and western Iran after the breakup of the Ilkhanate in the 1330s. It expanded for about fifty years, until disrupted by Timur's conquests and the revolts of the Qara Qoyunlu Turkoman. After Timur's death in 1405, there was a brief attempt to re-establish the sultanate in southern Iraq and Khuzistan. The Jalayirids were finally eliminated by the Qara Qoyunlu in 1432."
+    ]
+   },
+   "records": [
+    "jalayirid-sultanate"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kart dynasty": {
+   "headline": "Dinastija Kart",
+   "paragraphs": [
+    "Dinastija Kart ali Kartidi (perzijsko: آل کرت) je bila sunitska muslimanska dinastija tadžiškega izvora, tesno povezana z Guridi, ki je v 13. in 14. stoletju vladala velikemu delu Horasana. Vladali so iz prestolnice Herat in iz Bamjana v osrednjem Horasanu, sprva kot podložniki sultana Guridskega imperija Gijas ad Dina Mohameda bin Sama, s katerim so bili v sorodu, nato pa kot vazalni knezi v Mongolskem imperiju. Ko je Ilkanat leta 1335 razpadel, je Muiz ad Din Husein ibn Gijas ad Din skušal svojo kneževino razširiti. Huseinova smrt leta 1370 in Timurjev vdor leta 1381 sta končala ambicije dinastije."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kart dynasty",
+    "rev": 1376729725,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Kart dynasty, also known as the Kartids (Persian: آل کرت), was a Sunni Muslim dynasty of Tajik origin, closely related to the Ghurids, that ruled over a large part of Khorasan during the 13th and 14th centuries. Ruling from their capital at Herat and central Khorasan in the Bamyan, they were at first subordinates of Sultan Abul-Fateh Ghiyāṣ-ud-din Muhammad bin Sām, Sultan of the Ghurid Empire, to whom they were related, and then as vassal princes within the Mongol Empire. Upon the fragmentation of the Ilkhanate in 1335, Mu'izz-uddin Husayn ibn Ghiyath-uddin worked to expand his principality. The death of Husayn b. Ghiyath-uddin in 1370 and the invasion of Timur in 1381, ended the Kart dynasty's ambitions."
+    ]
+   },
+   "records": [
+    "kartids"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Khedivate of Egypt": {
+   "paragraphs": [
+    "Egiptovski kedivat je bil samostojna tributarna država Osmanskega cesarstva, ki so jo ustanovili in ji vladali pripadniki dinastije Mohameda Alija. Po porazu in izgonu Napoleonovih sil iz Egipta leta 1801 in po vzhodni krizi leta 1840 so Mohamed Ali in njegovi nasledniki osmanskemu Egiptu že vladali z veliko samostojnostjo. Leta 1867 je osmanski sultan vnuku Mohameda Alija, Ismail paši (vladal 1863–1879), podelil naziv kediva skupaj s skoraj popolno samostojnostjo v notranjih zadevah, nekaterimi diplomatskimi privilegiji in pravico do določanja nasledstva."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Khedivate of Egypt",
+    "rev": 1381531617,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Khedivate of Egypt was an autonomous tributary state of the Ottoman Empire established and ruled by members of the dynasty of Muhammad Ali. Following the defeat and expulsion of Napoleon's forces from Egypt in 1801, and then the Oriental Crisis of 1840, Muhammad Ali and his successors had already ruled Ottoman Egypt with a significant degree of autonomy. In 1867, the Ottoman sultan granted Muhammad Ali's grandson, Isma'il Pasha (r. 1863–1879), the title of Khedive along with near-total autonomy over internal affairs, certain diplomatic privileges, and the order of succession."
+    ]
+   },
+   "records": [
+    "khedivate-of-egypt"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kingdom of Egypt": {
+   "paragraphs": [
+    "Kraljevina Egipt (arabsko: Al-Mamlaka Al-Miṣriyya, dobesedno »Egiptovsko kraljestvo«) je bila pravna oblika egiptovske države v zadnjem obdobju vladavine dinastije Mohameda Alija, od leta 1922, ko je Združeno kraljestvo priznalo egiptovsko neodvisnost, do odprave monarhije Egipta in Sudana leta 1953 po egiptovski revoluciji leta 1952. Do angleško-egiptovske pogodbe leta 1936 je bila kraljevina neodvisna le navidezno, saj je Združeno kraljestvo obdržalo nadzor nad zunanjimi odnosi, komunikacijami, vojsko in ozemljem Angleško-egiptovskega Sudana. Uradno je bil Sudan kondominij obeh držav, v resnici pa je imelo oblast v Sudanu Združeno kraljestvo. Med letoma 1936 in 1953 so Britanci v zmanjšanem obsegu ohranili vojaško navzočnost ob Sueškem prekopu in vpliv na politične svetovalce Egipta."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Egypt",
+    "rev": 1378940348,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Kingdom of Egypt (Arabic: المملكة المصرية, romanized: Al-Mamlaka Al-Miṣriyya, lit. 'The Egyptian Kingdom') was the legal form of the Egyptian state during the latter period of the Muhammad Ali dynasty's reign, from the United Kingdom's recognition of Egyptian independence in 1922 until the abolition of the monarchy of Egypt and the Sudan in 1953 following the Egyptian Revolution of 1952. Until the Anglo-Egyptian treaty of 1936, the Kingdom was only nominally independent, as the United Kingdom retained control of foreign relations, communications, the military, and the territory of Anglo-Egyptian Sudan. Officially, Sudan was governed as a condominium of the two states; however, in reality, true power in Sudan lay with the United Kingdom. Between 1936 and 1953, the British continued to maintain their military presence in the Suez Canal, as well as influence over Egypt's political advisers, at a reduced level."
+    ]
+   },
+   "records": [
+    "kingdom-of-egypt"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kingdom of Hejaz": {
+   "paragraphs": [
+    "Hašemitsko kraljestvo Hedžas (arabsko: Al-Mamlakah al-Ḥijāziyyah Al-Hāshimiyyah) je bila država v pokrajini Hedžas v zahodni Aziji, ki je obsegala zahodni del Arabskega polotoka in ji je vladala hašemitska dinastija. Za kraljestvo se je razglasila junija 1916, med prvo svetovno vojno, da bi postala neodvisna od Osmanskega cesarstva, na podlagi zavezništva z Britanskim imperijem, s katerim naj bi med arabskim uporom pregnali osmansko vojsko z Arabskega polotoka."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Hejaz",
+    "rev": 1380730045,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Hashemite Kingdom of Hejaz (Arabic: المملكة الحجازية الهاشمية, romanized: Al-Mamlakah al-Ḥijāziyyah Al-Hāshimiyyah) was a state in the Hejaz region of Western Asia that included the western portion of the Arabian Peninsula that was ruled by the Hashemite dynasty. It was self-proclaimed as a kingdom in June 1916 during the First World War, to be independent from the Ottoman Empire, on the basis of an alliance with the British Empire to drive the Ottoman Army from the Arabian Peninsula during the Arab Revolt."
+    ]
+   },
+   "records": [
+    "kingdom-of-hejaz"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kingdom of Hejaz and Nejd": {
+   "headline": "Kraljevina Hedžas in Nedžd",
+   "paragraphs": [
+    "Tretja savdska država je sedanja savdska država in naslednica prvih dveh, ustanovil pa jo je Abdul Aziz bin Abdul Rahman (znan tudi kot Ibn Saud), ki je 13. januarja 1902 zavzel mesto Rijad. Dolga vrsta spopadov in osvajanj je nazadnje pripeljala do nastanka sodobne savdske države, Kraljevine Savdske Arabije.",
+    "Tretja savdska država se je na začetku imenovala »Emirat Rijad« (1902–1913) in »Emirat Nedžd in Hasa« (1913–1921). Ko je strmoglavila tekmeca, Emirat Hail, in tako dobila nadzor nad vso pokrajino Nedžd, se je preimenovala v Sultanat Nedžd. Abdul Aziz je leta 1925 osvojil Kraljevino Hedžas, leta 1927 pa je Nedžd povzdignil v kraljevino, njegova posest pa se je odtlej imenovala Kraljevina Hedžas in Nedžd s pridruženimi ozemlji. Oba dela dvojne kraljevine je upravljal ločeno, dokler ni priključil Južnega ozemlja in leta 1932 razglasil ustanovitve Kraljevine Savdske Arabije."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Third Saudi state",
+    "rev": 1375692933,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The third Saudi state is the current Saudi state and successor to the two earlier states: the first and the second, founded by Abdul Aziz bin Abdul Rahman (also known as \"Ibn Saud\"), who managed to capture the city of Riyadh on January 13, 1902. A long series of conflicts and conquests ultimately led to the establishment of the modern and contemporary Saudi state, the Kingdom of Saudi Arabia.",
+     "The third Saudi state was known at the beginning of its reign as \"the Emirate of Riyadh\" (1902–1913) and \"the Emirate of Nejd and Hasa\" (1913–1921). After the overthrow of the rival Emirate of Ha'il, which gave the Emirate of Najd and Al-Ahsa control of the entire Nejd region, it became known as the Sultanate of Nejd. Abdul Aziz conquered the Kingdom of Hejaz in 1925. He raised Nejd to a kingdom in 1927, and his dominions became known as the Kingdom of Hejaz and Nejd and its annexes. Abdul Aziz administered the two portions of his dual kingdom separately until the annexation of the Southern Territory and the announcement of the establishment of the Kingdom of Saudi Arabia in 1932."
+    ]
+   },
+   "records": [
+    "kingdom-of-hejaz-and-nejd"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kingdom of Iraq": {
+   "paragraphs": [
+    "Hašemitska Kraljevina Irak je bila iraška država na Bližnjem vzhodu, ki je obstajala od leta 1932 do 1958. Kot Kraljevino Irak so jo ustanovili 23. avgusta 1921, po porazu Osmanskega cesarstva v mezopotamski kampanji prve svetovne vojne. Društvo narodov je mandat sicer leta 1920 podelilo Združenemu kraljestvu, a je zaradi iraškega upora istega leta prvotni načrt mandata propadel; nadomestila ga je formalno suverena iraška kraljevina, ki pa je bila dejansko pod britansko upravo. Načrt je formalno uveljavila angleško-iraška pogodba. Kraljevina je imela ob ustanovitvi leta 1928 2,8 milijona prebivalcev, ob koncu leta 1958 pa 6,5 milijona."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Iraq",
+    "rev": 1376214393,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Hashemite Kingdom of Iraq was the Iraqi state located in the Middle East from 1932 to 1958. It was founded on 23 August 1921 as the Kingdom of Iraq, following the defeat of the Ottoman Empire in the Mesopotamian campaign of the World War I. Although a League of Nations mandate was awarded to the United Kingdom in 1920, the 1920 Iraqi revolt resulted in the scrapping of the original mandate plan in favour of a formally sovereign Iraqi kingdom, but one that was under effective British administration. The plan was formally established by the Anglo-Iraqi Treaty. The population of the Kingdom was 2.8 million at the founding in 1928, and by the end of the Kingdom in 1958 it was 6.5 million."
+    ]
+   },
+   "records": [
+    "kingdom-of-iraq"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kingdom of Portugal": {
+   "paragraphs": [
+    "Kraljevina Portugalska je bila monarhija na zahodu Iberskega polotoka in predhodnica sodobne Portugalske republike. V različnem obsegu je obstajala od sredine 12. do začetka 20. stoletja, po letu 1471 pa so jo imenovali tudi Kraljevina Portugalska in Algarve. Bila je glavni del Združenega kraljestva Portugalske, Brazilije in Algarvov, ki je obstajalo med letoma 1815 in 1822. Obstajala je ob Portugalskem imperiju, čezmorskih kolonijah kraljestva.",
+    "Jedro portugalske države je bila Portugalska grofija, ki jo je v 9. stoletju v okviru rekonkviste ustanovil Vímara Peres, vazal asturijskega kralja. Grofija je leta 1097 postala del Kraljevine León, portugalski grofje pa so se v 12. stoletju, po bitki pri São Mamedeju, uveljavili kot vladarji neodvisnega kraljestva. Kraljestvu je vladala afonzinska dinastija do portugalskega medvladja v letih 1383–1385, nato pa je monarhija prešla na rodbino Aviz."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Portugal",
+    "rev": 1377701725,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Kingdom of Portugal was a monarchy in the western Iberian Peninsula and the predecessor of the modern Portuguese Republic. Existing to various extents between the mid-12th century and the early 20th century, it was also known as the Kingdom of Portugal and the Algarves after 1471, and was the main constituent of the United Kingdom of Portugal, Brazil and the Algarves, which existed between 1815 and 1822. It coexisted with the Portuguese Empire, the realm's overseas colonies.",
+     "The nucleus of the Portuguese state was the County of Portugal, established in the 9th century as part of the Reconquista by Vímara Peres, a vassal of the King of Asturias. The county became part of the Kingdom of León in 1097, and the Counts of Portugal established themselves as rulers of an independent kingdom in the 12th century, following the Battle of São Mamede. The kingdom was ruled by the Afonsine dynasty until the 1383–1385 Portuguese interregnum, after which the monarchy passed to the House of Aviz."
+    ]
+   },
+   "records": [
+    "kingdom-of-portugal-1147",
+    "kingdom-of-portugal-1640"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Laomedon of Mytilene": {
+   "headline": "Laomedont iz Mitilene",
+   "paragraphs": [
+    "Laomedont (grško: Λαoμέδων ὁ Μυτιληναῖος; živel v 4. stoletju pr. n. št.) je bil grški vojskovodja iz Mitilene, Larihov sin. Bil je eden od generalov Aleksandra Velikega in je, kot kaže, užival njegovo zaupanje že pred smrtjo Filipa II., saj ga je ta vladar (skupaj z bratom Erigijem, Ptolemajem, Nearhom in drugimi) izgnal, ker je sodeloval v spletkah mladega princa.",
+    "Po Filipovi smrti leta 336 pr. n. št. je Aleksander Laomedonta, tako kot druge, ki so tedaj trpeli, kar najbolj častil: Laomedont ga je spremljal v Azijo, kjer so mu, ker je znal perzijsko, zaupali ujetnike. Čeprav ga v poznejših Aleksandrovih vojnah ne omenjajo več, njegov visoki ugled dovolj potrjuje to, da je po kraljevi smrti leta 323 pr. n. št. pri delitvi provinc dobil pomembno upravo Sirije."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Laomedon of Mytilene",
+    "rev": 1328194447,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Laomedon (Greek: Λαoμέδων ὁ Μυτιληναῖος; lived during the 4th century BC) was a Greek military commander, native of Mytilene and son of Larichus. He was one of Alexander the Great's generals, and appears to have enjoyed a high place in his confidence even before the death of Philip II, as he was one of those banished by that monarch (together with his brother Erigyius, Ptolemy, Nearchus, and others) for taking part in the intrigues of the young prince.",
+     "After the death of Philip in 336 BC, Laomedon, in common with the others who had suffered on this occasion, was held by Alexander in the highest honour: he accompanied him to Asia, where, on account of his acquaintance with the Persian language, he was appointed in charge of the captives. Though his name is not afterwards mentioned during the wars of Alexander, the high consideration he enjoyed is sufficiently attested by his obtaining in the division of the provinces, after the king's death in 323 BC, the important government of Syria."
+    ]
+   },
+   "records": [
+    "laomedon"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Mahdids": {
+   "headline": "Mahdidi",
+   "paragraphs": [
+    "Mahdidi (arabsko: Banī Mahdī) so bili dinastija v Jemnu, ki je bila za kratek čas na oblasti med letoma 1159 in 1174."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Mahdids",
+    "rev": 1292896311,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Mahdids (Arabic: بني مهدي, romanized: Banī Mahdī) were a dynasty in Yemen who briefly held power in the period between 1159 and 1174."
+    ]
+   },
+   "records": [
+    "mahdids"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Mandate for Syria and the Lebanon": {
+   "paragraphs": [
+    "Mandat za Sirijo in Libanon (francosko: Mandat pour la Syrie et le Liban; arabsko: al-intidāb al-faransī ʻalā sūriyā wa-lubnān), imenovan tudi levantske države (1923–1946), je bil mandat Društva narodov, ustanovljen po prvi svetovni vojni in razdelitvi Osmanskega cesarstva za ozemlji Sirije in Libanona. Mandatni sistem naj bi se razlikoval od kolonializma: upravljavska država naj bi delovala kot skrbnica, dokler prebivalci ne bi bili sposobni samouprave. Tedaj bi se mandat končal in rodila bi se suverena država."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Mandate for Syria and the Lebanon",
+    "rev": 1381204251,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Mandate for Syria and the Lebanon (French: Mandat pour la Syrie et le Liban; Arabic: الانتداب الفرنسي على سوريا ولبنان, romanized: al-intidāb al-faransī ʻalā sūriyā wa-lubnān, also referred to as the Levant States; 1923−1946) was a League of Nations mandate founded in the aftermath of the First World War and the partitioning of the Ottoman Empire concerning the territories of Syria and Lebanon. The mandate system was supposed to differ from colonialism, with the governing country intended to act as a trustee until the inhabitants were considered eligible for self-government. At that point, the mandate would terminate, and a sovereign state would be born."
+    ]
+   },
+   "records": [
+    "french-mandate-for-syria-and-lebanon"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Median dynasty": {
+   "headline": "Medijska dinastija",
+   "paragraphs": [
+    "Medija (staroperzijsko: Māda; grško: Μηδία; akadsko: Mādāya) je bila politična tvorba s središčem v Ekbatani, ki je obstajala od 7. stoletja do sredine 6. stoletja pr. n. št. in je domnevno obvladovala velik del Iranske planote, pred mogočnim Ahemenidskim imperijem. Pogosto vmešavanje Asircev v pokrajino Zagros je spodbudilo združevanje medijskih plemen. Do leta 612 pr. n. št. so se Medijci dovolj okrepili, da so v zavezništvu z Babilonci strmoglavili propadajoče Asirsko cesarstvo. Sodobni raziskovalci pa dvomijo, da je enotno medijsko kraljestvo ali država obstajala vsaj večji del 7. stoletja pr. n. št.",
+    "Po starogrškem zgodovinarju Herodotu so medijsko dinastijo sestavljali štirje kralji, ki so medijskemu imperiju vladali 150 let. Če je Herodotova pripoved točna, je Medijce združil mož po imenu Dejok, prvi od štirih kraljev medijskega imperija, mogočne države, ki je obsegala velike dele Irana in vzhodne Anatolije."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Median dynasty",
+    "rev": 1368590944,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Media (Old Persian: 𐎶𐎠𐎭 Māda; Greek: Μηδία Mēdía; Akkadian: Mādāya) was a political entity centered in Ecbatana that existed from the 7th century BC until the mid-6th century BC and is believed to have dominated a significant portion of the Iranian plateau, preceding the powerful Achaemenid Empire. The frequent interference of the Assyrians in the Zagros region led to the process of unifying the Median tribes. By 612 BC, the Medes became strong enough to overthrow the declining Assyrian empire in alliance with the Babylonians. However, contemporary scholarship tends to be skeptical about the existence of a united Median kingdom or state, at least for most of the 7th century BCE.",
+     "The Median dynasty was, according to the ancient Greek historian Herodotus, a dynasty composed of four kings who ruled for 150 years under the Median Empire. If Herodotus' story is accurate, the Medes were unified by a man named Deioces, the first of the four kings who would rule the Median Empire; a mighty empire that included large parts of Iran and eastern Anatolia."
+    ]
+   },
+   "records": [
+    "median-kingdom"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Minaeans": {
+   "headline": "Minejci",
+   "paragraphs": [
+    "Main (minejsko: 𐩣𐩲𐩬; arabsko: Maʿīn) je bilo starodavno južnoarabsko kraljestvo v današnjem Jemnu. Ležalo je ob puščavskem pasu, ki so ga srednjeveški arabski geografi imenovali Sajhad, danes pa je znan kot Ramlat as Sabatajn. Narodni bog Maina je bil Vad, govorili pa so minejščino. Kraljestvo se v zgodovinskih virih pojavi v 8. stoletju pr. n. št., iz mestne države pa se je v kraljestvo preoblikovalo v zadnji četrtini 7. stoletja pr. n. št. O datumu konca Maina se raziskovalci močno prerekajo, po najbolj razširjeni domnevi pa je propadel v 1. stoletju n. št.",
+    "Minejci so bili ena od štirih starodavnih jemenskih skupin, ki jih omenja Eratosten; druge so bile Sabejci, Hadramavtci in Katabanci. Vsaka je imela v starodavnem Jemnu svoje regionalno kraljestvo: Minejci na severozahodu (v vadiju Al Džauf), Sabejci jugovzhodno od njih, Katabanci jugovzhodno od Sabejcev in Hadramavtci še vzhodneje."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Ma'in",
+    "rev": 1354379929,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Ma'in (Minaean: 𐩣𐩲𐩬; Arabic: معين, romanized: Maʿīn) was an ancient South Arabian kingdom in modern-day Yemen. It was located along the strip of desert called Ṣayhad by medieval Arab geographers, which is now known as Ramlat al-Sab'atayn. Wadd was the national god of Ma'in. The spoken language was Minaic. The kingdom appears in the historical record in the 8th century BCE, and transition from a city-state to kingdom in the last quarter of the 7th century BCE. The date of the end of Ma'in is heavily disputed, but the most popular hypothesis places its demise in the 1st century CE.",
+     "The Minaean people were one of four ancient Yemeni groups mentioned by Eratosthenes. The others were the Sabaeans, Ḥaḍramites and Qatabānians. Each of these had regional kingdoms in ancient Yemen, with the Minaeans in the north-west (in Wādī al-Jawf), the Sabaeans to the south-east of them, the Qatabānians to the south-east of the Sabaeans, and the Ḥaḑramites further east still."
+    ]
+   },
+   "records": [
+    "minaeans"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Muscat and Oman": {
+   "paragraphs": [
+    "Muškat in Oman (arabsko: مسقط و عُمان), uradno Sultanat Muškat in Oman (Salṭanat Masqaṭ wa-‘Umān), med vladavino Tajmurja bin Fejsala za kratek čas tudi Država Muškat in Oman, je bila država pod dejansko britansko zaščito, ki je obstajala v drugi polovici 19. stoletja in v 20. stoletju. Obsegala je današnji Sultanat Oman ter dele današnjih Združenih arabskih emiratov in Pakistana.",
+    "Ko je leta 1856 umrl zadnji vladar Omanskega imperija Said bin Sultan, je imperij razpadel na dve ločeni politični tvorbi, Sultanat Muškat in Oman ter Sultanat Zanzibar. Prvemu je še naprej vladala dinastija Al Busaid, ki pa je prešla v novo obliko vladavine po palačnem udaru 23. julija 1970, v katerem so Britanci in sultanov sin Kabus bin Said strmoglavili sultana Saida bin Tajmurja; Kabus je ustanovil današnji Sultanat Oman."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Muscat and Oman",
+    "rev": 1377421737,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Muscat and Oman (Arabic: مسقط و عُمان), officially known as the Sultanate of Muscat and Oman (Arabic: سلطنة مسقط وعُمان, romanized: Salṭanat Masqaṭ wa-‘Umān), also known briefly as the State of Muscat and Oman (Arabic: دولة مسقط وعُمان, romanized: Dawlat Masqaṭ wa-‘Umān) during the rule of Taimur bin Faisal, was a state that was under de facto British protection which existed in the second half of the 19th century and 20th century. It encompassed the present-day Sultanate of Oman and parts of present-day United Arab Emirates and Pakistan.",
+     "In 1856, upon the death of the last ruler of the Omani Empire, Said bin Sultan, the empire split into two separate political entities: the Sultanate of Muscat and Oman and the Sultanate of Zanzibar. The former continued to be led by the Al Busaid dynasty, but transitioned into a new form of government after the palace coup of 23 July 1970 in which the sultan Said bin Taimur was overthrown by the British and his son, Qaboos bin Said, who established the modern-day Sultanate of Oman."
+    ]
+   },
+   "records": [
+    "sultanate-of-muscat-and-oman"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Nabhani dynasty": {
+   "headline": "Nabhanidi",
+   "paragraphs": [
+    "Rodbina Al Nabhan (arabsko: Āl Nabhān), znana tudi kot dinastija Nabhani ali Nabhanidi, je arabska kraljeva rodbina, ki je Omanu kot dedni kralji (muluk) vladala od leta 1154 do 1624, ko je oblast prevzela dinastija Jaruba. Rodbina, ki izhaja iz plemena Azd, je na svojem ozemlju vzpostavila osrednji državni aparat in tradicionalne izvoljene ibaditske imame skoraj pet stoletij potisnila v večinoma simbolno versko vlogo. Glavni sedež nabhanidskih kraljev se je menjaval med utrjenimi prestolnicami v notranjosti, Nizvo, Bahlo in Maknijatom, od koder so nadzorovali donosne kopenske poti trgovine s kadilom in začimbami. Ena njihovih najtrajnejših arhitekturnih in kulturnih zapuščin je utrdba Bahla, ogromen kompleks stavb iz nežgane opeke na kamnitih temeljih, zgrajen med 12. in 15. stoletjem, ki so ga leta 1987 vpisali na Unescov seznam svetovne dediščine."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Nabhani dynasty",
+    "rev": 1379163076,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The House of Al-Nabhan (Arabic: آل نبهان, romanized: Āl Nabhān), also known as the Nabhani dynasty or Nabhanids, is an Arab royal house that ruled Oman as hereditary kings (muluk) from 1154 until 1624, when the Yaruba dynasty took power. Descending from the Azdi tribe, the family established a centralized state apparatus across their territorial domains, reducing the traditional Ibadi elected imams to a largely symbolic religious role for nearly five centuries. The primary seat of power for the Nabhani kings fluctuated between the fortified interior capitals of Nizwa, Bahla, and Maqniyat, from which they controlled the lucrative overland frankincense and spice trade routes. One of their most enduring architectural and cultural legacies is the Bahla Fort, a massive complex of mud-brick buildings on stone foundations built between the 12th and 15th centuries, which was inscribed as a UNESCO World Heritage Site in 1987."
+    ]
+   },
+   "records": [
+    "nabhani-dynasty"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Najahid dynasty": {
+   "headline": "Nadžahidi",
+   "paragraphs": [
+    "Nadžahidi (arabsko: Banū Najāḥ) so bili sunitska muslimanska dinastija abesinskih mamelukov, ki je od leta 1022 do 1158 iz prestolnice Zabid vladala delom Jemna. Nadžah je dobil priznanje abasidskega kalifa al Kadirja in častni naziv al Muajad Nasr ad Din. Sovražni so jim bili šiitski ismailitski Sulajhidi, zvesti Fatimidom. Zadnjega vladarja dinastije je leta 1158 ubil haridžit Ali ibn Mahdi."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Najahid dynasty",
+    "rev": 1380002005,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Najahid dynasty (Arabic: بنو نجاح; Banū Najāḥ) was a Sunni Muslim dynasty of Abyssinian Mamluks that ruled parts of Yemen from 1022-1158 from its capital at Zabīd. Najah would obtain the recognition of the Abbasid Caliph al-Qadir and would be given the honorific title 'al- Mu'ayyad Nasr al-din'. They faced hostilities from the Shia Ismailis Sulayhids who were loyal to the Fatimids. Their last sovereign was killed by Ali ibn Mahdi the Kharijite in 1158."
+    ]
+   },
+   "records": [
+    "najahid-dynasty"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Neo-Assyrian Empire": {
+   "paragraphs": [
+    "Novoasirsko cesarstvo je bilo četrta in predzadnja stopnja starodavne asirske zgodovine. Začelo se je z vzponom Adad-nirarija II. leta 911 pr. n. št. in v večjem delu 9. do 7. stoletja pr. n. št. obvladovalo stari Bližnji vzhod ter dele južnega Kavkaza, severne Afrike in vzhodnega Sredozemlja, s čimer je postalo največji imperij v dotedanji zgodovini. Zaradi geopolitične prevlade in ideologije svetovnega gospostva ga opisujejo kot prvi svetovni imperij v zgodovini. Kulturno, upravno in vojaško je vplivalo na druge imperije starega veka, med njimi na novobabilonskega, ahemenidskega in selevkidskega. Na vrhuncu je bilo najmočnejša vojaška sila na svetu in je vladalo vsej Mezopotamiji, Levantu in Egiptu ter delom Anatolije, Arabije in današnjega Irana in Armenije."
+   ],
+   "notes": [
+    "The text says Novoasirsko cesarstvo; the glossary headline is Novo asirsko kraljestvo, worth harmonising."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Neo-Assyrian Empire",
+    "rev": 1381347017,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Neo-Assyrian Empire was the fourth and penultimate stage of ancient Assyrian history. Beginning with the accession of Adad-nirari II in 911 BCE, the Neo-Assyrian Empire grew to dominate the ancient Near East and parts of the South Caucasus, North Africa and the Eastern Mediterranean throughout much of the 9th to 7th centuries BCE, becoming the largest empire in history up to that point. Because of its geopolitical dominance and ideology based in world domination, the Neo-Assyrian Empire has been described as the first world empire in history. It influenced other empires of the ancient world culturally, administratively, and militarily, including the Neo-Babylonians, the Achaemenids, and the Seleucids. At its height, the empire was the strongest military power in the world and ruled over all of Mesopotamia, the Levant and Egypt, as well as parts of Anatolia, Arabia and what is now Iran and Armenia."
+    ]
+   },
+   "records": [
+    "neo-assyrian-empire"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Neo-Babylonian Empire": {
+   "paragraphs": [
+    "Novobabilonsko cesarstvo ali drugo babilonsko cesarstvo, v zgodovini znano kot Kaldejsko cesarstvo, je bila zadnja politična tvorba, ki so ji vladali domači vladarji starodavne Mezopotamije. Začelo se je s kronanjem Nabopolasarja za babilonskega kralja leta 626 pr. n. št., trdno pa se je uveljavilo s padcem Asirskega cesarstva v letih 612–609 pr. n. št.; Perzijski Ahemenidski imperij ga je osvojil leta 539 pr. n. št., manj kot stoletje po ustanovitvi kaldejske dinastije.",
+    "S porazom Asirskega cesarstva in vrnitvijo moči v Babilon sta mesto in južna Mezopotamija prvič po propadu starobabilonskega cesarstva (pod Hamurabijem) skoraj tisoč let prej spet zavladala staremu Bližnjemu vzhodu. Novobabilonska vladavina je po vsej Babiloniji prinesla brezprimerno gospodarsko in demografsko rast ter sprožila kulturno in umetniško renesanso, saj so kralji začeli velike gradbene projekte, predvsem v Babilonu, in obudili številne prvine sumersko-akadske kulture iz prejšnjih dveh tisočletij."
+   ],
+   "notes": [
+    "The text says Novobabilonsko cesarstvo; the glossary headline is Novo babilonsko kraljestvo, worth harmonising."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Neo-Babylonian Empire",
+    "rev": 1380380283,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Neo-Babylonian Empire or Second Babylonian Empire, historically known as the Chaldean Empire, was the last polity ruled by monarchs native to ancient Mesopotamia. Beginning with the coronation of Nabopolassar as the King of Babylon in 626 BC and being firmly established through the fall of the Assyrian Empire in 612–609 BC, the Neo-Babylonian Empire was conquered by the Achaemenid Persian Empire in 539 BC, less than a century after the founding of the Chaldean dynasty.",
+     "The defeat of the Assyrian Empire and subsequent return of power to Babylon marked the first time that the city, and southern Mesopotamia in general, had risen to dominate the ancient Near East since the collapse of the Old Babylonian Empire (under Hammurabi) nearly a thousand years earlier. Neo-Babylonian rule produced unprecedented economic and population growth across Babylonia and sparked a cultural and artistic renaissance as its kings initiated major building projects, chiefly in Babylon, reviving many elements of the preceding two thousand years of Sumero-Akkadian culture."
+    ]
+   },
+   "records": [
+    "neo-babylonian-empire"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Philistia": {
+   "paragraphs": [
+    "Filisteja označuje ozemlje Filistejcev v Kanaanu, kjer so imeli zvezo petih mest: Gaze, Aškelona, Ašdoda, Ekrona in Gata. Nekaj časa je Filisteji pripadala tudi Jafa, ki je morda za kratek čas prešla v izraelske roke, preden jo je med Senaheribovim levantskim pohodom dokončno dobilo Novoasirsko cesarstvo.",
+    "Raziskovalci menijo, da so Filistejci izvirali iz grških priseljenskih skupin egejske civilizacije, ki so se približno od leta 1200 pr. n. št. naseljevale na tem območju in se postopoma mešale z domačim kanaanskim prebivalstvom. V tej zvezi jih navadno enačijo s Peleseti, ki jih omenjajo staroegiptovski zapisi in naj bi bili med napadalnimi morskimi ljudstvi ob propadu pozne bronaste dobe. Na ozemeljskem vrhuncu je filistejska zveza morda segala ob kanaanski obali od El Ariša na Sinajskem polotoku do reke Jarkon, ki teče skozi Tel Aviv, v notranjost pa do Ekrona in Gata."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Philistia",
+    "rev": 1380840364,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Philistia refers to the territory inhabited by the Philistines in Canaan, where they maintained a pentapolis comprising the cities of Gaza, Ashkelon, Ashdod, Ekron, and Gath. For a time, Philistia also included Jaffa, which may have briefly changed hands with Israel before it was ultimately lost to the Neo-Assyrian Empire during Sennacherib's Levantine campaign.",
+     "Scholars believe that the Philistines originated from Greek migrant groups of the Aegean civilization that, from roughly 1200 BC onwards, settled in the area and gradually intermixed with the indigenous Canaanite population. In this context, they are also generally identified with the Peleset, who are mentioned in ancient Egyptian records and are hypothesized to have been among the invading Sea Peoples around the Late Bronze Age collapse. At their territorial zenith, the Philistine confederation may have stretched along the Canaanite coast from Arish in the Sinai Peninsula to the Yarkon River running through Tel Aviv, and as far inland as Ekron and Gath."
+    ]
+   },
+   "records": [
+    "philistia"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Rassid dynasty": {
+   "headline": "Rasidi",
+   "paragraphs": [
+    "Jemenski imami in pozneje tudi jemenski kralji so bili verski voditelji zajdijske veje šiitskega islama. Od leta 897 so v delih Jemna vzpostavili preplet verske in politične oblasti. Njihov imamat se je v spreminjajočih se okoliščinah ohranil do republikanske revolucije leta 1962 in nato do formalne odprave monarhije leta 1970. Zajdijska teologija se je od ismailitov in dvanajstniških šiitov razlikovala po tem, da je poudarjala navzočnost dejavnega in vidnega imama kot voditelja. Od imama so pričakovali, da je podkovan v verskih vedah in se izkaže kot vreden voditelj skupnosti, če je bilo treba, tudi v boju. Kdor se je potegoval za imamat, je razglasil »poziv« (dava), in ni bilo redko, da je bilo kandidatov več. Zgodovinar Ibn Haldun (umrl 1406) omenja rod, iz katerega so navadno izhajali imami, kot Banu Rasi ali Rasidi. V izvirnih arabskih virih izraz Rasidi sicer skoraj ni v rabi, v zahodni literaturi pa navadno označuje imame srednjega veka, do 16. stoletja. Veja Rasidov, ki je prišla na oblast z imamom al Mansurjem al Kasimom (vladal 1597–1620), je znana kot Kasimidi."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Rassid dynasty",
+    "rev": 1362684224,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Imams of Yemen and later also the Kings of Yemen were religiously consecrated leaders belonging to the Zaidiyyah branch of Shia Islam. They established a blend of religious and political rule in parts of Yemen from 897. Their imamate endured under varying circumstances until the republican revolution in 1962, then the formal abolition of the monarchy in 1970. Zaidiyyah theology differed from Ismailis or Twelver Shi'ites by stressing the presence of an active and visible imam as leader. The imam was expected to be knowledgeable in religious sciences, and to prove himself a worthy headman of the community, even in battle if this was necessary. A claimant of the imamate would proclaim a \"call\" (da'wa), and there were not infrequently more than one claimant. The historian Ibn Khaldun (d. 1406) mentions the clan that usually provided the imams as the Banu Rassi or Rassids (Arabic: الرسيين). In the original Arab sources the term Rassids is otherwise hardly used; in Western literature it usually refers to the Imams of the medieval period, up to the 16th century. The Rassid branch that came to power with imam al-Mansur al-Qasim (r. 1597-1620) is known as Qasimids (Al al-Qasimi)."
+    ]
+   },
+   "records": [
+    "qasimids"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Rasulid dynasty": {
+   "paragraphs": [
+    "Rasulidi (arabsko: Banū Rasūl) so bili sunitska jemenska dinastija, ki je Jemnu vladala od leta 1229 do 1454."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Rasulid dynasty",
+    "rev": 1378297712,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Rasulid dynasty or Rasulids (Arabic: بنو رسول, romanized: Banū Rasūl) were a Sunni Yemeni dynasty who ruled Yemen from 1229 to 1454."
+    ]
+   },
+   "records": [
+    "rasulid-dynasty"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Samanid Empire": {
+   "paragraphs": [
+    "Samanidski imperij (perzijsko: Sāmāniyān) je bil perzijsko oblikovan sunitski muslimanski imperij, ki mu je od leta 819 do 999 vladala dinastija iranskega dihkanskega izvora. Središče je imel v Horasanu in Transoksaniji, na vrhuncu pa je obsegal severovzhodni Iran in Srednjo Azijo.",
+    "Dinastija izvira od štirih bratov, Nuha, Ahmada, Jahje in Iljasa, ki so leta 819 postali guvernerji ozemelj pod abasidsko nadoblastjo. Leta 892 je Ahmadov sin Ismail Samani Samanide združil pod svojo oblastjo in pod njim so se dejansko osamosvojili od Abasidov. Do leta 945 pa je vlado dejansko prevzela frakcija turških vojaških sužnjev, oblast samanidske rodbine pa je postala zgolj simbolna.",
+    "Samanidski imperij je del iranskega intermezza, v katerem sta nastali perzijsko oblikovana kultura in identiteta, ki sta iranski jezik in izročila vključili v islamski svet. To je pozneje prispevalo k nastanku turško-perzijske kulture."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Samanid Empire",
+    "rev": 1381430250,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Samanid Empire (Persian: سامانیان, romanized: Sāmāniyān) was a Persianate Sunni Muslim empire, ruled by a dynasty of Iranian dehqan origin, from 819 to 999. The empire was centred in Khorasan and Transoxiana, and at its greatest extent included northeastern Iran and Central Asia.",
+     "The Samanid dynasty originated with four brothers: Nuh, Ahmad, Yahya, and Ilyas, who were made governors of territories under Abbasid suzerainty in 819. In 892, Ismail Samani, son of Ahmad, united the Samanids under his rule. It was also under him that the Samanids became effectively independent of the Abbasids. However, by 945, the government had fallen under the de facto control of the Turkic military slave faction, and the Samanid family's authority had become purely symbolic.",
+     "The Samanid Empire is part of the Iranian Intermezzo, which saw the creation of a Persianate culture and identity that brought Iranian speech and traditions into the fold of the Islamic world. This later contributed to the formation of the Turco-Persian culture."
+    ]
+   },
+   "records": [
+    "samanid-empire"
+   ],
+   "translated": "2026-10-23"
+  }
+ }
+}
