@@ -292,6 +292,12 @@ They read the snapshots in `sources/` (retrieved 2026-10-17: Wikidata and Period
 
 ## Changes
 
+- **2026-10-23, translated summaries (Africa & Middle East, part 1 of 3).**
+  - Africa & Middle East has 920 worklist units, twice the Americas, so it is translated in three parts by column group. `tools/fetch_translation_sources.py --groups` snapshots only the units with a record in those columns; a unit shared by two parts goes with the first one.
+  - Part 1, the Middle East (Levant, Mesopotamia and Iran, Arabia): 363 units snapshotted (37,227 words) and translated into `translations/sl/africa-middle-east.json` in nine parts (62 states, 301 events; 31,828 words), marked as machine translations, not yet reviewed.
+  - Parts 2 (Anatolia and Cyprus, North Africa: 348 units, 34,805 words) and 3 (sub-Saharan Africa and the Indian Ocean islands: 207 units, 21,879 words) are snapshotted in the same `_sources` file, revisions of 23 October 2026. Early Dynastic Period (Egypt) has a Slovenian article; Dutch Cape Coast has no English article.
+  - Six Slovenian names corrected in `src/i18n/names/sl.json` overrides: North Yemen, the Neo-Assyrian and Neo-Babylonian empires, the sieges of Acre, Jaffa and Deir ez-Zor, and the third battle of Fallujah.
+
 - **2026-10-23, translated summaries (the Americas).**
   - `tools/fetch_translation_sources.py` now takes a region's units in parts (it skips units already translated), and fetches an era that is a section of a longer article as that section's text. The Americas have 456 worklist units; French Fifth Republic was already translated with Oceania. It re-checked the rest against their language links: Mississippian culture has a Slovenian article; Late Archaic has no English article at all (its era tells its story from the data). The other 453 were snapshotted as the drawer prints them: 51,034 words, revisions of 23 October 2026.
   - The three Woodland period eras link to sections whose headings Wikipedia editors had re-dated ("Early Woodland period (1000–1 BCE)" is now "(1000–200 BCE)"). The tool and the app now fall back to the heading without its bracketed dates; before this, the drawer found no text for these eras.
