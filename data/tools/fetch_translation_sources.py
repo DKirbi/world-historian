@@ -1,10 +1,12 @@
 """Snapshot the English summaries to translate for one region, from the translation worklist.
 
-Usage: python3 -I fetch_translation_sources.py <data_dir> <lang> <region> [--priority era,leader,...]
+Usage: python3 -I fetch_translation_sources.py <data_dir> <lang> <region> [--priority era,leader,...] [--groups g1,g2,...]
        (after `node scripts/translation-worklist.mjs <lang>` has written <data_dir>/translations/<lang>/_worklist.json)
 
 Takes every worklist unit that appears in <region> and is not yet translated in any batch of <lang> (an article
-shared with a region done earlier is translated once, there); with --priority, only those priorities.
+shared with a region done earlier is translated once, there); with --priority, only those priorities. With
+--groups, only units with a record in a column of those lane groups (<region>/_index.json "group"), so a large
+region can be translated part by part: a unit shared by two parts goes with the first one translated.
 
 1. Checks again, through the English articles' language links, that <lang> has no article of its own
    (the names snapshot can be out of date). Articles that do have one are listed under "inLanguage" and
@@ -44,6 +46,22 @@ units = [u for u in work["units"]
          if region in u["regions"]
          and (priorities is None or u["priority"] in priorities)
          and key(u) not in done]
+
+if "--groups" in sys.argv:
+    groups = set(sys.argv[sys.argv.index("--groups") + 1].split(","))
+    index = json.load(open(os.path.join(data, region, "_index.json")))
+    unknown = groups - {lane["group"] for lane in index["lanes"]}
+    if unknown:
+        sys.exit(f"unknown lane groups in {region}: {', '.join(sorted(unknown))}")
+    lanes = {lane["id"] for lane in index["lanes"] if lane["group"] in groups}
+    in_groups = set()  # record ids (states, events, eras) shown in those columns
+    for path in glob.glob(os.path.join(data, region, "*", "*.json")):
+        f = json.load(open(path))
+        if f.get("lane") in lanes:
+            in_groups |= {s["id"] for s in f.get("spans", [])} | {e["id"] for e in f.get("events", [])}
+    in_groups |= {e["id"] for e in json.load(open(os.path.join(data, region, "_eras.json")))["eras"]
+                  if lanes & set(e.get("lanes", []))}
+    units = [u for u in units if in_groups & set(u["records"])]
 
 
 def chunks(xs, n):
