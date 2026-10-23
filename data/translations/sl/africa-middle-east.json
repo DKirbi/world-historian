@@ -7891,6 +7891,25 @@
    ],
    "translated": "2026-10-23"
   },
+  "Battle of Waterberg": {
+   "headline": "Bitka pri Waterbergu",
+   "paragraphs": [
+    "Bitka pri Waterbergu (bitka pri Ohamakariju) je potekala 11. avgusta 1904 pri Waterbergu v Nemški Jugozahodni Afriki (današnji Namibiji) in je bila odločilna bitka hererskega upora."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Waterberg",
+    "rev": 1374107433,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Battle of Waterberg (Battle of Ohamakari) took place on August 11, 1904, at the Waterberg, German South West Africa (modern day Namibia), and was the decisive battle in the Herero uprising."
+    ]
+   },
+   "records": [
+    "Q178842"
+   ],
+   "translated": "2026-10-23"
+  },
   "Battle of Yibneh": {
    "headline": "Bitka pri Jibni",
    "paragraphs": [
@@ -8054,6 +8073,45 @@
    ],
    "translated": "2026-10-23"
   },
+  "Boer Wars": {
+   "paragraphs": [
+    "Vojaška zgodovina Južne Afrike zajema dolgo obdobje in zapletene dogodke od začetkov zgodovine do danes: državljanske vojne ter napadalne in obrambne vojne znotraj Južne Afrike in proti njej. Vključuje bitke na ozemlju današnje Južne Afrike in na sosednjih ozemljih, v obeh svetovnih vojnah in v sodobnih mednarodnih spopadih."
+   ],
+   "notes": [
+    "The key Boer Wars resolves to the English article Military history of South Africa; the summary is translated as it stands."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Military history of South Africa",
+    "rev": 1370173754,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The military history of South Africa chronicles a vast time period and complex events from the dawn of history until the present time. It covers civil wars and wars of aggression and of self-defense both within South Africa and against it. It includes the history of battles fought in the territories of modern South Africa in neighbouring territories, in both world wars and in modern international conflicts."
+    ]
+   },
+   "records": [
+    "Q1676845"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Boko Haram insurgency": {
+   "paragraphs": [
+    "Uporništvo Boko Harama se je začelo julija 2009, ko je militantna islamistična in džihadistična uporniška skupina Boko Haram sprožila oborožen upor proti nigerijski vladi. Boko Haram napada muslimane in kristjane. Napadi so pogosto usmerjeni proti posameznikom, za katere menijo, da podpirajo nigerijsko vlado ali – po razkolu med skupinama – Islamsko državo, med njimi proti državnim uslužbencem, lokalnim obrambnim skupinam, muslimanskim voditeljem, ki skupini nasprotujejo, in drugim upornikom, kot sta Al Kaida in Islamska država. Večina napadov ni povezana z vero žrtev."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Boko Haram insurgency",
+    "rev": 1380959238,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Boko Haram insurgency began in July 2009, when the militant Islamist and jihadist rebel group Boko Haram started an armed rebellion against the government of Nigeria. Boko Haram targets both Muslims and Christians. Attacks are often directed at individuals perceived as supporting the Nigerian government or Islamic State after the split between them, including civil servants, local defense groups, Muslim leaders who oppose the group and other rebels like al-Qaeda and Islamic State. Most attacks are not based on the religion of the victims."
+    ]
+   },
+   "records": [
+    "Q1569328"
+   ],
+   "translated": "2026-10-23"
+  },
   "Buganda": {
    "headline": "Buganda",
    "paragraphs": [
@@ -8092,6 +8150,25 @@
    },
    "records": [
     "bunyoro"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Burundian Civil War": {
+   "headline": "Burundijska državljanska vojna",
+   "paragraphs": [
+    "Burundijska državljanska vojna je bila državljanska vojna v Burundiju, ki je trajala od leta 1993 do 2005. Izhajala je iz dolgotrajnih etničnih razlik med Hutujci in Tutsiji. Spopad se je začel po prvih večstrankarskih volitvah v državi po osamosvojitvi od Belgije leta 1962, za njegov formalni konec pa velja prisega predsednika Pierra Nkurunzize avgusta 2005. Obe strani sta v vojni množično uporabljali otroke. Po ocenah je umrlo 300.000 ljudi."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Burundian Civil War",
+    "rev": 1379867832,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Burundian Civil War was a civil war in Burundi lasting from 1993 to 2005. The civil war was the result of longstanding ethnic divisions between the Hutu and the Tutsi ethnic groups. The conflict began following the first multi-party elections in the country since its independence from Belgium in 1962, and is seen as formally ending with the swearing-in of President Pierre Nkurunziza in August 2005. Children were widely used by both sides in the war. The estimated death toll stands at 300,000."
+    ]
+   },
+   "records": [
+    "Q647239"
    ],
    "translated": "2026-10-23"
   },
@@ -8176,6 +8253,27 @@
    "records": [
     "beylik-of-isfendiyar",
     "beylik-of-sinop"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Cape Town Treaty": {
+   "headline": "Konvencija iz Cape Towna",
+   "paragraphs": [
+    "Konvencija iz Cape Towna o mednarodnih jamstvih na premični opremi ali pogodba iz Cape Towna je mednarodna pogodba, katere namen je poenotiti posle s premičnim premoženjem. Pogodba določa mednarodne standarde za registracijo prodajnih pogodb (tudi s posebnimi registracijskimi agencijami), zavarovanj (zastavnih pravic), zakupov in pogodb o pogojni prodaji ter različna pravna sredstva ob neizpolnjevanju obveznosti iz pogodb o financiranju, med njimi ponovni prevzem in učinek stečajnih zakonov posameznih držav.",
+    "Štirje protokoli h konvenciji veljajo za štiri vrste premične opreme: opremo zrakoplovov (zrakoplovi in letalski motorji; podpisan leta 2001), železniška vozna sredstva (podpisan leta 2007), vesoljska sredstva (podpisan leta 2012) ter »rudarsko, kmetijsko in gradbeno opremo« (podpisan leta 2019). Protokol o zrakoplovih je začel veljati leta 2006, protokol o železniških voznih sredstvih pa leta 2024. Druga dva še ne veljata."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Cape Town Treaty",
+    "rev": 1340037990,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Cape Town Convention on International Interests in Mobile Equipment, or Cape Town Treaty, is an international treaty intended to standardize transactions involving movable property. The treaty creates international standards for registration of contracts of sale (including dedicated registration agencies), security interests (liens), leases and conditional sales contracts, and various legal remedies for default in financing agreements, including repossession and the effect of particular states' bankruptcy laws.",
+     "Four protocols to the convention are specific to four types of movable equipment: Aircraft Equipment (aircraft and aircraft engines; signed in 2001), railway rolling stock (signed in 2007), space assets (signed in 2012) and \"Mining, Agricultural and Construction Equipment\" (signed in 2019). The aircraft Protocol entered into force in 2006, and the railway rolling stock Protocol entered into force in 2024. The others are not yet in effect."
+    ]
+   },
+   "records": [
+    "Q80439"
    ],
    "translated": "2026-10-23"
   },
@@ -8372,6 +8470,29 @@
    ],
    "translated": "2026-10-23"
   },
+  "Casamance conflict": {
+   "headline": "Spopad v Casamanceu",
+   "paragraphs": [
+    "Spopad v Casamanceu (francosko: Conflit en Casamance) je dolgotrajen spopad nizke intenzivnosti, ki od leta 1982 poteka med senegalsko vlado in Gibanjem demokratičnih sil Casamancea (MFDC). Vodja MFDC je 1. maja 2014 zaprosil za mir in razglasil enostransko premirje.",
+    "MFDC zahteva neodvisnost regije Casamance, katere prebivalstvo se po veri in etnični pripadnosti razlikuje od preostalega Senegala. Najbolj krvava so bila leta 1992–2001, ko je v bojih umrlo več kot tisoč ljudi.",
+    "MFDC in vlada sta 30. decembra 2004 sklenila sporazum, ki je obljubljal prostovoljno vključitev borcev MFDC v paravojaške sile države, programe gospodarske obnove Casamancea, razminiranje in pomoč beguncem, ki so se vračali. Nekatere skrajne frakcije MFDC so se kmalu odcepile od delov gibanja, ki so sporazum podpisali, po propadu pogovorov v Foundiougneju 2. februarja 2005 pa pogajanj ni bilo več."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Casamance conflict",
+    "rev": 1373549849,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Casamance conflict (French: Conflit en Casamance) is an ongoing low-level conflict that has been waged between the Government of Senegal and the Movement of Democratic Forces of Casamance (MFDC) since 1982. On 1 May 2014, the leader of the MFDC sued for peace and declared a unilateral ceasefire.",
+     "The MFDC has called for the independence of the Casamance region, whose population is religiously and ethnically distinct from the rest of Senegal. The bloodiest years of the conflict were during the 1992–2001 period and resulted in over a thousand battle related deaths.",
+     "On 30 December 2004, an agreement was reached between the MFDC and the government which promised to provide the voluntary integration of MFDC fighters into the country's paramilitary forces, economic recovery programmes for Casamance, de-mining and aid to returning refugees. Nevertheless, some hard-line factions of the MFDC soon defected from elements of the MFDC who had signed the agreement and no negotiations took place following the breakdown of talks in Foundiougne on 2 February 2005."
+    ]
+   },
+   "records": [
+    "Q209965"
+   ],
+   "translated": "2026-10-23"
+  },
   "Cedar Revolution": {
    "headline": "Cedrina revolucija",
    "paragraphs": [
@@ -8412,6 +8533,104 @@
    ],
    "translated": "2026-10-23"
   },
+  "Central African Bush War": {
+   "headline": "Srednjeafriška vojna v grmovju",
+   "paragraphs": [
+    "Srednjeafriška vojna v grmovju je bila državljanska vojna v Srednjeafriški republiki, ki je med letoma 2004 in 2007 potekala med uporniki Zveze demokratičnih sil za enotnost (UFDR) in vladnimi silami. Upor se je začel, potem ko si je François Bozizé leta 2003 prilastil predsedniški položaj, pravi boji pa so izbruhnili leta 2004. Zaradi nemirov je bilo razseljenih okoli 10.000 ljudi.",
+    "Upor je sestavljalo več uporniških skupin, med katerimi so bile nekatere zelo majhne in ustanovljene šele proti koncu spopada. Poleg UFDR so v spopadu sodelovali še Ljudska vojska za obnovo demokracije (APRD), Groupe d'action patriotique pour la libération de Centrafrique (GAPLC), Gibanje srednjeafriških osvoboditeljev za pravičnost (MLCJ), Front démocratique centrafricain (FDC) in Zveza republikanskih sil (UFR)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Central African Bush War",
+    "rev": 1377092915,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Central African Bush War was a civil war in the Central African Republic which lasted from 2004 to 2007 between Union of Democratic Forces for Unity (UFDR) rebels and government forces. The rebellion began after François Bozizé seized the nation's presidency in 2003. Actual fighting began in 2004. Around 10,000 people were displaced because of the civil unrest.",
+     "The rebellion consisted of multiple rebel groups, several of which were of very small size and founded only towards the end of the conflict. Apart from the UFDR, the conflict included the People's Army for the Restoration of Democracy (CAR) (APRD), Groupe d'action patriotique pour la liberation de Centrafrique (GAPLC), the Movement of Central African Liberators for Justice (MLCJ), the Front démocratique Centrafricain (FDC), and Union of Republican Forces (UFR)."
+    ]
+   },
+   "records": [
+    "Q3118963"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Central African Republic Civil War": {
+   "paragraphs": [
+    "Državljanska vojna v Srednjeafriški republiki je še trajajoča državljanska vojna v Srednjeafriški republiki (SAR), v kateri sodelujejo zaporedne vlade, uporniki iz nekdanje koalicije Séléka, milice anti-balaka ter različne tuje in mednarodne sile."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Central African Republic Civil War",
+    "rev": 1378344289,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Central African Republic Civil War is an ongoing civil war in the Central African Republic (CAR) involving the successive governments, rebels from the former Séléka coalition, the Anti-balaka militias, and various foreign and international forces."
+    ]
+   },
+   "records": [
+    "Q3411181"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Chadian Civil War (1965–1979)": {
+   "headline": "Čadska državljanska vojna (1965–1979)",
+   "paragraphs": [
+    "Čadska državljanska vojna v letih 1965–1979 (francosko: Guerre civile tchadienne de 1965–1979) je bila vojna več uporniških frakcij proti dvema čadskima vladama. Prvi upor je izbruhnil kot odpor proti predsedniku Françoisu Tombalbayeju, katerega režim so zaznamovali avtoritarnost, skrajna korupcija in protekcija. Leta 1975 je Tombalbayeja umorila lastna vojska, oblast pa je prevzela vojaška vlada pod vodstvom Félixa Mallouma, ki je vojno proti upornikom nadaljevala. Po tujih posredovanjih Libije in Francije, razcepu upornikov na tekmujoče frakcije in stopnjevanju bojev je Malloum marca 1979 odstopil. S tem je bila odprta pot novi narodni vladi, znani kot »prehodna vlada narodne enotnosti« (GUNT).",
+    "Z vzponom GUNT se je v Čadu začela nova faza državljanske vojne in mednarodnega spopada."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Chadian Civil War (1965–1979)",
+    "rev": 1370610678,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Chadian Civil War of 1965–1979 (French: Guerre civile tchadienne de 1965–1979) was waged by several rebel factions against two Chadian governments. The initial rebellion erupted in opposition to Chadian President François Tombalbaye, whose regime was marked by authoritarianism, extreme corruption, and favoritism. In 1975 Tombalbaye was murdered by his own army, and a military government headed by Félix Malloum emerged and continued the war against the insurgents. Following foreign interventions by Libya and France, the fracturing of the rebels into rival factions, and an escalation of the fighting, Malloum stepped down in March 1979. This paved the way for a new national government, known as \"Transitional Government of National Unity\" (GUNT).",
+     "Following the rise of GUNT, a new phase of civil war and international conflict broke out in Chad."
+    ]
+   },
+   "records": [
+    "Q782474"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Chadian Civil War (2005–2010)": {
+   "paragraphs": [
+    "Državljanska vojna v Čadu v letih 2005–2010 se je začela 18. decembra 2005. Čad so od osamosvojitve izpod Francije leta 1960 pretresale državljanske vojne med arabskimi muslimani na severu in podsaharskimi kristjani na jugu. Vodstvo in predsedniški položaj sta zato prehajala med krščanskimi južnjaki in muslimanskimi severnjaki. Ko je bila na oblasti ena stran, je druga navadno začela revolucionarno vojno proti njej."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Chadian Civil War (2005–2010)",
+    "rev": 1370610684,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Chadian Civil War of 2005–2010 began on 18 December 2005. Since its independence from France in 1960, Chad has been swamped by civil wars between the Arab-Muslims of the north and the Sub-Saharan-Christians of the south. As a result, leadership and presidency in Chad drifted back and forth between the Christian southerners and Muslim northerners. When one side was in power, the other side usually started a revolutionary war to counter it."
+    ]
+   },
+   "records": [
+    "Q945700"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Chadian–Libyan War": {
+   "paragraphs": [
+    "Čadsko-libijska vojna je bila vrsta vojaških pohodov v Čadu med letoma 1978 in 1987, v katerih so se Libija in njeni čadski zavezniki bojevali proti protilibijskim čadskim skupinam, ki jih je podpirala Francija, občasno pa so se vmešale še druge tuje države in frakcije.",
+    "Libija se je v notranje zadeve Čada vmešavala že pred letom 1978 in pred vzponom Moamerja Gadafija na oblast v Libiji leta 1969, začenši z razširitvijo čadske državljanske vojne na sever Čada leta 1968. Spopad so zaznamovala štiri ločena libijska posredovanja v Čadu, v letih 1978, 1979, 1980–1981 in 1983–1987. Gadafija je vselej podpiralo več frakcij, udeleženih v državljanski vojni, nasprotniki Libije pa so dobili podporo francoske vlade, ki je v podporo čadski vladi vojaško posredovala v letih 1978, 1983 in 1986."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Chadian–Libyan War",
+    "rev": 1374427558,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Chadian–Libyan War was a series of military campaigns in Chad between 1978 and 1987, fought between Libya and its Chadian allies, and anti-Libyan Chadian groups supported by France, with the occasional involvement of other foreign countries and factions.",
+     "Libya had been involved in Chad's internal affairs prior to 1978 and before Muammar Gaddafi's rise to power in Libya in 1969, beginning with the extension of the Chadian Civil War to northern Chad in 1968. The conflict was marked by a series of four separate Libyan interventions in Chad, taking place in 1978, 1979, 1980–1981 and 1983–1987. On all of these occasions, Gaddafi had the support of a number of factions participating in the civil war, while Libya's opponents found the support of the French government, which intervened militarily to support the Chadian government in 1978, 1983 and 1986."
+    ]
+   },
+   "records": [
+    "Q611071"
+   ],
+   "translated": "2026-10-23"
+  },
   "Chobanids": {
    "headline": "Čobanidi",
    "paragraphs": [
@@ -8447,6 +8666,51 @@
    },
    "records": [
     "phoenician-colonies"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Comprehensive Peace Agreement": {
+   "headline": "Celoviti mirovni sporazum",
+   "paragraphs": [
+    "Celoviti mirovni sporazum (CPA, arabsko: اتفاقية السلام الشامل), znan tudi kot sporazum iz Naivashe, je bil sporazum, ki sta ga 9. januarja 2005 podpisala Sudansko ljudsko osvobodilno gibanje (SPLM) in sudanska vlada. Njegov namen je bil končati drugo sudansko državljansko vojno, razviti demokratično upravljanje v vsej državi in razdeliti prihodke od nafte. Določil je tudi časovnico za referendum o neodvisnosti Južnega Sudana.",
+    "Mirovni proces sta spodbujala Medvladna oblast za razvoj (IGAD) in »trojka« držav donatoric, ki so jo sestavljale Združene države, Združeno kraljestvo in Norveška."
+   ],
+   "notes": [
+    "The romanization of the Arabic name is dropped."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Comprehensive Peace Agreement",
+    "rev": 1372495468,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Comprehensive Peace Agreement (CPA, Arabic: اتفاقية السلام الشامل, romanized: Ittifāqiyyah al-salām al-šāmil), also known as the Naivasha Agreement, was an accord signed on 9 January 2005, by the Sudan People's Liberation Movement (SPLM) and the Government of Sudan. The CPA was meant to end the Second Sudanese Civil War, develop democratic governance countrywide, and share oil revenues. It also set a timetable for a Southern Sudanese independence referendum.",
+     "The peace process was encouraged by the Intergovernmental Authority on Development (IGAD), in addition to a \"troika\" of donor countries comprising the United States, United Kingdom, and Norway."
+    ]
+   },
+   "records": [
+    "Q1424647"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Congo Arab war": {
+   "headline": "Kongovsko-arabska vojna",
+   "paragraphs": [
+    "Kongovsko-arabska vojna je bila kolonialna vojna, ki je med letoma 1892 in 1894 na vzhodu porečja Konga potekala med Svobodno državo Kongo in arabsko-svahilskimi vojskovodji, povezanimi s trgovino s sužnji v Indijskem oceanu.",
+    "Vojna je izbruhnila, ker sta se Svobodna država in Arabci potegovala za nadzor nad regionalnimi viri. Končala se je januarja 1894 z zmago Leopoldove Force Publique. Svobodna država je sprva sodelovala z Arabci, vendar se je razvilo tekmovanje za nadzor nad slonovino, sporne pa so postale tudi humanitarne zaveze, ki jih je Leopold II., kralj-suveren Svobodne države Kongo, dal berlinski konferenci, da bo odpravil suženjstvo. Leopold II. se je proti nekdanjim zaveznikom postavil po robu. Vojno proti svahilsko-arabski gospodarski in politični moči so predstavljali kot krščanski protisuženjski križarski pohod."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Congo Arab war",
+    "rev": 1376607333,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Congo Arab war was a colonial war between the Congo Free State and Arab-Swahili warlords associated with the Indian Ocean slave trade in the eastern regions of the Congo Basin between 1892 and 1894.",
+     "The war was caused by the Free State and the Arabs contending for the control of regional resources. The war ended in January 1894 with a victory of Leopold's Force Publique. Initially, the Free State collaborated with the Arabs. Still, competition struck over the control of ivory and the topic of the humanitarian pledges given by Leopold II, King-Sovereign of the Congo Free State, to the Berlin Conference to end slavery. Leopold II's stance turned confrontational against his once-allies. The war against the Swahili-Arab economic and political power was presented as a Christian anti-slavery crusade."
+    ]
+   },
+   "records": [
+    "Q2935437"
    ],
    "translated": "2026-10-23"
   },
@@ -8564,6 +8828,27 @@
    },
    "records": [
     "Q761454"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Cotonou Agreement": {
+   "headline": "Sporazum iz Cotonouja",
+   "paragraphs": [
+    "Sporazum iz Cotonouja (francosko: Accord de Cotonou) je pogodba med Evropsko unijo (EU) in skupino afriških, karibskih in pacifiških držav (AKP). Junija 2000 ga je v Cotonouju, največjem mestu Benina, podpisalo 78 držav AKP (razen Kube) in tedanjih petnajst držav članic EU. Veljati je začel leta 2003, revidirali pa so ga v letih 2005 in 2010.",
+    "Po reviziji leta 2010 bi moral sporazum prenehati veljati 29. februarja 2020, vendar so ga do sprejetja novega sporazuma (sporazuma iz Samoe) začasno podaljšali, najpozneje do 31. oktobra 2023."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Cotonou Agreement",
+    "rev": 1336159220,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Cotonou Agreement (French: Accord de Cotonou) is a treaty between the European Union (EU) and the African, Caribbean and Pacific Group of States (ACP). It was signed in June 2000 in Cotonou, Benin's largest city, by 78 ACP countries (except Cuba) and the then fifteen EU member states. It entered into force in 2003 and was subsequently revised in 2005 and 2010.",
+     "Following the 2010 revision, the agreement was due to expire on 29 February 2020, but it was extended temporarily to no later than 31 October 2023, pending adoption of a new agreement (the Samoa Agreement)."
+    ]
+   },
+   "records": [
+    "Q832200"
    ],
    "translated": "2026-10-23"
   },
@@ -8721,6 +9006,27 @@
    ],
    "translated": "2026-10-23"
   },
+  "Dervish War": {
+   "headline": "Derviška vojna",
+   "paragraphs": [
+    "Derviška vojna je bila spopad na Afriškem rogu med Derviško državo ter imperialnimi silami, Abesinijo, Britanijo in Italijo. Sprva je potekala od leta 1900 do 1904, od leta 1905 je sledilo obdobje mirovne pogodbe in protektorata pod Italijani, v naslednjih letih drugi diplomatski ukrepi, od leta 1913 do 1920 pa so se spopadi s kolonialnimi silami obnovili.",
+    "V prvi bitki upora so derviši marca 1900 napadli etiopsko posadko v Džidžigi in prevzeli nadzor nad deli vzhodnega Ogadena. Nato so napovedali vojno britanski kolonialni upravi v Somalilandu. Proti dervišem so se bojevali tudi Etiopsko cesarstvo, Kraljevina Italija in nekateri somalijski klani. Britanci so med letoma 1900 in 1920 proti dervišem poslali pet vojaških odprav, predvsem v dolino Nugaal, derviši pa so pogosto napadali dele Somalilanda pod britanskim ali italijanskim nadzorom. Spopad je uničil gospodarstvo regije: po ocenah je med derviškim uporom umrla okoli tretjina prebivalstva Somalilanda."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Dervish War",
+    "rev": 1381243172,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Dervish War was a conflict in the Horn of Africa, between the Dervish State, and the imperial powers of Abyssinia, Britain and Italy, initially from 1900 to 1904, which was followed by a peace treaty-protectorate period with the Italians from 1905, other diplomatic measures in the following years, and a resumption of conflict with the colonial powers from 1913 to 1920.",
+     "The opening battle of the rebellion saw the Dervish attack the Ethiopian garrison at Jigjiga in March 1900 and take control of parts of the eastern Ogaden region. The Dervish then declared war on the British colonial administration in Somaliland. The Ethiopian Empire, the Kingdom of Italy and some Somali clans also fought against the Dervish. The British launched five military expeditions, mainly in the Nugaal Valley, between 1900 and 1920 against the Dervish, while the Dervishes often attacked the British or Italian controlled parts of Somaliland. The conflict ravaged the region's economy. It has been estimated that around one-third of the population of Somaliland died during the Dervish rebellion."
+    ]
+   },
+   "records": [
+    "Q1402902"
+   ],
+   "translated": "2026-10-23"
+  },
   "Dhofar rebellion": {
    "headline": "Upor v Dofarju",
    "paragraphs": [
@@ -8739,6 +9045,25 @@
    },
    "records": [
     "Q2363565"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Djiboutian–Eritrean border conflict": {
+   "headline": "Džibutijsko-eritrejski mejni spopad",
+   "paragraphs": [
+    "Džibutijsko-eritrejski mejni spopad je bil spopad med silami Džibutija in Eritreje, ki je potekal od 10. do 13. junija 2008. Sprožile so ga napetosti, ki so se začele 16. aprila 2008, ko je Džibuti sporočil, da so eritrejske oborožene sile vdrle na njegovo ozemlje in izkopale jarke na obeh straneh meje. Kriza se je poglobila, ko so 10. junija 2008 na obmejnem območju izbruhnili oboroženi spopadi med obema vojskama. Francija je Džibutiju med spopadom pomagala logistično, zdravstveno in obveščevalno, v neposrednih bojih pa ni sodelovala."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Djiboutian–Eritrean border conflict",
+    "rev": 1380697776,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Djiboutian–Eritrean border conflict was a border conflict between the forces of Djibouti and Eritrea that occurred between June 10 and June 13, 2008. It was triggered by tension which began on April 16, 2008, when Djibouti reported that Eritrean armed forces had penetrated into Djibouti and dug trenches on both sides of the border. The crisis deepened when armed clashes broke out between the two armed forces in the border area on June 10, 2008. During the conflict, France provided logistical, medical and intelligence support to Djibouti, but did not participate in direct combat."
+    ]
+   },
+   "records": [
+    "Q1354920"
    ],
    "translated": "2026-10-23"
   },
@@ -8899,6 +9224,50 @@
    ],
    "translated": "2026-10-23"
   },
+  "Eritrean War of Independence": {
+   "headline": "Eritrejska osamosvojitvena vojna",
+   "paragraphs": [
+    "Eritrejska osamosvojitvena vojna (tigrinjsko: ውግእ ሰውራ ኤርትራ) je bila oborožen spopad in upor, katerega cilj sta bila samoodločba in neodvisnost Eritreje izpod etiopske oblasti. Eritrejski uporniki so od leta 1961 vodili gverilsko vojno, da bi provinco Eritrejo osvobodili oblasti Etiopskega cesarstva pod Hailejem Selasiejem in pozneje Derga pod Mengistujem Hailejem Mariamom. Njihova prizadevanja so bila nazadnje uspešna leta 1991, ko je režim Derga padel.",
+    "Eritreja je bila italijanska kolonija od 1880. let, dokler zavezniki leta 1941 v drugi svetovni vojni niso premagali Italijanov. Nato je bila do leta 1951 za kratek čas pod britansko vojaško upravo. Združeni narodi so se po vojni sestali, da bi odločili o prihodnosti Eritreje, in glasovali za federacijo med Eritrejo in Etiopijo. Eritreja je tako postala zvezna enota Federacije Etiopije in Eritreje."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Eritrean War of Independence",
+    "rev": 1378133439,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Eritrean War of Independence (Tigrinya: ውግእ ሰውራ ኤርትራ) was an armed conflict and insurgency aimed at achieving self-determination and independence for Eritrea from Ethiopian rule. Starting in 1961, Eritrean insurgents engaged in guerrilla warfare to liberate Eritrea Province from the rule of the Ethiopian Empire under Haile Selassie and later the Derg under Mengistu Haile Mariam. Their efforts ultimately succeeded in 1991 with the fall of the Derg regime.",
+     "Eritrea was an Italian colony from the 1880s until the Italians were defeated by the Allies in World War II in 1941. Afterward, Eritrea briefly became a British Military Administration until 1951. The United Nations convened after the war to decide Eritrea's future, voting in favor of a federation between Eritrea and Ethiopia. As a result, Eritrea became a constituent state of the Federation of Ethiopia and Eritrea."
+    ]
+   },
+   "records": [
+    "Q607257"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Eritrean–Ethiopian War": {
+   "headline": "Eritrejsko-etiopska vojna",
+   "paragraphs": [
+    "Eritrejsko-etiopska vojna, znana tudi kot vojna za Badme, je bila velik oborožen spopad med Etiopijo in Eritrejo, ki je potekal od 6. maja 1998 do 18. junija 2000.",
+    "Ko je Eritreja leta 1993 dobila neodvisnost od Etiopije, so bili odnosi sprva prijateljski. Nesoglasja o poteku nove mednarodne meje pa so jih močno poslabšala in nazadnje pripeljala do vojne v polnem obsegu. Spopad je bil tedaj največja vojna na svetu, v bojih je na obeh straneh sodelovalo več kot 500.000 vojakov.",
+    "Eritreja in Etiopija sta pred vojno veliko vlagali v oborožitev, zato naj bi v spopadu skupaj izgubili med 70.000 in 300.000 ljudi, še 600.000 pa jih je bilo razseljenih. Spopad je nazadnje prinesel manjše spremembe meje z dokončno zavezujočo razmejitvijo pod nadzorom Stalnega arbitražnega sodišča. Vojna se je uradno končala s podpisom alžirskega sporazuma 12. decembra 2000, mejni spopad, ki je sledil, pa se je nadaljeval še skoraj dve desetletji."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Eritrean–Ethiopian War",
+    "rev": 1380778199,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Eritrean–Ethiopian War, also known as the Badme War, was a major armed conflict between Ethiopia and Eritrea that took place from May 6, 1998 to June 18, 2000.",
+     "After Eritrea gained independence from Ethiopia in 1993, relations were initially friendly. However, disagreements about where the newly created international border should be caused relations to deteriorate significantly, eventually leading to full-scale war. The conflict was the biggest war in the world at the time, with over 500,000 troops partaking in the fighting on both sides.",
+     "Eritrea and Ethiopia both invested heavily in armaments prior to the war, and reportedly suffered between 70,000 and 300,000 deaths combined throughout the conflict as a result, with a further 600,000 people displaced. The conflict ultimately led to minor border changes through final binding border delimitation overseen by the Permanent Court of Arbitration. The war officially came to an end with the signing of the Algiers Agreement on 12 December 2000; however, the ensuing border conflict would continue on for nearly two decades."
+    ]
+   },
+   "records": [
+    "Q832273"
+   ],
+   "translated": "2026-10-23"
+  },
   "Eshrefids": {
    "headline": "Ešrefidi",
    "paragraphs": [
@@ -8937,6 +9306,66 @@
    },
    "records": [
     "estado-novo"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Ethiopia–Tigray peace agreement": {
+   "headline": "Mirovni sporazum med Etiopijo in Tigrajem",
+   "paragraphs": [
+    "Mirovni sporazum med Etiopijo in Tigrajem, imenovan tudi sporazum iz Pretorie ali sporazum o prekinitvi sovražnosti (CoHA), je mirovna pogodba med etiopsko vlado in Tigrajsko ljudsko osvobodilno fronto (TPLF), podpisana 2. novembra 2022, v kateri sta se strani dogovorili za »trajno prekinitev sovražnosti«, da bi končali vojno v Tigraju. Sporazum je začel veljati naslednji dan, 3. novembra, na drugo obletnico začetka vojne.",
+    "Ker so se napetosti med TPLF in etiopskimi zveznimi silami od leta 2026 zaostrile, je sporazum iz Pretorie dejansko izgubil veljavo; tiskovni predstavnik TPLF Michael Asgedom je septembra 2026 izjavil, da sporazum »ne velja več«."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Ethiopia–Tigray peace agreement",
+    "rev": 1380228157,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Ethiopia–Tigray peace agreement, also called the Pretoria Agreement or the Cessation of Hostilities Agreement (CoHA), is a peace treaty between the government of Ethiopia and the Tigray People's Liberation Front (TPLF) that was signed 2 November 2022, wherein both parties agreed to a \"permanent cessation of hostilities\" to end the Tigray war. The agreement was made effective the next day on 3 November, marking the second anniversary of the war.",
+     "Since 2026, with the intensification of tensions between the TPLF and Ethiopian federal forces, the Pretoria Agreement was effectively rendered invalid, with TPLF spokesman Michael Asgedom stating in September 2026 that the agreement was \"no longer valid.\""
+    ]
+   },
+   "records": [
+    "Q115124248"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Ethiopian Civil War": {
+   "paragraphs": [
+    "Etiopska državljanska vojna je bila državljanska vojna v Etiopiji in današnji Eritreji, ki je od 12. septembra 1974 do 28. maja 1991 potekala med etiopsko vojaško hunto, znano kot Derg, ter etiopsko-eritrejskimi protivladnimi uporniki.",
+    "Derg je 12. septembra 1974 z državnim udarom strmoglavil Etiopsko cesarstvo in cesarja Haileja Selasieja ter v Etiopiji vzpostavil komunistično državo pod vojaško hunto in začasno vlado. Oborožen odpor proti Dergu, ki ga je podpirala Sovjetska zveza, so vodile različne nacionalistične opozicijske skupine, ideološko od komunističnih do protikomunističnih, ki so pogosto izhajale iz posamezne etnične skupnosti."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Ethiopian Civil War",
+    "rev": 1380404617,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Ethiopian Civil War was a civil war in Ethiopia and present-day Eritrea, fought between the Ethiopian military junta known as the Derg and Ethiopian-Eritrean anti-government rebels from 12 September 1974 to 28 May 1991.",
+     "The Derg overthrew the Ethiopian Empire and Emperor Haile Selassie in a coup d'état on 12 September 1974, establishing Ethiopia as a communist state under a military junta and provisional government. Various nationalist opposition groups of ideological affiliations ranging from communist to anti-communist, often drawn from a specific ethnic background, carried out armed resistance to the Soviet-backed Derg."
+    ]
+   },
+   "records": [
+    "Q257724"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Ethiopian–Adal War": {
+   "headline": "Etiopsko-adalska vojna",
+   "paragraphs": [
+    "Etiopsko-adalska vojna, znana tudi kot abesinsko-adalska vojna in Futuh al Habaša (arabsko: فتوح الحبش, dobesedno »osvojitev Abesinije«), je bila vojna med krščanskim Etiopskim cesarstvom in muslimanskim Adalskim sultanatom, ki je potekala od leta 1529 do 1543. Krščanske etiopske čete so prihajale predvsem iz Tigraja, Amhare, Godžama, Begemderja, Angota, Kede, Gana, Medri Bahrija in Gafata, nekaj pa je bilo tudi agavskih čet. Ob koncu vojne je krščanske sile podpiralo Portugalsko cesarstvo z najmanj 400 mušketirji. Adalske sile so sestavljali Harla oziroma Hararci, Somalci, Afarji ter arabski in turški strelci. Obema stranema so se občasno pridružili plačanci Maja. Spopadu je kmalu sledila osmansko-etiopska vojna v 16. stoletju."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Ethiopian–Adal War",
+    "rev": 1381268802,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Ethiopian–Adal War, also known as the Abyssinian–Adal War and Futūḥ Al-Ḥabaša (Arabic: فتوح الحبش, lit. 'Conquest of Abyssinia'), was a war fought between the Christian Ethiopian Empire and the Muslim Adal Sultanate from 1529 to 1543. The Christian Ethiopian troops were drawn mainly from Tigray, Amhara, Gojjam, Begemder, Angot, Qeda, Gan, Medri Bahri, Gafat, and a certain numbers of Agaw troops At the closing of the war, the Christian forces were supported by the Portuguese Empire with no less than 400 musketeers. The Adal forces were composed of Harla/Harari, Somali, Afar as well as Arab and Turkish gunmen. Both sides would see the Maya mercenaries at times join their ranks. The conflict was followed shortly by the 16th century Ottoman–Ethiopian War."
+    ]
+   },
+   "records": [
+    "Q2915203"
    ],
    "translated": "2026-10-23"
   },
@@ -9377,6 +9806,123 @@
    ],
    "translated": "2026-10-23"
   },
+  "First Chimurenga": {
+   "headline": "Prva chimurenga",
+   "paragraphs": [
+    "Prva chimurenga, znana tudi kot druga matabelska vojna, je potekala med letoma 1896 in 1897 na območju, ki je pozneje postalo Južna Rodezija (danes Zimbabve). Spopad je sprva potekal med Britansko južnoafriško družbo (BSAC) in Matabelci, pozneje pa se je razširil še na Šone v preostali Južni Rodeziji.",
+    "Matabelci so se marca 1896 uprli oblasti BSAC. Mlimu (tudi M'limo ali Umlimo), duhovnemu vodji Matabelcev, pripisujejo, da je razpihal velik del jeze, ki je pripeljala do spopada. Matabelce in Šone je prepričal, da so za sušo, napade kobilic in govejo kugo, ki so tedaj pustošili po deželi, krivi naseljenci (tedaj jih je bilo že skoraj 4000)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "First Chimurenga",
+    "rev": 1381260251,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The First Chimurenga, also known as the Second Matabele War, was fought between 1896 and 1897 in the region that later became Southern Rhodesia (now Zimbabwe). The conflict was initially between the British South Africa Company (BSAC) and the Matabele people, later expanding to include the Shona people in the rest of Southern Rhodesia.",
+     "In March 1896, the Matabele revolted against the authority of the BSAC. The Mlimo (or M'limo, or Umlimo) the Matabele spiritual leader, was credited with fomenting much of the anger that led to this confrontation. He convinced the Matabele and the Shona that the settlers (almost 4,000 strong by then) were responsible for the drought, locust plagues and the cattle disease rinderpest ravaging the country at the time."
+    ]
+   },
+   "records": [
+    "Q233657"
+   ],
+   "translated": "2026-10-23"
+  },
+  "First Congo War": {
+   "headline": "Prva kongovska vojna",
+   "paragraphs": [
+    "Prva kongovska vojna, znana tudi kot prva afriška svetovna vojna, je bila državljanski in mednarodni vojaški spopad, ki je od 24. oktobra 1996 do 16. maja 1997 potekal predvsem v Zairu (ta se je med spopadom preimenoval v Demokratično republiko Kongo). Vojna se je končala s strmoglavljenjem zairskega predsednika Mobutuja Sese Seka, ki ga je zamenjal uporniški voditelj Laurent-Désiré Kabila. Spopad, v katerega je bilo vpletenih tudi več sosednjih držav, je zaradi napetosti med Kabilo in njegovimi nekdanjimi zavezniki pripravil teren za drugo kongovsko vojno (1998–2003)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "First Congo War",
+    "rev": 1374918500,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The First Congo War, also known as Africa's First World War, was a civil and international military conflict that lasted from 24 October 1996 to 16 May 1997, primarily taking place in Zaire (which was renamed the Democratic Republic of the Congo during the conflict). The war resulted in the overthrow of Zairean President Mobutu Sese Seko, who was replaced by rebel leader Laurent-Désiré Kabila. This conflict, which also involved multiple neighboring countries, set the stage for the Second Congo War (1998–2003) due to tensions between Kabila and his former allies."
+    ]
+   },
+   "records": [
+    "Q838695"
+   ],
+   "translated": "2026-10-23"
+  },
+  "First Franco-Dahomean War": {
+   "headline": "Prva francosko-dahomejska vojna",
+   "paragraphs": [
+    "Prva francosko-dahomejska vojna je potekala leta 1890 med Francijo pod vodstvom generala Alfreda-Amédéeja Doddsa in Dahomejem pod kraljem Béhanzinom."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "First Franco-Dahomean War",
+    "rev": 1377091619,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The First Franco-Dahomean War was fought in 1890 between France, led by General Alfred-Amédée Dodds, and Dahomey under King Béhanzin."
+    ]
+   },
+   "records": [
+    "Q2092939"
+   ],
+   "translated": "2026-10-23"
+  },
+  "First Ivorian Civil War": {
+   "headline": "Prva slonokoščenobalska državljanska vojna",
+   "paragraphs": [
+    "Prva slonokoščenobalska državljanska vojna je bila državljanski spopad v Slonokoščeni obali (Côte d'Ivoire), ki se je začel z vojaškim uporom 19. septembra 2002 in končal z mirovnim sporazumom 4. marca 2007. Vlada predsednika Laurenta Gbagboja se je v njem spopadla z domačimi uporniki pod vodstvom Novih sil Slonokoščene obale (Forces nouvelles de Côte d'Ivoire). Zaradi izida predsedniških volitev leta 2010 je izbruhnila druga državljanska vojna (2010–2011)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "First Ivorian Civil War",
+    "rev": 1370619365,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The First Ivorian Civil War was a civil conflict in the Ivory Coast (Côte d'Ivoire) that began with a military rebellion on 19 September 2002 and ended with a peace agreement on 4 March 2007. The conflict pitted the government of Ivorian President Laurent Gbagbo against a domestic insurgency led by the New Forces of Ivory Coast (Forces nouvelles de Côte d'Ivoire). A second civil war (2010–2011) would break out over the results of the 2010 Ivorian presidential election."
+    ]
+   },
+   "records": [
+    "Q1021175"
+   ],
+   "translated": "2026-10-23"
+  },
+  "First Liberian Civil War": {
+   "paragraphs": [
+    "Prva liberijska državljanska vojna je bila prva od dveh državljanskih vojn v zahodnoafriški državi Liberiji in je trajala od leta 1989 do 1997. Totalitarni režim predsednika Samuela Doeja in razširjena korupcija sta do konca 1980. let sprožila pozive, naj Združene države umaknejo podporo. Decembra 1989 je Narodna domoljubna fronta Liberije (NPFL) pod vodstvom Charlesa Taylorja iz Slonokoščene obale vdrla v Liberijo, da bi strmoglavila Doeja, in v enem letu prevzela nadzor nad večino države.",
+    "Doeja je septembra 1990 ujela, mučila in usmrtila Neodvisna narodna domoljubna fronta Liberije (INPFL), odcepljena frakcija NPFL pod vodstvom Princea Johnsona. NPFL in INPFL sta se nato bojevali med seboj za nadzor nad prestolnico Monrovio ter proti oboroženim silam Liberije in Doeju naklonjenemu Združenemu osvobodilnemu gibanju Liberije za demokracijo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "First Liberian Civil War",
+    "rev": 1380824629,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The First Liberian Civil War was the first of two civil wars within the West African nation of Liberia which lasted between 1989 and 1997. President Samuel Doe's regime of totalitarianism and widespread corruption led to calls for withdrawal of the support of the United States, by the late 1980s. In December 1989, the National Patriotic Front of Liberia (NPFL) led by Charles Taylor invaded Liberia from Ivory Coast to overthrow Doe, and gained control over most of Liberia within a year.",
+     "Doe was captured, tortured, and executed by the Independent National Patriotic Front of Liberia (INPFL), a splinter faction of the NPFL led by Prince Johnson, in September 1990. The NPFL and INPFL then fought each other for control of the capital city, Monrovia and against the Armed Forces of Liberia and pro-Doe United Liberation Movement of Liberia for Democracy."
+    ]
+   },
+   "records": [
+    "Q1477500"
+   ],
+   "translated": "2026-10-23"
+  },
+  "First Matabele War": {
+   "headline": "Prva matabelska vojna",
+   "paragraphs": [
+    "Prva matabelska vojna je potekala med letoma 1893 in 1894 na ozemlju današnjega Zimbabveja. V njej sta se spopadli Britanska južnoafriška družba in ndebelsko kraljestvo Mthwakazi. Lobengula, kralj Mthwakazija, se je skušal izogniti odkriti vojni s pionirji družbe, ker so se on in njegovi svetovalci zavedali uničujoče moči evropskega orožja proti tradicionalnim matabelskim impijem (bojevniškim enotam), ki so napadali v strnjenih vrstah. Lobengula naj bi lahko zbral 80.000 suličarjev in 20.000 strelcev, oboroženih s puškami Martini-Henry, ki so bile tedaj sodobno orožje. Zaradi slabe izurjenosti pa orožja morda niso uporabljali učinkovito."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "First Matabele War",
+    "rev": 1378251136,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The First Matabele War was fought between 1893 and 1894 in modern-day Zimbabwe. It pitted the British South Africa Company against the Ndebele kingdom of Mthwakazi. Lobengula, king of Mthwakazi, had tried to avoid outright war with the company's pioneers because he and his advisors were mindful of the destructive power of European-produced weapons on traditional Matabele impis (units of warriors) attacking in massed ranks. Lobengula reportedly could muster 80,000 spearmen and 20,000 riflemen, armed with Martini-Henry rifles, which were modern arms at that time. However, poor training may have resulted in the weapons not being used effectively."
+    ]
+   },
+   "records": [
+    "Q857982"
+   ],
+   "translated": "2026-10-23"
+  },
   "First Muslim conquest of Jerusalem": {
    "paragraphs": [
     "Med letoma 636 in 637/638, med muslimansko osvojitvijo Levanta, je pravoverni kalifat Bizantinskemu cesarstvu odvzel Jeruzalem. Vse se je začelo, ko je vojska kalifata pod poveljstvom Abu Ubajde novembra 636 oblegala Jeruzalem. Po šestih mesecih je patriarh Sofronij privolil v predajo, s pogojem, da se podredi le kalifu. Leta 637 ali 638 je kalif Omar (vladal 634–644) osebno pripotoval v Jeruzalem, da bi sprejel predajo mesta, in patriarh se mu je vdal.",
@@ -9435,6 +9981,25 @@
    },
    "records": [
     "Q981031"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Franco-Hova Wars": {
+   "headline": "Francosko-hovski vojni",
+   "paragraphs": [
+    "Francosko-hovski vojni, znani tudi kot francosko-malgaški vojni, sta bili dve francoski vojaški posredovanji na Madagaskarju med letoma 1883 in 1896, ki sta strmoglavili vladajočo monarhijo Kraljestva Merina, Madagaskar pa je zato postal francoska kolonija. Izraz »Hova« je označeval družbeni sloj v merinski razredni ureditvi."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Franco-Hova Wars",
+    "rev": 1371053924,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Franco-Hova Wars, also known as the Franco-Malagasy Wars, were two French military interventions in Madagascar between 1883 and 1896 that overthrew the ruling monarchy of the Merina Kingdom, and resulted in Madagascar becoming a French colony. The term \"Hova\" referred to a social class within the Merina class structure."
+    ]
+   },
+   "records": [
+    "Q2638505"
    ],
    "translated": "2026-10-23"
   },
@@ -9772,6 +10337,47 @@
    ],
    "translated": "2026-10-23"
   },
+  "Guinea-Bissau Civil War": {
+   "headline": "Državljanska vojna v Gvineji Bissau",
+   "paragraphs": [
+    "Državljanska vojna v Gvineji Bissau je potekala od 7. junija 1998 do 10. maja 1999, sprožil pa jo je poskus državnega udara, ki ga je proti vladi predsednika Joãa Bernarda Vieire vodil brigadni general Ansumane Mané. Vladne sile, ki so jih podpirale sosednje države, so se spopadle z voditelji udara, ki so hitro prevzeli nadzor nad skoraj vsemi oboroženimi silami države.",
+    "V spopadu je umrlo več sto, če ne več tisoč ljudi, več sto tisoč pa jih je bilo razseljenih.",
+    "Mirovni sporazum, sklenjen novembra 1998, je predvideval vlado narodne enotnosti in nove volitve v naslednjem letu. Kratek izbruh bojev maja 1999 pa se je končal z odstavitvijo Vieire 10. maja 1999, ko je ta podpisal brezpogojno predajo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Guinea-Bissau Civil War",
+    "rev": 1370622142,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Guinea-Bissau Civil War was fought from 7 June 1998 to 10 May 1999 and was triggered by an attempted coup d'état against the government of President João Bernardo Vieira led by Brigadier-General Ansumane Mané. Government forces, backed by neighbouring states, clashed with the coup leaders who had quickly gained almost total control over the country's armed forces.",
+     "The conflict resulted in the deaths of hundreds if not thousands of people and the displacement of hundreds of thousands.",
+     "An eventual peace agreement in November 1998 provided for a national unity government and new elections in the next year. However, a subsequent and brief outbreak of fighting in May 1999 ended with the deposing of Vieira on 10 May 1999 when Vieira signed an unconditional surrender."
+    ]
+   },
+   "records": [
+    "Q1781457"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Guinea-Bissau War of Independence": {
+   "paragraphs": [
+    "Bissavska vojna za neodvisnost (portugalsko: Guerra de Independência da Guiné-Bissau), znana tudi kot bissavsko-gvinejska vojna za neodvisnost, je bila oborožen osamosvojitveni spopad, ki je med letoma 1963 in 1974 potekal v Portugalski Gvineji. V njem sta se bojevali Portugalska in Afriška stranka za neodvisnost Gvineje in Zelenortskih otokov (Partido Africano da Independência da Guiné e Cabo Verde, PAIGC), oboroženo osamosvojitveno gibanje, ki so ga podpirale Sovjetska zveza, Kitajska, Kuba, Alžirija in Gvineja. Vojno pogosto imenujejo »portugalski Vietnam«, ker je bila dolgotrajna gverilska vojna, ki je zahtevala izjemno visoke človeške in materialne žrtve ter na Portugalskem povzročila hude notranjepolitične pretrese."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Guinea-Bissau War of Independence",
+    "rev": 1372113350,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Guinea-Bissau War of Independence (Portuguese: Guerra de Independência da Guiné-Bissau), also known as the Bissau-Guinean War of Independence, was an armed independence conflict that took place in Portuguese Guinea from 1963 to 1974. It was fought between Portugal and the African Party for the Independence of Guinea and Cape Verde (Partido Africano da Independência da Guiné e Cabo Verde, PAIGC), an armed independence movement backed by the Soviet Union, China, Cuba, Algeria and Guinea. The war is commonly referred to as \"Portugal's Vietnam\" because it was a protracted guerrilla war which had extremely high costs in men and material and which created significant internal political turmoil in Portugal."
+    ]
+   },
+   "records": [
+    "Q2609193"
+   ],
+   "translated": "2026-10-23"
+  },
   "Gutian rule in Mesopotamia": {
    "headline": "Gutejska vladavina v Mezopotamiji",
    "paragraphs": [
@@ -9853,6 +10459,27 @@
    },
    "records": [
     "hausa-kingdoms"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Herero uprising": {
+   "paragraphs": [
+    "Namsko-hererska vojna je skupno ime za vrsto med seboj povezanih protikolonialnih oboroženih bojev domorodnih ljudstev, predvsem ljudstev Herero in Nama, proti Nemškemu cesarstvu v Nemški Jugozahodni Afriki (današnji Namibiji). Spopadi so potekali med letoma 1904 in 1908 in so vključevali hererski upor ter drugi namski upor."
+   ],
+   "notes": [
+    "The key Herero uprising resolves to the English article Herero and Nama War."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Herero uprising",
+    "rev": 1370622706,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Herero and Nama War is the collective term for a series of interlinked, anti-colonial armed struggles by native peoples in German South West Africa (present-day Namibia), mainly the Herero and Nama people, against the German Empire. The overall conflict took place between 1904 and 1908, and included the Herero uprising and the Second Nama Rebellion."
+    ]
+   },
+   "records": [
+    "Q16512674"
    ],
    "translated": "2026-10-23"
   },
@@ -10339,6 +10966,26 @@
    ],
    "translated": "2026-10-23"
   },
+  "Islamist insurgency in Burkina Faso": {
+   "paragraphs": [
+    "Od avgusta 2015 poteka uporništvo med vlado Burkine Faso in islamističnimi militantnimi skupinami, med njimi Džamaat nasr al islam val muslimin (JNIM), Ansarul Islam in Islamska država – provinca Sahel (IS–SP). Po ocenah džihadistične sile nadzorujejo 30 % države.",
+    "Upor se je začel na severu Burkine Faso v okviru širše vojne v Maliju in se razširil na večino države. Okrepil se je po letu 2016, ko je Ansarul Islam obsežno napadal sever države, zaradi česar se je nasilje razširilo v vzhodne in osrednje regije. Islamske skupine napadajo vojaška oporišča, civiliste, šole, verske voditelje in lokalne uradnike, vladnim silam in zavezniškim milicam pa očitajo zunajsodne poboje in etnična povračila, zlasti nad skupnostmi Fulanov. Upor je prispeval k nasilju med skupnostmi in k humanitarni krizi, ki še traja."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Islamist insurgency in Burkina Faso",
+    "rev": 1381362815,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Since August 2015, an insurgency has been fought between the government of Burkina Faso and Islamist militant groups, including Jama'at Nasr al-Islam wa al-Muslimin (JNIM), Ansarul Islam and the Islamic State – Sahel Province (IS–SP). It is estimated that 30% of the country is controlled by jihadist forces.",
+     "The insurgency originated in the northern area of Burkina Faso amid the broader Mali war, and has grown to affect most of the country. The conflict intensified after 2016, when Ansarul Islam carried out large scaled attacks in northern Burkina Faso, causing violence to spread into the eastern and central regions. Islamic groups have targeted military bases, civilians, schools, religious leaders and local officials, while government forces and allied militias have been accused of extrajudicial killings and ethnic reprisals, particularly against Fulani communities. The insurgency has contributed to intercommunal violence and ongoing humanitarian crisis."
+    ]
+   },
+   "records": [
+    "Q89035147"
+   ],
+   "translated": "2026-10-23"
+  },
   "Israel–Jordan peace treaty": {
    "headline": "Izraelsko-jordanska mirovna pogodba",
    "paragraphs": [
@@ -10436,6 +11083,27 @@
    ],
    "translated": "2026-10-23"
   },
+  "Italo-Ethiopian War of 1887–1889": {
+   "headline": "Italijansko-etiopska vojna (1887–1889)",
+   "paragraphs": [
+    "Italijansko-etiopska vojna v letih 1887–1889 je bila nenapovedana vojna med Kraljevino Italijo in Etiopskim cesarstvom med italijansko kolonizacijo Eritreje, tedaj province Etiopskega cesarstva z imenom Mereb Melaš. Spopad se je končal s pogodbo iz Učaleja, ki je določila mejo med Etiopijo in italijansko Eritrejo. Pogodba je vsebovala tudi določbe, katerih različne razlage so pripeljale do nove italijansko-etiopske vojne.",
+    "Cesar Johannes IV. se je moral spopadati z notranjim odporom svojih močnih vazalov. Kralj Menelik iz Šoe je oktobra 1887 z Italijo podpisal pogodbo o nevtralnosti. Ko se je mahdistični upor v Sudanu razširil čez mejo, se je Etiopija znašla v vojni na dveh frontah. V začetku leta 1888 se je Johannes odločil, da se bo najprej bojeval proti mahdistom. Marca 1889 je padel v boju z mahdisti v bitki pri Galabatu. Menelik je po Johannesovi smrti zahteval prestol in maja 1889 z Italijo podpisal pogodbo iz Učaleja."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Italo-Ethiopian War of 1887–1889",
+    "rev": 1370624669,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Italo-Ethiopian War of 1887–1889 was an undeclared war between the Kingdom of Italy and the Ethiopian Empire occurring during the Italian colonization of Eritrea, then a province of the Ethiopian Empire under the name of Mereb Melash. The conflict ended with the treaty of Wuchale, which delimited the border between Ethiopia and Italian Eritrea. The treaty also contained clauses whose different interpretations led to another Italo-Ethiopian War.",
+     "The Emperor Yohannes IV had to face internal resistance from his powerful vassals. King Menelik of Shewa signed a treaty of neutrality with Italy in October 1887. As the Mahdist uprising in Sudan spilled over the frontier, Ethiopia was faced with a two-front war. In early 1888, Yohannes decided to prioritize fighting against the Mahdists. In March 1889, Yohannes died while he was fighting the Mahdists during the Battle of Gallabat. Menelik claimed the throne after the death of Yohannes and signed the Treaty of Wuchale with Italy in May 1889."
+    ]
+   },
+   "records": [
+    "Q3778598"
+   ],
+   "translated": "2026-10-23"
+  },
   "Jalayirid Sultanate": {
    "headline": "Džalairidski sultanat",
    "paragraphs": [
@@ -10452,6 +11120,43 @@
    },
    "records": [
     "jalayirid-sultanate"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Jameson Raid": {
+   "headline": "Jamesonov napad",
+   "paragraphs": [
+    "Jamesonov napad (afrikansko: Jameson-inval, dobesedno »Jamesonov vdor«; 29. decembra 1895 – 2. januarja 1896) je bil spodleteli napad na Južnoafriško republiko (splošno znano kot Transvaal), ki ga je vodil britanski kolonialni upravitelj Leander Starr Jameson v službi Cecila Rhodesa. Sodelovalo je 500 policistov Britanske južnoafriške družbe, napad pa se je začel iz Rodezije čez novoletni konec tedna 1895/96. Predsednik Južnoafriške republike je bil tedaj Paul Kruger, ki ga je Rhodes osebno globoko sovražil. Z napadom so hoteli sprožiti upor pretežno britanskih priseljenih delavcev in naseljencev (imenovanih uitlanderji) v Transvaalu, a je spodletel."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Jameson Raid",
+    "rev": 1381260114,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Jameson Raid (Afrikaans: Jameson-inval, lit. ''Jameson's Invasion'', 29 December 1895 – 2 January 1896) was a botched raid against the South African Republic (commonly known as the Transvaal) carried out by British colonial administrator Leander Starr Jameson, under the employment of Cecil Rhodes. It involved 500 British South Africa Company police and was launched from Rhodesia over the New Year weekend of 1895–96. Paul Kruger, for whom Rhodes had great personal hatred, was president of the South African Republic at the time. The raid was intended to trigger an uprising by the primarily British expatriate and settler workers (known as Uitlanders) in the Transvaal, but it failed."
+    ]
+   },
+   "records": [
+    "Q916340"
+   ],
+   "translated": "2026-10-23"
+  },
+  "January 2022 Burkina Faso coup d'état": {
+   "paragraphs": [
+    "Državni udar v Burkini Faso se je začel 24. januarja 2022. Pred predsedniško rezidenco v prestolnici Ouagadougou in v več vojašnicah po mestu so odjeknili streli. Vojaki naj bi prevzeli nadzor nad vojaškim oporiščem v prestolnici. Vlada je zanikala, da v državi poteka udar. Nekaj ur pozneje so poročali, da so vojaki predsednika Rocha Marca Christiana Kaboréja pridržali v vojaškem taborišču v prestolnici. Vojska je 24. januarja po televiziji sporočila, da je Kaboré odstavljen s predsedniškega položaja, nato pa razglasila, da so parlament, vlada in ustava razpuščeni. Udar je vodil častnik Paul-Henri Sandaogo Damiba."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "January 2022 Burkina Faso coup d'état",
+    "rev": 1370624819,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "A coup d'état was launched in Burkina Faso on 24 January 2022. Gunfire erupted in front of the presidential residence in the Burkinabé capital Ouagadougou and several military barracks around the city. Soldiers were reported to have seized control of the military base in the capital. The government denied there was an active coup in the country. Several hours later, President Roch Marc Christian Kaboré was reported to have been detained by the soldiers at the military camp in the capital. On 24 January, the military announced on television that Kaboré had been deposed from his position as president. After the announcement, the military declared that the parliament, government and constitution had been dissolved. The coup d'état was led by military officer Paul-Henri Sandaogo Damiba."
+    ]
+   },
+   "records": [
+    "Q110663445"
    ],
    "translated": "2026-10-23"
   },
@@ -10532,6 +11237,44 @@
    },
    "records": [
     "kaabu"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kamerun campaign": {
+   "headline": "Kamerunska kampanja",
+   "paragraphs": [
+    "Kamerunska kampanja je potekala v nemški koloniji Kamerun na afriškem bojišču prve svetovne vojne, ko so Britanci, Francozi in Belgijci od avgusta 1914 do marca 1916 napadli nemško kolonijo. Večina bojev je potekala v Kamerunu, spopadi pa so izbruhnili tudi v britanski Nigeriji. Po zavezniških zmagah je do pomladi 1916 večina nemških enot skupaj s civilno upravo pobegnila v sosednjo nevtralno kolonijo Španska Gvineja (Río Muni). Kampanja se je končala z nemškim porazom in delitvijo nekdanje nemške kolonije med Francijo in Britanijo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kamerun campaign",
+    "rev": 1374059216,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Kamerun campaign took place in the German colony of Kamerun in the African theatre of the First World War when the British, French and Belgians invaded the German colony from August 1914 to March 1916. Most of the campaign took place in Kamerun but skirmishes also broke out in British Nigeria. By the Spring of 1916, following Allied victories, the majority of German troops and the civil administration fled to the neighbouring neutral colony of Spanish Guinea (Río Muni). The campaign ended in a defeat for Germany and the partition of its former colony between France and Britain."
+    ]
+   },
+   "records": [
+    "Q5042244"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kaocen revolt": {
+   "headline": "Kaocenov upor",
+   "paragraphs": [
+    "Kaocenov upor (kabilsko: Tagrawla n Kawsen) je bil tuareški upor proti francoski kolonialni oblasti na območju gorovja Aïr na severu Nigra v letih 1916–1917."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kaocen revolt",
+    "rev": 1377090945,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Kaocen revolt (Kabyle: Tagrawla n Kawsen) was a Tuareg rebellion against French colonial rule of the area around the Aïr Mountains of northern Niger during 1916–17."
+    ]
+   },
+   "records": [
+    "Q2335525"
    ],
    "translated": "2026-10-23"
   },
@@ -11065,6 +11808,27 @@
    ],
    "translated": "2026-10-23"
   },
+  "Kivu conflict": {
+   "paragraphs": [
+    "Spopad v Kivuju je krovni izraz za vrsto dolgotrajnih oboroženih spopadov v provincah Severni Kivu in Južni Kivu na vzhodu Demokratične republike Kongo, ki so se začeli po koncu druge kongovske vojne. Skupaj s sosednjo provinco Ituri je na vzhodu Demokratične republike Kongo dejavnih več kot 120 različnih oboroženih skupin. Med najdejavnejšimi uporniškimi skupinami so trenutno Zavezniške demokratične sile, Zadruga za razvoj Konga, Gibanje 23. marec in številne lokalne milice Mai Mai. Poleg oboroženih skupin in vladnih enot FARDC je v spopad vojaško posegla vrsta nacionalnih, regionalnih in mednarodnih sil, med njimi sile Združenih narodov MONUSCO, vojski Ugande in Burundija ter regionalne sile Vzhodnoafriške skupnosti. Regija Kivu zato velja za ključno geopolitično prizorišče, kjer se lokalne oborožene skupine prepletajo s širšimi regionalnimi tekmovanji in mednarodnimi strateškimi interesi. Analitiki ugotavljajo, da so tekmovanje za naravne vire, čezmejna zavezništva in tuja posredovanja spopad iz povsem notranje zadeve spremenili v širši geopolitični boj."
+   ],
+   "notes": [
+    "The glossary headline (Tretja kongovska vojna, the Slovenian Wikidata label) is kept; the text follows the English name, the Kivu conflict."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kivu conflict",
+    "rev": 1381339426,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Kivu conflict, is an umbrella term for a series of protracted armed conflicts in the North Kivu and South Kivu provinces in the eastern Democratic Republic of the Congo which began after the Second Congo War ended. Including neighboring Ituri province, there are more than 120 different armed groups active in the eastern Democratic Republic of Congo. Currently, some of the most active rebel groups include the Allied Democratic Forces, the Cooperative for the Development of the Congo, the March 23 Movement, and many local Mai Mai militias. In addition to armed groups and the governmental FARDC troops, a number of national, regional and international forces have intervened militarily in the conflict, including the United Nations force known as MONUSCO, the militaries of Uganda and Burundi, and a force from the East African Community known as the East African Community Regional Force. The Kivu region is thus regarded as a key geopolitical arena, where local armed groups intersect with broader regional rivalries and international strategic interests. Analysts note that competition over natural resources, cross-border alliances, and external interventions have transformed the conflict from a purely domestic issue into a wider geopolitical struggle."
+    ]
+   },
+   "records": [
+    "Q327237"
+   ],
+   "translated": "2026-10-23"
+  },
   "Kuba Kingdom": {
    "headline": "Kraljestvo Kuba",
    "paragraphs": [
@@ -11216,6 +11980,44 @@
    },
    "records": [
     "kingdom-of-baluba"
+   ],
+   "translated": "2026-10-23"
+  },
+  "M23 campaign (2022–present)": {
+   "headline": "Kampanja M23 (od 2022)",
+   "paragraphs": [
+    "Kampanja M23 je še trajajoča vrsta vojaških ofenziv, ki jih od marca 2022 izvaja Gibanje 23. marec (M23), paravojaška uporniška skupina v Demokratični republiki Kongo, ki jo podpira Ruanda. M23 je novembra 2021 prvič napadlo kongovsko vojsko (FARDC) in MONUSCO ter zavzelo vojaške položaje v Ndizi, Cyanzuju in Runyoniju v provinci Severni Kivu. To se je časovno ujemalo z napotitvijo Ugandskih ljudskih obrambnih sil (UPDF) v regijo, da bi se bojevale proti Zavezniškim demokratičnim silam (ADF), ugandski uporniški skupini, ki deluje v kongovskih provincah Severni Kivu in Ituri."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "M23 campaign (2022–present)",
+    "rev": 1380862387,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The M23 campaign is an ongoing series of military offensives launched by the March 23 Movement (M23), a Rwandan-backed rebel paramilitary group in the Democratic Republic of the Congo, since March 2022. In November 2021, M23 first launched attacks against the Congolese military (FARDC) and MONUSCO, seizing military positions in Ndiza, Cyanzu, and Runyoni in North Kivu Province. This coincided with the deployment of Uganda People's Defence Force (UPDF) to the region to combat the Allied Democratic Forces (ADF), a Ugandan rebel group operating in the Congo's North Kivu and Ituri provinces."
+    ]
+   },
+   "records": [
+    "Q112628065"
+   ],
+   "translated": "2026-10-23"
+  },
+  "M23 rebellion (2012–2013)": {
+   "headline": "Upor M23 (2012–2013)",
+   "paragraphs": [
+    "Prvi upor M23 je bil oborožen spopad v Severnem Kivuju v Demokratični republiki Kongo, ki je od 4. aprila 2012 do 7. novembra 2013 potekal med uporniško skupino Gibanje 23. marec (M23) in kongovskimi vladnimi silami. Končal se je, ko je enajst afriških držav sklenilo mirovni sporazum, enote M23 pa so se predale v Ugandi. Upor je bil del nadaljevanja bojev v regiji po formalnem koncu druge kongovske vojne leta 2003. Spopad se je znova vnel konec leta 2021, ko je vodja upornikov M23 Sultani Makenga s 100 uporniki neuspešno napadel obmejno mesto Bunagana. Nekaj mesecev pozneje so uporniki M23 uradno obnovili ofenzivne operacije in hitro razširili nadzor na obsežna območja Severnega Kivuja."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "M23 rebellion (2012–2013)",
+    "rev": 1370692029,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The First M23 rebellion was an armed conflict in North Kivu, Democratic Republic of the Congo, that occurred between the March 23 Movement (M23) rebel group and Congolese government forces between 4 April 2012 and 7 November 2013. It ended when a peace agreement was made among eleven African nations, and the M23 troops surrendered in Uganda. The rebellion was part of continued fighting in the region after the formal end of the Second Congo War in 2003. The conflict reignited in late 2021 after M23 rebel leader Sultani Makenga and 100 rebel fighters attacked the border town of Bunagana but failed. A few months later, M23 rebels officially restarted offensive operations, rapidly expanding their control over vast regions of North Kivu."
+    ]
+   },
+   "records": [
+    "Q82962"
    ],
    "translated": "2026-10-23"
   },
