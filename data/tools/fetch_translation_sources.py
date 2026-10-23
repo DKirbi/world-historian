@@ -108,7 +108,8 @@ def clean(extract):
         p = re.sub(r"\(\s*\)", "", p)
         p = re.sub(r"\s+([,.;:])", r"\1", p)
         p = re.sub(r"\s{2,}", " ", p).strip()
-        if len(p) > 1:
+        # template residue left in the extract, such as "|campaignbox = campaignbox =" (Battle of Clavijo)
+        if len(p) > 1 and not p.startswith("|"):
             out.append(p)
     return out
 
