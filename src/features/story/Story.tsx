@@ -47,10 +47,16 @@ export function Story({ model, region, full }: Props) {
   const ready = article.status === 'ready' ? article.article : null;
   const headingRef = useRef<HTMLHeadingElement>(null);
 
-  // A stored translation stands in for the English summary when the reader's language has no article
-  // (never for a section of an article: those are translated as their own units).
-  const intro = model.kind !== 'stack' && !model.article?.section && !model.article?.sectionLike;
-  const stored = useStoredTranslation(i18n.meta.id, intro ? model.article?.enTitle : undefined);
+  // A stored translation stands in for the English summary when the reader's language has no article.
+  // It is keyed by the English title, or "<title>#<section>" for an era that is a section of an article;
+  // eras read by a heading that only resembles their name (sectionLike) have none.
+  const translationKey =
+    model.kind === 'stack' || model.article?.sectionLike || !model.article?.enTitle
+      ? undefined
+      : model.article.section
+        ? `${model.article.enTitle}#${model.article.section}`
+        : model.article.enTitle;
+  const stored = useStoredTranslation(i18n.meta.id, translationKey);
   const noOwnArticle = ready?.fallback || article.status === 'error' || article.status === 'none';
   const translation = stored.status === 'ready' && noOwnArticle ? stored.translation : null;
   const waiting = stored.status === 'loading' && !!ready?.fallback; // no flash of English before the translation
@@ -316,7 +322,7 @@ function WikiSource({
     return (
       <a href={`https://${src.wiki}.wikipedia.org/w/index.php?oldid=${src.rev}`} target="_blank" rel="noreferrer">
         {t('story.cite.wikipediaTranslated', {
-          title: src.title,
+          title: src.section ? `${src.title}, ${src.section}` : src.title,
           edition: t('wiki.edition.en'),
           rev: rev(src.rev),
           date: new Date(translation.translated).toLocaleDateString(meta.tag, { day: 'numeric', month: 'numeric', year: 'numeric' }),

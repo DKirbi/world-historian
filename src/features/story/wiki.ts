@@ -181,10 +181,15 @@ export async function fetchSection(
 ): Promise<Omit<WikiArticle, 'fallback'> | null> {
   const s = await api<ParseSections>(wiki(lang), { action: 'parse', page: title, prop: 'sections', redirects: '1' }, signal);
   const want = norm(heading);
+  const stem = (h: string) => h.replace(/\s*\(.*$/, '');
   const sections = s.parse?.sections ?? [];
+  // The exact heading; else the same period whose dates in brackets were edited since the data was built
+  // ("Early Woodland period (1000–1 BCE)" → "Early Woodland period (1000–200 BCE)"); else, when loose,
+  // a heading that starts with the name.
   const found =
     sections.find((x) => norm(x.anchor.replace(/_/g, ' ')) === want || norm(stripTags(x.line)) === want) ??
-    (loose ? sections.find((x) => norm(stripTags(x.line)).startsWith(want.replace(/\s*\(.*$/, ''))) : undefined);
+    sections.find((x) => stem(norm(stripTags(x.line))) === stem(want)) ??
+    (loose ? sections.find((x) => norm(stripTags(x.line)).startsWith(stem(want))) : undefined);
   if (!found || !s.parse) return null;
   const p = await api<ParseText>(
     wiki(lang),

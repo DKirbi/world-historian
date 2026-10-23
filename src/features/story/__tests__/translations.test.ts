@@ -30,9 +30,18 @@ const laneFiles = import.meta.glob<{ events?: Array<{ id: string; wiki?: string 
 });
 
 /** English article title of every record the stories can open. */
+const eraFiles = import.meta.glob<{ eras: Array<{ id: string; article?: { title: string; section?: string } }> }>(
+  '/data/*/_eras.json',
+  { eager: true, import: 'default' },
+);
+
+/** The key a record's story looks its translation up by: the English title, or "<title>#<section>" for an era. */
 const titleOf = new Map<string, string>();
 for (const f of Object.values(polities)) for (const p of f.polities) if (p.wikipedia) titleOf.set(p.id, p.wikipedia);
 for (const f of Object.values(laneFiles)) for (const e of f.events ?? []) if (e.wiki) titleOf.set(e.id, e.wiki);
+for (const f of Object.values(eraFiles))
+  for (const e of f.eras)
+    if (e.article) titleOf.set(e.id, e.article.section ? `${e.article.title}#${e.article.section}` : e.article.title);
 
 // the calques the Slovenian style sheet bans (docs/research/slovenian-newspaper-style.md)
 const BANNED: Record<string, RegExp[]> = {

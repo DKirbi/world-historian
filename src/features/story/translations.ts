@@ -12,7 +12,8 @@ export interface StoredTranslation {
   headline?: string;
   paragraphs: string[];
   notes?: string[];
-  source: { wiki: string; title: string; rev: number; retrieved: string; paragraphs: string[] };
+  /** The English text it was made from; `section` when the unit is one section of the article. */
+  source: { wiki: string; title: string; section?: string; rev: number; retrieved: string; paragraphs: string[] };
   /** The batch's metadata, repeated so a story needs nothing else. */
   lang: string;
   method: 'machine' | 'human';
@@ -28,7 +29,13 @@ interface Batch {
   translator: string;
   translated: string;
   reviewed: StoredTranslation['reviewed'];
-  units: Record<string, Omit<StoredTranslation, 'title' | 'lang' | 'method' | 'translator' | 'translated' | 'reviewed'> & { reviewed?: StoredTranslation['reviewed'] }>;
+  units: Record<
+    string,
+    Omit<StoredTranslation, 'title' | 'lang' | 'method' | 'translator' | 'translated' | 'reviewed'> & {
+      reviewed?: StoredTranslation['reviewed'];
+      translated?: string;
+    }
+  >;
 }
 
 const BATCHES = import.meta.glob<Batch>(['/data/translations/*/*.json', '!/data/translations/*/_*.json'], {
@@ -52,7 +59,7 @@ export function loadTranslations(lang: string): Promise<Map<string, StoredTransl
             lang: b.lang,
             method: b.method,
             translator: b.translator,
-            translated: b.translated,
+            translated: u.translated ?? b.translated,
             reviewed: u.reviewed ?? b.reviewed,
           });
       return out;
