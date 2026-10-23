@@ -2293,7 +2293,7 @@
   "Q543255": "Operacija Odločitev",
   "Q5439864": "Februarska vstaja",
   "Q543994": "Bitka pri Hanauu",
-  "Q54434": "Vojna Jenkinsonovega ušesa",
+  "Q54434": "Vojna za Jenkinsovo uho",
   "Q5447588": "Peta pandemija kolere",
   "Q545068": "Nemiri v Tibetu 2008",
   "Q545449": "Iraška vojna",
@@ -2769,7 +2769,8 @@
   "events": {
    "Q1366688": "Transpacifiško partnerstvo",
    "Q501866": "Invazija na Grenado leta 1983",
-   "Q3536871": "Pogodba iz Ria de Janeira"
+   "Q3536871": "Pogodba iz Ria de Janeira",
+   "Q54434": "Vojna za Jenkinsovo uho"
   }
  }
 }
