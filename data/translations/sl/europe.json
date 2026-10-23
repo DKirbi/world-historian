@@ -547,7 +547,7 @@
   "Battle of Albert (1914)": {
    "headline": "Bitka pri Albertu (1914)",
    "paragraphs": [
-    "Bitka pri Albertu (znana tudi kot prva bitka pri Albertu) se je začela 25. septembra 1914 v okviru tako imenovanega »teka k morju« med prvo svetovno vojno. Sledila je prvi bitki na Aisni, ko sta se obe strani pomikali proti severu in skušali obiti severno krilo nasprotnika. Druga armada (Noël de Castelnau) se je sredi septembra začela zbirati v Amiensu, general Joseph Joffre, vrhovni poveljnik francoske vojske, pa ji je ukazal napasti pri Albertu."
+    "Bitka pri Albertu (znana tudi kot prva bitka pri Albertu) se je začela 25. septembra 1914 v okviru tako imenovane »dirke do morja« med prvo svetovno vojno. Sledila je prvi bitki na Aisni, ko sta se obe strani pomikali proti severu in skušali obiti severno krilo nasprotnika. Druga armada (Noël de Castelnau) se je sredi septembra začela zbirati v Amiensu, general Joseph Joffre, vrhovni poveljnik francoske vojske, pa ji je ukazal napasti pri Albertu."
    ],
    "source": {
     "wiki": "en",
@@ -797,7 +797,7 @@
   "Battle of Arras (1914)": {
    "headline": "Bitka pri Arrasu (1914)",
    "paragraphs": [
-    "Bitka pri Arrasu (znana tudi kot prva bitka pri Arrasu, 1.–4. oktobra 1914) je bila poskus francoske vojske, da bi obšla nemško vojsko, ki je med »tekom k morju« skušala storiti isto; z vzajemnimi poskusi sta strani hoteli izkoristiti razmere, ki so nastale v prvi bitki na Aisni. V prvi bitki v Pikardiji (22.–26. septembra) sta obe strani napadli v pričakovanju, da bosta prodrli okoli odprtega severnega krila, a sta namesto tega ugotovili, da so z juga prispele nove čete in krilo podaljšale proti severu."
+    "Bitka pri Arrasu (znana tudi kot prva bitka pri Arrasu, 1.–4. oktobra 1914) je bila poskus francoske vojske, da bi obšla nemško vojsko, ki je med »dirko do morja« skušala storiti isto; z vzajemnimi poskusi sta strani hoteli izkoristiti razmere, ki so nastale v prvi bitki na Aisni. V prvi bitki v Pikardiji (22.–26. septembra) sta obe strani napadli v pričakovanju, da bosta prodrli okoli odprtega severnega krila, a sta namesto tega ugotovili, da so z juga prispele nove čete in krilo podaljšale proti severu."
    ],
    "source": {
     "wiki": "en",
@@ -3929,7 +3929,7 @@
   "Battle of Messines (1914)": {
    "headline": "Bitka pri Messinesu (1914)",
    "paragraphs": [
-    "Bitka pri Messinesu je potekala oktobra 1914 med vojskami Nemškega cesarstva na eni ter Britanskega imperija in Francije na drugi strani v okviru tako imenovanega »teka k morju«, vzajemnih poskusov nemške vojske in vojsk antante, da bi napadle prek severnega krila nasprotnika. Poskusi obkolitve severnega krila so privedli do več srečanjskih bojev, dokler zaradi Severnega morja nobena stran ni imela več krila, na katerega bi lahko merila. Bojevali so se med reko Douve in kanalom Comines–Ypres."
+    "Bitka pri Messinesu je potekala oktobra 1914 med vojskami Nemškega cesarstva na eni ter Britanskega imperija in Francije na drugi strani v okviru tako imenovane »dirke do morja«, vzajemnih poskusov nemške vojske in vojsk antante, da bi napadle prek severnega krila nasprotnika. Poskusi obkolitve severnega krila so privedli do več srečanjskih bojev, dokler zaradi Severnega morja nobena stran ni imela več krila, na katerega bi lahko merila. Bojevali so se med reko Douve in kanalom Comines–Ypres."
    ],
    "source": {
     "wiki": "en",
@@ -9176,6 +9176,47 @@
    ],
    "translated": "2026-10-23"
   },
+  "June Rebellion": {
+   "headline": "Junijska vstaja",
+   "paragraphs": [
+    "Junijska vstaja, imenovana tudi pariška vstaja leta 1832 (francosko: Insurrection républicaine à Paris en juin 1832), je bila protimonarhistična vstaja pariških republikancev 5. in 6. junija 1832.",
+    "Izvirala je iz poskusa republikancev, da bi odpravili julijsko monarhijo Ludvika Filipa, vzpostavljeno leta 1830, kmalu potem, ko sta za kolero umrla predsednik vlade Casimir Pierre Périer in general Jean Maximilien Lamarque, nekdanji vojaški poveljnik, ki je postal poslanec francoskega parlamenta in je bil kritičen do monarhije. Vstajo so sprožili nemiri po Lamarquovem pogrebu. To je bil zadnji izbruh nasilja, povezan z julijsko revolucijo leta 1830.",
+    "Francoski pisatelj Victor Hugo je vstajo ovekovečil v romanu Nesrečniki (Les Misérables) iz leta 1862, vidno mesto pa ima tudi v odrskem muzikalu in filmih po knjigi."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "June Rebellion",
+    "rev": 1380934831,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The June Rebellion, also called the Paris Uprising of 1832 (French: Insurrection républicaine à Paris en juin 1832), was an anti-monarchist insurrection of Parisian republicans on 5 and 6 June 1832.",
+     "The rebellion originated in an attempt by republicans to reverse the establishment in 1830 of the July Monarchy of Louis Philippe, shortly after the deaths from cholera of Prime Minister Casimir Pierre Périer and General Jean Maximilien Lamarque, a former Army commander who became a member of the French parliament and was critical of the monarchy. The riots that followed Lamarque's funeral sparked the rebellion. This was the last outbreak of violence linked with the July Revolution of 1830.",
+     "The French author Victor Hugo memorialised the rebellion in his 1862 novel Les Misérables, and it features prominently in the stage musical and films that are based on the book."
+    ]
+   },
+   "records": [
+    "Q768755"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kellogg–Briand Pact": {
+   "paragraphs": [
+    "Kellogg-Briandov pakt ali pariški pakt (uradno Splošna pogodba o odpovedi vojni kot sredstvu nacionalne politike) je mednarodni mirovni sporazum iz leta 1928, v katerem so se države podpisnice zavezale, da vojne ne bodo uporabljale za reševanje »sporov ali konfliktov kakršne koli narave ali kakršnega koli izvora, ki bi lahko nastali med njimi«. Pakt so 27. avgusta 1928 podpisale Nemčija, Francija in Združene države, kmalu zatem pa še večina drugih držav. Predlagali sta ga Francija in ZDA, ime pa je dobil po avtorjih, ameriškem državnem sekretarju Franku B. Kelloggu in francoskem zunanjem ministru Aristidu Briandu. Sklenjen je bil zunaj Društva narodov in še vedno velja."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kellogg–Briand Pact",
+    "rev": 1380810269,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Kellogg–Briand Pact or Pact of Paris (officially the General Treaty for Renunciation of War as an Instrument of National Policy) is a 1928 international agreement on peace in which signatory states promised not to use war to resolve \"disputes or conflicts of whatever nature or of whatever origin they may be, which may arise among them\". The pact was signed by Germany, France, and the United States on 27 August 1928, and by most other states soon after. Sponsored by France and the US, the Pact is named after its authors, United States Secretary of State Frank B. Kellogg and French foreign minister Aristide Briand. The pact was concluded outside the League of Nations and remains in effect."
+    ]
+   },
+   "records": [
+    "Q205073"
+   ],
+   "translated": "2026-10-23"
+  },
   "Kingdom of Alba": {
    "headline": "Kraljestvo Alba",
    "paragraphs": [
@@ -9634,6 +9675,25 @@
    ],
    "translated": "2026-10-23"
   },
+  "Liège Revolution": {
+   "headline": "Lieška revolucija",
+   "paragraphs": [
+    "Lieška revolucija, včasih imenovana tudi srečna revolucija (francosko: Heureuse Révolution; valonsko: Binamêye revolucion), proti vladajočemu lieškemu knezu-škofu se je začela 18. avgusta 1789 in trajala do leta 1791, ko so avstrijske sile uničile Lieško republiko in obnovile Lieško knežjo škofijo. Potekala je hkrati s francosko revolucijo, njeni učinki pa so bili dolgotrajni in so nazadnje privedli do odprave Lieške knežje škofije, ki so jo francoske revolucionarne sile leta 1795 dokončno priključile."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Liège Revolution",
+    "rev": 1379151769,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Liège Revolution, sometimes known as the Fortunate Revolution (French: Heureuse Révolution; Walloon: Binamêye revolucion), against the reigning prince-bishop of Liège, started on 18 August 1789 and lasted until the destruction of the Republic of Liège and re-establishment of the Prince-Bishopric of Liège by Austrian forces in 1791. The Liège Revolution was concurrent with the French Revolution and its effects were long-lasting and eventually led to the abolition of the Prince-Bishopric of Liège and its final annexation by French revolutionary forces in 1795."
+    ]
+   },
+   "records": [
+    "Q1527921"
+   ],
+   "translated": "2026-10-23"
+  },
   "Lisbon Recognition Convention": {
    "headline": "Lizbonska konvencija o priznavanju",
    "paragraphs": [
@@ -9747,6 +9807,46 @@
    ],
    "translated": "2026-10-23"
   },
+  "Louvre Accord": {
+   "headline": "Louvrski sporazum",
+   "paragraphs": [
+    "Louvrski sporazum (uradno Izjava finančnih ministrov in guvernerjev centralnih bank skupine G6) je bil sporazum, podpisan 22. februarja 1987 v Parizu, katerega cilj je bil stabilizirati mednarodne valutne trge in ustaviti nadaljnje padanje ameriškega dolarja, ki se je začelo leta 1985 po sporazumu Plaza. Z vidika teorije relacijskih mednarodnih pogodb je veljal za racionalno kompromisno rešitev med dvema idealnotipskima skrajnostma mednarodnih denarnih ureditev: popolnoma prožnimi in popolnoma fiksnimi deviznimi tečaji.",
+    "Sporazum so podpisale Kanada, Francija, Zahodna Nemčija, Japonska, Združeno kraljestvo in Združene države. Italijanska vlada je bila povabljena k podpisu, a ga je zavrnila."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Louvre Accord",
+    "rev": 1325248410,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Louvre Accord (formally, the Statement of the G6 Finance Ministers and Central Bank Governors) was an agreement, signed on February 22, 1987, in Paris, that aimed to stabilize international currency markets and halt the continued decline of the US dollar after 1985 following the Plaza Accord. It was considered, from a relational international contract viewpoint, as a rational compromise solution between two ideal-type extremes of international monetary regimes: the perfectly flexible and the perfectly fixed exchange rates.",
+     "The agreement was signed by Canada, France, West Germany, Japan, the United Kingdom, and the United States. The Italian government was invited to sign the agreement but declined."
+    ]
+   },
+   "records": [
+    "Q471261"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Luxembourg compromise": {
+   "headline": "Luksemburški kompromis",
+   "paragraphs": [
+    "Luksemburški kompromis (ali luksemburški sporazum) je bil dogovor, dosežen januarja 1966, s katerim so razrešili »krizo praznega stola«, ki je povzročila zastoj v Evropski gospodarski skupnosti (EGS)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Luxembourg compromise",
+    "rev": 1373257398,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Luxembourg compromise (or Luxembourg accord) was an agreement reached in January 1966 to resolve the \"Empty Chair Crisis\" which had caused a stalemate within the European Economic Community (EEC)."
+    ]
+   },
+   "records": [
+    "Q1418500"
+   ],
+   "translated": "2026-10-23"
+  },
   "Madrid Accords": {
    "headline": "Madridski sporazumi",
    "paragraphs": [
@@ -9791,6 +9891,25 @@
    ],
    "translated": "2026-10-23"
   },
+  "Massacre at Béziers": {
+   "headline": "Pokol v Béziersu",
+   "paragraphs": [
+    "Pokol v Béziersu se je zgodil 22. julija 1209, ko so križarji oplenili Béziers. Bil je posledica obleganja Béziersa, prvega večjega vojaškega spopada albižanske križarske vojne."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Massacre at Béziers",
+    "rev": 1366179139,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Massacre at Béziers occurred on 22 July 1209 during the sack of Béziers by Crusaders. It was the outcome of the Siege of Béziers, which was the first major military action of the Albigensian Crusade."
+    ]
+   },
+   "records": [
+    "Q941312"
+   ],
+   "translated": "2026-10-23"
+  },
   "May Days": {
    "headline": "Majski dnevi",
    "paragraphs": [
@@ -9811,6 +9930,29 @@
    },
    "records": [
     "Q1885246"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Merger Treaty": {
+   "paragraphs": [
+    "Pogodba o združitvi, znana tudi kot bruseljska pogodba, je bila evropska pogodba, ki je poenotila izvršilne institucije Evropske skupnosti za premog in jeklo (ESPJ), Evropske skupnosti za atomsko energijo (Euratom) in Evropske gospodarske skupnosti (EGS). Podpisana je bila v Bruslju 8. aprila 1965 in je začela veljati 1. julija 1967. Določila je, da Komisija Evropskih skupnosti nadomesti Visoko oblast ESPJ, Komisijo EGS in Komisijo Euratoma, Svet Evropskih skupnosti pa Posebni svet ministrov ESPJ, Svet EGS in Svet Euratoma. Čeprav je vsaka skupnost ostala pravno samostojna, so si delile skupne institucije (že pred to pogodbo so imele skupno parlamentarno skupščino in sodišče) in so bile skupaj znane kot Evropske skupnosti. Nekateri to pogodbo štejejo za pravi začetek sodobne Evropske unije.",
+    "Pogodbo je razveljavila amsterdamska pogodba, podpisana leta 1997."
+   ],
+   "notes": [
+    "The English excerpt ends with a colon before a list that is not included; the Slovenian ends with a full stop."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Merger Treaty",
+    "rev": 1340086782,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Merger Treaty, also known as the Treaty of Brussels, was a European treaty which unified the executive institutions of the European Coal and Steel Community (ECSC), European Atomic Energy Community (Euratom) and the European Economic Community (EEC). The treaty was signed in Brussels on 8 April 1965 and came into force on 1 July 1967. It set out that the Commission of the European Communities should replace the High Authority of the ECSC, the Commission of the EEC and the Commission of Euratom, and that the Council of the European Communities should replace the Special Council of Ministers of the ECSC, the Council of the EEC and the Council of Euratom. Although each Community remained legally independent, they shared common institutions (prior to this treaty, they already shared a Parliamentary Assembly and Court of Justice) and were together known as the European Communities. This treaty is regarded by some as the real beginning of the modern European Union.",
+     "This treaty was abrogated by the Amsterdam Treaty signed in 1997:"
+    ]
+   },
+   "records": [
+    "Q622766"
    ],
    "translated": "2026-10-23"
   },
@@ -9835,6 +9977,24 @@
    },
    "records": [
     "Q1435156"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Meuse–Argonne offensive": {
+   "paragraphs": [
+    "Ofenziva Meuse-Argonne (znana tudi kot ofenziva ob reki Mozi in v Argonskem gozdu, bitke ob Mozi in v Argonih ter pohod Meuse-Argonne) je bila velik del zadnje zavezniške ofenzive prve svetovne vojne, ki se je raztezala vzdolž vse zahodne fronte. Potekala je od 26. septembra 1918 do premirja 11. novembra 1918, skupaj 47 dni. Bila je največja ofenziva v vojaški zgodovini Združenih držav: sodelovalo je 1,2 milijona ameriških vojakov, mornarjev in marincev ter 800.000 Francozov in 850 Siamcev. Velja tudi za najsmrtonosnejši pohod v zgodovini Kopenske vojske ZDA: izgub je bilo več kot 300.000, umrlo pa je 28.000 Nemcev, 26.277 Američanov in približno 35.000 Francozov. Ameriške izgube so povečali neizkušenost številnih vojakov, taktika v zgodnjih fazah operacije in obsežen izbruh španske gripe."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Meuse–Argonne offensive",
+    "rev": 1378999106,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Meuse–Argonne offensive (also known as the Meuse River–Argonne Forest offensive, the Battles of the Meuse–Argonne, and the Meuse–Argonne campaign) was a major part of the final Allied offensive of World War I that stretched along the entire Western Front. It was fought from September 26, 1918, until the Armistice of November 11, 1918, a total of 47 days. The Meuse–Argonne offensive was the largest in United States military history, involving 1.2 million American soldiers, sailors and marines, along with 800,000 French and 850 Siamese personnel. It is also the deadliest campaign in the history of the United States Army, resulting in over 300,000 casualties, including 28,000 German lives, 26,277 American lives and about 35,000 French lives. American losses were worsened by the inexperience of many of the troops, the tactics used during the early phases of the operation, and the widespread onset of the Spanish flu."
+    ]
+   },
+   "records": [
+    "Q1926157"
    ],
    "translated": "2026-10-23"
   },
@@ -9960,6 +10120,107 @@
    ],
    "translated": "2026-10-23"
   },
+  "Operation Bodenplatte": {
+   "headline": "Operacija Bodenplatte",
+   "paragraphs": [
+    "Operacija Bodenplatte (»talna plošča«), začeta 1. januarja 1945, je bila poskus nemške Luftwaffe, da bi med drugo svetovno vojno ohromila zavezniške letalske sile v Nizkih deželah. Cilj operacije je bil pridobiti premoč v zraku med zastojem v bitki v Ardenih, da bi lahko nemška kopenska vojska in sile Waffen-SS nadaljevale prodor. Operacija je bila načrtovana za 16. december 1944, a so jo zaradi slabega vremena večkrat preložili do novoletnega dne, prvega dne, ki je bil primeren. Uničili so skoraj 500 zavezniških letal.",
+    "Operacija je bila tako tajna, da niso bile obveščene vse nemške kopenske in pomorske sile, zato so nekatere enote utrpele izgube zaradi prijateljskega ognja. Britanska signalna obveščevalna služba je zaznala premike in zbiranje nemških letalskih sil v regiji, a ni spoznala, da je operacija neposredno pred vrati."
+   ],
+   "notes": [
+    "The German pronunciation in IPA is dropped."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Operation Bodenplatte",
+    "rev": 1377486446,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Operation Bodenplatte (German: [ˈboːdn̩ˌplatə]; \"Baseplate\"), launched on 1 January 1945, was an attempt by the German Luftwaffe to cripple Allied air forces in the Low Countries during the Second World War. The goal of Bodenplatte was to gain air superiority during the stagnant stage of the Battle of the Bulge so that the German Army and Waffen-SS forces could resume their advance. The operation was planned for 16 December 1944, but was delayed repeatedly due to bad weather until New Year's Day, the first day that happened to be suitable. It resulted in the destruction of almost 500 Allied airplanes.",
+     "Secrecy for the operation was so tight that not all German ground and naval forces had been informed of the operation and some units suffered casualties from friendly fire. British signals intelligence recorded the movement and buildup of German air forces in the region, but did not realise that an operation was imminent."
+    ]
+   },
+   "records": [
+    "Q835881"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Operation Greif": {
+   "headline": "Operacija Greif",
+   "paragraphs": [
+    "Operacija Greif (nemško: Unternehmen Greif, »grifon«) je bila posebna operacija pod poveljstvom komandosa Waffen-SS Otta Skorzenyja med bitko v Ardenih v drugi svetovni vojni. Zamislil si jo je Adolf Hitler, njen namen pa je bil zavzeti enega ali več mostov čez reko Mozo, preden bi jih uničili. Nemški vojaki, oblečeni v zaplenjene uniforme britanske in ameriške vojske in z zaplenjenimi zavezniškimi vozili, naj bi povzročali zmedo v zaledju zavezniških črt.",
+    "Pomanjkanje vozil, uniform in opreme je operacijo omejilo in nikoli ni dosegla prvotnega cilja, zavarovanja mostov čez Mozo. Skorzenyjevo povojno sojenje je postavilo precedens, ki je pojasnil 4. člen ženevske konvencije: ker so nemški vojaki pred začetkom boja slekli zavezniške uniforme, jih ni bilo mogoče šteti za franc-tireurje (neregularne borce). Isto ime je imela že prejšnja nacistična vojaška operacija, in sicer protipartizanska operacija nemške vojske, začeta 14. avgusta 1942 v okolici Orše in Vitebska v Sovjetski zvezi."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Operation Greif",
+    "rev": 1373991088,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Operation Greif (English: Griffin; German: Unternehmen Greif) was a special operation commanded by Waffen-SS commando Otto Skorzeny during the Battle of the Bulge in World War II. The operation was the brainchild of Adolf Hitler, and its purpose was to capture one or more of the bridges over the Meuse River before they could be destroyed. German soldiers, wearing captured British and U.S. Army uniforms and using captured Allied vehicles, were to cause confusion in the rear of the Allied lines.",
+     "A lack of vehicles, uniforms, and equipment limited the operation and it never achieved its original aim of securing the Meuse bridges. Skorzeny's post-war trial set a precedent clarifying article 4 of the Geneva Convention: as the German soldiers removed the Allied uniforms before engaging in combat, they were not to be considered francs-tireurs. There was an earlier Nazi military operation that used this name, namely an anti-partisan operation conducted by the German Army, begun on 14 August 1942, in the vicinity of Orsha and Vitebsk in the Soviet Union."
+    ]
+   },
+   "records": [
+    "Q167002"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Operation Michael": {
+   "paragraphs": [
+    "Operacija Michael (nemško: Unternehmen Michael) je bila velika nemška vojaška ofenziva v prvi svetovni vojni, s katero se je 21. marca 1918 začela nemška pomladanska ofenziva. Začela se je s Hindenburgove linije v okolici Saint-Quentina v Franciji. Njen cilj je bil prebiti zavezniške (antantne) črte, prodreti proti severozahodu in zavzeti pristanišča ob Rokavskem prelivu, ki so oskrbovala britansko ekspedicijsko silo (BEF), ter BEF pognati v morje, vse to, preden bi Američani prispeli v polnem številu in obrnili potek vojne. Dva dni pozneje je general Erich Ludendorff, načelnik nemškega generalštaba, načrt prilagodil in se zavzel za ofenzivo naravnost proti zahodu, vzdolž vse britanske fronte severno od reke Somme. Tako naj bi najprej ločili francosko in britansko vojsko, nato pa nadaljevali s prvotnim načrtom, da BEF poženejo v morje. Ofenziva se je končala pri Villers-Bretonneuxu vzhodno od zavezniškega prometnega središča Amiens, kjer so zavezniki ustavili nemško prodiranje; nemška vojska je utrpela velike izgube in prodirajočih čet ni mogla več oskrbovati."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Operation Michael",
+    "rev": 1370693789,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Operation Michael (German: Unternehmen Michael) was a major German military offensive during World War I that began the German spring offensive on 21 March 1918. It was launched from the Hindenburg Line, in the vicinity of Saint-Quentin, France. Its goal was to break through the Allied (Entente) lines and advance in a north-westerly direction to seize the Channel Ports, which supplied the British Expeditionary Force (BEF), and to drive the BEF into the sea, all before the Americans could arrive in full numbers to turn the tide of the war. Two days later, General Erich Ludendorff, the chief of the German General Staff, adjusted his plan and pushed for an offensive due west, along the whole of the British front north of the River Somme. This was designed to first separate the French and British Armies before continuing with the original concept of pushing the BEF into the sea. The offensive ended at Villers-Bretonneux, to the east of the Allied communications centre at Amiens, where the Allies managed to halt the German advance; the German Army had suffered many casualties and was unable to maintain supplies to the advancing troops."
+    ]
+   },
+   "records": [
+    "Q152008"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Operation Northwind (1944)": {
+   "headline": "Operacija Nordwind",
+   "paragraphs": [
+    "Operacija Nordwind (nemško: Unternehmen Nordwind) je bila zadnja velika nemška ofenziva druge svetovne vojne na zahodni fronti. Začeli so jo v podporo nemški ofenzivi v Ardenih (bitki v Ardenih), ki se je do konca decembra 1944 odločilno obrnila proti Nemcem. Začela se je 31. decembra 1944 v Porenju-Pfalškem, Alzaciji in Loreni na jugozahodu Nemčije in severovzhodu Francije, končala pa 25. januarja 1945. Nemška ofenziva je bila operativni neuspeh, saj ni dosegla glavnih ciljev, s tem pa je bila odprta pot zavezniški invaziji na Nemčijo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Operation Northwind (1944)",
+    "rev": 1376837722,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Operation Northwind (German: Unternehmen Nordwind) was the last major German offensive of World War II on the Western Front. Northwind was launched to support the German Ardennes offensive campaign in the Battle of the Bulge, which by late December 1944 had decisively turned against the German forces. It began on 31 December 1944 in Rhineland-Palatinate, Alsace and Lorraine in southwestern Germany and northeastern France, and ended on 25 January 1945. The German offensive was an operational failure, with its main objectives not achieved, clearing the way for the Allied invasion of Germany."
+    ]
+   },
+   "records": [
+    "Q327044"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Operation Tonga": {
+   "headline": "Operacija Tonga",
+   "paragraphs": [
+    "Operacija Tonga je bila zračnoprevozna operacija britanske 6. zračnoprevozne divizije med 5. in 7. junijem 1944, del operacije Overlord in izkrcanja na dan D med drugo svetovno vojno; Tonga je bilo njeno kodno ime."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Operation Tonga",
+    "rev": 1380937303,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Operation Tonga was the codename given to the airborne operation undertaken by the British 6th Airborne Division between 5 June and 7 June 1944 as a part of Operation Overlord and the D-Day landings during the Second World War."
+    ]
+   },
+   "records": [
+    "Q1756029"
+   ],
+   "translated": "2026-10-23"
+  },
   "Pallars Jussà": {
    "paragraphs": [
     "Pallars Jussà je comarca (okraj) v pokrajini Alt Pirineu v Kataloniji v Španiji. Kot comarca je bila ustanovljena leta 1936 iz dela stare grofije Pallars. Ime je arhaizem in pomeni »spodnji Pallars«; severovzhodno od nje, v gorah, leži Pallars Sobirà. Glavno mesto in največja občina je Tremp."
@@ -10008,6 +10269,170 @@
    ],
    "translated": "2026-10-23"
   },
+  "Paris Agreement": {
+   "paragraphs": [
+    "Pariški sporazum (imenovan tudi pariški podnebni sporazum) je mednarodna pogodba o podnebnih spremembah, podpisana leta 2016. Pogodba zajema blaženje podnebnih sprememb, prilagajanje nanje in financiranje. Izpogajalo jo je 196 pogodbenic na konferenci Združenih narodov o podnebnih spremembah leta 2015 blizu Pariza v Franciji. Januarja 2026 je bilo pogodbenic sporazuma 194 članic Okvirne konvencije Združenih narodov o spremembi podnebja (UNFCCC). Med tremi državami članicami UNFCCC, ki sporazuma niso ratificirale, je edini večji vir izpustov Iran. Združene države, drugi največji vir izpustov, so iz sporazuma izstopile leta 2020, se mu znova pridružile leta 2021 in leta 2026 znova izstopile.",
+    "Dolgoročni temperaturni cilj Pariškega sporazuma je omejiti dvig povprečne temperature površja Zemlje na precej manj kot 2 °C nad predindustrijsko ravnjo. Pogodba navaja tudi, da naj bi bila meja dviga po možnosti le 1,5 °C. Meji sta opredeljeni kot povprečji svetovne temperature, merjene v dvajsetih letih."
+   ],
+   "notes": [
+    "The Fahrenheit conversions are dropped."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Paris Agreement",
+    "rev": 1381559793,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Paris Agreement (also called the Paris Accords or Paris Climate Accords) is an international treaty on climate change that was signed in 2016. The treaty covers climate change mitigation, adaptation, and finance. The Paris Agreement was negotiated by 196 parties at the 2015 United Nations Climate Change Conference near Paris, France. As of January 2026, 194 members of the United Nations Framework Convention on Climate Change (UNFCCC) are parties to the agreement. Of the three UNFCCC member states which have not ratified the agreement, the only major emitter is Iran. The United States, the second largest emitter, withdrew from the agreement in 2020, rejoined in 2021, and withdrew again in 2026.",
+     "The Paris Agreement has a long-term temperature goal which is to keep the rise in global surface temperature to well below 2 °C (3.6 °F) above pre-industrial levels. The treaty also states that preferably the limit of the increase should only be 1.5 °C (2.7 °F). These limits are defined as averages of the global temperature measured over twenty years."
+    ]
+   },
+   "records": [
+    "Q21707860"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Paris Convention for the Protection of Industrial Property": {
+   "headline": "Pariška konvencija za varstvo industrijske lastnine",
+   "paragraphs": [
+    "Pariška konvencija za varstvo industrijske lastnine, podpisana 20. marca 1883 v Parizu v Franciji, je ena prvih pogodb o intelektualni lastnini. Ustanovila je Unijo za varstvo industrijske lastnine. Konvencija še velja, njene vsebinske določbe pa spadajo v tri glavne skupine: nacionalno obravnavo, prednostno pravico in skupna pravila."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Paris Convention for the Protection of Industrial Property",
+    "rev": 1380977728,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Paris Convention for the Protection of Industrial Property, signed in Paris, France, on 20 March 1883, is one of the first intellectual property treaties. It established a Union for the protection of industrial property. The convention is in force, with the substantive provisions of the Convention falling into three main categories: national treatment, priority right and common rules."
+    ]
+   },
+   "records": [
+    "Q183080"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Paris Declaration Respecting Maritime Law": {
+   "headline": "Pariška deklaracija o pomorskem pravu",
+   "paragraphs": [
+    "Pariška deklaracija o pomorskem pravu z dne 16. aprila 1856 je bila mednarodna večstranska pogodba, ki so jo sprejele vojskujoče se strani v krimski vojni, zbrane na pariškem kongresu, potem ko je bil marca 1856 podpisan pariški mir. Kot pomembna novost v mednarodnem pravu je pogodba prvič omogočila, da so države, ki niso sodelovale pri oblikovanju sporazuma in ga niso podpisale, pozneje postale pogodbenice s pristopom k deklaraciji. To je storilo skupno 55 držav, kar bi bilo sicer v tako kratkem času nemogoče. To je bil velik korak v globalizaciji mednarodnega prava."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Paris Declaration Respecting Maritime Law",
+    "rev": 1376163799,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Paris Declaration Respecting Maritime Law of 16 April 1856 was an international multilateral treaty agreed to by the warring parties in the Crimean War gathered at the Congress at Paris after the peace treaty of Paris had been signed in March 1856. As an important juridical novelty in international law, the treaty for the first time created the possibility for nations that were not involved in the establishment of the agreement and did not sign, to become a party by acceding the declaration afterwards. So did altogether 55 nations, which otherwise would have been impossible in such a short period. This represented a large step in the globalisation of international law."
+    ]
+   },
+   "records": [
+    "Q684311"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Paris Peace Accords": {
+   "headline": "Pariški mirovni sporazumi (1973)",
+   "paragraphs": [
+    "Pariški mirovni sporazumi (vietnamsko: Hiệp định Paris về Việt Nam, dobesedno »Pariški sporazum o Vietnamu«), uradno Sporazum o končanju vojne in ponovni vzpostavitvi miru v Vietnamu (Hiệp định về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam), so bili mirovni sporazum, podpisan 27. januarja 1973, da bi vzpostavili mir v Vietnamu in končali vietnamsko vojno. Sestavljali so ga glavna pogodba in spremljajoče priloge. Združene države Amerike so sporazum 13. maja 1974 registrirale pri Sekretariatu Združenih narodov. Vpisan je v Zbirko pogodb Združenih narodov (UNTS) v zvezku 935 pod številko 13295. Sporazum je začel veljati ob podpisu in je vključeval premirje, ki naj bi začelo veljati 27. januarja ob 24.00 po greenwiškem času. Podpisali so ga Demokratična republika Vietnam (Severni Vietnam), Republika Vietnam (Južni Vietnam), začasna revolucionarna vlada (PRG) in Združene države. PRG je zastopala Vietkong (VC, NLF), južnovietnamsko opozicijsko gibanje, ki ga je dejansko nadzoroval sever. Ameriške kopenske sile so se iz Vietnama začele umikati leta 1969, do začetka leta 1972 pa so bile preostale enote le še malo vpletene v boje. Zadnji ameriški pehotni bataljoni so se umaknili avgusta 1972. Do takrat je iz Južnega Vietnama odšla tudi večina letalskih in pomorskih sil ter večina svetovalcev, čeprav so imele letalske in pomorske sile, ki niso bile nameščene v Južnem Vietnamu, v vojni še vedno simbolno vlogo. Pariški sporazum je odstranil preostale ameriške sile in neposredno ameriško vojaško posredovanje se je končalo. Boji med tremi preostalimi silami se 28. januarja niso ustavili niti za uro. Sporazum ni bil formalno označen kot pogodba in predsednik Nixon senata ZDA ni prosil za ratifikacijo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Paris Peace Accords",
+    "rev": 1378154575,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Paris Peace Accords (Vietnamese: Hiệp định Paris về Việt Nam, lit. 'Paris Treaty about Vietnam'), officially the Agreement on ending the war and restoring peace in Viet-Nam (Hiệp định về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam), was a peace agreement signed on 27 January 1973 to establish peace in Vietnam and end the Vietnam War. It included a main treaty and accompanying annexes. The agreement was registered by the United States of America on May 13, 1974, with the United Nations Secretariat. It is recorded in the United Nations Treaty Series (UNTS) under Volume 935, Treaty No.13295. The agreement entered into force upon signature and included a cease-fire, which was scheduled to take effect at 24:00 GMT on 27 January. The agreement was signed by the Democratic Republic of Vietnam (North Vietnam), the Republic of Vietnam (South Vietnam), the Provisional Revolutionary Government (PRG), and the United States. The PRG represented the Viet Cong (VC, NLF), a South Vietnamese opposition movement de facto controlled by the North. US ground forces had begun to withdraw from Vietnam in 1969, and by the beginning of 1972 those that remained had very little involvement in combat. The last American infantry battalions withdrew in August 1972. Most air and naval forces, and most advisers, also were gone from South Vietnam by that time, though air and naval forces not based in South Vietnam were still playing a symbolic role in the war. The Paris Agreement removed the remaining US forces, and direct US military intervention ended. Fighting between the three remaining powers did not stop on 28 January, even for an hour. The agreement was not formally designated a treaty, and President Nixon did not ask the US Senate to ratify it."
+    ]
+   },
+   "records": [
+    "Q696802"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Peace of Alès": {
+   "headline": "Mir iz Alèsa",
+   "paragraphs": [
+    "Mir iz Alaisa, znan tudi kot edikt iz Alèsa ali edikt milosti, je bil pogodba, ki jo je kardinal Richelieu izpogajal z voditelji hugenotov, francoski kralj Ludvik XIII. pa jo je podpisal 28. junija 1629. Potrdil je temeljna verska načela nantskega edikta, razlikoval pa se je po dodatnih določilih, po katerih hugenoti niso imeli več političnih pravic in so morali takoj predati vsa mesta in utrdbe.",
+    "Z njim so se končale verske vojne, saj je hugenotom podelil amnestijo in jim zagotovil strpnost. Ni pa trajal večno: Ludvik XIV. je pozneje znova začel preganjati protestante, kar je doseglo vrhunec s preklicem nantskega edikta leta 1685."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Peace of Alès",
+    "rev": 1336775771,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Peace of Alais, also known as the Edict of Alès or the Edict of Grace, was a treaty negotiated by Cardinal Richelieu with Huguenot leaders and signed by King Louis XIII of France on 28 June 1629. It confirmed the basic religious principles of the Edict of Nantes but differed in that it contained additional clauses that stated that the Huguenots no longer had political rights and further demanded for them to relinquish all cities and fortresses immediately.",
+     "It ended the religious warring by granting the Huguenots amnesty and guaranteed them tolerance. It did not last permanently, though, as Louis XIV would later resume the persecution of Protestants, culminating in the Revocation of the Edict of Nantes in 1685."
+    ]
+   },
+   "records": [
+    "Q1533027"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Peace of Paris (1783)": {
+   "headline": "Pariški mir (1783)",
+   "paragraphs": [
+    "Pariški mir iz leta 1783 je bil sklop pogodb, ki so končale ameriško vojno za neodvisnost. Predstavniki britanskega kralja Jurija III. so 3. septembra 1783 v Parizu podpisali pogodbo s predstavniki Združenih držav Amerike – navadno znano kot pariška pogodba (1783) –, v Versaillesu pa dve pogodbi s predstavniki francoskega kralja Ludvika XVI. in španskega kralja Karla III. – navadno znani kot versajski pogodbi (1783). Dan prej je bila podpisana predhodna pogodba s predstavniki generalnih stanov Nizozemske republike, končna pogodba, ki je končala četrto angleško-nizozemsko vojno, pa je bila podpisana šele 20. maja 1784."
+   ],
+   "notes": [
+    "The closing clause \"for convenience, however, it is included in the summaries below\" refers to sections of the English article that the drawer does not show, so it is dropped."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Peace of Paris (1783)",
+    "rev": 1372456102,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Peace of Paris of 1783 was the set of treaties that ended the American Revolutionary War. On 3 September 1783, representatives of King George III of Great Britain signed a treaty in Paris with representatives of the United States of America—commonly known as the Treaty of Paris (1783)—and two treaties at Versailles with representatives of King Louis XVI of France and King Charles III of Spain—commonly known as the Treaties of Versailles (1783). The previous day, a preliminary treaty had been signed with representatives of the States General of the Dutch Republic, but the final treaty which ended the Fourth Anglo-Dutch War was not signed until 20 May 1784; for convenience, however, it is included in the summaries below."
+    ]
+   },
+   "records": [
+    "Q3776326"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Peace of Ryswick": {
+   "paragraphs": [
+    "Mir iz Rijswijka (Ryswick) je bil niz pogodb, podpisanih v nizozemskem mestu Rijswijk med 20. septembrom in 30. oktobrom 1697. Končale so devetletno vojno (1688–1697) med Francijo in veliko alianso, v kateri so bile Nizozemska republika, Sveto rimsko cesarstvo, Anglija, Škotska in Španija.",
+    "V tej vojni, eni od vrste vojn, ki jih je francoski kralj Ludvik XIV. bojeval med letoma 1666 in 1714, nobena stran ni dosegla pomembnejših ozemeljskih pridobitev. Do leta 1695 sta zaradi ogromnih finančnih stroškov, razširjene lakote in gospodarskih pretresov obe strani potrebovali mir. Pogajanja je zavleklo vprašanje, kdo bo podedoval Špansko cesarstvo od brezdetnega in neozdravljivo bolnega španskega kralja Karla II.; najbližja dediča sta bila Ludvik in cesar Leopold I.",
+    "Ker Ludvik ni mogel vsiliti rešitve, ki bi mu bila najljubša, se o vprašanju ni hotel pogovarjati, Leopold pa brez njegove vključitve ni hotel podpisati. Nazadnje je to zelo nerad storil 30. oktobra 1697, vendar je mir na splošno veljal za premirje; Karlova smrt leta 1700 je privedla do vojne za špansko nasledstvo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Peace of Ryswick",
+    "rev": 1378458651,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Peace of Ryswick, or Rijswijk, were a series of treaties signed in the Dutch city of Rijswijk between 20 September and 30 October 1697. They ended the 1688 to 1697 Nine Years' War between France and the Grand Alliance, which included the Dutch Republic, the Holy Roman Empire, England, Scotland, and Spain.",
+     "One of a series of wars fought by Louis XIV of France between 1666 and 1714, neither side was able to make significant territorial gains. By 1695, the huge financial costs, coupled with widespread famine and economic dislocation, meant both sides needed peace. Negotiations were delayed by the question of who would inherit the Spanish Empire from the childless and terminally ill Charles II of Spain, the closest heirs being Louis and Emperor Leopold I.",
+     "Since Louis could not impose his preferred solution, he refused to discuss the issue, while Leopold refused to sign without its inclusion. He finally did so with great reluctance on 30 October 1697, but the Peace was generally viewed as a truce; Charles' death in 1700 led to the War of the Spanish Succession."
+    ]
+   },
+   "records": [
+    "Q164393"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Peace of Vervins": {
+   "headline": "Mir v Vervinsu",
+   "paragraphs": [
+    "Mir v Vervinsu ali pogodbo iz Vervinsa so 2. maja 1598 v mestecu Vervins v Pikardiji na severu Francije, blizu ozemlja Habsburške Nizozemske, podpisali predstavniki francoskega kralja Henrika IV. in španskega kralja Filipa II. pod okriljem legatov papeža Klemena VIII."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Peace of Vervins",
+    "rev": 1376676922,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Peace of Vervins or Treaty of Vervins was signed between the representatives of Henry IV of France and Philip II of Spain under the auspices of the papal legates of Clement VIII, on 2 May 1598 at the small town of Vervins in Picardy, northern France, close to the territory of the Habsburg Netherlands."
+    ]
+   },
+   "records": [
+    "Q1188688"
+   ],
+   "translated": "2026-10-23"
+  },
   "Pilgrimage of Grace": {
    "paragraphs": [
     "Romanje Milosti je bilo angleški katoliški ljudski upor, ki se je začel oktobra 1536 v Yorkshiru in se nato razširil na druge dele severne Anglije, med njimi Cumberland, Northumberland, Durham in severni Lancashire. Protesti so potekali pod vodstvom Roberta Aska. Romanje, »najresnejši od vseh uporov tudorskega obdobja«, je bilo upor proti razkolu kralja Henrika VIII. s katoliško Cerkvijo, razpustitvi manjših samostanov in politiki kraljevega prvega ministra Thomasa Cromwella ter drugim posebnim političnim, družbenim in gospodarskim težavam.",
@@ -10048,6 +10473,27 @@
    },
    "records": [
     "Q2095499"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Plombières Agreement": {
+   "headline": "Dogovor iz Plombièresa",
+   "paragraphs": [
+    "Dogovor iz Plombièresa (italijansko: Accordi di Plombières; francosko: Entrevue de Plombières) z dne 21. julija 1858 je bil tajni ustni dogovor, ki sta ga v Plombières-les-Bainsu sklenila predsednik vlade Piemonta-Sardinije Camillo Benso, grof Cavour, in francoski cesar Napoleon III. Nekateri starejši angleški viri ga imenujejo pogodba iz Plombièresa. Danes ga imenujejo zgolj »dogovor«, saj ni bilo nič podpisano.",
+    "Ker je dokazov malo, so se o podrobnostih dogovora na srečanju pojavljali spori, z leti pa je postalo jasno, da je dogovor odprl pot francosko-piemontskemu vojaškemu zavezništvu 28. januarja 1859 in drugi italijanski vojni za neodvisnost, ki je bila ključen korak k združitvi Italije, dosegli pa so jo v desetletju po dogovoru."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Plombières Agreement",
+    "rev": 1379015133,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Plombières Agreement (Italian: Accordi di Plombières; French: Entrevue de Plombières) of 21 July 1858 was a secret verbal agreement that took place at Plombières-les-Bains between the chief minister of Piedmont-Sardinia, Camillo Benso, Count of Cavour, and the French Emperor, Napoleon III. Some older English sources refer to it as the Treaty of Plombières. In modern times, it is merely referred to as an \"agreement\", since nothing was signed.",
+     "Based on limited available evidence, there have been disputes on the details of what was agreed upon at the meeting, but as years passed it became apparent that the agreement had opened the way for the Franco-Piedmontese military alliance, on 28 January 1859, and for the Second Italian War of Independence that became a vital step towards Italian unification, which was achieved within a decade of the agreement."
+    ]
+   },
+   "records": [
+    "Q978331"
    ],
    "translated": "2026-10-23"
   },
@@ -10178,6 +10624,27 @@
    ],
    "translated": "2026-10-23"
   },
+  "Race to the Sea": {
+   "paragraphs": [
+    "Dirka do morja (francosko: Course à la mer; nemško: Wettlauf zum Meer, nizozemsko: Race naar de Zee) je potekala od 17. septembra do 19. oktobra 1914 med prvo svetovno vojno, po bitki za meje (7. avgusta – 13. septembra) in nemškem prodoru v Francijo. Invazijo so ustavili v prvi bitki na Marni (5.–12. septembra), nato pa je sledila prva bitka na Aisni (13.–28. septembra), francosko-britanska protiofenziva. Izraz opisuje vzajemne poskuse francosko-britanske in nemške vojske, da bi prek pokrajin Pikardija, Artois in Flandrija obkolili severno krilo nasprotne vojske, ne pa poskusa prodreti proti severu do morja. »Dirka« se je končala na belgijski obali Severnega morja okoli 19. oktobra, ko so zadnje odprto območje od Diksmuideja do Severnega morja zasedle belgijske čete, ki so se umaknile po obleganju Antwerpna (28. septembra – 10. oktobra). Poskusi obhoda so privedli do več srečanjskih bitk, a nobena stran ni dosegla odločilne zmage."
+   ],
+   "notes": [
+    "The glossary name Dirka do morja is now used in the other Western Front summaries too (they first said »tek k morju«)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Race to the Sea",
+    "rev": 1370705470,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Race to the Sea (French: Course à la mer; German: Wettlauf zum Meer, Dutch: Race naar de Zee) took place from 17 September to 19 October 1914 during the First World War, after the Battle of the Frontiers (7 August – 13 September) and the German advance into France. The invasion had been stopped at the First Battle of the Marne (5–12 September) and was followed by the First Battle of the Aisne (13–28 September), a Franco-British counter-offensive. The term describes reciprocal attempts by the Franco-British and German armies to envelop the northern flank of the opposing army through the provinces of Picardy, Artois and Flanders, rather than an attempt to advance northwards to the sea. The \"race\" ended on the North Sea coast of Belgium around 19 October, when the last open area from Diksmuide to the North Sea was occupied by Belgian troops who had retreated after the Siege of Antwerp (28 September – 10 October). The outflanking attempts had resulted in a number of encounter battles but neither side was able to gain a decisive victory."
+    ]
+   },
+   "records": [
+    "Q250747"
+   ],
+   "translated": "2026-10-23"
+  },
   "Raid on the Medway": {
    "headline": "Napad na Medway",
    "paragraphs": [
@@ -10262,6 +10729,28 @@
    ],
    "translated": "2026-10-23"
   },
+  "Reparations Agreement between Israel and the Federal Republic of Germany": {
+   "headline": "Sporazum o reparacijah med Izraelom in Zvezno republiko Nemčijo",
+   "paragraphs": [
+    "Sporazum o reparacijah med Izraelom in Zvezno republiko Nemčijo (nemško: Luxemburger Abkommen, dobesedno »luksemburški sporazum«, ali Wiedergutmachungsabkommen, »sporazum o poravnavi«; hebrejsko: הסכם השילומים, »sporazum o reparacijah«) je bil podpisan 10. septembra 1952 in je začel veljati 27. marca 1953. Po sporazumu naj bi Zahodna Nemčija Izraelu plačala stroške za »ponovno naselitev tako velikega števila izkoreninjenih in obubožanih judovskih beguncev« po vojni ter prek Konference o judovskih materialnih zahtevkih proti Nemčiji odškodovala posamezne Jude za izgubo preživetja in premoženja zaradi nacističnega preganjanja."
+   ],
+   "notes": [
+    "The Hebrew romanization is dropped; the Hebrew script is kept."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Reparations Agreement between Israel and the Federal Republic of Germany",
+    "rev": 1380118037,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Reparations Agreement between Israel and the Federal Republic of Germany (German: Luxemburger Abkommen, lit. 'Luxembourg Agreement', or Wiedergutmachungsabkommen, 'Wiedergutmachung Agreement'; Hebrew: הסכם השילומים, romanized: Heskem HaShillumim, lit. 'Reparations Agreement') was signed on September 10, 1952, and entered in force on March 27, 1953. According to the Agreement, West Germany was to pay Israel for the costs of \"resettling so great a number of uprooted and destitute Jewish refugees\" after the war, and to compensate individual Jews, via the Conference on Jewish Material Claims Against Germany, for losses in Jewish livelihood and property resulting from Nazi persecution."
+    ]
+   },
+   "records": [
+    "Q660521"
+   ],
+   "translated": "2026-10-23"
+  },
   "Republic of Pisa": {
    "paragraphs": [
     "Pisanska republika (italijansko: Repubblica di Pisa) je bila samostojna država od 11. do 15. stoletja s središčem v toskanskem mestu Pisa. Postala je gospodarska velesila, trgovsko središče, katerega trgovci so stoletje obvladovali sredozemsko in italijansko trgovino, preden jo je presegla in nadomestila Genovska republika.",
@@ -10343,6 +10832,26 @@
    ],
    "translated": "2026-10-23"
   },
+  "Rotterdam Convention": {
+   "paragraphs": [
+    "Rotterdamska konvencija (uradno Rotterdamska konvencija o postopku soglasja po predhodnem obveščanju za nekatere nevarne kemikalije in pesticide v mednarodni trgovini) je večstranska pogodba, ki spodbuja deljeno odgovornost pri uvozu nevarnih kemikalij. Konvencija spodbuja odprto izmenjavo informacij in od izvoznikov nevarnih kemikalij zahteva ustrezno označevanje, navodila za varno ravnanje in obveščanje kupcev o znanih omejitvah ali prepovedih. Države podpisnice lahko odločijo, ali bodo uvoz kemikalij s seznama pogodbe dovolile ali prepovedale, države izvoznice pa morajo zagotoviti, da proizvajalci pod njihovo pristojnostjo to spoštujejo.",
+    "Leta 2012 so se sekretariata baselske in stockholmske konvencije ter del sekretariata rotterdamske konvencije pri UNEP združili v enoten sekretariat z matrično strukturo, ki služi vsem trem konvencijam. Tri konvencije zdaj v okviru skupnih sinergijskih odločitev zaporedno izvajajo konference pogodbenic."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Rotterdam Convention",
+    "rev": 1273860536,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Rotterdam Convention (formally, the Rotterdam Convention on the Prior Informed Consent Procedure for Certain Hazardous Chemicals and Pesticides in International Trade) is a multilateral treaty to promote shared responsibilities in relation to importation of hazardous chemicals. The convention promotes open exchange of information and calls on exporters of hazardous chemicals to use proper labeling, include directions on safe handling, and inform purchasers of any known restrictions or bans. Signatory nations can decide whether to allow or ban the importation of chemicals listed in the treaty, and exporting countries are obliged to make sure that producers within their jurisdiction comply.",
+     "In 2012, the Secretariats of the Basel and Stockholm conventions, as well as the UNEP-part of the Rotterdam Convention Secretariat, merged to a single Secretariat with a matrix structure serving the three conventions. The three conventions now hold back to back Conferences of the Parties as part of their joint synergies decisions."
+    ]
+   },
+   "records": [
+    "Q94947"
+   ],
+   "translated": "2026-10-23"
+  },
   "Roussillon": {
    "headline": "Roussillon",
    "paragraphs": [
@@ -10384,6 +10893,27 @@
    ],
    "translated": "2026-10-23"
   },
+  "Saar Treaty": {
+   "headline": "Saarska pogodba",
+   "paragraphs": [
+    "Saarska pogodba ali luksemburška pogodba (nemško: Vertrag von Luxemburg, francosko: accords de Luxembourg) je sporazum med Zahodno Nemčijo in Francijo o vrnitvi Saarskega protektorata Zahodni Nemčiji. Pogodbo sta 27. oktobra 1956 v Luxembourgu podpisala zunanja ministra Heinrich von Brentano za Zahodno Nemčijo in Christian Pineau za Francijo, potem ko je bila na referendumu o saarskem statutu 23. oktobra 1955 večina proti statutu.",
+    "Ko je deželni zbor (Landtag) razglasil pristop k Zvezni republiki Nemčiji (Zahodni Nemčiji), je bila priključitev Posarja 1. januarja 1957 dokončana. Obe strani sta se dogovorili za gospodarsko prehodno obdobje do leta 1959, v katerem je Posarje ostalo pod francoskim nadzorom."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Saar Treaty",
+    "rev": 1360503819,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Saar Treaty, or Treaty of Luxembourg (German: Vertrag von Luxemburg, French: accords de Luxembourg) is an agreement between West Germany and France concerning the return of the Saar Protectorate to West Germany. The treaty was signed in Luxembourg on 27 October 1956, by foreign ministers Heinrich von Brentano of West Germany and Christian Pineau of France, following the Saar Statute referendum on 23 October 1955, which resulted in a majority vote against the Saar Statute.",
+     "After the Landtag declared its accession to the Federal Republic of Germany (West Germany), the incorporation of the Saarland was finalised on 1 January 1957. Both involved parties agreed on an economic transition period through 1959, during which the Saarland remained under French control."
+    ]
+   },
+   "records": [
+    "Q695398"
+   ],
+   "translated": "2026-10-23"
+  },
   "Scuttling of the German fleet at Scapa Flow": {
    "headline": "Potopitev nemškega ladjevja v Scapa Flowu",
    "paragraphs": [
@@ -10402,6 +10932,25 @@
    },
    "records": [
     "Q699527"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Second Battle of Artois": {
+   "headline": "Druga bitka v Artoisu",
+   "paragraphs": [
+    "Druga bitka v Artoisu (francosko: Deuxième bataille de l'Artois, nemško: Lorettoschlacht) je potekala od 9. maja do 18. junija 1915 na zahodni fronti med prvo svetovno vojno. Leta 1914 je nastalo nemško izbočenje od Reimsa do Amiensa, ki je ogrožalo povezave med Parizom in nezasedenimi deli severne Francije. Francoski prodor proti vzhodu v Artoisu bi lahko presekal železniške proge, ki so oskrbovale nemške vojske med Arrasom in Reimsom. Po francoskih operacijah v Artoisu, Šampanji in Alzaciji novembra in decembra 1914 se je general Joseph Joffre, vrhovni poveljnik (generalissimus) in vodja glavnega stana (Grand Quartier Général, GQG), odločil nadaljevati ofenzivo v Šampanji proti južni nemški železniški oskrbovalni poti in načrtovati ofenzivo v Artoisu proti progam, ki so iz Nemčije oskrbovale nemške vojske na severu."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Second Battle of Artois",
+    "rev": 1375346442,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Second Battle of Artois (French: Deuxième bataille de l'Artois, German: Lorettoschlacht) from 9 May to 18 June 1915, took place on the Western Front during the First World War. A German-held salient from Reims to Amiens had been formed in 1914 which menaced communications between Paris and the unoccupied parts of northern France. A reciprocal French advance eastwards in Artois could cut the rail lines supplying the German armies between Arras and Reims. French operations in Artois, Champagne and Alsace from November–December 1914, led General Joseph Joffre, Generalissimo (Commander in Chief) and head of Grand Quartier Général (GQG), to continue the offensive in Champagne against the German southern rail supply route and to plan an offensive in Artois against the lines from Germany supplying the German armies in the north."
+    ]
+   },
+   "records": [
+    "Q221891"
    ],
    "translated": "2026-10-23"
   },
@@ -10426,6 +10975,43 @@
    ],
    "translated": "2026-10-23"
   },
+  "Second Battle of Champagne": {
+   "headline": "Druga bitka v Šampanji",
+   "paragraphs": [
+    "Druga bitka v Šampanji (francosko: Bataille de Champagne, nemško: Herbstschlacht, »jesenska bitka«) v prvi svetovni vojni je bila francoska ofenziva proti nemški vojski v Šampanji, ki je sovpadla s tretjo bitko v Artoisu na severu in se končala z nemško zmago."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Second Battle of Champagne",
+    "rev": 1375346763,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Second Battle of Champagne (French: Bataille de Champagne, German: Herbstschlacht, [Autumn Battle]) in the First World War was a French offensive against the German army in Champagne that coincided with the Third Battle of Artois in the north and ended in a German victory."
+    ]
+   },
+   "records": [
+    "Q548680"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Second Battle of Cholet": {
+   "paragraphs": [
+    "Druga bitka pri Choletu je potekala 17. oktobra 1793 v francoskih revolucionarnih vojnah: francoske republikanske sile pod vodstvom generalov Jeana Léchella (de iure) in Jean-Baptista Klébra (de facto) so se spopadle s francoskimi rojalističnimi silami pod vodstvom Mauricea d'Elbéeja. Bojevali so se v mestu Cholet v departmaju Maine-et-Loire v Franciji, zmagali pa so republikanci. D'Elbée je bil ranjen in ujet, pozneje pa so ga republikanske čete usmrtile v Noirmoutieru. Rojalistični upornik Charles Melchior Artus de Bonchamps je bil v bitki smrtno ranjen."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Second Battle of Cholet",
+    "rev": 1370820732,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Second Battle of Cholet was fought on 17 October 1793 during the French Revolutionary Wars, between French Republican forces under generals Jean Léchelle (de jure) and Jean-Baptiste Kléber (de facto) and French Royalist Forces under Maurice d'Elbée. The battle was fought in the town of Cholet in the Maine-et-Loire department of France, and resulted in a Republican victory. D'Elbée was wounded and captured; he was later executed by Republican troops in Noirmoutier. The Royalist insurgent, Charles Melchior Artus de Bonchamps, was fatally wounded in the battle."
+    ]
+   },
+   "records": [
+    "Q1108820"
+   ],
+   "translated": "2026-10-23"
+  },
   "Second Battle of St Albans": {
    "headline": "Druga bitka pri St Albansu",
    "paragraphs": [
@@ -10444,6 +11030,64 @@
    },
    "records": [
     "Q233416"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Second Battle of the Aisne": {
+   "headline": "Druga bitka na Aisni",
+   "paragraphs": [
+    "Druga bitka na Aisni (Bataille du Chemin des Dames ali Seconde bataille de l'Aisne, od 16. aprila do sredine maja 1917) je bila glavni del Nivellove ofenzive, francosko-britanskega poskusa, da bi nemškim vojskam v Franciji zadali odločilen poraz. Strategija antante je predvidevala ofenzive od severa proti jugu, najprej z napadom britanske ekspedicijske sile (BEF), nato pa z glavnim napadom dveh francoskih armadnih skupin na Aisni. General Robert Nivelle je ofenzivo načrtoval decembra 1916, potem ko je Josepha Joffra zamenjal na mestu vrhovnega poveljnika francoske vojske."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Second Battle of the Aisne",
+    "rev": 1375347839,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Second Battle of the Aisne (Bataille du Chemin des Dames or Seconde bataille de l'Aisne, 16 April – mid-May 1917) was the main part of the Nivelle Offensive, a Franco-British attempt to inflict a decisive defeat on the German armies in France. The Entente strategy was to conduct offensives from north to south, beginning with an attack by the British Expeditionary Force (BEF) then the main attack by two French army groups on the Aisne. General Robert Nivelle planned the offensive in December 1916, after he replaced Joseph Joffre as Commander-in-Chief of the French Army."
+    ]
+   },
+   "records": [
+    "Q1694094"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Second Battle of the Marne": {
+   "paragraphs": [
+    "Druga bitka na Marni (francosko: Seconde Bataille de la Marne; 15.–18. julija 1918) je bila zadnja velika nemška ofenziva na zahodni fronti med prvo svetovno vojno. Napad je spodletel, ko je zavezniški protinapad, ki so ga vodile francoske sile ob podpori več sto tankov Renault FT, strl Nemce na njihovem desnem krilu in jim prizadejal hude izgube. Nemški poraz je pomenil začetek neustavljivega zavezniškega prodiranja, ki se je približno 100 dni pozneje končalo s premirjem z Nemčijo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Second Battle of the Marne",
+    "rev": 1374140699,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Second Battle of the Marne (French: Seconde Bataille de la Marne; 15 – 18 July 1918) was the last major German offensive on the Western Front during the First World War. The attack failed when an Allied counterattack, led by French forces and supported by several hundred Renault FT tanks, overwhelmed the Germans on their right flank, inflicting severe casualties. The German defeat marked the start of the relentless Allied advance which culminated in an armistice with Germany about 100 days later."
+    ]
+   },
+   "records": [
+    "Q876417"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Second Battle of the Somme": {
+   "headline": "Druga bitka na Sommi",
+   "paragraphs": [
+    "Druga bitka na Sommi leta 1918 je potekala med prvo svetovno vojno na zahodni fronti od konca avgusta do začetka septembra v porečju reke Somme. Bila je del vrste uspešnih protiofenziv v odgovor na nemško pomladansko ofenzivo, ki so se začele po premoru za prerazporeditev in oskrbo.",
+    "Najpomembnejša značilnost obeh bitk na Sommi leta 1918 je bila, da je prva bitka na Sommi leta 1918 (ne gre je zamenjevati z bitko na Sommi leta 1916) s svojim neuspehom zaustavila sprva veliko nemško ofenzivo, druga pa je bila osrednji del zavezniškega prodiranja do premirja 11. novembra."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Second Battle of the Somme",
+    "rev": 1370736847,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Second Battle of the Somme of 1918 was fought during the First World War on the Western Front from late August to early September, in the basin of the River Somme. It was part of a series of successful counter-offensives in response to the German Spring Offensive, after a pause for redeployment and supply.",
+     "The most significant feature of the two 1918 Somme battles was that with the failure of the first 1918 Somme Battle (not to be confused with the 1916 Battle of the Somme) having halted what had begun as a large German offensive, the second formed the central part of the Allies' advance to the Armistice of 11 November."
+    ]
+   },
+   "records": [
+    "Q1063735"
    ],
    "translated": "2026-10-23"
   },
@@ -10608,6 +11252,25 @@
    ],
    "translated": "2026-10-23"
   },
+  "Siege of Antwerp (1914)": {
+   "headline": "Obleganje Antwerpna (1914)",
+   "paragraphs": [
+    "Obleganje Antwerpna je bilo spopad med nemško ter belgijsko, britansko in francosko vojsko okoli utrjenega mesta Antwerpen med prvo svetovno vojno. Po nemški invaziji na Belgijo avgusta 1914 so nemške čete na območju Antwerpna oblegale posadko belgijskih trdnjavskih čet, belgijsko poljsko vojsko in britansko Kraljevo pomorsko divizijo. Mesto, ki ga je obdajal obroč utrdb, znan kot narodni reduit, so nemške sile oblegale z juga in vzhoda."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Siege of Antwerp (1914)",
+    "rev": 1379909087,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The siege of Antwerp was an engagement between the German and the Belgian, British and French armies around the fortified city of Antwerp during the First World War. German troops besieged a garrison of Belgian fortress troops, the Belgian field army and the British Royal Naval Division in the Antwerp area, after the German invasion of Belgium in August 1914. The city, which was ringed by forts known as the National Redoubt, was besieged to the south and east by German forces."
+    ]
+   },
+   "records": [
+    "Q426099"
+   ],
+   "translated": "2026-10-23"
+  },
   "Siege of Badajoz (1812)": {
    "headline": "Obleganje Badajoza (1812)",
    "paragraphs": [
@@ -10688,6 +11351,144 @@
    },
    "records": [
     "Q688436"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Siege of Calais (1346–1347)": {
+   "paragraphs": [
+    "Obleganje Calaisa (4. septembra 1346 – 3. avgusta 1347) je potekalo ob koncu crécyjskega pohoda, ko je angleška vojska pod poveljstvom angleškega kralja Edvarda III. med edvardovsko fazo stoletne vojne uspešno oblegala francosko mesto Calais."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Siege of Calais (1346–1347)",
+    "rev": 1377405442,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The siege of Calais (4 September 1346 – 3 August 1347) occurred at the conclusion of the Crécy campaign, when an English army under the command of King Edward III of England successfully besieged the French town of Calais during the Edwardian phase of the Hundred Years' War."
+    ]
+   },
+   "records": [
+    "Q676340"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Siege of Calais (1558)": {
+   "paragraphs": [
+    "Francosko obleganje Calaisa v začetku leta 1558 je bilo del italijanske vojne 1551–1559 med Francijo in Anglijo ter njunimi zavezniki. Končalo se je s tem, da je Francija zavzela mesto in njegovo okolico.",
+    "Calaiško ozemlje (Pale of Calais) je bilo od leta 1347, med stoletno vojno, pod angleško oblastjo. V 1550. letih sta Angliji vladala Marija I. in njen mož, španski kralj Filip II. Ko je Kraljevina Anglija podprla špansko invazijo na Francijo, je francoski kralj Henrik II. nad Calais, ki so ga držali Angleži in ga je branil Thomas Wentworth, 2. baron Wentworth, poslal Françoisa, vojvodo Guiškega. Po prvem neuspehu sredi leta 1557 so z novim napadom angleškim silam odvzeli zunanji utrdbi Nieullay in Risbank in Calais je bil oblegan."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Siege of Calais (1558)",
+    "rev": 1370739975,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The French siege of Calais in early 1558 was part of the Italian War of 1551–1559 between France and England and their respective allies. It resulted in the seizure of the town and its dependencies by France.",
+     "The Pale of Calais had been ruled by England since 1347, during the Hundred Years' War. By the 1550s, England was ruled by Mary I and her husband Philip II of Spain. When the Kingdom of England supported a Spanish invasion of France, Henry II of France sent François, Duke of Guise, against English-held Calais, defended by Thomas Wentworth, 2nd Baron Wentworth. Following an initial failure in mid-1557, a renewed attack captured the outlying forts of Nieullay and Risbank from the English forces and Calais was besieged."
+    ]
+   },
+   "records": [
+    "Q2701253"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Siege of Calais (1940)": {
+   "paragraphs": [
+    "Obleganje Calaisa (1940) je bilo boj za pristanišče Calais med bitko za Francijo. Potekalo je hkrati z bitko za Boulogne, tik pred operacijo Dynamo, evakuacijo britanske ekspedicijske sile (BEF) prek Dunkerqua. Po francosko-britanskem protinapadu v bitki pri Arrasu (21. maja) so nemške enote zadržali v pripravljenosti, da bi odbile morebitno ponovitev protinapada 22. maja, kljub protestom generala Heinza Guderiana, poveljnika XIX. armadnega korpusa, ki je hotel hitro prodreti na sever ob obali Rokavskega preliva in zavzeti Boulogne, Calais in Dunkerque. Napad dela XIX. armadnega korpusa je bil odobren šele v noči z 21. na 22. maj ob 0.40."
+   ],
+   "notes": [
+    "12:40 a.m. is written in the 24-hour form, 0.40. The Boulogne summary gives 12:40 p.m. on 22 May for the same order; the two English articles disagree."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Siege of Calais (1940)",
+    "rev": 1370739983,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The siege of Calais (1940) was a battle for the port of Calais during the Battle of France. The siege was fought at the same time as the Battle of Boulogne, just before Operation Dynamo, the evacuation of the British Expeditionary Force (BEF) through Dunkirk. After the Franco-British counter-attack at the Battle of Arras (21 May), German units were held back to be ready to resist a resumption of the counter-attack on 22 May, despite the protests of General Heinz Guderian, the commander of the XIX Armee Korps, who wanted to rush north up the Channel coast to capture Boulogne, Calais and Dunkirk. An attack by part of the XIX Armee Korps was not authorised until 12:40 a.m. on the night of 21/22 May."
+    ]
+   },
+   "records": [
+    "Q2219890"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Siege of Compiègne": {
+   "paragraphs": [
+    "Obleganje Compiègna (1430) je vodil burgundski vojvoda Filip III., potem ko mesto Compiègne po določilih pogodbe s francoskim kraljem Karlom VII. ni hotelo prestopiti pod njegovo oblast. Obleganje je morda najbolj znano po tem, da so burgundske čete 23. maja 1430 med spopadom pred mestom ujele Ivano Orleansko, ki je spremljala armagnaško četo. Čeprav je bilo obleganje sicer politično in vojaško manj pomembno in se je nazadnje končalo z burgundskim porazom, je bilo zajetje Ivane Orleanske pomemben dogodek stoletne vojne."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Siege of Compiègne",
+    "rev": 1370740333,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The siege of Compiègne (1430) was conducted by Duke Philip III of Burgundy after the town of Compiègne had refused to transfer allegiance to him under the terms of a treaty with Charles VII of France. The siege is perhaps best known for Joan of Arc's capture by Burgundian troops while accompanying an Armagnac force during a skirmish outside the town on 23 May 1430. Although this was otherwise a minor siege, both politically and militarily, and ultimately ended in a defeat for the Burgundians, the capture of Joan of Arc was an important event of the Hundred Years' War."
+    ]
+   },
+   "records": [
+    "Q668577"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Siege of Dunkirk (1944–1945)": {
+   "headline": "Obleganje Dunkerqua (1944–1945)",
+   "paragraphs": [
+    "Obleganje Dunkerqua v drugi svetovni vojni (znano tudi kot druga bitka pri Dunkerqu) se je začelo septembra 1944, ko je 2. kanadska divizija obkolila utrjeno mesto in pristanišče Dunkerque. Obleganje je trajalo še po koncu vojne v Evropi. Nemške enote v trdnjavi so odbile izvidniške napade, in ker je bilo odprtje antwerpenskega pristanišča pomembnejše, se je poveljnik 21. armadne skupine feldmaršal Bernard Montgomery odločil, da bo Dunkerque s 1. češkoslovaško oklepno brigado le zajezil, ne pa zavzel. Trdnjava pod poveljstvom admirala Friedricha Frisiusa se je 9. maja 1945, dan po tem, ko je začela veljati predaja nacistične Nemčije, brezpogojno predala brigadnemu generalu Aloisu Liški, poveljniku češkoslovaške brigadne skupine."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Siege of Dunkirk (1944–1945)",
+    "rev": 1379326071,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The siege of Dunkirk in the Second World War (also known as the Second Battle of Dunkirk) began in September 1944, when the Second Canadian Division surrounded the fortified city and port of Dunkirk. The siege lasted until after the end of the European war in Europe. German units within the fortress withstood probing attacks and as the opening of the port of Antwerp was more important, the 21st Army Group commander, Field Marshal Bernard Montgomery, decided to contain but not capture Dunkirk with the 1st Czechoslovak Armoured Brigade. The fortress, commanded by Admiral Friedrich Frisius, eventually surrendered unconditionally to Brigadier General Alois Liška, the commander of the Czechoslovak brigade group, on 9 May 1945, a day after the surrender of Nazi Germany took effect."
+    ]
+   },
+   "records": [
+    "Q3485883"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Siege of Groningen (1672)": {
+   "headline": "Obleganje Groningna (1672)",
+   "paragraphs": [
+    "Obleganje Groningna je potekalo leta 1672 med francosko-nizozemsko vojno. Končalo se je z nizozemsko zmago, ki je münstrskemu škofu odvzela vsako upanje, da bi prodrl globlje na Nizozemsko. Poraz je münstrsko vojsko tako oslabil, da je nizozemska vojska uspešno znova osvojila velik del ozemlja, ki ga je Münster osvojil le nekaj tednov prej. Mesto Groningen vsako leto 28. avgusta praznuje zmago kot lokalni praznik.",
+    "Münstrski škof je 28. avgusta tistega leta po komaj mesec dni dolgem obleganju ukazal umik svojih čet. Ljudje so ga imenovali »Berend Bombe« zaradi pogoste uporabe bomb, izstreljenih iz topov, tedaj najsodobnejšega orožja, ki so znotraj mestnega obzidja povzročile precejšnjo škodo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Siege of Groningen (1672)",
+    "rev": 1370741646,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The siege of Groningen was a battle that took place in 1672 during the Franco-Dutch War. It was a Dutch victory that ended all hope of the Bishop of Münster to push deeper into the Netherlands. The Münster army was so weakened by the defeat that the Dutch army successfully reconquered much of the land that Münster had conquered just weeks earlier. Every year, the city of Groningen celebrates its victory as a local holiday on 28 August.",
+     "On August 28 of that year, after a siege of only a month, the Bishop of Münster ordered the withdrawal of his troops. He was popularly called “Berend Bombs” due to the frequent use of bombs fired from cannons, the most modern weaponry of the time, which caused considerable damage within the city walls."
+    ]
+   },
+   "records": [
+    "Q681814"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Siege of Harfleur": {
+   "headline": "Obleganje Harfleurja",
+   "paragraphs": [
+    "Obleganje Harfleurja (18. avgusta – 22. septembra 1415) v Normandiji v Franciji je med stoletno vojno vodila angleška vojska kralja Henrika V. Branilci Harfleurja so se Angležem predali pod dogovorjenimi pogoji in z njimi so ravnali kot z vojnimi ujetniki. Angleška vojska je takrat prvič v večjem obsegu uporabila smodniško topništvo pri obleganju velikega mestnega naselja.",
+    "Angleška vojska se je med obleganjem zaradi izgub in izbruha griže močno zmanjšala, a je krenila proti Calaisu in v pristanišču pustila posadko. Angleže so na poti prestregli in 25. oktobra so se bojevali v bitki pri Agincourtu, v kateri so Francozom zadali hud poraz."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Siege of Harfleur",
+    "rev": 1371591778,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The siege of Harfleur (18 August – 22 September 1415) was conducted by the English army of King Henry V in Normandy, France, during the Hundred Years' War. The defenders of Harfleur surrendered to the English on terms and were treated as prisoners of war. It was the first time that an English army made significant use of gunpowder artillery in the siege of a large urban settlement.",
+     "The English army was considerably reduced by casualties and an outbreak of dysentery during the siege but marched towards Calais, leaving a garrison behind at the port. The English were intercepted en route and fought the Battle of Agincourt (25 October), inflicting a huge defeat on the French."
+    ]
+   },
+   "records": [
+    "Q815148"
    ],
    "translated": "2026-10-23"
   },
