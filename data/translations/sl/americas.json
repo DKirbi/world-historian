@@ -7,6 +7,46 @@
  "reviewed": false,
  "licence": "CC BY-SA 4.0: translations of English Wikipedia text, attributed to each article and revision",
  "units": {
+  "Ais people": {
+   "headline": "Ljudstvo Ais",
+   "paragraphs": [
+    "Ais ali Ays so bili indijansko ljudstvo vzhodne Floride. Njihovo ozemlje je obsegalo obalna območja in otoke približno od rta Canaveral do reke Indian River. Poglavarstvo Ais je sestavljalo več mest, vsako s svojim poglavarjem, ki je bil podrejen vrhovnemu poglavarju Aisov; Španci so reko Indian River imenovali »reka Aisov«. Aisi so bili lovci in nabiralci, hrane pa so imeli v izobilju: jedli so ribe, želve, školjke, plodove kokosove slive, jagode palme sabal in drugo nabrano sadje.",
+    "Najboljši posamezni vir o Aisih ob koncu 17. stoletja je dnevnik Jonathana Dickinsona (Journal), v katerem opisuje njihov videz, prehrano in običaje. Dickinson in njegovi spremljevalci so doživeli brodolom in leta 1696 preživeli več tednov med Aisi. Po Dickinsonovem pričevanju je bil poglavar mesta Jece blizu današnjega Sebastiana nadrejen vsem obalnim mestom, od jaegovskega mesta Jobe (pri zalivu Jupiter Inlet) na jugu do približno rta Canaveral na severu, torej vzdolž vse reke Aisov."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Ais people",
+    "rev": 1376711974,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Ais or Ays were a Native American people of eastern Florida. Their territory included coastal areas and islands from approximately Cape Canaveral to the Indian River. The Ais chiefdom consisted of a number of towns, each led by a chief who was subordinate to the paramount chief of Ais; the Indian River was known as the \"River of Ais\" to the Spanish. The Ais were hunter-gatherers and food was plentiful. They ate fish, turtle, shellfish, cocoplums, sabal palm berries and other gathered fruits.",
+     "The best single source for information on the Ais at the end of the 17th century is Jonathan Dickinson's Journal, in which he makes observations on their appearance, diet, and customs. Dickinson and his party were shipwrecked, and spent several weeks among the Ais in 1696. By Dickinson's account, the chief of the town of Jece, near present-day Sebastian, was paramount to all of the coastal towns from the Jaega town of Jobe (at Jupiter Inlet) in the south to approximately Cape Canaveral in the north (that is, the length of the River of Ais)."
+    ]
+   },
+   "records": [
+    "malabar-culture"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Aleutian tradition": {
+   "headline": "Aleutska tradicija",
+   "paragraphs": [
+    "Aleutska tradicija je arheološka kultura, ki se je začela okoli leta 2500 pr. n. št. in končala leta 1800 n. št. Aleutski izdelki so iz odbitega kamna, za razliko od orodja iz brušenega skrilavca, ki so ga uporabljale arheološke kulture na aljaški celini. Aleuti so pozimi živeli v napol vkopanih hišah iz naplavljenega lesa, kitovih kosti in šote. S kajaki, metalci kopja in harpunami so lovili morske sesalce, s katerimi so se preživljali. Okoli leta 1150 n. št. so se aleutske hiše precej povečale, hrano so shranjevali v posebnih prostorih v hiši, okoli teh najdišč pa je bilo vse več orožja. Namesto morskih sesalcev so začeli jesti predvsem losose. Z rastjo trgovine na velike razdalje so se okrepile tudi vezi z drugimi krajevnimi skupinami."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Aleutian tradition",
+    "rev": 1357654715,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Aleutian Tradition is an archaeological culture which began around 2500 BC and ended in AD 1800. Aleutian artifacts are made out of chipped stone, unlike the ground slate tools used by archaeological cultures on the mainland of Alaska. The Aleutian people lived in semi-subterranean winter houses made from driftwood, whale bone, and peat. They used kayaks, atlatls and harpoons to kill sea mammals for sustenance. Around AD 1150, Aleutian houses increased considerably in size, food was stored in special chambers inside the house, and weaponry was becoming more common around these sites. The sustenance pattern changed from relying on sea mammals to eating mostly salmon. Long-distance trade also started increasing community with other local groups."
+    ]
+   },
+   "records": [
+    "aleutian-tradition"
+   ],
+   "translated": "2026-10-23"
+  },
   "Arctic Small Tool tradition": {
    "headline": "Arktična tradicija drobnega orodja",
    "paragraphs": [
@@ -46,6 +86,25 @@
    ],
    "translated": "2026-10-23"
   },
+  "Armstrong culture": {
+   "headline": "Kultura Armstrong",
+   "paragraphs": [
+    "Kultura Armstrong je bila hopewellska skupina, ki je od leta 1 do 500 n. št. živela v dolini reke Big Sandy na severovzhodu Kentuckyja in zahodu Zahodne Virginije."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Armstrong culture",
+    "rev": 1375453654,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Armstrong culture were a Hopewell group in the Big Sandy River Valley of Northeastern Kentucky and Western West Virginia from 1 to 500 CE."
+    ]
+   },
+   "records": [
+    "armstrong-culture"
+   ],
+   "translated": "2026-10-23"
+  },
   "Aymara lordships": {
    "headline": "Ajmarska gospostva",
    "paragraphs": [
@@ -65,6 +124,25 @@
    ],
    "translated": "2026-10-23"
   },
+  "Baytown culture": {
+   "headline": "Kultura Baytown",
+   "paragraphs": [
+    "Kultura Baytown je bila predkolumbovska indijanska kultura, ki je od leta 300 do 700 n. št. obstajala v dolini spodnjega toka Misisipija, z najdišči v vzhodnem Arkansasu, zahodnem Tennesseeju, Louisiani in zahodnem Misisipiju. Tipsko najdišče kulture je najdišče Baytown ob reki White v okrožju Monroe v Arkansasu. Spadala je v obdobje Baytown poznega gozdnega obdobja. Obstajala je hkrati z obalno kulturo Troyville in kulturo Troyville v Louisiani in Misisipiju (vse tri so se razvile iz hopewellskih ljudstev Marksville) ter s kulturo Fourche Maline, nasledila pa jo je kultura Plum Bayou. Ljudstva Baytown so gradila razpršena naselja, ljudje Troyville pa so še naprej gradili velika središča z zemeljskimi nasipi."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Baytown culture",
+    "rev": 1293689683,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Baytown culture was a Pre-Columbian Native American culture that existed from 300 to 700 CE in the lower Mississippi River Valley, consisting of sites in eastern Arkansas, western Tennessee, Louisiana, and western Mississippi. The Baytown Site on the White River in Monroe County, Arkansas is the type site for culture. It was a Baytown Period culture during the Late Woodland period. It was contemporaneous with the Coastal Troyville and Troyville cultures of Louisiana and Mississippi (all three had evolved from the Marksville Hopewellian peoples) and the Fourche Maline culture and was succeeded by the Plum Bayou culture. Where the Baytown peoples built dispersed settlements, the Troyville people instead continued building major earthwork centers."
+    ]
+   },
+   "records": [
+    "baytown-culture"
+   ],
+   "translated": "2026-10-23"
+  },
   "Bourbon Restoration in France": {
    "paragraphs": [
     "Burbonska restavracija je bilo obdobje francoske zgodovine, ko se je po padcu Napoleona Bonaparta v letih 1814 in 1815 na oblast vrnila rodbina Burbonov. V Francijo, ki jo je francoska revolucija globoko spremenila, so se vrnili izgnani privrženci monarhije. Kraljestvo, izčrpano od napoleonskih vojn, je doživelo obdobje notranjega in zunanjega miru, stabilne gospodarske blaginje in začetkov industrializacije. Restavracijo je dejansko končala julijska revolucija leta 1830, med vladavino Karla X., brata pokojnega kralja Ludvika XVI.; sledili sta ji julijska monarhija in nazadnje druga francoska republika."
@@ -80,6 +158,67 @@
    },
    "records": [
     "bourbon-kingdom-of-france"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Bracamoros": {
+   "headline": "Bracamoros",
+   "paragraphs": [
+    "Bracamoros (kečuansko: pukamuru, aguaruna: pakamuru, »poslikan obraz«; pisano tudi Pacamuros) je območje številnih izumrlih plemenskih skupin (med njimi tudi istoimenskega plemena) iz ekvadorskega in perujskega amazonskega deževnega gozda, v porečju reke Zamora (nekateri ga sicer umeščajo na območje rek Chinchipe in Marañón).",
+    "Območje je danes del nekdanje ekvadorske province Santiago Zamora (danes provinca Zamora-Chinchipe) ter perujskih provinc San Ignacio in Jaén v departmajih Cajamarca in Amazonas."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Bracamoros",
+    "rev": 1368446438,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Bracamoros (Quechua: pukamuru, Aguaruna: pakamuru, \"painted face\"; also written Pacamuros) is a region of numerous extinct tribal groups (which include a tribe of the same name) from the Ecuadorian and Peruvian Amazon rainforest, located in the watershed of the Zamora River (although it has also been identified as the region of the Chinchipe and Marañón Rivers).",
+     "The area is now part of the former Ecuadorian province of Santiago Zamora Province (today Zamora-Chinchipe Province) and the Peruvian provinces of San Ignacio and Jaén, within the departments of Cajamarca and Amazonas."
+    ]
+   },
+   "records": [
+    "bracamoros"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Caborn-Welborn culture": {
+   "headline": "Kultura Caborn-Welborn",
+   "paragraphs": [
+    "Caborn-Welborn je bila predkontaktna in protozgodovinska severnoameriška kultura, ki jo arheologi opredeljujejo kot poznomisisipijsko kulturo, ki je zrasla iz poglavarstva Angel na območju današnje južne Indiane ali se razvila na njegovih ruševinah. Nastala je okoli leta 1400 in je izginila, kot kaže, okoli leta 1700 n. št. Bila je zadnja indijanska poselitev južne Indiane pred stikom z Evropejci. Ni jasno, katera skupina iz obdobja po stiku, če sploh katera, izhaja iz nje. Verjetno so bili to Taarsite, ki so jih Francozi leta 1682 omenili ob sotočju rek Wabash in Ohio, morda predniki nekaterih ljudstev, ki govorijo dhegiške siujevske jezike, kot so Quapaw, Omaha, Ponca in Osage."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Caborn-Welborn culture",
+    "rev": 1359053235,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Caborn-Welborn was a precontact and proto-historic North American culture defined by archaeologists as a Late Mississippian cultural manifestation that grew out of – or built upon the demise of – the Angel chiefdom located in present-day southern Indiana. Caborn-Welborn developed around 1400 and seems to have disappeared around 1700 CE. The Caborn-Welborn culture was the last Native American occupation of southern Indiana prior to European contact. It remains unclear which post-contact Native group, if any, are their descendants. It's likely they were the Taarsite identified by the French in 1682 at the confluence of the Wabash and the Ohio, possibly ancestral to some portions of the Dhegihan Siouan speaking peoples, like the Quapaw, Omaha, Ponca and Osage."
+    ]
+   },
+   "records": [
+    "caborn-welborn-culture"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Caddoan Mississippian culture": {
+   "headline": "Kadojska misisipijska kultura",
+   "paragraphs": [
+    "Kadojska misisipijska kultura je bila prazgodovinska indijanska kultura, ki jo arheologi štejejo za različico misisipijske kulture. Njeni nosilci so poseljevali obsežno ozemlje, ki obsega današnjo vzhodno Oklahomo, zahodni Arkansas, severovzhodni Teksas, jugozahodni Missouri in severozahodno Louisiano v Združenih državah.",
+    "Arheološki dokazi potrjujejo, da se kultura od prazgodovine do danes ni pretrgala. Dokazano je, da so bili govorci kadojščine in sorodnih kadojskih jezikov v prazgodovini in ob prvem stiku z Evropejci neposredni predniki današnjega naroda Caddo v Oklahomi."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Caddoan Mississippian culture",
+    "rev": 1325129669,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Caddoan Mississippian culture was a prehistoric Native American culture considered by archaeologists as a variant of the Mississippian culture. The Caddoan Mississippians covered a large territory, including what is now Eastern Oklahoma, Western Arkansas, Northeast Texas, Southwest Missouri and Northwest Louisiana of the United States.",
+     "Archaeological evidence has established that the cultural continuity is unbroken from prehistory to the present. The speakers of Caddo and related Caddoan languages in prehistoric times and at first European contact have been proved to be the direct ancestors of the modern Caddo Nation of Oklahoma."
+    ]
+   },
+   "records": [
+    "caddoan-mississippian-culture"
    ],
    "translated": "2026-10-23"
   },
@@ -123,6 +262,27 @@
    ],
    "translated": "2026-10-23"
   },
+  "Caral–Supe civilization": {
+   "headline": "Civilizacija Caral–Supe",
+   "paragraphs": [
+    "Caral–Supe (znana tudi kot Caral in Norte Chico) je bila kompleksna predkolumbovska družba z do tridesetimi večjimi naselji na območju Caral na severnem osrednjem delu perujske obale. Civilizacija je cvetela med 4. in 2. tisočletjem pr. n. št.; prvo mesto, Huaricanga na območju Fortaleza, običajno datirajo okoli leta 3500 pr. n. št. Od leta 3100 pr. n. št. sta obsežna poselitev in skupna gradnja jasno vidni. To je trajalo do zatona okoli leta 1800 pr. n. št. Od začetka 21. stoletja velja za najstarejšo znano civilizacijo Novega sveta in za eno od šestih krajev, kjer je civilizacija v starem veku nastala samostojno.",
+    "Civilizacija je cvetela ob treh rekah, Fortalezi, Pativilci in Supeju, in v dolini vsake je veliko najdišč. Južneje je ob reki Huaura še več povezanih najdišč. Ime Caral–Supe izvira iz mesta Caral v dolini reke Supe, velikega in dobro raziskanega najdišča."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Caral–Supe civilization",
+    "rev": 1375529882,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Caral–Supe (also known as Caral and Norte Chico) was a complex pre-Columbian era society that included as many as thirty major population centers in what is now the Caral region of north-central coastal Peru. The civilization flourished between the 4th and 2nd millennia BCE, with the formation of the first city generally dated to around 3500 BCE, at Huaricanga, in the Fortaleza area. From 3100 BCE onward, large-scale human settlement and communal construction become clearly apparent. This lasted until a period of decline around 1800 BCE. Since the early 21st century, it has been recognized as the oldest-known civilization in the New World, and as one of the six sites where civilization separately originated in the ancient world.",
+     "This civilization flourished along three rivers, the Fortaleza, the Pativilca, and the Supe. These river valleys each have large clusters of sites. Farther south, there are several associated sites along the Huaura River. The name Caral–Supe is derived from the city of Caral in the Supe Valley, a large and well-studied site."
+    ]
+   },
+   "records": [
+    "caralsupe-civilization"
+   ],
+   "translated": "2026-10-23"
+  },
   "Centralist Republic of Mexico": {
    "paragraphs": [
     "Centralistična republika Mehika (špansko: República Centralista de México), v angleški strokovni literaturi tudi Centralna republika, uradno Mehiška republika (República Mexicana), je bila unitarna politična ureditev, ki so jo v Mehiki vzpostavili 23. oktobra 1835 z novo ustavo, imenovano Siete Leyes (»sedem zakonov«), potem ko so konservativci razveljavili federalistično ustavo iz leta 1824 in končali prvo mehiško republiko. Trajala je do leta 1846, ko so ob začetku mehiško-ameriške vojne znova uveljavili ustavo iz leta 1824.",
@@ -159,6 +319,45 @@
    },
    "records": [
     "chachapoya-culture"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Chancay culture": {
+   "headline": "Kultura Chancay",
+   "paragraphs": [
+    "Chancay je bila predšpanska arheološka civilizacija, ki se je približno od leta 1000 do 1470 n. št. razvila v dolinah Fortaleza, Pativilca, Supe, Huaura, Chancay, Chillón, Rimac in Lurín na osrednji perujski obali."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Chancay culture",
+    "rev": 1365179758,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Chancay were a pre-Hispanic archeological civilization that developed between the valleys of Fortaleza, Pativilca, Supe, Huaura, Chancay, Chillón, Rimac and Lurín, on the central coast of Peru, from about 1000 to 1470 CE."
+    ]
+   },
+   "records": [
+    "chancay-culture"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Chincha culture": {
+   "paragraphs": [
+    "Kultura Chincha (ali kultura Ica-Chincha) je bila kultura Kinhajcev, domorodnega ljudstva, ki je živelo ob Tihem oceanu na jugozahodu Peruja. Kraljestvo Chincha in njegova kultura sta cvetela v poznem vmesnem obdobju (900–1450 n. št.), imenovanem tudi obdobje regionalnih držav predkolumbovskega Peruja. Okoli leta 1480 so Kinhajci postali del Inkovskega imperija. Sloveli so kot pomorski trgovci in živeli v veliki, rodovitni oazni dolini. Z njimi je povezana arheološka razvalina La Centinela blizu današnjega mesta Chincha Alta.",
+    "Kinhajce je osvojila Španija med špansko osvojitvijo Peruja, ki se je začela leta 1532. Množično so umirali zaradi evropskih bolezni in političnega kaosa, ki je spremljal špansko invazijo in ji sledil, njihovi potomci pa v pokrajini živijo še danes."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Chincha culture",
+    "rev": 1377353501,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Chincha culture (or Ica-Chincha culture) was the culture of a Native Peruvian people living near the Pacific Ocean in southwest Peru. The Chincha Kingdom and their culture flourished in the Late Intermediate Period (900 AD–1450 AD), also known as the regional states period of pre-Columbian Peru. They became part of the Inca Empire around 1480. They were prominent as sea-going traders and lived in a large and fertile oasis valley. La Centinela is an archaeological ruin associated with the Chincha. It is located near the present-day city of Chincha Alta.",
+     "The Chincha were conquered by Spain during the Spanish conquest of Peru, which began in 1532. They died in large numbers from European diseases and the political chaos which accompanied and followed the Spanish invasion, although their modern descendants still live in the region today."
+    ]
+   },
+   "records": [
+    "chincha-culture"
    ],
    "translated": "2026-10-23"
   },
@@ -251,6 +450,27 @@
    ],
    "translated": "2026-10-23"
   },
+  "Conservative Party (Mexico)": {
+   "headline": "Konservativna stranka (Mehika)",
+   "paragraphs": [
+    "Konservativna stranka (špansko: Partido Conservador) je bila politična frakcija v Mehiki med letoma 1830 in 1867, ki je po letu 1849 postala ohlapno organizirana politična stranka. Nasprotovala ji je Liberalna stranka, s katero se je spopadla v več državljanskih vojnah.",
+    "V različnih obdobjih in okoliščinah so konservativce imenovali escoceses, centralisti, rojalisti, imperialisti ali konservativci, povezovala pa jih je predvsem težnja po ohranitvi kolonialnih španskih vrednot, pri čemer niso nasprotovali gospodarskemu razvoju in posodobitvi države. Oporo so imeli v vojski, med veleposestniki (hacendados) in v katoliški cerkvi."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Conservative Party (Mexico)",
+    "rev": 1379662118,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Conservative Party (Spanish: Partido Conservador) was a political faction in Mexico between 1830 and 1867, which became a loosely organized political party after 1849. They were opposed by, and fought several civil wars against, the Liberal Party.",
+     "At various times and under different circumstances they were known as escoceses, centralists, royalists, imperialists, or conservatives, but they tended to be united by the theme of preserving colonial Spanish values, while not being opposed to the economic development and modernization of the nation. Their base of support was the army, the hacendados, and the Catholic Church."
+    ]
+   },
+   "records": [
+    "mexican-monarchists"
+   ],
+   "translated": "2026-10-23"
+  },
   "Crown of Castile": {
    "paragraphs": [
     "Kastiljska krona, znana tudi kot krona Kastilije in Leóna, je bila srednjeveška politična tvorba na Iberskem polotoku, ki je nastala leta 1230 s tretjo in dokončno združitvijo kron, nekaj desetletij pozneje pa še parlamentov kraljestev Kastilije in Leóna, ko je tedanji kastiljski kralj Ferdinand III. zasedel izpraznjeni leonski prestol. Kot ločena enota je obstajala tudi po personalni uniji kastiljske in aragonske krone leta 1479, sklenjeni s poroko katoliških kraljev, vse do razglasitve dekretov Nueva Planta, ki jih je leta 1716 izdal Filip V."
@@ -266,6 +486,25 @@
    },
    "records": [
     "crown-of-castile"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Cundinamarca": {
+   "headline": "Cundinamarca",
+   "paragraphs": [
+    "Cundinamarca je lahko:"
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Cundinamarca",
+    "rev": 914636235,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Cundinamarca may refer to:"
+    ]
+   },
+   "records": [
+    "cundinamarca"
    ],
    "translated": "2026-10-23"
   },
@@ -325,6 +564,25 @@
    },
    "records": [
     "dorset-culture"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Ecuadorian War of Independence": {
+   "headline": "Ekvadorska osamosvojitvena vojna",
+   "paragraphs": [
+    "Ekvadorska osamosvojitvena vojna, del hispanskoameriških osamosvojitvenih vojn v začetku 19. stoletja, je od leta 1809 do 1822 potekala med Španijo in več južnoameriškimi vojskami za oblast nad Kraljevo avdienco Quito (Real Audiencia de Quito), španskim kolonialnim upravnim območjem, iz katerega je pozneje nastala sodobna Republika Ekvador. Končala se je s porazom španskih sil v bitki pri Pichinchi 24. maja 1822, s katerim so se osamosvojila vsa ozemlja Kraljeve avdience Quito."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Ecuadorian War of Independence",
+    "rev": 1380420142,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Ecuadorian War of Independence, part of the Spanish American wars of independence of the early 19th century, was fought from 1809 to 1822 between Spain and several South American armies over control of the Real Audiencia of Quito, a Spanish colonial jurisdiction which later became the modern Republic of Ecuador. The war ended with the defeat of the Spanish forces at the Battle of Pichincha on May 24, 1822, which brought about the independence of all the lands of the Real Audiencia of Quito."
+    ]
+   },
+   "records": [
+    "guayaquil-junta"
    ],
    "translated": "2026-10-23"
   },
@@ -481,6 +739,25 @@
    ],
    "translated": "2026-10-23"
   },
+  "Fremont culture": {
+   "headline": "Kultura Fremont",
+   "paragraphs": [
+    "Kultura Fremont ali ljudstvo Fremont je predkolumbovska arheološka kultura, imenovana po reki Fremont v Utahu, kjer so njena najdišča odkrila tamkajšnja domorodna ljudstva, kot sta Navahi in Juti. V navaški kulturi slikarije na skalah pripisujejo ljudem, ki so živeli pred potopom. Reka Fremont je dobila ime po ameriškem raziskovalcu Johnu C. Frémontu. Ljudstvo je od leta 1 do 1301 n. št. (pred 2000–700 leti) poseljevalo območja današnjega Utaha ter delov Nevade, Idaha, Wyominga in Kolorada. Mejilo je na ljudstva prednikov Pueblov južno od sebe in živelo približno ob istem času, a se je od njih jasno razlikovalo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Fremont culture",
+    "rev": 1381425147,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Fremont culture or Fremont people is a pre-Columbian archaeological culture named after the Fremont River in Utah, where the culture's sites were discovered by local indigenous peoples like the Navajo and Ute. In Navajo culture, the pictographs are credited to people who lived before the flood. The Fremont River itself is named for American explorer John C. Frémont. It inhabited sites in what is now Utah and parts of Nevada, Idaho, Wyoming and Colorado from AD 1 to 1301 (2,000–700 years ago). It was adjacent to, roughly contemporaneous with, but distinctly different from the Ancestral Pueblo peoples located to their south."
+    ]
+   },
+   "records": [
+    "fremont-culture"
+   ],
+   "translated": "2026-10-23"
+  },
   "French Louisiana": {
    "headline": "Francoska Louisiana",
    "paragraphs": [
@@ -560,6 +837,25 @@
    },
    "records": [
     "granadine-confederation"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Huanca": {
+   "headline": "Huanca",
+   "paragraphs": [
+    "Huanca (tudi Wanca ali Wanka) so kečuansko ljudstvo v regiji Junín v osrednjem Peruju, v dolini reke Mantaro in njeni okolici."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Huanca",
+    "rev": 1377121180,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Huancas, Wancas, or Wankas are a Quechua people living in the Junín Region of central Peru, in and around the Mantaro Valley."
+    ]
+   },
+   "records": [
+    "huanca"
    ],
    "translated": "2026-10-23"
   },
@@ -643,6 +939,25 @@
    ],
    "translated": "2026-10-23"
   },
+  "Lima culture": {
+   "headline": "Kultura Lima",
+   "paragraphs": [
+    "Kultura Lima je bila domorodna civilizacija na območju današnje Lime v Peruju v zgodnjem vmesnem obdobju, približno od leta 100 do 650. Ta predinkovska kultura, ki se prekriva s sosednjimi civilizacijami Paracas, Moche in Nazca, je živela v puščavskem obalnem pasu Peruja, v dolinah rek Chillón, Rimac in Lurín. Od sosednjih kultur jo je težko ločiti, saj leži blizu drugih, bolje dokumentiranih kultur perujske obale, časovno pa je z njimi tesno povezana, če se z njimi celo ne prekriva. Zato kultura Lima ostaja precej nejasna in o njej je treba še veliko izvedeti."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Lima culture",
+    "rev": 1365784958,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Lima culture was an indigenous civilization which existed in modern-day Lima, Peru during the Early Intermediate Period, extending from roughly 100 to 650. This pre-Incan culture, which overlaps with surrounding Paracas, Moche, and Nazca civilizations, was located in the desert coastal strip of Peru in the Chillon, Rimac and Lurin River valleys. It can be difficult to differentiate the Lima culture from surrounding cultures due to both its physical proximity to other, and better documented cultures, in Coastal Peru, and because it is chronologically very close, if not over lapped, by these other cultures as well. These factors all help contribute to the obscurity of the Lima culture, of which much information is still left to be learned."
+    ]
+   },
+   "records": [
+    "lima-culture"
+   ],
+   "translated": "2026-10-23"
+  },
   "Lucayan people": {
    "headline": "Lukajci",
    "paragraphs": [
@@ -707,6 +1022,24 @@
    ],
    "translated": "2026-10-23"
   },
+  "Mexicans": {
+   "paragraphs": [
+    "Mehičani (špansko: Mexicanos) so državljani Združenih mehiških držav. Mehiško ljudstvo je raznolikega izvora; najbolj razširjen jezik je španščina, mnogi pa govorijo tudi jezike 68 domorodnih jezikovnih skupin in druge jezike, ki so jih v Mehiko prinesli tujci ali novejši priseljenci. Leta 2020 se je za domorodce opredelilo 19,4 % mehiškega prebivalstva. Zunaj Mehike danes živi okoli 12 milijonov mehiških državljanov, od tega okoli 11,7 milijona v Združenih državah. Širša mehiška diaspora lahko zajema tudi ljudi, ki izvirajo iz Mehike in se imajo za Mehičane, nimajo pa nujno mehiškega državljanstva. Za Mehiko imajo največ mehiškega prebivalstva na svetu Združene države, leta 2024 kar 11.143.711."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Mexicans",
+    "rev": 1380583603,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Mexicans (Spanish: Mexicanos) are the citizens and nationals of the United Mexican States. The Mexican people have varied origins with the most spoken language being Spanish, but many also speak languages from 68 different Indigenous linguistic groups and other languages brought to Mexico by expatriates or recent immigration. In 2020, 19.4% of Mexico's population identified as Indigenous. There are currently about 12 million Mexican nationals residing outside Mexico, with about 11.7 million living in the United States. The larger Mexican diaspora can also include individuals that trace ancestry to Mexico and self-identify as Mexican but are not necessarily Mexican by citizenship. The United States has the largest Mexican population in the world after Mexico at 11,143,711 in 2024."
+    ]
+   },
+   "records": [
+    "mexicans"
+   ],
+   "translated": "2026-10-23"
+  },
   "Middle Archaic": {
    "headline": "Srednje arhaično obdobje",
    "paragraphs": [
@@ -747,6 +1080,449 @@
    },
    "records": [
     "mixtec-culture"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Moche culture": {
+   "paragraphs": [
+    "Močejska kultura ali civilizacija Moche, imenovana tudi zgodnja kultura Chimú ali Pre- oziroma Proto-Chimú, je cvetela v severnem Peruju približno od leta 100 do 800 n. št., v obdobju regionalnega razvoja. Prestolnica južne močejske politične skupnosti je stala blizu današnjega kraja Moche pri Trujillu v Peruju, pod močejskim vplivom pa je bilo še več drugih, morda neodvisnih območij.",
+    "Mnogi raziskovalci menijo, da Močejci politično niso bili organizirani v enoten imperij ali državo. Verjetneje so bili skupina samostojnih političnih skupnosti s skupno kulturo, o kateri pričata bogata ikonografija in monumentalna arhitektura, ki sta se ohranili do danes."
+   ],
+   "notes": [
+    "The pronunciation in IPA is left out."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Moche culture",
+    "rev": 1380295875,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Moche civilization (Spanish pronunciation: [ˈmotʃe]; alternatively, the Moche culture or the Early, Pre- or Proto-Chimú) flourished in northern Peru from about 100 to 800 AD, during the Regional Development Epoch. The capital of a Southern Moche polity was near present-day Moche, Trujillo, Peru, with several other, possibly independent, regions under Moche influence.",
+     "Many scholars contend that the Moche were not politically organized as a monolithic empire or state. Rather, they were likely a group of autonomous polities that shared a common culture, as seen in the rich iconography and monumental architecture that survives today."
+    ]
+   },
+   "records": [
+    "moche-culture"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Muisca Confederations (political units)": {
+   "paragraphs": [
+    "Muiške zveze so bile ohlapne zveze različnih muiških poglavarstev v vzhodnem andskem visokogorju današnje Kolumbije pred špansko osvojitvijo severa Južne Amerike. Te povezave, zbrane okoli glavnih poglavarstev, ki so jih priznavala manjša, niso bile ena sama, četudi ohlapna, zveza muiških poglavarstev, temveč več samostojnih regionalnih tvorb. Območje, danes imenovano Altiplano Cundiboyacense, je obsegalo današnja departmaja Boyacá in Cundinamarca ter manjše dele departmaja Santander."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Muisca Confederations (political units)",
+    "rev": 1370154869,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Muisca Confederations were loose confederations of different Muisca chiefdoms in the Eastern Andean highlands of what is today Colombia before the Spanish conquest of northern South America. These unions, centred around main chiefdoms recognised by smaller ones, were not a single, even loose, muisca confederation of chiefdoms, but multiple, independent regional entities. The area, presently called Altiplano Cundiboyacense, comprised the current departments of Boyacá, Cundinamarca and minor parts of Santander."
+    ]
+   },
+   "records": [
+    "muisca-confederations"
+   ],
+   "translated": "2026-10-23"
+  },
+  "New Granada": {
+   "headline": "Nova Granada",
+   "paragraphs": [
+    "Nova Granada je bilo ime več nekdanjih državnih tvorb na ozemlju današnje Kolumbije:",
+    "Novo kraljestvo Granada od leta 1538 do 1717,",
+    "Podkraljestvo Nova Granada od leta 1717 do 1810 in znova od leta 1816 do 1822."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "New Granada",
+    "rev": 1277098983,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "New Granada may refer to various former national denominations for the present-day country of Colombia:",
+     "New Kingdom of Granada, from 1538 to 1717",
+     "Viceroyalty of New Granada, from 1717 to 1810, re-established from 1816 to 1822"
+    ]
+   },
+   "records": [
+    "new-granada"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Omagua people": {
+   "headline": "Ljudstvo Omagua",
+   "paragraphs": [
+    "Omagua (znani tudi kot Umawa, Cambeba in Kambeba) so domorodno ljudstvo v brazilskem porečju Amazonke. Ob prvih stikih s španskimi raziskovalci v 16. stoletju je njihovo ozemlje segalo ob Amazonki od današnjega mesta Manaus navzgor do Peruja. Govorijo jezik omagua. Danes jih je malo, v poznem predkolumbovskem obdobju pa so bili številna in organizirana družba. V prvih letih kolumbovske izmenjave je njihovo število strmo upadlo, predvsem zaradi nalezljivih bolezni. V 18. stoletju so se zaradi predsodkov in rasizma, ki sta domorodna ljudstva v Braziliji in Peruju potiskala na rob, večinoma odrekli domorodni identiteti. Ko so se v 1980. letih odnosi omilili, se je njihova plemenska identiteta znova okrepila."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Omagua people",
+    "rev": 1375715605,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Omagua people (also known as the Umawa, Cambeba, and Kambeba) are an Indigenous people in Brazil's Amazon Basin. Their territory, when first in contact with Spanish explorers in the 16th century, was on the Amazon River upstream from the present-day city of Manaus extending into Peru. They speak the Omagua language. The Omagua exist today in small numbers, but they were a populous, organized society in the late Pre-Columbian era. Their population suffered steep decline, mostly from infectious diseases, in the early years of the Columbian Exchange. During the 18th century, the Omagua largely abandoned their Indigenous identity in response to prejudice and racism that marginalized aboriginal peoples in Brazil and Peru. More tolerant attitudes led to a renewed tribal identity starting in the 1980s."
+    ]
+   },
+   "records": [
+    "omagua-people"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Ortoiroid people": {
+   "headline": "Ortoiroidi",
+   "paragraphs": [
+    "Ortoiroidi so bili drugi val naseljencev na Karibih, ki so se okoli leta 2000 pr. n. št. začeli seliti na Antile. Pred njimi so tam živela kazimiroidna ljudstva (ok. 4190–2165 pr. n. št.). Domnevno so izvirali iz doline Orinoka v Južni Ameriki in se na Antile selili prek Trinidada in Tobaga vse do Portorika. Ime »ortoiroidni« izvira iz Ortoira, najdišča školjčnega kupa na jugovzhodu Trinidada. Po drugem arheološkem najdišču na Trinidadu jih imenujejo tudi banwaroidna ljudstva."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Ortoiroid people",
+    "rev": 1351977148,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Ortoiroid people were the second wave of settlers of the Caribbean who began their migration into the Antilles around 2000 BC. They were preceded by the Casimiroid peoples (~4190-2165 BC). They are believed to have originated in the Orinoco valley in South America, migrating to the Antilles from Trinidad and Tobago to Puerto Rico. The name \"Ortoiroid\" comes from Ortoire, a shell midden site in southeast Trinidad. They have also been called Banwaroid, after another archaeological site in Trinidad."
+    ]
+   },
+   "records": [
+    "ortoiroid-people"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Peru-Bolivian Confederation": {
+   "paragraphs": [
+    "Perujsko-bolivijska konfederacija (špansko: Confederación Perú–Boliviana) je bila kratkotrajna država, ki je v Južni Ameriki obstajala med letoma 1836 in 1839. Bila je ohlapna konfederacija treh držav: Severnega Peruja, Južnega Peruja in Bolivijske republike. Severni in Južni Peru sta nastala z razdelitvijo Perujske republike po perujski državljanski vojni leta 1834 in vojni med Salaverryjem in Santa Cruzom v letih 1835–1836.",
+    "Meje konfederacije so se s časom spreminjale: leta 1838 je Bolivija zasedla in priključila nekatera sporna ozemlja na severu Argentine. Konfederaciji so pripadala tudi dejansko samostojna domorodna ozemlja, kot je bil Iquicha. Vse je bilo pod vrhovnim poveljstvom maršala Andrésa de Santa Cruza, ki je leta 1836 kot predsednik Bolivije prevzel položaj vrhovnega zaščitnika."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Peru–Bolivian Confederation",
+    "rev": 1379434452,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Peru–Bolivian Confederation (Spanish: Confederación Perú–Boliviana) was a short-lived state that existed in South America between 1836 and 1839. The country was a loose confederation made up of three states: North Peru, South Peru, and the Bolivian Republic. North Peru and South Peru had emerged from the division of the Peruvian Republic due to the Peruvian Civil War of 1834 and the Salaverry-Santa Cruz War of 1835–36.",
+     "The geographical limits of the Confederation varied over time, with Bolivia occupying and incorporating certain disputed territories in northern Argentina in 1838. It also possessed de facto autonomous indigenous territories, such as Iquicha, all under the supreme command of Marshal Andrés de Santa Cruz, who assumed the position of Supreme Protector in 1836, while he was president of Bolivia."
+    ]
+   },
+   "records": [
+    "peru-bolivian-confederation"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Point Peninsula complex": {
+   "headline": "Kompleks Point Peninsula",
+   "paragraphs": [
+    "Kompleks Point Peninsula je bila domorodna kultura v Ontariu in New Yorku, ki je obstajala od leta 600 pr. n. št. do 700 n. št., v srednjem gozdnem obdobju. Lončenina Point Peninsula se je v Kanadi pojavila okoli leta 600 pr. n. št., nato pa se je okoli leta 200 pr. n. št. razširila na jug, v dele Nove Anglije. Nekje med letoma 300 pr. n. št. in 1 n. št. se je pojavila v Mainu in »po vsem pomorskem polotoku«. Malo je dokazov, da bi se razvila iz starejše, debelejše lončenine, znane kot Vinette I, Adena Thick in podobno. Bila je nova tehnologija v Severni Ameriki in jo imenujejo tudi Vinette II. V primerjavi z dotedanjo debelejšo in manj okrašeno keramiko jo odlikuje »boljše oblikovanje gline, posode so tanjše, bolje žgane in s finejšim pustilom«. Od kod je ta tehnologija prišla, ni zanesljivo znano; njen izvor je »nekoliko problematičen«. Ljudstvo so domnevno oblikovale hopewellske tradicije iz doline reke Ohio. Ta vpliv je očitno usahnil okoli leta 250 n. št., nato pa pogrebnih obredov niso več izvajali."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Point Peninsula complex",
+    "rev": 1352230053,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Point Peninsula complex was an indigenous culture located in Ontario and New York from 600 BCE to 700 CE (during the Middle Woodland period). Point Peninsula ceramics were first introduced into Canada around 600 BCE then spread south into parts of New England around 200 BCE. Some time between 300 BCE and 1 CE, Point Peninsula pottery first appeared in Maine, and \"over the entire Maritime Peninsula.\" Little evidence exists to show that it was derived from the earlier, thicker pottery, known as Vinette I, Adena Thick, etc... Point Peninsula pottery represented a new kind of technology in North America and has also been called Vinette II. Compared to existing ceramics that were thicker and less decorated, this new pottery has been characterized by \"superior modeling of the clay with vessels being thinner, better fired and containing finer grit temper.\" Where this new pottery technology originated is not known for sure. The origin of this pottery is \"somewhat of a problem.\" The people are thought to have been influenced by the Hopewell traditions of the Ohio River valley. This influence seems to have ended about 250 CE, after which they no longer practiced burial ceremonialism."
+    ]
+   },
+   "records": [
+    "point-peninsula-complex"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Pukara culture": {
+   "headline": "Kultura Pukara",
+   "paragraphs": [
+    "Kultura Pukara ali Pucará je bila arheološka kultura, ki se je razvila v pokrajini Qullaw ob severozahodni obali jezera Titicaca. Zanjo je bila značilna hierarhija manjših središč in vasi, raztresenih po severnem delu porečja jezera. Ime je dobila po kraju Pukara, enem največjih naselij v pokrajini; današnje mestece Pucará leži pol milje vzhodno od arheološkega najdišča. Kultura nima nobene zveze s kamnitimi utrdbami pukarami, ki so jih v času Inkovskega imperija gradili po vseh Andih. Njen vpliv je segal na sever do doline Cuzca in na jug do Tiwanakuja. V formativnem obdobju je imela dve razvojni fazi: srednjo formativno (1400–550 pr. n. št.) in pozno formativno (550 pr. n. št.–400 n. št.)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Pukara culture",
+    "rev": 1364539899,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Pukara or Pucará culture was an archaeological culture which developed in Qullaw, along the north-western shore of Lake Titicaca. It was characterized by a hierarchy of smaller centers and villages scattered throughout the northern basin of the Titicaca. The name originates from the town of Pukara, one of the largest settlements in the region. The modern town of Pucará is located half a mile to the east of the archaeological site. The Pukara culture is unrelated to the stone fortresses, pukaras, built across the Andes during the Inca Empire. Its sphere of influence reached as far north as the Cuzco Valley and as far south as Tiahuanaco. The culture had two phases of development within the Formative Period: the Middle Formative (1400 to 550 BC), and Late Formative (550 BC to 400 AD)."
+    ]
+   },
+   "records": [
+    "pukara-culture"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Quimbaya": {
+   "headline": "Quimbaya",
+   "paragraphs": [
+    "Quimbaya so bili majhna starodavna domorodna skupina na območju današnje Kolumbije, znana po zlatarskih izdelkih s tehnično natančnostjo in podrobnimi vzorci. Večina izdelkov je iz zlitine tumbaga s 30 % bakra, ki jim daje barvo."
+   ],
+   "notes": [
+    "The pronunciation in IPA is left out."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Quimbaya",
+    "rev": 1379071259,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Quimbaya (/kɪmbaɪa/) were a small, ancient indigenous group in present-day Colombia noted for their gold work characterized by technical accuracy and detailed designs. The majority of the gold work is made in tumbaga alloy, with 30% copper, which colours the pieces."
+    ]
+   },
+   "records": [
+    "quimbaya"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Republic of Baja California": {
+   "headline": "Republika Spodnja Kalifornija",
+   "paragraphs": [
+    "Republika Spodnja Kalifornija (špansko: República de Baja California) je bila predlagana država v letih 1853 in 1854, potem ko je ameriškemu vodji zasebne vojske Williamu Walkerju spodletel vdor iz Arizone v Sonoro. Walker si je hotel prilastiti Sonoro, njegove zahteve pa so v Združenih državah uživale podporo tajkunov in popustljivost vlade."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Republic of Baja California",
+    "rev": 1378301138,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Republic of Baja California, also known in Spanish as the República de Baja California, was a proposed state from 1853 to 1854, after American private military leader William Walker failed to invade Sonora from Arizona. Walker wanted to appropriate Sonora, and his claims had both the support of tycoons and government complacency in the United States."
+    ]
+   },
+   "records": [
+    "republic-of-baja-california"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Republic of New Granada": {
+   "paragraphs": [
+    "Republika Nova Granada je bila centralistična unitarna republika, ki je od leta 1831 do 1858 obsegala predvsem današnjo Kolumbijo in Panamo ter manjše dele današnje Kostarike, Ekvadorja, Venezuele, Peruja in Brazilije. Nastala je po razpadu Velike Kolumbije leta 1830, ko sta se odcepila Ekvador in Venezuela. Leta 1858 so jo preimenovali v Granadsko konfederacijo.",
+    "Državno zastavo z barvami Velike Kolumbije v Velesovi razporeditvi so sprejeli 9. maja 1834 in jo uporabljali do 26. novembra 1861. Trgovska zastava je imela belo osemkrako zvezdo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Republic of New Granada",
+    "rev": 1379833111,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Republic of New Granada was a centralist unitary republic consisting primarily of present-day Colombia and Panama with smaller portions of today's Costa Rica, Ecuador, Venezuela, Peru and Brazil that existed from 1831 to 1858. The state was created after the dissolution of Gran Colombia in 1830 through the secession of Ecuador and Venezuela. In 1858, the state was renamed into the Granadine Confederation.",
+     "The national flag, with the Gran Colombian colours in Veles' arrangement, was adopted on 9 May 1834 and used until 26 November 1861. The merchant ensign had the eight-pointed star in white."
+    ]
+   },
+   "records": [
+    "republic-of-new-granada"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Republic of the Rio Grande": {
+   "paragraphs": [
+    "Republika Rio Grande (špansko: República del Río Grande) je ime, ki so ga angloameriški časopisi in poznejši zgodovinski spisi dali federalističnemu uporu ob spodnjem toku reke Rio Grande v letih 1838–1840. Hunta, ki se je 23. januarja 1840 sestala v Casa Blanci pod vodstvom Antonia Canalesa Rosilla, Jesúsa de Cárdenasa in drugih, ni priznala centralistične vlade v Ciudad de Méxicu in je postavila začasno vlado, dokler se ne bi sestala skupščina vseh mehiških zveznih držav. Upor se je končal s konvencijo v Camargu 6. novembra 1840, ki jo je ratificiral Canales in odobril general Mariano Arista.",
+    "Teksaški viri so gibanje obravnavali kot odcepitev po zgledu Republike Teksas. Dokumenti voditeljev upora pa tega imena ne uporabljajo in o odcepitvi ne govorijo; v njih stojijo izrazi frontera del norte, villas del norte in gobierno provisional."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Republic of the Rio Grande",
+    "rev": 1379911837,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Republic of the Rio Grande (Spanish: República del Río Grande) is the name given in Anglo‐American newspapers, and in later histories, to a federalist revolt on the lower Rio Grande in 1838–1840. A junta at Casa Blanca on 23 January 1840, headed by Antonio Canales Rosillo, Jesús de Cárdenas, and others withheld recognition from the centralist government in Mexico City and set up a provisional government until a convention of all the states of Mexico could meet. The revolt ended with the convention of Camargo on 6 November 1840, ratified by Canales and approved by General Mariano Arista.",
+     "Texas accounts have treated the movement as a secession on the model of the Republic of Texas. The leaders' own papers do not use the name and do not speak of separation; they use frontera del norte, villas del norte and gobierno provisional."
+    ]
+   },
+   "records": [
+    "republic-of-the-rio-grande"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Riograndense Republic": {
+   "paragraphs": [
+    "Republika Riograndense, pogosto imenovana Republika Piratini (portugalsko: República Rio-Grandense ali República do Piratini), je bila dejanska država, ki se je odcepila od Brazilskega cesarstva in se je v grobem ujemala z današnjo zvezno državo Rio Grande do Sul. Razglasil jo je 11. septembra 1836 general Antônio de Sousa Neto, kar je bila neposredna posledica zmage oligarhičnih gavčovskih sil v bitki pri Seivalu (1836) med vojno raztrgancev (1835–1845). Leta 1843 je sprejela ustavo, priznali pa so jo le Združeno kraljestvo, Francija in Urugvaj."
+   ],
+   "notes": [
+    "Ragamuffin War rendered as vojna raztrgancev (Guerra dos Farrapos); worth a reviewer's check."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Riograndense Republic",
+    "rev": 1379277637,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Riograndense Republic, often called the Piratini Republic (Portuguese: República Rio-Grandense or República do Piratini), was a de facto state that seceded from the Empire of Brazil and roughly coincided with the present state of Rio Grande do Sul. It was proclaimed on 11 September 1836 by general Antônio de Sousa Neto as a direct consequence of the victory obtained by gaúcho oligarchic forces at the Battle of Seival (1836) during the Ragamuffin War (1835–1845). It had a constitution adopted in 1843 and was recognised only by the United Kingdom, France, and Uruguay."
+    ]
+   },
+   "records": [
+    "riograndense-republic"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Saladoid": {
+   "headline": "Saladoidna kultura",
+   "paragraphs": [
+    "Saladoidna kultura je predkolumbovska domorodna kultura na ozemlju današnje Venezuele in Karibov, ki je cvetela od leta 500 pr. n. št. do 545 n. št. Njeni nosilci so živeli predvsem v nižinah ob reki Orinoko, nato pa so se po morju preselili na Male Antile in naprej v Portoriko."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Saladoid",
+    "rev": 1352453286,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Saladoid culture is a pre-Columbian Indigenous culture of territory in present-day Venezuela and the Caribbean that flourished from 500 BCE to 545 CE. Concentrated along the lowlands of the Orinoco River, the people migrated by sea to the Lesser Antilles, and then to Puerto Rico."
+    ]
+   },
+   "records": [
+    "saladoid-culture"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Second Mexican Empire": {
+   "paragraphs": [
+    "Drugo mehiško cesarstvo (špansko: Segundo Imperio mexicano), uradno Mehiško cesarstvo (Imperio Mexicano), je bila ustavna monarhija, ki so jo v Mehiki ob podpori drugega francoskega cesarstva ustanovili mehiški monarhisti. To obdobje pogosto imenujejo druga francoska intervencija v Mehiki. Francoski cesar Napoleon III. je s podporo mehiških konservativcev, duhovščine in plemstva hotel v Amerikah ustvariti monarhističnega zaveznika, ki bi uravnotežil vse večjo moč Združenih držav.",
+    "Mehiški monarhisti, ki so izgubili državljansko vojno proti mehiškim liberalcem, so prestol ponudili avstrijskemu nadvojvodi Maksimilijanu iz habsburško-lotarinške rodbine, ki je bil v sorodu z vladarji kolonialne Mehike. Njegov vzpon na prestol so potrdili s spornim referendumom. Njegova žena, belgijska princesa Šarlota iz saško-coburško-gotske rodbine, je postala mehiška cesarica, v Mehiki znana kot »Carlota«."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Second Mexican Empire",
+    "rev": 1377994851,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Second Mexican Empire (Spanish: Segundo Imperio mexicano), officially known as the Mexican Empire (Spanish: Imperio Mexicano), was a constitutional monarchy established in Mexico by Mexican monarchists with the support of the Second French Empire. This period is often referred to as the Second French intervention in Mexico. The French Emperor, Napoleon III, with backing from Mexican conservatives, the clergy, and nobility, aimed to establish a monarchist ally in the Americas as a counterbalance to the growing power of the United States.",
+     "The throne of Mexico was offered by Mexican monarchists, who had lost a civil war against Mexican liberals, to Austrian Archduke Maximilian of the House of Habsburg-Lorraine, who had ancestral ties to the rulers of colonial Mexico. Maximilian's ascension was ratified through a controversial referendum. His wife, Belgian princess Charlotte of the House of Saxe-Coburg and Gotha, became the empress consort of Mexico, known locally as \"Carlota\"."
+    ]
+   },
+   "records": [
+    "second-mexican-empire"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Sican culture": {
+   "headline": "Kultura Sicán",
+   "paragraphs": [
+    "Kultura Sican (tudi Sicán) je ime, ki ga je arheolog Izumi Šimada dal kulturi, ki je približno med letoma 750 in 1375 n. št. poseljevala današnjo severno obalo Peruja. Po Šimadi Sican pomeni »Lunin tempelj«. Po perujski pokrajini jo imenujejo tudi kultura Lambayeque. Nasledila je močejsko kulturo, med arheologi in antropologi pa se še vedno krešejo mnenja, ali sta to res ločeni kulturi. Kulturo Sican po spremembah, ki jih kažejo arheološke najdbe, delijo na tri glavna obdobja."
+   ],
+   "notes": [
+    "Izumi Shimada transcribed as Izumi Šimada."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Sican culture",
+    "rev": 1380362098,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Sican (also Sicán) culture is the name that archaeologist Izumi Shimada gave to the culture that inhabited what is now the north coast of Peru between about 750 and 1375 CE. According to Shimada, Sican means \"temple of the Moon\". The Sican culture is also referred to as Lambayeque culture, after the name of the region in Peru. It succeeded the Moche culture. There is still controversy among archeologists and anthropologists over whether the two are separate cultures. The Sican culture is divided into three major periods based on cultural changes as evidenced in archeological artifacts."
+    ]
+   },
+   "records": [
+    "sican-culture"
+   ],
+   "translated": "2026-10-23"
+  },
+  "State of Buenos Aires": {
+   "headline": "Država Buenos Aires",
+   "paragraphs": [
+    "Država Buenos Aires (špansko: Estado de Buenos Aires) je bila odcepljena republika, ki je nastala, ko so v provinci Buenos Aires 11. septembra 1852 strmoglavili vlado Argentinske konfederacije. Konfederacija je ni nikoli izrecno priznala, a je ostala neodvisna z lastno vlado in ustavo. Buenos Aires se je Argentinski konfederaciji znova pridružil po svoji zmagi v bitki pri Pavónu leta 1861."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "State of Buenos Aires",
+    "rev": 1373364393,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The State of Buenos Aires (Spanish: Estado de Buenos Aires) was a secessionist republic resulting from the overthrow of the Argentine Confederation government in the Province of Buenos Aires on 11 September 1852. The State of Buenos Aires was never explicitly recognized by the Confederation; it remained, however, independent under its own government and constitution. Buenos Aires rejoined the Argentine Confederation after the former's victory at the Battle of Pavón in 1861."
+    ]
+   },
+   "records": [
+    "state-of-buenos-aires"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Tehuelche people": {
+   "paragraphs": [
+    "Tehuelči, imenovani tudi Aónikenk, so domorodno ljudstvo iz vzhodne Patagonije v Južni Ameriki. V 18. in 19. stoletju so bili pod vplivom Mapučev in so mnogi začeli rediti konje.",
+    "Nekoč nomadsko ljudstvo je zašlo v stisko, ko sta njegovo zemljo v 19. stoletju kolonizirali Argentina in Čile, kar je postopoma razkrojilo njegovo tradicionalno gospodarstvo. Še posebej so jih prizadela velika ovčarska posestva, ki so jih kolonisti ustanovili v Patagoniji. Stiki z evropskimi priseljenci so prinesli tudi nove nalezljive bolezni, ki so med plemeni Tehuelčev povzročile smrtonosne epidemije, saj niso imeli pridobljene odpornosti. Danes večina Tehuelčev živi v mestih in krajih argentinske Patagonije."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Tehuelche people",
+    "rev": 1378546660,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Tehuelche people, also called the Aónikenk, are an Indigenous people from eastern Patagonia in South America. In the 18th and 19th centuries, the Tehuelche were influenced by the Mapuche people, and many adopted the domestic use of horses.",
+     "Once a nomadic people, the Tehuelche struggled as their lands were colonized in the 19th century by Argentina and Chile, which gradually disrupted their traditional economies. The colonial establishment of large sheep farming estates in Patagonia was particularly detrimental to the Tehuelche. Contact with ethnic European outsiders also introduced new infectious diseases, which caused deadly epidemics among Tehuelche tribes as they lacked acquired immunity. Today most Tehuelche reside in cities and towns of Argentine Patagonia."
+    ]
+   },
+   "records": [
+    "tehuelche-people"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Thule people": {
+   "headline": "Ljudstvo Thule",
+   "paragraphs": [
+    "Ljudstvo Thule ali protoinuiti so bili predniki vseh današnjih Inuitov in Jupikov. Do leta 1000 n. št. so se razvili na obali Aljaske in se razširili proti vzhodu prek severne Kanade, do 13. stoletja pa so dosegli Grenlandijo. Pri tem so izpodrinili ljudi starejše kulture Dorset, ki so prej živeli na tem območju. Ime »Thule« izvira iz kraja Thule, danes Pituffik (naselje so leta 1953 preselili in preimenovali v Qaanaaq), na severozahodu Grenlandije nasproti Kanade, kjer so arheološke ostanke tega ljudstva prvič našli na kupu odpadkov Comer's Midden.",
+    "Dokazi podpirajo domnevo, da so bili ljudje Thule (in v manjši meri Dorset) v stiku z Vikingi, ki so v 11. stoletju v okviru nordijske kolonizacije Severne Amerike dosegli obale Kanade. Vikinški viri ta ljudstva imenujejo Skrælingjar."
+   ],
+   "notes": [
+    "The pronunciation respelling is left out."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Thule people",
+    "rev": 1368557189,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Thule ( TOO-lee, also THOOL) or proto-Inuit were the precursors of all modern Inuit and Yupik peoples. They developed in coastal Alaska by 1000 CE and expanded eastward across northern Canada, reaching Greenland by the 13th century. In the process, they replaced people of the earlier Dorset culture who had previously inhabited the region. The appellation \"Thule\" originates from the location of Thule, now known as Pituffik (a settlement relocated and renamed Qaanaaq in 1953) in northwest Greenland, facing Canada, where the archaeological remains of the people were first found at Comer's Midden.",
+     "Evidence supports the idea that the Thule (and, to a lesser degree, the Dorset) were in contact with the Vikings, who had reached the shores of Canada in the 11th century as part of the Norse colonization of North America. In Viking sources, these peoples are called the Skrælingjar."
+    ]
+   },
+   "records": [
+    "thule-people"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Tiwanaku polity": {
+   "paragraphs": [
+    "Tiwanaku (špansko: Tiahuanaco ali Tiahuanacu) je bila predkolumbovska politična skupnost v zahodni Boliviji s središčem v južnem delu porečja jezera Titicaca. Bila je ena najpomembnejših andskih civilizacij: njen vpliv je segal na ozemlje današnjega Peruja in Čila in je trajal približno od leta 600 do 1000. Prestolnica je bilo monumentalno mesto Tiwanaku sredi osrednjega območja države v južnem delu porečja jezera. Tam so jasni dokazi za obsežno poljedelstvo na dvignjenih poljih, ki so verjetno preživljala mestno prebivalstvo prestolnice. Raziskovalci razpravljajo, ali je ta polja upravljala birokratska država (od zgoraj navzdol) ali zveza skupnosti s krajevno samoupravo (od spodaj navzgor; pregled razprave v Janusek 2004: 57–73). Nekoč so Tiwanaku imeli za širok vojaški imperij, predvsem zaradi primerjav s poznejšim Inkovskim imperijem. Novejše raziskave pa kažejo, da je oznaka imperij ali celo država morda zavajajoča. Tiwanakuju namreč manjkajo številne značilnosti, s katerimi tradicionalno opredeljujejo starodavne države in imperije: na nobenem najdišču ni obrambne arhitekture ali sprememb v orožju, ni kneževskih grobov ali drugih sledi vladajoče dinastije, ni sledi cest ali postojank, ki bi jih vzdrževala država, in ni tržnic."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Tiwanaku polity",
+    "rev": 1380435708,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Tiwanaku polity (Spanish: Tiahuanaco or Tiahuanacu) was a Pre-Columbian polity in western Bolivia based in the southern Lake Titicaca Basin. Tiwanaku was one of the most significant Andean civilizations. Its influence extended into present-day Peru and Chile and lasted from around 600 to 1000. Its capital was the monumental city of Tiwanaku, located at the center of the polity's core area in the southern Lake Titicaca Basin. This area has clear evidence for large-scale agricultural production on raised fields that probably supported the urban population of the capital. Researchers debate whether these fields were administered by a bureaucratic state (top-down) or through a federation of communities with local autonomy (bottom-up; see review of debate in Janusek 2004:57-73). Tiwanaku was once thought to be an expansive military empire, based mostly on comparisons to the later Inca Empire. However, recent research suggests that labelling Tiwanaku as an empire or even a state may be misleading. Tiwanaku is missing a number of features traditionally used to define archaic states and empires: there is no defensive architecture at any Tiwanaku site or changes in weapon technology, there are no princely burials or other evidence of a ruling dynasty, no evidence of state-maintained roads or outposts, and no markets."
+    ]
+   },
+   "records": [
+    "tiwanaku-polity"
+   ],
+   "translated": "2026-10-23"
+  },
+  "United States of Colombia": {
+   "paragraphs": [
+    "Združene države Kolumbije (špansko: Estados Unidos de Colombia) je ime, ki ga je Granadski konfederaciji po letih državljanske vojne leta 1863 dala ustava iz Rionegra (Constitución de Rionegro). Kolumbija je postala zvezna država iz devetih »suverenih držav«. Obsegala je današnji državi Kolumbijo in Panamo ter dele severozahodne Brazilije. Po nadaljnjih letih občasnih državljanskih vojn jo je leta 1886 nadomestila bolj centralistična Republika Kolumbija, predhodnica današnje Kolumbije."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "United States of Colombia",
+    "rev": 1365293737,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The United States of Colombia (Spanish: Estados Unidos de Colombia) was the name adopted in 1863 by the Constitución de Rionegro for the Granadine Confederation, after years of civil war. Colombia became a federal state itself composed of nine \"sovereign states.\" It comprised the present-day nations of Colombia and Panama and parts of northwestern Brazil. After several more years of intermittent civil wars, it was replaced by the more centralist Republic of Colombia in 1886, predecessor to modern Colombia."
+    ]
+   },
+   "records": [
+    "united-states-of-colombia"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Wari Empire": {
+   "headline": "Imperij Wari",
+   "paragraphs": [
+    "Imperij Wari ali Huari je bila politična tvorba, ki je nastala okoli leta 600 n. št. v perujskem porečju Ayacucho in se razširila na velik del obalnega in visokogorskega Peruja. Imperij je trajal okoli 500 let, do leta 1100 n. št. Obstajal je ob istem času kot kultura Tiwanaku in nekoč so menili, da je iz nje izšel.",
+    "Leta 2008 so arheologi blizu današnjega Chiclaya našli predkolumbovsko mesto, severne razvaline Wari (imenovane tudi Cerro Pátapo), prvo obsežno naselje kulture Wari tako daleč na severu. Arheološka odkritja so se nadaljevala tudi v zadnjem desetletju: leta 2023 so arheologi v Arequipi odkrili 1200 let star obredni kompleks Wari. Z vsakim novim odkritjem lahko arheologi o kulturi imperija Wari sklepajo več."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Wari Empire",
+    "rev": 1378709077,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Wari Empire or Huari Empire was a political formation that emerged in around 600 CE in Peru's Ayacucho Basin and grew to cover much of coastal and highland Peru. The empire lasted for about 500 years, until 1100 CE. It existed during the same era as the Tiwanaku culture, and at one time, was thought to have been derived from it.",
+     "In 2008, archeologists found a pre-Columbian city, the Northern Wari ruins (also called Cerro Pátapo) near modern Chiclayo. The find was the first extensive settlement related to the Wari culture discovered that far north. Archaeological discoveries have continued over the past decade. In 2023, archaeologists discovered a 1200-year-old Wari ritual complex in Arequipa. While more discoveries are being made regarding the Wari Empire, archaeologists are able to draw more conclusions about the Wari Empire's culture."
+    ]
+   },
+   "records": [
+    "wari-empire"
    ],
    "translated": "2026-10-23"
   },
@@ -810,6 +1586,25 @@
    },
    "records": [
     "eastern-north-america-middle-woodland"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Zapotec civilization": {
+   "headline": "Zapoteška civilizacija",
+   "paragraphs": [
+    "Zapoteška civilizacija (v zapoteščini Be'ena'a, »ljudje, ki so prišli iz oblakov«; ok. 700 pr. n. št.–1521 n. št.) je domorodna predkolumbovska civilizacija, ki je cvetela v dolini Oaxaca v Mezoameriki. Arheološki dokazi kažejo, da je njihova kultura nastala pred najmanj 2500 leti. Na zapoteškem arheološkem najdišču v starodavnem mestu Monte Albán so monumentalne stavbe, igrišča za igro z žogo, grobnice in pridatki, med njimi fino izdelan zlat nakit. Monte Albán je bil eno prvih velikih mest v Mezoameriki in središče zapoteške države, ki je obvladovala velik del ozemlja današnje mehiške zvezne države Oaxaca. Današnji Zapoteki so njihovi potomci."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Zapotec civilization",
+    "rev": 1375611176,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Zapotec civilization (Be'ena'a (Zapotec) \"The People that came from the clouds\"; c. 700 BC – AD 1521) is an indigenous pre-Columbian civilization that flourished in the Valley of Oaxaca in Mesoamerica. Archaeological evidence shows that their culture originated at least 2,500 years ago. The Zapotec archaeological site at the ancient city of Monte Albán has monumental buildings, ball courts, tombs and grave goods, including finely worked gold jewelry. Monte Albán was one of the first major cities in Mesoamerica. It was the center of a Zapotec state that dominated much of the territory which today is known as the Mexican state of Oaxaca. The Zapotec peoples are their modern descendants."
+    ]
+   },
+   "records": [
+    "zapotec-civilization"
    ],
    "translated": "2026-10-23"
   }
