@@ -1920,7 +1920,7 @@
   "Q241108": "Bitka pri Friedlandu",
   "Q2419855": "Ukrajinsko-sovjetska vojna",
   "Q24202": "Pogodba iz Montevidea",
-  "Q24205448": "Četrta bitka za Faludžo",
+  "Q24205448": "Tretja bitka za Faludžo",
   "Q2420736": "Bitka pri Chantillyju",
   "Q242352": "Vojne v nekdanji Jugoslaviji",
   "Q242644": "Kobariška bitka",
@@ -2780,7 +2780,8 @@
    "Q3178783": "Obleganje Jafe",
    "Q325985": "Obleganje Akre",
    "Q815109": "Obleganje Akre",
-   "Q815116": "Obleganje Akre"
+   "Q815116": "Obleganje Akre",
+   "Q24205448": "Tretja bitka za Faludžo"
   }
  }
 }
