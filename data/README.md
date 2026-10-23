@@ -292,6 +292,11 @@ They read the snapshots in `sources/` (retrieved 2026-10-17: Wikidata and Period
 
 ## Changes
 
+- **2026-10-23, translated summaries (Europe, part 1 of 7).**
+  - `translations/sl/_sources/europe.json`: the English intros of 360 units shown in the Iberia and British Isles columns (38,775 words, revisions of 23 October 2026), fetched with `--groups iberia,british-isles`. The fetch tool now leaves out template residue (the Battle of Clavijo extract began with `|campaignbox = campaignbox =`).
+  - `translations/sl/europe.json`: all 360 translated in nine parts (72 states, 288 events; 33,187 words), marked as machine translations, not yet reviewed. `scripts/translation-chunks.py` now cuts the chunks; it skips units translated for any region.
+  - One more Slovenian name corrected in the overrides: the Reapers' War was labelled *Vojna žajncev* (*žanjcev*).
+  - Units whose source has a quirk say so in `notes` (52). Records linked to the wrong article: Berga, Pallars Jussà and Pallars Sobirà (modern town and comarcas for medieval states), Strathclyde (the modern council region for the medieval kingdom), Earl of Desmond (the title for the earldom). Sentences broken across paragraphs or cut before a list: First Battle of St Albans, London Protocol (1852), Siege of Barcelona (1705), War of the Castilian Succession, Battle of the Standard, Battle of Simancas, Treaty of Alcáçovas, Treaty of Edinburgh–Northampton, Lisbon Recognition Convention. Slips in the English kept as they are: Palmerston as Foreign Secretary in 1862, Columbus's claim dated 1494.
 - **2026-10-23, translated summaries (Africa & Middle East, part 3 of 3).**
   - Part 3, sub-Saharan Africa and the Indian Ocean islands: the 207 snapshotted units translated into `translations/sl/africa-middle-east.json` in six parts (54 states, 153 events; 19,098 words), marked as machine translations, not yet reviewed. All 918 snapshotted units of the region are now translated (81,348 words).
   - Review sweep across Africa & Middle East, the Americas and Oceania: 189 definition sentences now agree the verb with the subject (*Bitka pri Tangi je bila neuspešen vdor*, not *je bil*).
