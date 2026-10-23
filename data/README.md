@@ -292,6 +292,10 @@ They read the snapshots in `sources/` (retrieved 2026-10-17: Wikidata and Period
 
 ## Changes
 
+- **2026-10-23, translated summaries (Africa & Middle East, part 3 of 3).**
+  - Part 3, sub-Saharan Africa and the Indian Ocean islands: the 207 snapshotted units translated into `translations/sl/africa-middle-east.json` in six parts (54 states, 153 events; 19,098 words), marked as machine translations, not yet reviewed. All 918 snapshotted units of the region are now translated (81,348 words).
+  - Review sweep across Africa & Middle East, the Americas and Oceania: 189 definition sentences now agree the verb with the subject (*Bitka pri Tangi je bila neuspešen vdor*, not *je bil*).
+  - Units whose source has a quirk say so in `notes`. Records linked to the wrong article: Portuguese Africa and Zululand (disambiguation pages, translated as list fragments), Omanis (the article on the people, not Omani rule in East Africa). Keys that resolve to a broader article: Boer Wars (Military history of South Africa), Herero uprising (Herero and Nama War), War in Somalia (2006–2009) (Ethiopian invasion of Somalia). Text problems in the English excerpt: a sentence broken across paragraphs (Ife Empire, Battle of Jassin), a garbled sentence (French Consulate), a misspelt town (*Molten* for Molteno, Battle of Stormberg). Glossary headlines that differ from the English name: Kivu conflict (*Tretja kongovska vojna*), Kingdom of Great Zimbabwe, Oyo Empire.
 - **2026-10-23, translated summaries (Africa & Middle East, part 2 of 3).**
   - Part 2, Anatolia and Cyprus, North Africa and Egypt: the 348 snapshotted units translated into `translations/sl/africa-middle-east.json` in nine parts (2 eras, 44 states, 302 events; 30,424 words), marked as machine translations, not yet reviewed. 711 of the region's 918 snapshotted units are now translated; part 3 (207) remains.
   - One more Slovenian name corrected in the overrides: the sack of Amorium was labelled *Oplenitev Armorija*.
