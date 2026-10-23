@@ -7,6 +7,360 @@
  "reviewed": false,
  "licence": "CC BY-SA 4.0: translations of English Wikipedia text, attributed to each article and revision",
  "units": {
+  "14 July Revolution": {
+   "paragraphs": [
+    "Revolucija 14. julija, znana tudi kot iraški vojaški udar leta 1958, je bil vojaški udar 14. julija 1958 v Iraku, ki je strmoglavil kralja Fejsala II. in hašemitsko Kraljevino Irak. Iraška republika, ki je nastala po njem, je končala hašemitsko arabsko federacijo Iraka in Jordanije, ustanovljeno komaj šest mesecev prej."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "14 July Revolution",
+    "rev": 1377224142,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The 14 July Revolution, also known as the 1958 Iraqi military coup, was a military coup that took place on 14 July 1958 in Iraq, resulting in the toppling of King Faisal II and the overthrow of the Hashemite-led Kingdom of Iraq. The Iraqi Republic established in its wake ended the Hashemite Arab Federation between Iraq and Jordan that had been established just six months earlier."
+    ]
+   },
+   "records": [
+    "Q2988530"
+   ],
+   "translated": "2026-10-23"
+  },
+  "17 July Revolution": {
+   "paragraphs": [
+    "Revolucija 17. julija (arabsko: inqilāb 17 Tammūz) je bil nekrvav državni udar v Iraku leta 1968, ki so ga vodili Ahmed Hasan al Bakr, Abd ar Razak an Naif in Abd ar Rahman al Davud. Odstavil je predsednika Abdula Rahmana Arifa in predsednika vlade Tahirja Jahjo ter na oblast pripeljal iraško regionalno vejo Arabske socialistične stranke Baath. Med baatisti, ki so sodelovali v udaru in poznejši čistki zmerne frakcije pod vodstvom Naifa, so bili Hardan al Tikriti, Salih Mahdi Amaš in poznejši iraški predsednik Sadam Husein. Udar je bil uperjen predvsem proti Jahji, odkritemu naseristu, ki je politično krizo po šestdnevni vojni junija 1967 izkoristil, da bi Arifovo zmerno vlado prisilil k nacionalizaciji družbe Iraq Petroleum Company (IPC) v zahodni lasti, da bi Irak lahko »nafto uporabil kot orožje v boju proti Izraelu«. Do popolne nacionalizacije IPC je prišlo šele leta 1972, pod baatistično oblastjo. Po udaru je nova iraška vlada utrdila oblast z obtožbami o domnevnih ameriških in izraelskih spletkah, med širšo čistko je zaradi izmišljenih obtožb vohunjenja javno usmrtila 14 ljudi, med njimi 9 iraških Judov, in krepila tradicionalno tesne odnose s Sovjetsko zvezo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "17 July Revolution",
+    "rev": 1379826284,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The 17 July Revolution (Arabic: انقلاب 17 تموز, romanized: inqilāb 17 Tammūz) was a bloodless coup in Iraq in 1968 led by Ahmed Hassan al-Bakr, Abd ar-Razzaq an-Naif, and Abd ar-Rahman al-Dawud that ousted President Abdul Rahman Arif and Prime Minister Tahir Yahya and brought the Iraqi Regional Branch of the Arab Socialist Ba'ath Party to power. Ba'athists involved in the coup as well as the subsequent purge of the moderate faction led by Naif included Hardan al-Tikriti, Salih Mahdi Ammash, and Saddam Hussein, the future President of Iraq. The coup was primarily directed against Yahya, an outspoken Nasserist who exploited the political crisis created by the June 1967 Six-Day War to push Arif's moderate government to nationalize the Western-owned Iraq Petroleum Company (IPC) in order to use Iraq's \"oil as a weapon in the battle against Israel.\" Full nationalization of the IPC did not occur until 1972, under the Ba'athist administration. In the aftermath of the coup, the new Iraqi government consolidated power by denouncing alleged American and Israeli machinations, publicly executing 14 people including 9 Iraqi Jews on fabricated espionage charges amidst a broader purge, and working to expand Iraq's traditionally close relations with the Soviet Union."
+    ]
+   },
+   "records": [
+    "Q4120226"
+   ],
+   "translated": "2026-10-23"
+  },
+  "1860 civil conflict in Mount Lebanon and Damascus": {
+   "headline": "Državljanski spopad v Libanonskem gorovju in Damasku leta 1860",
+   "paragraphs": [
+    "Državljanski spopad v Libanonskem gorovju in Damasku leta 1860, znan tudi kot krščansko-druzovska vojna leta 1860, je bil državljanski spopad v Libanonskem gorovju v času osmanske oblasti v letih 1860–1861, v katerem so se bojevali predvsem tamkajšnji Druzi in kristjani.",
+    "Po odločilnih zmagah Druzov in pokolih kristjanov se je spopad razširil v druge dele osmanske Sirije, zlasti v Damask, kjer so druzovski borci in krajevne muslimanske skupine pobili na tisoče kristjanov. Boji so sprožili mednarodno vojaško posredovanje pod francoskim vodstvom."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "1860 civil conflict in Mount Lebanon and Damascus",
+    "rev": 1381156653,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The 1860 civil conflict in Mount Lebanon and Damascus, also known as the 1860 Christian–Druze war, was a civil conflict in Mount Lebanon during Ottoman rule in 1860–1861 fought mainly between the local Druze and Christians.",
+     "Following decisive Druze victories and massacres of the Christians, the conflict spilled over into other parts of Ottoman Syria, particularly Damascus, where thousands of Christian residents were killed by Druze fighters and local Muslim groups. The fighting precipitated a French-led international military intervention."
+    ]
+   },
+   "records": [
+    "Q3772246"
+   ],
+   "translated": "2026-10-23"
+  },
+  "1920 capture of Damascus": {
+   "headline": "Zavzetje Damaska leta 1920",
+   "paragraphs": [
+    "Zavzetje Damaska leta 1920 je bila zadnja faza francosko-sirske vojne, v kateri so francoske sile skoraj brez odpora zavzele Damask. Arabsko kraljestvo Sirija je bilo konec, začel je veljati francoski mandat za Sirijo. Kmalu zatem, septembra 1920, je Damask postal prestolnica države Damask pod francoskim mandatom.",
+    "Vojna Hašemitov proti Francozom, ki je izbruhnila januarja 1920, se je za novo razglašeno Arabsko kraljestvo Sirija kmalu sprevrgla v uničujoč pohod. Kralj Fejsal se je v skrbeh zaradi posledic dolgega krvavega boja s Francozi 14. julija 1920 sam vdal, a njegovo sporočilo ni prišlo do vojnega ministra Jusufa al Azme, ki je kralja prezrl in povedel vojsko k Majsalunu, da bi Sirijo branil pred francoskim prodorom. Bitka pri Majsalunu se je končala s porazom Sircev. Francoske čete so nato krenile nad Damask in ga 24. julija 1920 zavzele."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "1920 capture of Damascus",
+    "rev": 1370279049,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The 1920 capture of Damascus was the final stage of the Franco-Syrian War in which French forces captured Damascus with little resistance. The Arab Kingdom of Syria was brought to an end, and the French mandate of Syria was put into effect. Shortly afterward, in September 1920, Damascus was established as the capital of the State of Damascus under a French mandate.",
+     "The war of the Hashemites against the French, which erupted in January 1920, shortly became a devastating campaign for the newly-proclaimed Arab Kingdom of Syria. Worried about the results of a long bloody fight with the French, King Faisal himself surrendered on 14 July 1920, but his message would not reach War minister Yusuf al-'Azma, who, ignoring the King, led an army to Maysalun to defend Syria from the French advance. The Battle of Maysalun resulted in a crushing Syrian defeat. The French troops later marched on Damascus and captured it on 24 July 1920."
+    ]
+   },
+   "records": [
+    "Q7509962"
+   ],
+   "translated": "2026-10-23"
+  },
+  "1921 Persian coup d'état": {
+   "headline": "Državni udar v Perziji leta 1921",
+   "paragraphs": [
+    "Iranski državni udar leta 1921, v Iranu znan kot državni udar 3. esfanda 1299 (po perzijskem sončnem koledarju), označuje več velikih dogodkov v kadžarskem Iranu leta 1921, ki so nazadnje pripeljali do odstavitve dinastije Kadžarov in do tega, da je leta 1925 vladajoča rodbina Irana postala dinastija Pahlavijev.",
+    "Dogodki so se začeli 22. februarja 1921 z udarom perzijske kozaške brigade pod vodstvom Reze kana. Natančen obseg britanske vpletenosti v udar je še vedno predmet zgodovinske razprave, skoraj gotovo pa je Edmund Ironside zarotnikom svetoval. Z udarom je oblast prevzel Zia ol Din Tabatabai, ki je postal predsednik vlade. Udar je bil večinoma nekrvav in je naletel na malo odpora. Reza kan je z okrepljenimi silami in kozaško brigado uspešno vojaško odpravil separatistična in uporniška gibanja v Tabrizu, Mašhadu in gibanje Džangali v Gilanu. Pohod proti Simku in Kurdom je bil manj uspešen in je trajal globoko v leto 1922, čeprav se je nazadnje končal z iranskim uspehom."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "1921 Persian coup d'état",
+    "rev": 1372653163,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "1921 Iranian coup d'état, known in Iran as 3 Esfand 1299 coup d'état (Persian: کودتای ۳ اسفند ۱۲۹۹ with the Solar Persian date), refers to several major events in Qajar Iran in 1921, which eventually led to the deposition of the Qajar dynasty and the establishment of the Pahlavi dynasty as the ruling house of Iran in 1925.",
+     "The events began with a coup by the Persian Cossack Brigade headed by Reza Khan on 22 February 1921. The precise level of British involvement in the coup remains a matter of historical debate, but it is almost certain that Edmund Ironside provided advice to the plotters. With this coup Zia ol Din Tabatabaee took over power and became prime minister. The coup was largely bloodless and faced little resistance. With his expanded forces and the Cossack Brigade, Reza Khan launched successful military actions to eliminate separatist and dissident movements in Tabriz, Mashhad and the Jangalis in Gilan. The campaign against Simko and the Kurds was less successful and lasted well into 1922, though it eventually concluded with Iranian success."
+    ]
+   },
+   "records": [
+    "Q1131857"
+   ],
+   "translated": "2026-10-23"
+  },
+  "1941 Iraqi coup d'état": {
+   "headline": "Državni udar v Iraku leta 1941",
+   "paragraphs": [
+    "Iraški državni udar leta 1941 (arabsko: Thawrah Rašīd ʿAlī al-Kaylānī), imenovan tudi udar Rašida Alija al Gajlanija ali udar zlatega kvadrata, je bil nacionalistični državni udar v Iraku 1. aprila 1941, ki je strmoglavil probritanski režim regenta Abd al Ilaha in njegovega predsednika vlade Nurija al Saida ter za regenta postavil Šarafa bin Radžeha, za predsednika vlade pa Rašida Alija al Gajlanija.",
+    "Udar so vodili štirje iraški nacionalistični generali, znani kot »zlati kvadrat«, ki so hoteli vojno izkoristiti za pritisk za popolno neodvisnost Iraka po omejeni neodvisnosti, pridobljeni leta 1932. Zato so sodelovali z nemško obveščevalno službo in sprejeli vojaško pomoč nacistične Nemčije in fašistične Italije. Menjava vlade je pripeljala do britanske invazije na Irak in zasedbe, ki je trajala do leta 1947."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "1941 Iraqi coup d'état",
+    "rev": 1370279206,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The 1941 Iraqi coup d'état (Arabic: ثورة رشيد علي الكيلاني, Thawrah Rašīd ʿAlī al-Kaylānī), also called the Rashid Ali Al-Gaylani coup or the Golden Square coup, was a nationalist coup d'état in Iraq on 1 April 1941 that overthrew the pro-British regime of Regent 'Abd al-Ilah and his Prime Minister Nuri al-Said and installed Sharaf bin Rajeh as Regent and Rashid Ali al-Gaylani as Prime Minister.",
+     "The coup was led by four Iraqi nationalist army generals, known as \"the Golden Square\", who intended to use the war to press for full Iraqi independence following the limited independence granted in 1932. To that end, they worked with German intelligence and accepted military assistance from Nazi Germany and Fascist Italy. The change in government led to the British invasion of Iraq and subsequent occupation until 1947."
+    ]
+   },
+   "records": [
+    "Q641205"
+   ],
+   "translated": "2026-10-23"
+  },
+  "1953 Iranian coup d'état": {
+   "headline": "Državni udar v Iranu leta 1953",
+   "paragraphs": [
+    "Z državnim udarom 19. avgusta 1953 so strmoglavili iranskega predsednika vlade Mohameda Mosadeka in okrepili oblast iranskega šaha Mohameda Reze Pahlavija. Udar sta spodbudila Združeno kraljestvo (MI6) z operacijo Boot in Združene države (CIA) s projektom TP-AJAX oziroma operacijo Ajax. Ključni motiv je bila zaščita britanskih naftnih interesov v Iranu, potem ko je Mosadek leta 1951 nacionaliziral državno naftno industrijo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "1953 Iranian coup d'état",
+    "rev": 1380975077,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "On 19 August 1953 a coup d'état overthrew the Prime Minister of Iran, Mohammad Mosaddegh, strengthening the rule of Mohammad Reza Pahlavi, the Shah of Iran. It was instigated by the United Kingdom (MI6), under the name Operation Boot and by the United States (CIA), under the name TP-AJAX Project or Operation Ajax. A key motive was to protect British oil-interests in Iran after Mosaddegh had nationalized the country's oil industry in 1951."
+    ]
+   },
+   "records": [
+    "Q593774"
+   ],
+   "translated": "2026-10-23"
+  },
+  "1959 Mosul uprising": {
+   "headline": "Vstaja v Mosulu leta 1959",
+   "paragraphs": [
+    "Vstaja v Mosulu leta 1959 se je začela s poskusom državnega udara arabskih nacionalistov v Mosulu, ki so hoteli odstaviti tedanjega iraškega predsednika vlade Abdula Karima Kasima in postaviti arabsko nacionalistično vlado, ki bi Republiko Irak pridružila Združeni arabski republiki. Ko je udar spodletel, sta se v Mosulu sesula red in zakon: več dni so potekali nasilni ulični boji med skupinami, ki so skušale izkoristiti kaos za poravnavo političnih in osebnih računov."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "1959 Mosul uprising",
+    "rev": 1381312272,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The 1959 Mosul Uprising started with an attempted coup by Arab nationalists in Mosul who wished to depose the then Iraqi Prime Minister Abdul-Karim Qasim, and install an Arab nationalist government which would then join the Republic of Iraq with the United Arab Republic. Following the failure of the coup, law and order broke down in Mosul, which witnessed several days of violent street battles between various groups attempting to use the chaos to settle political and personal scores."
+    ]
+   },
+   "records": [
+    "Q12203911"
+   ],
+   "translated": "2026-10-23"
+  },
+  "1963 Syrian coup d'état": {
+   "paragraphs": [
+    "Sirski državni udar leta 1963, ki ga baatistično zgodovinopisje imenuje revolucija 8. marca (arabsko: ثورة الثامن من آذار), je bil prevzem oblasti v Siriji, ki ga je izvedel vojaški odbor sirske regionalne veje Arabske socialistične stranke Baath. Načrtovanje in izvedbo zarote sirskih baatistov je spodbudil prevzem oblasti stranke Baath v Iraku februarja 1963."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "1963 Syrian coup d'état",
+    "rev": 1370267842,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The 1963 Syrian coup d'état, labelled in Ba'athist historiography as the March 8 Revolution (Arabic: ثورة الثامن من آذار), was the seizure of power in Syria by the military committee of the Syrian Regional Branch of the Arab Socialist Ba'ath Party. The planning and the unfolding conspiracy of the Syrian Ba'athist operatives were prompted by the Ba'ath party's seizure of power in Iraq in February 1963."
+    ]
+   },
+   "records": [
+    "Q2475925"
+   ],
+   "translated": "2026-10-23"
+  },
+  "1966 Syrian coup d'état": {
+   "headline": "Državni udar v Siriji leta 1966",
+   "paragraphs": [
+    "V sirskem državnem udaru leta 1966 (21.–23. februarja) so vlado Sirske arabske republike strmoglavili in zamenjali. Vladajoče narodno poveljstvo Arabske socialistične stranke Baath je z oblasti odstranila zveza strankinega vojaškega odbora in sirske regionalne veje pod vodstvom Salaha Džadida.",
+    "Udar je sprožil zaostreni boj za oblast med staro gardo stranke, ki so jo zastopali Michel Aflaq, Salah al Din al Bitar in Munif al Razaz, ter radikalnimi levičarskimi frakcijami, privrženkami neobaatističnega stališča. Privrženci stare garde v vojski so 21. februarja ukazali premestitev tekmecev. Dva dni pozneje je vojaški odbor, ki je podpiral radikalne levičarske frakcije, sprožil udar z nasilnimi boji v Alepu, Damasku, Dejr ez Zorju in Latakiji. Zgodovinski ustanovitelji stranke so po udaru pobegnili iz države in preostanek življenja preživeli v izgnanstvu."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "1966 Syrian coup d'état",
+    "rev": 1373445341,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "In the 1966 Syrian coup d'état (21–23 February) the government of the Syrian Arab Republic was overthrown and replaced. The ruling National Command of the Arab Socialist Ba'ath Party were removed from power by a union of the party's Military Committee and the Syrian Regional Branch, under the leadership of Salah Jadid.",
+     "The coup was precipitated by a heightening in the power struggle between the party's old guard, represented by Michel Aflaq, Salah al-Din al-Bitar, and Munif al-Razzaz, and the radical leftist factions adhering to a Neo-Ba'athist position. On 21 February, supporters of the old guard in the army ordered the transfer of their rivals. Two days later, the Military Committee, backing the radical leftist factions, launched a coup that involved violent fighting in Aleppo, Damascus, Deir ez-Zor, and Latakia. As a result of the coup, the party's historical founders fled the country and spent the rest of their lives in exile."
+    ]
+   },
+   "records": [
+    "Q3560385"
+   ],
+   "translated": "2026-10-23"
+  },
+  "1970 Syrian coup d'etat": {
+   "headline": "Državni udar v Siriji leta 1970",
+   "paragraphs": [
+    "Sirski državni udar leta 1970, imenovan tudi popravna revolucija (arabsko: Thawrat al-Tashih) ali popravno gibanje (al-Ḥarakah at-Taṣḥīḥīyya), je bil nekrvav vojaški državni udar, ki ga je 13. novembra 1970 v Siriji vodil general Hafez al Asad. Asad je obljubil, da bo ohranil in izboljšal »nacionalno socialistično linijo« države in stranke Baath. Stranka je ideološko revidirala svoja stališča in se odrekla nauku Salaha Džadida o izvažanju revolucij. Nova doktrina je poudarjala poraz Izraela z razvojem sirske vojske ob podpori Sovjetske zveze.",
+    "Asad je baatistični Siriji vladal do smrti leta 2000, nasledil pa ga je sin Bašar al Asad, ki je vladal do propada svojega režima decembra 2024."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "1970 Syrian coup d'etat",
+    "rev": 1373350919,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The 1970 Syrian coup d'etat, also called the Corrective Revolution (Arabic: ثورة التصحيح, romanized: Thawrat al-Tashih) or the Corrective Movement (Arabic: الحركة التصحيحية, romanized: al-Ḥarakah at-Taṣḥīḥīyya), was a bloodless military coup d'état led by General Hafez al-Assad on 13 November 1970 in Syria. Assad promised to sustain and improve the \"nationalist socialist line\" of the state and the Ba'ath Party. The Ba'ath party adopted an ideological revision, absolving itself of Salah Jadid's doctrine of exporting revolutions. The new doctrine placed emphasis on defeating Israel, by developing the Syrian military with the support of the Soviet Union.",
+     "Assad would rule Ba'athist Syria until his death in 2000, after which he was succeeded by his son Bashar al-Assad who in turn ruled until the collapse of his regime in December 2024."
+    ]
+   },
+   "records": [
+    "Q14947304"
+   ],
+   "translated": "2026-10-23"
+  },
+  "1973 Israeli raid in Lebanon": {
+   "headline": "Izraelski napad v Libanonu leta 1973",
+   "paragraphs": [
+    "V noči z 9. na 10. april 1973 so enote za posebne naloge izraelskih obrambnih sil napadle več ciljev Palestinske osvobodilne organizacije (PLO) v Bejrutu in Sidonu v Libanonu. Napad, znan kot operacija Pomlad mladosti, na splošno šteje za del operacije Božja jeza, izraelskega povračila za pokol v Münchnu na poletnih olimpijskih igrah leta 1972.",
+    "Izraelski vojaki so na libanonske plaže prispeli z gliserji, spuščenimi z raketnih čolnov na odprtem morju. Agenti Mosada so jih na plažah pričakali z avtomobili, najetimi prejšnji dan, jih odpeljali do ciljev in pozneje nazaj na plaže, od koder so se umaknili.",
+    "Med operacijo so bili ubiti trije najvišji voditelji PLO, ki so jih presenetili doma, in drugi člani PLO. Umrlo je tudi več libanonskih varnostnikov in civilnih sosedov ter dva izraelska vojaka."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "1973 Israeli raid in Lebanon",
+    "rev": 1381023022,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "On the night of April 9 and early morning of April 10, 1973, Israel Defense Forces special forces units attacked several Palestine Liberation Organization (PLO) targets in Beirut and Sidon, Lebanon. The attack, known as Operation Spring of Youth, is generally considered to have been part of Operation Wrath of God, Israel's retaliation for the Munich massacre at the 1972 Summer Olympics.",
+     "The Israeli troops arrived at the Lebanese beaches on speedboats launched from missile boats offshore. Mossad agents awaited the forces on the beaches with cars rented the previous day, and then drove them to their targets and later back to the beaches for extraction.",
+     "During the operation, three of the highest-level PLO leaders, surprised at home, were killed, along with other PLO members. Several Lebanese security people and civilian neighbors were also killed, as were two of the Israeli soldiers."
+    ]
+   },
+   "records": [
+    "Q654777"
+   ],
+   "translated": "2026-10-23"
+  },
+  "1975 Algiers Agreement": {
+   "headline": "Alžirski sporazum leta 1975",
+   "paragraphs": [
+    "Alžirski sporazum leta 1975, znan tudi kot alžirski sporazumi ali alžirska deklaracija, sta podpisala Iran in Irak, da bi rešila vse odprte ozemeljske spore ob iransko-iraški meji. Posredovala je Alžirija, sporazum pa je bil podlaga za nadaljnji dvostranski pogodbi, podpisani 13. junija 1975 in 26. decembra 1975. Ozemeljski spori so zadevali iraški Šat al Arab in iransko provinco Huzestan; Irak se je hotel pogajati, da bi končal iransko podporo tedanjemu kurdskemu uporu v Iraku, potem ko je bil v spopadu za Šat al Arab v letih 1974–1975 vojaško poražen. Iraška vlada je pogodbo 17. septembra 1980, kmalu po iranski revoluciji, zaradi nove vrste obmejnih spopadov med državama razveljavila. Z iraško invazijo na Iran 22. septembra 1980, ki je sprožila osemletno iransko-iraško vojno, je pogodba povsem prenehala veljati."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "1975 Algiers Agreement",
+    "rev": 1366753231,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The 1975 Algiers Agreement, also known as the Algiers Accords and the Algiers Declaration, was signed between Iran and Iraq to settle any outstanding territorial disputes along the Iran–Iraq border. Mediated by Algeria, it served as the basis for additional bilateral treaties signed on 13 June 1975 and 26 December 1975. The territorial disputes in question concerned Iraq's Shatt al-Arab and Iran's Khuzestan Province, and Iraq had wished to negotiate to end Iran's support for the then-ongoing Iraqi Kurdish rebellion after suffering a military defeat in the 1974–1975 Shatt al-Arab conflict. On 17 September 1980, shortly after the Iranian Revolution, the Iraqi government abrogated the treaty in light of another series of cross-border clashes between the two countries. On 22 September 1980, the treaty was completely voided with the Iraqi invasion of Iran, which triggered the eight-year-long Iran–Iraq War."
+    ]
+   },
+   "records": [
+    "Q321865"
+   ],
+   "translated": "2026-10-23"
+  },
+  "1978 South Lebanon conflict": {
+   "paragraphs": [
+    "Južnolibanonski konflikt leta 1978, znan tudi kot prva izraelska invazija na Libanon, z izraelskim kodnim imenom operacija Litani, se je začel, ko je Izrael marca 1978 vdrl v južni Libanon do reke Litani. To je bil odgovor na pokol na obalni cesti pri Tel Avivu, ki so ga zagrešili palestinski borci s sedežem v Libanonu. V spopadu je umrlo od 1100 do 2000 Libanoncev in Palestincev ter 20 Izraelcev, od 100.000 do 250.000 ljudi pa je bilo v Libanonu notranje razseljenih. Izraelske obrambne sile so vojaško zmagale nad Palestinsko osvobodilno organizacijo (PLO), ki se je morala umakniti iz južnega Libanona, kar ji je onemogočilo napade na Izrael čez kopensko mejo z Libanonom. Varnostni svet Združenih narodov je po izbruhu sovražnosti 19. marca 1978 sprejel resoluciji 425 in 426, ki sta Izrael pozvali k takojšnjemu umiku čet iz Libanona in ustanovili začasne sile Združenih narodov v Libanonu (UNIFIL).",
+    "Izrael je leta 1982 drugič vdrl v Libanon."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "1978 South Lebanon conflict",
+    "rev": 1374105109,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The 1978 South Lebanon conflict, also known as the First Israeli invasion of Lebanon and codenamed Operation Litani by Israel, began when Israel invaded southern Lebanon up to the Litani River in March 1978. It was in response to the Coastal Road massacre near Tel Aviv by Palestinian militants based in Lebanon. The conflict resulted in the deaths of 1,100–2,000 Lebanese and Palestinians, 20 Israelis, and the internal displacement of 100,000 to 250,000 people in Lebanon. The Israel Defense Forces gained a military victory against the Palestine Liberation Organization (PLO) as the latter was forced to withdraw from southern Lebanon, preventing it from launching attacks on Israel from across its land border with Lebanon. In response to the outbreak of hostilities, the United Nations Security Council adopted Resolution 425 and Resolution 426 on 19 March 1978, which called on Israel to immediately withdraw its troops from Lebanon and established the United Nations Interim Force in Lebanon (UNIFIL).",
+     "Israel launched a second invasion of Lebanon in 1982."
+    ]
+   },
+   "records": [
+    "Q1121402"
+   ],
+   "translated": "2026-10-23"
+  },
+  "1982 Lebanon War": {
+   "paragraphs": [
+    "Libanonska vojna leta 1982, imenovana tudi druga izraelska invazija na Libanon, se je začela 6. junija 1982, ko je Izrael vdrl v južni Libanon. Invaziji je sledila vrsta napadov in protinapadov med Palestinsko osvobodilno organizacijo (PLO), ki je delovala v južnem Libanonu, in izraelskimi obrambnimi silami (IDF), ki so zahtevali civilne žrtve na obeh straneh meje. Izraelska vojaška operacija s kodnim imenom Mir za Galilejo se je začela, potem ko so oboroženci Organizacije Abu Nidal poskušali umoriti Šloma Argova, izraelskega veleposlanika v Združenem kraljestvu. Izraelski premier Menahem Begin je za napad okrivil PLO in ga uporabil kot casus belli. Bila je druga izraelska invazija na Libanon, za južnolibanonskim konfliktom leta 1978."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "1982 Lebanon War",
+    "rev": 1381378524,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The 1982 Lebanon War, also called the Second Israeli invasion of Lebanon, began on 6 June 1982, when Israel invaded southern Lebanon. The invasion followed a series of attacks and counter-attacks between the Palestine Liberation Organization (PLO) operating in southern Lebanon and the Israel Defense Forces (IDF), which had caused civilian casualties on both sides of the border. The Israeli military operation, codenamed Operation Peace for Galilee, was launched after gunmen from the Abu Nidal Organization attempted to assassinate Shlomo Argov, Israel's ambassador to the United Kingdom. Israeli prime minister Menachem Begin blamed the PLO, using the incident as a casus belli. It was the second invasion of Lebanon by Israel, following the 1978 South Lebanon conflict."
+    ]
+   },
+   "records": [
+    "Q49103"
+   ],
+   "translated": "2026-10-23"
+  },
+  "1991 Iraqi uprisings": {
+   "paragraphs": [
+    "Iraške vstaje leta 1991 so bile etnične in verske vstaje proti baatističnemu režimu Sadama Huseina, ki so jih vodili predvsem šiitski uporniki in Kurdi. Trajale so od marca do aprila 1991, po premirju ob koncu zalivske vojne. Večinoma neusklajeni upor je spodbujal vtis, da je iraški predsednik Sadam Husein postal ranljiv in da je zamenjava režima mogoča. Ta vtis šibkosti je bil v veliki meri posledica izida iransko-iraške in zalivske vojne, ki sta se zvrstili v enem samem desetletju in opustošili prebivalstvo in gospodarstvo Iraka."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "1991 Iraqi uprisings",
+    "rev": 1380694272,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The 1991 Iraqi uprisings were ethnic and religious uprisings against Saddam Hussein's Ba'athist regime that were mainly led by Shia rebels and Kurds. The uprisings lasted from March to April 1991 after a ceasefire following the end of the Gulf War. The mostly uncoordinated insurgency was fueled by the perception that Iraqi President Saddam Hussein had become vulnerable to regime change. This perception of weakness was largely the result of the outcome of the Iran–Iraq War and the Gulf War, both of which occurred within a single decade and devastated the population and economy of Iraq."
+    ]
+   },
+   "records": [
+    "Q760002"
+   ],
+   "translated": "2026-10-23"
+  },
+  "2003 invasion of Iraq": {
+   "paragraphs": [
+    "Invazija na Irak leta 2003 je bila prva faza iraške vojne. Začela se je 20. marca 2003 in trajala nekaj več kot mesec dni, od tega 26 dni velikih bojnih operacij. Izvedla jo je koalicija pod vodstvom Združenih držav, ki so jo sestavljali predvsem ameriški, britanski, avstralski in poljski vojaki.",
+    "Po besedah ameriškega predsednika Georgea W. Busha in britanskega premiera Tonyja Blaira je koalicija hotela Irak razorožiti orožja za množično uničevanje – jedrskega, kemičnega in biološkega – in »osvoboditi iraško ljudstvo« z odstavitvijo predsednika Sadama Huseina ter s tem končati njegovo »podporo terorizmu«. Inšpektorji Združenih narodov (OZN) pred invazijo v Iraku niso našli nobenih dokazov o iraškem orožju za množično uničevanje; ameriški in britanski uradniki so trdili, da je še vedno skrito in da neposredno ogroža svetovni mir."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "2003 invasion of Iraq",
+    "rev": 1381285178,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The 2003 invasion of Iraq was the first stage of the Iraq War. The invasion began on 20 March 2003 and lasted just over one month, including 26 days of major combat operations. The invasion was conducted by a United States–led coalition of mainly American, British, Australian, and Polish troops.",
+     "According to US president George W. Bush and UK prime minister Tony Blair, the coalition aimed to disarm Iraq of weapons of mass destruction (WMDs)—nuclear, chemical, and biological weapons—and \"free the Iraqi people\" by deposing president Saddam Hussein, in turn ending his \"support for terrorism\". Before the invasion, United Nations (UN) inspectors in Iraq had found no evidence of Iraqi WMDs; US and British officials claimed they were still hidden, and posed an immediate threat to world peace."
+    ]
+   },
+   "records": [
+    "Q107802"
+   ],
+   "translated": "2026-10-23"
+  },
+  "2006 Lebanon War": {
+   "paragraphs": [
+    "Libanonska vojna leta 2006 je bil 34-dnevni oboroženi spopad v Libanonu med Hezbolahom in Izraelom. Začela se je 12. julija 2006 in trajala, dokler ni zjutraj 14. avgusta 2006 začelo veljati premirje, ki so ga posredovali Združeni narodi; formalno se je končala 8. septembra 2006, ko je Izrael odpravil pomorsko blokado Libanona. Bila je tretja izraelska invazija na Libanon po letu 1978."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "2006 Lebanon War",
+    "rev": 1381081786,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The 2006 Lebanon War was a 34-day armed conflict in Lebanon, fought between Hezbollah and Israel. The war started on 12 July 2006 and continued until a United Nations-brokered ceasefire went into effect in the morning on 14 August 2006, though it formally ended on 8 September 2006 when Israel lifted its naval blockade of Lebanon. It marked the third Israeli invasion into Lebanon since 1978."
+    ]
+   },
+   "records": [
+    "Q49104"
+   ],
+   "translated": "2026-10-23"
+  },
   "Afsharid Iran": {
    "paragraphs": [
     "Zavarovane dežele Irana, splošno znane kot afšaridski Iran, afšaridska Perzija ali Afšaridski imperij, so bile iranski imperij, ki ga je ustanovilo turkmensko pleme Afšar v severovzhodni iranski provinci Horasan; dinastija Afšaridov je Iranu vladala sredi 18. stoletja. Njen ustanovitelj Nader šah je bil uspešen vojskovodja, ki je leta 1736 odstavil zadnjega pripadnika dinastije Safavidov in se razglasil za šaha.",
@@ -45,6 +399,29 @@
    ],
    "translated": "2026-10-23"
   },
+  "Alid dynasties of northern Iran": {
+   "headline": "Alidske dinastije severnega Irana",
+   "paragraphs": [
+    "Alidske dinastije severnega Irana ali Alavidi (perzijsko: علویان طبرستان). V 9. in 10. stoletju so severnoiranske pokrajine Tabaristan, Dajlam in Gilan, stisnjene med Kaspijsko jezero in gorovje Alborz, prišle pod oblast več alidskih dinastij, privrženk zajdijske veje šiitskega islama.",
+    "Prvi in najmogočnejši zajdijski emirat so ustanovili v Tabaristanu leta 864 in je trajal do leta 928. Leta 900 ga je prekinila samanidska zasedba, leta 914 pa ga je obnovila druga alidska veja.",
+    "Drugo obdobje alidskega emirata so pestili notranji spori in boji za oblast med vejama, končalo pa se je leta 928 z drugo samanidsko osvojitvijo pokrajine. Nekateri alavidski vojaki in generali so nato prestopili k Samanidom, med njimi Mardavidž, ustanovitelj dinastije Zijaridov, in trije Bujini sinovi (Ali, Hasan in Ahmad), ustanovitelji dinastije Bujidov."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Alid dynasties of northern Iran",
+    "rev": 1379650691,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Alid dynasties of northern Iran or Alavids (Persian: علویان طبرستان). In the 9th–10th centuries, the northern Iranian regions of Tabaristan, Daylam and Gilan, sandwiched between the Caspian Sea and the Alborz range, came under the rule of a number of Alid dynasties, espousing the Zaydi branch of Shia Islam.",
+     "The first and most powerful Zaydi emirate was established in Tabaristan in 864 and lasted until 928. It was interrupted by Samanid occupation in 900, but restored in 914 by another Alid branch.",
+     "The second period of the Alid emirate was plagued by internal dissensions and power struggles between the two branches, and ended in the second conquest of the region by the Samanids in 928. Subsequently, some of the soldiers and generals of the Alavids joined the Samanids, among them Mardavij, founder of the Ziyarid dynasty, and the three sons of Buya (Ali, Hassan and Ahmad), founders of the Buyid dynasty."
+    ]
+   },
+   "records": [
+    "zaydi-alid-dynasties"
+   ],
+   "translated": "2026-10-23"
+  },
   "Arab Federation": {
    "paragraphs": [
     "Hašemitska arabska federacija je bila kratkotrajna konfederacija hašemitskih kraljevin Irak in Jordanija, ki je trajala od 14. februarja do 2. avgusta 1958. Čeprav ime nakazuje zvezno ureditev, je bila dejansko konfederacija.",
@@ -62,6 +439,26 @@
    },
    "records": [
     "arab-federation"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Arab Iraq": {
+   "paragraphs": [
+    "Arabski Irak (arabsko: ‘Irāq ul-‘Arab, dobesedno »Irak Arabcev«) je bil zgodovinski zemljepisni izraz, s katerim so srednjeveški in zgodnjenovoveški pisci označevali pokrajino Irak v Mezopotamiji, pogosto s središčem v spodnji Mezopotamiji. Njegov natančni obseg se je razlikoval glede na pisca in obdobje, nekateri viri pa ga opisujejo kot ozemlje, ki se v grobem ujema z velikim delom današnjega Iraka.",
+    "Izraz »arabski Irak« (perzijsko: Irâq-e Arab) se je razširil v seldžuškem obdobju (11.–12. stoletje), da bi zgodovinsko pokrajino Mezopotamijo (pravi Irak) ločili od »perzijskega Iraka« (Irâq-e Ajam), pokrajine, ki so jo prej imenovali al Džibal in je bila povezana z zgodovinsko pokrajino Medijo. Perzijski in arabski Irak so skupaj pogosto imenovali »al Irakajn«, »oba Iraka«. Gorata ozemlja med njima, Kurdistan, Luristan in Bahtiari, so glede na vojaške razmere lahko pripadala enemu ali drugemu, a so ne glede na to pogosto ohranjala veliko samostojnost."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Arab Iraq",
+    "rev": 1381157599,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Arab Iraq or Arabian Iraq (Arabic: عراق العرب, romanized: ‘Irāq ul-‘Arab, lit. 'Iraq of the Arabs') was a historical geographical term used by medieval and early modern writers for the region of Iraq in Mesopotamia, often centered in Lower Mesopotamia. Its precise extent varied by author and period, and some sources describe Arab Iraq as corresponding roughly to much of modern Iraq.",
+     "The term \"Arab Iraq\" (Persian: عراق عرب, romanized: Irâq-e Arab) became commonly used in the Seljuk period (11th–12th centuries) as a way to distinguish the historical region of Mesopotamia (Iraq proper) from \"Persian Iraq\" (Persian: عراق عجم, romanized: Irâq-e Ajam), a region previously referred to as al-Jibal, associated with the historical region of Media. Persian Iraq and Arab Iraq were often referred to as \"al-Iraqayn\" (Arabic: العراقين) meaning \"the two Iraqs\" collectively. The mountainous territories between them, comprising Kurdistan, Luristan, and Bakhtiyari, could have fell under either region depending on the military situation, but often maintained a high degree of autonomy regardless."
+    ]
+   },
+   "records": [
+    "hashemite-arab-federation"
    ],
    "translated": "2026-10-23"
   },
@@ -99,6 +496,25 @@
    },
    "records": [
     "assyrian-egypt"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Chobanids": {
+   "headline": "Čobanidi",
+   "paragraphs": [
+    "Čobanidi ali Čupanidi (perzijsko: چوپانیان) so bili potomci mongolske družine iz klana Suldus, ki se je v Perziji uveljavila v 14. stoletju. Sprva so služili Ilkanom, po padcu Ilkanata pa so dejansko prevzeli oblast nad ozemljem. Vladali so Azerbajdžanu (kjer so imeli sedež), Aranu, delom Male Azije, Mezopotamiji in zahodni osrednji Perziji, Bagdad pa so prevzeli Džalairidi."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Chobanids",
+    "rev": 1373741819,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Chobanids or the Chupanids (Persian: چوپانیان) were descendants of a Mongol family of the Suldus clan that came to prominence in 14th century Persia. At first serving under the Ilkhans, they took de facto control of the territory after the fall of the Ilkhanate. The Chobanids ruled over Azerbaijan (where they were based), Arrān, parts of Asia Minor, Mesopotamia, and west central Persia, while the Jalayirids took control in Baghdad."
+    ]
+   },
+   "records": [
+    "chobanids"
    ],
    "translated": "2026-10-23"
   },
@@ -319,6 +735,24 @@
    ],
    "translated": "2026-10-23"
   },
+  "Iberian Union": {
+   "paragraphs": [
+    "Iberska unija ali hispanska monarhija označuje obdobje od leta 1580 do 1640, ko je španska monarhija pod habsburško dinastijo, tedaj personalna unija kron Kastilje in Aragona, v personalno unijo pritegnila še Kraljevino Portugalsko. Pod španskimi habsburškimi vladarji Filipom II., Filipom III. in Filipom IV. je obsegala ves Iberski polotok razen Andore in francoskega ozemlja ter portugalske in španske čezmorske posesti. Unija se je začela po portugalski nasledstveni krizi leta 1580 in vojni za portugalsko nasledstvo, ki je sledila, trajala pa je do portugalske restavracijske vojne, v kateri je z razglasitvijo Ivana IV. za novega portugalskega kralja na oblast prišla nova vladajoča dinastija, rodbina Braganza."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Iberian Union",
+    "rev": 1377057944,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Iberian Union, or the Hispanic Monarchy, describes the period from 1580 to 1640 in which the Monarchy of Spain under the Habsburg dynasty, then the personal union of the crowns of Castile and Aragon, brought in personal union also the Kingdom of Portugal. It incorporated the entire Iberian Peninsula, except Andorra and French territory, as well as Portuguese and Spanish overseas possessions, under the Spanish Habsburg monarchs Philip II, Philip III, and Philip IV. The union began after the Portuguese succession crisis of 1580 and the ensuing War of the Portuguese Succession, and lasted until the Portuguese Restoration War, during which the House of Braganza was established as Portugal's new ruling dynasty with the acclamation of John IV as the new king of Portugal."
+    ]
+   },
+   "records": [
+    "iberian-union"
+   ],
+   "translated": "2026-10-23"
+  },
   "Imams of Yemen": {
    "paragraphs": [
     "Jemenski imami, pozneje tudi jemenski kralji, so bili verski voditelji (imami) zajdijske veje šiitskega islama. Od leta 897 so v delih Jemna vzpostavili preplet verske in posvetne politične oblasti. Njihov imamat se je v spreminjajočih se okoliščinah ohranil do konca severnojemenske državljanske vojne leta 1970, ki je sledila republikanski revoluciji leta 1962. Zajdijska teologija se od ismailizma in dvanajstniškega šiizma razlikuje po tem, da poudarja navzočnost dejavnega in vidnega imama kot voditelja. Od imama so pričakovali, da je podkovan v verskih vedah in se izkaže kot vreden voditelj skupnosti, če je bilo treba, tudi v boju. Kdor se je potegoval za imamat, je razglasil »poziv« (dava), in ni bilo redko, da je bilo kandidatov več."
@@ -352,6 +786,25 @@
    },
    "records": [
     "indo-scythians"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Injuids": {
+   "headline": "Indžuidi",
+   "paragraphs": [
+    "Indžuidi (perzijsko: اینجویان), tudi Indžu ali rodbina Indžu, so bili iranska dinastija perzijskega izvora, ki je v 14. stoletju zavladala mestoma Širaz in Isfahan. Po razpadu Ilkanata so njeni člani postali dejansko neodvisni vladarji, dokler jih leta 1357 niso porazili Muzafaridi."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Injuids",
+    "rev": 1373691622,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Injuids (Persian: اینجویان), also Injus or House of Inju, were an Iranian dynasty of Persian origin that came to rule over the cities of Shiraz and Isfahan during the 14th century. Its members became de facto independent rulers following the breakup of the Ilkhanate until their defeat in 1357 against the Muzaffarids."
+    ]
+   },
+   "records": [
+    "injuids"
    ],
    "translated": "2026-10-23"
   },
@@ -483,6 +936,24 @@
    },
    "records": [
     "kingdom-of-iraq"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Kingdom of Judah": {
+   "paragraphs": [
+    "Kraljestvo Juda je bilo izraelsko kraljestvo na južnem Levantu v železni dobi. Središče je imelo v višavju zahodno od Mrtvega morja, prestolnica pa je bil Jeruzalem. Štiri stoletja mu je vladala Davidova rodbina. Judje so dobili ime po Judi in izhajajo predvsem od ljudi, ki so živeli na tem območju."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Judah",
+    "rev": 1380597115,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Kingdom of Judah was an Israelite kingdom of the Southern Levant during the Iron Age. Centered in the highlands to the west of the Dead Sea, the kingdom's capital was Jerusalem. It was ruled by the House of David for four centuries. Jews are named after Judah, and primarily descend from people who lived in the region."
+    ]
+   },
+   "records": [
+    "kingdom-of-judah"
    ],
    "translated": "2026-10-23"
   },
@@ -627,6 +1098,29 @@
    ],
    "translated": "2026-10-23"
   },
+  "Muzaffarids": {
+   "headline": "Muzafaridi",
+   "paragraphs": [
+    "Izraz Muzafaridi ali dinastija Muzafaridov lahko označuje:",
+    "Muzafaridi (Iran), vladarji delov osrednjega in jugozahodnega Irana od leta 1335 do 1393,",
+    "Muzafaridi (Gudžarat), vladarji Gudžaratskega sultanata v Indiji od leta 1391 do 1583."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Muzaffarids",
+    "rev": 1294050828,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "Muzaffarids or Muzaffarid dynasty may refer to:",
+     "Muzaffarids (Iran), rulers of parts of central and southwestern Iran from 1335 to 1393",
+     "Muzaffarids (Gujarat), rulers of the Sultanate of Gujarat in India from 1391 to 1583"
+    ]
+   },
+   "records": [
+    "muzaffarids"
+   ],
+   "translated": "2026-10-23"
+  },
   "Nabhani dynasty": {
    "headline": "Nabhanidi",
    "paragraphs": [
@@ -709,6 +1203,29 @@
    ],
    "translated": "2026-10-23"
   },
+  "North Yemen": {
+   "paragraphs": [
+    "Severni Jemen (arabsko: al-Yaman al-šamāliyya) je izraz za Kraljevino Jemen (1918–1962), Jemensko arabsko republiko (1962–1990) in režime pred njima, ki so imeli suverenost nad tem delom Jemna. Prestolnica je bila Sana od leta 1918 do 1948 in znova od leta 1962 do 1990. Pokrajina (Gornji Jemen) leži na jugozahodu Arabskega polotoka in meri približno 136.000 kvadratnih kilometrov, pred združitvijo Jemna pa je imela okoli trinajst milijonov prebivalcev. Na severu je mejila na Savdsko Arabijo, na jugu in vzhodu na Južni Jemen, na zahodu na Rdeče morje, na jugozahodu pa na Bab el Mandeb.",
+    "Severni Jemen je postal član Združenih narodov 30. septembra 1947. Leta 1962 je izbruhnila krvava državljanska vojna, ki se je leta 1970 končala z odpravo monarhije in ustanovitvijo republike. Skupaj z Južnim Jemnom je bil ena od predhodnic Republike Jemen, dokler se nista leta 1990 združila."
+   ],
+   "notes": [
+    "The glossary names this record Nordjemen, which is not Slovenian; the text uses Severni Jemen."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "North Yemen",
+    "rev": 1377852672,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "North Yemen (Arabic: اليمن الشمالي, romanized: al-Yaman al-šamāliyya) is a term used to describe the Kingdom of Yemen (1918–1962), the Yemen Arab Republic (1962–1990), and the regimes that preceded them and exercised sovereignty over that region of Yemen. Its capital was Sanaa from 1918 to 1948 and again from 1962 to 1990. Located in the southwestern part of the Arabian Peninsula, the area of the region (Upper Yemen) is approximately 136,000 square kilometers, and it used to have a population of about thirteen million people prior to the Yemeni unification. It was bordered to the north by Saudi Arabia, to the south and east by South Yemen, to the west by the Red Sea, and to Bab al-Mandab in the southwest.",
+     "North Yemen was admitted to the United Nations on September 30, 1947. In 1962, the country fought a bloody civil war that ended with the abolition of the monarchy and the creation of a republic in 1970. It was one of the predecessor states of the Republic of Yemen, alongside South Yemen, until its eventual unification in 1990."
+    ]
+   },
+   "records": [
+    "north-yemen"
+   ],
+   "translated": "2026-10-23"
+  },
   "Philistia": {
    "paragraphs": [
     "Filisteja označuje ozemlje Filistejcev v Kanaanu, kjer so imeli zvezo petih mest: Gaze, Aškelona, Ašdoda, Ekrona in Gata. Nekaj časa je Filisteji pripadala tudi Jafa, ki je morda za kratek čas prešla v izraelske roke, preden jo je med Senaheribovim levantskim pohodom dokončno dobilo Novoasirsko cesarstvo.",
@@ -766,6 +1283,25 @@
    ],
    "translated": "2026-10-23"
   },
+  "Sajid dynasty": {
+   "headline": "Sadžidi",
+   "paragraphs": [
+    "Sadžidi (perzijsko: sâjiyân, znani tudi kot Banu Sadž) so bili muslimanska dinastija iranskega izvora, ki je vladala od leta 889/890 do 929. Azerbajdžanu in delom Armenije so vladali najprej iz Marage in Barde, nato pa iz Ardabila. Izvirali so iz srednjeazijske pokrajine Ušrusana, bili so iranskega (sogdijskega) rodu in kulturno arabizirani. Mohameda ibn Abi Sadža Divdada, sina Divdada, prvega sadžidskega vladarja Azerbajdžana, so za vladarja imenovali leta 889 ali 890. Mohamedov oče Abu Sadž Devdad se je bojeval pod ušrusanskim knezom Afšinom Hajdarjem v njegovem zadnjem pohodu proti uporniku Babaku Horamdinu v Azerbajdžanu, pozneje pa je služil kalifom. Proti koncu desetega stoletja, ko je osrednja oblast Abasidskega kalifata slabela, je Mohamed lahko ustanovil skoraj neodvisno državo. Sadžidi so večino moči vložili v poskuse, da bi zavladali sosednji Armeniji. Dinastija se je končala s smrtjo Abu Musafirja al Fataha leta 929."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Sajid dynasty",
+    "rev": 1381107918,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Sajid dynasty (Persian: ساجیان, romanized: sâjiyân, also known as Banu Saj) was a Muslim dynasty, of Iranian origin, that ruled from 889/890 until 929. The Sajids ruled Azerbaijan and parts of Armenia first from Maragha and Barda and then from Ardabil. The Sajids originated from the Central Asian province of Ushrusana and were of Iranian (Sogdian) descent and culturally Arabised. Muhammad ibn Abi'l-Saj Diwdad the son of Diwdad, the first Sajid ruler of Azerbaijan, was appointed as its ruler in 889 or 890. Muhammad's father Abu'l-Saj Devdad had fought under the Ushrusanan prince Afshin Khaydar during the latter's final campaign against the rebel Babak Khorramdin in Azerbaijan, and later served the caliphs. Toward the end of the tenth century, as the central authority of the Abbasid Caliphate weakened, Muhammad was able to form a virtually independent state. Much of the Sajids' energies were spent in attempting to take control of neighboring Armenia. The dynasty ended with the death of Abu'l-Musafir al-Fath in 929."
+    ]
+   },
+   "records": [
+    "sajid-dynasty"
+   ],
+   "translated": "2026-10-23"
+  },
   "Samanid Empire": {
    "paragraphs": [
     "Samanidski imperij (perzijsko: Sāmāniyān) je bil perzijsko oblikovan sunitski muslimanski imperij, ki mu je od leta 819 do 999 vladala dinastija iranskega dihkanskega izvora. Središče je imel v Horasanu in Transoksaniji, na vrhuncu pa je obsegal severovzhodni Iran in Srednjo Azijo.",
@@ -785,6 +1321,252 @@
    },
    "records": [
     "samanid-empire"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Sarbadars": {
+   "headline": "Sarbadarji",
+   "paragraphs": [
+    "Sarbadarji (iz perzijskega sarbadār, »glava na vešalih«; znani tudi kot Sarbedaran) so bili mešanica verskih dervišev in posvetnih vladarjev, ki so sredi 14. stoletja, ko je razpadal mongolski Ilkanat, zavladali delu zahodnega Horasana (država je nastala leta 1337). S središčem v prestolnici Sabzevar so vladali, dokler se Hodža Ali Muajad leta 1381 ni podredil Timurju, in so bili ena redkih skupin, ki se jim je Timurjeva razvpita brutalnost večinoma izognila."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Sarbadars",
+    "rev": 1295430880,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Sarbadars (from Persian: سربدار sarbadār, \"head on gallows\"; also known as Sarbedaran سربداران) were a mixture of religious dervishes and secular rulers that came to rule over part of western Khurasan in the midst of the disintegration of the Mongol Ilkhanate in the mid-14th century (established in 1337). Centered in their capital of Sabzavar, they continued their reign until Khwaja 'Ali-yi Mu'ayyad submitted to Timur in 1381, and were one of the few groups that managed to mostly avoid Timur's famous brutality."
+    ]
+   },
+   "records": [
+    "sarbadars"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Scramble for Africa": {
+   "paragraphs": [
+    "Tekma za Afriko je bila invazija, osvojitev in kolonizacija večjega dela Afrike, ki jih je konec 19. in v začetku 20. stoletja, v dobi »novega imperializma«, izvedlo sedem zahodnoevropskih sil, ki jih je gnala druga industrijska revolucija. Za Afriko so tekmovale Belgija, Francija, Nemčija, Italija, Portugalska, Španija in Združeno kraljestvo.",
+    "Berlinska konferenca v letih 1884–1885 je uredila evropsko kolonizacijo in trgovino v Afriki in velja za simbol »tekme«. V zadnji četrtini 19. stoletja so med evropskimi imperiji vladala velika politična rivalstva, ki so spodbudila kolonizacijo. Konec 19. stoletja so prešli od »neformalnega imperializma«, vojaškega vpliva in gospodarske prevlade, k neposredni oblasti."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Scramble for Africa",
+    "rev": 1376647971,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Scramble for Africa was the invasion, conquest, and colonisation of most of Africa by seven Western European powers, which were driven by the Second Industrial Revolution during the late 19th and early 20th centuries through the era of \"New Imperialism\". Belgium, France, Germany, Italy, Portugal, Spain and the United Kingdom were the contending powers.",
+     "The 1884–1885 Berlin Conference regulated European colonisation and trade in Africa, and is seen as emblematic of the \"scramble\". In the last quarter of the 19th century, there were considerable political rivalries between the European empires, which provided the impetus for the colonisation. The later years of the 19th century saw a transition from \"informal imperialism\" – military influence and economic dominance – to direct rule."
+    ]
+   },
+   "records": [
+    "british-africa"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Second Syrian Republic": {
+   "paragraphs": [
+    "Druga sirska republika, uradno Sirska republika od leta 1950 do 1958 in Sirska arabska republika od leta 1961 do 1963, je nasledila prvo sirsko republiko, ki se je aprila 1946 dejansko osamosvojila od francoskega mandata. Ustanovila jo je sirska ustava iz leta 1950, ki je bila od leta 1950 do 1954, med vladavino Adiba Šišaklija, odložena, pozneje pa je prenehala veljati, ko se je Sirija leta 1958 z Republiko Egipt združila v Združeno arabsko republiko. Druga republika je bila obnovljena, ko je Sirija leta 1961 izstopila iz zveze. Leta 1963 je sirska stranka Baath z nekrvavim vojaškim udarom prevzela oblast, postavila temelje politične ureditve baatistične Sirije in končala obdobje demokratičnih poskusov v postkolonialni Siriji."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Second Syrian Republic",
+    "rev": 1373210392,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Second Syrian Republic, officially the Syrian Republic from 1950 to 1958 and the Syrian Arab Republic from 1961 to 1963, succeeded the First Syrian Republic, which had become de facto independent from the French Mandate in April 1946. The Second Republic was established under the Syrian Constitution of 1950, which was suspended from 1950 to 1954 during Adib Shishakli's rule and later became inoperative when Syria joined with the Republic of Egypt to form the United Arab Republic in 1958. The Second Republic was restored when Syria withdrew from the union in 1961. In 1963, the Syrian Ba'athist Party came to power in a bloodless military coup, which laid the foundations for the political structure of Ba'athist Syria and ended the era of democratic experimentation in post-colonial Syria."
+    ]
+   },
+   "records": [
+    "second-syrian-republic"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Seleucid dynasty": {
+   "paragraphs": [
+    "Selevkidi (grško: Σελευκίδαι, Seleukídai, »Selevkovi potomci«) so bili makedonska grška kraljeva rodbina, ki je v helenističnem obdobju vladala Selevkidskemu imperiju s središčem v zahodni Aziji. Ustanovil jo je Selevk I. Nikator, general in naslednik Aleksandra Velikega, po razdelitvi Makedonskega imperija v vojnah diadohov."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Seleucid dynasty",
+    "rev": 1373081090,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Seleucid dynasty or the Seleucidae (Greek: Σελευκίδαι, Seleukídai, \"descendants of Seleucus\") was a Macedonian Greek royal family, which ruled the Seleucid Empire based in West Asia during the Hellenistic period. It was founded by Seleucus I Nicator, a general and successor of Alexander the Great, after the division of the Macedonian Empire as a result of the Wars of the Successors (Diadochi)."
+    ]
+   },
+   "records": [
+    "seleucid-empire"
+   ],
+   "translated": "2026-10-23"
+  },
+  "South Yemen": {
+   "paragraphs": [
+    "Južni Jemen, uradno Ljudska demokratična republika Jemen (LDRJ), skrajšano Demokratični Jemen, je bila država v južni Arabiji, ki je na območju današnjega jugovzhodnega Jemna obstajala od leta 1967 do združitve z Jemensko arabsko republiko leta 1990. Bila je edina komunistična država na Bližnjem vzhodu in v arabskem svetu in je obsegala južne in vzhodne guvernorate današnje Republike Jemen, vključno z otoki Perim in Kamaran ter otočjem Sokotra. Z Jemensko arabsko republiko na severozahodu, Savdsko Arabijo na severu in Omanom na vzhodu je imela slabo določene in pogosto sporne meje. Prestolnica in največje mesto je bil Aden."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "South Yemen",
+    "rev": 1381264538,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "South Yemen, officially the People's Democratic Republic of Yemen (PDRY), abbreviated to Democratic Yemen, was a country in South Arabia that existed in what is now southeast Yemen from 1967 until its unification with the Yemen Arab Republic in 1990. The sole communist state in the Middle East and the Arab world, it comprised the southern and eastern governorates of the present-day Republic of Yemen, including the islands of Perim, Kamaran, and the Socotra Archipelago. It shared ill-defined and often disputed borders with the Yemen Arab Republic to the northwest, Saudi Arabia to the north, Oman to the east. Its capital and largest city was Aden."
+    ]
+   },
+   "records": [
+    "people-s-democratic-republic-of-yemen"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Sulayhid dynasty": {
+   "headline": "Sulajhidi",
+   "paragraphs": [
+    "Sulajhidi (arabsko: Banū Ṣulayḥ, dobesedno »Sulajhovi otroci«) so bili ismailitska šiitska arabska dinastija, ki jo je leta 1047 ustanovil Ali ibn Mohamed al Sulajhi in je na vrhuncu vladala večjemu delu zgodovinskega Jemna. Jemnu so prinesli mir in blaginjo, kakršne ni poznal od himjaritskih časov. Bili so zavezniki Fatimidskega kalifata s sedežem v Kairu in ves čas nasprotniki Rasidov, zajdijskih šiitskih vladarjev Jemna. Dinastija se je končala, ko se je Arva al Sulajhi pridružila tajjibitski veji ismailitov, za razliko od hafizitske veje, ki so se je držale druge ismailitske dinastije, kot so Zurajidi in Hamdanidi."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Sulayhid dynasty",
+    "rev": 1373209420,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Sulayhid dynasty (Arabic: بَنُو صُلَيْح, romanized: Banū Ṣulayḥ, lit. 'Children of Sulayh') was an Ismaili Shi'ite Arab dynasty established in 1047 by Ali ibn Muhammad al-Sulayhi that ruled most of historical Yemen at its peak. The Sulayhids brought to Yemen peace and a prosperity unknown since Himyaritic times. The regime was confederate with the Cairo-based Fatimid Caliphate, and was a constant enemy of the Rassids - the Zaidi Shi'ite rulers of Yemen throughout its existence. The dynasty ended with Arwa al-Sulayhi affiliating to the Taiyabi Ismaili sect, as opposed to the Hafizi Ismaili sect that the other Ismaili dynasties such as the Zurayids and the Hamdanids adhered to."
+    ]
+   },
+   "records": [
+    "sulayhid-dynasty"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Trucial States": {
+   "paragraphs": [
+    "Pogodbeni Oman, znan tudi kot Pogodbene države, Pogodbena obala ali Pogodbeni šejkati, je bil skupina plemenskih zvez na jugovzhodu Arabije ob Perzijskem zalivu, katerih voditelji so med letoma 1820 in 1892 z Britanskim imperijem podpisali zaščitne pogodbe.",
+    "Pogodbene države so ostale neformalni britanski protektorat, dokler pogodb 1. decembra 1971 niso preklicali. Naslednji dan je šest šejkatov – Dubaj, Abu Dabi, Šardža, Adžman, Um al Kajvajn in Fudžajra – ustanovilo Združene arabske emirate, sedmi, Ras al Hajma, pa se jim je pridružil 10. februarja 1972."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Trucial States",
+    "rev": 1380998609,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Trucial States, also known as the Trucial Coast, or the Trucial Sheikhdoms, or Trucial Oman, were a group of tribal confederations in southeastern Arabia along the Persian Gulf whose leaders had signed protective treaties with the British Empire between 1820 and 1892.",
+     "The Trucial States remained an informal British protectorate until the treaties were revoked on 1 December 1971. The following day, six of the sheikhdoms—Dubai, Abu Dhabi, Sharjah, Ajman, Umm Al Quwain and Fujairah—formed the United Arab Emirates; the seventh, Ras Al Khaimah, joined on 10 February 1972."
+    ]
+   },
+   "records": [
+    "trucial-states"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Uyunid dynasty": {
+   "paragraphs": [
+    "Ujunidi (arabsko: al-ʿUyūnīyūn) so bili arabska dinastija, ki je vzhodni Arabiji vladala 163 let, od 11. do 13. stoletja. Kot večina prebivalcev vzhodne Arabije so izhajali iz plemena Banu Abdul Kajs. Deželo so v letih 1077–1078 n. št. z vojaško pomočjo Velikega seldžuškega imperija iztrgali Karmatom, leta 651 po hidžri (1253 n. št.) pa je prešla v roke Usfuridov iz plemena Banu Ukajl. Ujunid je bil slavni pesnik Ali bin al Mugrab Al Ujuni."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Uyunid dynasty",
+    "rev": 1380434963,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Uyunid dynasty (Arabic: العيونيون, romanized: al-ʿUyūnīyūn) were an Arab dynasty that ruled Eastern Arabia for 163 years, from the 11th to the 13th centuries. They were, like the majority of the people of Eastern Arabia, from the Banu Abdul Qays tribe. They seized the country from the Qarmatians with the military assistance of Great Seljuq Empire in the year 1077–1078 CE. It then fell to the Usfurids of Banu Uqayl in 651 AH (1253 CE). The famous poet Ali bin al Mugrab Al Uyuni is a Uyunid."
+    ]
+   },
+   "records": [
+    "uyunid-emirate"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Ya'rubids": {
+   "headline": "Jarubidi",
+   "paragraphs": [
+    "Jarubidi (tudi Jaariba ali Jaarubi; arabsko: أسرة آل يعرب) so bili vladarji Omana med letoma 1624 in 1742 z nazivom imama. Portugalce so pregnali iz obalnih utrdb v Muškatu in deželo združili. Izboljšali so kmetijstvo, razširili trgovino in Oman razvili v veliko pomorsko silo. Njihove sile so Portugalce pregnale iz vzhodne Afrike in ustanovile trajna naselja na Zanzibarju, v Mombasi in drugod ob obali. Dinastija je izgubila oblast v boju za nasledstvo, ki se je začel leta 1712, in propadla po dolgotrajni državljanski vojni."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Ya'rubids",
+    "rev": 1366690760,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Yarubid dynasty (also Ya'ariba or Ya'arubi; Arabic: أسرة آل يعرب) were rulers of Oman between 1624 and 1742, holding the title of Imam. They expelled the Portuguese from coastal strongholds in Muscat and united the country. They improved agriculture, expanded trade and built up Oman into a major maritime power. Their forces expelled the Portuguese from East Africa and established long-lasting settlements on Zanzibar, Mombasa and other parts of the coast. The dynasty lost power during a succession struggle that started in 1712 and fell after a prolonged period of civil war."
+    ]
+   },
+   "records": [
+    "yarubid-dynasty"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Zand dynasty": {
+   "headline": "Dinastija Zand",
+   "paragraphs": [
+    "Dinastija Zand (perzijsko: Dudemān-e Zandiyān) je bila iranska dinastija, ki jo je ustanovil Karim kan Zand (vladal 1751–1779) iz plemena Zand ljudstva Lak in je vladala zandskemu Iranu."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Zand dynasty",
+    "rev": 1371117422,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Zand dynasty (Persian: دودمان زندیان, romanized: Dudemān-e Zandiyān) was an Iranian dynasty founded by Karim Khan Zand (r. 1751–1779) of the Zand tribe of the Laks who ruled over Zand Iran."
+    ]
+   },
+   "records": [
+    "zand-dynasty"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Ziyadid dynasty": {
+   "headline": "Zijadidi",
+   "paragraphs": [
+    "Zijadidi (arabsko: الزياديون) so bili muslimanska dinastija, ki je zahodnemu Jemnu od leta 819 do 1018 vladala iz prestolnice Zabid. Bili so prva dinastija, ki je po prihodu islama okoli leta 630 zavladala jemenskemu nižavju."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Ziyadid dynasty",
+    "rev": 1354382419,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Ziyadid dynasty (Arabic: الزياديون) was a Muslim dynasty that ruled western Yemen from 819 until 1018 from the capital city of Zabid. It was the first dynastic regime to wield power over the Yemeni lowland after the introduction of Islam in about 630."
+    ]
+   },
+   "records": [
+    "ziyadid-dynasty"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Ziyarid dynasty": {
+   "paragraphs": [
+    "Zijaridi (perzijsko: Ziyāriyān) so bili iranska dinastija gilaškega izvora, ki je v obdobju iranskega intermezza od leta 931 do 1090 vladala Tabaristanu. Uveljavili so se pod vodstvom Mardavidža. Po njegovi smrti sta njegov brat Vušmgir in samanidski zavezniki v začetku in sredi 10. stoletja z Bujidi tekmovala za ozemlje. Ko je Vušmgir umrl, sta se za vpliv borila njegova sinova Bisutun in Kabus. Kabus je brata preživel in vladal kraljestvu, a ga je bujidski vladar Adud al Daula od leta 980 do 998 izgnal in zavladal Tabaristanu, osrčju zijaridske moči. V začetku 11. stoletja so kraljestvu ob gaznavidski podpori vladali drugi vladarji. Nizaritska ismailitska država je leta 1090 vdrla v deželo in končala zijaridsko oblast.",
+    "Na vrhuncu je kraljestvo vladalo velikemu delu današnjega zahodnega in severnega Irana. Ob prelomu stoletja je privabilo veliko učenjakov, med katerimi je bil najslavnejši al Biruni."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Ziyarid dynasty",
+    "rev": 1363941478,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Ziyarid dynasty (Persian: زیاریان, romanized: Ziyāriyān) was an Iranian dynasty of Gilaki origin that ruled Tabaristan from 931 to 1090 during the Iranian Intermezzo period. The empire rose to prominence during the leadership of Mardavij. After his death, his brother Vushmgir and his Samanid allies led the dynasty in wrestling for control over territory against the Buyids in the early- to mid-10th century. When Vushmgir died, his sons Bisutun and Qabus fought for influence. Qabus would eventually outlive his brother and ruled the kingdom. However, Qabus was placed in exile from 980 to 998 by the Buyid ruler, Adud al-Dawla who would then dominate Tabaristan, the heartland of Ziyarid power. A succession of other rulers came to rule the kingdom with Ghaznavid support in the early 11th century. The Nizari Ismaili state invaded and ended Ziyarid rule in 1090.",
+     "At its greatest extent, it ruled much of present-day western and northern Iran. During the turn of the century, the kingdom attracted many scholars, with the most notable being al-Biruni."
+    ]
+   },
+   "records": [
+    "ziyarid-dynasty"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Zurayids": {
+   "headline": "Zurajidi",
+   "paragraphs": [
+    "Zurajidi (arabsko: Banū Zurayʿ) so bili vladajoča dinastija iz plemena Banu Hamdan s sedežem v Jemnu, na oblasti med letoma 1083 in 1174. Središče njihove moči je bil Aden. Doletela jih je enaka usoda kot hamdanidske sultane, Sulajmanide in Mahdide: njihovo ozemlje je prevzela dinastija Ajubidov, njih pa so usmrtili. Zurajidi so bili hafizitski ismailitski šiiti, privrženci Fatimidskega kalifata s sedežem v Kairu."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Zurayid dynasty",
+    "rev": 1354382931,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Zurayʿid dynasty (Arabic: بنو زريع, romanized: Banū Zurayʿ), were a Banu Hamdan ruling dynasty based in Yemen in the time between 1083 and 1174. The centre of its power was Aden. The Zurayids suffered the same fate as the Hamdanid sultans, the Sulaymanids and the Mahdids, since their lands were taken over by the Ayyubid dynasty and they were executed. The Zurayʿis were Hafizi Isma'ili Shi'a who followed the Fatimid Caliphate, which was based in Cairo."
+    ]
+   },
+   "records": [
+    "zurayid-dynasty"
    ],
    "translated": "2026-10-23"
   }
