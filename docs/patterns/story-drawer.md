@@ -109,6 +109,17 @@ For now a phone shows a compact card instead of the drawer: kicker, headline, da
 
 **Adding a kind of story**: add a `StoryRef` variant and its hash path in `src/state/url.ts`, a template in `templates.ts`, its messages under `story.*` in every catalogue, and a record component in `Records.tsx` if it has provenance to show.
 
+## Stored stories (decided 23 October 2026)
+
+The drawer is moving off live requests. Wikipedia articles change slowly, so asking for them every time a story opens costs requests (and throttled stories) for no new text. The target:
+
+- **Summaries and translations are stored with the data**: the intro of the reader's-language article where one exists, else the stored translation, with title, URL and revision. The drawer makes no request to Wikipedia, Wikidata or Commons.
+- **Images are stored at low resolution, in black and white**, with author, licence and the Commons page. Only freely licensed Commons files; the credit says the image was reduced and converted to black and white, as CC BY-SA asks for changes to be indicated.
+- **Every drawer keeps the Wikipedia link and the numbered sources**, citing the revision the text came from.
+- **A monthly revision check** compares the stored revisions with Wikipedia in batches and re-fetches only what changed. Changes ship as a versioned data update; changed translations are re-translated and marked unreviewed.
+
+Until the stored data covers every story, the client below remains the fallback. The plan and its tasks are in the translation to-do (project doc `translation-todo.md`).
+
 ## Wikipedia client
 
 `src/features/story/wiki.ts` uses the MediaWiki Action API (`origin=*`, `Api-User-Agent` header):
