@@ -4581,7 +4581,7 @@
   },
   "Battle of Paris (1814)": {
    "paragraphs": [
-    "Bitka pri Parizu ali naskok na Pariz (30.–31. marca 1814) je bila spopad, v katerem so zavezniške sile Rusije, Avstrije, Prusije in Württemberga napadle Pariz, ki so ga branile čete prvega francoskega cesarstva pod vodstvom Josepha Bonaparta. Francoski vojaki so se 30. marca v vzhodnih predmestjih prestolnice trdno upirali, a so jih močno številčnejše zavezniške sile vztrajno potiskale nazaj. Maršala Auguste de Marmont in Édouard Mortier sta se v brezupnem položaju pozno popoldne z zavezniki dogovorila za premirje. Francozi so Pariz 31. marca izpraznili po določilih dogovora z zavezniškimi voditelji, ruskim carjem Aleksandrom I., pruskim kraljem Friderikom Viljemom III. in avstrijskim feldmaršalom Karlom Philippom, knezom Schwarzenbergom. Poraz je pomenil konec vojne šeste koalicije in je kmalu prisilil cesarja Napoleona, da je odstopil in odšel v izgnanstvo."
+    "Bitka pri Parizu ali naskok na Pariz (30.–31. marca 1814) je bila spopad, v katerem so zavezniške sile Rusije, Avstrije, Prusije in Württemberga napadle Pariz, ki so ga branile čete prvega francoskega cesarstva pod vodstvom Jožefa Bonaparta. Francoski vojaki so se 30. marca v vzhodnih predmestjih prestolnice trdno upirali, a so jih močno številčnejše zavezniške sile vztrajno potiskale nazaj. Maršala Auguste de Marmont in Édouard Mortier sta se v brezupnem položaju pozno popoldne z zavezniki dogovorila za premirje. Francozi so Pariz 31. marca izpraznili po določilih dogovora z zavezniškimi voditelji, ruskim carjem Aleksandrom I., pruskim kraljem Friderikom Viljemom III. in avstrijskim feldmaršalom Karlom Philippom, knezom Schwarzenbergom. Poraz je pomenil konec vojne šeste koalicije in je kmalu prisilil cesarja Napoleona, da je odstopil in odšel v izgnanstvo."
    ],
    "source": {
     "wiki": "en",
@@ -8314,6 +8314,24 @@
    },
    "records": [
     "Q12163419"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Évian Accords": {
+   "paragraphs": [
+    "Evianski sporazumi so bili sklop izjav, ki sta jih 18. marca 1962 v Évian-les-Bainsu sprejeli francoska vlada in začasna vlada Alžirske republike in so določali dogovore o neodvisnosti Alžirije ter o sodelovanju s Francijo. Sporazumi so obsegali pet poglavij, ki so podrobno določala jamstva in načela te neodvisnosti. Končali so alžirsko vojno s premirjem, razglašenim 19. marca 1962, in dejansko formalizirali status Alžirije kot neodvisne države."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Évian Accords",
+    "rev": 1372137587,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Évian Accords were a set of declarations between the French Government and the Provisional Government of the Algerian Republic on 18 March 1962 in Évian-les-Bains which outlined the agreements for Algeria's Independence alongside cooperation with France. The Accords consisted of five chapters which detailed the guarantees and principals of this Independence. The Accords ended the Algerian War with a cease-fire that was declared on the 19th March 1962, and effectively formalised the status of Algeria as an independent nation."
+    ]
+   },
+   "records": [
+    "Q1471139"
    ],
    "translated": "2026-10-23"
   },
@@ -13240,6 +13258,27 @@
    ],
    "translated": "2026-10-23"
   },
+  "Treaty of Ghent": {
+   "headline": "Gentska pogodba",
+   "paragraphs": [
+    "Gentska pogodba (8 Stat. 218) je bila mirovna pogodba, ki je končala vojno leta 1812 med Združenimi državami in Združenim kraljestvom. Veljati je začela februarja 1815. Obe strani sta jo podpisali 24. decembra 1814 v mestu Gent v Združeni Nizozemski (danes v Belgiji). Pogodba je odnose med stranema vrnila v stanje pred vojno (status quo ante bellum) in obnovila predvojne meje iz junija 1812. Obe strani sta si želeli vojno končati. Vojna se je končala, ko je pogodba prispela v Washington: senat ZDA jo je takoj soglasno ratificiral, naslednji dan pa so jo izmenjali z britanskimi uradniki.",
+    "Pogodbo je odobril britanski parlament, princ regent (poznejši kralj Jurij IV.) pa jo je 30. decembra 1814 podpisal kot zakon. Novica o pogodbi je v Združene države potovala mesec dni; v tem času so ameriške sile pod vodstvom Andrewa Jacksona 8. januarja 1815 zmagale v bitki pri New Orleansu. Ameriški predsednik James Madison je pogodbo podpisal in 17. februarja 1815 z britanskim veleposlanikom izmenjal končna ratificirana izvoda."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Ghent",
+    "rev": 1371409266,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Treaty of Ghent (8 Stat. 218) was the peace treaty that ended the War of 1812 between the United States and the United Kingdom. It took effect in February 1815. Both sides signed it on December 24, 1814, in the city of Ghent, United Netherlands (now in Belgium). The treaty restored relations between the two parties to status quo ante bellum by restoring the pre-war borders of June 1812. Both sides were eager to end the war. It ended when the treaty arrived in Washington and was immediately ratified unanimously by the United States Senate and exchanged with British officials the next day.",
+     "The treaty was approved by the British Parliament and signed into law by the Prince Regent (the future King George IV) on December 30, 1814. It took a month for news of the treaty to reach the United States, during which American forces under Andrew Jackson won the Battle of New Orleans on January 8, 1815. U.S. President James Madison signed the treaty and exchanged final ratified copies with the British ambassador on February 17, 1815."
+    ]
+   },
+   "records": [
+    "Q1324198"
+   ],
+   "translated": "2026-10-23"
+  },
   "Treaty of Granada (1491)": {
    "paragraphs": [
     "Granadska pogodba, znana tudi kot predaja Granade ali kapitulacije, je bila podpisana in ratificirana 25. novembra 1491 med Boabdilom, granadskim sultanom, ter Ferdinandom in Izabelo, kraljem in kraljico Kastilje, Leóna, Aragonije in Sicilije. Končala je granadsko vojno, ki se je začela leta 1482 in dosegla vrhunec z obleganjem in bitko za Granado, ki se je začela spomladi 1491."
@@ -13468,6 +13507,300 @@
    ],
    "translated": "2026-10-23"
   },
+  "Treaty of Nice": {
+   "paragraphs": [
+    "Pogodba iz Nice je preoblikovala institucionalno strukturo Evropske unije, da bi zdržala širitev proti vzhodu; to nalogo naj bi prvotno opravila amsterdamska pogodba, a takrat ni bila rešena. Evropski voditelji so jo podpisali 26. februarja 2001, veljati pa je začela 1. februarja 2003.",
+    "Spremenila je maastrichtsko pogodbo (Pogodbo o Evropski uniji) in rimsko pogodbo (Pogodbo o ustanovitvi Evropske skupnosti, ki je bila pred maastrichtsko pogodbo Pogodba o ustanovitvi Evropske gospodarske skupnosti).",
+    "Začetek veljavnosti pogodbe je bil nekaj časa negotov, potem ko so jo irski volivci junija 2001 na referendumu sprva zavrnili. Ta izid so na poznejšem referendumu dobro leto pozneje obrnili."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Nice",
+    "rev": 1379839849,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Treaty of Nice reformed the institutional structure of the European Union to withstand eastward expansion, a task which was originally intended to have been done by the Amsterdam Treaty, but failed to be addressed at the time. It was signed by European leaders on 26 February 2001 and came into force on 1 February 2003.",
+     "It amended the Maastricht Treaty (or the Treaty on European Union) and the Treaty of Rome (or the Treaty establishing the European Community which, before the Maastricht Treaty, was the Treaty establishing the European Economic Community).",
+     "The entry into force of the treaty was in doubt for a time, after its initial rejection by Irish voters in a referendum in June 2001. This referendum result was reversed in a subsequent referendum held a little over a year later."
+    ]
+   },
+   "records": [
+    "Q208688"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Treaty of Paris (1229)": {
+   "headline": "Pariška pogodba (1229)",
+   "paragraphs": [
+    "Pariška pogodba, znana tudi kot pogodba iz Meauxa, je bila podpisana 12. aprila 1229 v Meauxu blizu Pariza med toulouškim grofom Rajmondom VII. in francoskim kraljem Ludvikom IX. Ludvik je bil še mladoleten, zato je imela pri sklenitvi pogodbe ključno vlogo njegova mati Blanka Kastiljska kot regentka. Sporazum je uradno končal albižansko križarsko vojno; po njegovih določilih naj bi se Rajmondova hči Ivana poročila z Ludvikovim bratom Alfonzom. Rajmond je poleg tega Ludviku odstopil vzhodne province svojih dežel, Katoliški cerkvi pa provansalsko markizo (Marquisat de Provence). Pogodba je inkviziciji dala tudi absolutno oblast pri iskanju in prijemanju heretikov v imenu Katoliške cerkve.",
+    "Rajmond je francoski kroni odstopil več kot polovico svojih dežel, preostanek pa obdržal le do smrti; nato naj bi ga podedoval njegov zet Alfonz, Ludvikov brat, ali, če Alfonz ne bi imel dediča, francoska krona. Papeštvo je dobilo Comtat Venaissin."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Paris (1229)",
+    "rev": 1336774744,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Treaty of Paris, also known as Treaty of Meaux, was signed on 12 April 1229 between Raymond VII of Toulouse and Louis IX of France in Meaux near Paris. Louis was still a minor, and it was his mother Blanche of Castile, as regent, who was instrumental in forging the treaty. The agreement officially ended the Albigensian Crusade, and according to the terms of the treaty, Raymond's daughter Joan was to be married to Louis' brother Alphonse. Moreover, Raymond ceded the eastern provinces of his lands to Louis and the Marquisat de Provence to the Catholic Church. The treaty also gave the Inquisition absolute power regarding searching for, and seizing of heretics by the Catholic Church.",
+     "Raymond ceded more than half his land to the French crown and retained the remainder only during his life, and it would then be inherited by his son-in-law Alphonse, Louis's brother or, if Alphonse had no heir, by the French crown. The Papacy gained the Comtat Venaissin."
+    ]
+   },
+   "records": [
+    "Q644346"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Treaty of Paris (1259)": {
+   "headline": "Pariška pogodba (1259)",
+   "paragraphs": [
+    "Pariška pogodba, znana tudi kot pogodba iz Abbevilla, je bila mirovna pogodba, ki sta jo 4. decembra 1259 podpisala francoski kralj Ludvik IX. in angleški kralj Henrik III. Pomenila je prelomnico v evropski politiki in privedla do nove politične dinamike, kulturnih izmenjav in družbenih sprememb."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Paris (1259)",
+    "rev": 1379569773,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Treaty of Paris, also known as the Treaty of Abbeville, was signed on 4 December 1259 by King Louis IX of France and King Henry III of England. It marked a turning point in European politics, leading to new political dynamics, cultural exchanges, and social changes."
+    ]
+   },
+   "records": [
+    "Q394387"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Treaty of Paris (1303)": {
+   "headline": "Pariška pogodba (1303)",
+   "paragraphs": [
+    "Pariška pogodba iz leta 1303 je bila mirovna pogodba med angleškim kraljem Edvardom I. in francoskim kraljem Filipom IV., ki je končala gaskonjsko vojno 1294–1303. Podpisana je bila v Parizu 20. maja 1303, predvidevala je predvsem vrnitev v prejšnje stanje (status quo ante) in je med kraljestvoma ohranila mir do vojne za Saint-Sardos leta 1324."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Paris (1303)",
+    "rev": 1345876609,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The 1303 Treaty of Paris was a peace treaty between King Edward I of England and Philip IV of France that ended the 1294–1303 Gascon War. It was signed at Paris on 20 May 1303, largely provided for a return to the status quo ante, and maintained peace between the two realms until the 1324 War of Saint-Sardos."
+    ]
+   },
+   "records": [
+    "Q1964075"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Treaty of Paris (1763)": {
+   "headline": "Pariška pogodba (1763)",
+   "paragraphs": [
+    "Pariško pogodbo, znano tudi kot pogodba iz leta 1763, so 10. februarja 1763 ob soglasju Portugalske podpisale kraljevine Velika Britanija, Francija in Španija, potem ko sta Velika Britanija in Prusija v sedemletni vojni premagali Francijo in Španijo.",
+    "S podpisom pogodbe se je formalno končal spopad med Francijo in Veliko Britanijo za nadzor nad Severno Ameriko (sedemletna vojna, v Združenih državah znana kot francosko-indijanska vojna), začelo pa se je obdobje britanske prevlade zunaj Evrope. Velika Britanija in Francija sta vrnili velik del ozemelj, ki sta jih osvojili med vojno, Velika Britanija pa je pridobila velik del francoskih posesti v Severni Ameriki. Poleg tega se je Velika Britanija zavezala, da v Novem svetu ne bo skušala izkoreniniti rimskokatoliške vere. Pogodba ni vključevala Prusije in Avstrije, saj sta pet dni pozneje podpisali ločen sporazum, hubertusburški mir."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Paris (1763)",
+    "rev": 1376680274,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Treaty of Paris, also known as the Treaty of 1763, was signed on 10 February 1763 by the kingdoms of Great Britain, France and Spain, with Portugal in agreement, following Great Britain and Prussia's victory over France and Spain during the Seven Years' War.",
+     "The signing of the treaty formally ended the conflict between France and Great Britain over control of North America (the Seven Years' War, known as the French and Indian War in the United States), and marked the beginning of an era of British dominance outside Europe. Great Britain and France each returned much of the territory that they had captured during the war, but Great Britain gained much of France's possessions in North America. Additionally, Great Britain agreed not to seek to eradicate Roman Catholicism in the New World. The treaty did not involve Prussia and Austria, as they signed a separate agreement, the Treaty of Hubertusburg, five days later."
+    ]
+   },
+   "records": [
+    "Q156211"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Treaty of Paris (1783)": {
+   "headline": "Pariška pogodba (1783)",
+   "paragraphs": [
+    "Pariška pogodba, ki so jo 3. septembra 1783 podpisali predstavniki britanskega kralja Jurija III. in predstavniki Združenih držav, je uradno končala ameriško vojno za neodvisnost in priznala trinajst kolonij, ki so bile del britanske kolonialne Amerike, za svobodne, suverene in neodvisne združene države. Spada med številne pogodbe, ki jih skupaj imenujejo »pariški mir«.",
+    "Pogodba je določila meje med Britansko Severno Ameriko, pozneje imenovano Kanada, in Združenimi državami po črtah, ki so jih Britanci označili kot »izjemno velikodušne«, čeprav so bile natančne opredelitve meja na skrajnem severozahodu in na jugu še naprej deloma sporne. Podrobnosti so obsegale ribolovne pravice ter vrnitev premoženja in vojnih ujetnikov.",
+    "Še vedno velja le 1. člen pogodbe, ki priznava obstoj Združenih držav kot svobodnih, suverenih in neodvisnih držav."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Paris (1783)",
+    "rev": 1380929461,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Treaty of Paris, signed by representatives of King George III of Great Britain and representatives of the United States on September 3, 1783, officially ended the War of American Independence and recognized the Thirteen Colonies, which had been part of colonial British America, to be free, sovereign, and independent unified states. It forms one treaty out of many that are collectively named the \"Peace of Paris\".",
+     "The treaty set the boundaries between British North America, later called Canada, and the United States, on lines the British labeled as \"exceedingly generous\", although exact boundary definitions in the far-northwest and to the south continued to be subject to some controversy. Details included fishing rights and restoration of property and prisoners of war.",
+     "Only Article 1 of the treaty, which acknowledges the United States' existence as free, sovereign, and independent states, remains in force."
+    ]
+   },
+   "records": [
+    "Q217450"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Treaty of Paris (1802)": {
+   "headline": "Pariška pogodba (1802)",
+   "paragraphs": [
+    "Pariška pogodba je bila podpisana 25. junija 1802 med prvo francosko republiko, ki jo je tedaj vodil prvi konzul Napoleon Bonaparte, in Osmanskim cesarstvom, ki mu je tedaj vladal sultan Selim III. Bila je končna oblika predhodne pogodbe, podpisane v Parizu 9. oktobra 1801, ki je končala francoski pohod v Egipt in Sirijo ter francosko-osmanske odnose vrnila v predvojno stanje (status quo ante bellum). Osmansko cesarstvo je s pogodbo pristalo tudi na amienski mir (25. marca 1802), mirovno pogodbo med Francijo in Združenim kraljestvom, ki je sledila predaji francoskih čet v Egiptu Britancem z aleksandrijsko kapitulacijo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Paris (1802)",
+    "rev": 1352150460,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Treaty of Paris was signed on 25 June 1802 between the First French Republic, then under First Consul Napoleon Bonaparte, and the Ottoman Empire, then ruled by Sultan Selim III. It was the final form of a preliminary treaty signed at Paris on 9 October 1801 that brought to an end the French campaign in Egypt and Syria and restored Franco-Ottoman relations to their status quo ante bellum. In the treaty, the Ottoman Empire also assented to the Treaty of Amiens (25 March 1802), a peace treaty between France and the United Kingdom, which had followed the surrender of French troops in Egypt to the British at the Capitulation of Alexandria."
+    ]
+   },
+   "records": [
+    "Q3536859"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Treaty of Paris (1810)": {
+   "headline": "Pariška pogodba (1810)",
+   "paragraphs": [
+    "Pariška pogodba, podpisana 6. januarja 1810, je končala francosko-švedsko vojno, potem ko je Rusija, zaveznica Francije, Švedsko premagala v finski vojni 1808–1809."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Paris (1810)",
+    "rev": 1335688078,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Treaty of Paris, signed on 6 January 1810, ended the Franco-Swedish War after Sweden's defeat by Russia, an ally of France, in the Finnish War of 1808–1809."
+    ]
+   },
+   "records": [
+    "Q177464"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Treaty of Paris (1815)": {
+   "headline": "Pariška pogodba (1815)",
+   "paragraphs": [
+    "Pariška pogodba iz leta 1815, znana tudi kot druga pariška pogodba, je bila podpisana 20. novembra 1815, po porazu in drugem odstopu Napoleona Bonaparta. Napoleon je februarja pobegnil iz izgnanstva na Elbi, 20. marca vstopil v Pariz in začel sto dni obnovljene vladavine. Po porazu Francije proti sedmi koaliciji v bitki pri Waterlooju je moral Napoleon 22. junija znova odstopiti. Kralj Ludvik XVIII., ki je ob Napoleonovem prihodu v Pariz pobegnil iz države, je 8. julija drugič zasedel prestol."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Paris (1815)",
+    "rev": 1379222764,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Treaty of Paris of 1815, also known as the Second Treaty of Paris, was signed on 20 November 1815, after the defeat and the second abdication of Napoleon Bonaparte. In February, Napoleon had escaped from his exile on Elba, entered Paris on 20 March and began the Hundred Days of his restored rule. After France's defeat at the hands of the Seventh Coalition at the Battle of Waterloo, Napoleon was forced to abdicate again, on 22 June. King Louis XVIII, who had fled the country when Napoleon arrived in Paris, took the throne for a second time on 8 July."
+    ]
+   },
+   "records": [
+    "Q233688"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Treaty of Paris (1856)": {
+   "headline": "Pariška pogodba (1856)",
+   "paragraphs": [
+    "Pariška pogodba iz leta 1856, podpisana 30. marca 1856 na pariškem kongresu, je končala krimsko vojno (1853–1856) med Ruskim cesarstvom in zavezništvom Osmanskega cesarstva, Združenega kraljestva, drugega francoskega cesarstva in Kraljevine Sardinije.",
+    "Pogodba je zmanjšala ruski vpliv v regiji. Rusiji je vrnila Sevastopol ter druga mesta in kraje na jugu Krima, prepovedala pa ji je postavljati pomorske ali vojaške arzenale na obali Črnega morja, ki je postalo nevtralno ozemlje: zaprli so ga za vse vojne ladje ter na njegovih obalah prepovedali utrdbe in orožje. Leta 1871 so se teh prepovedi odpovedali z londonsko pogodbo.",
+    "Rusija je morala Moldaviji vrniti tudi del ozemlja, ki si ga je priključila leta 1812 (do ustja Donave v južni Besarabiji). Izgubila je vsako pravico do vpliva v podonavskih kneževinah in Kneževini Srbiji ter do zaščite kristjanov v Osmanskem cesarstvu."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Paris (1856)",
+    "rev": 1374103645,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Treaty of Paris of 1856, signed on 30 March 1856 at the Congress of Paris, brought an end to the Crimean War (1853–1856) between the Russian Empire and an alliance of the Ottoman Empire, the United Kingdom, the Second French Empire and the Kingdom of Sardinia.",
+     "The treaty diminished Russian influence in the region. It returned Sevastopol and other towns and cities in the south of Crimea to Russia, but prohibited Russia from establishing naval or military arsenal on the coast of the Black Sea, which was made neutral territory, closing it to all warships and prohibiting fortifications and the presence of armaments on its shores. In 1871, these prohibitions were renounced in the Treaty of London.",
+     "The treaty also had Russia return to Moldavia part of its territory it had annexed in 1812 (to the mouth of the Danube, in southern Bessarabia). Russia lost any claim to influence the Danubian principalities and the Principality of Serbia, or to protect Christians in the Ottoman Empire."
+    ]
+   },
+   "records": [
+    "Q319260"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Treaty of Paris (1857)": {
+   "headline": "Pariška pogodba (1857)",
+   "paragraphs": [
+    "Pariška pogodba (1857) (perzijsko: عهدنامه پاریس ۱۸۵۷) je pomenila konec sovražnosti angleško-perzijske vojne. Na perzijski strani je pogajanja vodil veleposlanik Farroh Kan. Strani sta mirovno pogodbo podpisali 4. marca 1857.",
+    "Perzijci so se s pogodbo zavezali, da se umaknejo iz Herata, ki ga je pozneje lahko zasedel afganistanski Dost Mohamed Kan. Zavezali so se tudi, da se britanskemu odposlancu ob vrnitvi opravičijo in podpišejo trgovinsko pogodbo; Britanci pa so se zavezali, da na veleposlaništvu ne bodo dajali zatočišča šahovim nasprotnikom, in odstopili od zahteve, da se zamenja veliki vezir Mirza Aga Kan Nuri, ter od zahteve po ozemeljskih koncesijah omanskemu imamu, britanskemu zavezniku."
+   ],
+   "notes": [
+    "The Persian romanization is dropped; the Persian script is kept."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Paris (1857)",
+    "rev": 1346116998,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Treaty of Paris (1857) (Persian: عهدنامه پاریس ۱۸۵۷, romanized: Ahdnāme-ye Paris 1857) marked the end of the hostilities of the Anglo-Persian War. On the Persian side, negotiations were handled by ambassador Farrokh Khan. The two sides signed the peace treaty on 4 March 1857.",
+     "In the Treaty, the Persians agreed to withdraw from Herat, later allowing Dost Mohammad Khan of Afghanistan to occupy it. They also agreed to apologise to the British envoy on his return, and to sign a commercial treaty; the British agreed not to shelter opponents of the Shah in the embassy, and they abandoned the demand to replace the grand vizier Mirza Aqa Khan Nuri, as well as one requiring territorial concessions to the Imam of Oman, a British ally."
+    ]
+   },
+   "records": [
+    "Q950481"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Treaty of Paris (1898)": {
+   "headline": "Pariška pogodba (1898)",
+   "paragraphs": [
+    "Mirovno pogodbo med Združenimi državami Amerike in Kraljevino Španijo, splošno znano kot pariška pogodba iz leta 1898, sta 10. decembra 1898 podpisali Španija in Združene države; pomenila je uradni konec špansko-ameriške vojne. Španija se je z njo v korist Združenih držav odpovedala vsem zahtevam po suverenosti nad otočji in otoki Zahodne Indije Kuba in Portoriko v Karibih, otokom Guam na Marianskih otokih v Mikroneziji v zahodnem Tihem oceanu in otočjem Filipini v jugovzhodni Aziji. Za prepustitev Filipinov so Združene države Španiji plačale 20 milijonov dolarjev odškodnine."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Paris (1898)",
+    "rev": 1375676698,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Treaty of Peace between the United States of America and the Kingdom of Spain, commonly known as the Treaty of Paris of 1898, was signed by Spain and the United States on December 10, 1898, and marked the official end of the Spanish–American War. Under it, Spain relinquished all claim of sovereignty over the West Indies archipelagos and islands of Cuba and Puerto Rico in the Caribbean, the Western Pacific island of Guam in the Mariana Islands in Micronesia, and the Western Pacific archipelago of the Philippines in Southeast Asia to the United States. The cession of the Philippines involved a compensation of $20 million from the United States to Spain."
+    ]
+   },
+   "records": [
+    "Q847137"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Treaty of Paris (1900)": {
+   "headline": "Pariška pogodba (1900)",
+   "paragraphs": [
+    "Pariška pogodba, objavljena v španskem uradnem listu Gaceta 30. marca 1901 z naslovom Konvencija med Španijo in Francijo o razmejitvi posesti obeh držav na obali Sahare in Gvinejskega zaliva, je bila podpisana 27. junija 1900 med predstavniki Kraljevine Španije (pod vlado regentke kraljice Marije Kristine Avstrijske) in tretje francoske republike (ki ji je predsedoval Émile Loubet).",
+    "Pogodba je razmejila meje španskih kolonij v puščavi Sahari (Río de Oro, del Španske Sahare) in v Ekvatorialni Afriki (Španska Gvineja) glede na sosednje francoske kolonije v Afriki.",
+    "Za namene pogodbe sta svoji vladi zastopala Fernando León y Castillo, tedanji španski veleposlanik v Franciji, in Théophile Delcassé, francoski poslanec in zunanji minister."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Paris (1900)",
+    "rev": 1380773456,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Treaty of Paris, published in the Spanish Gaceta on 30 March 1901 under the title Convention between Spain and France for the delimitation of the possessions of both countries on the coast of the Sahara and on that of the Gulf of Guinea, was signed on 27 June 1900 between representatives of the Kingdom of Spain (under the government of the regent Queen Maria Christina of Austria) and the French Third Republic (presided over by Émile Loubet).",
+     "The Treaty delimited the borders of the Spanish colonies in the Sahara desert (Río de Oro, part of Spanish Sahara) and Equatorial Africa (Spanish Guinea) with respect to the adjoining French colonies on Africa.",
+     "Fernando León y Castillo, the then Spanish ambassador to France, and Theophile Delcasse, French deputy and Minister of Foreign Affairs, acted as representatives of their respective governments for the purposes of the Treaty."
+    ]
+   },
+   "records": [
+    "Q3997909"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Treaty of Paris (1920)": {
+   "headline": "Pariška pogodba (1920)",
+   "paragraphs": [
+    "Pariška pogodba iz leta 1920 je bila akt, ki so ga podpisale Romunija in tedanje glavne zavezniške sile (Francija, Združeno kraljestvo, Italija in Japonska) in s katerim naj bi priznali romunsko suverenost nad Besarabijo. Pogodba pa ni nikoli začela veljati, ker je Japonska ni ratificirala.",
+    "Besarabski zakonodajni zbor (Sfatul Țării) je 9. aprila 1918 (po starem koledarju 27. marca 1918), v kaosu ruske državljanske vojne in po romunskem vojaškem posredovanju, s 86 glasovi za, tremi proti in 36 vzdržanimi izglasoval združitev Besarabije z Romunijo, kar so Rusi imeli za romunsko invazijo.",
+    "Tako kot versajska pogodba je tudi pogodba iz leta 1920 vsebovala Pakt Društva narodov, zato je Združene države niso ratificirale. Združene države je sprva niso hotele podpisati, ker Rusija na mirovni konferenci ni bila zastopana."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Paris (1920)",
+    "rev": 1349406014,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The 1920 Treaty of Paris was an act signed by Romania and the principal Allied Powers of the time (France, United Kingdom, Italy and Japan) whose purpose was the recognition of Romanian sovereignty over Bessarabia. The treaty, however, never came into force because Japan failed to ratify it.",
+     "On 9 April 1918 (old style 27 March 1918), during the chaos of the Russian Civil War and following Romanian military intervention, the Bessarabian legislature (Sfatul Țării) voted in favor of the union of Bessarabia with Romania with 86 votes in favor, three against, and 36 abstentions, an act regarded by the Russians as a Romanian invasion.",
+     "As with the Treaty of Versailles, the 1920 treaty contained the Covenant of the League of Nations, and, as a result, it was not ratified by the United States. The United States refused initially to sign the Treaty on the grounds that Russia was not represented at the treaty conference."
+    ]
+   },
+   "records": [
+    "Q2722786"
+   ],
+   "translated": "2026-10-23"
+  },
   "Treaty of Perth": {
    "headline": "Pogodba iz Pertha",
    "paragraphs": [
@@ -13488,6 +13821,65 @@
    },
    "records": [
     "Q1456646"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Treaty of Picquigny": {
+   "headline": "Pogodba iz Picquignyja",
+   "paragraphs": [
+    "Pogodba iz Picquignyja je bila mirovna pogodba, izpogajana 29. avgusta 1475 med Kraljevino Anglijo in Kraljevino Francijo. Sledila je invaziji angleškega kralja Edvarda IV. na Francijo v zavezništvu z Burgundijo in Bretanjo. Francoskemu kralju Ludviku XI. je omogočila, da se je posvetil nevarnosti, ki jo je predstavljal burgundski vojvoda Karel Drzni. Pogodba je tudi formalno končala stoletno vojno, ki se je neformalno končala že leta 1453."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Picquigny",
+    "rev": 1371242270,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Treaty of Picquigny was a peace treaty negotiated on 29 August 1475 between the Kingdom of England and the Kingdom of France. It followed from an invasion of France by Edward IV of England in alliance with Burgundy and Brittany. It left Louis XI of France free to solve the threat posed by Charles the Bold, Duke of Burgundy. The treaty also formally ended the Hundred Years' War, which had been informally finished since 1453."
+    ]
+   },
+   "records": [
+    "Q2165331"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Treaty of Saint-Clair-sur-Epte": {
+   "headline": "Pogodba iz Saint-Clair-sur-Epte",
+   "paragraphs": [
+    "Pogodba iz Saint-Clair-sur-Epte (911) je ustanovna pogodba Vojvodine Normandije, s katero je Rollon, nordijski vojskovodja in vikinški voditelj, postal prvi normandijski vojvoda v zameno za zvestobo zahodnofrankovskemu kralju Karlu III. po obleganju Chartresa. Pogodba je vključevala Karlov dar obdelovalne obalne zemlje Rollonu v zameno za Rollonovo zvestobo in pomoč proti drugim vikinškim skupinam, ki so redno pustošile severno obalo. Z njo se je dejansko spremenilo, kako je celinska Evropa reševala nenehne vikinške vpade."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Saint-Clair-sur-Epte",
+    "rev": 1362007156,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The treaty of Saint-Clair-sur-Epte (911) is the foundational treaty of the Duchy of Normandy, establishing Rollo, a Norse warlord and Viking leader, as the first Duke of Normandy in exchange for his loyalty to Charles III, the king of West Francia, following the Siege of Chartres. This treaty included a land grant of farmable coastal land from Charles to Rollo in return for Rollo's fealty and help against other Viking groups that had been regularly raiding the northern coastline. This treaty effectively changed how mainland Europe resolved ongoing raids from the Vikings."
+    ]
+   },
+   "records": [
+    "Q1072330"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Treaty of Saint-Germain-en-Laye (1679)": {
+   "headline": "Pogodba iz Saint-Germain-en-Laye (1679)",
+   "paragraphs": [
+    "Pogodba ali mir iz Saint-Germain-en-Laye z dne 19. junija (po starem) oziroma 29. junija (po novem koledarju) 1679 je bila mirovna pogodba med Francijo in Brandenburško volilno kneževino. Švedski, francoski zaveznici, je vrnila njene posesti Bremen-Verden in Švedsko Pomorjansko, ki jih je izgubila proti Brandenburgu v skanijski vojni. Švedska je pogodbo ratificirala 28. julija 1679.",
+    "Nekateri pogodbo štejejo za »najhujši politični poraz« volilnega kneza Friderika Viljema I. Francija ga je prisilila, da se je odpovedal švedskemu delu pomorjanske dediščine, ki jo je imel za svojo zakonito, čeprav ga je osvojil v štiriletnem pohodu."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Saint-Germain-en-Laye (1679)",
+    "rev": 1378813910,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Treaty or Peace of Saint-Germain-en-Laye of 19 June (OS) or 29 June (NS) 1679 was a peace treaty between France and the Electorate of Brandenburg. It restored to France's ally Sweden her dominions Bremen-Verden and Swedish Pomerania, lost to Brandenburg in the Scanian War. Sweden ratified the treaty on 28 July 1679.",
+     "The treaty is by some considered \"the worst political defeat\" of Elector Frederick William I. He was forced by France to give away the Swedish portion of what he considered his rightful Pomeranian inheritance, despite having conquered it in a four-year campaign."
+    ]
+   },
+   "records": [
+    "Q551302"
    ],
    "translated": "2026-10-23"
   },
@@ -13530,6 +13922,135 @@
    },
    "records": [
     "Q2656396"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Treaty of The Hague (1698)": {
+   "headline": "Haaška pogodba (1698)",
+   "paragraphs": [
+    "Haaška pogodba iz leta 1698, znana tudi kot prva delitvena pogodba, je bila eden od dveh poskusov Francije, Velike Britanije in Nizozemske republike, da bi diplomatsko razrešile vprašanja, ki so privedla do vojne za špansko nasledstvo 1701–1714.",
+    "Smrt Karla II. so pričakovali že od njegovega nastopa vladavine leta 1665, do leta 1697 pa se je zdela neizogibna in blizu. Ker je bil brez otrok, so bili najbližji dediči iz avstrijske habsburške monarhije ali francoske dinastije Burbonov. Če bi katera od njiju pridobila nerazdeljeno Špansko cesarstvo, bi se spremenilo evropsko ravnotežje moči.",
+    "Pogajanja so potekala takoj po finančno uničujoči devetletni vojni (1688–1697), da bi vprašanje razrešili brez nove drage vojne. Pogodba, podpisana 11. oktobra 1698, je za dediča španskega prestola določila šestletnega Jožefa Ferdinanda Bavarskega, evropske posesti Španije pa naj bi si razdelili Francija in Avstrija."
+   ],
+   "notes": [
+    "The English variant name (1698 Treaty of Den Haag) is dropped, since Slovenian has one name for the city.",
+    "The range 1688-97 is written in full (1688–1697)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of The Hague (1698)",
+    "rev": 1380426394,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The 1698 Treaty of The Hague, also known as the 1698 Treaty of Den Haag or First Partition Treaty was one of two attempts by France, Great Britain, and the Dutch Republic to achieve a diplomatic solution to the issues that led to the 1701–1714 War of the Spanish Succession.",
+     "The death of Charles II had been anticipated from his succession in 1665, but by 1697 appeared clearly imminent. As he was childless, the closest heirs were of the Austrian Habsburg monarchy or the French House of Bourbon. The acquisition by either of the undivided Spanish Empire would change the European balance of power.",
+     "Negotiations took place immediately after the financially crippling Nine Years' War (1688-97) to attempt to resolve the issue without another expensive war. Signed on 11 October 1698, the treaty made the six-year-old Joseph Ferdinand of Bavaria heir to the Spanish throne, with Spain's European possessions divided between France and Austria."
+    ]
+   },
+   "records": [
+    "Q2119018"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Treaty of The Hague (1701)": {
+   "headline": "Haaška pogodba (1701)",
+   "paragraphs": [
+    "Haaška pogodba je bila podpisana 7. septembra 1701 med Anglijo, cesarjem Svetega rimskega cesarstva Leopoldom I. in Združenimi provincami. Z njo so v odziv na vprašanja, ki so privedla do vojne za špansko nasledstvo, obnovili protifrancosko veliko alianso iz leta 1689."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of The Hague (1701)",
+    "rev": 1380426387,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Treaty of Den Haag, or Treaty of The Hague, was signed on 7 September 1701 between England, the Holy Roman Emperor Leopold I, and the United Provinces. It reconstituted the 1689 anti-French Grand Alliance in response to the issues that resulted in the War of the Spanish Succession."
+    ]
+   },
+   "records": [
+    "Q638845"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Treaty of The Hague (1720)": {
+   "paragraphs": [
+    "Haaški mir je bil podpisan 17. februarja 1720 med Španijo in četverno alianso, ustanovljeno z londonsko pogodbo leta 1718. Njene članice so bile Velika Britanija, Francija, Nizozemska republika in Avstrija.",
+    "S podpisom se je Španija pridružila zavezništvu, končala vojno četverne aliance in sprejela pogoje londonske pogodbe. Kot je bilo dogovorjeno že v Utrechtu leta 1713, je Filip V. potrdil, da se odpoveduje francoskemu prestolu, Španija pa zahtevam po nekdanjih italijanskih posestih. V zameno se je cesar Karel VI. odpovedal zahtevi po španskem prestolu, štiriletni Karel Španski pa je bil priznan za dediča vojvodin Parma in Toskana.",
+    "Z drugim določilom sta Savoja in Avstrija zamenjali Sicilijo za Sardinijo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of The Hague (1720)",
+    "rev": 1354851022,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Treaty of The Hague was signed on 17 February 1720 between Spain and the Quadruple Alliance, established by the 1718 Treaty of London. Its members included Britain, France, the Dutch Republic and Austria.",
+     "By signing, Spain joined the Alliance, ending the War of the Quadruple Alliance and accepting the terms of the Treaty of London. As previously agreed at Utrecht in 1713, Philip V confirmed his renunciation of the French throne and Spanish claims to their former Italian possessions. In exchange, Emperor Charles VI renounced his claim on the Spanish throne and four-year-old Charles of Spain was recognised as heir to the Duchies of Parma and Tuscany.",
+     "In another clause, Savoy and Austria exchanged Sicily for Sardinia."
+    ]
+   },
+   "records": [
+    "Q1893619"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Treaty of the Pyrenees": {
+   "headline": "Pirenejski mir",
+   "paragraphs": [
+    "Pirenejski mir je bil podpisan 7. novembra 1659 in je končal francosko-špansko vojno, ki se je začela leta 1635.",
+    "Pogajanja so potekala, pogodba pa je bila podpisana na Fazanjem otoku sredi reke Bidasoe na meji med državama, ki je od tedaj francosko-španski kondominij. Podpisali so jo francoski kralj Ludvik XIV. in španski kralj Filip IV. ter njuna glavna ministra, kardinal Mazarin in don Luis Méndez de Haro."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of the Pyrenees",
+    "rev": 1378429109,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Treaty of the Pyrenees was signed on 7 November 1659 and ended the Franco–Spanish War that had begun in 1635.",
+     "Negotiations were conducted and the treaty was signed on Pheasant Island, situated in the middle of the Bidasoa River on the border between the two countries, which has remained a French-Spanish condominium ever since. It was signed by Louis XIV of France and Philip IV of Spain, as well as their chief ministers, Cardinal Mazarin and Don Luis Méndez de Haro."
+    ]
+   },
+   "records": [
+    "Q221670"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Treaty of Valençay": {
+   "headline": "Pogodba iz Valençaya",
+   "paragraphs": [
+    "Pogodba iz Valençaya je bila predlagani mirovni sporazum med Francijo in Španijo, podpisan 8. decembra 1813, s katerim naj bi končali polotoško vojno. Za Francosko cesarstvo jo je sestavil Antoine René Mathurin, za špansko krono pa José Miguel de Carvajal y Manrique. Imenovana je po dvorcu Valençay v lasti nekdanjega francoskega zunanjega ministra Charlesa Mauricea de Talleyranda, z njo pa so hoteli na španski prestol, ki ga je zasedal Jožef Bonaparte, vrniti španskega kralja Ferdinanda VII., ki ga je Napoleon od leta 1808 držal v ujetništvu."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Valençay",
+    "rev": 1315371278,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Treaty of Valençay was a proposed peace agreement between France and Spain, signed on 8 December 1813, aimed at ending the Peninsular War. It was drafted by Antoine René Mathurin for the French Empire and José Miguel de Carvajal y Manrique for the Spanish Crown. Named after the Château de Valençay, owned by former French foreign minister Charles Maurice de Talleyrand, the treaty sought to restore Ferdinand VII of Spain, who had been imprisoned by Napoleon since 1808, to the Spanish throne, which had been occupied by Joseph Bonaparte."
+    ]
+   },
+   "records": [
+    "Q370922"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Treaty of Versailles (1871)": {
+   "headline": "Versajska pogodba (1871)",
+   "paragraphs": [
+    "Versajska pogodba iz leta 1871 je končala francosko-prusko vojno; 26. februarja 1871 sta jo podpisala Adolphe Thiers za tretjo francosko republiko in Otto von Bismarck za novoustanovljeno Nemško cesarstvo. Kot predhodna pogodba je utrdila prvotno premirje med silama z dne 28. januarja. Dokončno jo je uveljavila frankfurtska pogodba 10. maja istega leta, ki je potrdila prevlado Nemškega cesarstva: to je Francijo nadomestilo kot vodilno vojaško silo na evropski celini.",
+    "Pariški upravni organ, vlada narodne obrambe, je premirje, ki je veljalo od 28. januarja, sklenila s predajo Nemcem, da bi končala obleganje Pariza; to je storil vidni francoski politik Jules Favre, ki se je z Bismarckom sestal v Versaillesu in podpisal premirje. Ko je prišlo do formalne pogodbe, se je kot novi francoski voditelj uveljavil Adolphe Thiers, država pa je začela obnavljati vlado."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Versailles (1871)",
+    "rev": 1358335893,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Treaty of Versailles of 1871 ended the Franco-Prussian War and was signed by Adolphe Thiers of the Third French Republic and Otto von Bismarck of the newly formed German Empire on 26 February 1871. A preliminary treaty, it was used to solidify the initial armistice of 28 January between the powers. It was ratified by the Treaty of Frankfurt on 10 May of the same year which confirmed the supremacy of the German Empire, replacing France as the dominant military power on the European continent.",
+     "Paris's governing body, the Government of National Defense had made an armistice, effective from 28 January, by surrendering to the Germans to end the siege of Paris; Jules Favre, a prominent French politician, did so, meeting with Bismarck in Versailles to sign the armistice. Adolphe Thiers emerged by the time of a formal treaty as the new French leader as the country began reconstructing its government."
+    ]
+   },
+   "records": [
+    "Q548182"
    ],
    "translated": "2026-10-23"
   },
@@ -13589,6 +14110,25 @@
    },
    "records": [
     "Q1147471"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Treaty on Conventional Armed Forces in Europe": {
+   "headline": "Pogodba o konvencionalnih oboroženih silah v Evropi",
+   "paragraphs": [
+    "Prvotna Pogodba o konvencionalnih oboroženih silah v Evropi (CFE) je bila izpogajana in sklenjena v zadnjih letih hladne vojne; določila je celovite omejitve ključnih kategorij konvencionalne vojaške opreme v Evropi (od Atlantika do Urala) in zahtevala uničenje presežnega orožja. Pogodba je predlagala enake omejitve za obe »skupini držav pogodbenic«, Organizacijo Severnoatlantske pogodbe (Nato) in Varšavski pakt. Leta 1999 so podpisali prilagojeno pogodbo CFE, da bi upoštevali spremenjene geopolitične razmere in razpad Varšavskega pakta, a je Nato ni hotel ratificirati, ker Rusija ni izpolnjevala istanbulskih zavez. Leta 2007 je Rusija »suspendirala« sodelovanje v pogodbi, pri čemer se je sklicevala na navzočnost ZDA v vzhodni Evropi in na to, da Nato ni ratificiral prilagojene pogodbe CFE. Rusija je 10. marca 2015 ob sklicevanju na to, da naj bi Nato pogodbo dejansko kršil, uradno sporočila, da s prihodnjim dnem »povsem« preneha sodelovati. Rusija je 7. novembra 2023 izstopila iz pogodbe, v odgovor pa so Združene države in njihove zaveznice v Natu suspendirale svoje sodelovanje. Od tedaj so sodelovanje suspendirale skoraj vse druge pogodbenice."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty on Conventional Armed Forces in Europe",
+    "rev": 1380742992,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The original Treaty on Conventional Armed Forces in Europe (CFE) was negotiated and concluded during the last years of the Cold War and established comprehensive limits on key categories of conventional military equipment in Europe (from the Atlantic to the Urals) and mandated the destruction of excess weaponry. The treaty proposed equal limits for the two \"groups of states-parties\", the North Atlantic Treaty Organization (NATO) and the Warsaw Pact. In 1999, the Adapted CFE was signed to take in consideration the changed geopolitical realities and the disbanding of the Warsaw Pact, but NATO refused to ratify it, citing Russian failure to comply to the Istanbul Commitments. In 2007, Russia \"suspended\" its participation in the treaty, citing the US presence in Eastern Europe and NATO's refusal to ratify the Adapted CFE treaty. On 10 March 2015, citing NATO's alleged de facto breach of the Treaty, Russia formally announced it was \"completely\" halting its participation as of the next day. On 7 November 2023, Russia withdrew from the treaty, and in response the United States and its NATO allies suspended their participation in the treaty. Almost all other parties have since suspended their participation."
+    ]
+   },
+   "records": [
+    "Q834195"
    ],
    "translated": "2026-10-23"
   },
@@ -13657,6 +14197,68 @@
    ],
    "translated": "2026-10-23"
   },
+  "Walcheren Campaign": {
+   "paragraphs": [
+    "Walcherenska ekspedicija je bila neuspešen britanski pohod v Kraljevino Holandijo leta 1809, s katerim naj bi med vojno pete koalicije odprli novo fronto v boju Avstrijskega cesarstva s Francijo. Poveljnik pohoda John Pitt, 2. grof Chathama, je dobil ukaz, naj zavzame mesti Flushing (Vlissingen) in Antwerpen ter tako britanskim ladjam omogoči varno plovbo po reki Šeldi."
+   ],
+   "notes": [
+    "The Dutch pronunciation in IPA is dropped."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Walcheren Campaign",
+    "rev": 1370749466,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Walcheren Campaign (Dutch pronunciation: [ˈʋɑlxərə(n)]) was an unsuccessful British expedition to the Kingdom of Holland in 1809 intended to open another front in the Austrian Empire's struggle with France during the War of the Fifth Coalition. John Pitt, 2nd Earl of Chatham, the commander of the expedition, was ordered to capture the towns of Flushing (Vlissingen) and Antwerp and thus enable British ships to safely traverse the Scheldt River."
+    ]
+   },
+   "records": [
+    "Q1080899"
+   ],
+   "translated": "2026-10-23"
+  },
+  "War in the Vendée": {
+   "paragraphs": [
+    "Vojna v Vendéeju (francosko: Guerre de Vendée) je bila protirevolucionarna vstaja v francoski pokrajini Vendée od leta 1793 do 1796, med francosko revolucijo. Vendée je obalna pokrajina tik južno od reke Loare na zahodu Francije. Upor je bil sprva podoben kmečki vstaji žakeriji iz 14. stoletja, a je Vendée hitro postal protirevolucionaren in rojalističen. Upor je bil primerljiv s chouannerie, ki je hkrati (1794–1800) potekala na območju severno od Loare."
+   ],
+   "notes": [
+    "The French pronunciation in IPA is dropped."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "War in the Vendée",
+    "rev": 1378379356,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The War in the Vendée (French: Guerre de Vendée [ɡɛʁ də vɑ̃de]) was a counter-revolutionary insurrection that took place in the Vendée region of France from 1793 to 1796, during the French Revolution. The Vendée is a coastal region, located immediately south of the river Loire in western France. Initially, the revolt was similar to the 14th-century Jacquerie peasant uprising, but the Vendée quickly became counter-revolutionary and Royalist. The revolt was comparable to the Chouannerie, which took place concurrently (1794–1800) in the area north of the Loire."
+    ]
+   },
+   "records": [
+    "Q8628"
+   ],
+   "translated": "2026-10-23"
+  },
+  "War of the Breton Succession": {
+   "paragraphs": [
+    "Bretonska nasledstvena vojna ali bretonska državljanska vojna je bila spopad med grofi Bloisa in bretonskimi Montforti za nadzor nad Vojvodino Bretanjo. Potekala je med letom 1341 in 12. aprilom 1365. Znana je tudi kot vojna dveh Ivan (francosko: guerre des deux Jeannes), ker sta v njej sodelovali tekmici, vojvodinji s tem imenom, Ivana Flandrijska in Ivana Penthièvrska.",
+    "Vojna je bila sestavni del zgodnje stoletne vojne, saj sta francoski in angleški kralj v spopadu sodelovala posredno: Francozi so podpirali Bloise (dedinjo po ženski liniji), Angleži pa Montforte (dediča po moški liniji). Kralja tekmeca sta podpirala vojvodo po načelu, ki je bilo nasprotno od njunih lastnih zahtev do francoskega prestola: Plantageneti so ga zahtevali po ženskem nasledstvu, Valoisi pa po moškem. Montfort je nazadnje uspel po bitki pri Aurayju leta 1364, a se je montfortovski vojvoda presenetljivo zaobljubil zvestobo francoskemu kralju, ne pa plantagenetskemu angleškemu kralju, ki ga je podpiral."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "War of the Breton Succession",
+    "rev": 1376907046,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The War of the Breton Succession or Breton Civil War was a conflict between the Counts of Blois and the Montforts of Brittany for control of the Duchy of Brittany. It was fought between 1341 and 12 April 1365. It is also known as the War of the Two Joans (French: guerre des deux Jeannes) due to the involvement of two rival duchesses of that name, Joan of Flanders and Joan of Penthièvre.",
+     "The war formed an integral part of the early Hundred Years' War due to the proxy involvement of the French and English monarchs in the conflict; the French supported the Blois (female heir) whilst the English backed the Montforts (male heir). The rival kings supported the duke of the principle opposite to their own claims to the French throne—the Plantagenets having claimed it by female succession, and the Valois by male succession. Montfort was ultimately successful following the Battle of Auray in 1364 but, in a surprising turn of events, the Montfortist duke pledged his loyalty to the king of France and not to the Plantagenet king of England who had supported him."
+    ]
+   },
+   "records": [
+    "Q550172"
+   ],
+   "translated": "2026-10-23"
+  },
   "War of the Castilian Succession": {
    "paragraphs": [
     "Kastiljski kralj Henrik IV. je umrl konec leta 1474.",
@@ -13700,6 +14302,49 @@
    ],
    "translated": "2026-10-23"
   },
+  "War of the Pyrenees": {
+   "paragraphs": [
+    "Pirenejska vojna, znana tudi kot vojna za Roussillon ali vojna konventa, je bila pirenejska fronta vojne prve koalicije proti prvi francoski republiki. V njej se je revolucionarna Francija med francoskimi revolucionarnimi vojnami od marca 1793 do julija 1795 bojevala proti kraljevinama Španiji in Portugalski.",
+    "Bojevali so se v vzhodnih in zahodnih Pirenejih, v francoskem pristanišču Toulon in na morju. Leta 1793 je španska vojska vdrla v Roussillon v vzhodnih Pirenejih in se na francoskih tleh obdržala do aprila 1794. Francoska revolucionarna vojska je špansko vojsko potisnila nazaj v Katalonijo in ji novembra 1794 zadala hud poraz. Po februarju 1795 je vojna v vzhodnih Pirenejih zastala. V zahodnih Pirenejih so Francozi začeli zmagovati leta 1794. Do leta 1795 je francoska vojska nadzorovala del severovzhodne Španije."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "War of the Pyrenees",
+    "rev": 1370750145,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The War of the Pyrenees, also known as War of Roussillon or War of the Convention, was the Pyrenean front of the First Coalition's war against the First French Republic. It pitted Revolutionary France against the kingdoms of Spain and Portugal from March 1793 to July 1795 during the French Revolutionary Wars.",
+     "The war was fought in the eastern and western Pyrenees, at the French port of Toulon, and at sea. In 1793, a Spanish army invaded Roussillon in the eastern Pyrenees and maintained itself on French soil through April 1794. The French Revolutionary Army drove the Spanish Army back into Catalonia and inflicted a serious defeat in November 1794. After February 1795, the war in the eastern Pyrenees became a stalemate. In the western Pyrenees, the French began to win in 1794. By 1795, the French army controlled a portion of northeast Spain."
+    ]
+   },
+   "records": [
+    "Q324438"
+   ],
+   "translated": "2026-10-23"
+  },
+  "War of the Reunions": {
+   "paragraphs": [
+    "Vojna Réunionov (1683–1684) je bila spopad med Francijo, Španijo in Svetim rimskim cesarstvom, v katerem je omejeno sodelovala tudi Genova. Lahko jo vidimo kot nadaljevanje devolucijske vojne (1667–1668) in francosko-nizozemske vojne (1672–1678), ki ju je gnala odločenost Ludvika XIV., da vzpostavi obranljive meje ob severni in vzhodni meji Francije.",
+    "Kljub nijmegenskemu miru iz leta 1678 je Ludvik obdržal veliko vojsko, kar je bilo za tisti čas zelo nenavadno. Leta 1681 so njegove čete zavzele Strasbourg, leta 1682 pa zasedle Kneževino Orange, tedaj posest Viljema Oranskega. Ko so se leta 1683 začele sovražnosti, je francoska podpora Osmanom v njihovi vojni z Avstrijo Ludviku omogočila, da je zavzel Luksemburg in utrdil svoj položaj v Alzaciji."
+   ],
+   "notes": [
+    "The range 1683–84 is written in full (1683–1684)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "War of the Reunions",
+    "rev": 1370750154,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The War of the Reunions (1683–84) was a conflict between France, Spain and the Holy Roman Empire, with limited involvement by Genoa. It can be seen as a continuation of the War of Devolution (1667–1668) and the Franco-Dutch War (1672–1678), which were driven by Louis XIV's determination to establish defensible boundaries along France's northern and eastern borders.",
+     "Despite the peace established by the 1678 Treaty of Nijmegen, Louis retained a large army, an action extremely unusual in the period. In 1681, his troops seized Strasbourg and in 1682 occupied the Principality of Orange, then a possession of William of Orange. When hostilities began in 1683, French support for the Ottomans in their war with Austria allowed Louis to capture Luxembourg and consolidate his position in Alsace."
+    ]
+   },
+   "records": [
+    "Q673556"
+   ],
+   "translated": "2026-10-23"
+  },
   "Wars of Scottish Independence": {
    "paragraphs": [
     "Vojne za škotsko neodvisnost (1296–1357) so obsegale dva dolgotrajna vojaška spopada, v katerih je Kraljevina Anglija skušala vzpostaviti popoln nadzor nad Kraljevino Škotsko. Kljub pomembnim začasnim uspehom so angleška prizadevanja v obeh vojnah zaradi škotskega odpora nazadnje propadla in Škotska je ostala neodvisna država. Vojne so bile del velike krize Škotske, to obdobje pa je postalo eno najodločilnejših v njeni zgodovini."
@@ -13733,6 +14378,27 @@
    },
    "records": [
     "Q2577772"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Western Allied invasion of Germany": {
+   "headline": "Zahodnozavezniška invazija na Nemčijo",
+   "paragraphs": [
+    "Zahodnozavezniška invazija na Nemčijo je bila usklajena operacija zahodnih zaveznikov v zadnjih mesecih sovražnosti na evropskem bojišču druge svetovne vojne. Kot pripravo na zavezniško invazijo na Nemčijo vzhodno od Rena so zasnovali vrsto ofenzivnih operacij, s katerimi naj bi zavzeli njegov vzhodni in zahodni breg: operaciji Veritable in Grenade februarja 1945 ter operaciji Lumberjack in Undertone marca 1945; te štejejo za ločene od glavne invazijske operacije. Zavezniška invazija na Nemčijo vzhodno od Rena se je začela 22. marca 1945, ko so zahodni zavezniki prečkali reko, nato pa so se razširili in preplavili vso zahodno Nemčijo od Baltika na severu do alpskih prelazov na jugu.",
+    "Potem ko so 25. aprila 1945 prvič vzpostavili stik z Rdečo armado z vzhoda in tako Nemčijo presekali na dvoje (dan, znan kot dan na Labi), so se povezali s četami ameriške 5. armade v Italiji."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Western Allied invasion of Germany",
+    "rev": 1374759580,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Western Allied invasion of Germany was coordinated by the Western Allies during the final months of hostilities in the European theatre of World War II. In preparation for the Allied invasion of Germany east of the Rhine, a series of offensive operations were designed to seize and capture its east and west banks: Operation Veritable and Operation Grenade in February 1945, and Operation Lumberjack and Operation Undertone in March 1945; these are considered separate from the main invasion operation. The Allied invasion of Germany east of the Rhine started with the Western Allies crossing the river on 22 March 1945 before fanning out and overrunning all of western Germany from the Baltic in the north to the Alpine passes in the south.",
+     "After making first contact with the Red Army from the east, thereby cutting Germany in two on 25 April 1945 (known as Elbe Day), they linked up with troops of the U.S. Fifth Army in Italy."
+    ]
+   },
+   "records": [
+    "Q666414"
    ],
    "translated": "2026-10-23"
   },
@@ -13794,6 +14460,25 @@
    },
    "records": [
     "Q1465514"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Zeebrugge Raid": {
+   "headline": "Napad na Zeebrugge",
+   "paragraphs": [
+    "Napad na Zeebrugge (nizozemsko: Aanval op de haven van Zeebrugge; francosko: Raid sur Zeebruges) 23. aprila 1918 je bil poskus britanske kraljeve mornarice, da bi zaprla belgijsko pristanišče Brugge-Zeebrugge. Britanci so nameravali v vhodu v kanal potopiti zastarele ladje in tako nemškim plovilom preprečiti izplutje iz pristanišča. Pristanišče je nemška cesarska mornarica uporabljala kot oporišče za flandrijske flotilje podmornic in lahkih plovil, ki so ogrožale zavezniški nadzor nad Rokavskim prelivom in južnim delom Severnega morja. Več poskusov, da bi flandrijska pristanišča zaprli z obstreljevanjem, je spodletelo, operacija Hush, načrt iz leta 1917 za prodor ob obali, pa se je izjalovila. Ker so izgube ladij zaradi podmornic naraščale, je postalo nujno najti način za zaprtje pristanišč, admiraliteta pa je bila vse bolj pripravljena razmisliti o napadu."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Zeebrugge Raid",
+    "rev": 1379157103,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Zeebrugge Raid (Dutch: Aanval op de haven van Zeebrugge; French: Raid sur Zeebruges) on 23 April 1918, was an attempt by the Royal Navy to block the Belgian port of Bruges-Zeebrugge. The British intended to sink obsolete ships in the canal entrance, to prevent German vessels from leaving port. The port was used by the Imperial German Navy as a base for the Flanders U-boat flotillas and light shipping, which were a threat to Allied control of the English Channel and southern North Sea. Several attempts to close the Flanders ports by bombardment failed and Operation Hush, a 1917 plan to advance up the coast, proved abortive. As ship losses to U-boats increased, finding a way to close the ports became urgent and the Admiralty became more willing to consider a raid."
+    ]
+   },
+   "records": [
+    "Q700864"
    ],
    "translated": "2026-10-23"
   }
