@@ -6647,6 +6647,47 @@
    ],
    "translated": "2026-10-23"
   },
+  "Battle of Wattignies": {
+   "headline": "Bitka pri Wattigniesu",
+   "paragraphs": [
+    "Bitka pri Wattigniesu (15.–16. oktobra 1793) je bila spopad, v katerem je francoska vojska pod poveljstvom Jean-Baptista Jourdana napadla koalicijsko vojsko, ki jo je vodil princ Josias Saško-Coburško-Saalfeldski. Po dveh dneh boja so Jourdanove čete habsburške zaščitne sile pod vodstvom Françoisa Sébastiena Charlesa Josepha de Croixa, grofa Clerfayta, prisilile k umiku. Zmaga v vojni prve koalicije je Francozom omogočila, da so prekinili obleganje Maubeuga. V času, ko so neuspešne generale pogosto usmrtili ali zaprli, je moral Jourdan prenašati vmešavanje Lazara Carnota iz Odbora za javno blaginjo. Vas, ki so jo v čast pomembnemu uspehu preimenovali v Wattignies-la-Victoire, leži 9 kilometrov jugovzhodno od Maubeuga."
+   ],
+   "notes": [
+    "The mile figure is dropped; the kilometres are kept."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Wattignies",
+    "rev": 1370276745,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Battle of Wattignies (15–16 October 1793) saw a French army commanded by Jean-Baptiste Jourdan attack a Coalition army directed by Prince Josias of Saxe-Coburg-Saalfeld. After two days of combat Jourdan's troops compelled the Habsburg covering force led by François Sébastien Charles Joseph de Croix, Count of Clerfayt to withdraw. The War of the First Coalition victory allowed the French to raise the siege of Maubeuge. At a time when failed generals were often executed or imprisoned, Jourdan had to endure interference from Lazare Carnot from the Committee of Public Safety. The village, renamed Wattignies-la-Victoire in honor of the important success, is located 9 kilometres (6 mi) southeast of Maubeuge."
+    ]
+   },
+   "records": [
+    "Q1059732"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Battle of Wavre": {
+   "headline": "Bitka pri Wavru",
+   "paragraphs": [
+    "Bitka pri Wavru je bila zadnji večji vojaški spopad pohoda stotih dni in napoleonskih vojn. Potekala je 18. in 19. junija 1815 med prusko zaščitnico, ki jo je sestavljal pruski III. korpus pod poveljstvom generala Johanna von Thielmanna (njegov načelnik štaba je bil Carl von Clausewitz), in tremi korpusi francoske vojske pod poveljstvom maršala Grouchyja. Prusi so s tem zapornim bojem 33.000 francoskim vojakom preprečili, da bi prispeli k bitki pri Waterlooju, in tako pripomogli k Napoleonovemu porazu pri Waterlooju."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Wavre",
+    "rev": 1371153197,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Battle of Wavre was the final major military action of the Hundred Days campaign and the Napoleonic Wars. It was fought on 18–19 June 1815 between the Prussian rearguard, consisting of the Prussian III Corps under the command of General Johann von Thielmann (whose chief-of-staff was Carl von Clausewitz) and three corps of the French army under the command of Marshal Grouchy. A blocking action, this battle kept 33,000 French soldiers from reaching the Battle of Waterloo and so helped in the defeat of Napoleon at Waterloo."
+    ]
+   },
+   "records": [
+    "Q920107"
+   ],
+   "translated": "2026-10-23"
+  },
   "Battle of Winchelsea": {
    "headline": "Bitka pri Winchelseaju",
    "paragraphs": [
@@ -6668,6 +6709,27 @@
    ],
    "translated": "2026-10-23"
   },
+  "Battle of Wissembourg (1870)": {
+   "paragraphs": [
+    "Bitka pri Wissembourgu ali bitka pri Weissenburgu, prva bitka francosko-pruske vojne, se je začela, ko so trije nemški armadni korpusi 4. avgusta 1870 presenetili majhno francosko posadko v Wissembourgu. Močno številčno šibkejši branilci so se trdovratno borili: »zlasti če upoštevamo, da so bili presenečeni in v veliki manjšini, so Francozi ohranili stari sloves bojevnikov in prvi poraz, čeprav hud, vojakom 1. korpusa ni bil v sramoto.« Padec Wissembourga je pruski vojski omogočil prodor v Francijo in maršala Patricea MacMahona prisilil, da se je 6. avgusta spustil v bitko pri Wörthu, v kateri je bil poražen."
+   ],
+   "notes": [
+    "The glossary had a typo (Bitka pri Wssembourgu); an override in src/i18n/names/sl.json corrects it to Bitka pri Wissembourgu."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Wissembourg (1870)",
+    "rev": 1370276969,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Battle of Wissembourg or Battle of Weissenburg, the first of the Franco-Prussian War, was joined when three German army corps surprised the small French garrison at Wissembourg on 4 August 1870. The defenders, greatly outnumbered, fought stubbornly \"especially considering they were surprised and greatly outnumbered, that the French sustained their old renown as fighting men and that the first defeat, although severe, reflected no discredit on the soldiers of the 1st Corps.\" The fall of Wissembourg allowed the Prussian army to move into France and compelled Marshal Patrice MacMahon to give battle, and suffer defeat, at the Battle of Wörth on 6 August."
+    ]
+   },
+   "records": [
+    "Q697306"
+   ],
+   "translated": "2026-10-23"
+  },
   "Battle of Worcester": {
    "headline": "Bitka pri Worcestru",
    "paragraphs": [
@@ -6686,6 +6748,67 @@
    },
    "records": [
     "Q1116626"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Battle of Wörth": {
+   "headline": "Bitka pri Wörthu",
+   "paragraphs": [
+    "Bitka pri Wörthu, znana tudi kot bitka pri Reichshoffnu ali bitka pri Frœschwillerju, je druga bitka pri Wörthu, ki je potekala 6. avgusta 1870 v začetni fazi francosko-pruske vojne (prva bitka pri Wörthu je potekala 23. decembra 1793 med francoskimi revolucionarnimi vojnami). V drugi bitki so nemške čete pod poveljstvom prestolonaslednika Friderika Viljema, ki jih je usmerjal njegov načelnik štaba general Leonhard grof von Blumenthal, premagale Francoze pod poveljstvom maršala MacMahona blizu vasi Wœrth v Alzaciji ob reki Sauer, 10 kilometrov severno od Haguenauja."
+   ],
+   "notes": [
+    "The mile figure is dropped; the kilometres are kept."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Wörth",
+    "rev": 1370277039,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Battle of Wörth, also known as the Battle of Reichshoffen or as the Battle of Frœschwiller, refers to the second battle of Wörth, which took place on 6 August 1870 in the opening stages of the Franco-Prussian War (the first Battle of Wörth occurred on 23 December 1793 during the French Revolutionary Wars). In the second battle, troops from Germany commanded by Crown Prince Frederick William and directed by his chief of staff, General Leonhard Graf von Blumenthal, defeated the French under Marshal MacMahon near the village of Wœrth in Alsace, on the Sauer River, 10 kilometres (6.2 mi) north of Haguenau."
+    ]
+   },
+   "records": [
+    "Q684479"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Battle of Zutphen": {
+   "headline": "Bitka pri Zutphnu",
+   "paragraphs": [
+    "Bitka pri Zutphnu je potekala 22. septembra 1586 blizu vasi Warnsveld in mesta Zutphen na Nizozemskem med osemdesetletno vojno in angleško-špansko vojno (1585–1604). Sile Združenih provinc Nizozemske, ki so jim pomagali Angleži, so se spopadle s Španci. Leta 1585 je Anglija z generalnimi stanovi Nizozemske podpisala pogodbo iz Nonsucha in formalno vstopila v vojno proti Španiji. Robert Dudley, grof Leicestra, je bil imenovan za generalnega guvernerja Nizozemske in tja poslan kot poveljnik angleške vojske v podporo nizozemskim upornikom. Ko je Alessandro Farnese, parmski vojvoda in poveljnik španske flandrijske armade, med kölnsko vojno oblegal mesto Rheinberg, je Leicester sam oblegal mesto Zutphen v provinci Gelderland na vzhodnem bregu reke IJssel."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Zutphen",
+    "rev": 1374044346,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Battle of Zutphen was fought on 22 September 1586, near the village of Warnsveld and the town of Zutphen, the Netherlands, during the Eighty Years' War and the Anglo-Spanish War (1585–1604). It was fought between the forces of the United Provinces of the Netherlands, aided by the English, against the Spanish. In 1585, England signed the Treaty of Nonsuch with the States-General of the Netherlands and formally entered the war against Spain. Robert Dudley, Earl of Leicester, was appointed as the Governor-General of the Netherlands and sent there in command of an English army to support the Dutch rebels. When Alessandro Farnese, Duke of Parma and commander of the Spanish Army of Flanders, besieged the town of Rheinberg during the Cologne War, Leicester, in turn, besieged the town of Zutphen, in the province of Gelderland and on the eastern bank of the river IJssel."
+    ]
+   },
+   "records": [
+    "Q2890458"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Battles of Barfleur and La Hougue": {
+   "paragraphs": [
+    "Bitki pri Barfleurju in La Hougueju sta potekali med devetletno vojno med 19. majem po starem (29. majem po novem koledarju) in 4. junijem po starem (14. junijem po novem koledarju) 1692. Prva je potekala blizu Barfleurja 19. maja po starem (29. maja po novem koledarju), poznejši spopadi pa med 20. majem po starem (30. majem po novem koledarju) in 4. junijem po starem (14. junijem po novem koledarju) pri Cherbourgu in Saint-Vaast-la-Hougueju v Normandiji v Franciji.",
+    "Francoski poskus, da bi Jakoba II. vrnili na angleški prestol – viljemovska vojna na Irskem –, se je oktobra 1691 končal s porazom. Namesto tega naj bi flota 44 linijskih ladij pod poveljstvom admirala de Tourvilla prepeljala invazijske sile pod poveljstvom Bernardina Gigaulta de Bellefondsa. Anglo-nizozemske ladje so prezimovale v ločenih pristaniščih, Tourville pa je dobil ukaz, naj čim prej izpluje, da bi jih prestregel, preden se združijo. Ko je konec maja nazadnje izplul, sta se obe floti pod poveljstvom admirala Edwarda Russella že združili in sta skupaj šteli 82 ladij, ko sta pred rtom Barfleur naleteli na Francoze."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battles of Barfleur and La Hougue",
+    "rev": 1371537181,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Battles of Barfleur and La Hougue took place during the Nine Years' War, between 19 May O.S. (29 May N.S.) and 4 June O.S. (14 June N.S.) 1692. The first was fought near Barfleur on 19 May O.S. (29 May N.S.), with later actions occurring between 20 May O.S. (30 May N.S.) and 4 June O.S. (14 June N.S.) at Cherbourg and Saint-Vaast-la-Hougue in Normandy, France.",
+     "The French attempt to restore James II to the English throne—the Williamite War in Ireland—ended in defeat in October 1691. Instead, a fleet of 44 ships of the line under Admiral de Tourville was to transport an invasion force commanded by Bernardin Gigault de Bellefonds. The Anglo-Dutch ships wintered in separate ports, and Tourville was ordered to put to sea as early as possible, hoping to intercept them before they could combine. However, when he finally did so in late May, the two fleets under Admiral Edward Russell had already met up and were 82 strong when they encountered the French off Cape Barfleur."
+    ]
+   },
+   "records": [
+    "Q2265686"
    ],
    "translated": "2026-10-23"
   },
@@ -6797,6 +6920,27 @@
    ],
    "translated": "2026-10-23"
   },
+  "Bonn–Paris conventions": {
+   "headline": "Bonnsko-pariške konvencije",
+   "paragraphs": [
+    "Bonnsko-pariške konvencije so bile podpisane maja 1952 in so začele veljati po ratifikaciji leta 1955. Z njimi se je končala zavezniška zasedba Zahodne Nemčije.",
+    "Med podpisom in ratifikacijo je minilo veliko časa, ker Francija ni ratificirala povezane pogodbe o Evropski obrambni skupnosti. Oviro je nazadnje odpravil predlog britanskega zunanjega ministra Anthonyja Edna, naj Zahodna Nemčija postane članica Nata, ter odstranitev sklicev na Evropsko obrambno skupnost iz bonnsko-pariških konvencij. Revidirana pogodba je bila podpisana na slovesnosti v Parizu 23. oktobra 1954. Konvencije so začele veljati na zadnjem zasedanju zavezniške visoke komisije na veleposlaništvu ZDA v Bonnu 5. maja 1955."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Bonn–Paris conventions",
+    "rev": 1360858568,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Bonn–Paris conventions were signed in May 1952 and came into force after the 1955 ratification. The conventions put an end to the Allied occupation of West Germany.",
+     "The delay between the signing and the ratification was due to the French failure to ratify the related treaty on the European Defense Community. This was eventually overcome by the British Foreign Secretary Anthony Eden proposing that West Germany become a member of NATO and the removal of the references to the European Defense Community in the Bonn–Paris conventions. The revised treaty was signed at a ceremony in Paris on 23 October 1954. The conventions came into force during the last meeting of the Allied High Commission, that took place in the United States Embassy in Bonn, on 5 May 1955."
+    ]
+   },
+   "records": [
+    "Q2052417"
+   ],
+   "translated": "2026-10-23"
+  },
   "Bowring Treaty": {
    "headline": "Bowringova pogodba",
    "paragraphs": [
@@ -6813,6 +6957,25 @@
    },
    "records": [
     "Q745728"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Brécourt Manor assault": {
+   "headline": "Napad na dvorec Brécourt",
+   "paragraphs": [
+    "Napad na dvorec Brécourt (6. junija 1944) med ameriškim padalskim napadom v okviru izkrcanja v Normandiji v drugi svetovni vojni pogosto navajajo kot klasičen primer taktike in vodenja majhne enote pri premagovanju večjih sovražnih sil."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Brécourt Manor assault",
+    "rev": 1379213821,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Brécourt Manor Assault (6 June 1944) during the US parachute assault of the Normandy Invasion of World War II is often cited as a classic example of small-unit tactics and leadership in overcoming a larger enemy force."
+    ]
+   },
+   "records": [
+    "Q28703"
    ],
    "translated": "2026-10-23"
   },
@@ -6861,6 +7024,25 @@
    ],
    "translated": "2026-10-23"
   },
+  "Burgundian Wars": {
+   "headline": "Burgundske vojne",
+   "paragraphs": [
+    "Burgundske vojne (1474–1477) so bile spopad med burgundsko državo ter staro švicarsko konfederacijo in njenimi zavezniki. Odprta vojna je izbruhnila leta 1474; burgundski vojvoda Karel Drzni je bil v naslednjih letih trikrat poražen na bojišču in je leta 1477 padel v bitki pri Nancyju. Vojvodina Burgundija in več drugih burgundskih dežel so nato postale del Francije, Burgundsko Nizozemsko in Franche-Comté pa je podedovala Karlova hči Marija Burgundska; po njeni smrti sta zaradi njene poroke s cesarjem Svetega rimskega cesarstva Maksimilijanom I. nazadnje prešli na Habsburžane."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Burgundian Wars",
+    "rev": 1376549925,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Burgundian Wars (1474–1477) were a conflict between the Burgundian State and the Old Swiss Confederacy and its allies. Open war broke out in 1474, and the Duke of Burgundy, Charles the Bold, was defeated three times on the battlefield in the following years and was killed at the Battle of Nancy in 1477. The Duchy of Burgundy and several other Burgundian lands then became part of France, and the Burgundian Netherlands and Franche-Comté were inherited by Charles's daughter, Mary of Burgundy, and eventually passed to the House of Habsburg upon her death because of her marriage to Maximilian I, Holy Roman Emperor."
+    ]
+   },
+   "records": [
+    "Q315342"
+   ],
+   "translated": "2026-10-23"
+  },
   "Burney Treaty": {
    "headline": "Burneyjeva pogodba",
    "paragraphs": [
@@ -6897,6 +7079,27 @@
    },
    "records": [
     "Q3100354"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Capture of the Dutch fleet at Den Helder": {
+   "headline": "Zajetje nizozemske flote pri Den Helderju",
+   "paragraphs": [
+    "Zajetje nizozemske flote pri Den Helderju v noči na 23. januar 1795 je redek primer spopada med vojnimi ladjami in konjenico: francoski revolucionarni huzarski polk se je približal nizozemski floti, ki je zamrznjena stala na sidrišču v Nieuwediepu, tik vzhodno od mesta Den Helder. Potem ko se je del huzarjev približal čez zamrznjeni Nieuwediep, je francoska konjenica izpogajala, da vseh 14 nizozemskih vojnih ladij ostane na sidru. Zajetje ladij s konjeniki je v vojaški zgodovini izjemno redek podvig.",
+    "Francoski enoti sta bili 8. huzarski polk in voltižerska četa 15. linijskega pehotnega polka francoske revolucionarne vojske. Jean-Charles Pichegru je vodil francosko vojsko, ki je vdrla v Nizozemsko republiko. Nizozemski floti je poveljeval kapitan Hermanus Reintjes. Dogodek se je zgodil med vojno prve koalicije, ki je bila del francoskih revolucionarnih vojn."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Capture of the Dutch fleet at Den Helder",
+    "rev": 1375545394,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The capture of the Dutch fleet at Den Helder on the night of 23 January 1795 presents a rare occurrence of an interaction between warships and cavalry, in which a French Revolutionary Hussar regiment came close to a Dutch fleet frozen at anchor in the Nieuwediep, just east of the town of Den Helder. After some of the Hussars had approached across the frozen Nieuwediep, the French cavalry negotiated that all 14 Dutch warships would remain at anchor. A capture of ships by horsemen is an extremely rare feat in military history.",
+     "The French units were the 8th Hussar Regiment and the Voltigeur company of the 15th Line Infantry Regiment of the French Revolutionary Army. Jean-Charles Pichegru was the leader of the French army that invaded the Dutch Republic. The Dutch fleet was commanded by Captain Hermanus Reintjes. The action happened during the War of the First Coalition, which was part of the French Revolutionary Wars."
+    ]
+   },
+   "records": [
+    "Q183447"
    ],
    "translated": "2026-10-23"
   },
@@ -6977,6 +7180,68 @@
    ],
    "translated": "2026-10-23"
   },
+  "Chouannerie": {
+   "headline": "Chouannerie",
+   "paragraphs": [
+    "Chouannerie (po bratih Chouan, dveh njenih voditeljih) je bila rojalistična vstaja ali protirevolucija v dvanajstih zahodnih departmajih Francije, zlasti v provincah Bretanja in Maine, proti prvi republiki med francosko revolucijo. Potekala je v treh fazah in trajala od pomladi 1794 do leta 1800. Upor je bil primerljiv z vojno v Vendéeju, ki je potekala v pokrajini Vendée."
+   ],
+   "notes": [
+    "The French pronunciation in IPA is dropped."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Chouannerie",
+    "rev": 1381014600,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Chouannerie (French pronunciation: [ʃwanʁi]; from the Chouan brothers, two of its leaders) was a royalist uprising or counter-revolution in twelve of the western départements of France, particularly in the provinces of Brittany and Maine, against the First Republic during the French Revolution. It played out in three phases and lasted from spring 1794 to 1800. The revolt was comparable to the War in the Vendée, which took place in the Vendée region."
+    ]
+   },
+   "records": [
+    "Q249960"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Colmar Pocket": {
+   "headline": "Colmarski žep",
+   "paragraphs": [
+    "Colmarski žep (francosko: Poche de Colmar; nemško: Brückenkopf Elsass) je bil območje v osrednji Alzaciji v Franciji, ki ga je od novembra 1944 do februarja 1945 nemška 19. armada držala proti ameriški 6. armadni skupini (6. AG) med drugo svetovno vojno. Nastal je, ko je 6. armadna skupina osvobodila južno in severno Alzacijo ter sosednjo vzhodno Loreno, osrednje Alzacije pa ni mogla očistiti. Med operacijo Nordwind decembra 1944 je 19. armada iz žepa napadla proti severu v podporo drugim nemškim silam, ki so iz Posarja napadale proti jugu v severno Alzacijo. Konec januarja in v začetku februarja 1945 je francoska 1. armada (okrepljena z ameriškim XXI. korpusom) žep očistila nemških sil."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Colmar Pocket",
+    "rev": 1375389185,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Colmar Pocket (French: Poche de Colmar; German: Brückenkopf Elsass) was the area held in central Alsace, France, by the German Nineteenth Army from November 1944 to February 1945, against the U.S. 6th Army Group (6th AG) during World War II. It was formed when 6th AG liberated southern and northern Alsace and adjacent eastern Lorraine, but could not clear central Alsace. During Operation Nordwind in December 1944, the 19th Army attacked north out of the Pocket in support of other German forces attacking south from the Saar into northern Alsace. In late January and early February 1945, the French First Army (reinforced by the U.S. XXI Corps) cleared the Pocket of German forces."
+    ]
+   },
+   "records": [
+    "Q708253"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Combat of the Thirty": {
+   "headline": "Boj tridesetih",
+   "paragraphs": [
+    "Boj tridesetih (francosko: Combat des Trente, bretonsko: Emgann an Tregont), ki se je zgodil 26. marca 1351, je bil epizoda bretonske nasledstvene vojne, v kateri se je odločalo, kdo bo vladal Vojvodini Bretanji. Šlo je za dogovorjeni boj med izbranimi borci obeh strani na kraju na pol poti med bretonskima gradovoma Josselin in Ploërmel, s po 30 borci, vitezi in oprodami na vsaki strani. Izziv je izrekel Jean de Beaumanoir, kapitan Karla Bloiškega, ki ga je podpiral francoski kralj Filip VI., Robertu Bemboroughu, kapitanu Ivana Montforta, ki ga je podpiral angleški kralj Edvard III.",
+    "Po trdem boju je zmagala francosko-bretonska stranka Karla Bloiškega. Srednjeveški kronisti in pevci balad so boj pozneje slavili kot plemenit prikaz viteških idealov. Po besedah Jeana Froissarta so se bojevniki »na obeh straneh držali tako hrabro, kot da bi bili sami Rolandi in Oliverji«."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Combat of the Thirty",
+    "rev": 1375113864,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Combat of the Thirty (French: Combat des Trente, Breton: Emgann an Tregont), occurring on 26 March 1351, was an episode in the Breton War of Succession fought to determine who would rule the Duchy of Brittany. It was an arranged fight between selected combatants from both sides of the conflict, fought at a site midway between the Breton castles of Josselin and Ploërmel among 30 champions, knights, and squires on each side. The challenge was issued by Jean de Beaumanoir, a captain of Charles of Blois supported by King Philip VI of France, to Robert Bemborough, a captain of Jean de Montfort supported by Edward III of England.",
+     "After a hard-fought battle, the Franco-Breton Blois faction emerged victorious. The combat was later celebrated by medieval chroniclers and balladeers as a noble display of the ideals of chivalry. In the words of Jean Froissart, the warriors \"held themselves as valiantly on both sides as if they had been all Rolands and Olivers\"."
+    ]
+   },
+   "records": [
+    "Q2297338"
+   ],
+   "translated": "2026-10-23"
+  },
   "Commonwealth of England": {
    "paragraphs": [
     "Angleška republika (Commonwealth of England), ki se je leta 1653 razširila v Republiko Anglijo, Škotsko in Irsko, je bila politična ureditev v obdobju 1649–1660, ko je bilo Kraljestvo Anglija po koncu druge angleške državljanske vojne ter sojenju in usmrtitvi Karla I. razpuščeno in spremenjeno v republiko. Obstoj republike je razglasil zakon »An Act declaring England to be a Commonwealth« (Zakon o razglasitvi Anglije za republiko), ki ga je okrnjeni parlament (Rump Parliament) sprejel 19. maja 1649. Oblast v zgodnji republiki sta imela predvsem parlament in državni svet. V tem času so se nadaljevali boji med parlamentarnimi silami in njihovimi nasprotniki, zlasti na Irskem in Škotskem: Cromwellova osvojitev Irske in angleško-škotska vojna v letih 1650–1652."
@@ -7014,6 +7279,24 @@
    ],
    "translated": "2026-10-23"
   },
+  "Concordat of 1801": {
+   "paragraphs": [
+    "Konkordat iz leta 1801 je sporazum med prvo francosko republiko in Svetim sedežem, ki sta ga 15. julija 1801 v Parizu podpisala prvi konzul Napoleon Bonaparte in papež Pij VII. Veljal je do leta 1905, razen v Alzaciji in Loreni, kjer velja še danes. Z njim so skušali doseči narodno spravo med francosko revolucijo in katoličani; Katoliško cerkev je utrdil kot večinsko cerkev v Franciji in ji povrnil večino civilnega položaja. S tem se je končalo sovraštvo pobožnih francoskih katoličanov do revolucionarne države. Ni pa vrnil obsežnih cerkvenih zemljišč in nadarbin, ki so jih med revolucijo zaplenili in razprodali. Katoliška duhovščina se je vrnila iz izgnanstva ali skrivališč in znova prevzela tradicionalne položaje v tradicionalnih cerkvah. Le redke župnije so še naprej zaposlovale duhovnike, ki so sprejeli civilno ustavo duhovščine revolucionarnega režima. Konkordat je papeštvu povrnil precej moči, vendar se je ravnotežje v odnosih med cerkvijo in državo trdno nagnilo v Bonapartejevo korist: izbiral je škofe in nadzoroval cerkvene finance."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Concordat of 1801",
+    "rev": 1381025738,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Concordat of 1801 is an agreement between the First French Republic and the Holy See, signed by First Consul Napoleon Bonaparte and Pope Pius VII on 15 July 1801 in Paris. It remained in effect until 1905, except in Alsace–Lorraine, where it remains in force. It sought national reconciliation between the French Revolution and Catholics and solidified the Catholic Church as the majority church of France, with most of its civil status restored. This resolved the hostility of devout French Catholics against the revolutionary state. It did not restore the vast Church lands and endowments that had been seized during the Revolution and sold off. Catholic clergy returned from exile, or from hiding, and resumed their traditional positions in their traditional churches. Very few parishes continued to employ the priests who had accepted the Civil Constitution of the Clergy of the revolutionary regime. While the Concordat restored much power to the papacy, the balance of church-state relations tilted firmly in Bonaparte's favour. He selected the bishops and supervised church finances."
+    ]
+   },
+   "records": [
+    "Q1428015"
+   ],
+   "translated": "2026-10-23"
+  },
   "Confederate Ireland": {
    "paragraphs": [
     "Irska konfederacija, imenovana tudi Irska katoliška konfederacija, je bila obdobje irske katoliške samouprave med letoma 1642 in 1652, med enajstletno vojno. Ustanovili so jo katoliški aristokrati, zemljiško plemstvo, duhovščina in vojaški voditelji po irskem uporu leta 1641; konfederati so s sedežem v Kilkennyju nadzorovali do dve tretjini Irske, zato jo včasih imenujejo tudi konfederacija iz Kilkennyja."
@@ -7029,6 +7312,27 @@
    },
    "records": [
     "irish-catholic-confederation"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Congress of Arras": {
+   "headline": "Kongres v Arrasu",
+   "paragraphs": [
+    "Kongres v Arrasu je bil diplomatsko srečanje predstavnikov Anglije, Francije in Burgundije v Arrasu poleti 1435 med stoletno vojno. To so bila prva pogajanja po pogodbi iz Troyesa; nadomestila so petnajst let star sporazum med Burgundijo in Anglijo, po katerem naj bi francosko krono podedovala dinastija Henrika V. Zgodovinar Richard Vaughan ga je imenoval »prvi pravi mirovni kongres v Evropi«.",
+    "Proti koncu stoletne vojne sta tako kongres kot poznejša arraška pogodba pomenila diplomatski neuspeh za Anglijo in velik uspeh za Francijo ter privedla do izgona Angležev iz Francije."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Congress of Arras",
+    "rev": 1338831906,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Congress of Arras was a diplomatic congregation established at Arras in the summer of 1435 during the Hundred Years' War, between representatives of England, France and Burgundy. It was the first negotiation since the Treaty of Troyes and replaced the fifteen-year agreement between Burgundy and England that would have seen the dynasty of Henry V inherit the French crown. Historian Richard Vaughan has called it \"Europe's first real peace congress\".",
+     "Toward the close of the Hundred Years' War, both the Congress and the subsequent Treaty of Arras represented diplomatic failures for England and major successes for France and led to the expulsion of the English from France."
+    ]
+   },
+   "records": [
+    "Q2092225"
    ],
    "translated": "2026-10-23"
   },
@@ -7068,6 +7372,29 @@
    },
    "records": [
     "Q166270"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Convention of 1800": {
+   "headline": "Konvencija iz leta 1800",
+   "paragraphs": [
+    "Konvencija iz leta 1800, znana tudi kot pogodba iz Mortefontaina (francosko: Traité de Mortefontaine), je bila pogodba, ki so jo 30. septembra 1800 podpisale Združene države in Francija. Različno ime je bilo posledica občutljivosti kongresa pri sklepanju pogodb zaradi sporov o zavezniški in trgovinski pogodbi med Francijo in ZDA iz leta 1778.",
+    "Konvencija je odpravila sporazuma iz leta 1778, potrdila načelo »svobodna trgovina, svobodno blago« med državama in končala kvazivojno 1798–1800, nenapovedano pomorsko vojno, ki je potekala predvsem na Karibih. Ni pa rešila vprašanja odškodnin, ki so jih ameriški ladjarji zahtevali za izgube pred kvazivojno in med njo, zato jo je kongres potrdil šele decembra 1801.",
+    "Ker je odpravila vire trenj med državama, je obnovila francosko-ameriške odnose in nazadnje olajšala nakup Louisiane leta 1803."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Convention of 1800",
+    "rev": 1369393701,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Convention of 1800, also known as the Treaty of Mortefontaine (French: Traité de Mortefontaine), was signed on September 30, 1800, by the United States and France. The difference in name was due to congressional sensitivity at entering into treaties, due to disputes over the 1778 treaties of Alliance and Commerce between France and the U.S.",
+     "The Convention terminated the 1778 agreements, confirmed the principle of 'free trade, free goods' between the two countries and ended the 1798–1800 Quasi-War, an undeclared naval war waged primarily in the Caribbean. However, it failed to address the issue of compensation demanded by American ship owners for losses suffered before and during the Quasi-War, and as a result was not approved by Congress until December 1801.",
+     "By removing areas of friction between the two countries, it re-established Franco-American relations, and ultimately facilitated the 1803 Louisiana Purchase."
+    ]
+   },
+   "records": [
+    "Q284553"
    ],
    "translated": "2026-10-23"
   },
@@ -7506,6 +7833,46 @@
    ],
    "translated": "2026-10-23"
   },
+  "Coup of 18 Brumaire": {
+   "paragraphs": [
+    "Državni udar 18. brumaira (francosko: Coup d'État du 18 Brumaire) je Napoleona Bonaparta pripeljal na oblast kot prvega konzula prve francoske republike. Po mnenju večine zgodovinarjev je končal francosko revolucijo in kmalu privedel do Napoleonovega kronanja za cesarja Francozov. Nekrvavi državni udar je strmoglavil direktorij in ga nadomestil s francoskim konzulatom. Zgodil se je 9. novembra 1799, kar je bil po kratkotrajnem francoskem republikanskem koledarju 18. brumaire leta VIII."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Coup of 18 Brumaire",
+    "rev": 1378429593,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Coup of 18 Brumaire (French: Coup d'État du 18 Brumaire) brought Napoleon Bonaparte to power as First Consul of the French First Republic. In the view of most historians, it ended the French Revolution and would soon lead to the coronation of Napoleon as Emperor of the French. This bloodless coup d'état overthrew the Directory, replacing it with the French Consulate. This occurred on 9 November 1799, which was 18 Brumaire, Year VIII, under the short-lived French Republican calendar system."
+    ]
+   },
+   "records": [
+    "Q620965"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Coup of 18 Fructidor": {
+   "headline": "Državni udar 18. fructidorja",
+   "paragraphs": [
+    "Državni udar 18. fructidorja leta V (4. septembra 1797 po gregorijanskem koledarju) je bil prevzem oblasti v Franciji, ki so ga ob podpori vojske izvedli člani direktorija, tedanje vlade prve francoske republike. Udar so sprožili izidi volitev nekaj mesecev prej, na katerih so večino sedežev v zakonodajnem telesu (Corps législatif) dobili rojalistični kandidati, kar je grozilo z obnovo monarhije in vrnitvijo starega režima (ancien régime). Trije od petih članov direktorija, Paul Barras, Jean-François Rewbell in Louis Marie de La Révellière-Lépeaux, so ob podpori zunanjega ministra Charlesa Mauricea de Talleyranda-Périgorda izvedli državni udar, s katerim so razveljavili številne izide prejšnjih volitev in monarhiste odstranili iz zakonodajnega telesa."
+   ],
+   "notes": [
+    "The English labels 4 September 1797 as the Republican-calendar date; it is the Gregorian equivalent of 18 Fructidor Year V, and the Slovenian says so."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Coup of 18 Fructidor",
+    "rev": 1370613793,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Coup of 18 Fructidor, Year V (4 September 1797 in the French Republican Calendar), was a seizure of power in France by members of the Directory, then forming the government of the First French Republic, with support from the military. The coup was provoked by the results of elections held months earlier, which had given the majority of seats in the country's Corps législatif (Legislative body) to royalist candidates, threatening a restoration of the monarchy and a return to the ancien régime. Three of the five members of the Directory, Paul Barras, Jean-François Rewbell and Louis Marie de La Révellière-Lépeaux, with support of foreign minister Charles Maurice de Talleyrand-Périgord, staged the coup d'état that annulled many of the previous election's results and ousted the monarchists from the legislature."
+    ]
+   },
+   "records": [
+    "Q248033"
+   ],
+   "translated": "2026-10-23"
+  },
   "Crusade of Barbastro": {
    "headline": "Križarski pohod na Barbastro",
    "paragraphs": [
@@ -7602,6 +7969,28 @@
    "records": [
     "denmark-norway",
     "norway-denmark"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Donation of Pepin": {
+   "headline": "Pipinova darovnica",
+   "paragraphs": [
+    "Pipinova darovnica je bila prenos frankovskega ozemlja v osrednji Italiji papežu Štefanu II., ki ga je leta 756 izvedel frankovski kralj Pipin Mali. Darovnici pripisujejo, da je »dejansko vzpostavila posvetno oblast papeštva«; nastala je v času zatona Bizantinskega cesarstva v Italiji in pomenila tako »pomemben trenutek v papeško-karolinškem zavezništvu« kot »pomemben korak« pri nastanku Papeške države. Ko je leta 751 cesarska prestolnica v Italiji Ravena padla v roke langobardskega kralja Aistulfa, je izginil »vsakršen videz cesarske zaščite Rima«, papež, ki je bil do tedaj formalno bizantinski podanik, pa se je za pomoč obrnil na Pipina. Papež je najprej prosil bizantinskega cesarja Konstantina V., a brez uspeha. Pipin je vdrl v Italijo in po prvi zmagi leta 755 leta 756 odločilno »premagal Aistulfa in mu vsilil mir«."
+   ],
+   "notes": [
+    "The English variant spelling (Donation of Pippin) is dropped."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Donation of Pepin",
+    "rev": 1380913448,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Donation of Pepin, or Donation of Pippin, was the transfer of Frankish territory in Central Italy to Pope Stephen II made by Pepin the Short, King of the Franks, in 756. Credited with \"effectively establishing the temporal authority of the papacy,\" the Donation took place amid the Byzantine Empire's decline in Italy and marked both \"an important moment in the papal–Carolingian alliance\" and an \"important step\" in the formation of the Papal States. With the fall of Ravenna, the imperial capital in Italy, to Aistulf, King of the Lombards in 751, \"any semblance of imperial protection for Rome\" had vanished and the pope, who had technically been a Byzantine subject to this point, turned to Pepin for assistance. The pope initially appealed to Byzantine Emperor Constantine V, but without success. Pepin invaded Italy and, following an initial victory in 755, he decisively \"defeated Aistulf and imposed a peace on him\" in 756."
+    ]
+   },
+   "records": [
+    "Q973573"
    ],
    "translated": "2026-10-23"
   },
@@ -7850,6 +8239,127 @@
    ],
    "translated": "2026-10-23"
   },
+  "European Charter for Regional or Minority Languages": {
+   "paragraphs": [
+    "Evropska listina o regionalnih ali manjšinskih jezikih (ECRML) je evropska pogodba (CETS 148), sprejeta leta 1992 pod okriljem Sveta Evrope za zaščito in spodbujanje zgodovinskih regionalnih in manjšinskih jezikov v Evropi. Listina pa ne določa nobenega merila ali opredelitve, kdaj je neki jezik manjšinski ali regionalni, razvrstitev pa ostaja v rokah posamezne države."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "European Charter for Regional or Minority Languages",
+    "rev": 1379909754,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The European Charter for Regional or Minority Languages (ECRML) is a European treaty (CETS 148) adopted in 1992 under the auspices of the Council of Europe to protect and promote historical regional and minority languages in Europe. However, the charter does not provide any criterion or definition for an idiom to be a minority or a regional language, and the classification stays in the hands of the national state."
+    ]
+   },
+   "records": [
+    "Q106308"
+   ],
+   "translated": "2026-10-23"
+  },
+  "European Charter of Local Self-Government": {
+   "headline": "Evropska listina lokalne samouprave",
+   "paragraphs": [
+    "Evropska listina lokalne samouprave je bila sprejeta pod okriljem Kongresa Sveta Evrope in 15. oktobra 1985 odprta za podpis državam članicam Sveta Evrope. Pogodbenice listine so vse države članice Sveta Evrope. Od novih držav članic se pričakuje, da jo ratificirajo ob prvi priložnosti.",
+    "Listina države članice, ki jo ratificirajo, zavezuje k zagotavljanju politične, upravne in finančne neodvisnosti lokalnih oblasti. Določa, da mora biti načelo lokalne samouprave priznano v notranji zakonodaji in, kjer je to izvedljivo, v ustavi. Lokalne oblasti naj bi bile izvoljene na splošnih volitvah, listina pa je najstarejši pravni instrument, ki določa načelo subsidiarnosti."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "European Charter of Local Self-Government",
+    "rev": 1373065565,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The European Charter of Local Self-Government was adopted under the auspices of the Congress of the Council of Europe and was opened for signature by the Council of Europe's member states on 15 October 1985. All Council of Europe member states are parties to the Charter. New member states of the Council of Europe are expected to ratify the Charter at the earliest opportunity.",
+     "The Charter commits the ratifying member states to guaranteeing the political, administrative and financial independence of local authorities. It provides that the principle of local self-government shall be recognised in domestic legislation and, where practicable, in the constitution. Local authorities are to be elected by universal suffrage, and it is the earliest legal instrument to set out the principle of subsidiarity."
+    ]
+   },
+   "records": [
+    "Q1377281"
+   ],
+   "translated": "2026-10-23"
+  },
+  "European Fiscal Compact": {
+   "headline": "Evropski fiskalni dogovor",
+   "paragraphs": [
+    "Pogodba o stabilnosti, usklajevanju in upravljanju v ekonomski in monetarni uniji, imenovana tudi TSCG ali preprosteje pogodba o fiskalni stabilnosti, je medvladna pogodba, uvedena kot nova, strožja različica Pakta za stabilnost in rast, ki so jo 2. marca 2012 podpisale vse države članice Evropske unije (EU) razen Češke in Združenega kraljestva. Pogodba je 1. januarja 2013 začela veljati za 16 držav, ki so pred tem dnem končale ratifikacijo. Do 3. aprila 2019 je bila ratificirana in je začela veljati za vseh 25 podpisnic, za Hrvaško, ki je EU pristopila julija 2013, in za Češko.",
+    "Fiskalni dogovor je fiskalno poglavje pogodbe (naslov III). Zavezuje 23 držav članic: 21 držav članic evroobmočja ter Dansko in Romunijo, ki sta se zanj prostovoljno odločili. Spremlja ga sklop skupnih načel."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "European Fiscal Compact",
+    "rev": 1367615060,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Treaty on Stability, Coordination and Governance in the Economic and Monetary Union; also referred to as TSCG, or more plainly the Fiscal Stability Treaty is an intergovernmental treaty introduced as a new stricter version of the Stability and Growth Pact, signed on 2 March 2012 by all member states of the European Union (EU), except the Czech Republic and the United Kingdom. The treaty entered into force on 1 January 2013 for the 16 states which completed ratification prior to this date. As of 3 April 2019, it had been ratified and entered into force for all 25 signatories plus Croatia, which acceded to the EU in July 2013, and the Czech Republic.",
+     "The Fiscal Compact is the fiscal chapter of the Treaty (Title III). It binds 23 member states: the 21 member states of the eurozone, plus Denmark and Romania, who have chosen to opt in. It is accompanied by a set of common principles."
+    ]
+   },
+   "records": [
+    "Q1377817"
+   ],
+   "translated": "2026-10-23"
+  },
+  "European Union–Ukraine Association Agreement": {
+   "paragraphs": [
+    "Pridružitveni sporazum med Ukrajino in Evropsko unijo je pridružitveni sporazum, katerega pogodbenice so Evropska unija (EU), Evropska skupnost za atomsko energijo (Euratom), Ukrajina in 28 tedanjih držav članic EU (ki so poleg EU in Euratoma samostojne pogodbenice). Med pogodbenicami vzpostavlja politično in gospodarsko pridružitev. Sporazum je začel veljati 1. septembra 2017; deli so se pred tem uporabljali začasno. Pogodbenice so se zavezale k sodelovanju in zbliževanju gospodarske politike, zakonodaje in predpisov na številnih področjih, med drugim pri enakih pravicah delavcev, korakih k odpravi vizumov, izmenjavi informacij in osebja na področju pravosodja, posodobitvi ukrajinske energetske infrastrukture in dostopu do Evropske investicijske banke (EIB). Zavezale so se tudi k rednim vrhom ter srečanjem ministrov, drugih uradnikov in strokovnjakov. Sporazum poleg tega med pogodbenicami vzpostavlja poglobljeno in celovito območje proste trgovine."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "European Union–Ukraine Association Agreement",
+    "rev": 1378224856,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The European Union–Ukraine Association Agreement is a European Union association agreement between the European Union (EU), the European Atomic Energy Community (Euratom), Ukraine and the EU's 28 member states at the time (which are separate parties in addition to the EU and Euratom). It establishes a political and economic association between the parties. The agreement entered into force on 1 September 2017; previously parts had been provisionally applied. The parties committed to co-operate and converge economic policy, legislation, as well as regulation across a broad range of areas, including equal rights for workers, steps towards visa-free movement of people, the exchange of information and staff in the area of justice, the modernisation of Ukraine's energy infrastructure and access to the European Investment Bank (EIB). The parties committed to regular summit meetings and meetings among ministers, other officials and experts. The agreement furthermore establishes a Deep and Comprehensive Free Trade Area between the parties."
+    ]
+   },
+   "records": [
+    "Q12163419"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Falaise pocket": {
+   "headline": "Žep pri Falaisu",
+   "paragraphs": [
+    "Žep pri Falaisu ali bitka v žepu pri Falaisu (nemško: Kessel von Falaise; 12.–21. avgusta 1944) je bil odločilni spopad bitke za Normandijo v drugi svetovni vojni. Zavezniške sile so okoli Falaisa v departmaju Calvados oblikovale žep, v katerem so zahodni zavezniki obkolili nemško armadno skupino B, ki sta jo sestavljali 7. armada in 5. tankovska armada (prej Panzergruppe West). Bitka se je končala z uničenjem večine armadne skupine B zahodno od Sene, kar je odprlo pot do Pariza in francosko-nemške meje.",
+    "Šest tednov po zavezniški invaziji na Normandijo 6. junija 1944 so bile nemške sile v zmedi: pri obrambi bojne črte so porabile nenadomestljive vire, zavezniška premoč v zraku pa je ogrožala dobavo hrane in streliva. Na zavezniški strani pa so Britanci pričakovali, da bodo Caen osvobodili takoj po invaziji, a je operacija trajala skoraj dva meseca, Američani pa so pričakovali, da bodo do 7. junija nadzorovali Saint-Lô, vendar je nemški odpor to zavlekel do časa po osvoboditvi Caena."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Falaise pocket",
+    "rev": 1370617646,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Falaise pocket or battle of the Falaise pocket (German: Kessel von Falaise; 12–21 August 1944) was the decisive engagement of the Battle of Normandy in the Second World War. Allied forces formed a pocket around Falaise, Calvados, in which German Army Group B, consisting of the 7th Army and the Fifth Panzer Army (formerly Panzergruppe West), were encircled by the Western Allies. The battle resulted in the destruction of most of Army Group B west of the Seine, which opened the way to Paris and the Franco-German border.",
+     "Six weeks after the 6 June 1944 Allied invasion of Normandy, German forces were in turmoil, having expended irreplaceable resources defending the frontline and with Allied air superiority threatening the availability of food and ammunition. However, on the Allied side, British forces had expected to liberate Caen immediately after the invasion, an operation which ended up taking nearly two months, and US forces had expected to control Saint-Lô by 7 June, yet German resistance delayed this until after Caen's liberation."
+    ]
+   },
+   "records": [
+    "Q602744"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Fall of Antwerp": {
+   "headline": "Padec Antwerpna",
+   "paragraphs": [
+    "Padec Antwerpna (nizozemsko: val van Antwerpen) 17. avgusta 1585 se je zgodil med osemdesetletno vojno po več kot leto dni dolgem obleganju od julija 1584 do avgusta 1585. Mesto Antwerpen je bilo žarišče nizozemskega upora, v katerem so prevladovali protestanti, a se je moralo predati španskim silam pod poveljstvom Alessandra Farneseja. Po dogovorjenih pogojih so imeli vsi antwerpenski protestanti štiri leta časa, da uredijo svoje zadeve in zapustijo mesto. Mnogi so se izselili na sever, zlasti v Amsterdam. Antwerpen ni izgubil le velikega dela srednjega sloja in trgovcev, njegova trgovina je trpela še dve stoletji, saj so nizozemske utrdbe do leta 1795 blokirale reko Šeldo."
+   ],
+   "notes": [
+    "The Dutch pronunciation in IPA is dropped."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Fall of Antwerp",
+    "rev": 1375863582,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The fall of Antwerp (Dutch: val van Antwerpen [vɑl vɑn ˈɑntʋɛrpə(n)]) on 17 August 1585 took place during the Eighty Years' War, after a siege lasting over a year from July 1584 until August 1585. The city of Antwerp was the focal point of the Protestant-dominated Dutch Revolt, but was forced to surrender to the Spanish forces under the command of Alessandro Farnese. Under the terms agreed, all the Protestants of Antwerp were given four years to settle their affairs and leave the city. Many migrated north, especially to Amsterdam. Apart from losing a high proportion of its middle class and mercantile population, Antwerp's trade suffered for two centuries afterwards as Dutch forts blockaded the River Scheldt until 1795."
+    ]
+   },
+   "records": [
+    "Q697823"
+   ],
+   "translated": "2026-10-23"
+  },
   "Faro Convention": {
    "headline": "Konvencija iz Fara",
    "paragraphs": [
@@ -7869,6 +8379,26 @@
    ],
    "translated": "2026-10-23"
   },
+  "First Anglo-Dutch War": {
+   "paragraphs": [
+    "Prva angleško-nizozemska vojna ali prva nizozemska vojna je bila pomorski spopad med Angleško republiko in Nizozemsko republiko. Povzročili so jo predvsem trgovinski spori; začela se je z angleškimi napadi na nizozemske trgovske ladje, nato pa prerasla v obsežne spopade flot. Kljub vrsti zmag v letih 1652 in 1653 Angleška republika ni mogla blokirati nizozemske trgovine, čeprav so angleški zasebniki nizozemskemu trgovskemu ladjevju prizadejali hude izgube.",
+    "Gospodarska škoda je nazadnje privedla do westminstrske pogodbe leta 1654, v kateri so morali Nizozemci Angleški republiki narediti manjše koncesije. Obe strani sta se strinjali, da Oranska hiša ne sme zasesti položaja namestnika (stadtholderja), temeljnih trgovinskih vprašanj pa nista rešili. Leta 1665 so nizozemski ugovori zoper navigacijske akte in angleška zaskrbljenost zaradi tekmečevih trgovskih praks privedli do druge angleško-nizozemske vojne."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "First Anglo-Dutch War",
+    "rev": 1381100973,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The First Anglo-Dutch War, or First Dutch War, was a naval conflict between the Commonwealth of England and the Dutch Republic. Largely caused by disputes over trade, it began with English attacks on Dutch merchant shipping, but expanded to vast fleet actions. Despite a series of victories in 1652 and 1653, the Commonwealth was unable to blockade Dutch trade, although English privateers inflicted serious losses on Dutch merchant shipping.",
+     "The economic damage eventually led to the Treaty of Westminster in 1654 where the Dutch were forced to make minor concessions to the Commonwealth. Both sides agreed to the exclusion of the House of Orange from the office of Stadtholder, but failed to resolve underlying commercial issues. In 1665, Dutch objections to the Navigation Acts and English concerns over their rival's trading practices led to the Second Anglo-Dutch War."
+    ]
+   },
+   "records": [
+    "Q1151913"
+   ],
+   "translated": "2026-10-23"
+  },
   "First Battle of Cape Finisterre (1747)": {
    "headline": "Prva bitka pri rtu Finisterre (1747)",
    "paragraphs": [
@@ -7885,6 +8415,25 @@
    },
    "records": [
     "Q695673"
+   ],
+   "translated": "2026-10-23"
+  },
+  "First Battle of Champagne": {
+   "headline": "Prva bitka v Šampanji",
+   "paragraphs": [
+    "Prva bitka v Šampanji (francosko: 1ère Bataille de Champagne) je potekala od 20. decembra 1914 do 17. marca 1915 med prvo svetovno vojno v francoski pokrajini Šampanja in je bila druga ofenziva zaveznikov proti Nemškemu cesarstvu, odkar se je gibljivo vojskovanje končalo po prvi bitki za Ypres v Flandriji (19. oktobra – 22. novembra 1914). Bojevali sta se francoska 4. armada in nemška 3. armada. Ofenziva je bila del francoske strategije napada na noyonsko izbočenje, veliko izboklino na novi zahodni fronti, ki je segala od Švice do Severnega morja. Prva bitka v Artoisu se je začela na severnem boku izbočenja 17. decembra, ofenziva proti južnemu boku v Šampanji pa tri dni pozneje."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "First Battle of Champagne",
+    "rev": 1370618526,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The First Battle of Champagne (French: 1ère Bataille de Champagne) was fought from 20 December 1914 – 17 March 1915 in World War I in the Champagne region of France and was the second offensive by the Allies against the German Empire since mobile warfare had ended after the First Battle of Ypres in Flanders (19 October – 22 November 1914). The battle was fought by the French Fourth Army and the German 3rd Army. The offensive was part of a French strategy to attack the Noyon Salient, a large bulge in the new Western Front, which ran from Switzerland to the North Sea. The First Battle of Artois began on the northern flank of the salient on 17 December and the offensive against the southern flank in Champagne began three days later."
+    ]
+   },
+   "records": [
+    "Q989093"
    ],
    "translated": "2026-10-23"
   },
@@ -7910,6 +8459,25 @@
    },
    "records": [
     "Q842796"
+   ],
+   "translated": "2026-10-23"
+  },
+  "First Battle of the Aisne": {
+   "headline": "Prva bitka na Aisni",
+   "paragraphs": [
+    "Prva bitka na Aisni (francosko: 1ère Bataille de l'Aisne) je bila nadaljevalna zavezniška ofenziva proti desnemu krilu nemške 1. armade (pod vodstvom Alexandra von Klucka) in 2. armade (pod vodstvom Karla von Bülowa), ko sta se umikali po prvi bitki na Marni, ki je potekala v začetku septembra 1914. Prodor do Aisne (6. septembra – 1. oktobra) je obsegal bitko na Marni (7.–10. septembra) in bitko na Aisni (12.–15. septembra)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "First Battle of the Aisne",
+    "rev": 1370619076,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The First Battle of the Aisne (French: 1ère Bataille de l'Aisne) was the Allied follow-up offensive against the right wing of the German First Army (led by Alexander von Kluck) and the Second Army (led by Karl von Bülow) as they retreated after the First Battle of the Marne earlier in September 1914. The Advance to the Aisne (6 September – 1 October) consisted of the Battle of the Marne (7–10 September) and the Battle of the Aisne (12–15 September)."
+    ]
+   },
+   "records": [
+    "Q2337526"
    ],
    "translated": "2026-10-23"
   },
@@ -7948,6 +8516,46 @@
    },
    "records": [
     "Q3142505"
+   ],
+   "translated": "2026-10-23"
+  },
+  "First Hundred Years' War": {
+   "paragraphs": [
+    "Prva stoletna vojna (francosko: Première Guerre de Cent Ans; 1159–1259) je bila vrsta spopadov in sporov v visokem srednjem veku, v katerih se je dinastija Kapetingov, vladarjev Kraljevine Francije, bojevala z dinastijo Plantagenetov (znano tudi kot dinastija Anžu ali Anžujci), vladarji Kraljevine Anglije. Spor je nastal zaradi fevdov v Franciji, ki so jih imeli Anžujci in so na vrhuncu obsegali okoli polovico ozemlja francoskega kraljestva. Boj med dinastijama je privedel do postopnega kapetinškega osvajanja teh fevdov in njihove priključitve francoski kraljevi domeni, pa tudi do poznejših poskusov Plantagenetov, da bi znova pridobili ozemlja v zahodni Franciji, ki so jih imeli za svojo zakonito dediščino."
+   ],
+   "notes": [
+    "The glossary headline is Rivalstvo med Kapetingi in Plantageneti; the text keeps the English article's name, Prva stoletna vojna."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "First Hundred Years' War",
+    "rev": 1381191670,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The First Hundred Years' War (French: Première Guerre de Cent Ans; 1159–1259) was a series of conflicts and disputes during the High Middle Ages in which the House of Capet, rulers of the Kingdom of France, fought the House of Plantagenet (also known as the House of Anjou or the Angevins), rulers of the Kingdom of England. The conflict emerged over the fiefs in France held by the Angevins, which at their peak covered around half of the territory of the French realm. The struggle between the two dynasties resulted in the gradual conquest of these fiefs by the Capetians and their annexation to the French crown lands, as well as subsequent attempts by the House of Plantagenet to retake what they believed to be their rightful ancestral claims in western France."
+    ]
+   },
+   "records": [
+    "Q4763630"
+   ],
+   "translated": "2026-10-23"
+  },
+  "First International Opium Convention": {
+   "headline": "Prva mednarodna opijska konvencija",
+   "paragraphs": [
+    "Prva mednarodna opijska konvencija (imenovana tudi opijska konvencija iz leta 1912 ali haaška opijska konvencija) je nekdanja mednarodna pogodba, podpisana v Haagu leta 1912. Konferenca je bila mednarodno prizadevanje držav, da bi uredile trgovino z opijem in zatrle nezakonito uživanje opija. Leta 1925 ji je sledila druga mednarodna opijska konvencija, podpisana v Ženevi."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "First International Opium Convention",
+    "rev": 1368976910,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The First International Opium Convention (also called 1912 Opium Convention or Hague Opium Convention) is a former international treaty signed at The Hague in 1912. The conference were an international effort by states to regulate the trade of opium and suppress illicit opium consumption. It was followed in 1925 by the Second International Opium Convention signed in Geneva."
+    ]
+   },
+   "records": [
+    "Q751398"
    ],
    "translated": "2026-10-23"
   },
@@ -7990,6 +8598,87 @@
    ],
    "translated": "2026-10-23"
   },
+  "Franco-Flemish War": {
+   "headline": "Francosko-flamska vojna",
+   "paragraphs": [
+    "Francosko-flamska vojna (francosko: Guerre de Flandre) je bila spopad med Kraljevino Francijo in grofijo Flandrijo med letoma 1297 in 1305.",
+    "Vojna je povezana s prvotno gaskonjsko vojno in prvo vojno za škotsko neodvisnost, saj sta francoski kralj Filip IV. in angleški kralj Edvard I. iskala zaveznike na Škotskem oziroma v Flandriji in tako vpletla sorodne spopade."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Franco-Flemish War",
+    "rev": 1380957626,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Franco-Flemish War (French: Guerre de Flandre) was a conflict between the Kingdom of France and the County of Flanders between 1297 and 1305.",
+     "The war is related to the original Gascon War and the First War of Scottish Independence, as Philip IV of France and Edward I of England sought allies in Scotland and Flanders respectively and thus involved the related conflicts."
+    ]
+   },
+   "records": [
+    "Q195983"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Franco-Soviet Treaty of Mutual Assistance": {
+   "headline": "Francosko-sovjetska pogodba o medsebojni pomoči",
+   "paragraphs": [
+    "Francosko-sovjetska pogodba o medsebojni pomoči je bila dvostranska pogodba med Francijo in Sovjetsko zvezo iz leta 1935, katere cilj je bil obkoliti nacistično Nemčijo in zmanjšati vojaško grožnjo iz srednje Evrope. Zanjo sta si prizadevala sovjetski zunanji minister Maksim Litvinov in francoski zunanji minister Louis Barthou, ki je bil oktobra 1934, preden so se pogajanja končala, po nesreči ubit.",
+    "Njegov naslednik Pierre Laval je dvomil o smiselnosti in vrednosti zavezništva s Sovjetsko zvezo. Ko pa je Nemčija marca 1935 razglasila ponovno oboroževanje, je francoska vlada neodločnega zunanjega ministra prisilila, da je dokončal dogovore z Moskvo, ki jih je začel Barthou."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Franco-Soviet Treaty of Mutual Assistance",
+    "rev": 1380547879,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Franco-Soviet Treaty of Mutual Assistance was a 1935 bilateral treaty between France and the Soviet Union with the aim of enveloping Nazi Germany and reducing the military threat from Central Europe. It was pursued by Maxim Litvinov, the Soviet foreign minister, and Louis Barthou, the French foreign minister, who was accidentally killed in October 1934, before negotiations had been finished.",
+     "His successor, Pierre Laval, was sceptical of the desirability and value of an alliance with the Soviet Union. However, after the declaration of German rearmament in March 1935, the French government forced the reluctant foreign minister to complete the arrangements with Moscow that Barthou had begun."
+    ]
+   },
+   "records": [
+    "Q1826038"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Franco-Spanish War (1635–1659)": {
+   "paragraphs": [
+    "Francosko-španska vojna, ki je trajala od maja 1635 do novembra 1659, je bila spopad med Francijo in Španijo, ki so ju v različnih obdobjih podpirali različni zavezniki. Obsega dve ločeni fazi: prvo od maja 1635 do oktobra 1648, ki velja za spopad, povezan s tridesetletno vojno, in drugo, ki je trajala do pirenejskega miru leta 1659.",
+    "Glavna bojišča so bila severna Italija, Španska Nizozemska in Porenje. Francija je podpirala upore proti španski oblasti na Portugalskem (1640–1668), v Kataloniji (1640–1653) in Neaplju (1647), Španija pa je podpirala francoske upornike v »frondi« 1647–1653. Obe državi sta podpirali tudi nasprotni strani v piemontski državljanski vojni 1639–1642."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Franco-Spanish War (1635–1659)",
+    "rev": 1377785411,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Franco-Spanish War, from May 1635 to November 1659, was fought between France and Spain, each supported by various allies at different points. It consists of two distinct phases, the first from May 1635 to October 1648, which is considered a related conflict of the Thirty Years' War, the second continued until the Treaty of the Pyrenees in 1659.",
+     "Major areas of conflict included northern Italy, the Spanish Netherlands and the Rhineland. France supported revolts against Spanish rule in Portugal (1640–1668), Catalonia (1640–1653) and Naples (1647), while Spain backed French rebels in the 1647 to 1653 \"Fronde\". Both also backed opposing sides in the 1639 to 1642 Piedmontese Civil War."
+    ]
+   },
+   "records": [
+    "Q617333"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Franco-Syrian Treaty of Independence": {
+   "headline": "Francosko-sirska pogodba o neodvisnosti",
+   "paragraphs": [
+    "Francosko-sirska pogodba o neodvisnosti, znana tudi kot Viénotovi sporazumi, je bila pogodba, ki sta jo izpogajali Francija in Sirija in naj bi Siriji zagotovila neodvisnost od francoske oblasti."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Franco-Syrian Treaty of Independence",
+    "rev": 1373638009,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Franco-Syrian Treaty of Independence, also known as the Viénot Accords, was a treaty negotiated between France and Syria to provide for Syrian independence from French authority."
+    ]
+   },
+   "records": [
+    "Q4671489"
+   ],
+   "translated": "2026-10-23"
+  },
   "French expedition to Ireland (1796)": {
    "headline": "Francoska odprava na Irsko (1796)",
    "paragraphs": [
@@ -8012,6 +8701,26 @@
    ],
    "translated": "2026-10-23"
   },
+  "French Revolution of 1848": {
+   "paragraphs": [
+    "Francoska revolucija leta 1848 (francosko: Révolution française de 1848), znana tudi kot februarska revolucija (Révolution de février), je bila obdobje državljanskih nemirov v Franciji februarja 1848, ki je privedlo do padca julijske monarhije in ustanovitve druge francoske republike. Sprožila je val revolucij leta 1848.",
+    "Revolucija je potekala v Parizu, pred njo pa je francoska vlada zatrla gibanje banketov (campagne des banquets). Začela se je 22. februarja kot obsežen protest proti vladi Françoisa Guizota in se pozneje razvila v nasilno vstajo proti monarhiji. Po hudih uličnih bojih so velike množice prevzele nadzor nad prestolnico, kar je privedlo do odstopa kralja Ludvika Filipa I. 24. februarja in razglasitve druge republike."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "French Revolution of 1848",
+    "rev": 1380426436,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The French Revolution of 1848 (French: Révolution française de 1848), also known as the February Revolution (Révolution de février), was a period of civil unrest in France, in February 1848, that led to the collapse of the July Monarchy and the foundation of the French Second Republic. It sparked the wave of revolutions of 1848.",
+     "The revolution took place in Paris, and was preceded by the French government's crackdown on the campagne des banquets. Starting on 22 February as a large-scale protest against the government of François Guizot, it later developed into a violent uprising against the monarchy. After intense urban fighting, large crowds managed to take control of the capital, leading to the abdication of King Louis Philippe I on 24 February and the subsequent proclamation of the Second Republic."
+    ]
+   },
+   "records": [
+    "Q622774"
+   ],
+   "translated": "2026-10-23"
+  },
   "Frisian Kingdom": {
    "paragraphs": [
     "Frizijsko kraljestvo (zahodnofrizijsko: Fryske Keninkryk) je sodobno ime za porimsko frizijsko državo v zahodni Evropi v obdobju njenega največjega obsega (650–734). Tej oblasti so vladali kralji; nastala je sredi 7. stoletja in se verjetno končala z bitko na Boorni leta 734, ko je Frankovsko cesarstvo premagalo Frizijce. Ležala je predvsem na ozemlju današnje Nizozemske in je po nekaterih avtorjih iz 19. stoletja segala od Zwina pri Bruggeu v Belgiji do Wesra v Nemčiji. Središče moči je bilo mesto Utrecht.",
@@ -8029,6 +8738,65 @@
    },
    "records": [
     "magna-frisia"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Genocide Convention": {
+   "paragraphs": [
+    "Konvencija o preprečevanju in kaznovanju zločina genocida (CPPCG) ali konvencija o genocidu je mednarodna pogodba, ki genocid opredeljuje kot kaznivo dejanje in države pogodbenice zavezuje k uveljavljanju njegove prepovedi. Bila je prvi pravni instrument, ki je genocid kodificiral kot zločin, in prva pogodba o človekovih pravicah, ki jo je Generalna skupščina Združenih narodov soglasno sprejela, in sicer 9. decembra 1948 na svojem tretjem zasedanju. Konvencija je začela veljati 12. januarja 1951 in je imela septembra 2026 154 držav pogodbenic."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Genocide Convention",
+    "rev": 1378018795,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Convention on the Prevention and Punishment of the Crime of Genocide (CPPCG), or the Genocide Convention, is an international treaty that criminalizes genocide and obligates state parties to pursue the enforcement of its prohibition. It was the first legal instrument to codify genocide as a crime and the first human rights treaty unanimously adopted by the United Nations General Assembly on 9 December 1948, during the third session of the United Nations General Assembly. The Convention entered into force on 12 January 1951 and has 154 state parties as of September 2026."
+    ]
+   },
+   "records": [
+    "Q865344"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Georgian uprising on Texel": {
+   "headline": "Gruzijska vstaja na Texelu",
+   "paragraphs": [
+    "Gruzijska vstaja na Texelu (nizozemsko: Opstand der Georgiërs; 5. aprila 1945 – 20. maja 1945) je bila vstaja 882. pehotnega bataljona Königin Tamara (kraljica Tamara) gruzijske legije nemške vojske, nameščenega na nizozemskem otoku Texel, ki so ga zasedli Nemci. Bataljon je sestavljalo 800 Gruzijcev in 400 Nemcev, častniki pa so bili večinoma Nemci. To je bila ena zadnjih bitk na evropskem bojišču."
+   ],
+   "notes": [
+    "The note on how Texel is pronounced in Dutch, English, Frisian and German is dropped."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Georgian uprising on Texel",
+    "rev": 1381102739,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Georgian uprising on Texel (Dutch: Opstand der Georgiërs) (5 April 1945 – 20 May 1945) was an insurrection by the 882nd Infantry Battalion Königin Tamara (Queen Tamar or Tamara) of the Georgian Legion of the German Army stationed on the German-occupied Dutch island of Texel (pronounced Tessel in Dutch, and Texel in English, Frisian, and German). The battalion was made up of 800 Georgians and 400 Germans, with mainly German officers. It was one of the last battles in the European theatre."
+    ]
+   },
+   "records": [
+    "Q161391"
+   ],
+   "translated": "2026-10-23"
+  },
+  "German invasion of Luxembourg": {
+   "headline": "Nemška invazija na Luksemburg",
+   "paragraphs": [
+    "Nemška invazija na Luksemburg je bila del načrta Fall Gelb (primer Rumeno), nemške invazije na Nizke dežele – Belgijo, Luksemburg in Nizozemsko – ter Francijo med drugo svetovno vojno. Boji so se začeli 10. maja 1940 in trajali le en dan. Nemške čete so ob le šibkem odporu hitro zasedle Luksemburg. Luksemburški vladi in veliki vojvodinji Charlotte je uspelo pobegniti iz države, v Londonu pa je nastala vlada v izgnanstvu."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "German invasion of Luxembourg",
+    "rev": 1380359203,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The German invasion of Luxembourg was part of Case Yellow (German: Fall Gelb), the German invasion of the Low Countries—Belgium, Luxembourg and the Netherlands—and France during World War II. The battle began on 10 May 1940 and lasted just one day. Facing only light resistance, German troops quickly occupied Luxembourg. The Luxembourgish government, and Grand Duchess Charlotte, managed to escape the country and a government-in-exile was created in London."
+    ]
+   },
+   "records": [
+    "Q13435464"
    ],
    "translated": "2026-10-23"
   },
@@ -8086,6 +8854,27 @@
    },
    "records": [
     "grand-duchy-of-berg"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Gruber–De Gasperi Agreement": {
+   "headline": "Sporazum Gruber–De Gasperi",
+   "paragraphs": [
+    "Sporazum Gruber–De Gasperi je bil dvostranska pogodba, ki sta jo 5. septembra 1946 podpisala avstrijski zunanji minister Karl Gruber in italijanski predsednik vlade Alcide De Gasperi. Pogodba, priznana v mednarodnem pravu, je nemško govorečemu prebivalstvu pokrajine Južna Tirolska zagotovila pravico do avtonomije ter do ohranjanja kulturne identitete in običajev. Priznala je tudi nemščino in italijanščino kot uradna jezika.",
+    "Ljudje so dobili pravico, da se vrnejo k prvotnim nemškim imenom in priimkom, ki so se jim mnogi odpovedali med fašističnim programom prisilne asimilacije."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Gruber–De Gasperi Agreement",
+    "rev": 1337642353,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Gruber–De Gasperi Agreement was a bilateral treaty that was signed by the foreign minister of Austria, Karl Gruber, and the prime minister of Italy, Alcide De Gasperi, on 5 September 1946. Recognized by international law, it granted the German-speaking population of the Province of South Tyrol the right to autonomy and to preserve its cultural identity and customs. It also recognized German and Italian as official languages.",
+     "People were granted the right to return to their original German given and family names, which had been abandoned by many during the Fascists' programme of forced assimilation."
+    ]
+   },
+   "records": [
+    "Q701092"
    ],
    "translated": "2026-10-23"
   },
@@ -8187,6 +8976,29 @@
    },
    "records": [
     "hwicce"
+   ],
+   "translated": "2026-10-23"
+  },
+  "Invasion of Corsica (1553)": {
+   "headline": "Invazija na Korziko (1553)",
+   "paragraphs": [
+    "Invazija na Korziko leta 1553 je bila skupni pohod francoskih, osmanskih in korziških izgnanskih sil, ki so Genovski republiki odvzele otok Korziko.",
+    "Otok je imel v zahodnem Sredozemlju precejšen strateški pomen, saj je ležal v središču habsburškega omrežja povezav in je bil obvezen postanek za majhne ladje, ki so plule med Španijo in Italijo.",
+    "Otok je od leta 1453 upravljala genovska Banka svetega Jurija. Invazijo na Korziko so izvedli v korist Francije."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Invasion of Corsica (1553)",
+    "rev": 1370623937,
+    "retrieved": "2026-10-23",
+    "paragraphs": [
+     "The Invasion of Corsica of 1553 occurred when French, Ottoman, and Corsican exile forces combined to capture the island of Corsica from the Republic of Genoa.",
+     "The island had considerable strategic importance in the western Mediterranean, being at the heart of the Habsburg communication network and serving as a forced stopover for small boats sailing between Spain and Italy.",
+     "The island had been administered since 1453 by the Genoese Bank of Saint George. The invasion of Corsica was accomplished for the benefit of France."
+    ]
+   },
+   "records": [
+    "Q3394704"
    ],
    "translated": "2026-10-23"
   },

@@ -2482,7 +2482,7 @@
   "Q696844": "Bitka za Anzio",
   "Q696848": "Angleško-iraška vojna",
   "Q697059": "Bitka za Hongkong",
-  "Q697306": "Bitka pri Wssembourgu",
+  "Q697306": "Bitka pri Wissembourgu",
   "Q697368": "Sistovski sporazum",
   "Q697579": "Bitka pri Hasanskem jezeru",
   "Q697621": "Obleganje Fort Zeelandie",
@@ -2783,7 +2783,8 @@
    "Q815116": "Obleganje Akre",
    "Q24205448": "Tretja bitka za Faludžo",
    "Q1669285": "Oplenitev Amorija",
-   "Q1348955": "Vojna žanjcev"
+   "Q1348955": "Vojna žanjcev",
+   "Q697306": "Bitka pri Wissembourgu"
   }
  }
 }
