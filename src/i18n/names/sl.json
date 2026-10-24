@@ -1175,7 +1175,7 @@
   "teotihuacan": "Teotihuacán",
   "teutonic-order": "Tevtonski viteški red",
   "thanjavur-maratha-kingdom": "Maratski Najak",
-  "thebans": "Theban",
+  "thebans": "Tebe",
   "thessaly": "Tesalija",
   "third-hellenic-republic": "Tretja helenska republika",
   "thonburi-kingdom": "Kraljestvo Tonburi",
@@ -2772,7 +2772,8 @@
    "neo-babylonian-empire": "Novobabilonsko cesarstvo",
    "north-yemen": "Severni Jemen",
    "kingdom-of-hanover": "Kraljevina Hannover",
-   "holy-roman-empire-minor-states": "Manjše države Svetega rimskega cesarstva"
+   "holy-roman-empire-minor-states": "Manjše države Svetega rimskega cesarstva",
+   "thebans": "Tebe"
   },
   "events": {
    "Q1366688": "Transpacifiško partnerstvo",
