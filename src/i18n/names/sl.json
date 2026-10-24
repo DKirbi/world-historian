@@ -674,7 +674,7 @@
   "kingdom-of-greece": "Kraljevina Grčija",
   "kingdom-of-gwent": "Kraljestvo Gwent",
   "kingdom-of-gwynedd": "Kraljestvo Gwynedd",
-  "kingdom-of-hanover": "Hanoversko",
+  "kingdom-of-hanover": "Kraljevina Hannover",
   "kingdom-of-hawai-i": "Kraljestvo Havaji",
   "kingdom-of-hejaz": "Hedžaško kraljestvo",
   "kingdom-of-hungary": "Ogrska",
@@ -2061,7 +2061,7 @@
   "Q3042457": "Platinska vojna",
   "Q3042463": "Urugvajska vojna",
   "Q305176": "Premirje v Villafranci",
-  "Q306150": "Poljsko-avatrijska vojna",
+  "Q306150": "Poljsko-avstrijska vojna",
   "Q3063789": "Neodvisnost Kolumbije",
   "Q306535": "Avstrijska državna pogodba",
   "Q3082702": "Brazilska vojna za neodvisnost",
@@ -2769,7 +2769,8 @@
   "polities": {
    "neo-assyrian-empire": "Novoasirsko cesarstvo",
    "neo-babylonian-empire": "Novobabilonsko cesarstvo",
-   "north-yemen": "Severni Jemen"
+   "north-yemen": "Severni Jemen",
+   "kingdom-of-hanover": "Kraljevina Hannover"
   },
   "events": {
    "Q1366688": "Transpacifiško partnerstvo",
@@ -2784,7 +2785,8 @@
    "Q24205448": "Tretja bitka za Faludžo",
    "Q1669285": "Oplenitev Amorija",
    "Q1348955": "Vojna žanjcev",
-   "Q697306": "Bitka pri Wissembourgu"
+   "Q697306": "Bitka pri Wissembourgu",
+   "Q306150": "Poljsko-avstrijska vojna"
   }
  }
 }
