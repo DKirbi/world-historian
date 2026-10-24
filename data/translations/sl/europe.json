@@ -13632,7 +13632,7 @@
   "Golub War": {
    "headline": "Golubska vojna",
    "paragraphs": [
-    "Golubska vojna je bila dvomesečna vojna tevtonskih vitezov proti Kraljevini Poljski in Veliki litovski kneževini leta 1422. Končala se je s poljsko-litovsko-moldavsko zmago. Uradno jo je končala mirovna pogodba v Melnu, ki je razrešila ozemeljske spore med vitezi in Litvo glede Žemaitije, ki so se vlekli od leta 1398."
+    "Golubska vojna je bila dvomesečna vojna tevtonskih vitezov proti Kraljevini Poljski in Veliki litovski kneževini leta 1422. Končala se je s poljsko-litovsko-moldavsko zmago. Uradno jo je končal mir v Melnu, ki je razrešil ozemeljske spore med vitezi in Litvo glede Žemaitije, ki so se vlekli od leta 1398."
    ],
    "notes": [
     "Samogitia is written in the Slovenian form Žemaitija."
@@ -15962,7 +15962,7 @@
   "Peace of Raciążek": {
    "headline": "Mir v Raciążku",
    "paragraphs": [
-    "Mir v Raciążku je bil mirovni sporazum, ki so ga 22. maja 1404 sklenili Kraljevina Poljska, Velika litovska kneževina in tevtonski vitezi, zadeval pa je nadzor nad Dobrzyńsko deželo in Žemaitijo. Poljska je v bistvu potrdila kališko pogodbo iz leta 1342, Litva pa pogodbo iz Salynasa iz leta 1398. Sporazum ni bil trden in razmere so se kmalu spremenile s poljsko-litovsko-tevtonsko vojno v letih 1409–1411.",
+    "Mir v Raciążku je bil mirovni sporazum, ki so ga 22. maja 1404 sklenili Kraljevina Poljska, Velika litovska kneževina in tevtonski vitezi, zadeval pa je nadzor nad Dobrzyńsko deželo in Žemaitijo. Poljska je v bistvu potrdila kališki mir iz leta 1342, Litva pa pogodbo iz Salynasa iz leta 1398. Sporazum ni bil trden in razmere so se kmalu spremenile s poljsko-litovsko-tevtonsko vojno v letih 1409–1411.",
     "Poljska je ob podpori papeštva okrepila vezi z Veliko kneževino, ko je leta 1401 podpisala vilensko-radomsko unijo. Istega leta so se Žemaiti uprli vitezom in požgali več tevtonskih gradov. Vitezi so se maščevali s pohodi na Kaunas in Grodno. Leta 1402 se je red povezal z litovskim knezom Švitrigailo, bratom Vladislava II. Jagiela, ki je obljubil, da bo spoštoval pogodbo iz Salynasa in vitezom odstopil Žemaitijo."
    ],
    "notes": [
@@ -17541,7 +17541,7 @@
   "Siege of Buda (1686)": {
    "headline": "Obleganje Budima leta 1686",
    "paragraphs": [
-    "Obleganje Budima (madžarsko: Buda visszafoglalása, dobesedno »ponovno zavzetje Budima«) je bilo vojaški spopad v veliki turški vojni, v katerem so sile Svete lige pod vodstvom Habsburške monarhije Osmanskemu cesarstvu iztrgale utrjeno mesto Budim (danes del Budimpešte). Obleganje je potekalo od 18. junija do 9. septembra 1686 in je končalo skoraj 150 let osmanske oblasti nad nekdanjo ogrsko prestolnico.",
+    "Obleganje Budima (madžarsko: Buda visszafoglalása, dobesedno »ponovno zavzetje Budima«) je bilo vojaški spopad v veliki turški vojni, v katerem so sile Svete lige pod vodstvom habsburške monarhije Osmanskemu cesarstvu iztrgale utrjeno mesto Budim (danes del Budimpešte). Obleganje je potekalo od 18. junija do 9. septembra 1686 in je končalo skoraj 150 let osmanske oblasti nad nekdanjo ogrsko prestolnico.",
     "Pohod je sledil neuspelemu osmanskemu obleganju Dunaja leta 1683 in je bil del širše protiofenzive Svete lige. Koalicijska vojska z do 100.000 možmi je mesto oblegala več kot dva meseca, nato pa je naskočila obrambo. Padec Budima je bil odločilen korak k utrditvi habsburške oblasti nad osrednjo Ogrsko: ogrski državni zbor v Požunu je leta 1687 priznal dedno habsburško vladavino."
    ],
    "source": {
@@ -18377,6 +18377,67 @@
    ],
    "translated": "2026-10-23"
   },
+  "Siege of Philippsburg (1734)": {
+   "headline": "Obleganje Philippsburga leta 1734",
+   "paragraphs": [
+    "Obleganje Philippsburga je potekalo med poljsko nasledstveno vojno: francoske sile so oblegale enote Svetega rimskega cesarstva v trdnjavi Philippsburg v dolini Rena. Vojvoda Berwick je s 100.000 možmi prodiral navzgor po dolini Rena, 60.000 pa jih je odposlal, da so od 26. maja 1734 obkolili trdnjavo v Philippsburgu. Cesarska vojska 70.000 mož, ki je pod poveljstvom ostarelega princa Evgena Savojskega (spremljal ga je pruski prestolonaslednik Friderik) prišla na pomoč, obleganja ni uspela prekiniti. Berwicka je 12. junija med pregledovanjem jarkov ubila topovska krogla, poveljstvo nad oblegovalci pa sta prevzela maršala d'Asfeld in Noailles. Trdnjava se je predala mesec dni pozneje, posadka pa se je z vojaškimi častmi umaknila v trdnjavo Mainz.",
+    "D'Asfeld je za svojo vlogo v pohodu postal maršal Francije, Wuttgenau pa je za pogumno obrambo trdnjave napredoval v generalporočnika."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Siege of Philippsburg (1734)",
+    "rev": 1370744458,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The siege of Philippsburg was conducted by French forces against troops of the Holy Roman Empire in the fortress of Philippsburg in the Rhine River valley during the War of the Polish Succession. The Duke of Berwick led 100,000 men up the Rhine Valley, of which 60,000 were detached to invest the fortress at Philippsburg, beginning on 26 May 1734. An Imperial relief army of 70,000 under the aging Prince Eugene of Savoy (accompanied by Crown Prince Frederick of Prussia) was unsuccessful in actually relieving the siege. On 12 June Berwick was killed by a cannonball while inspecting the trenches, and command of the besiegers fell to Marshals d'Asfeld and Noailles. The fortress surrendered one month later, and the garrison withdrew to the fortress of Mainz with the honours of war.",
+     "D'Asfeld was promoted to Marshal of France for his role in the campaign; Wuttgenau was promoted to lieutenant general for his spirited defense of the fortress."
+    ]
+   },
+   "records": [
+    "Q481325"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Siege of Pilsen": {
+   "headline": "Obleganje Plzna",
+   "paragraphs": [
+    "Obleganje Plzna od 19. septembra do 21. novembra 1618 je bilo prvi pomembnejši spopad tridesetletne vojne. Po češkem stanovskem uporu je češka vojska pod poveljstvom Ernsta von Mansfelda zavzela Plzen."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Siege of Pilsen",
+    "rev": 1370744459,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Siege of Pilsen, 19 September to 21 November 1618, was the first significant action of the Thirty Years' War. Following the Bohemian Revolt, a Bohemian army under Ernst von Mansfeld captured Plzeň."
+    ]
+   },
+   "records": [
+    "Q944855"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Siege of Pirna": {
+   "headline": "Obleganje Pirne",
+   "paragraphs": [
+    "Obleganje Pirne, včasih imenovano tudi obkolitev Pirne, je potekalo od 10. septembra do 14. oktobra 1756 v okviru pruskega vdora na Saško v tretji šlezijski vojni (delu sedemletne vojne).",
+    "Ko je Friderik Veliki 9. septembra 1756 zasedel Dresden, se je saška vojska pod poveljstvom Friderika von Rutowskega umaknila proti jugovzhodu in zasedla položaj v utrjenem taboru pri Pirni. Položaj je bil taktično močan, saj so ga ščitili strmo zemljišče, trdnjave in obrambne naprave, zato Frideriku ni preostalo drugega, kot da saško vojsko osami in jo z lakoto prisili k predaji. Friderik je tako obkolil tabor in preprečil vsako pomoč od zunaj. Sasi so upali, da jim bo na pomoč priskočila avstrijska vojska pod poveljstvom maršala Browna, ki je stala onkraj meje na sosednjem Češkem."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Siege of Pirna",
+    "rev": 1370744464,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Siege of Pirna, sometimes referred to as the Investment of Pirna, took place from 10 September to 14 October 1756 as part of the Prussian invasion of Saxony during the Third Silesian War (part of the Seven Years' War).",
+     "Following the occupation of Dresden by Frederick the Great on 9 September 1756, the Saxon army under Frederick von Rutowski had withdrawn southeast and taken up position at the fortified camp of Pirna. The position was tactically strong, as the steep terrain, fortresses, and defensive works added protection, leaving Frederick with no option but to isolate and starve the Saxon army into surrendering. As a result, Frederick encircled the camp and blocked outside support. The Saxons hoped to receive relief from the Austrian army, which was across the border in neighbouring Bohemia under Marshal Browne."
+    ]
+   },
+   "records": [
+    "Q539707"
+   ],
+   "translated": "2026-10-24"
+  },
   "Siege of Rouen (1418–1419)": {
    "paragraphs": [
     "Obleganje Rouena (29. julija 1418 – 19. januarja 1419) je bilo pomemben dogodek stoletne vojne, v katerem so angleške sile, zveste Henriku V., normanskim Francozom odvzele Rouen, glavno mesto Normandije."
@@ -18450,6 +18511,27 @@
     "Q815102"
    ],
    "translated": "2026-10-23"
+  },
+  "Siege of Stralsund (1628)": {
+   "headline": "Obleganje Stralsunda leta 1628",
+   "paragraphs": [
+    "Obleganje Stralsunda od 13. maja do 4. avgusta 1628 je potekalo med tridesetletno vojno, ko je cesarska vojska pod poveljstvom Albrechta von Wallensteina skušala zavzeti ključno baltsko pristanišče Stralsund. Stralsund, tedaj samostojno mesto in član Hanze, so sprva okrepile manjše skupine škotskih najemnikov v danski službi, nato pa je švedski kralj Gustav Adolf poslal večjo vojsko pod poveljstvom Alexandra Leslieja.",
+    "Neuspeh obleganja je prekinil Wallensteinov niz zmag, Stralsund pa so Švedi držali večino naslednjih dvesto let. Gustavu je mesto dalo mostišče v Svetem rimskem cesarstvu, ki je leta 1630 olajšalo švedski poseg v tridesetletno vojno."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Siege of Stralsund (1628)",
+    "rev": 1380225257,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Siege of Stralsund, 13 May to 4 August 1628, took place during the Thirty Years' War when an Imperial Army under Albrecht von Wallenstein attempted to capture the key Baltic Sea port of Stralsund. Then an independent city and part of the Hanseatic League, Stralsund was initially reinforced by small numbers of Scots mercenaries in Danish service, before Gustavus Adolphus of Sweden sent a larger force under Alexander Leslie.",
+     "The failure of the siege ended Wallenstein's series of victories, while Stralsund was held by the Swedes for most of the next two hundred years. It provided Gustavus a bridgehead within the Holy Roman Empire that in 1630 facilitated Swedish intervention in the Thirty Years' War."
+    ]
+   },
+   "records": [
+    "Q2612839"
+   ],
+   "translated": "2026-10-24"
   },
   "Siege of Strasbourg": {
    "headline": "Obleganje Strasbourga",
@@ -18607,6 +18689,27 @@
    ],
    "translated": "2026-10-23"
   },
+  "Silesian Uprisings": {
+   "headline": "Šlezijske vstaje",
+   "paragraphs": [
+    "Šlezijske vstaje so bile niz treh vstaj od avgusta 1919 do julija 1921 v Gornji Šleziji, ki je bila tedaj del Weimarske republike. Etnično poljski in poljsko-šlezijski uporniki, ki so želeli, da bi območje pripadlo novoustanovljeni Poljski republiki, so se bojevali proti nemški policiji in paravojaškim silam, ki so želele območje obdržati v novi nemški državi, nastali po prvi svetovni vojni in revolucijah v Nemčiji, ki so ji sledile. Po spopadih so območje razdelili med državi. V sodobni Poljski se vstaj spominjajo kot zgleda poljskega nacionalizma. Čeprav je bila v spopad vpletena osrednja vlada, poljsko zgodovinopisje dogodke prikazuje kot vstaje, ki so izražale voljo navadnih Gornješlezijcev, ne pa kot vojno.",
+    "V oboroženih spopadih v Gornji Šleziji med letoma 1919 in 1921 je nasilne smrti umrlo morda več tisoč ljudi. Približno štiri petine žrtev je umrlo v treh šlezijskih vstajah, tri petine samo v tretji šlezijski vstaji leta 1921."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Silesian Uprisings",
+    "rev": 1380707811,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Silesian Uprisings were a series of three uprisings from August 1919 to July 1921 in Upper Silesia, which was part of the Weimar Republic at the time. Ethnic Polish and Polish-Silesian insurrectionists, seeking to have the area transferred to the newly founded Polish Republic, fought German police and paramilitary forces, which sought to keep the area part of the new German state founded after World War I and the subsequent revolutions in Germany. Following the conflict, the area was divided between the two countries. The rebellions have subsequently been commemorated in modern Poland as an example of Polish nationalism. Despite central government involvement in the conflict, Polish historiography renders the events as uprisings reflecting the will of ordinary Upper Silesians rather than a war.",
+     "In total, several thousand people may have died violently in the militant clashes in Upper Silesia between 1919 and 1921. About four fifths of the victims were killed during the three Silesian uprisings, three fifths alone during the Third Silesian uprising in 1921."
+    ]
+   },
+   "records": [
+    "Q703893"
+   ],
+   "translated": "2026-10-24"
+  },
   "Single European Act": {
    "paragraphs": [
     "Enotni evropski akt (EEA) je bil prva večja revizija rimske pogodbe iz leta 1957. Akt je Evropski skupnosti zastavil cilj, da do 31. decembra 1992 vzpostavi enotni trg, kot predhodnik skupne zunanje in varnostne politike Evropske unije (SZVP) pa je pomagal kodificirati evropsko politično sodelovanje. Pogodba o spremembah je bila podpisana v Luxembourgu 17. februarja 1986 in v Haagu 28. februarja 1986. Veljati je začela 1. julija 1987, v času Delorsove komisije."
@@ -18624,6 +18727,86 @@
     "Q622649"
    ],
    "translated": "2026-10-23"
+  },
+  "Slovak invasion of Poland": {
+   "paragraphs": [
+    "Slovaška invazija na Poljsko je potekala med napadom nacistične Nemčije na Poljsko septembra 1939. V napad se je vključila nedavno ustanovljena Slovaška republika, terenska armada Bernolák pa je prispevala več kot 50.000 vojakov v treh divizijah. Ker se je večina poljskih sil bojevala z nemškimi armadami, ki so bile bolj severno od južne meje, je slovaški vdor naletel le na šibak odpor in imel zelo majhne izgube."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Slovak invasion of Poland",
+    "rev": 1370747587,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Slovak invasion of Poland occurred during Nazi Germany's invasion of Poland in September 1939. The recently created Slovak Republic joined the attack, and Field Army Bernolák contributed over 50,000 soldiers in three divisions. Since most of the Polish forces were engaged with the German armies, which were more to the north of the southern border, the Slovak invasion met only weak resistance and suffered minimal losses."
+    ]
+   },
+   "records": [
+    "Q1150620"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Slovak Volunteer Campaigns": {
+   "headline": "Slovaški prostovoljski pohodi",
+   "paragraphs": [
+    "Slovaški prostovoljski pohodi, imenovani tudi slovaška vstaja 1848–1849, slovaški upor ali slovaška revolucija, so potekali v zahodnih delih Gornje Ogrske (danes večinoma zahodna Slovaška) z namenom, da bi Slovakom zagotovili enakopravnost, demokratizirali politično življenje in dosegli socialno pravičnost v okviru revolucij v habsburški monarhiji v letih 1848–1849. Trajali so od septembra 1848 do novembra 1849. Oktobra 1848 so slovaški voditelji svoj prvotni ogrsko-federalni program nadomestili z avstrijsko-federalnim ter zahtevali izločitev slovaškega okrožja (slovaško: Slovenské Okolie) iz Ogrske in oblikovanje novega avtonomnega okrožja v okviru habsburške monarhije.",
+    "Slovaška legija ni štela več kot 1000 mož, po nekaterih ocenah pa se je v madžarski vojski honvédov proti Avstrijcem v madžarski osamosvojitveni vojni 1848–1849 borilo vsaj 20.000 slovaških vojakov."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Anti-Hungarian Slovak Armed Actions in 1848–1849",
+    "rev": 1381430472,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Slovak Volunteer Campaigns, Slovak uprising of 1848–1849, Slovak Revolt or the Slovak Revolution occurred in Western parts of Upper Hungary (today mostly Western Slovakia) with the aim of equalizing Slovaks, democratizing political life and achieving social justice within the 1848–49 revolutions in the Habsburg Monarchy. It lasted from September 1848 to November 1849. In October 1848, Slovak leaders replaced their original Hungaro-federal program by Austro-federal, called for the separation of a Slovak district (Slovak: Slovenské Okolie) from the Kingdom of Hungary and for the formation of a new autonomous district within the framework of the Habsburg Monarchy.",
+     "The Slovak Legion did not exceed 1,000 men in strength, while according to some estimates, at least 20,000 Slovak soldiers fought in the Hungarian Honvéd Army against the Austrians in the Hungarian War of Independence of 1848–1849."
+    ]
+   },
+   "records": [
+    "Q751143"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Smolensk War": {
+   "paragraphs": [
+    "Smolenska vojna (1632–1634) je potekala med Republiko obeh narodov in Rusijo.",
+    "Sovražnosti so se začele oktobra 1632, ko so ruske sile skušale zavzeti mesto Smolensk. Manjši spopadi so obema stranema prinesli mešane izide, predaja glavnine ruske vojske februarja 1634 pa je privedla do poljanovskega miru. Rusija je priznala poljsko-litovski nadzor nad Smolensko pokrajino, ki je trajal še 20 let."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Smolensk War",
+    "rev": 1376320887,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Smolensk War (1632–1634) was fought between the Polish–Lithuanian Commonwealth and Russia.",
+     "Hostilities began in October 1632 when Russian forces tried to capture the city of Smolensk. Small military engagements produced mixed results for both sides, but the surrender of the main Russian force in February 1634 led to the Treaty of Polyanovka. Russia accepted Polish–Lithuanian control over the Smolensk region, which lasted for another 20 years."
+    ]
+   },
+   "records": [
+    "Q1140492"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Sonderbund War": {
+   "headline": "Sonderbundska vojna",
+   "paragraphs": [
+    "Sonderbundska vojna (nemško: Sonderbundskrieg, francosko: Guerre du Sonderbund, italijansko: Guerra del Sonderbund) je bila državljanska vojna novembra 1847 v Švici, ki je bila tedaj še razmeroma ohlapna zveza kantonov. Izbruhnila je, potem ko je sedem katoliških kantonov leta 1845 ustanovilo Sonderbund (»posebno zvezo«), da bi zaščitili svoje interese pred centralizacijo oblasti. Vojna se je končala s porazom Sonderbunda. Z njo je Švica postala zvezna država, končalo pa se je obdobje politične »restavracije in regeneracije« v Švici.",
+    "Sonderbund so sestavljali kantoni Luzern, Fribourg, Valais, Uri, Schwyz, Unterwalden in Zug, vsi pretežno katoliški in pod konservativnimi oblastmi. Kantona Ticino in Solothurn, prav tako pretežno katoliška, a pod liberalnimi oblastmi, se zvezi nista pridružila."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Sonderbund War",
+    "rev": 1377786538,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Sonderbund War (German: Sonderbundskrieg, French: Guerre du Sonderbund, Italian: Guerra del Sonderbund) of November 1847 was a civil war in Switzerland, then still a relatively loose confederacy of cantons. It ensued after seven Catholic cantons formed the Sonderbund (\"separate alliance\") in 1845 to protect their interests against a centralization of power. The war concluded with the defeat of the Sonderbund. It resulted in the emergence of Switzerland as a federal state, concluding the period of political \"restoration and regeneration\" in Switzerland.",
+     "The Sonderbund consisted of the cantons of Lucerne, Fribourg, Valais, Uri, Schwyz, Unterwalden and Zug, all predominantly Catholic and governed by conservative administrations. The cantons of Ticino and Solothurn, also predominantly Catholic but governed by liberal administrations, did not join the alliance."
+    ]
+   },
+   "records": [
+    "Q688297"
+   ],
+   "translated": "2026-10-24"
   },
   "Sovereign Principality of the United Netherlands": {
    "paragraphs": [
@@ -18702,6 +18885,29 @@
    ],
    "translated": "2026-10-23"
   },
+  "Strategic Arms Limitation Talks": {
+   "headline": "Pogovori o omejitvi strateškega orožja",
+   "paragraphs": [
+    "Pogovori o omejitvi strateškega orožja (SALT) so bili dva kroga dvostranskih konferenc in ustreznih mednarodnih pogodb med ZDA in Sovjetsko zvezo. Velesili hladne vojne sta se z nadzorom oborožitve ukvarjali v dveh krogih pogovorov in sporazumov: SALT I in SALT II.",
+    "Pogajanja so se začela novembra 1969 v Helsinkih. SALT I je privedel do pogodbe o protibalističnih raketah (ABM) in začasnega sporazuma med državama.",
+    "Čeprav je SALT II leta 1979 na Dunaju privedel do sporazuma, se je ameriški senat v odgovor na sovjetsko invazijo na Afganistan leta 1980 odločil, da pogodbe ne bo ratificiral. Tudi vrhovni sovjet je ni ratificiral. Sporazum je potekel 31. decembra 1985 in ga niso obnovili, čeprav sta ga obe strani še naprej spoštovali."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Strategic Arms Limitation Talks",
+    "rev": 1369032355,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Strategic Arms Limitation Talks (SALT) were two rounds of bilateral conferences and corresponding international treaties involving the United States and the Soviet Union. The Cold War superpowers dealt with arms control in two rounds of talks and agreements: SALT I and SALT II.",
+     "Negotiations commenced in Helsinki, in November 1969. SALT I led to the Anti-Ballistic Missile Treaty and an interim agreement between the two countries.",
+     "Although SALT II resulted in an agreement in 1979 in Vienna, in response to the 1980 Soviet invasion of Afghanistan the US Senate chose not to ratify the treaty. The Supreme Soviet did not ratify it either. The agreement expired on December 31, 1985, and was not renewed, although both sides continued to respect it."
+    ]
+   },
+   "records": [
+    "Q623994"
+   ],
+   "translated": "2026-10-24"
+  },
   "Strathclyde": {
    "headline": "Strathclyde",
    "paragraphs": [
@@ -18725,6 +18931,25 @@
    ],
    "translated": "2026-10-23"
   },
+  "Supplementary Convention on the Abolition of Slavery": {
+   "headline": "Dopolnilna konvencija o odpravi suženjstva",
+   "paragraphs": [
+    "Dopolnilna konvencija o odpravi suženjstva, s polnim naslovom Dopolnilna konvencija o odpravi suženjstva, trgovine s sužnji ter ustanov in praks, podobnih suženjstvu, je pogodba Združenih narodov iz leta 1956. Nadgrajuje konvencijo o suženjstvu iz leta 1926, ki še velja in je bila namenjena odpravi suženjstva in trgovine s sužnji, ter konvencijo o prisilnem delu iz leta 1930, ki je prepovedala prisilno ali obvezno delo, tako da prepoveduje dolžniško suženjstvo, tlačanstvo, otroške poroke, prisilne poroke in služabništvo otrok."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Supplementary Convention on the Abolition of Slavery",
+    "rev": 1360858277,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Supplementary Convention on the Abolition of Slavery, the full title of which is the Supplementary Convention on the Abolition of Slavery, the Slave Trade, and Institutions and Practices Similar to Slavery, is a 1956 United Nations treaty which builds upon the 1926 Slavery Convention, which is still operative and which proposed to secure the abolition of slavery and of the slave trade, and the Forced Labour Convention of 1930, which banned forced or compulsory labour, by banning debt bondage, serfdom, child marriage, servile marriage, and child servitude."
+    ]
+   },
+   "records": [
+    "Q7888320"
+   ],
+   "translated": "2026-10-24"
+  },
   "Svalbard Treaty": {
    "headline": "Svalbardska pogodba",
    "paragraphs": [
@@ -18745,6 +18970,25 @@
     "Q461891"
    ],
    "translated": "2026-10-23"
+  },
+  "Swabian War": {
+   "headline": "Švabska vojna",
+   "paragraphs": [
+    "Švabska vojna leta 1499 (alemansko: Schwoobechrieg; zapis je odvisen od narečja), v Nemčiji imenovana Schwabenkrieg ali Schweizerkrieg (»švicarska vojna«), v Avstriji pa Engadiner Krieg (»engadinska vojna«), je bila zadnji večji oboroženi spopad med Staro švicarsko konfederacijo in Habsburžani. Kar se je začelo kot krajevni spor za nadzor nad dolino Val Müstair in prelazom Umbrail v Graubündnu, je kmalu ušlo izpod nadzora, ko sta obe strani zaprosili za pomoč svoje zaveznike: Habsburžani so zahtevali podporo Švabske zveze, Zveza treh lig iz Graubündna pa se je obrnila na švicarsko Eidgenossenschaft. Sovražnosti so se hitro razširile iz Graubündna po dolini Rena do Bodenskega jezera in celo v Sundgau v južni Alzaciji, najzahodnejši del habsburške Prednje Avstrije."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Swabian War",
+    "rev": 1370749126,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Swabian War of 1499 (Alemannic German: Schwoobechrieg; spelling depending on dialect), called Schwabenkrieg or Schweizerkrieg (\"Swiss War\") in Germany and Engadiner Krieg (\"War of the Engadin\") in Austria, was the last major armed conflict between the Old Swiss Confederacy and the House of Habsburg. What had begun as a local conflict over the control of the Val Müstair and the Umbrail Pass in the Grisons soon got out of hand when both parties called upon their allies for help; the Habsburgs demanding the support of the Swabian League, while the Federation of the Three Leagues of the Grisons turned to the Swiss Eidgenossenschaft. Hostilities quickly spread from the Grisons through the Rhine valley to Lake Constance and even to the Sundgau in southern Alsace, the westernmost part of the Habsburg region of Further Austria."
+    ]
+   },
+   "records": [
+    "Q165136"
+   ],
+   "translated": "2026-10-24"
   },
   "Swedish Empire": {
    "paragraphs": [
@@ -19327,6 +19571,42 @@
    ],
    "translated": "2026-10-23"
   },
+  "Third Geneva Convention": {
+   "paragraphs": [
+    "Ženevska konvencija (III) o ravnanju z vojnimi ujetniki, pogosteje imenovana tretja ženevska konvencija ali ženevska konvencija III, s kratico GCIII, je ena od štirih pogodb ženevskih konvencij iz leta 1949. Prvič so jo sprejeli leta 1929, na konferenci leta 1949 pa so jo 12. avgusta 1949 bistveno spremenili. GCIII opredeljuje humanitarno zaščito vojnih ujetnikov. Konvencija ima 196 pogodbenic."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Third Geneva Convention",
+    "rev": 1377874850,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Geneva Convention (III) relative to the Treatment of Prisoners of War, more commonly referred to as the Third Geneva Convention or Geneva Convention III and abbreviated as GCIII, is one of the four treaties of the 1949 Geneva Conventions. It was first adopted in 1929, but was significantly revised at the 1949 conference on 12 August 1949. GCIII defines humanitarian protections for prisoners of war. There are 196 state parties to the convention."
+    ]
+   },
+   "records": [
+    "Q3984882"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Third Italian War of Independence": {
+   "paragraphs": [
+    "Tretja italijanska vojna za neodvisnost (italijansko: Terza guerra d'indipendenza italiana) je bila vojna med Kraljevino Italijo in Avstrijskim cesarstvom, ki je potekala od junija do avgusta 1866. Spopad je potekal vzporedno z avstrijsko-prusko vojno in se je končal tako, da je Avstrija pokrajino Benečijo (današnji Veneto, Furlanijo in mesto Mantovo, zadnji ostanek trdnjavskega četverokotnika Quadrilatero) predala Drugemu francoskemu cesarstvu, ki je bilo posrednik v pogajanjih in jo je formalno predalo Italiji. Pridobitev tega bogatega in gosto poseljenega ozemlja, ki ga je Italija priključila s plebiscitom, je bila velik korak v združitvi Italije."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Third Italian War of Independence",
+    "rev": 1378374780,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Third Italian War of Independence (Italian: Terza guerra d'indipendenza italiana) was a war between the Kingdom of Italy and the Austrian Empire fought between June and August 1866. The conflict paralleled the Austro-Prussian War and resulted in Austria giving the region of Venetia (present-day Veneto, Friuli and the city of Mantua, the last remnant of the Quadrilatero) to the Second French Empire (acting as intermediary in negotiations), which formally gave it to Italy. Italy's acquisition of this wealthy and populous territory, annexed with a plebiscite, represented a major step in the Unification of Italy."
+    ]
+   },
+   "records": [
+    "Q1248722"
+   ],
+   "translated": "2026-10-24"
+  },
   "Third Treaty of San Ildefonso": {
    "paragraphs": [
     "Tretja pogodba iz San Ildefonsa je bila tajni sporazum, ki sta ga 1. oktobra 1800 podpisali Španija in Francoska republika in s katerim se je Španija načeloma strinjala, da bo svojo severnoameriško kolonijo Louisiano zamenjala za ozemlja v Toskani. Pogoje je pozneje potrdila pogodba iz Aranjueza marca 1801."
@@ -19344,6 +19624,49 @@
     "Q1259275"
    ],
    "translated": "2026-10-23"
+  },
+  "Toggenburg War": {
+   "headline": "Toggenburška vojna",
+   "paragraphs": [
+    "Toggenburška vojna, znana tudi kot druga villmergenska vojna ali švicarska državljanska vojna leta 1712, je bila švicarska državljanska vojna v času Stare švicarske konfederacije, ki je trajala od 12. aprila do 11. avgusta 1712. Katoliški »notranji kantoni« in cesarska opatija Sankt Gallen so se bojevali proti protestantskima kantonoma Bern in Zürich ter opatovim podložnikom iz Toggenburga. Spopad je bil verska vojna, vojna za prevlado v konfederaciji in upor podložnikov. Vojna se je končala s protestantsko zmago in porušila ravnotežje politične moči v konfederaciji."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Toggenburg War",
+    "rev": 1370751117,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Toggenburg War, also known as the Second War of Villmergen or the Swiss Civil War of 1712, was a Swiss civil war during the Old Swiss Confederacy from 12 April to 11 August 1712. The Catholic \"inner cantons\" and the Imperial Abbey of Saint Gall fought the Protestant cantons of Bern and Zürich as well as the abbatial subjects of Toggenburg. The conflict was a religious war, a war for hegemony in the Confederacy and an uprising of subjects. The war ended in a Protestant victory and upset the balance of political power within the Confederacy."
+    ]
+   },
+   "records": [
+    "Q690096"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Tollense valley battlefield": {
+   "headline": "Bojišče v dolini Tollense",
+   "paragraphs": [
+    "Bojišče v dolini Tollense je bronastodobno arheološko najdišče v severnonemški zvezni deželi Mecklenburg-Predpomorjanska na severnem robu Meklenburškega pojezerja. Najdišče, odkrito leta 1996 in sistematično izkopavano od leta 2007, se razteza vzdolž doline majhne reke Tollense vzhodno od vasi Weltzin, na ozemlju občin Burow in Werder. Konec leta 2024 so izkopavanja še potekala.",
+    "Odkrili so na tisoče drobcev kosti številnih ljudi in druge dokaze, ki potrjujejo bitko; po sedanjih ocenah se je na najdišču v 13. stoletju pr. n. št. v bitki spopadlo morda 4.000 bojevnikov iz srednje in severne Evrope. Ker je bila gostota prebivalstva približno 5 ljudi na kvadratni kilometer, bi bila to doslej največja znana bitka v bronastodobni srednji Evropi, dolina Tollense pa največje izkopano in arheološko preverljivo bojišče iz tega obdobja na svetu."
+   ],
+   "notes": [
+    "The German pronunciation in IPA and the conversion to people per square mile are dropped."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Tollense valley battlefield",
+    "rev": 1376520120,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The battlefield of the Tollense valley (German pronunciation: [tʰɔˈlɛnzə]) is a Bronze Age archaeological site in the northern German state of Mecklenburg-Vorpommern at the northern edge of the Mecklenburg Lake District. The site, discovered in 1996 and systematically excavated since 2007, extends along the valley of the small Tollense river, to the east of Weltzin village, on the municipal territories of Burow and Werder. As of late 2024, excavation was ongoing.",
+     "Thousands of bone fragments belonging to many people have been discovered, along with further corroborative evidence of battle; current estimates indicate that perhaps 4,000 warriors from Central and Northern Europe fought in a battle on the site in the 13th century BC. As the population density was approximately 5 people per square kilometer (13 people per square mile), this would have been the most significant battle in Bronze Age Central Europe known so far, making the Tollense valley the largest excavated and archaeologically verifiable battle site of this age in the world."
+    ]
+   },
+   "records": [
+    "Q25517452"
+   ],
+   "translated": "2026-10-24"
   },
   "Treaty of 1818": {
    "headline": "Pogodba iz leta 1818",
@@ -19528,6 +19851,113 @@
    ],
    "translated": "2026-10-23"
   },
+  "Treaty of Baden (1714)": {
+   "paragraphs": [
+    "Badenska pogodba, podpisana 7. septembra 1714 v Badnu v Švici, je sklenila mir med Francijo in Svetim rimskim cesarstvom. Skupaj z utrechtskim mirom in rastattskim mirom je bila ena od vrste pogodb, ki so končale špansko nasledstveno vojno v letih 1701–1713."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Baden (1714)",
+    "rev": 1336774671,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Treaty of Baden, signed 7 September 1714 in Baden, Switzerland, made peace between France and the Holy Roman Empire. Together with the Treaties of Utrecht and Rastatt, it was one in a series of agreements ending the 1701 to 1713 War of the Spanish Succession."
+    ]
+   },
+   "records": [
+    "Q688939"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Treaty of Basel (1499)": {
+   "headline": "Baselski mir leta 1499",
+   "paragraphs": [
+    "Baselski mir z dne 22. septembra 1499 je bil premirje po bitki pri Dornachu, s katerim se je končala švabska vojna med Švabsko zvezo in Staro švicarsko konfederacijo.",
+    "Čeprav se je vojna končala z več švicarskimi zmagami, sta bili tako Švica kot Švabska zveza izčrpani, voditelji obeh strani pa so si želeli miru. Strani sta se sestali v Baslu, da bi se dogovorili o mirovnih pogojih.",
+    "Pogodba je ozemeljsko obnovila prejšnje stanje (status quo ante). Osem od desetih članic Zveze desetih sodnih okrožij so potrdili kot nominalno podložne Habsburžanom, njihovo članstvo v zvezi in zavezništvo s Švicarsko konfederacijo pa sta ostala v veljavi."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Basel (1499)",
+    "rev": 1247046986,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Treaty of Basel of 22 September 1499 was an armistice following the Battle of Dornach, concluding the Swabian War, fought between the Swabian League and the Old Swiss Confederacy.",
+     "Though the war had concluded in multiple Swiss victories, both Switzerland and the Swabian League were exhausted, and the leaders of both sides desired peace. The two sides would meet in Basel to agree to terms of peace.",
+     "The treaty restored the status quo ante territorially. Eight out of the ten members in the League of the Ten Jurisdictions were confirmed as nominally subject to the Habsburgs, but their membership in the league and their alliance with the Swiss Confederacy was to remain in place."
+    ]
+   },
+   "records": [
+    "Q685164"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Treaty of Berlin (1742)": {
+   "headline": "Berlinski mir leta 1742",
+   "paragraphs": [
+    "Berlinski mir je bil mirovni sporazum med habsburško nadvojvodinjo Marijo Terezijo Avstrijsko, ki je bila tudi češka kraljica, in pruskim kraljem Friderikom Velikim, podpisan 28. julija 1742 v Berlinu. Bil je formalni mirovni sporazum, ki je potrdil predhodni dogovor, dosežen z angleškim posredovanjem v vroclavskem miru 11. junija, in uradno končal prvo šlezijsko vojno.",
+    "Na podlagi 5. člena pogodbe in zato, da bi se izognili nadaljnjim mejnim sporom, Njeno Veličanstvo ogrska in češka kraljica s to pogodbo za vso večnost ter z vso suverenostjo in neodvisnostjo iz dežel češke krone odstopa Njegovemu Veličanstvu pruskemu kralju tako Spodnjo kot Gornjo Šlezijo, notabene razen Tešinske kneževine in mesta Opava (…)"
+   ],
+   "notes": [
+    "The second paragraph paraphrases article 5 of the treaty and breaks off with an ellipsis in the English; the Slovenian keeps the ellipsis. Troppau is written in the Czech form Opava."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Berlin (1742)",
+    "rev": 1381367708,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Treaty of Berlin was a treaty between the Habsburg archduchess Maria Theresa of Austria, who was also Queen of Bohemia, and the Prussian king Frederick the Great, signed on 28 July 1742 in Berlin. It was the formal peace treaty that confirmed the preliminary agreement achieved with English mediation by the 11 June Treaty of Breslau, and officially ended the First Silesian War.",
+     "Based on article 5 of the treaty, to avoid further border disputes, Her Majesty the Queen of Hungary and Bohemia by the present treaty for all eternity and with all sovereignty and independence cedes from the Lands of the Bohemian Crown both Lower and Upper Silesia to His Majesty the King of Prussia, notabene except for the Principality of Teschen and the City of Troppau (...)"
+    ]
+   },
+   "records": [
+    "Q657970"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Treaty of Berlin (1926)": {
+   "paragraphs": [
+    "Berlinska pogodba (nemško-sovjetski pakt o nevtralnosti in nenapadanju) je bila pogodba, podpisana 24. aprila 1926, s katero sta se Nemčija in Sovjetska zveza za pet let zavezali k nevtralnosti, če bi tretja stran napadla eno od njiju. Pogodba je ponovno potrdila nemško-sovjetsko rapalsko pogodbo (1922).",
+    "Ratifikacijske listine so izmenjali v Berlinu 29. junija 1926 in pogodba je začela veljati istega dne. V zbirki pogodb Društva narodov so jo registrirali 3. avgusta 1926. Podaljšali so jo z dodatnim protokolom, podpisanim 24. junija 1931 in ratificiranim 5. maja 1933. Dodatni protokol so v zbirki pogodb Društva narodov registrirali 15. februarja 1935."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Berlin (1926)",
+    "rev": 1355517756,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Treaty of Berlin (German–Soviet Neutrality and Nonaggression Pact) was a treaty signed on 24 April 1926 under which Germany and the Soviet Union pledged neutrality in the event of an attack on the other by a third party for five years. The treaty reaffirmed the German–Soviet Treaty of Rapallo (1922).",
+     "Ratifications for the treaty were exchanged in Berlin on 29 June 1926, and it went into effect on the same day. The treaty was registered in League of Nations Treaty Series on 3 August 1926. It was renewed by additional protocol signed on 24 June 1931, ratified on 5 May 1933. The additional protocol was registered in League of Nations Treaty Series on 15 February 1935."
+    ]
+   },
+   "records": [
+    "Q695215"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Treaty of Bern": {
+   "headline": "Bernska pogodba",
+   "paragraphs": [
+    "Bernska pogodba (uradno Pogodba o ustanovitvi Splošne poštne zveze), podpisana 9. oktobra 1874, je ustanovila Splošno poštno zvezo, danes znano kot Svetovna poštna zveza. Pogodba, imenovana po švicarskem mestu Bern, kjer so jo podpisali, je bila sad mednarodne konference, ki jo je švicarska vlada sklicala 15. septembra 1874. Udeležili so se je predstavniki 22 držav. Načrte za konferenco je pripravil Heinrich von Stephan, generalni poštni direktor nemške državne pošte (Reichspost), ki je po koncu francosko-pruske vojne v letih 1870–1871 od nevtralne Švice zahteval, naj organizira mednarodni poštni kongres."
+   ],
+   "notes": [
+    "The English \"French-German war\" is the Franco-Prussian War; the Slovenian uses the glossary name francosko-pruska vojna."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Bern",
+    "rev": 1356266729,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Treaty of Bern (formally the Treaty concerning the formation of a General Postal Union), signed on 9 October 1874, established the General Postal Union, which is today known as the Universal Postal Union. Named for the Swiss city of Bern, where it was signed, the treaty was the result of an international conference convened by the Swiss Government on 15 September 1874. It was attended by representatives of 22 nations. Plans for the conference had been drawn up by Heinrich von Stephan, Postmaster-General of the German Reichspost who demanded from the neutral Switzerland the organization of an International Postal Congress following the end of the French-German war of 1870–1871."
+    ]
+   },
+   "records": [
+    "Q2629126"
+   ],
+   "translated": "2026-10-24"
+  },
   "Treaty of Breda (1667)": {
    "headline": "Bredski mir (1667)",
    "paragraphs": [
@@ -19548,6 +19978,25 @@
     "Q1431007"
    ],
    "translated": "2026-10-23"
+  },
+  "Treaty of Breslau": {
+   "headline": "Vroclavski mir",
+   "paragraphs": [
+    "Vroclavski mir je bil predhodni mirovni sporazum, ki so ga po dolgih pogajanjih 11. junija 1742 v šlezijski prestolnici Breslau (danes Vroclav na Poljskem) podpisali odposlanci avstrijske nadvojvodinje Marije Terezije in pruskega kralja Friderika II.; z njim se je končala prva šlezijska vojna."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Breslau",
+    "rev": 1361189403,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Treaty of Breslau was a preliminary peace agreement signed on 11 June 1742 following long negotiations at the Silesian capital Breslau (now Wrocław, Poland) by emissaries of Archduchess Maria Theresa of Austria and King Frederick II of Prussia ending the First Silesian War."
+    ]
+   },
+   "records": [
+    "Q700160"
+   ],
+   "translated": "2026-10-24"
   },
   "Treaty of Brétigny": {
    "headline": "Pogodba iz Brétignyja",
@@ -19635,6 +20084,27 @@
    ],
    "translated": "2026-10-23"
   },
+  "Treaty of Dresden": {
+   "headline": "Dresdenski mir",
+   "paragraphs": [
+    "Dresdenski mir so 25. decembra 1745 v saški prestolnici Dresdnu podpisale Avstrija, Saška in Prusija; z njim se je končala druga šlezijska vojna.",
+    "Z vroclavskim mirom leta 1742 je morala Marija Terezija Avstrijska, ki se je po pragmatični sankciji iz leta 1713 borila za nasledstvo svojega očeta cesarja Karla VI., napadalnemu pruskemu kralju Frideriku II. odstopiti večji del češke dežele Šlezije. V naslednjih letih pa je svoj položaj okrepila. Napadla je Bavarsko volilno kneževino in januarja 1745 dobila podporo Velike Britanije, Republike Nizozemske in Saške za ponovno osvojitev Šlezije. Poleg tega je nekaj dni pozneje umrl njen tekmec cesar Karel VII., 22. aprila 1745 pa je njegov sin in naslednik, bavarski volilni knez Maksimilijan III. Jožef, z njo sklenil füssenski mir."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Dresden",
+    "rev": 1352187201,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Treaty of Dresden was signed on 25 December 1745 at the Saxon capital of Dresden between Austria, Saxony and Prussia, ending the Second Silesian War.",
+     "In the 1742 Treaty of Breslau, Maria Theresa of Austria, struggling for the succession after her father Emperor Charles VI according to the Pragmatic Sanction of 1713, had to cede most of the Bohemian province of Silesia to the attacking King Frederick II of Prussia. In the following years, however, she was able to strengthen her position. She attacked the Electorate of Bavaria and in January 1745 achieved the support of Great Britain, the Dutch Republic and Saxony to reconquer Silesia. Furthermore, her rival, Emperor Charles VII, died a few days later, and on 22 April 1745 his son and successor, Elector Maximilian III Joseph of Bavaria, concluded the Treaty of Füssen with her."
+    ]
+   },
+   "records": [
+    "Q700716"
+   ],
+   "translated": "2026-10-24"
+  },
   "Treaty of Edinburgh": {
    "headline": "Edinburška pogodba",
    "paragraphs": [
@@ -19699,6 +20169,27 @@
    ],
    "translated": "2026-10-23"
   },
+  "Treaty of Finckenstein": {
+   "headline": "Finckensteinska pogodba",
+   "paragraphs": [
+    "Finckensteinska pogodba (perzijsko: عهدنامه فین‌کنشتاین), pogosto zapisana tudi kot Finkenstein, je bila pogodba med Francijo in Iranom (Perzijo), sklenjena 4. maja 1807 v gradu Finckenstein (danes Kamieniec na Poljskem), s katero sta državi formalizirali francosko-perzijsko zavezništvo.",
+    "Napoleon I. je jamčil celovitost Perzije, priznal del Gruzije in druge dele Zakavkazja ter del Severnega Kavkaza (Dagestan) za posest Fath Ali šaha in se zavezal, da si bo po svojih močeh prizadeval, da mu ta ozemlja vrne. Napoleon je obljubil tudi, da bo šahu priskrbel orožje, častnike in delavce. Francija pa je od šaha zahtevala, da napove vojno Združenemu kraljestvu, iz Perzije izžene vse Britance in Franciji pusti odprto pot, če bi želela napasti britanske posesti na Daljnem vzhodu."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Finckenstein",
+    "rev": 1341207186,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Treaty of Finckenstein (Persian: عهدنامه فین‌کنشتاین), often spelled Finkenstein, was a treaty concluded between France and Iran (Persia) in the Finckenstein Palace (now Kamieniec, Poland) on 4 May 1807 and formalised the Franco-Persian alliance.",
+     "Napoleon I guaranteed the integrity of Persia, recognized part of Georgia and the other parts of Transcaucasia and a part of the North Caucasus (Dagestan) as Fath Ali Shah's possession, and was to make all possible efforts for restoring those territories to him. Napoleon also promised to furnish the Shah with arms, officers and workmen. France on its side required the Shah to declare war against the United Kingdom, to expel all British people from Persia, and to maintain an open way if France wanted to attack British possessions in the Far East."
+    ]
+   },
+   "records": [
+    "Q1430709"
+   ],
+   "translated": "2026-10-24"
+  },
   "Treaty of Fontainebleau (1762)": {
    "headline": "Fontainebleaujska pogodba (1762)",
    "paragraphs": [
@@ -19757,6 +20248,25 @@
    ],
    "translated": "2026-10-23"
   },
+  "Treaty of Füssen": {
+   "headline": "Füssenski mir",
+   "paragraphs": [
+    "Füssenski mir (nemško: Frieden von Füssen) je bil mirovni sporazum, ki sta ga v Füssnu podpisali Bavarska volilna kneževina in habsburška Avstrija. Sklenili so ga 22. aprila 1745, z njim pa je Bavarska izstopila iz avstrijske nasledstvene vojne, v kateri se je bojevala na francoski strani."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Füssen",
+    "rev": 1332417337,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Peace of Füssen (German: Frieden von Füssen) was a peace treaty signed at Füssen, between the Electorate of Bavaria and Habsburg Austria. Signed on 22 April 1745, it ended the participation of Bavaria on the French side in the War of the Austrian Succession."
+    ]
+   },
+   "records": [
+    "Q571556"
+   ],
+   "translated": "2026-10-24"
+  },
   "Treaty of Ghent": {
    "headline": "Gentska pogodba",
    "paragraphs": [
@@ -19795,6 +20305,83 @@
     "Q2467248"
    ],
    "translated": "2026-10-23"
+  },
+  "Treaty of Hamburg (1762)": {
+   "headline": "Hamburški mir leta 1762",
+   "paragraphs": [
+    "Hamburški mir sta 22. maja 1762 v Hamburgu med pomorjansko vojno, enim od prizorišč sedemletne vojne, sklenili Švedska in Prusija.",
+    "Do pogodbe je prišlo, ko se je Rusija 5. maja povezala s Prusijo, zato Švedska ni mogla nadaljevati vojne, v katero je vstopila, da bi si povrnila prej izgubljena ozemlja na Pomorjanskem. Pogodba je potrdila predvojno stanje."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Hamburg (1762)",
+    "rev": 1352218213,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Treaty of Hamburg was signed on 22 May 1762 in Hamburg between Sweden and Prussia during the Pomeranian War, a theater of the Seven Years' War.",
+     "The treaty came into being after Russia had allied to Prussia on 5 May, making it impossible for Sweden to continue the war which they had entered to regain territories in Pomerania, which they had previously lost. The treaty reaffirmed the pre-war status quo."
+    ]
+   },
+   "records": [
+    "Q521923"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Treaty of Hubertusburg": {
+   "paragraphs": [
+    "Hubertusburški mir (nemško: Frieden von Hubertusburg) so 15. februarja 1763 na gradu Hubertusburg podpisale Prusija, Avstrija in Saška in z njim končale tretjo šlezijsko vojno. Skupaj s pariškim mirom, podpisanim pet dni prej, je pomenil konec sedemletne vojne. Pogodba je spopad na celini končala brez pomembnejših sprememb predvojnih meja. Avstrija in Saška sta se odpovedali vsem zahtevam do šlezijskih ozemelj, ki jih je Prusija dobila z berlinskim mirom leta 1742 in dresdenskim mirom leta 1745. Prusija se je jasno uvrstila med evropske velesile, pogodba pa je zaostrila tekmovanje z Avstrijo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Hubertusburg",
+    "rev": 1374635502,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Treaty of Hubertusburg (German: Frieden von Hubertusburg) was signed on 15 February 1763 at Hubertusburg Castle by Prussia, Austria and Saxony to end the Third Silesian War. Together with the Treaty of Paris, signed five days earlier, it marked the end of the Seven Years' War. The treaty ended the continental conflict with no significant changes in prewar borders. Austria and Saxony renounced all claims to the Silesian territories ceded to Prussia in the 1742 Treaty of Berlin and the 1745 Treaty of Dresden. Prussia clearly stood among the ranks of the European great powers, while the treaty enhanced the rivalry with Austria."
+    ]
+   },
+   "records": [
+    "Q698686"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Treaty of Kalisz (1343)": {
+   "headline": "Kališki mir",
+   "paragraphs": [
+    "Kališki mir (poljsko: Pokój kaliski, nemško: Vertrag von Kalisch) je bil mirovni sporazum, podpisan 8. julija 1343 v Kaliszu. Sklenili sta ga Kraljevina Poljska pod kraljem Kazimirom III. Velikim in Država tevtonskega reda pod velikim mojstrom Ludolfom Königom von Wattzau."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Kalisz (1343)",
+    "rev": 1352758446,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Treaty of Kalisz (Polish: Pokój kaliski, German: Vertrag von Kalisch) was a peace treaty signed on 8 July 1343 in Kalisz. It was concluded by the Kingdom of Poland under King Casimir III the Great and the State of the Teutonic Order under Grand Master of the Teutonic Order Ludolf König von Wattzau."
+    ]
+   },
+   "records": [
+    "Q573380"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Treaty of Leipzig": {
+   "headline": "Leipziška pogodba",
+   "paragraphs": [
+    "Leipziško pogodbo ali leipziško delitev (nemško: Leipziger Teilung) sta 11. novembra 1485 v Leipzigu podpisala saški volilni knez Ernest in njegov mlajši brat Albert III., sinova in dediča saškega volilnega kneza Friderika II. (u. 1464) iz rodbine Wettin. Pogodba je končala obdobje skupne vladavine obeh bratov, ki je trajalo od leta 1464 do 1485. Po določilih leipziške pogodbe je Ernest obdržal saški volilni naslov (vezan na vojvodino Saška-Wittenberg) in več posesti v južnih delih Turingije, Albert pa je dobil naslov saškega vojvode in oblast nad staro Meissensko mejno grofijo ter različne posesti v severnih delih Turingije. Leipziška pogodba in njene ureditve so utrdile delitev wettinskih dežel na dve ločeni posesti, ki so ju ločeno upravljali vladarji iz ernestinske in albertinske veje dinastije."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Leipzig",
+    "rev": 1341354116,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Treaty of Leipzig or Partition of Leipzig (German: Leipziger Teilung) was signed on 11 November 1485 in the city of Leipzig, between Ernest, Elector of Saxony and his younger brother Albert III, the sons and heirs of Frederick II, Elector of Saxony (d. 1464) from the House of Wettin. The treaty ended the period of joint rule by two brothers, that lasted from 1464 to 1485. Under the Leipzig treaty provisions, Ernest kept the Saxon electoral title (attached to the Duchy of Saxe-Wittenberg) and several domains in southern parts of Thuringia, while Albert received the Saxon ducal title and rule over the old Margraviate of Meissen, together with various domains in northern parts of Thuringia. The Leipzig treaty and its arrangements perpetuated the division of Wettin lands in two distinctive domains, administered separately, by rulers from Ernestine and Albertine branches of the dynasty."
+    ]
+   },
+   "records": [
+    "Q314076"
+   ],
+   "translated": "2026-10-24"
   },
   "Treaty of Lisbon (1668)": {
    "headline": "Lizbonska pogodba (1668)",
@@ -19942,6 +20529,28 @@
    ],
    "translated": "2026-10-23"
   },
+  "Treaty of Lübeck": {
+   "headline": "Lübeški mir",
+   "paragraphs": [
+    "Lübeški mir (dansko: Freden i Lübeck, nemško: Lübecker Frieden) je končal danski poseg v tridesetletno vojno (spodnjesaško ali cesarsko vojno, Kejserkrigen). Podpisala sta ga 22. maja 1629 v Lübecku Albrecht von Wallenstein in kralj Danske-Norveške Kristijan IV., 7. junija pa še cesar Svetega rimskega cesarstva Ferdinand II. Kot pogodbeno stranko so formalno vključili tudi Katoliško ligo. Pogodba je Danski-Norveški vrnila predvojno ozemlje, ta pa se je morala v zameno dokončno umakniti iz cesarskih zadev."
+   ],
+   "notes": [
+    "The English \"Treaty or Peace of Lübeck\" gives one name in Slovenian."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Lübeck",
+    "rev": 1355481706,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Treaty or Peace of Lübeck (Danish: Freden i Lübeck, German: Lübecker Frieden) ended the Danish intervention in the Thirty Years' War (Low Saxon or Emperor's War, Kejserkrigen). It was signed in Lübeck on 22 May 1629 by Albrecht von Wallenstein and Christian IV of Denmark-Norway, and on 7 June by Ferdinand II, Holy Roman Emperor. The Catholic League was formally included as a party. It restored to Denmark–Norway its pre-war territory at the cost of final disengagement from imperial affairs."
+    ]
+   },
+   "records": [
+    "Q708862"
+   ],
+   "translated": "2026-10-24"
+  },
   "Treaty of Madrid (13 January 1750)": {
    "headline": "Madridska pogodba (1750)",
    "paragraphs": [
@@ -19987,6 +20596,28 @@
    ],
    "translated": "2026-10-23"
   },
+  "Treaty of Melno": {
+   "headline": "Mir v Melnu",
+   "paragraphs": [
+    "Mir v Melnu (litovsko: Melno taika; poljsko: Pokój melneński) ali mir ob Melnskem jezeru (nemško: Friede von Melnosee) je bil mirovni sporazum, ki je končal golubsko vojno. Podpisali so ga 27. septembra 1422 tevtonski vitezi in zavezništvo Kraljevine Poljske in Velike litovske kneževine ob jezeru Melno (nemško: Melnosee, Meldensee; poljsko: Jezioro Mełno) vzhodno od Graudenza (Grudziądz). Razrešil je ozemeljske spore med vitezi in Litvo glede Male Litve in Žemaitije, ki so se vlekli od leta 1382, in določil prusko-litovsko mejo, ki je nato ostala nespremenjena približno 500 let. Del prvotne meje se je ohranil kot del sodobne meje med Republiko Litvo in rusko Kaliningrajsko oblastjo, zato je to ena najstarejših in najstabilnejših meja v Evropi."
+   ],
+   "notes": [
+    "The English dates the start of the disputes to 1382, while the Golub War summary says 1398; the Slovenian follows each source."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Melno",
+    "rev": 1352758741,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Treaty of Melno (Lithuanian: Melno taika; Polish: Pokój melneński) or Treaty of Lake Melno (German: Friede von Melnosee) was a peace treaty ending the Gollub War. It was signed on 27 September 1422, between the Teutonic Knights and an alliance of the Kingdom of Poland and the Grand Duchy of Lithuania at Lake Melno (German: Melnosee, Meldensee; Polish: Jezioro Mełno), east of Graudenz (Grudziądz). The treaty resolved territorial disputes between the Knights and Lithuania regarding Lithuania Minor and Samogitia, which had dragged on since 1382, and determined the Prussian–Lithuanian border, which afterwards remained unchanged for about 500 years. A portion of the original border survives as a portion of the modern border between the Republic of Lithuania and Kaliningrad Oblast, Russia, making it one of the oldest and most stable borders in Europe."
+    ]
+   },
+   "records": [
+    "Q693964"
+   ],
+   "translated": "2026-10-24"
+  },
   "Treaty of Montgomery": {
    "headline": "Pogodba iz Montgomeryja",
    "paragraphs": [
@@ -20005,6 +20636,25 @@
     "Q7837154"
    ],
    "translated": "2026-10-23"
+  },
+  "Treaty of Neuberg": {
+   "headline": "Neuberška pogodba",
+   "paragraphs": [
+    "Neuberška pogodba, ki sta jo avstrijski vojvoda Albert III. in njegov brat Leopold III. sklenila 25. septembra 1379 v samostanu Neuberg, je določila delitev habsburških dednih dežel med albertinsko in leopoldinsko linijo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Neuberg",
+    "rev": 1309018818,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Treaty of Neuberg, concluded between the Austrian duke Albert III and his brother Leopold III at Neuberg Abbey on 25 September 1379, determined the division of the Habsburg hereditary lands into the Albertinian line and the Leopoldian line."
+    ]
+   },
+   "records": [
+    "Q561493"
+   ],
+   "translated": "2026-10-24"
   },
   "Treaty of Nice": {
    "paragraphs": [
@@ -20027,6 +20677,27 @@
     "Q208688"
    ],
    "translated": "2026-10-23"
+  },
+  "Treaty of Oliva": {
+   "headline": "Olivski mir",
+   "paragraphs": [
+    "Olivski mir (poljsko: Pokój Oliwski; švedsko: Freden i Oliva; nemško: Vertrag von Oliva) je bil eden od mirovnih sporazumov, ki so končali drugo severno vojno (1655–1660). Podpisali so ga 3. maja (po starem koledarju 23. aprila) 1660. Olivski mir, kopenhagenski mir istega leta in mir v Kardisu naslednje leto so pomenili vrhunec Švedskega imperija.",
+    "V Olivi (Oliwa) na Poljskem so mir sklenili Švedska, Republika obeh narodov, Habsburžani in Brandenburška Prusija. Švedsko so priznali za suvereno v Švedski Livoniji, Brandenburg v Vojvodini Prusiji, Janez II. Kazimir Vasa pa se je odpovedal zahtevam po švedskem prestolu. Vsa zasedena ozemlja so vrnili predvojnim vladarjem. Katoličani v Livoniji in Prusiji so dobili versko svobodo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Oliva",
+    "rev": 1375158789,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Treaty or Peace of Oliva (Polish: Pokój Oliwski; Swedish: Freden i Oliva; German: Vertrag von Oliva) was one of the peace treaties ending the Second Northern War (1655–1660). It was signed on 3 May [O.S. 23 April] 1660. The Treaty of Oliva, the Treaty of Copenhagen in the same year, and the Treaty of Cardis in the following year marked the high point of the Swedish Empire.",
+     "At Oliwa (Oliva), Poland, peace was made between Sweden, the Polish–Lithuanian Commonwealth, the Habsburgs and Brandenburg-Prussia. Sweden was accepted as sovereign in Swedish Livonia, Brandenburg was accepted as sovereign in Ducal Prussia and John II Casimir Vasa withdrew his claims to the Swedish throne. All occupied territories were restored to their prewar sovereigns. Catholics in Livonia and Prussia were granted religious freedom."
+    ]
+   },
+   "records": [
+    "Q17335"
+   ],
+   "translated": "2026-10-24"
   },
   "Treaty of Paris (1229)": {
    "headline": "Pariška pogodba (1229)",
@@ -20342,6 +21013,51 @@
    ],
    "translated": "2026-10-23"
   },
+  "Treaty of Polyanovka": {
+   "headline": "Poljanovski mir",
+   "paragraphs": [
+    "Poljanovski mir (poljsko: Pokój w Polanowie; litovsko: Polianovkos taika) je bil mirovni sporazum, ki sta ga 14. junija 1634 v vasi Semljovo ob reki Poljanovki med Vjazmo in Dorogobužem sklenili Republika obeh narodov in Rusko carstvo."
+   ],
+   "notes": [
+    "The English \"Treaty of Polyanovka, also known as the Peace of Polyanovka\" gives one name in Slovenian; the Russian place names are transcribed by the Pravopis rules."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Polyanovka",
+    "rev": 1273828974,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Treaty of Polyanovka, also known as the Peace of Polyanovka (Polish: Pokój w Polanowie; Lithuanian: Polianovkos taika) was a peace treaty signed on 14 June 1634 between the Polish–Lithuanian Commonwealth and the Tsardom of Russia in the village of Semlyovo located near the Polyanovka river between Vyazma and Dorogobuzh."
+    ]
+   },
+   "records": [
+    "Q1383153"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Treaty of Rastatt": {
+   "headline": "Rastattski mir",
+   "paragraphs": [
+    "Rastattski mir je bil mirovni sporazum med Francijo in Avstrijo, sklenjen 7. marca 1714 v badenskem mestu Rastatt, s katerim se je končala španska nasledstvena vojna med državama. Sledil je utrechtskemu miru z 11. aprila 1713, ki je končal sovražnosti med Francijo in Španijo na eni ter Veliko Britanijo in Republiko Nizozemsko na drugi strani. Za konec sovražnosti med Francijo in Svetim rimskim cesarstvom je bila potrebna še tretja pogodba v Badnu v Švici.",
+    "Do leta 1713 so bile vse vojskujoče se strani vojaško izčrpane in malo verjetno je bilo, da bi nadaljevanje spopada v doglednem času prineslo kakršne koli rezultate. Novembra 1713 se je med Francijo in Avstrijo začel prvi kongres v Rastattu. Pogajanja so se končala z rastattskim mirom 7. marca 1714, ki je ustavil sovražnosti in dopolnil utrechtski mir, podpisan leto prej.",
+    "Rastattski mir sta izpogajala maršal Francije Claude Louis Hector de Villars in avstrijski princ Evgen Savojski."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Rastatt",
+    "rev": 1352206476,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Treaty of Rastatt was a peace treaty between France and Austria that was concluded on 7 March 1714 in the Baden city of Rastatt to end the War of the Spanish Succession between both countries. The treaty followed the Treaty of Utrecht of 11 April 1713, which had ended hostilities between France and Spain, on the one hand, and Great Britain and the Dutch Republic, on the other. A third treaty at Baden, Switzerland, was required to end the hostilities between France and the Holy Roman Empire.",
+     "By 1713, all parties to the war had been militarily depleted, and it was unlikely that continuing the conflict would bring about any results in the foreseeable future. The First Congress of Rastatt opened in November 1713 between France and Austria. The negotiations culminated in the Treaty of Rastatt on 7 March 1714, which ended hostilities and complemented the Treaty of Utrecht, which had been signed the previous year.",
+     "The Treaty of Rastatt was negotiated by Marshal of France, Claude Louis Hector de Villars, and the Austrian Prince Eugene of Savoy."
+    ]
+   },
+   "records": [
+    "Q163236"
+   ],
+   "translated": "2026-10-24"
+  },
   "Treaty of Saint-Clair-sur-Epte": {
    "headline": "Pogodba iz Saint-Clair-sur-Epte",
    "paragraphs": [
@@ -20402,6 +21118,49 @@
     "Q1195251"
    ],
    "translated": "2026-10-23"
+  },
+  "Treaty of Stuhmsdorf": {
+   "headline": "Pogodba iz Stuhmsdorfa",
+   "paragraphs": [
+    "Pogodbo iz Stuhmsdorfa sta 12. septembra 1635 v kraju Sztumska Wieś na Poljskem podpisali Republika obeh narodov in Švedska. Ker je bila Švedska oslabljena zaradi udeležbe v tridesetletni vojni, je pogodba altmarško premirje iz leta 1629 podaljšala za 26 let in pol, Švedska pa je pristala na pomembne popuste.",
+    "Čeprav je Republika obeh narodov dobila nazaj številna ozemlja, izgubljena v poljsko-švedski vojni (1600–1629), si je Švedska v zameno zagotovila pridobitve ob Baltskem morju. To ji je omogočilo, da se je posvetila Svetemu rimskemu cesarstvu, ne da bi jo skrbela morebitna nova fronta. Premirje je trajalo do izbruha druge severne vojne leta 1655."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Stuhmsdorf",
+    "rev": 1301365645,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Treaty of Stuhmsdorf, was signed on 12 September 1635 in Sztumska Wieś, Poland, between the Polish–Lithuanian Commonwealth and Sweden. With the latter weakened by its involvement in the Thirty Years' War, it extended the 1629 Truce of Altmark for 26+1⁄2 years, with Sweden making significant concessions.",
+     "Although the Commonwealth regained many territories lost during the Polish–Swedish War (1600–1629), in return Sweden secured its acquisitions in the Baltic Sea. This allowed them to focus on the Holy Roman Empire without worrying about a possible new front. The truce lasted until the outbreak of the Second Northern War in 1655."
+    ]
+   },
+   "records": [
+    "Q573173"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Treaty of Teschen": {
+   "headline": "Tešinski mir",
+   "paragraphs": [
+    "Tešinski mir (nemško: Frieden von Teschen; francosko: Traité de Teschen) sta 13. maja 1779 v Tešinu (Teschen), tedaj v Avstrijski Šleziji, podpisali avstrijska habsburška monarhija in Kraljevina Prusija; z njim se je uradno končala bavarska nasledstvena vojna."
+   ],
+   "notes": [
+    "The literal gloss \"lit. 'Peace of Teschen'\" is dropped, as it is the Slovenian name itself."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Teschen",
+    "rev": 1376320721,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Treaty of Teschen (German: Frieden von Teschen, lit. 'Peace of Teschen'; French: Traité de Teschen) was signed on 13 May 1779 in Teschen, then in Austrian Silesia, between the Austrian Habsburg monarchy and the Kingdom of Prussia, which officially ended the War of the Bavarian Succession."
+    ]
+   },
+   "records": [
+    "Q681391"
+   ],
+   "translated": "2026-10-24"
   },
   "Treaty of the Bulls of Guisando": {
    "headline": "Pogodba iz Toros de Guisando",
@@ -20552,6 +21311,74 @@
     "Q548182"
    ],
    "translated": "2026-10-23"
+  },
+  "Treaty of Vienna (1606)": {
+   "headline": "Dunajski mir leta 1606",
+   "paragraphs": [
+    "Dunajski mir sta 23. junija 1606 sklenila transilvanski knez Štefan Bocskai in cesar Svetega rimskega cesarstva Rudolf II. Po določilih pogodbe so Madžari tako v Transilvaniji kot v Kraljevi Ogrski dobili vse ustavne in verske pravice ter privilegije. V Šopronu je sporazum na primer priznal samoupravo madžarskih luteranov, v Transilvaniji pa so versko strpnost dobili kalvinci. Sporazum je Bocskaija priznal tudi za transilvanskega kneza in Transilvancem zagotovil pravico, da bodo v prihodnje sami volili svoje neodvisne kneze.",
+    "Zaradi pomena pogodbe za kalvince na Ogrskem in v Transilvaniji so njene prve stavke in podpis upodobili na reformacijskem zidu v Ženevi, spomeniku pomembnim osebnostim protestantske reformacije, ob kipu Štefana Bocskaija."
+   ],
+   "notes": [
+    "The English \"Treaty of Vienna (also known as the Peace of Vienna)\" gives one name in Slovenian.",
+    "The English \"autocracy of Hungarian Lutherans\" evidently means their self-government; the Slovenian says samouprava."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Vienna (1606)",
+    "rev": 1354185674,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Treaty of Vienna (also known as the Peace of Vienna) was signed on 23 June 1606 between Stephen Bocskai, Prince of Transylvania, and Rudolf II, Holy Roman Emperor. Based on the terms of the treaty, all constitutional and religious rights and privileges were granted to the Hungarians in both Transylvania and Royal Hungary. In Sopron, for instance, the agreement recognized the autocracy of Hungarian Lutherans; in Transylvania, the Calvinists gained religious tolerance. The accord also recognized Bocskai as the Prince of Transylvania and guaranteed the right of Transylvanians to elect their own independent princes in the future.",
+     "Due to its importance for the Calvinists in Hungary and Transylvania, the first sentences of the treaty and its signing are depicted on the Reformation Wall in Geneva, a monument that honours important figures of the Protestant Reformation, next to the statue of Stephen Bocskay."
+    ]
+   },
+   "records": [
+    "Q685415"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Treaty of Vienna (1725)": {
+   "headline": "Dunajski mir leta 1725",
+   "paragraphs": [
+    "Dunajski mir, znan tudi kot prva dunajska pogodba, je bil niz štirih pogodb, podpisanih med 30. aprilom in 5. novembrom 1725, v katerih so sodelovali habsburška monarhija, Sveto rimsko cesarstvo (v imenu Avstrije) in burbonska Španija. Nastalo je novo vojaško zavezništvo, ki se mu je pozneje, leta 1726, pridružil Ruski imperij. Zaradi dunajskega zavezništva je Avstrija izstopila iz četverne zveze, kar je povzročilo diplomatski preobrat: druge velesile so se nekaj mesecev pozneje, septembra, povezale v hannovrsko zavezništvo. Nasprotni zavezništvi se nista vojaško spopadli, napetosti pa so leta 1727 privedle do omejene četrte angleško-španske vojne."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Vienna (1725)",
+    "rev": 1309515424,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Peace of Vienna, also known as the First Treaty of Vienna, was a series of four treaties signed between 30 April 1725 and 5 November 1725 involving the Habsburg Monarchy, the Holy Roman Empire (on behalf of Austria), and Bourbon Spain. A new military alliance was formed, with the Russian Empire joining later in 1726. This Viennese alliance caused Austria to withdraw from the Quadruple Alliance, resulting in a diplomatic shift which led other great powers to coalesce into the Hanoverian Alliance months later in September. The rival alliances did not clash militarily, although tensions led to the limited Fourth Anglo-Spanish War in 1727."
+    ]
+   },
+   "records": [
+    "Q698176"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Treaty of Vienna (1738)": {
+   "headline": "Dunajski mir leta 1738",
+   "paragraphs": [
+    "Dunajski mir leta 1738 je končal poljsko nasledstveno vojno. Po njegovih določilih se je Stanisław Leszczyński odpovedal zahtevi po poljskem prestolu in priznal saškega vojvodo Avgusta III. V zameno je dobil vojvodini Loreno in Bar, ki naj bi po njegovi smrti pripadli njegovi hčeri Mariji, ženi francoskega kralja Ludvika XV. Stanisław je umrl leta 1766, njegova hči pa leta 1768.",
+    "Lorenski vojvoda Franc Štefan je v odškodnino dobil izpraznjeni prestol Velike vojvodine Toskane, saj je zadnji Medici umrl leta 1737. Francija je v dunajskem miru pristala tudi na pragmatično sankcijo. Po drugem določilu pogodbe je Avstrija Neapeljsko kraljestvo in Kraljevino Sicilijo odstopila parmskemu in piacenškemu vojvodi Karlu, mlajšemu sinu španskega kralja Filipa V. Karel pa je moral Avstriji odstopiti Parmo in se odpovedati zahtevam po toskanskem prestolu v korist Franca Štefana."
+   ],
+   "notes": [
+    "The English \"Treaty of Vienna or Peace of Vienna\" gives one name in Slovenian."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Vienna (1738)",
+    "rev": 1368931545,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Treaty of Vienna or Peace of Vienna of 1738 ended the War of the Polish Succession. By the terms of the treaty, Stanisław Leszczyński renounced his claim on the Polish throne and recognized Augustus III, Duke of Saxony. As compensation he received instead the duchies of Lorraine and Bar, which were to pass to his daughter, Maria, the wife of King Louis XV of France, upon his death. Stanisław died in 1766 and his daughter in 1768.",
+     "Francis Stephen, who was the Duke of Lorraine, was indemnified with the vacant throne of the Grand Duchy of Tuscany, the last Medici having died in 1737. France also agreed to the Pragmatic Sanction in the Treaty of Vienna. In another provision of the treaty, the kingdoms of Naples and Sicily were ceded by Austria to Duke Charles of Parma and Piacenza, the younger son of King Philip V of Spain. Charles, in turn, had to cede Parma to Austria, and to give up his claims to the throne of Tuscany in favor of Francis Stephen."
+    ]
+   },
+   "records": [
+    "Q699271"
+   ],
+   "translated": "2026-10-24"
   },
   "Treaty of Westminster (1674)": {
    "headline": "Westminstrska pogodba (1674)",
