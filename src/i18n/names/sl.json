@@ -2410,7 +2410,7 @@
   "Q659717": "Dunajska konvencija o diplomatskih odnosih",
   "Q661425": "Caltabellottski sporazum",
   "Q661686": "Bitka pri Höchstu",
-  "Q661764": "Bitka pri Wipfnu",
+  "Q661764": "Bitka pri Wimpfnu",
   "Q662961": "Bitka pri Vittorio Venetu",
   "Q663405": "Bitka pri Zorndorfu",
   "Q664365": "Bitka v Oktoduru",
@@ -2786,7 +2786,8 @@
    "Q1669285": "Oplenitev Amorija",
    "Q1348955": "Vojna žanjcev",
    "Q697306": "Bitka pri Wissembourgu",
-   "Q306150": "Poljsko-avstrijska vojna"
+   "Q306150": "Poljsko-avstrijska vojna",
+   "Q661764": "Bitka pri Wimpfnu"
   }
  }
 }
