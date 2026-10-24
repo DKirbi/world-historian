@@ -7,6 +7,25 @@
  "reviewed": false,
  "licence": "CC BY-SA 4.0: translations of English Wikipedia text, attributed to each article and revision",
  "units": {
+  "11 September 1922 Revolution": {
+   "headline": "Revolucija 11. septembra 1922",
+   "paragraphs": [
+    "Revolucija 11. septembra 1922 (grško: Επανάσταση της 11ης Σεπτεμβρίου 1922) je bila vstaja grške kopenske vojske in mornarice proti vladi v Atenah; uporniki so namesto nje postavili »revolucionarni odbor«. Vstaja se je zgodila 24. septembra 1922, vendar je bil to po julijanskem koledarju, ki je v Grčiji tedaj še veljal, »11. september«."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "11 September 1922 Revolution",
+    "rev": 1381606337,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The 11 September 1922 Revolution (Greek: Επανάσταση της 11ης Σεπτεμβρίου 1922) was an uprising by the Greek Army and Navy against the government in Athens, which installed a \"Revolutionary Committee\" in its place. The uprising took place on 24 September 1922, although the date was \"11 September\" on the Julian calendar still in use at the time in Greece."
+    ]
+   },
+   "records": [
+    "Q2998936"
+   ],
+   "translated": "2026-10-24"
+  },
   "13 Vendémiaire": {
    "headline": "13. vendémiaire",
    "paragraphs": [
@@ -51,6 +70,44 @@
    ],
    "translated": "2026-10-23"
   },
+  "1886 Bulgarian coup d'état": {
+   "headline": "Bolgarski državni udar leta 1886",
+   "paragraphs": [
+    "Bolgarski državni udar leta 1886, znan tudi kot državni udar 9. avgusta (bolgarsko: Деветоавгустовски преврат), je bil poskus odstavitve kneza Aleksandra Battenberga v Kneževini Bolgariji, izveden 9. avgusta 1886. Udar ni uspel, a je vseeno pripeljal do abdikacije Aleksandra Battenberga."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "1886 Bulgarian coup d'état",
+    "rev": 1359290818,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Bulgarian coup d'état of 1886, also known as the 9 August coup d'état (Bulgarian: Деветоавгустовски преврат, Devetoavgustovski prevrat) was an attempted dethronement of Knyaz Alexander Battenberg in Principality of Bulgaria, carried out on 9 August 1886. Although unsuccessful, the event led to the abdication of Alexander Battenberg."
+    ]
+   },
+   "records": [
+    "Q2119318"
+   ],
+   "translated": "2026-10-24"
+  },
+  "1923 Bulgarian coup d'état": {
+   "headline": "Bolgarski državni udar leta 1923",
+   "paragraphs": [
+    "Bolgarski državni udar leta 1923, znan tudi kot državni udar 9. junija (bolgarsko: Деветоюнски преврат), je bil državni udar v Bolgariji, ki so ga zvečer 9. junija 1923 izvedle oborožene sile Vojaške lige generala Ivana Valkova. Bolgarski car Boris III. ga je z odlokom obotavljivo legitimiral. Udar je strmoglavil izvoljeno vlado Aleksandra Stambolijskega iz Bolgarske kmečke narodne zveze in jo nadomestil z vlado Aleksandra Cankova."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "1923 Bulgarian coup d'état",
+    "rev": 1371475981,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The 1923 Bulgarian coup d'état, also known as the 9 June coup d'état (Bulgarian: Деветоюнски преврат, Devetoyunski prevrat), was a coup d'état in Bulgaria implemented by armed forces under General Ivan Valkov's Military League on the evening of 9 June 1923. Hestitantly legitimized by a decree of Tsar Boris III of Bulgaria, the coup overthrew the elected government headed by Aleksandar Stamboliyski of the Bulgarian Agrarian National Union (BANU), and replaced it with one under Aleksandar Tsankov."
+    ]
+   },
+   "records": [
+    "Q960894"
+   ],
+   "translated": "2026-10-24"
+  },
   "1926 Slavery Convention": {
    "headline": "Konvencija o suženjstvu (1926)",
    "paragraphs": [
@@ -86,6 +143,25 @@
    },
    "records": [
     "Q679793"
+   ],
+   "translated": "2026-10-24"
+  },
+  "1944 Bulgarian coup d'état": {
+   "headline": "Bolgarski državni udar leta 1944",
+   "paragraphs": [
+    "Bolgarski državni udar leta 1944, znan tudi kot državni udar 9. septembra (bolgarsko: Деветосептемврийски преврат), je bil udar, ki je v noči na 9. september 1944 strmoglavil vlado Kraljevine Bolgarije. V komunističnem obdobju ga je uradna propaganda imenovala ljudska vstaja 9. septembra, ker so ga spremljali obsežni nemiri, in socialistična revolucija, ker je bil politična prelomnica in začetek korenitih reform v smeri sovjetskega socializma."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "1944 Bulgarian coup d'état",
+    "rev": 1380179541,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The 1944 Bulgarian coup d'état, also known as the 9 September coup d'état (Bulgarian: Деветосептемврийски преврат, romanized: Devetoseptemvriyski prevrat), was a coup that overthrew the government of Kingdom of Bulgaria on the eve of 9 September 1944. During the Communist era, official propaganda called the coup the People's Uprising of 9 September on the grounds of the broad unrest and the Socialist Revolution as it was a turning point politically and the beginning of radical reforms towards Soviet-style socialism."
+    ]
+   },
+   "records": [
+    "Q618048"
    ],
    "translated": "2026-10-24"
   },
@@ -152,6 +228,66 @@
    ],
    "translated": "2026-10-23"
   },
+  "1992 Yugoslav People's Army column incident in Sarajevo": {
+   "headline": "Incident s kolono JLA v Sarajevu leta 1992",
+   "paragraphs": [
+    "Incident s kolono Jugoslovanske ljudske armade v Sarajevu se je zgodil 3. maja 1992 na Dobrovoljački ulici v Sarajevu, ko so pripadniki Armade Republike Bosne in Hercegovine (ARBiH) napadli konvoj vojakov Jugoslovanske ljudske armade (JLA), ki so v skladu s sporazumom o umiku zapuščali mesto."
+   ],
+   "notes": [
+    "JNA is given by its Slovenian abbreviation JLA."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "1992 Yugoslav People's Army column incident in Sarajevo",
+    "rev": 1370279960,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The 1992 Yugoslav People's Army column incident in Sarajevo occurred on 3 May 1992 in Dobrovoljačka Street, Sarajevo, when members of the Bosnian Army (ARBiH) attacked a convoy of the Yugoslav Army (JNA) troops that were exiting the city of Sarajevo according to the withdrawal agreement."
+    ]
+   },
+   "records": [
+    "Q3439306"
+   ],
+   "translated": "2026-10-24"
+  },
+  "1994 Serb J-21 Jastreb shootdown": {
+   "headline": "Sestrelitev srbskih letal J-21 Jastreb leta 1994",
+   "paragraphs": [
+    "Dva para lovcev F-16C Fighting Falcon družbe General Dynamics iz sil Organizacije Severnoatlantske pogodbe (Nato) sta 28. februarja 1994 v zračnem prostoru Bosne in Hercegovine sestrelila pet enosedežnih lahkih jurišnih letal J-21 Jastreb s piloti Republike Srbske (RS) ali Republike Srbske Krajine (RSK), potem ko so ta med bosansko vojno bombardirala tovarno orožja v Novem Travniku. Prestrezanje je bilo del Natove operacije Deny Flight, sestrelitev pa je bila prvo bojno dejanje v zgodovini zavezništva."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "1994 Serb J-21 Jastreb shootdown",
+    "rev": 1370279993,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "On 28 February 1994, two pairs of North Atlantic Treaty Organisation (NATO) General Dynamics F-16C Fighting Falcon aircraft shot down five J-21 Jastreb single-seat light attack jets–piloted by Republika Srpska (RS) or Republic of Serbian Krajina (RSK) personnel–in Bosnia and Herzegovina airspace after they had bombed an armaments factory at Novi Travnik during the Bosnian War. The interception was part of NATO's Operation Deny Flight, with the shootdown constituting the first combat action in the alliance's history."
+    ]
+   },
+   "records": [
+    "Q1984410"
+   ],
+   "translated": "2026-10-24"
+  },
+  "2001 insurgency in Macedonia": {
+   "headline": "Upor v Makedoniji leta 2001",
+   "paragraphs": [
+    "Upor v Makedoniji leta 2001 je bil oborožen spopad v Republiki Makedoniji, ki se je začel, ko je etnično albanska uporniška skupina Narodnoosvobodilna vojska (NLA), ki so jo sestavljali veterani vojne na Kosovu in upora v Preševski dolini, konec januarja 2001 napadla makedonske varnostne sile. Končal se je z Ohridskim sporazumom, podpisanim 13. avgusta istega leta. Pojavljale so se tudi trditve, da je NLA na koncu želela odcepitev območij z albansko večino, kar so visoki člani skupine zanikali. Spopad je trajal večji del leta, vendar so bile žrtve po virih obeh strani omejene na nekaj deset ljudi na vsaki strani. Z njim so jugoslovanske vojne zajele tudi Makedonijo, ki se je leta 1991 mirno osamosvojila od Jugoslavije."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "2001 insurgency in Macedonia",
+    "rev": 1381659247,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "An armed conflict began in the Republic of Macedonia in 2001 when the ethnic Albanian National Liberation Army (NLA) insurgent group, formed from veterans of the Kosovo War and insurgency in the Preševo Valley, attacked Macedonian security forces at the end of January 2001, and ended with the Ohrid Agreement, signed on 13 August of that same year. There were also claims that the NLA ultimately wished to see Albanian-majority areas secede from the country, though high-ranking members of the group have denied this. The conflict lasted throughout most of the year, although overall casualties remained limited to several dozen individuals on either side, according to sources from both sides of the conflict. With it, the Yugoslav Wars had reached Macedonia, which had achieved peaceful independence from Yugoslavia in 1991."
+    ]
+   },
+   "records": [
+    "Q817137"
+   ],
+   "translated": "2026-10-24"
+  },
   "2013 Brussels Agreement": {
    "headline": "Bruseljski sporazum (2013)",
    "paragraphs": [
@@ -189,6 +325,25 @@
     "Q732219"
    ],
    "translated": "2026-10-23"
+  },
+  "3 September 1843 Revolution": {
+   "headline": "Revolucija 3. septembra 1843",
+   "paragraphs": [
+    "Revolucija 3. septembra 1843 (grško: Επανάσταση της 3ης Σεπτεμβρίου 1843; po novem koledarju 15. septembra) je bila vstaja helenske vojske v Atenah, ki so jo podprli široki sloji ljudstva, proti samodržni vladavini kralja Otona. Uporniki pod vodstvom veteranov grške osamosvojitvene vojne so zahtevali ustavo in odhod bavarskih uradnikov, ki so obvladovali vlado. Revolucija je uspela: začelo se je obdobje ustavne monarhije (po ustavi iz leta 1844) in splošne volilne pravice za moške v Grčiji."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "3 September 1843 Revolution",
+    "rev": 1370425516,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The 3 September 1843 Revolution (Greek: Επανάσταση της 3ης Σεπτεμβρίου 1843; N.S. 15 September) was an uprising by the Hellenic Army in Athens, supported by large sections of the people, against the autocratic rule of King Otto. The rebels, led by veterans of the Greek War of Independence, demanded the granting of a constitution and the departure of the Bavarian officials that dominated the government. The revolution succeeded, ushering in the period of constitutional monarchy (under the 1844 constitution) and universal manhood suffrage in Greece."
+    ]
+   },
+   "records": [
+    "Q2584397"
+   ],
+   "translated": "2026-10-24"
   },
   "Aachen Treaty": {
    "headline": "Aachenska pogodba",
@@ -248,6 +403,68 @@
     "Q321961"
    ],
    "translated": "2026-10-23"
+  },
+  "Albanian principalities": {
+   "headline": "Albanske kneževine",
+   "paragraphs": [
+    "Izraz albanske kneževine označuje več kneževin (čeprav so delovale bolj kot vrsta kraljestev), ki so v srednjem veku nastale v Albaniji in sosednjih pokrajinah zahodnega Balkana in jim je vladalo albansko plemstvo. Prva med njimi, Kneževina Arbanon, je nastala v 12. stoletju. Okrepile pa so se šele v drugi polovici 14. stoletja, zlasti po razpadu Srbskega cesarstva po letu 1355. Nekatere so se leta 1444 povezale v vojaško zavezništvo, imenovano Lješka liga, ki je do leta 1480 obstajalo in Osmansko cesarstvo premagalo v več kot 28 bitkah. Kneževine so obsegale današnjo Albanijo, zahodni in osrednji Kosovo, Epir, ozemlja vse do Korinta, zahodno Severno Makedonijo in južno Črno goro. Med njihovimi vladarji so bili nekateri najvidnejši balkanski veljaki 14. in 15. stoletja, na primer Gjin Bua Shpata, Andrea II. Muzaka, Gjon Zenebishi, Karl Topia, Andrea Gropa, rodbina Balša, Gjergj Arianiti, Gjon Kastrioti, Skenderbeg, rodbina Dukagjini in Lek Dukagjini."
+   ],
+   "notes": [
+    "League of Lezhë: Lješka liga (after Lješ, the Slavic name of Lezhë); not in the glossary."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Albanian principalities",
+    "rev": 1375991841,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The term Albanian Principalities refers to a number of principalities (although they functioned more like a series of kingdoms) created in the Middle Ages in Albania and the surrounding regions in the western Balkans that were ruled by Albanian nobility. The 12th century marked the first Albanian principality, the Principality of Arbanon. It was later, however, in the 2nd half of the 14th century that these principalities became stronger, especially with the fall of the Serbian Empire after 1355. Some of these principalities were notably united in 1444 under the military alliance called League of Lezhë up to 1480 which defeated the Ottoman Empire in more than 28 battles. They covered modern day Albania, western and central Kosovo, Epirus, areas up to Corinth, western North Macedonia, southern Montenegro. The leaders of these principalities were some of the most noted Balkan figures in the 14th and 15th centuries such as Gjin Bua Shpata, Andrea II Muzaka, Gjon Zenebishi, Karl Topia, Andrea Gropa, Balsha family, Gjergj Arianiti, Gjon Kastrioti, Skanderbeg, Dukagjini family and Lek Dukagjini."
+    ]
+   },
+   "records": [
+    "albanian-principalities"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Albanian revolt of 1912": {
+   "paragraphs": [
+    "Albanski upor leta 1912 (albansko: Kryengritja e vitit 1912, »vstaja leta 1912«) je bil zadnji upor proti osmanski oblasti v Albaniji in je trajal od januarja do avgusta 1912. Končal se je, ko je osmanska vlada 4. septembra 1912 privolila v izpolnitev zahtev upornikov. Proti Osmanom, ki jih je tedaj vodil Odbor za edinstvo in napredek, so se večinoma borili muslimanski Albanci. Upor je podpirala Kraljevina Srbija, ki ga je želela izkoristiti za oslabitev Osmanskega cesarstva. Srbija je upornikom pomembno pomagala, tako vojaško kot finančno."
+   ],
+   "notes": [
+    "The English dates the revolt January to August 1912 and its end 4 September 1912; kept as in the source."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Albanian revolt of 1912",
+    "rev": 1381571949,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Albanian revolt of 1912 (Albanian: Kryengritja e vitit 1912, \"Uprising of 1912\") was the last revolt against the Ottoman Empire's rule in Albania and lasted from January until August 1912. The revolt ended when the Ottoman government agreed to fulfill the rebels' demands on 4 September 1912. Generally, Muslim Albanians fought against the Ottomans then governed by the Committee of Union and Progress. The Albanian revolt was supported by Kingdom of Serbia, which sought to exploit the revolt in order to weaken the Ottoman Empire. Serbia played an important role in aiding the rebels, both military and financially."
+    ]
+   },
+   "records": [
+    "Q1280245"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Albanian–Venetian War": {
+   "headline": "Albansko-beneška vojna",
+   "paragraphs": [
+    "Albansko-beneška vojna v letih 1447–1448 (albansko: Lufta Shqiptaro-Veneciane) je bila vojna, v kateri so se beneške in osmanske sile bojevale proti Albancem pod vodstvom Gjergja Kastriotija Skenderbega. Vojna je bila posledica spora med Beneško republiko in rodbino Dukagjini o posesti trdnjave Dagnum. Skenderbeg, tedaj zaveznik Dukagjinijev, se je odpravil nad več beneških mest na albanski obali, da bi Benečane prisilil k vrnitvi Dagnuma. Republika je v odgovor poslala krajevne sile na pomoč oblegani trdnjavi Dagnum in Osmansko cesarstvo pozvala, naj v Albanijo pošlje odpravo. Osmani so tedaj že oblegali trdnjavo Svetigrad, kar je Skenderbegove sile še bolj razpršilo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Albanian–Venetian War",
+    "rev": 1378465137,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Albanian–Venetian War of 1447–48 (Albanian: Lufta Shqiptaro-Veneciane) was waged between Venetian and Ottoman forces against the Albanians under George Kastrioti Skanderbeg. The war was the result of a dispute between the Republic of Venice and the Dukagjini family over the possession of the Dagnum fortress. Skanderbeg, then ally of the Dukagjini family, moved against several Venetian held towns along the Albanian coastline, in order to pressure the Venetians into restoring Dagnum. In response, the Republic sent a local force to relieve the besieged fortress of Dagnum, and urged the Ottoman Empire to send an expeditionary force into Albania. At that time the Ottomans were already besieging the fortress of Svetigrad, stretching Skanderbeg's efforts thin."
+    ]
+   },
+   "records": [
+    "Q60489"
+   ],
+   "translated": "2026-10-24"
   },
   "Alvor Agreement": {
    "headline": "Sporazum iz Alvorja",
@@ -544,6 +761,29 @@
    ],
    "translated": "2026-10-24"
   },
+  "April Uprising of 1876": {
+   "headline": "Aprilska vstaja",
+   "paragraphs": [
+    "Aprilska vstaja (bolgarsko: Априлско въстание) je bila vstaja, ki so jo Bolgari v Osmanskem cesarstvu organizirali aprila in maja 1876. Zatrle so jo neregularne osmanske enote bašibozukov, ki so brez razlikovanja pobijale upornike in civiliste (gl. pokol v Bataku).",
+    "Ameriška skupnost okoli Robert Collegea v Carigradu, protestantski misijon v Plovdivu pod vodstvom J. F. Clarka ter še dva Američana, novinar Januarius MacGahan in diplomat Eugene Schuyler, so imeli nepogrešljivo vlogo pri tem, da je za osmanska grozodejstva izvedela širša evropska javnost.",
+    "Njihova poročila o dogodkih, ki jih je tisk poimenoval bolgarske grozote in zločin stoletja, so po vsej Evropi sprožila val ogorčenja ter tako preproste ljudi kot slavne izobražence spodbudila, da so zahtevali reformo neuspešnega osmanskega načina upravljanja bolgarskih dežel."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "April Uprising of 1876",
+    "rev": 1381411553,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The April Uprising (Bulgarian: Априлско въстание, romanized: Aprilsko vastanie) was an insurrection organised by the Bulgarians in the Ottoman Empire from April to May 1876. The rebellion was suppressed by irregular Ottoman bashi-bazouk units that engaged in indiscriminate slaughter of both rebels and non-combatants (see Batak massacre).",
+     "The American community around Robert College in Istanbul, the Protestant mission in Plovdiv headed by J.F. Clarke as well as two other Americans, journalist Januarius MacGahan and diplomat Eugene Schuyler, were indispensable in bringing knowledge of Ottoman atrocities to the wider European public.",
+     "Their reports of the events, which came to be known in the press as the Bulgarian Horrors and the Crime of the Century, caused a public outcry across Europe and mobilised both common folks and famous intellectuals to demand a reform of the failed Ottoman model of governance of the Bulgarian lands."
+    ]
+   },
+   "records": [
+    "Q622059"
+   ],
+   "translated": "2026-10-24"
+  },
   "Arab raid against Rome": {
    "headline": "Arabski napad na Rim",
    "paragraphs": [
@@ -616,6 +856,25 @@
    },
    "records": [
     "Q792386"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Armistice of Mudros": {
+   "headline": "Premirje v Mudrosu",
+   "paragraphs": [
+    "Premirje v Mudrosu (osmansko turško: موندروس متارکه‌نامه‌سی; turško: Mondros Mütarekesi) je končalo sovražnosti na bližnjevzhodnem bojišču med Osmanskim cesarstvom in zavezniki v prvi svetovni vojni. Podpisala sta ga 30. oktobra 1918 osmanski minister za mornarico Rauf Orbay in britanski admiral Somerset Arthur Gough-Calthorpe, vrhovni poveljnik britanske sredozemske flote, na krovu ladje HMS Agamemnon (1906) v pristanišču Mudros na grškem otoku Lemnos. Veljati je začelo naslednji dan opoldne. Miza, na kateri so ga podpisali, je zdaj na krovu ladje HMS Belfast ob London Bridgeu, vendar javnosti ni dostopna."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Armistice of Mudros",
+    "rev": 1380942875,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Armistice of Mudros (Ottoman Turkish: موندروس متارکه‌نامه‌سی; Turkish: Mondros Mütarekesi) ended hostilities in the Middle Eastern theatre between Ottoman Empire and the Allies of World War I. It was signed on 30 October 1918 by the Ottoman Minister of Marine Affairs Rauf Orbay and British Admiral Somerset Arthur Gough-Calthorpe, Commander-in-Chief of the British Mediterranean Fleet, on board HMS Agamemnon (1906) in Moudros harbor on the Greek island of Lemnos. It took effect at noon the next day. The table it was signed on is now on board HMS Belfast in London Bridge, though it is not accessible to the public."
+    ]
+   },
+   "records": [
+    "Q328499"
    ],
    "translated": "2026-10-24"
   },
@@ -13520,6 +13779,24 @@
    ],
    "translated": "2026-10-23"
   },
+  "Catalan Company": {
+   "paragraphs": [
+    "Katalonska kompanija ali Velika katalonska kompanija (katalonsko: Gran Companyia Catalana; Societas exercitus catalanorum, Societas cathalanorum ali Magna Societas Catalanorum) je bila najemniška četa, ki jo je v začetku 14. stoletja vodil Roger de Flor in jo je bizantinski cesar Andronik II. Paleolog najel za boj proti vse močnejšim anatolskim bejlikom. Sestavljali so jo almogavarski veterani vojne sicilskih večernic, ki so ostali brez dela, ko sta aragonska krona in francoska dinastija Anžuvincev leta 1302 sklenili mir v Caltabellotti."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Catalan Company",
+    "rev": 1379256857,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Catalan Company or the Great Catalan Company (Catalan: Gran Companyia Catalana; Societas exercitus catalanorum, Societas cathalanorum, or Magna Societas Catalanorum) was a company of mercenaries led by Roger de Flor in the early 14th century and hired by Byzantine Emperor Andronikos II Palaiologos to combat the increasing power of the Anatolian beyliks. It was formed by almogavar veterans of the War of the Sicilian Vespers, who had remained unemployed after the signing in 1302 of the Peace of Caltabellotta between the Crown of Aragon and the French dynasty of the Angevins."
+    ]
+   },
+   "records": [
+    "catalan-company"
+   ],
+   "translated": "2026-10-24"
+  },
   "Catalonia Offensive": {
    "headline": "Katalonska ofenziva",
    "paragraphs": [
@@ -14317,6 +14594,27 @@
    ],
    "translated": "2026-10-23"
   },
+  "County Palatine of Cephalonia and Zakynthos": {
+   "headline": "Palatinska grofija Kefalonija in Zakintos",
+   "paragraphs": [
+    "Palatinska grofija Kefalonija in Zakintos je od leta 1185 do 1479 obstajala kot del Kraljevine Sicilije. Naslov in pravico do vladanja jonskima otokoma Kefaloniji in Zakintosu je leta 1185 dobil Margarit iz Brindisija za zasluge pri sicilskem kralju Viljemu II.",
+    "Za Margaritom je grofija prešla na vejo rodbine Orsini, ki jo je imela do leta 1325, ko je za kratek čas pripadla Anžuvincem, od leta 1357 pa rodbini Tocco. Toccovi so grofijo uporabili kot odskočno desko za pridobivanje ozemelj na grški celini in leta 1411 prevzeli nadzor nad Epirskim despotatom. Ko so napredovali osmanski Turki, so celinska ozemlja drugo za drugim izgubili in spet jim je ostala le palatinska grofija, ki so jo držali do leta 1479, ko so si jo razdelili Benetke in Osmani. Zakintos je prišel pod neposredno beneško oblast."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "County Palatine of Cephalonia and Zakynthos",
+    "rev": 1371415829,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The County Palatine of Cephalonia and Zakynthos existed from 1185 to 1479 as part of the Kingdom of Sicily. The title and the right to rule the Ionian islands of Cephalonia and Zakynthos was originally given to Margaritus of Brindisi for his services to William II, King of Sicily, in 1185.",
+     "Following Margaritus, the county passed on to a branch of the Orsini family until 1325, when it passed briefly to Angevins and then, from 1357, to the Tocco family. The Tocco used the county as a springboard for their acquisition of lands in the Greek mainland, and were successful in gaining control over the Despotate of Epirus in 1411. However, facing the advance of the Ottoman Turks they successively lost their mainland territories and were once again reduced to the County Palatine, which they held until 1479, when it was divided between Venice and the Ottomans. Zakynthos was put under the direct rule of Venice."
+    ]
+   },
+   "records": [
+    "house-of-tocco"
+   ],
+   "translated": "2026-10-24"
+  },
   "Coup of 18 Brumaire": {
    "paragraphs": [
     "Državni udar 18. brumaira (francosko: Coup d'État du 18 Brumaire) je Napoleona Bonaparta pripeljal na oblast kot prvega konzula prve francoske republike. Po mnenju večine zgodovinarjev je končal francosko revolucijo in kmalu privedel do Napoleonovega kronanja za cesarja Francozov. Nekrvavi državni udar je strmoglavil direktorij in ga nadomestil s francoskim konzulatom. Zgodil se je 9. novembra 1799, kar je bil po kratkotrajnem francoskem republikanskem koledarju 18. brumaire leta VIII."
@@ -14356,6 +14654,24 @@
     "Q248033"
    ],
    "translated": "2026-10-23"
+  },
+  "Cretan State": {
+   "paragraphs": [
+    "Kretska država (grško: Κρητική Πολιτεία; osmansko turško: كرید دولتی) je bila avtonomna država, ki je od leta 1898 do 1913 upravljala otok Kreto: de iure je bila pod nadoblastjo Osmanskega cesarstva, de facto pa neodvisna, kar so ji zagotovile evropske velesile. Leta 1897 je kretski upor Osmansko cesarstvo pripeljal do vojne napovedi Grčiji, zato so posredovali Združeno kraljestvo, Francija, Italija in Rusija z utemeljitvijo, da Osmansko cesarstvo ne more več ohranjati nadzora. Kretska država je bila uvod v dokončno priključitev otoka Kraljevini Grčiji, ki je bila de facto izvedena leta 1908, de iure pa leta 1913 po prvi balkanski vojni."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Cretan State",
+    "rev": 1344245864,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Cretan State (Greek: Κρητική Πολιτεία, romanized: Kritiki Politeia; Ottoman Turkish: كرید دولتی, romanized: Girid Devleti) was an autonomous state governing the island of Crete from 1898 to 1913, under de jure suzerainty of the Ottoman Empire but with de facto independence secured by European Great Powers. In 1897, the Cretan Revolt led the Ottoman Empire to declare war on Greece, which led the United Kingdom, France, Italy and Russia to intervene on the grounds that the Ottoman Empire could no longer maintain control. The Cretan State was the prelude to the island's final annexation to the Kingdom of Greece, which occurred de facto in 1908 and de jure in 1913 after the First Balkan War."
+    ]
+   },
+   "records": [
+    "cretan-state"
+   ],
+   "translated": "2026-10-24"
   },
   "Crossing the Rubicon": {
    "paragraphs": [
@@ -14513,6 +14829,49 @@
     "norway-denmark"
    ],
    "translated": "2026-10-23"
+  },
+  "Despotate of Arta": {
+   "headline": "Artski despotat",
+   "paragraphs": [
+    "Artski despotat (albansko: Despotati i Artës; grško: Δεσποτάτο της Άρτας) je bil despotat, ki so ga v 14. stoletju ustanovili albanski vladarji, potem ko so albanski plemenski bojevniki leta 1359 v bitki pri Aheloju premagali krajevnega epirskega despota Nikeforja II. Orsinija. Despotat je prenehal obstajati leta 1416, ko je prešel v roke Carla I. Tocca."
+   ],
+   "notes": [
+    "This Battle of Achelous (1359) is not the battle of 917 that the glossary names Bitka pri Aheloju; lowercase in running text."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Despotate of Arta",
+    "rev": 1373504803,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Despotate of Arta (Albanian: Despotati i Artës; Greek: Δεσποτάτο της Άρτας) was a despotate established by Albanian rulers during the 14th century, after the defeat of the local Despot of Epirus, Nikephoros II Orsini, by Albanian tribesmen in the Battle of Achelous in 1359. The Despotate ceased to exist in 1416, when it passed to Carlo I Tocco."
+    ]
+   },
+   "records": [
+    "despotate-of-arta"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Despotate of Dobruja": {
+   "headline": "Dobrudžanski despotat",
+   "paragraphs": [
+    "Dobrudžanski despotat ali Kneževina Karvuna (bolgarsko: Добруджанско деспотство ali Карвунско княжество; romunsko: Despotatul Dobrogei ali Țara Cărvunei) je bil v 14. stoletju napol neodvisna bolgarska država na območju današnje Dobrudže, ki se je pod vplivom Bizantinskega cesarstva odcepila od Drugega bolgarskega cesarstva. Obstajal je od leta 1356 do 1411.",
+    "Ime kneževine izhaja iz trdnjave Karvuna (današnji Balčik, ki ga ne gre zamenjevati s Karnavo oziroma Kavarno), ki jo bolgarski in bizantinski dokumenti ter italijanski portolani iz 14. stoletja omenjajo kot prvo prestolnico; stala je med Varno in rtom Kaliakra."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Despotate of Dobruja",
+    "rev": 1357824370,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Despotate of Dobruja or Principality of Karvuna (Bulgarian: Добруджанско деспотство or Карвунско княжество; Romanian: Despotatul Dobrogei or Țara Cărvunei) was a 14th-century quasi-independent Bulgarian polity in the region of modern Dobruja, that split off from the Second Bulgarian Empire under the influence of the Byzantine Empire. The Despotate of Dobruja existed from 1356 to 1411.",
+     "The principality's name is derived from the fortress of Karvuna (present-day Balchik, not to be confused with Karnava/Kavarna), mentioned in Bulgarian and Byzantine documents and Italian portolans of the 14th century as its first capital, and located between Varna and Cape Kaliakra."
+    ]
+   },
+   "records": [
+    "despotate-of-dobruja"
+   ],
+   "translated": "2026-10-24"
   },
   "Donation of Pepin": {
    "headline": "Pipinova darovnica",
@@ -15029,6 +15388,25 @@
    ],
    "translated": "2026-10-24"
   },
+  "Duchy of Saint Sava": {
+   "headline": "Vojvodina svetega Save",
+   "paragraphs": [
+    "Vojvodina svetega Save (srbohrvaško: Vojvodstvo Svetog Save / Војводство Светог Саве) je bila poznosrednjeveška država v jugovzhodni Evropi, ki je obstajala od leta 1448 do 1482, ko jo je priključilo Osmansko cesarstvo. Ustanovila in nadzorovala jo je plemiška rodbina Kosača, katere vladarji so nosili naslov vojvoda svetega Save (srbohrvaško: Vojvoda Svetog Save / Војвода Светог Саве). Njihova posest je obsegala južne dele današnje Bosne in Hercegovine ter segala do južnih delov današnje obalne Hrvaške, severozahodne Črne gore in jugozahodne Srbije. Ustanovitelj Stjepan Vukčić Kosača (vojvoda od leta 1448) se je imenoval herceg svetega Save. Iz tega naslova je pozneje nastalo novo ime pokrajine, Hercegovina, Osmani pa so ga uporabili v imenu Hersek Sancağı (Hercegov sandžak), kakor so imenovali Hercegovinski sandžak."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Duchy of Saint Sava",
+    "rev": 1377532927,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Duchy of Saint Sava (Serbo-Croatian: Vojvodstvo Svetog Save / Војводство Светог Саве) was a late medieval polity in southeastern Europe, that existed from 1448 up to 1482, when it was absorbed by the Ottoman Empire. It was founded and controlled by the Kosača noble family, whose rulers held the title Duke of Saint Sava (Serbo-Croatian: Vojvoda Svetog Save / Војвода Светог Саве). Their domains included southern parts of modern-day Bosnia and Herzegovina, extending to southern parts of modern-day coastal Croatia, northwestern Montenegro and southwestern Serbia. Its founder, Stjepan Vukčić Kosača (duke since 1448), titled himself Herceg of Saint Sava, a title which would later give rise to the new name to the region: Herzegovina, and will be also used by the Ottomans as Hersek Sancağı (Sanjak of the Herzeg), designating the Sanjak of Herzegovina."
+    ]
+   },
+   "records": [
+    "duchy-of-saint-sava"
+   ],
+   "translated": "2026-10-24"
+  },
   "Duchy of Sandomierz": {
    "headline": "Vojvodina Sandomierz",
    "paragraphs": [
@@ -15327,6 +15705,25 @@
    },
    "records": [
     "Q1187701"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Empire of Thessalonica": {
+   "headline": "Solunsko cesarstvo",
+   "paragraphs": [
+    "Solunsko cesarstvo je zgodovinopisni izraz, s katerim nekateri sodobni raziskovalci označujejo kratkotrajno grško državo s središčem v Solunu med letoma 1224 in 1246 (v ožjem pomenu do leta 1242), ki ji je vladala dinastija Komnen Duka iz Epirskega despotata. Ob nastanku, v času boja za Carigrad, je Solunsko cesarstvo pod sposobnim Teodorjem Komnenom Duko tekmovalo z Nikejskim cesarstvom in Drugim bolgarskim cesarstvom za položaj najmočnejše države v regiji ter si prizadevalo zavzeti Carigrad, odpraviti Latinsko cesarstvo in obnoviti Bizantinsko cesarstvo, ki je leta 1204 propadlo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Empire of Thessalonica",
+    "rev": 1374589209,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Empire of Thessalonica is a historiographic term used by some modern scholars to refer to the short-lived Greek state centred on the city of Thessalonica between 1224 and 1246 (sensu stricto until 1242) and ruled by the Komnenodoukas dynasty of the Despotate of Epirus. At the time of its establishment during the struggle for Constantinople, the Empire of Thessalonica, under the capable Theodore Komnenos Doukas, rivaled the Empire of Nicaea and the Second Bulgarian Empire as the strongest state in the region, and aspired to capturing Constantinople, putting an end to the Latin Empire, and restoring the Byzantine Empire that had been extinguished in 1204."
+    ]
+   },
+   "records": [
+    "empire-of-thessalonica"
    ],
    "translated": "2026-10-24"
   },
@@ -15839,6 +16236,26 @@
    },
    "records": [
     "Q610272"
+   ],
+   "translated": "2026-10-24"
+  },
+  "First Hellenic Republic": {
+   "paragraphs": [
+    "Prva helenska republika (grško: Α΄ Ελληνική Δημοκρατία) je bila začasna grška država med grško revolucijo proti Osmanskemu cesarstvu. Od leta 1822 do 1827 se je imenovala Začasna uprava Grčije, med letoma 1827 in 1832 pa Helenska država.",
+    "»Prva helenska republika« je zgodovinopisni izraz, ki ga uporabljajo akademiki in grška vlada, da bi poudarili ustavno in demokratično naravo revolucionarne oblasti pred ustanovitvijo neodvisne Kraljevine Grčije in to obdobje grške zgodovine povezali s poznejšo drugo in tretjo republiko."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "First Hellenic Republic",
+    "rev": 1381415848,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The First Hellenic Republic (Greek: Α΄ Ελληνική Δημοκρατία) was the provisional Greek state during the Greek Revolution against the Ottoman Empire. From 1822 until 1827, it was known as the Provisional Administration of Greece, and between 1827 and 1832, it was known as the Hellenic State.",
+     "\"First Hellenic Republic\" is a historiographical term, which is used by academics and the Greek government to emphasize the constitutional and democratic nature of the revolutionary regime prior to the establishment of the independent Kingdom of Greece, and associate this period of Greek history with the later Second and Third Republics."
+    ]
+   },
+   "records": [
+    "first-hellenic-republic"
    ],
    "translated": "2026-10-24"
   },
@@ -16653,6 +17070,31 @@
    ],
    "translated": "2026-10-24"
   },
+  "Gothia": {
+   "paragraphs": [
+    "Gotija lahko pomeni:",
+    "Gotija (rimska provinca), rimska provinca iz 4. stoletja na območju današnje Romunije;",
+    "Götaland, pokrajina na jugu Švedske."
+   ],
+   "notes": [
+    "The record links to a disambiguation page; translated as the list it is."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Gothia",
+    "rev": 1278264371,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "Gothia may refer to:",
+     "Gothia (Roman province), a fourth century Roman province in present-day Romania",
+     "Götaland, a region in southern Sweden"
+    ]
+   },
+   "records": [
+    "gothia"
+   ],
+   "translated": "2026-10-24"
+  },
   "Gothic War (401–403)": {
    "headline": "Gotska vojna (401–403)",
    "paragraphs": [
@@ -16847,6 +17289,26 @@
    },
    "records": [
     "Q698027"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Greek junta": {
+   "paragraphs": [
+    "Grška vojaška hunta ali režim polkovnikov je bila desničarska vojaška hunta, ki je Grčiji vladala od leta 1967 do 1974. Skupina polkovnikov je 21. aprila 1967 strmoglavila začasno vlado, mesec dni pred napovedanimi volitvami, na katerih je bila favoritinja Zveza sredine Georgiosa Papandreua.",
+    "Za diktaturo so bili značilni protikomunizem, omejevanje državljanskih svoboščin ter zapiranje, mučenje in izgon političnih nasprotnikov. Od leta 1967 do 1973 ji je vladal Georgios Papadopulos. Njegov poskus, da bi z referendumom o monarhiji leta 1973 in postopno demokratizacijo znova pridobil podporo ljudstva, je končal nov državni udar zagovornika trde linije Dimitriosa Joanidisa. Joanidis je vladal, dokler hunta 24. julija 1974 pod pritiskom turške invazije na Ciper ni padla; sledila je metapolitefsi (grško: Μεταπολίτευση, dobesedno »sprememba režima«), prehod v demokracijo in ustanovitev tretje helenske republike."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Greek junta",
+    "rev": 1381311538,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Greek junta or Regime of the Colonels was a right-wing military junta that ruled Greece from 1967 to 1974. On 21 April 1967, a group of colonels overthrew a caretaker government a month before scheduled elections which Georgios Papandreou's Centre Union was favoured to win.",
+     "The dictatorship was characterised by policies such as anti-communism, restrictions on civil liberties, and the imprisonment, torture, and exile of political opponents. It was ruled by Georgios Papadopoulos from 1967 to 1973, but an attempt to renew popular support in a 1973 referendum on the monarchy and gradual democratisation by Papadopoulos was ended by another coup by the hardliner Dimitrios Ioannidis. Ioannidis ruled until it fell on 24 July 1974 under the pressure of the Turkish invasion of Cyprus, leading to the Metapolitefsi (Greek: Μεταπολίτευση, lit. 'regime change') to democracy and the establishment of the Third Hellenic Republic."
+    ]
+   },
+   "records": [
+    "greek-junta"
    ],
    "translated": "2026-10-24"
   },
@@ -17131,6 +17593,24 @@
     "hwicce"
    ],
    "translated": "2026-10-23"
+  },
+  "Illyrian kingdom": {
+   "paragraphs": [
+    "Ilirsko kraljestvo je bilo ilirska politična tvorba, ki je v antiki obstajala v zahodnem delu Balkanskega polotoka. Ne glede na število dinastij, ki so se izmenjevale na oblasti, na njihovo plemensko pripadnost in na dejanski obseg kraljestva je šlo za zavezništvo ilirskih plemen, združenih pod oblastjo enega vladarja, ki ga antični zgodovinski viri (v stari grščini ali latinščini) izrecno imenujejo »kralj Ilirov«. Monarhična nadgradnja ilirske države je obstajala hkrati z ilirskimi plemenskimi skupnostmi in republikansko ureditvijo ilirskih koinonov."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Illyrian kingdom",
+    "rev": 1381533894,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Illyrian kingdom was an Illyrian political entity that existed on the western part of the Balkan Peninsula in ancient times. Regardless of the number of the alternately ruling dynasties, of their tribal affiliation, and of the actual extension of their kingdom, it represented an alliance of Illyrian tribes that united under the rulership of a single leader, expressly referred to as \"King of the Illyrians\" in ancient historical records (whether in Ancient Greek or in Latin). The monarchic superstructure of the Illyrian state coexisted with the Illyrian tribal communities and the republican system of the Illyrian koina."
+    ]
+   },
+   "records": [
+    "illyrian-kingdom"
+   ],
+   "translated": "2026-10-24"
   },
   "International Plant Protection Convention": {
    "paragraphs": [
@@ -17946,6 +18426,24 @@
    },
    "records": [
     "kingdom-of-prussia"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Kingdom of Romania": {
+   "paragraphs": [
+    "Kraljevina Romunija (romunsko: Regatul României) je bila ustavna monarhija, ki je obstajala od 25. marca [13. marca po starem koledarju] 1881, ko je bil knez Karl Hohenzollern-Sigmaringenški kronan za kralja Karla I. (s tem se je začela romunska kraljeva rodbina), do 30. decembra 1947, ko je kralj Mihael I. abdiciral in je romunski parlament razglasil Romunsko ljudsko republiko."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Romania",
+    "rev": 1378069216,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Kingdom of Romania (Romanian: Regatul României) was a constitutional monarchy that existed from 25 March [O.S. 13 March] 1881 with the crowning of prince Karl of Hohenzollern-Sigmaringen as King Carol I (thus beginning the Romanian royal family), until 30 December 1947 with the abdication of King Michael I and the Romanian Parliament proclamation of the Romanian People's Republic."
+    ]
+   },
+   "records": [
+    "kingdom-of-romania"
    ],
    "translated": "2026-10-24"
   },
@@ -19411,6 +19909,47 @@
    ],
    "translated": "2026-10-23"
   },
+  "People's Republic of Bulgaria": {
+   "paragraphs": [
+    "Ljudska republika Bolgarija (LRB; bolgarsko: Народна република България, НРБ) je bila bolgarska država, ki je obstajala od leta 1946 do 1990 in ji je vladala Bolgarska komunistična partija (BKP; bolgarsko: Българска комунистическа партия (БКП)) skupaj s koalicijsko partnerico, Bolgarsko kmečko ljudsko zvezo. Med hladno vojno je bila Bolgarija tesna zaveznica in ena najzvestejših satelitskih držav Sovjetske zveze; včasih so jo imenovali »16. sovjetska republika« in ne neodvisna država. Bila je tudi članica Sveta za medsebojno ekonomsko pomoč in Varšavskega pakta. Bolgarsko odporniško gibanje je med drugo svetovno vojno z bolgarskim državnim udarom leta 1944 odstavilo upravo Carstva Bolgarija, kar je končalo zavezništvo države s silami osi in leta 1946 pripeljalo do ljudske republike."
+   ],
+   "notes": [
+    "The romanization and the IPA pronunciation of the Bulgarian name are left out; the Cyrillic stays."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "People's Republic of Bulgaria",
+    "rev": 1378834848,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The People's Republic of Bulgaria (PRB; Bulgarian: Народна република България, НРБ, romanized: Narodna republika Bŭlgariya, NRB; pronounced [nɐˈrɔdnɐ rɛˈpublikɐ bɐɫˈɡarijɐ]) was the Bulgarian state that existed from 1946 to 1990, ruled by the Bulgarian Communist Party (BCP; Bulgarian: Българска комунистическа партия (БКП)) together with its coalition partner, the Bulgarian Agrarian People's Union. Bulgaria was a close ally and one of the most loyal satellite states of the Soviet Union during the Cold War, sometimes being called the 16th Soviet Republic rather than an independent country. Bulgaria was also part of Comecon as well as a member of the Warsaw Pact. The Bulgarian resistance movement during World War II deposed the Tsardom of Bulgaria administration in the Bulgarian coup d'état of 1944 which ended the country's alliance with the Axis powers and led to the People's Republic in 1946."
+    ]
+   },
+   "records": [
+    "people-s-republic-of-bulgaria"
+   ],
+   "translated": "2026-10-24"
+  },
+  "People's Socialist Republic of Albania": {
+   "paragraphs": [
+    "Ljudska socialistična republika Albanija (albansko: Republika Popullore Socialiste e Shqipërisë) je bila komunistična država, ki je v Albaniji obstajala od 11. januarja 1946 do 29. aprila 1991. Od leta 1946 do 1976 se je imenovala Ljudska republika Albanija. Vladala ji je Albanska partija dela (PPSh), ki je imela v ustavi zapisan monopol nad državno oblastjo.",
+    "PPSh je ta monopol uveljavljala z nadzorom nad državo in drugimi množičnimi organizacijami ter nad najvišjim organom državne oblasti v Albaniji, Ljudsko skupščino."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "People's Socialist Republic of Albania",
+    "rev": 1380789136,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The People's Socialist Republic of Albania (Albanian: Republika Popullore Socialiste e Shqipërisë) was the communist state that existed in Albania from 11 January 1946 to 29 April 1991. Originally founded as the People's Republic of Albania from 1946 to 1976, it was governed by the Party of Labour of Albania (PPSh), which had a constitutionally enshrined monopoly on state power.",
+     "The PPSh enforced its monopoly on state power by controlling the state and other mass organizations, and by controlling Albania's supreme organ of state power, the People's Assembly."
+    ]
+   },
+   "records": [
+    "people-s-socialist-republic-of-albania"
+   ],
+   "translated": "2026-10-24"
+  },
   "Pilgrimage of Grace": {
    "paragraphs": [
     "Romanje Milosti je bilo angleški katoliški ljudski upor, ki se je začel oktobra 1536 v Yorkshiru in se nato razširil na druge dele severne Anglije, med njimi Cumberland, Northumberland, Durham in severni Lancashire. Protesti so potekali pod vodstvom Roberta Aska. Romanje, »najresnejši od vseh uporov tudorskega obdobja«, je bilo upor proti razkolu kralja Henrika VIII. s katoliško Cerkvijo, razpustitvi manjših samostanov in politiki kraljevega prvega ministra Thomasa Cromwella ter drugim posebnim političnim, družbenim in gospodarskim težavam.",
@@ -19679,6 +20218,31 @@
    ],
    "translated": "2026-10-24"
   },
+  "Principality of Halych": {
+   "paragraphs": [
+    "Kneževina Halič ali Galicija (ukrajinsko: Галицьке князівство; staro vzhodnoslovansko: Галицкоє кънѧжьство), znana tudi kot Kneževina hališke Rusije, je bila srednjeveška vzhodnoslovanska kneževina in ena glavnih regionalnih držav v političnem okviru Kijevske Rusije. Ustanovili so jo pripadniki starejše veje potomcev Jaroslava Modrega.",
+    "Posebnost kneževine je bila pomembna vloga plemstva in meščanov v političnem življenju, saj je bila knežja oblast v veliki meri odvisna od njihovega soglasja. Prestolnica Halič se prvič omenja okoli leta 1124 kot sedež Ivana Vasilkoviča, vnuka Rostislava Tmutarakanskega.",
+    "Mihajlo Hruševski navaja, da je posest Halič po smrti svojega očeta Vladimirja Jaroslaviča podedoval Rostislav. Toda stric ga je pozneje izgnal in Rostislav se je umaknil v Tmutarakan. Ozemlje je nato prešlo na Jaropolka Izjaslaviča, sina kijevskega velikega kneza Izjaslava I."
+   ],
+   "notes": [
+    "The English opens with Principality of Galicia; the Slovenian leads with the glossary name Kneževina Halič and gives Galicija as the alternative. The romanizations are left out."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Principality of Galicia",
+    "rev": 1379551274,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Principality of Galicia (Ukrainian: Галицьке князівство, romanized: Halytske kniazivstvo; Old East Slavic: Галицкоє кънѧжьство, romanized: Galickoje kǔnęžǐstvo), also known as the Principality of Halych or Principality of Halychian Rus', was a medieval East Slavic principality and one of the main regional states within the political framework of Kievan Rus'. It was established by members of the senior line of the descendants of Yaroslav the Wise.",
+     "A distinctive feature of the principality was the significant role of the nobility and townspeople in political life, with princely rule depending largely on their consent. Halych, the capital, was first mentioned around 1124 as the seat of Ivan Vasylkovych, grandson of Rostislav of Tmutarakan.",
+     "According to Mykhailo Hrushevsky, the domain of Halych was inherited by Rostyslav after the death of his father, Vladimir Yaroslavich. However, Rostyslav was later expelled by his uncle and moved to Tmutarakan. The territory was subsequently transferred to Yaropolk Iziaslavich, son of the Grand Prince Iziaslav I of Kiev."
+    ]
+   },
+   "records": [
+    "principality-of-halych"
+   ],
+   "translated": "2026-10-24"
+  },
   "Principality of Lippe": {
    "paragraphs": [
     "Kneževina Lippe (pozneje Lippe-Detmold in nato znova Lippe) je bila država v Nemčiji, ki ji je vladala rodbina Lippe. Ležala je med reko Weser in jugovzhodnim delom Teutoburškega gozda. Kot država je nastala v času Svetega rimskega cesarstva, leta 1789 pa je bila povzdignjena v kneževino. V tem obdobju se je vladajoča rodbina razcepila na več vej, glavna veja pa je imela sedež v Detmoldu. Med reformacijo je kneževina leta 1538 prestopila v luteranstvo, leta 1604 pa v kalvinizem.",
@@ -19756,6 +20320,44 @@
    },
    "records": [
     "principality-of-salerno"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Principality of Terebovlia": {
+   "headline": "Kneževina Terebovlja",
+   "paragraphs": [
+    "Kneževina Terebovlja (ukrajinsko: Теребовлянське князівство) je bila kneževina Kijevske Rusije, ustanovljena okoli leta 1084 kot apanaža, ki jo je dobil Vasilko Rostislavič."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Principality of Terebovlia",
+    "rev": 1358611667,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Principality of Terebovlia (Ukrainian: Теребовлянське князівство) was a principality of Kievan Rus' established as an appanage around the year 1084 and given to Vasylko Rostyslavych."
+    ]
+   },
+   "records": [
+    "principality-of-terebovlia"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Principality of Valona": {
+   "headline": "Kneževina Valona",
+   "paragraphs": [
+    "Kneževina Valona in Kanina, znana tudi kot Despotat Valona in Kanina, Kneževina Valona ali Kneževina Vlorë (1346–1417), je bila srednjeveška kneževina v Albaniji, ki je približno obsegala ozemlje današnjih okrožij Vlorë (Valona), Fier in Berat. Sprva je bila vazalna država Srbskega cesarstva, po letu 1355 pa je postala neodvisno gospostvo, čeprav de facto pod beneškim vplivom, in je tako ostala, dokler je leta 1417 niso osvojili osmanski Turki."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Principality of Valona",
+    "rev": 1379568761,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Principality of Valona and Kanina, also known as the Despotate of Valona and Kanina, Principality of Valona or Principality of Vlorë (1346–1417) was a medieval principality in Albania, roughly encompassing the territories of the modern counties of Vlorë (Valona), Fier, and Berat. Initially a vassal of the Serbian Empire, it became an independent lordship after 1355, although de facto under Venetian influence, and remained as such until it was conquered by the Ottoman Turks in 1417.‎"
+    ]
+   },
+   "records": [
+    "principality-of-valona-and-kanina"
    ],
    "translated": "2026-10-24"
   },
@@ -20433,6 +21035,25 @@
    ],
    "translated": "2026-10-23"
   },
+  "Second Athenian League": {
+   "headline": "Druga atenska zveza",
+   "paragraphs": [
+    "Druga atenska zveza je bila pomorska konfederacija grških mestnih držav, ki je od leta 378 do 355 pr. n. št. obstajala pod atensko hegemonijo. Včasih jo imenujejo tudi drugo atensko cesarstvo, čeprav je delovala kot konfederacija. Simahija je deloma obnovila Delsko zvezo, ki so jo razpustili leta 404 pr. n. št. po porazu Aten v peloponeški vojni. Nova zveza je imela središče v Egejskem morju in je vključevala več kot 60 držav, med njimi Kos, Mitileno, Rodos in Bizantion. Nastala je predvsem kot obrambno zavezništvo proti Šparti, v drugi vrsti pa proti Perzijskemu cesarstvu. Njen glavni cilj je bil ohraniti mir v Grčiji in uravnotežiti vse večjo hegemonijo in napadalnost Šparte. Zveza je v veliki meri obnovila atenski vpliv v grškem svetu in Atene znova postavila za najmočnejšo pomorsko silo vzhodnega Sredozemlja. Tokrat so se Atene zavestno izogibale strogim pogojem, zaradi katerih je prejšnja Delska zveza sčasoma postala nepriljubljena. Zavezništvo je trajalo do leta 355 pr. n. št., ko se je po zavezniški vojni, ki je izbruhnila leta 357 pr. n. št., večina zavezniških mest osamosvojila."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Second Athenian League",
+    "rev": 1362945743,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Second Athenian League was a maritime confederation of Greek city-states that existed from 378 to 355 BC under the hegemony of Athens. It is sometimes referenced as the second Athenian Empire, despite operating as a confederation. The symmachia represented a partial revival of the Delian League, which had been disbanded in 404 BC following the defeat of Athens in the Peloponnesian War. The new League was centered in the Aegean and included over 60 states, among which were Kos, Mytilene, Rhodes, and Byzantium. It was primarily formed as a defensive alliance against Sparta and secondly the Persian Empire. The new League's main objective was to preserve peace in Greece and counterbalance Sparta's growing hegemony and aggression. The League largely revived Athenian influence in the Greek world, reestablishing it as the strongest naval power in the eastern Mediterranean. This time, Athens made conscious efforts to avoid the strict terms that had eventually rendered the previous Delian League unpopular. The alliance lasted until 355 BC, when most of the allied cities became independent following the Social War that broke out in 357 BC."
+    ]
+   },
+   "records": [
+    "second-athenian-league"
+   ],
+   "translated": "2026-10-24"
+  },
   "Second Battle of Artois": {
    "headline": "Druga bitka v Artoisu",
    "paragraphs": [
@@ -20942,6 +21563,25 @@
     "kingdom-of-seisyllwg"
    ],
    "translated": "2026-10-23"
+  },
+  "Septinsular Republic": {
+   "headline": "Republika sedmih otokov",
+   "paragraphs": [
+    "Republika sedmih otokov (grško: Ἑπτάνησος Πολιτεία; italijansko: Repubblica Settinsulare), znana tudi kot Republika sedmih združenih otokov, je bila oligarhična republika, ki je od leta 1800 do 1807 pod nominalno rusko in osmansko suverenostjo obstajala na Jonskih otokih (Krf, Paksos, Lefkada, Kefalonija, Itaka, Zakintos ali Zante in Kitera)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Septinsular Republic",
+    "rev": 1376195330,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Septinsular Republic (Greek: Ἑπτάνησος Πολιτεία, romanized: Heptanēsos Politeia; Italian: Repubblica Settinsulare), also known as the Republic of the Seven United Islands, was an oligarchic republic that existed from 1800 to 1807 under nominal Russian and Ottoman sovereignty in the Ionian Islands (Corfu, Paxoi, Lefkada, Cephalonia, Ithaca, Zakynthos or Zante, and Kythira)."
+    ]
+   },
+   "records": [
+    "septinsular-republic"
+   ],
+   "translated": "2026-10-24"
   },
   "Sicilian Expedition": {
    "headline": "Sicilska odprava",
@@ -22722,6 +23362,24 @@
    ],
    "translated": "2026-10-24"
   },
+  "Socialist Republic of Romania": {
+   "paragraphs": [
+    "Socialistična republika Romunija (romunsko: Republica Socialistă România, RSR) je bila komunistična država, ki je obstajala od leta 1947 do romunske revolucije leta 1989. Od leta 1947 do 1965 se je imenovala Romunska ljudska republika (Republica Populară Romînă, RPR). RSR je bila država vzhodnega bloka in članica Varšavskega pakta, v njenih ustavah pa je bila zapisana prevladujoča vloga Romunske komunistične partije. Na vzhodu je mejila na Črno morje, na severu in vzhodu na Sovjetsko zvezo (Ukrajinsko in Moldavsko SSR), na zahodu na Madžarsko in Jugoslavijo (SR Srbijo), na jugu pa na Bolgarijo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Socialist Republic of Romania",
+    "rev": 1370970724,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Socialist Republic of Romania (Romanian: Republica Socialistă România, RSR) was a communist state that existed from 1947 to the Romanian revolution in 1989. From 1947 to 1965, the state was known as the Romanian People's Republic (Republica Populară Romînă, RPR). The RSR was an Eastern Bloc state and a member of the Warsaw Pact with a dominant role for the Romanian Communist Party enshrined in its constitutions. Geographically, RSR was bordered by the Black Sea to the east, the Soviet Union (via the Ukrainian and Moldavian SSRs) to the north and east, Hungary and Yugoslavia (via SR Serbia) to the west, and Bulgaria to the south."
+    ]
+   },
+   "records": [
+    "socialist-republic-of-romania"
+   ],
+   "translated": "2026-10-24"
+  },
   "Sonderbund War": {
    "headline": "Sonderbundska vojna",
    "paragraphs": [
@@ -23490,6 +24148,51 @@
    ],
    "translated": "2026-10-24"
   },
+  "Theban": {
+   "paragraphs": [
+    "Tebanski (angleško Theban) lahko pomeni:",
+    "kar je iz mesta Tebe v Grčiji ali kdor je od tam;",
+    "kar je iz mesta Tebe v Egiptu ali kdor je od tam."
+   ],
+   "notes": [
+    "The record links to a disambiguation page; translated as the list it is. The glossary had the English Theban for this polity; an override now names it Tebe."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Theban",
+    "rev": 1353685626,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "Theban can refer to:",
+     "A thing or person of or from the city of Thebes, Greece",
+     "A thing or person of or from the city of Thebes, Egypt"
+    ]
+   },
+   "records": [
+    "thebans"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Thessaly": {
+   "paragraphs": [
+    "Tesalija (grško: Θεσσαλία) je tradicionalna geografska in sodobna upravna regija Grčije, ki obsega večji del istoimenske antične pokrajine. Pred grško temno dobo se je imenovala Eolija (starogrško: Αἰολία) in se pojavlja v Homerjevi Odiseji.",
+    "Tesalija je postala del sodobne grške države leta 1881, po štirih stoletjih in pol osmanske oblasti. Od leta 1987 je ena od 13 grških regij, od reforme Kalikratis leta 2011 pa se deli na pet regionalnih enot in 25 občin. Glavno mesto regije je Larisa. Tesalija leži v severni osrednji Grčiji in meji na regije Makedonija na severu, Epir na zahodu in Osrednja Grčija na jugu ter na Egejsko morje na vzhodu. Regija obsega tudi Sporade."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Thessaly",
+    "rev": 1374861077,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "Thessaly (Greek: Θεσσαλία, romanized: Thessalía) is a traditional geographic and modern administrative region of Greece, comprising most of the ancient region of the same name. Before the Greek Dark Ages, Thessaly was known as Aeolia (Ancient Greek: Αἰολία, Aiolía), and appears in Homer's Odyssey.",
+     "Thessaly became part of the modern Greek state in 1881, after four and a half centuries of Ottoman rule. Since 1987 it has formed one of the country's 13 regions and is further (since the Kallikratis reform of 2011) sub-divided into five regional units and 25 municipalities. The capital of the region is Larissa. Thessaly lies in northern central Greece and borders the regions of Macedonia to the north, Epirus to the west, Central Greece to the south, and the Aegean Sea to the east. The Thessaly region also includes the Sporades islands."
+    ]
+   },
+   "records": [
+    "thessaly"
+   ],
+   "translated": "2026-10-24"
+  },
   "Third Battle of Artois": {
    "headline": "Tretja bitka v Artoisu",
    "paragraphs": [
@@ -23565,6 +24268,28 @@
    ],
    "translated": "2026-10-24"
   },
+  "Third Hellenic Republic": {
+   "paragraphs": [
+    "Tretja helenska republika (grško: Γ΄ Ελληνική Δημοκρατία) je obdobje sodobne grške zgodovine od leta 1974, ko je padla grška vojaška hunta in je bila monarhija dokončno odpravljena, do danes. Danes je to sedanja državna ureditev Grčije.",
+    "Velja za tretje obdobje republikanske ureditve v Grčiji, po prvi republiki med grško osamosvojitveno vojno (1821–1832) in drugi republiki med začasno odpravo monarhije v letih 1924–1935.",
+    "Izraz metapolitefsi (μεταπολίτευση, sprememba ureditve) se pogosto uporablja za vse obdobje, v ožjem pomenu pa označuje njegov začetek, od padca hunte do demokratične preobrazbe države. Izraza prva in druga helenska republika se uporabljata le v zgodovinopisju, izraz tretja helenska republika pa je v pogosti rabi."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Third Hellenic Republic",
+    "rev": 1381312400,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Third Hellenic Republic (Greek: Γ΄ Ελληνική Δημοκρατία, romanized: Triti Elliniki Dimokratia) is the period in modern Greek history that stretches from 1974, with the fall of the Greek military junta and the final confirmation of the abolition of the Greek monarchy, to the present day. Today, it is the current government of Greece.",
+     "It is considered the third period of republican rule in Greece, following the First Republic during the Greek War of Independence (1821–1832) and the Second Republic during the temporary abolition of the monarchy in 1924–1935.",
+     "The term metapolitefsi (μεταπολίτευση, polity change) is commonly used for the entire period, but when used more strictly, this term refers to the early part of the period, beginning with the fall of the junta and culminating in the democratic transformation of the country. While the First and Second Hellenic Republics are not in common use except in a historiographic context, the term Third Hellenic Republic is used frequently."
+    ]
+   },
+   "records": [
+    "third-hellenic-republic"
+   ],
+   "translated": "2026-10-24"
+  },
   "Third Italian War of Independence": {
    "paragraphs": [
     "Tretja italijanska vojna za neodvisnost (italijansko: Terza guerra d'indipendenza italiana) je bila vojna med Kraljevino Italijo in Avstrijskim cesarstvom, ki je potekala od junija do avgusta 1866. Spopad je potekal vzporedno z avstrijsko-prusko vojno in se je končal tako, da je Avstrija pokrajino Benečijo (današnji Veneto, Furlanijo in mesto Mantovo, zadnji ostanek trdnjavskega četverokotnika Quadrilatero) predala Drugemu francoskemu cesarstvu, ki je bilo posrednik v pogajanjih in jo je formalno predalo Italiji. Pridobitev tega bogatega in gosto poseljenega ozemlja, ki ga je Italija priključila s plebiscitom, je bila velik korak v združitvi Italije."
@@ -23600,6 +24325,32 @@
     "Q1259275"
    ],
    "translated": "2026-10-23"
+  },
+  "Thracian kingdom": {
+   "headline": "Traško kraljestvo",
+   "paragraphs": [
+    "Traško kraljestvo lahko pomeni:",
+    "Odriško kraljestvo (ok. 480 pr. n. št. – 30 pr. n. št.);",
+    "Lizimahovo kraljestvo (ok. 306 pr. n. št. – 281 pr. n. št.)."
+   ],
+   "notes": [
+    "The record links to a disambiguation page; translated as the list it is."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Thracian kingdom",
+    "rev": 1343074384,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "Thracian kingdom may refer to:",
+     "Odrysian kingdom (c. 480 BC – 30 BC)",
+     "kingdom of Lysimachus (c. 306 BC – 281 BC)"
+    ]
+   },
+   "records": [
+    "thracian-kingdom"
+   ],
+   "translated": "2026-10-24"
   },
   "Toggenburg War": {
    "headline": "Toggenburška vojna",
@@ -25721,6 +26472,25 @@
    ],
    "translated": "2026-10-24"
   },
+  "Tsardom of Vidin": {
+   "headline": "Vidinsko carstvo",
+   "paragraphs": [
+    "Vidinsko carstvo (bolgarsko: Видинско Царство) je bilo srednjeveška bolgarska država s središčem v mestu Vidin, ki je obstajala v letih 1369–1396."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Tsardom of Vidin",
+    "rev": 1376064196,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Tsardom of Vidin (Bulgarian: Видинско Царство, romanized: Vidinsko Tsarstvo) was a medieval Bulgarian state centred in the city of Vidin from 1369–1396."
+    ]
+   },
+   "records": [
+    "despotate-of-vidin"
+   ],
+   "translated": "2026-10-24"
+  },
   "Tumult of Aranjuez": {
    "headline": "Upor v Aranjuezu",
    "paragraphs": [
@@ -25817,6 +26587,24 @@
    },
    "records": [
     "Q1196344"
+   ],
+   "translated": "2026-10-24"
+  },
+  "United Principalities of Moldavia and Wallachia": {
+   "paragraphs": [
+    "Združeni kneževini Moldavije in Vlaške (romunsko: Principatele Unite ale Moldovei și Țării Românești), ki ju običajno imenujejo kar Združeni kneževini ali Vlaška in Moldavija, sta bili v personalni uniji povezani Kneževina Moldavija in Kneževina Vlaška. Unija je nastala 5. februarja [24. januarja po starem koledarju] 1859, ko je bil Alexandru Ioan Cuza izvoljen za domnitorja (vladajočega kneza) obeh kneževin. Kljub združitvi sta kneževini ostali vsaka zase avtonomni vazalni državi Osmanskega cesarstva. Moldavija in Vlaška sta se 3. februarja [22. januarja po starem koledarju] 1862 formalno združili v Romunske združene kneževine oziroma Romunijo, jedro romunske nacionalne države."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "United Principalities of Moldavia and Wallachia",
+    "rev": 1379633955,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The United Principalities of Moldavia and Wallachia (Romanian: Principatele Unite ale Moldovei și Țării Românești), commonly called United Principalities or Wallachia and Moldavia, was the personal union of the Principality of Moldavia and the Principality of Wallachia. The union was formed on 5 February [O.S. 24 January] 1859 when Alexandru Ioan Cuza was elected as the Domnitor (Ruling Prince) of both principalities. Their separate autonomous vassalage in the Ottoman Empire continued with the unification of both principalities. On 3 February [O.S. 22 January] 1862, Moldavia and Wallachia formally united to create the Romanian United Principalities or Romania the core of the Romanian nation state."
+    ]
+   },
+   "records": [
+    "united-principalities-of-moldavia-and-wallachia"
    ],
    "translated": "2026-10-24"
   },
@@ -26084,6 +26872,24 @@
     "Q1080899"
    ],
    "translated": "2026-10-23"
+  },
+  "Wallachia": {
+   "paragraphs": [
+    "Vlaška je geografska pokrajina v današnji Romuniji in ena od dveh zgodovinskih romunskih kneževin, ki sta postavili temelje sodobne romunske države. Leži severno od spodnje Donave in južno od Južnih Karpatov. Tradicionalno se deli na dva dela, Muntenijo (Veliko Vlaško) in Oltenijo (Malo Vlaško). Dobrudžo so včasih šteli za tretji del, ker leži blizu in ji je Vlaška nekaj časa vladala. Vlaško kot celoto včasih imenujejo tudi Muntenija, po večjem od obeh tradicionalnih delov."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Wallachia",
+    "rev": 1381527002,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "Wallachia is a geographical region of modern-day Romania, as well as one of the two historical Romanian principalities that laid the foundation for the establishment of the modern Romanian state. It is situated north of the Lower Danube and south of the Southern Carpathians. Wallachia was traditionally divided into two sections, Muntenia (Greater Wallachia) and Oltenia (Lesser Wallachia). Dobruja could sometimes be considered a third section due to its proximity and brief rule over it. Wallachia as a whole is sometimes referred to as Muntenia through identification with the larger of the two traditional sections."
+    ]
+   },
+   "records": [
+    "principality-of-wallachia"
+   ],
+   "translated": "2026-10-24"
   },
   "War in the Vendée": {
    "paragraphs": [
