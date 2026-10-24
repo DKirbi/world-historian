@@ -2,7 +2,7 @@
  "lang": "sl",
  "region": "europe",
  "method": "machine",
- "translator": "Claude Opus 5.5 (claude-opus-5-5) with the slovene-newspaper-translation skill",
+ "translator": "Claude Opus 5.5 (claude-opus-5-5) and Claude Sonnet 5.5 (claude-sonnet-5-5) with the slovene-newspaper-translation skill",
  "translated": "2026-10-24",
  "reviewed": false,
  "licence": "CC BY-SA 4.0: translations of English Wikipedia text, attributed to each article and revision",
@@ -544,6 +544,25 @@
    ],
    "translated": "2026-10-24"
   },
+  "Arab raid against Rome": {
+   "headline": "Arabski napad na Rim",
+   "paragraphs": [
+    "Leta 846 so arabski napadalci oplenili okolico mesta Rim in izropali staro baziliko svetega Petra ter baziliko svetega Pavla zunaj obzidja, vanj pa jih ni spustilo Avrelijanovo obzidje."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Arab raid against Rome",
+    "rev": 1378468266,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "In 846, Arab raiders plundered the outskirts of the city of Rome, sacking the basilicas of Old St Peter's and St Paul's-Outside-the-Walls, but were prevented from entering the city itself by the Aurelian Walls."
+    ]
+   },
+   "records": [
+    "Q979633"
+   ],
+   "translated": "2026-10-24"
+  },
   "Aragon Offensive": {
    "headline": "Aragonska ofenziva",
    "paragraphs": [
@@ -597,6 +616,47 @@
    },
    "records": [
     "Q792386"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Armistice of Villa Giusti": {
+   "headline": "Premirje v vili Giusti",
+   "paragraphs": [
+    "Premirje v vili Giusti ali padovansko premirje je bila premirna konvencija z Avstro-Ogrsko, ki je dejansko končala bojevanje med zavezniki in pridruženimi silami ter Avstro-Ogrsko v prvi svetovni vojni. Italija je zastopala zaveznike in pridružene sile. Protokol o premirju in dopolnilni protokol so podpisali 3. novembra 1918 v vili Giusti pri Padovi v Venetu v severni Italiji, premirje pa je začelo veljati 24 ur pozneje. Veljalo je le za Avstrijo, ker je Madžarska pozneje podpisala ločeno beograjsko premirje."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Armistice of Villa Giusti",
+    "rev": 1377502271,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Armistice of Villa Giusti or Padua Armistice was an armistice convention with Austria-Hungary which de facto ended warfare between Allies and Associated Powers and Austria-Hungary during World War I. Italy represented the Allies and Associated Powers. The armistice protocol, together with a supplementary protocol, was signed on 3 November 1918 in the Villa Giusti, outside Padua in the Veneto, Northern Italy, and took effect 24 hours later. This armistice applied only to Austria because Hungary later signed the separate Belgrade armistice."
+    ]
+   },
+   "records": [
+    "Q701518"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Armistice of Villafranca": {
+   "paragraphs": [
+    "Premirje v Villafranci, ki sta ga 11. julija 1859 sklenila francoski cesar Napoleon III. in avstrijski cesar Franc Jožef I., je pripravilo pot h koncu druge italijanske vojne za neodvisnost.",
+    "Bilo je posledica enostranske odločitve Francije, ki se je skupaj s Kraljevino Sardinijo bojevala proti Avstriji in je morala skleniti mir zaradi nevarnosti, da bi se spopad razširil v srednjo Evropo.",
+    "Premirje v Villafranci je povzročilo odstop piemontskega predsednika vlade Cavourja, ki je v njem videl kršitev sardinsko-francoske zavezniške pogodbe. Ta je predvidevala odstop celotne Lombardsko-beneške kraljevine Piemontu, za razliko od pogojev premirja, ki so določali odstop same Lombardije (v sedanjem obsegu, razen province Mantova)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Armistice of Villafranca",
+    "rev": 1379704968,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Armistice of Villafranca, concluded by Napoleon III of France and Franz Joseph I of Austria on July 11, 1859, set the stage for the end of the Second Italian War of Independence.",
+     "It was the consequence of a unilateral decision by France, which, at war alongside the Kingdom of Sardinia against Austria, needed to conclude peace because of the danger of the conflict spreading to Central Europe.",
+     "The armistice of Villafranca caused the resignation of Piedmontese Prime Minister Cavour, who considered it a violation of the Sardinian-French treaty of alliance. The latter provided for the cession of the entire Kingdom of Lombardy-Venetia to Piedmont, unlike the terms of the armistice, which stipulated the cession of Lombardy alone (in its current extent except the Province of Mantua)."
+    ]
+   },
+   "records": [
+    "Q305176"
    ],
    "translated": "2026-10-24"
   },
@@ -830,6 +890,69 @@
    ],
    "translated": "2026-10-24"
   },
+  "Battle of Ager Falernus": {
+   "headline": "Bitka na Falernskem polju",
+   "paragraphs": [
+    "Bitka na Falernskem polju (Ager Falernus) je bila manjši spopad med vojskama Rima in Kartagine v drugi punski vojni. Po zmagi v bitki na Trasimenskem jezeru v Italiji leta 217 pr. n. št. je Hanibalova vojska odkorakala proti jugu in dosegla Kampanijo. Kartažani so se nazadnje premaknili v okrožje Falernum, rodovitno rečno dolino, obdano z gorami.",
+    "Kvint Fabij Maksim Verukoz, ki so ga po katastrofalnem porazu pri Trasimenskem jezeru izvolili za rimskega diktatorja in poveljnika rimskih poljskih sil, je Hanibala neprestano zasledoval in se držal strategije, da se bo boril le v ugodnih razmerah. Zdaj je zasedel vse rečne prehode in gorske prelaze, ki vodijo iz doline, in tako Kartažane ujel vanjo.",
+    "Potem ko je območje opustošil in mu pobral žito, živino in druge zaloge, je Hanibal z briljantno taktiko poskušal rimsko stražo zvabiti z enega od prelazov. Kljub protestom svojih častnikov se Fabij, ki je s svojimi glavnimi silami taboril blizu prelaza, ni hotel spopasti s kartažansko vojsko, ta pa je pasti ušla nepoškodovana."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Ager Falernus",
+    "rev": 1370431058,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Battle of Ager Falernus was a skirmish during the Second Punic War between the armies of Rome and Carthage. After winning the Battle of Lake Trasimene in Italy in 217 BC, the army commanded by Hannibal marched south and reached Campania. The Carthaginians ultimately moved into the district of Falernum, a fertile river valley surrounded by mountains.",
+     "Quintus Fabius Maximus Verrucosus, who had been elected Roman dictator and commander of the Roman field forces after the disastrous defeat at Lake Trasimene, had dogged Hannibal and stuck to a strategy to fight only under favourable conditions. He now occupied all the river crossings and mountain passes leading out of the valley, thus blocking the Carthaginians inside.",
+     "After stripping the area of grain, cattle, and other supplies, Hannibal displayed brilliant tactics to provoke the Roman guard to leave one of the passes. Despite the protests of his staff officers, Fabius, who was camped near the pass with his main forces, refused to attack the Carthaginian army and it escaped the trap unscathed."
+    ]
+   },
+   "records": [
+    "Q999235"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Battle of Agnadello": {
+   "headline": "Bitka pri Agnadellu",
+   "paragraphs": [
+    "Bitka pri Agnadellu, znana tudi kot Vailà, je potekala 14. maja 1509 med vojsko francoskega kralja Ludvika XII. in beneškimi zaščitnimi enotami pod poveljstvom Bartolomea d'Alviana. Po triurnem spopadu in potem ko je Bartolomeo ugotovil, da ga je del njegove vojske zapustil, so bili Benečani poraženi, z izgubami več kot 4000 mož. Ludvik je nato zasedel preostalo Lombardijo.",
+    "Bila je eden najpomembnejših spopadov vojne cambraiske lige in prelomna epizoda v širšem okviru italijanskih vojn; Machiavelli jo je opisal kot dan, ko so Benetke v enem samem dnevu izgubile ozemeljske pridobitve osmih stoletij."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Agnadello",
+    "rev": 1370431087,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Battle of Agnadello, also known as Vailà, was fought on 14 May 1509 between the army of King Louis XII of France and the Venetian rear-guard elements commanded by Bartolomeo d'Alviano. After a three hour struggle, and after Bartolomeo found himself abandoned by a part of his army, the Venetians were defeated with losses in excess of 4,000 men. Louis then occupied the rest of Lombardy.",
+     "It was one of the most significant engagements of the War of the League of Cambrai and a pivotal episode in the broader context of the Italian Wars, with Machiavelli describing it as Venice losing in a single day the territorial gains of eight centuries."
+    ]
+   },
+   "records": [
+    "Q1754732"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Battle of Agrigentum": {
+   "headline": "Bitka pri Agrigentu",
+   "paragraphs": [
+    "Bitka pri Agrigentu (Sicilija, 262 pr. n. št.) je bila prva odprta bitka prve punske vojne in prvi velik vojaški spopad med Kartagino in Rimsko republiko. Bitka je sledila dolgemu obleganju, ki se je začelo leta 262 pr. n. št., in se je končala z rimsko zmago ter začetkom rimskega nadzora nad Sicilijo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Agrigentum",
+    "rev": 1370431100,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Battle of Agrigentum (Sicily, 262 BC) was the first pitched battle of the First Punic War and the first large-scale military confrontation between Carthage and the Roman Republic. The battle was fought after a long siege which started in 262 BC and resulted both in a Roman victory and the beginning of Roman control of Sicily."
+    ]
+   },
+   "records": [
+    "Q917376"
+   ],
+   "translated": "2026-10-24"
+  },
   "Battle of Alarcos": {
    "headline": "Bitka pri Alarcosu",
    "paragraphs": [
@@ -992,6 +1115,25 @@
    ],
    "translated": "2026-10-23"
   },
+  "Battle of Ancona": {
+   "headline": "Bitka za Ancono",
+   "paragraphs": [
+    "Bitka za Ancono je potekala med poljskimi silami v sestavi britanske vojske in nemškimi silami od 16. junija do 18. julija 1944 v italijanski kampanji druge svetovne vojne. Bitka je bila posledica zavezniškega načrta, da bi zavzeli mesto Ancona v Italiji in tako dobili pristanišče, ki je bližje bojiščem, kar bi jim skrajšalo oskrbovalne poti. Poljski 2. korpus, ki je nalogo zavzeti mesto dobil 16. junija 1944, jo je opravil mesec dni pozneje, 18. julija 1944."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Ancona",
+    "rev": 1381664657,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Battle of Ancona was fought between forces from Poland serving as part of the British Army and German forces that took place from 16 June–18 July 1944 during the Italian campaign in World War II. The battle was the result of an Allied plan to capture the city of Ancona in Italy in order to gain possession of a seaport closer to the fighting so that they could shorten their lines of communication. The Polish 2nd Corps, tasked with capture of the city on 16 June 1944, accomplished the objective a month later on 18 July 1944."
+    ]
+   },
+   "records": [
+    "Q714192"
+   ],
+   "translated": "2026-10-24"
+  },
   "Battle of Andernach (939)": {
    "headline": "Bitka pri Andernachu (939)",
    "paragraphs": [
@@ -1008,6 +1150,28 @@
    },
    "records": [
     "Q619049"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Battle of Anzio": {
+   "paragraphs": [
+    "Bitka za Anzio je bila bitka italijanske kampanje druge svetovne vojne, ki se je začela 22. januarja 1944. Začela se je z zavezniškim izkrcanjem z morja, znanim kot operacija Shingle, in se končala 4. junija 1944 z osvoboditvijo Rima. Operaciji so nasprotovale nemške in italijanske sile Italijanske socialne republike (RSI) na območju Anzia in Nettuna.",
+    "Zavezniška izkrcanja na italijanskem kopnem so se začela septembra 1943, po počasnih pridobitvah proti nemškemu odporu pa je napredovanje decembra 1943 ustavila nemška obrambna Gustavova linija južno od Rima.",
+    "Operacijo je sprva poveljeval generalmajor John P. Lucas iz ameriške vojske, ki je poveljeval ameriškemu 6. korpusu, z namenom, da bi obšel nemške sile na zimski liniji in omogočil napad na Rim."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Anzio",
+    "rev": 1378660299,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Battle of Anzio was a battle of the Italian Campaign of World War II that commenced 22 January 1944. The battle began with the Allied amphibious landing known as Operation Shingle, and ended on 4 June 1944, with the liberation of Rome. The operation was opposed by German and by Italian Repubblica Sociale Italiana (RSI) forces in the area of Anzio and Nettuno.",
+     "Allied landings on the Italian mainland began in September 1943, and after slow gains against German resistance, the progress was stopped in December 1943 at the German defensive Gustav Line, south of Rome.",
+     "The operation was initially commanded by Major General John P. Lucas, of the U.S. Army, commanding U.S. VI Corps with the intent to outflank German forces at the Winter Line and enable an attack on Rome."
+    ]
+   },
+   "records": [
+    "Q696844"
    ],
    "translated": "2026-10-24"
   },
@@ -1093,6 +1257,24 @@
     "Q776552"
    ],
    "translated": "2026-10-23"
+  },
+  "Battle of Arcole": {
+   "paragraphs": [
+    "Bitka pri Arcolu ali bitka pri Arcoli (15.–17. novembra 1796) (francosko: Bataille du pont d'Arcole, nemško: Schlacht bei Arcole) je potekala med francoskimi in avstrijskimi silami 25 kilometrov jugovzhodno od Verone v vojni prve koalicije, delu francoskih revolucionarnih vojn. V bitki je Napoleon Bonaparte s francosko italijansko armado drzno obšel avstrijsko vojsko pod poveljstvom Józsefa Alvinczija in ji odrezal pot umika. Francoska zmaga se je izkazala za zelo pomembno v tretjem avstrijskem poskusu, da bi prekinili obleganje Mantove. Alvinczi je načrtoval dvostransko ofenzivo proti Bonapartovi vojski. Avstrijski poveljnik je ukazal Paulu Davidovichu, naj s korpusom napreduje proti jugu po dolini reke Adige, medtem ko bo Alvinczi z glavno vojsko napredoval z vzhoda. Avstrijci so upali, da bodo prekinili obleganje Mantove, kjer je bil z močno posadko ujet Dagobert Sigmund von Wurmser. Če bi se obe avstrijski koloni povezali in bi bile Wurmserjeve čete osvobojene, bi bile francoske možnosti klavrne."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Arcole",
+    "rev": 1379687387,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Battle of Arcole or Battle of Arcola (15–17 November 1796) (French: Bataille du pont d'Arcole, German: Schlacht bei Arcole) was fought between French and Austrian forces 25 kilometres (16 mi) southeast of Verona during the War of the First Coalition, a part of the French Revolutionary Wars. The battle saw a bold maneuver by Napoleon Bonaparte's French Army of Italy to outflank the Austrian army led by József Alvinczi and cut off its line of retreat. The French victory proved to be a highly significant event during the third Austrian attempt to lift the siege of Mantua. Alvinczi planned to execute a two-pronged offensive against Bonaparte's army. The Austrian commander ordered Paul Davidovich to advance south along the Adige River valley with one corps while Alvinczi led the main army in an advance from the east. The Austrians hoped to raise the siege of Mantua where Dagobert Sigmund von Wurmser was trapped with a large garrison. If the two Austrian columns linked up and if Wurmser's troops were released, French prospects were grim."
+    ]
+   },
+   "records": [
+    "Q776609"
+   ],
+   "translated": "2026-10-24"
   },
   "Battle of Arnemuiden": {
    "headline": "Bitka pri Arnemuidnu",
@@ -1202,6 +1384,45 @@
    ],
    "translated": "2026-10-23"
   },
+  "Battle of Arretium": {
+   "headline": "Bitka pri Arretiumu",
+   "paragraphs": [
+    "Bitka pri Arretiumu, ki je verjetno potekala leta 284 pr. n. št., je slabo dokumentiran dogodek iz zgodovine Rimske republike, ker se je zgodila v obdobju, za katero so nekatere knjige Livijeve Rimske zgodovine, najpodrobnejšega antičnega zgodovinarja zgodnjega Rima, izgubljene. Bitka je izrecno omenjena le v besedilu Polibija, antičnega grškega zgodovinarja, ki ne navaja veliko podrobnosti in jo postavlja v okvir drugih dogodkov. O teh dogodkih govori tudi besedilo Apijana, a bitke pri Arretiumu izrecno ne omenja. Bitka je bila med Rimljani in Galci iz severne Italije, ki so bili morda iz plemena Senonov.",
+    "Po Polibiju so neimenovani Galci oblegali mesto Arretium (Arezzo na severovzhodu Toskane) in porazili rimsko vojsko, ki je mestu prišla na pomoč. Njihov poveljnik, pretor Lucij Cecilij Metel Denter, je v bitki padel. Zato bi bitka spadala v leto 283 pr. n. št., ker je bil Denter konzul leta 284 pr. n. št."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Arretium",
+    "rev": 1370107030,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Battle of Arretium, which was probably fought in 284 BC, is a poorly documented event in the history of the Roman Republic because it occurred in a period for which some of the books of the History of Rome by Livy, the most thorough ancient historian for early Rome, have been lost. The battle is only explicitly referred to in a text by Polybius, the ancient Greek historian, which does not give much detail and puts it in the context of other events. A text by Appian talks about these events, but does not make any explicit reference to the Battle of Arretium. It was fought between the Romans and the Gauls of northern Italy, who may have been from the Senone tribe.",
+     "According to Polybius, unspecified Gauls besieged the city of Arretium (Arezzo, in northeastern Tuscany) and defeated a Roman force which had come to the aid of the city. Their commander, the praetor Lucius Caecilius Metellus Denter, died in the battle. This would place the battle in 283 BC because Denter was a consul in 284 BC."
+    ]
+   },
+   "records": [
+    "Q2292431"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Battle of Asculum": {
+   "paragraphs": [
+    "Bitka pri Askulu je bila bitka, ki je potekala blizu Askula (današnji Ascoli Satriano) leta 279 pr. n. št. in je po mnenju nekaterih trajala en dan, po mnenju drugih dva. Na eni strani je bila Rimska republika pod poveljstvom konzulov Publija Decija Musa (ki je po nekaterih virih umrl že pred bitko) in Publija Sulpicija Saverriona, na drugi pa vojska epirskega kralja Pira. Bitka je potekala v Pirovi vojni, po bitki pri Heraklei leta 280 pr. n. št., prvi bitki te vojne. Obstajajo samo poročila treh antičnih zgodovinarjev, Dionizija Halikarnaškega, Plutarha in Kasija Diona, čeprav ti sami navajajo druge zgodovinarje, katerih dela so danes izgubljena. Askul je bil na ozemlju Lukancev v južni Italiji."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Asculum",
+    "rev": 1370432630,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Battle of Asculum was a battle that took place near Asculum (modern Ascoli Satriano) in 279 BC, and was thought to have lasted either one or two days, between the Roman Republic under the command of the consuls Publius Decius Mus (who by some accounts died before the battle) and Publius Sulpicius Saverrio, and the forces of King Pyrrhus of Epirus. The battle took place during the Pyrrhic War, after the Battle of Heraclea of 280 BC, which was the first battle of the war. There currently exist accounts of this battle only by three ancient historians: Dionysius of Halicarnassus, Plutarch, and Cassius Dio, although these historians in turn reference other historians whose work is now lost. Asculum was in Lucanian territory, in southern Italy."
+    ]
+   },
+   "records": [
+    "Q756413"
+   ],
+   "translated": "2026-10-24"
+  },
   "Battle of Ashdown": {
    "headline": "Bitka pri Ashdownu",
    "paragraphs": [
@@ -1222,6 +1443,27 @@
     "Q2237365"
    ],
    "translated": "2026-10-23"
+  },
+  "Battle of Asiago": {
+   "headline": "Bitka pri Asiagu",
+   "paragraphs": [
+    "Bitka pri Asiagu, znana tudi kot južnotirolska ofenziva ali bitka za planote (italijansko: Battaglia degli Altipiani), po krivem imenovana tudi Strafexpedition (nemško »kaznovalna odprava«; to ime ni zapisano v uradni avstrijski dokumentaciji tistega časa in velja za ljudskega izvora), se je začela z veliko ofenzivo, ki so jo 15. maja 1916 sprožili Avstro-Ogri na območju Vicentinskih Alp na italijanski fronti prve svetovne vojne. Ofenziva je bila »nepričakovan« napad na planoti Asiago (provinca Vicenza, severovzhodna Italija, tedaj na meji med Kraljevino Italijo in Avstro-Ogrsko) po peti soški bitki (marca 1916). Avstro-ogrski ofenzivi, sprva uspešni, je sledila italijanska protiofenziva, ki je ponovno osvojila velik del izgubljenega ozemlja in Asiago.",
+    "Spomin na to bitko in v prvi svetovni vojni padle vojake ohranja Vojni spomenik v Asiagu (provinca Vicenza, Veneto, severovzhodna Italija)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Asiago",
+    "rev": 1377734621,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Battle of Asiago, also known as Südtirol Offensive or Battle of the Plateaux (in Italian: Battaglia degli Altipiani), wrongly nicknamed Strafexpedition (German for \"punitive expedition\"; this name has no reference in official Austrian documentation of the time and it is considered to be of popular origin), began with a major offensive launched on 15 May 1916 by the Austro-Hungarians on the territory of Vicentine Alps in the Italian Front of World War I. It was an \"unexpected\" attack that took place in the Asiago plateau (province of Vicenza, in northeast Italy, then at the border between the Kingdom of Italy and Austria-Hungary) after the Fifth Battle of the Isonzo (March 1916). The Austro-Hungarian offensive, initially successful, was followed by an Italian counter-offensive reconquering much of the lost ground and Asiago.",
+     "Commemorating this battle and the soldiers killed in World War I is the Asiago War Memorial (province of Vicenza, Veneto, northeast Italy)."
+    ]
+   },
+   "records": [
+    "Q298614"
+   ],
+   "translated": "2026-10-24"
   },
   "Battle of Aspern–Essling": {
    "headline": "Bitka pri Aspernu in Esslingu",
@@ -1260,6 +1502,28 @@
     "Q1704268"
    ],
    "translated": "2026-10-23"
+  },
+  "Battle of Assietta": {
+   "headline": "Bitka pri Assietti",
+   "paragraphs": [
+    "Bitka pri Assietti je bila pomemben spopad avstrijske nasledstvene vojne, v katerem se je številčno močnejša francoska vojska 25.000–40.000 mož pod poveljstvom Louisa Fouqueta, viteza de Belle-Isle, spopadla s sardinsko vojsko 7000–15.000 mož pod vodstvom Giovannija di Bricherasia. Francozi so bili odločno poraženi, njihov poveljnik Belle-Isle pa je med bitko padel. Spopad je bil del italijanske kampanje avstrijske nasledstvene vojne, v kateri sta se Habsburžani in Burboni borila za premoč nad severno Italijo in različnimi italijanskimi državami. Kraljevina Sardinija se je vojni leta 1742 pridružila na strani pragmatičnih zaveznikov in se zavzela za Marijo Terezijo. Skrbelo jo je tudi naraščanje francoskega vpliva na njenih ozemljih. Vojna v Italiji je takrat trajala že sedem let, sardinska vojska pa je na bojišču že utrpela več porazov, zato se je odločila za bolj obrambni pristop. Francozi so med vojno vodili več odprav v Italiji in svoje sile združevali s španskimi Burboni, da bi dosegli svoje politične cilje."
+   ],
+   "notes": [
+    "The English calls the battle a siege in its third sentence; the Slovenian says spopad."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Assietta",
+    "rev": 1370107119,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Battle of Assietta was a significant engagement of the War of the Austrian Succession and pitted a numerically superior French force of 25,000–40,000 men under the command of Louis Fouquet, Chevalier de Belle-Isle against a Sardinian army of 7,000–15,000 men led by Giovanni di Bricherasio. The French were soundly defeated and their commander, Belle-Isle, killed during the course of the battle. The siege was part of the Italian campaign of the War of the Austrian Succession, in which Habsburgs and Bourbons contested for domination over Northern Italy and the various Italian states. The Kingdom of Sardinia joined the war on the side of the Pragmatic Allies in 1742 and rallied itself to Maria Theresa's cause. There were also concerns about growing French influence in its territories. The war in Italy had already been going on for seven years, and the Sardinian army had already suffered several defeats in the field, leading to them opting for a more defensive approach. The French led several expeditions in Italy during the war, combining their forces with the Spanish Bourbons to accomplish their political aims."
+    ]
+   },
+   "records": [
+    "Q693265"
+   ],
+   "translated": "2026-10-24"
   },
   "Battle of Atoleiros": {
    "headline": "Bitka pri Atoleirosu",
@@ -1305,6 +1569,27 @@
     "Q1582486"
    ],
    "translated": "2026-10-23"
+  },
+  "Battle of Augusta": {
+   "headline": "Bitka pri Augusti",
+   "paragraphs": [
+    "Bitka pri Augusti je potekala blizu Auguste na Siciliji 22. aprila 1676 v francosko-nizozemski vojni. Nastopilo je francosko ladjevje pod Abrahamom Duquesnom ter združeno nizozemsko-špansko ladjevje pod skupnim poveljstvom Francisca de la Cerde.",
+    "Večino bitke je bil udeležen le del vsakega ladjevja in kljub hudim izgubam in težkim poškodbam nobena stran ni izgubila nobene ladje. Končala se je, ko je nizozemski admiral Michiel de Ruyter svojo eskadro rešil pred napadom premočnih francoskih sil, vendar je bil pri tem smrtno ranjen. Ladjevji sta se naslednji dan ločili brez nadaljevanja bitke, izid pa je ostal neodločen."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Augusta",
+    "rev": 1370432723,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Battle of Augusta took place near Augusta, Sicily on 22 April 1676 during the Franco-Dutch War. It featured a French fleet under Abraham Duquesne, and a combined Dutch-Spanish fleet, under the overall command of Francisco de la Cerda.",
+     "For much of the battle, only part of each fleet was engaged, and despite heavy casualties and severe damage, neither side lost any ships. It ended when the Dutch admiral, Michiel de Ruyter, extracted his squadron from being attacked by superior French numbers, although he was mortally wounded in doing so. The fleets separated next day without resuming the battle, and the result was inconclusive."
+    ]
+   },
+   "records": [
+    "Q939845"
+   ],
+   "translated": "2026-10-24"
   },
   "Battle of Auray": {
    "headline": "Bitka pri Aurayju",
@@ -1587,6 +1872,25 @@
    ],
    "translated": "2026-10-23"
   },
+  "Battle of Bedriacum": {
+   "headline": "Bitka pri Bedriacumu",
+   "paragraphs": [
+    "Izraz bitka pri Bedriacumu označuje dve bitki, ki sta potekali v letu štirih cesarjev (69 po Kr.) blizu vasi Bedriacum (danes Calvatone), približno 35 kilometrov od mesta Cremona v severni Italiji. Bojevanje je pravzaprav potekalo med Bedriacumom in Cremono, bitkama pa včasih rečejo tudi »prva bitka pri Cremoni« in »druga bitka pri Cremoni«."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Bedriacum",
+    "rev": 1370107593,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Battle of Bedriacum refers to two battles fought during the Year of the Four Emperors (AD 69) near the village of Bedriacum (now Calvatone), about 35 kilometers (22 mi) from the town of Cremona in northern Italy. The fighting in fact took place between Bedriacum and Cremona, and the battles are sometimes called \"First Cremona\" and \"Second Cremona\"."
+    ]
+   },
+   "records": [
+    "Q63146684"
+   ],
+   "translated": "2026-10-24"
+  },
   "Battle of Belchite (1937)": {
    "headline": "Bitka pri Belchiteju (1937)",
    "paragraphs": [
@@ -1629,6 +1933,62 @@
    ],
    "translated": "2026-10-23"
   },
+  "Battle of Benevento": {
+   "headline": "Bitka pri Beneventu leta 1266",
+   "paragraphs": [
+    "Bitka pri Beneventu je bila velika srednjeveška bitka, ki je potekala 26. februarja 1266 blizu Beneventa v današnji južni Italiji med silami Karla I. Anžujskega in silami sicilskega kralja Manfreda. Manfredov poraz in smrt sta pripeljala do Karlovega osvajanja Kraljevine Sicilije, s čimer se je dejansko končala vladavina Štaufovcev na Apeninskem polotoku, začel pa se je vzpon kraljevih kapetinških Anžujcev. Spopad je bil del spora, v katerem so se zoperstavljali gvelfi in gibelini."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Benevento",
+    "rev": 1370107654,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Battle of Benevento was a major medieval battle fought on 26 February 1266, near Benevento in present-day Southern Italy, between the forces of Charles I of Anjou and those of King Manfred of Sicily. Manfred's defeat and death resulted in Charles' conquest of the Kingdom of Sicily, effectively ending the rule of the Hohenstaufen dynasty in the Italian Peninsula and marking the rise of the royal Capetian House of Anjou. The engagement was part of the conflict which pitted Guelphs against Ghibellines."
+    ]
+   },
+   "records": [
+    "Q283062"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Battle of Beneventum (214 BC)": {
+   "headline": "Bitka pri Beneventu leta 214 pr. n. št.",
+   "paragraphs": [
+    "Bitka pri Beneventu je potekala leta 214 pr. n. št. blizu današnjega Beneventa v drugi punski vojni. Rimske legije pod Tiberijem Sempronijem Grakhom so porazile kartažanske sile pod Hanonom in Hanibalu preprečile okrepitve. Livij bitko na kratko opisuje; bila je del rimske kampanje za podreditev južnoitalijanskih mestnih držav, ki so se po bitki pri Kanah pridružile Hanibalu."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Beneventum (214 BC)",
+    "rev": 1370434022,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Battle of Beneventum was fought in 214 BC near modern Benevento during the Second Punic War. Roman legions under Tiberius Sempronius Gracchus defeated Hanno's Carthaginian forces, denying Hannibal reinforcements. Livy gives a brief description of the battle, which was part of the Roman campaign to subdue the southern Italian city-states that had joined Hannibal after the Battle of Cannae."
+    ]
+   },
+   "records": [
+    "Q1362016"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Battle of Beneventum (275 BC)": {
+   "paragraphs": [
+    "Bitka pri Beneventu (275 pr. n. št.) je bila zadnja bitka Pirove vojne. Potekala je blizu Beneventuma v južni Italiji med silami Pira, kralja Epira v Grčiji, in Rimljani pod poveljstvom konzula Manija Kurija Dentata. Izid je bil strateška rimska zmaga, Pir pa se je moral vrniti v Tarent in pozneje v Epir."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Beneventum (275 BC)",
+    "rev": 1370107658,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Battle of Beneventum (275 BC) was the last battle of the Pyrrhic War. It was fought near Beneventum, in southern Italy, between the forces of Pyrrhus, king of Epirus in Greece, and the Romans, led by consul Manius Curius Dentatus. The result was a strategic Roman victory and Pyrrhus was forced to return to Tarentum, and later to Epirus."
+    ]
+   },
+   "records": [
+    "Q1160070"
+   ],
+   "translated": "2026-10-24"
+  },
   "Battle of Bergen (1759)": {
    "headline": "Bitka pri Bergnu (1759)",
    "paragraphs": [
@@ -1645,6 +2005,25 @@
    },
    "records": [
     "Q571694"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Battle of Bezzecca": {
+   "headline": "Bitka pri Bezzecci",
+   "paragraphs": [
+    "Bitka pri Bezzecci je potekala 21. julija 1866 med Italijo in Avstrijo v tretji italijanski vojni za neodvisnost. Bila je zmaga italijanskih prostovoljcev, Corpo Truppe Volontarie pod vodstvom Giuseppeja Garibaldija, nad avstrijskimi silami in je potekala med italijanskim vdorom v Trentino (ki se je začel konec junija)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Bezzecca",
+    "rev": 1370434171,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Battle of Bezzecca was fought on 21 July 1866 between Italy and Austria during the Third Italian War of Independence. It was a victory of Italian volunteers, the Corpo Truppe Volontarie led by Giuseppe Garibaldi, against Austrian forces and occurred during an Italian invasion of Trentino (began in late June)."
+    ]
+   },
+   "records": [
+    "Q685805"
    ],
    "translated": "2026-10-24"
   },
@@ -1688,6 +2067,44 @@
     "Q635028"
    ],
    "translated": "2026-10-23"
+  },
+  "Battle of Bicocca": {
+   "headline": "Bitka pri Bicocci",
+   "paragraphs": [
+    "Bitka pri Bicocci ali La Bicocca (italijansko: Battaglia della Bicocca) je potekala 27. aprila 1522 v italijanski vojni 1521–1526. Združena francoska in beneška vojska pod Odetom de Foixom, vikontom de Lautrecom, je bila odločilno poražena od cesarsko-španske in papeške vojske pod skupnim poveljstvom Prospera Colonne. Lautrec se je nato umaknil iz Lombardije in Milansko vojvodino prepustil cesarskim silam."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Bicocca",
+    "rev": 1370107825,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Battle of Bicocca or La Bicocca (Italian: Battaglia della Bicocca) was fought on 27 April 1522, during the Italian War of 1521–26. A combined French and Venetian force under Odet de Foix, Vicomte de Lautrec, was decisively defeated by an Imperial–Spanish and Papal army under the overall command of Prospero Colonna. Lautrec then withdrew from Lombardy, leaving the Duchy of Milan in Imperial hands."
+    ]
+   },
+   "records": [
+    "Q683341"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Battle of Bitonto": {
+   "headline": "Bitka pri Bitontu",
+   "paragraphs": [
+    "Bitka pri Bitontu (25. maja 1734) je bila španska zmaga nad avstrijskimi silami blizu Bitonta v Neapeljskem kraljestvu (v južni Italiji) v poljski nasledstveni vojni. Z njo se je končal organizirani avstrijski odpor v kraljestvu zunaj maloštevilnih trdnjav."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Bitonto",
+    "rev": 1373446531,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Battle of Bitonto (25 May 1734) was a Spanish victory over Austrian forces near Bitonto in the Kingdom of Naples (in southern Italy) in the War of Polish Succession. The battle ended organized Austrian resistance outside a small number of fortresses in the kingdom."
+    ]
+   },
+   "records": [
+    "Q574881"
+   ],
+   "translated": "2026-10-24"
   },
   "Battle of Blanchetaque": {
    "headline": "Bitka pri Blanchetaquu",
@@ -1827,6 +2244,25 @@
     "Q830626"
    ],
    "translated": "2026-10-23"
+  },
+  "Battle of Bovianum": {
+   "headline": "Bitka pri Bovianumu",
+   "paragraphs": [
+    "Bitka pri Bovianumu je potekala leta 305 pr. n. št. med Rimljani in Samniti."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Bovianum",
+    "rev": 1378110287,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Battle of Bovianum was fought in 305 BC between the Romans and the Samnites."
+    ]
+   },
+   "records": [
+    "Q1887733"
+   ],
+   "translated": "2026-10-24"
   },
   "Battle of Breitenfeld (1642)": {
    "headline": "Druga bitka pri Breitenfeldu",
@@ -2094,6 +2530,44 @@
     "Q2076444"
    ],
    "translated": "2026-10-23"
+  },
+  "Battle of Calcinato": {
+   "headline": "Bitka pri Calcinatu",
+   "paragraphs": [
+    "Bitka pri Calcinatu je potekala blizu Calcinata v Lombardiji v Italiji 19. aprila 1706 v španski nasledstveni vojni. Združena francosko-španska vojska pod poveljstvom vojvode de Vendôme je porazila cesarske sile pod grofom von Reventlowom."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Calcinato",
+    "rev": 1370435843,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Battle of Calcinato took place near Calcinato in Lombardy, Italy on 19 April 1706 during the War of the Spanish Succession. A combined French-Spanish army led by the duc de Vendôme defeated an Imperial force under Graf von Reventlow."
+    ]
+   },
+   "records": [
+    "Q698166"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Battle of Caldiero (1805)": {
+   "headline": "Bitka pri Caldieru leta 1805",
+   "paragraphs": [
+    "Bitka pri Caldieru je potekala 30. oktobra 1805: francoska italijanska armada (Armée d'Italie) pod maršalom Andréjem Masséno se je spopadla z avstrijsko vojsko pod poveljstvom nadvojvode Karla, tešinskega vojvode. Francozi so v boj poslali le del svojih sil, okoli 33.000 mož, nadvojvoda Karel pa glavnino svoje vojske, 49.000 mož; korpus Paula Davidovicha je pustil v obrambi spodnje Adige, korpus Franza Seraha Orsini-Rosenberga pa je pokrival avstrijski desni bok pred morebitnimi obhodnimi manevri. Spopad je potekal pri Caldieru, 15 kilometrov vzhodno od Verone, v vojni tretje koalicije, delu napoleonskih vojn."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Caldiero (1805)",
+    "rev": 1370435873,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Battle of Caldiero took place on 30 October 1805, pitting the French Armée d'Italie under Marshal André Masséna against an Austrian army under the command of Archduke Charles, Duke of Teschen. The French engaged only some of their forces, around 33,000 men, but Archduke Charles engaged the bulk of his army, 49,000 men, leaving out Paul Davidovich's corps to defend the lower Adige and Franz Seraph of Orsini-Rosenberg's corps to cover the Austrian right against any flanking maneuvers. The fighting took place at Caldiero, 15 kilometres (9.3 mi) east of Verona, during the War of the Third Coalition, part of the Napoleonic Wars."
+    ]
+   },
+   "records": [
+    "Q857434"
+   ],
+   "translated": "2026-10-24"
   },
   "Battle of Cambrai (1917)": {
    "paragraphs": [
@@ -12091,6 +12565,47 @@
    ],
    "translated": "2026-10-24"
   },
+  "Duchy of Modena and Reggio": {
+   "paragraphs": [
+    "Vojvodina Modena in Reggio (italijansko: Ducato di Modena e Reggio; latinsko: Ducatus Mutinae et Regii; emilijsko: Duchêt ed Mòdna e Rèz) je bila italijanska država, ustanovljena leta 1452 na severozahodu Italije, na območju današnje Emilije-Romanje. Od ustanovitve so jo vladali plemiči iz rodbine Este, od leta 1814 pa avstrijsko-estenska veja rodbine. Dinastija Este je bila velika pokroviteljica umetnosti, zato je bila vojvodina v renesansi in baroku kulturna zgled."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Duchy of Modena and Reggio",
+    "rev": 1378032105,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Duchy of Modena and Reggio (Italian: Ducato di Modena e Reggio; Latin: Ducatus Mutinae et Regii; Emilian: Duchêt ed Mòdna e Rèz) was an Italian state created in 1452 located in Northwestern Italy, in the present-day region of Emilia-Romagna. It was ruled since its establishment by the noble House of Este, and from 1814 by the Austria-Este branch of the family. The Este dynasty was a great sponsor of the arts, making the Duchy a cultural reference during the Renaissance and Baroque periods."
+    ]
+   },
+   "records": [
+    "duchy-of-modena-and-reggio"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Duchy of Naples": {
+   "paragraphs": [
+    "Vojvodina Neapelj (latinsko: Ducatus Neapolitanus, neapeljsko: Ducato di Napule) je nastala kot bizantinska provinca v južni Evropi, ustanovljena v 7. stoletju na območju, ki približno ustreza današnji provinci Neapelj in ga Langobardi ob vdoru v Italijo v 6. stoletju niso osvojili. Bila je ena od tirenskih vojvodin skupaj z vojvodinami Gaeta, Amalfi in Sorrento, ki so se v začetku 9. stoletja osamosvojile od Neaplja.",
+    "Vladal ji je vojaški poveljnik (dux), hitro pa je postala dejansko neodvisna država, ki je v zgodnjem in visokem srednjem veku trajala več kot pet stoletij. Neapelj je še danes pomembno velemesto v Italiji."
+   ],
+   "notes": [
+    "The English spells tyrrhenian with a lower-case t; the Slovenian is tirenske."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Duchy of Naples",
+    "rev": 1378038954,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Duchy of Naples (Latin: Ducatus Neapolitanus, Neapolitan: Ducato di Napule) began as a Byzantine province in Southern Europe that was constituted in the seventh century, in the lands roughly corresponding to the current province of Naples that the Lombards had not conquered during their invasion of Italy in the sixth century. It was one of the tyrrhenian duchies along with the duchy of Gaeta, Amalfi and Sorrento which took their independence from Naples in the early 9th century.",
+     "It was governed by a military commander (dux), and rapidly became a de facto independent state, lasting more than five centuries during the Early and High Middle Ages. Naples remains a significant metropolitan city in present-day Italy."
+    ]
+   },
+   "records": [
+    "duchy-of-naples"
+   ],
+   "translated": "2026-10-24"
+  },
   "Duchy of Nassau": {
    "paragraphs": [
     "Vojvodina Nassau (nemško: Herzogtum Nassau) je bila med letoma 1806 in 1866 samostojna država na območju današnjih nemških zveznih dežel Porenje-Pfalška in Hessen. Bila je članica Renske zveze in pozneje Nemške zveze. Vladajoča dinastija, pozneje izumrla, je bila rodbina Nassau. Ime je dobila po gradu Nassau, ta pa po svojem zgodovinskem središču, mestu Nassau, čeprav prestolnica ni bila v Nassauu, temveč v Wiesbadnu. Leta 1865 je imela Vojvodina Nassau 465.636 prebivalcev. Potem ko jo je Kraljevina Prusija po avstrijsko-pruski vojni leta 1866 zasedla in priključila, je postala del province Hessen-Nassau. Območje je zemljepisna in zgodovinska pokrajina Nassau, Nassau pa je tudi ime naravnega parka Nassau v mejah nekdanje vojvodine."
@@ -12169,6 +12684,28 @@
    },
    "records": [
     "duchy-of-opole"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Duchy of Parma and Piacenza": {
+   "paragraphs": [
+    "Vojvodina Parma in Piacenza (italijansko: Ducato di Parma e Piacenza, latinsko: Ducatus Parmae et Placentiae) je bila italijanska država, ustanovljena leta 1545 v severni Italiji, na območju današnje Emilije-Romanje.",
+    "Sprva je bila posest rodbine Farnese, potem ko je papež Pavel III. vojvodino podelil kot dedno svojemu sinu Pieru Luigiju Farneseju. Rodbina je vladala do leta 1731, ko je umrl zadnji vojvoda Antonio Farnese brez neposrednih dedičev. Po desetletju habsburške oblasti je vojvodina pripadla rodbini Bourbon-Parma.",
+    "Napoleonove sile so jo napadle in Francija jo je priključila, po Napoleonovem porazu leta 1814 pa so ji vrnili suverenost. Nato ji je do smrti vladala Napoleonova žena Marija Ljudovika (Maria Luigia) kot vojvodinja. Leta 1847 so Parmo vrnili burbonski oblasti, leta 1859 pa so vojvodino uradno ukinili, ker so jo vključili v novo italijansko državo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Duchy of Parma and Piacenza",
+    "rev": 1378032448,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Duchy of Parma and Piacenza (Italian: Ducato di Parma e Piacenza, Latin: Ducatus Parmae et Placentiae) was an Italian state created in 1545 and located in northern Italy, in the current region of Emilia-Romagna.",
+     "Originally a realm of the Farnese family after Pope Paul III made it a hereditary duchy for his son, Pier Luigi Farnese, it was ruled by the dynasty until 1731, when the last duke, Antonio Farnese, died without direct heirs. After a decade of Habsburg rule, the duchy passed to the House of Bourbon-Parma.",
+     "It was invaded by Napoleon and annexed by France, having its sovereignty restored in 1814 after Napoleon's defeat. Napoleon's wife, Marie Louise (Maria Luigia), then ruled as its duchess until her death. Parma was restored to Bourbon rule in 1847, and in 1859, the duchy was formally abolished as it was integrated into the new Italian state."
+    ]
+   },
+   "records": [
+    "duchy-of-parma-and-piacenza"
    ],
    "translated": "2026-10-24"
   },
@@ -12264,6 +12801,28 @@
    },
    "records": [
     "duchy-of-thuringia"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Duchy of Tuscia": {
+   "headline": "Vojvodina Tuscia",
+   "paragraphs": [
+    "Vojvodina Tuscia (italijansko: Ducato di Tuscia; latinsko: Ducatus Tusciae), sprva znana kot Vojvodina Lucca (italijansko: Ducato di Lucca; latinsko: Ducatus Lucaniae), je bila langobardska vojvodina v osrednji Italiji, ki je obsegala velik del današnje Toskane. Po zasedbi bizantinskih ozemelj so Langobardi ustanovili to cvetočo vojvodino, ki je poleg drugih središč zajemala tudi Firence. Prestolnica vojvodine je bila Lucca, ki je ležala ob poti Via Francigena in je bila tudi kraj, kjer so prebivali vojvode."
+   ],
+   "notes": [
+    "The English pronunciation respellings and the IPA are dropped."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Duchy of Tuscia",
+    "rev": 1341107132,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Duchy of Tuscia ( TUSS-ee-ə, TUSH-(ee-)ə; Modern Italian: Ducato di Tuscia [duˈkaːto di ˈtuʃʃa]; Latin: Ducatus Tusciae), initially known as the Duchy of Lucca (Modern Italian: Ducato di Lucca; Latin: Ducatus Lucaniae), was a Lombard duchy in Central Italy, which included much of today's Tuscany. After the occupation of the territories belonging to the Byzantines, the Lombards founded this flourishing duchy which, among other centres, also included Florence. The capital of the duchy was Lucca, which was located along the Via Francigena, being also the city where the dukes resided."
+    ]
+   },
+   "records": [
+    "duchy-of-tuscia"
    ],
    "translated": "2026-10-24"
   },
@@ -13765,6 +14324,26 @@
    ],
    "translated": "2026-10-24"
   },
+  "Grand Duchy of Tuscany": {
+   "paragraphs": [
+    "Velika vojvodina Toskana (italijansko: Granducato di Toscana; latinsko: Magnus Ducatus Etruriae) je bila italijanska monarhija v osrednji Italiji, ki je z vmesnimi prekinitvami obstajala od leta 1569 do 1860 in nadomestila Florentinsko republiko. Prestolnica velike vojvodine so bile Firence. V 19. stoletju je imela velika vojvodina okoli 1.815.000 prebivalcev.",
+    "Cosimo I. Medičejski, ki je po osvojitvi Sienske republike pod svoj nadzor spravil skoraj vso Toskano, je 27. avgusta 1569 s papeško bulo papeža Pija V. postal veliki vojvoda Toskane. Velika vojvodina je bila pod vladavino Medičejcev, dokler ni leta 1737 izumrla njihova starejša veja. Čeprav ni bila tako mednarodno slavna kot nekdanja republika, je velika vojvodina pod Medičejci cvetela in pod Cosimom I. ter njegovimi sinovi doživela brez primere velik gospodarski in vojaški uspeh, do vladavine Ferdinanda II., ko se je začel dolgi gospodarski zaton države. Ta se je nadaljeval pod Cosimom III."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Grand Duchy of Tuscany",
+    "rev": 1367324131,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Grand Duchy of Tuscany (Italian: Granducato di Toscana; Latin: Magnus Ducatus Etruriae) was an Italian monarchy located in Central Italy that existed, with interruptions, from 1569 to 1860, replacing the Republic of Florence. The grand duchy's capital was Florence. In the 19th century the population of the Grand Duchy was about 1,815,000 inhabitants.",
+     "Having brought nearly all Tuscany under his control after conquering the Republic of Siena, Cosimo I de' Medici, was elevated by a papal bull of Pope Pius V to Grand Duke of Tuscany on 27 August 1569. The Grand Duchy was ruled by the House of Medici until the extinction of its senior branch in 1737. While not as internationally renowned as the old republic, the grand duchy thrived under the Medici and it bore witness to unprecedented economic and military success under Cosimo I and his sons, until the reign of Ferdinando II, which saw the beginning of the state's long economic decline. That economic decline continued under Cosimo III."
+    ]
+   },
+   "records": [
+    "grand-duchy-of-tuscany"
+   ],
+   "translated": "2026-10-24"
+  },
   "Greater Poland Uprising (1806)": {
    "headline": "Velikopoljska vstaja leta 1806",
    "paragraphs": [
@@ -14306,6 +14885,88 @@
    ],
    "translated": "2026-10-23"
   },
+  "Judicate of Arborea": {
+   "headline": "Judikat Arborea",
+   "paragraphs": [
+    "Judikat Arborea (sardinsko: Judicadu de Arbaree; italijansko: Giudicato di Arborea; latinsko: Iudicatus Arborensis) ali Kraljevina Arborea (sardinsko: Rennu de Arbaree; italijansko: Regno di Arborea; latinsko: Regnum Arborensis) je bil eden od štirih neodvisnih judikatov, na katere je bil v srednjem veku razdeljen otok Sardinija. Zajemal je srednji zahodni del otoka, ukleščen med Logudoro na severu in vzhodu, Cagliari na jugu in vzhodu ter Sredozemskim morjem na zahodu. Severovzhodno od Logudora je ležala Gallura, s katero je imela Arborea precej manj stikov. Arborea je preživela svoje sosede in obstajala še globoko v 15. stoletje. Ob največjem ozemeljskem obsegu je zajemala ves otok razen mest Alghero in Cagliari. Najstarejši znani sodni sedež je bil Tharros, čeprav je bil večino obstoja prestolnica Oristano."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Judicate of Arborea",
+    "rev": 1381079628,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Judicate of Arborea (Sardinian: Judicadu de Arbaree; Italian: Giudicato di Arborea; Latin: Iudicatus Arborensis) or the Kingdom of Arborea (Sardinian: Rennu de Arbaree; Italian: Regno di Arborea; Latin: Regnum Arborensis) was one of the four independent judicates into which the island of Sardinia was divided in the Middle Ages. It occupied the central-west portion of the island, wedged between Logudoro to the north and east, Cagliari to the south and east, and the Mediterranean Sea to the west. To the northeast of Logudoro was Gallura, with which Arborea had far less interaction. Arborea outlasted her neighbours, surviving well into the 15th century. At its greatest territorial extent it occupied the entire island except the cities of Alghero and Cagliari. The earliest known judicial seat was Tharros, though Oristano served as capital for most of its existence."
+    ]
+   },
+   "records": [
+    "giudicato-of-arborea"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Judicate of Cagliari": {
+   "headline": "Judikat Cagliari",
+   "paragraphs": [
+    "Judikat Cagliari (sardinsko: Judicadu de Càralis / Càlaris, italijansko: Giudicato di Cagliari) je bil eno od štirih kraljestev ali judikatov (iudicati, dobesedno »sodništvo«), na katere je bila Sardinija razdeljena v srednjem veku.",
+    "Judikat Cagliari je zajemal ves južni del otoka in je bil sestavljen iz trinajstih okrajev, imenovanih curatoriae. Na severozahodu je mejil na judikat Arborea, na severovzhodu pa na judikata Logudoro in Gallura."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Judicate of Cagliari",
+    "rev": 1362716214,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Judicate of Cagliari (Sardinian: Judicadu de Càralis / Càlaris, Italian: Giudicato di Cagliari) was one of the four kingdoms or judicates (iudicati, literally \"judgeship\") into which Sardinia was divided during the Middle Ages.",
+     "The Judicate of Cagliari occupied the entire southern portion of the island and was composed of thirteen subdivisions called curatoriae. It bordered the judicates of Arborea to the northwest and Logudoro and Gallura to the northeast."
+    ]
+   },
+   "records": [
+    "giudicato-of-cagliari"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Judicate of Gallura": {
+   "headline": "Judikat Gallura",
+   "paragraphs": [
+    "Judikat Gallura (latinsko: Iudicatus Gallurae, sardinsko: Judicadu de Gallura, italijansko: Giudicato di Gallura) je bil eden od štirih sardinskih judikatov v srednjem veku. To so bile neodvisne države, katerih vladarji so nosili naziv iudex, sodnik. Gallura, katere ime izhaja iz latinske besede gallus, kar pomeni petelin, je bila razdeljena na deset curatoriae, ki so jih pod sodnikom upravljali curatores. V 13. stoletju je bil v grbu Gallure petelin.",
+    "Gallura zajema severovzhodni del otoka z glavnim mestom Olbia. Prvi iudices Gallure se v zgodovinskih virih pojavijo šele konec enajstega stoletja, čeprav so znani nekateri vladarji iz zgodnejših obdobij. Gallura je tako kot vsa druga sardinska kraljestva sprva dolgovala zvestobo pisanski nadškofiji, vendar je za razliko od večine drugih razmeroma stanovitno podpirala Piso, verjetno zaradi bližine samega mesta Pisa. Zato je bila pogosto v zavezništvu s kraljestvom Cagliari na jugu."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Judicate of Gallura",
+    "rev": 1371646347,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Judicate of Gallura (Latin: Iudicatus Gallurae, Sardinian: Judicadu de Gallura, Italian: Giudicato di Gallura) was one of four Sardinian judicates in the Middle Ages. These were independent states whose rulers bore the title iudex, judge. Gallura, a name which comes from gallus, meaning rooster (cock), was subdivided into ten curatoriae governed by curatores under the judge. In the 13th century, the arms of Gallura contained a rooster.",
+     "Gallura encompasses the northeast region of the island, with its main city at Olbia. The first iudices of Gallura only appear in the historical record late in the eleventh century, though certain rulers of earlier periods are known. Gallura, like all the other Sardinian kingdoms, initially owed allegiance to the Archdiocese of Pisa, but unlike most of the others it remained relatively steadfast in its support of Pisa, probably due to its proximity to the city of Pisa itself. For this reason, it was often in alliance with the Kingdom of Cagliari in the south."
+    ]
+   },
+   "records": [
+    "giudicato-of-gallura"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Judicate of Logudoro": {
+   "headline": "Judikat Logudoro",
+   "paragraphs": [
+    "Judikat Logudoro ali Torres (sardinsko: Judicadu de Logudoro ali Torres, Rennu de Logudoro ali Logu de Torres) je bil eno od štirih kraljestev ali iudicati, na katere je bila Sardinija razdeljena v srednjem veku. Od 11. do 13. stoletja je zajemal severozahodni del otoka in mejil na judikate Gallura na vzhodu, Arborea na jugu in Cagliari na jugovzhodu. Prvotna prestolnica je bila Porto Torres. Pokrajina se še danes imenuje Logudoro.",
+    "Logudoro je bil največji in najstarejši od judikatov, a tudi drugi, ki ga je podjarmila tuja sila. Bil je razdeljen na dvajset curatoriae, ki so jih upravljali curatores."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Judicate of Logudoro",
+    "rev": 1327578675,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Judicate of Logudoro or Torres (Sardinian: Judicadu de Logudoro or Torres, Rennu de Logudoro or Logu de Torres) was one of the four kingdoms or iudicati into which Sardinia was divided during the Middle Ages. It occupied the northwest part of the island from the 11th through the 13th century, bordering the Gallura to the east, Arborea to the south, and Cagliari to the southeast. Its original capital was Porto Torres. The region is still called Logudoro today.",
+     "Logudoro was the largest and earliest of the iudicati but also the second to be subsumed by a foreign power. It was divided into twenty curatoriae, ruled by curatores."
+    ]
+   },
+   "records": [
+    "giudicato-of-logudoro"
+   ],
+   "translated": "2026-10-24"
+  },
   "July Revolt of 1927": {
    "headline": "Julijski upor leta 1927",
    "paragraphs": [
@@ -14663,6 +15324,27 @@
    ],
    "translated": "2026-10-23"
   },
+  "Kingdom of Naples (Napoleonic)": {
+   "paragraphs": [
+    "Kraljestvo Neapelj (italijansko: Regno di Napoli; neapeljsko: Regno 'e Napule) je bilo francoska satelitska država v južni Italiji, ki je obstajala od leta 1806 do 1815. Nastalo je, potem ko se je Burbonec Ferdinand IV. Neapeljski in III. Sicilski postavil na stran tretje koalicije proti Napoleonu in ga je francoski vdor zato pregnal iz njegove kraljevine. Na njegovo mesto so postavili Napoleonovega starejšega brata Jožefa Bonaparta, ki je naziv »neapeljski princ« podelil kot dedni naziv svojim otrokom in vnukom. Ko je Jožef leta 1808 postal španski kralj, je Napoleon namesto njega imenoval svojega svaka, maršala Joachima Murata. Murata je leta 1815 odstavil dunajski kongres, potem ko je v neapeljski vojni napadel Avstrijo in bil v bitki pri Tolentinu odločilno poražen."
+   ],
+   "notes": [
+    "The glossary names this record Kraljestvo Neapelj and the earlier Kingdom of Naples Neapeljsko kraljestvo; the two forms are worth harmonising."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Naples (Napoleonic)",
+    "rev": 1376177650,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Kingdom of Naples (Italian: Regno di Napoli; Neapolitan: Regno 'e Napule) was a French client state in southern Italy that existed from 1806 to 1815. It was founded after the Bourbon Ferdinand IV and III of Naples and Sicily sided with the Third Coalition against Napoleon, and was in return ousted from his kingdom by a French invasion. Joseph Bonaparte, elder brother of Napoleon, was installed in his stead: Joseph conferred the title \"Prince of Naples\" to be hereditary on his children and grandchildren. When Joseph became king of Spain in 1808, Napoleon appointed his brother-in-law Marshal Joachim Murat to take his place. Murat was later deposed by the Congress of Vienna in 1815 after striking at Austria in the Neapolitan War, in which he was decisively defeated at the Battle of Tolentino."
+    ]
+   },
+   "records": [
+    "kingdom-of-naples-napoleonic"
+   ],
+   "translated": "2026-10-24"
+  },
   "Kingdom of Poland": {
    "paragraphs": [
     "Kraljevina Poljska (poljsko: Królestwo Polskie; latinsko: Regnum Poloniae) je bila država v srednji Evropi v srednjem in zgodnjem novem veku, od leta 1025 do 1795."
@@ -14721,6 +15403,24 @@
    },
    "records": [
     "kingdom-of-prussia"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Kingdom of Sardinia (1720-1861)": {
+   "paragraphs": [
+    "Izraz Kraljevina Sardinija označuje savojsko državo od leta 1720 do 1861. Od leta 1720 do 1847 je h Kraljevini Sardinija spadal le otok Sardinija, druge celinske posesti (predvsem Vojvodina Savoja, Kneževina Piemont, Grofija Nica, Vojvodina Genova in druge) pa je savojska hiša držala vsako zase. Tako je nastala sestavljena monarhija in osebna unija, ki so ji uradno rekli »dežele Njegovega Veličanstva kralja Sardinije«. To stanje je spremenil zakon o popolni združitvi (Fusione perfetta) iz leta 1847, ki je ustvaril enotno kraljevino. Kljub temu zgodovinarji pogosto uporabljajo »Sardinijo« kot sinekdoho za vso savojsko državo od leta 1720. Ker je bil Piemont sedež oblasti in najpomembnejši del države, ji pravijo tudi Sardinija-Piemont ali Piemont-Sardinija, včasih pa napačno tudi Kraljevina Piemont."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Sardinia (1720–1861)",
+    "rev": 1380462185,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The term Kingdom of Sardinia denotes the Savoyard state from 1720 to 1861. From 1720 to 1847, only the island of Sardinia proper was part of the Kingdom of Sardinia, while the other mainland possessions (principally the Duchy of Savoy, Principality of Piedmont, County of Nice, Duchy of Genoa, and others) were held by the House of Savoy in their own right, hence forming a composite monarchy and a personal union, which was formally referred to as the \"States of His Majesty the King of Sardinia\". This situation was changed by the Perfect Fusion act of 1847, which created a unitary kingdom. Regardless, historians often use \"Sardinia\" as a synecdoche to designate the whole Savoyard state from 1720. Because Piedmont was the seat of power and prominent part of the entity, the state is also referred to as Sardinia–Piedmont or Piedmont–Sardinia, and sometimes erroneously as the Kingdom of Piedmont."
+    ]
+   },
+   "records": [
+    "kingdom-of-sardinia"
    ],
    "translated": "2026-10-24"
   },
@@ -15167,6 +15867,27 @@
    ],
    "translated": "2026-10-23"
   },
+  "Mamertines": {
+   "headline": "Mamertinci",
+   "paragraphs": [
+    "Mamertinci (latinsko: Mamertini, »Marsovi sinovi«, grško: Μαμερτίνοι) so bili grški najemniki italskega izvora, ki jih je iz njihovega doma v Kampaniji najel Agatokel (361–289 pr. n. št.), sirakuški tiran in samooklicani kralj Sicilije. Potem ko so Sirakuze sedmo sicilsko vojno izgubile, je bilo grško mesto Mesina leta 307 pr. n. št. odstopljeno Kartagini. Ko je Agatokel leta 289 pr. n. št. umrl, je veliko njegovih najemnikov na Siciliji ostalo brez dela. Večina se jih je vrnila domov, nekateri pa so ostali, ker jim je bilo všeč podnebje in so se veselili pustolovščin na tujem otoku. Imeli so pomembno vlogo pri izbruhu prve punske vojne.",
+    "Leta 280 pr. n. št. so Sirakužani prosili kralja Pira Epirskega za pomoč proti Mamertincem."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Mamertines",
+    "rev": 1375448145,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Mamertines (Latin: Mamertini, \"sons of Mars\", Greek: Μαμερτίνοι) were Greek mercenaries of Italic origin who had been hired from their home in Campania by Agathocles (361–289 BC), Tyrant of Syracuse and self-proclaimed King of Sicily. After Syracuse lost the Seventh Sicilian War, the Greek city of Messina was ceded to Carthage in 307 BC. When Agathocles died in 289 BC it left many of his mercenaries idle and unemployed in Sicily. Most of them returned home but some, liking the climate and the prospect of adventure on a foreign island, remained. They played a major role in the lead-up to the First Punic War.",
+     "In 280 BC, the Syracusans appealed to King Pyrrhus of Epirus for help against the Mamertines."
+    ]
+   },
+   "records": [
+    "mamertines"
+   ],
+   "translated": "2026-10-24"
+  },
   "Margraviate of Brandenburg": {
    "paragraphs": [
     "Brandenburška marka (nemško: Markgrafschaft Brandenburg) je bila od leta 1157 do 1806 pomembna kneževina Svetega rimskega cesarstva. Čeprav je bila sprva nerazvito in gospodarsko skromno ozemlje, je imel Brandenburg v cesarstvu status volilne kneževine. Še sredi 16. stoletja se je soočal z delitvijo dežele (odcepitvijo Küstrina), nato pa se je hitro znova združil in po tem, ko je leta 1618 podedoval Vojvodino Prusijo, hitro pridobival pomen. Kot jedro pruskega kraljestva je Brandenburg odigral ključno vlogo v nemški in evropski zgodovini.",
@@ -15523,6 +16244,26 @@
     "Q1361354"
    ],
    "translated": "2026-10-23"
+  },
+  "Norman conquest of southern Italy": {
+   "paragraphs": [
+    "Normansko zavzetje južne Italije je trajalo od leta 999 do 1194 in je obsegalo številne bitke in neodvisne osvajalce. Leta 1130 so se ozemlja v južni Italiji združila v Kraljevino Sicilijo, ki je obsegala otok Sicilijo, južno tretjino Apeninskega polotoka (vključno z Beneventom, ki so ga Normani dvakrat za kratek čas zasedli), malteško otočje in dele Severne Afrike.",
+    "Potujoče normanske čete so v južno Italijo prišle kot najemniki langobardskih in bizantinskih strank ter domov hitro sporočale novice o priložnostih v Sredozemlju. Zbrale so se na več krajih, ustanovile lastne fevde in države ter se v 50 letih po prihodu združile in dvignile na raven dejanske neodvisnosti."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Norman conquest of southern Italy",
+    "rev": 1379587378,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Norman conquest of southern Italy lasted from 999 to 1194, involving many battles and independent conquerors. In 1130, the territories in southern Italy united as the Kingdom of Sicily, which included the island of Sicily, the southern third of the Italian Peninsula (including Benevento, which was briefly held twice), the archipelago of Malta, and parts of North Africa.",
+     "Itinerant Norman forces arrived in southern Italy as mercenaries in the service of Lombard and Byzantine factions, communicating swiftly back home news about opportunities in the Mediterranean. These groups gathered in several places, establishing fiefdoms and states of their own, uniting and elevating their status to de facto independence within 50 years of their arrival."
+    ]
+   },
+   "records": [
+    "norman-italy"
+   ],
+   "translated": "2026-10-24"
   },
   "North Sea Empire": {
    "headline": "Severnomorski imperij",
@@ -16296,6 +17037,26 @@
    ],
    "translated": "2026-10-23"
   },
+  "Principality of Capua": {
+   "headline": "Kneževina Capua",
+   "paragraphs": [
+    "Kneževina Capua (latinsko: Principatus Capuae ali Capue, sodobno italijansko: Principato di Capua) je bila država s središčem v Capui v južni Italiji, ki je trajala približno tri stoletja. Proti koncu 10. stoletja je kneževina dosegla vrhunec in zajemala večino območja Terra di Lavoro. Prvotno je bila gastaldat, nato grofija v Kneževini Salerno. Pod sicilsko monarhijo je nekdanja kneževina ostala ena od dveh glavnih celinskih sestavnih delov kraljeve oblasti, skupaj z Apulijo, viri iz 12. stoletja pa so njeno ozemlje pogosto označevali kot Terra di Lavoro."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Principality of Capua",
+    "rev": 1378036755,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Principality of Capua (Latin: Principatus Capuae or Capue, Modern Italian: Principato di Capua) was a state centred on Capua in Southern Italy which lasted for about three centuries. Towards the end of the 10th century the Principality reached its apogee, occupying most of the Terra di Lavoro area. It was originally a gastaldate, then a county, within the principality of Salerno. Under the Sicilian monarchy, the former principality remained one of the two chief mainland components of royal rule alongside Apulia, and twelfth-century sources often identified its territory as the Terra di Lavoro."
+    ]
+   },
+   "records": [
+    "principality-of-capua-840",
+    "principality-of-capua-990"
+   ],
+   "translated": "2026-10-24"
+  },
   "Principality of Lippe": {
    "paragraphs": [
     "Kneževina Lippe (pozneje Lippe-Detmold in nato znova Lippe) je bila država v Nemčiji, ki ji je vladala rodbina Lippe. Ležala je med reko Weser in jugovzhodnim delom Teutoburškega gozda. Kot država je nastala v času Svetega rimskega cesarstva, leta 1789 pa je bila povzdignjena v kneževino. V tem obdobju se je vladajoča rodbina razcepila na več vej, glavna veja pa je imela sedež v Detmoldu. Med reformacijo je kneževina leta 1538 prestopila v luteranstvo, leta 1604 pa v kalvinizem.",
@@ -16354,6 +17115,25 @@
    },
    "records": [
     "principality-of-reuss-gera"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Principality of Salerno": {
+   "headline": "Kneževina Salerno",
+   "paragraphs": [
+    "Kneževina Salerno (latinsko: Principatus Salerni) je bila srednjeveška država v južni Evropi, ki je leta 851 nastala iz Kneževine Benevento po desetletni državljanski vojni. Njeno središče je bilo pristaniško mesto Salerno. Čeprav je ob ustanovitvi priznavala oblast karolinškega cesarja, je bila ves čas svojega obstoja dejansko neodvisna in je svojo zvestobo izmenično usmerjala h Karolingom in njihovim naslednikom na zahodu ter k bizantinskim cesarjem na vzhodu."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Principality of Salerno",
+    "rev": 1367955254,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Principality of Salerno (Latin: Principatus Salerni) was a medieval Southern European state, formed in 851 out of the Principality of Benevento after a decade-long civil war. It was centred on the port city of Salerno. Although it owed allegiance at its foundation to the Carolingian emperor, it was de facto independent throughout its history and alternated its allegiance between the Carolingians and their successors in the West and the Byzantine emperors in the east."
+    ]
+   },
+   "records": [
+    "principality-of-salerno"
    ],
    "translated": "2026-10-24"
   },
@@ -16588,6 +17368,27 @@
     "Q660521"
    ],
    "translated": "2026-10-23"
+  },
+  "Republic of Florence": {
+   "paragraphs": [
+    "Florentinska republika (starejše italijansko: Republica di Fiorenza; sodobno italijansko: Repubblica di Firenze; latinsko: Res publica Florentina; starejše italijansko: Republica Fiorentina; sodobno italijansko: Repubblica Fiorentina) je bila srednjeveška in zgodnjenovoveška država s središčem v italijanskem mestu Firence v Toskani. Republika je nastala leta 1115, ko so se Florentinci uprli Toskanski mejni grofiji po smrti Matilde Toskanske, ki je nadzirala obsežna ozemlja, med njimi Firence. Florentinci so namesto naslednikov Rabodoja, Matildinega naslednika, ustanovili komuno. Republiko je vodil svet, imenovan florentinska signoria. Signorio je izbiral gonfalonier (naslovni vladar mesta), ki so ga vsaka dva meseca volili člani florentinskih cehov."
+   ],
+   "notes": [
+    "The English gives the name twice (Republic of Florence, Florentine Republic), one name in Slovenian, so the original-language forms are joined in one bracket; the IPA is dropped."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Republic of Florence",
+    "rev": 1370139840,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Republic of Florence (Old Italian: Republica di Fiorenza; contemporary Italian: Repubblica di Firenze), also known as the Florentine Republic (Latin: Res publica Florentina; Old Italian: Republica Fiorentina; contemporary Italian: Repubblica Fiorentina [reˈpubblika fjorenˈtiːna]), was a medieval and early modern state that was centered on the Italian city of Florence in Tuscany. The republic originated in 1115, when the Florentine people rebelled against the Margraviate of Tuscany upon the death of Matilda of Tuscany, who controlled vast territories that included Florence. The Florentines formed a commune in Rabodo's (Matilda's successor) successors' place. The republic was ruled by a council known as the Signoria of Florence. The signoria was chosen by the gonfaloniere (titular ruler of the city), who was elected every two months by Florentine guild members."
+    ]
+   },
+   "records": [
+    "republic-of-florence"
+   ],
+   "translated": "2026-10-24"
   },
   "Republic of Pisa": {
    "paragraphs": [
