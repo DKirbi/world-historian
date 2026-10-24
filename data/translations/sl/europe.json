@@ -3,7 +3,7 @@
  "region": "europe",
  "method": "machine",
  "translator": "Claude Opus 5.5 (claude-opus-5-5) with the slovene-newspaper-translation skill",
- "translated": "2026-10-23",
+ "translated": "2026-10-24",
  "reviewed": false,
  "licence": "CC BY-SA 4.0: translations of English Wikipedia text, attributed to each article and revision",
  "units": {
@@ -219,6 +219,32 @@
     "angevins"
    ],
    "translated": "2026-10-23"
+  },
+  "Angles": {
+   "headline": "Angli",
+   "paragraphs": [
+    "Izraz Angles se najpogosteje nanaša na:",
+    "Angle (pleme), germansko govoreče ljudstvo, ki je ime dobilo po kulturni pokrajini Angeln v Nemčiji;",
+    "kot, geometrijski lik, ki ga tvorita poltraka s skupnim izhodiščem."
+   ],
+   "notes": [
+    "The record links to an English disambiguation page, so the summary is a list fragment (one entry is the geometric angle); the data link should point to Angles (tribe)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Angles",
+    "rev": 1376917870,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "Angles most commonly refers to:",
+     "Angles (tribe), a Germanic-speaking people that took their name from the Angeln cultural region in Germany",
+     "Angle, a geometric figure formed by two rays meeting at a common point"
+    ]
+   },
+   "records": [
+    "angles"
+   ],
+   "translated": "2026-10-24"
   },
   "Anglo-Dutch Treaty of 1824": {
    "headline": "Angleško-nizozemska pogodba iz leta 1824",
@@ -484,6 +510,28 @@
     "Q2118997"
    ],
    "translated": "2026-10-23"
+  },
+  "Basina of Thuringia": {
+   "headline": "Bazina Turinška",
+   "paragraphs": [
+    "Bazina ali Basine (ok. 438–477) je bila po spominu poznejših avtorjev, predvsem Gregorja iz Toursa, sredi 5. stoletja kraljica Turingije. Ker pa je Gregor kraljestvo Turingijo njene družine opisal kot ležeče na galski ali zahodni strani Rena, nekateri menijo, da gre za Civitas Tungrorum na ozemlju današnje Belgije."
+   ],
+   "notes": [
+    "A state record linked to the article on a person (Queen Basina); the data link is worth checking."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Basina of Thuringia",
+    "rev": 1358905686,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "Basina or Basine (c. 438 – 477) was remembered as a queen of Thuringia in the middle of the fifth century, by much later authors such as especially Gregory of Tours. However, because Gregory described her family's kingdom of Thuringia as being on the Gaulish or western side of the river Rhine, it is sometimes thought to be the Civitas Tungrorum, which is now Belgium."
+    ]
+   },
+   "records": [
+    "kingdom-of-thuringia"
+   ],
+   "translated": "2026-10-24"
   },
   "Battle for Brest": {
    "headline": "Bitka za Brest",
@@ -6833,6 +6881,31 @@
    ],
    "translated": "2026-10-23"
   },
+  "Bavarians": {
+   "paragraphs": [
+    "Bavarci so etnografska skupina Nemcev, ki izvira iz Bavarske, zvezne dežele v Nemčiji. Njihovo narečje ali jezik se imenuje bavarščina in izvira iz Stare Bavarske (Altbayern), ki približno ustreza ozemlju zgodovinske Bavarske volilne kneževine v 17. stoletju.",
+    "Tako kot sosednji Avstrijci so Bavarci tradicionalno katoličani. V velikem delu Stare Bavarske je v Katoliško cerkev še vedno včlanjenih več kot 70 % prebivalcev.",
+    "Desnosredinska Krščansko-socialna unija na Bavarskem (naslednica Bavarske ljudske stranke iz let 1919–1933) je tradicionalno najmočnejša stranka v deželnem zboru, iz nje pa so od leta 1946 izhajali vsi bavarski ministrski predsedniki z edino izjemo Wilhelma Hoegnerja (1954–1957)."
+   ],
+   "notes": [
+    "The English breaks one sentence across paragraphs 2 and 3 (\"… above 70%,\" / \"and the center-right …\"); the Slovenian ends paragraph 2 with a full stop and starts paragraph 3 as a new sentence."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Bavarians",
+    "rev": 1377939733,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "Bavarians are an ethnographic group of Germans native to Bavaria, a state in Germany. The group's dialect or language is known as Bavarian, native to Altbayern (\"Old Bavaria\"), roughly the territory of the historic Electorate of Bavaria in the 17th century.",
+     "Like the neighboring Austrians, Bavarians are traditionally Catholic. In much of Altbayern, membership in the Catholic Church remains above 70%,",
+     "and the center-right Christian Social Union in Bavaria (successor of the Bavarian People's Party of 1919–1933) has traditionally been the strongest party in the Landtag, and also the party of all minister-presidents of Bavaria since 1946, with the single exception of Wilhelm Hoegner, 1954–1957."
+    ]
+   },
+   "records": [
+    "bavarians"
+   ],
+   "translated": "2026-10-24"
+  },
   "Béarn": {
    "headline": "Béarn",
    "paragraphs": [
@@ -6959,6 +7032,24 @@
     "Q745728"
    ],
    "translated": "2026-10-23"
+  },
+  "Brandenburg-Prussia": {
+   "paragraphs": [
+    "Brandenburška Prusija (nemško: Brandenburg-Preußen; nizkonemško: Brannenborg-Preußen) je zgodovinopisno ime za zgodnjenovoveško državo brandenburške veje Hohenzollernov med letoma 1618 in 1701. Glavna veja Hohenzollernov s sedežem v Brandenburški volilni kneževini se je s porokami povezala z vejo, ki je vladala Vojvodini Prusiji, in si zagotovila nasledstvo, ko je ta leta 1618 izumrla po moški liniji. Druga posledica porok je bila priključitev spodnjerenskih kneževin Kleve, Mark in Ravensberg po ksantenski pogodbi leta 1614."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Brandenburg–Prussia",
+    "rev": 1379613310,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "Brandenburg–Prussia (German: Brandenburg-Preußen; Low German: Brannenborg-Preußen) is the historiographic denomination for the early modern realm of the Brandenburgian House of Hohenzollern between 1618 and 1701. Based in the Electorate of Brandenburg, the main branch of the Hohenzollern intermarried with the branch ruling the Duchy of Prussia, and secured succession upon the latter's extinction in the male line in 1618. Another consequence of intermarriage was the incorporation of the lower Rhenish principalities of Cleves, Mark and Ravensberg after the Treaty of Xanten in 1614."
+    ]
+   },
+   "records": [
+    "brandenburg-prussia"
+   ],
+   "translated": "2026-10-24"
   },
   "Brécourt Manor assault": {
    "headline": "Napad na dvorec Brécourt",
@@ -7930,6 +8021,24 @@
    ],
    "translated": "2026-10-23"
   },
+  "Danish Realm": {
+   "paragraphs": [
+    "Danska kraljevina v širšem smislu, uradno Kraljevina Danska, pogosto kar Danska, je suverena država, sestavljena iz več ozemelj, ki jih združuje ustavni akt, veljaven za vse ozemlje. Sestavljajo jo celinska Danska (včasih imenovana »Danska v ožjem smislu«) – ozemlje kraljevine na evropski celini in bližnji otoki – ter dve avtonomni (a ne suvereni) pokrajini: Ferski otoki v severnem Atlantiku in Grenlandija v Severni Ameriki. Razmerje med tremi deli kraljevine se imenuje Rigsfællesskabet (»enotnost kraljevine«, prevajano tudi kot danska skupnost narodov ali Združeno kraljestvo Danske)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Danish Realm",
+    "rev": 1380666512,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Danish Realm, officially the Kingdom of Denmark, often known as Denmark, is a sovereign state consisting of a collection of constituent territories united by the Constitutional Act, which applies to the entire territory. It consists of metropolitan Denmark (sometimes called \"Denmark proper\")—the kingdom's territory in continental Europe and its proximate islands—and the realm's two autonomous (but not sovereign) regions: the Faroe Islands in the North Atlantic and Greenland in North America. The relationship between the three parts of the kingdom is known as Rigsfællesskabet (The Unity of the Realm, which has also been translated as the Danish Commonwealth or the United Kingdom of Denmark)."
+    ]
+   },
+   "records": [
+    "kingdom-of-denmark"
+   ],
+   "translated": "2026-10-24"
+  },
   "Deira": {
    "paragraphs": [
     "Deira (starovaližansko/kumbrijsko: Deywr ali Deifr; staroangleško: Dere ali Dera rice) je bila območje v porimski Britaniji in pozneje anglsko kraljestvo."
@@ -8012,6 +8121,25 @@
    ],
    "translated": "2026-10-23"
   },
+  "Duchy of Anhalt": {
+   "headline": "Vojvodina Anhalt",
+   "paragraphs": [
+    "Vojvodina Anhalt (nemško: Herzogtum Anhalt) je bila zgodovinska nemška vojvodina. Ležala je med pogorjem Harz na zahodu ter reko Labo in še dlje do vresišča Fläming na vzhodu. Ozemlju je nekoč vladala rodbina Askanijcev, danes pa je del zvezne dežele Saška-Anhalt."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Duchy of Anhalt",
+    "rev": 1324513420,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Duchy of Anhalt (German: Herzogtum Anhalt) was a historical German duchy. The duchy was located between the Harz Mountains in the west and the River Elbe and beyond to the Fläming Heath in the east. The territory was once ruled by the House of Ascania, and is now part of the federal state of Saxony-Anhalt."
+    ]
+   },
+   "records": [
+    "duchy-of-anhalt"
+   ],
+   "translated": "2026-10-24"
+  },
   "Duchy of Aquitaine": {
    "paragraphs": [
     "Vojvodina Akvitanija (okcitansko: Ducat d'Aquitània; francosko: Duché d'Aquitaine) je bila zgodovinski fevd na zahodu, v osrednjem delu in na jugu današnje Francije, južno od reke Loare. Celoten obseg vojvodine in njeno ime sta se v stoletjih močno spreminjala, občasno pa je obsegala velik del današnje jugozahodne (vključno z Gaskonjo) in osrednje Francije."
@@ -8055,6 +8183,43 @@
    ],
    "translated": "2026-10-23"
   },
+  "Duchy of Brunswick": {
+   "paragraphs": [
+    "Vojvodina Braunschweig (nemško: Herzogtum Braunschweig) je bila zgodovinska nemška država, ki je prenehala obstajati leta 1918. Njena prestolnica je bila v Braunschweigu. Dunajski kongres jo je leta 1815 ustanovil kot naslednico Kneževine Braunschweig-Wolfenbüttel. V nemški zgodovini 19. stoletja je bila vojvodina del Nemške zveze, Severnonemške zveze in od leta 1871 Nemškega cesarstva. Po koncu prve svetovne vojne so jo odpravili, njeno ozemlje pa je kot Svobodna država Braunschweig postalo del Weimarske republike."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Duchy of Brunswick",
+    "rev": 1363785772,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Duchy of Brunswick (German: Herzogtum Braunschweig) was a historical German state that ceased to exist in 1918. Its capital was the city of Brunswick (Braunschweig). It was established as the successor state of the Principality of Brunswick-Wolfenbüttel by the Congress of Vienna in 1815. In the course of the 19th-century history of Germany, the duchy was part of the German Confederation, the North German Confederation and from 1871 the German Empire. It was disestablished after the end of World War I, its territory incorporated into the Weimar Republic as the Free State of Brunswick."
+    ]
+   },
+   "records": [
+    "duchy-of-brunswick"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Duchy of Bytom": {
+   "headline": "Vojvodina Bytom",
+   "paragraphs": [
+    "Vojvodina Bytom (poljsko: Księstwo Bytomskie, češko: Bytomské knížectví, nemško: Herzogtum Beuthen) je bila vojvodina v Zgornji Šleziji, ena od šlezijskih vojvodin razdrobljene Poljske pod Piasti. Nastala je v Zgornji Šleziji okoli leta 1281 ob delitvi Vojvodine Opole in Racibórz med sinove vojvode Vladislava Opolskega. Vojvodina je imela prestolnico v Bytomu, ki je bil del Malopoljske, dokler ga poljski veliki vojvoda Kazimir II. Pravični leta 1177 ni priključil šlezijski Vojvodini Racibórz."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Duchy of Bytom",
+    "rev": 1346574894,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Duchy of Bytom (Polish: Księstwo Bytomskie, Czech: Bytomské knížectví, German: Herzogtum Beuthen) was a duchy in Upper Silesia, one of the Silesian duchies of fragmented Piast-ruled Poland. It was established in Upper Silesia about 1281 during the division of the Duchy of Opole and Racibórz among the sons of Duke Władysław Opolski. The duchy's capital was Bytom, formerly part of Lesser Poland until in 1177 the Polish High Duke Casimir II the Just had attached it to the Silesian Duchy of Racibórz."
+    ]
+   },
+   "records": [
+    "duchy-of-bytom"
+   ],
+   "translated": "2026-10-24"
+  },
   "Duchy of Gascony": {
    "paragraphs": [
     "Vojvodina Gaskonja ali vojvodina Vaskonija je bila vojvodina na jugozahodu današnje Francije in severovzhodu Španije, na območju današnje pokrajine Gaskonja. Vojvodina, tedaj znana kot Vaskonija, je bila sprva frankovska marka, ustanovljena za obvladovanje Baskov. Doživela je različna obdobja, od zgodnjih let z izrazito baskovsko prvino prek personalne unije z Vojvodino Akvitanijo do poznejšega obdobja, ko je bila odvisno ozemlje angleških kraljev iz rodbine Plantagenet.",
@@ -8075,6 +8240,104 @@
     "duchy-of-gascony-990"
    ],
    "translated": "2026-10-23"
+  },
+  "Duchy of Głogów": {
+   "headline": "Vojvodina Głogów",
+   "paragraphs": [
+    "Vojvodina Głogów (poljsko: Księstwo głogowskie, češko: Hlohovské knížectví) ali Vojvodina Glogau (nemško: Herzogtum Glogau) je bila ena od šlezijskih vojvodin, ki so nastale med srednjeveško razdrobitvijo Poljske na manjše pokrajinske vojvodine. Prestolnica je bila v Głogówu v Spodnji Šleziji. Obstajala je v letih 1177–1185 in 1251–1506, vladali pa so ji šlezijski Piasti, nato Ivan Korvin in jagelonska dinastija."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Duchy of Głogów",
+    "rev": 1361321717,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Duchy of Głogów (Polish: Księstwo głogowskie, Czech: Hlohovské knížectví) or Duchy of Glogau (German: Herzogtum Glogau) was one of the Duchies of Silesia, formed in course of the medieval fragmentation of Poland into smaller provincial duchies. Its capital was Głogów in Lower Silesia. It existed in 1177–1185 and 1251–1506 and was ruled by the Silesian Piasts, followed by John Corvinus and the Jagiellonian dynasty."
+    ]
+   },
+   "records": [
+    "duchy-of-glogow"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Duchy of Greater Poland": {
+   "headline": "Vojvodina Velikopoljska",
+   "paragraphs": [
+    "Vojvodina Velikopoljska je bila pokrajinska kneževina, ki je obsegala velik del zgodovinske pokrajine Velikopoljske, njeno ozemlje pa je približno ustrezalo današnjemu Velikopoljskemu vojvodstvu v zahodni osrednji Poljski. Nastala je v 12. stoletju po oporoki Boleslava III. Krivoustega iz leta 1138, ki je prej enotno Kraljevino Poljsko razdelila na več dednih vojvodin in sprožila obdobje fevdalne razdrobljenosti. Čeprav je bila nominalno del poljskega kraljestva, je delovala kot polavtonomna piastovska kneževina, ki so ji samostojno vladali lastni vojvode."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Duchy of Greater Poland",
+    "rev": 1360126796,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Duchy of Greater Poland was a district principality that encompassed much of the historical region of Greater Poland, with a territory roughly corresponding to the present-day Greater Poland Voivodeship in west-central Poland. It emerged in the 12th century following the 1138 testament of Bolesław III Wrymouth, which divided the previously unified Kingdom of Poland into several hereditary duchies, initiating a period of feudal fragmentation. Although nominally part of the Polish realm, the duchy functioned as a semi-autonomous Piast principality, governed independently by its own dukes."
+    ]
+   },
+   "records": [
+    "duchy-of-greater-poland"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Duchy of Jawor": {
+   "paragraphs": [
+    "Vojvodina Jawor (poljsko: Księstwo Jaworskie, nemško: Herzogtum Jauer, češko: Javorské knížectví) je bila ena od šlezijskih vojvodin srednjeveške Poljske, ustanovljena leta 1274 z odcepitvijo od Vojvodine Legnica. Vladali so ji šlezijski Piasti, prestolnica pa je bila v Jaworu v Spodnji Šleziji.",
+    "Bila je tedaj najbolj jugozahodna poljska vojvodina, razen v obdobju 1281–1286, ko je bila še bolj jugozahodno začasno odcepljena Vojvodina Lwówek. V različnih obdobjih je mejila tudi na poljske vojvodine Głogów, Legnica, Vroclav in Świdnica, prek slednje pa še na Nyso, Brzeg in Ziębice."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Duchy of Jawor",
+    "rev": 1328211757,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "Duchy of Jawor (Polish: Księstwo Jaworskie, German: Herzogtum Jauer, Czech: Javorské knížectví) was one of the duchies of Silesia and medieval Poland established in 1274 as a subdivision of the Duchy of Legnica. It was ruled by the Silesian Piasts, with its capital at Jawor in Lower Silesia.",
+     "It was the southwesternmost duchy of Poland at the time, with the exception of the 1281–1286 period, when the more southwestern was the temporarily split off Duchy of Lwówek. At various times, it also bordered the fellow Polish duchies of Głogów, Legnica, Wrocław and Świdnica, and via the latter also Nysa, Brzeg and Ziębice."
+    ]
+   },
+   "records": [
+    "duchy-of-jawor"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Duchy of Kalisz": {
+   "headline": "Vojvodina Kalisz",
+   "paragraphs": [
+    "Vojvodina Kalisz je bila fevdalna pokrajinska vojvodina v Velikopoljski, katere ozemeljsko in upravno jedro je bila kališka dežela, območje okoli mesta Kalisz. Prestolnica je bila v Kaliszu. Vojvodina je nastala leta 1177 po delitvi Vojvodine Velikopoljske, ki je sledila uporu proti Mješku III. Njen prvi vladar je postal vojvoda Kazimir II. Pravični iz dinastije Piastov.",
+    "Kalisz je sprva ostal fevd znotraj širše Vojvodine Poljske – izraza, ki se navadno uporablja za razdrobljeno državo in ki jo nekateri viri še naprej imenujejo Kraljevina Poljska –, dokler ni leta 1227 postal samostojna vojvodina. V tej obliki je obstajal do leta 1279, ko se je pod vladavino Przemysła II. združil z vojvodinama Gniezno in Poznań in je nastala obnovljena Vojvodina Velikopoljska."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Duchy of Kalisz",
+    "rev": 1323529646,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Duchy of Kalisz was a feudal district duchy in Greater Poland, with its territorial and administrative core in the Kalisz Land — the region surrounding the city of Kalisz. Its capital was Kalisz. The duchy was established in 1177, following the partition of the Duchy of Greater Poland after a rebellion against Mieszko III. Duke Casimir II the Just of the Piast dynasty became its first ruler.",
+     "Initially, Kalisz remained a fiefdom within the broader Duchy of Poland — a term commonly applied to the fragmented realm, which some sources continue to refer to as the Kingdom of Poland — until 1227, when Kalisz gained independence as a duchy. It existed in this form until 1279, when it was united with the duchies of Gniezno and Poznań under the rule of Przemysł II, forming a reconstituted Duchy of Greater Poland."
+    ]
+   },
+   "records": [
+    "duchy-of-kalisz"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Duchy of Kuyavia": {
+   "headline": "Vojvodina Kujavija",
+   "paragraphs": [
+    "Vojvodina Kujavija je bila pokrajinska kneževina v srednji Evropi, ki je nastala v 13. stoletju na območju današnje Kujavije, potem ko je bila Kraljevina Poljska leta 1138 z oporoko vojvode Boleslava III. Krivoustega razdeljena na delne vojvodine."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Duchy of Kuyavia",
+    "rev": 1358214454,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Duchy of Kuyavia was a district principality in Central Europe, created in the course of the 13th century in the region of modern-day Kuyavia after the inheritance of the Kingdom of Poland in 1138 into partial duchies through the will and testament of Duke Bolesław III Wrymouth."
+    ]
+   },
+   "records": [
+    "duchy-of-kuyavia"
+   ],
+   "translated": "2026-10-24"
   },
   "Duchy of Lorraine": {
    "paragraphs": [
@@ -8114,6 +8377,63 @@
    ],
    "translated": "2026-10-23"
   },
+  "Duchy of Masovia": {
+   "paragraphs": [
+    "Vojvodina Mazovija je bila v srednjem veku pokrajinska kneževina in fevd Kraljevine Poljske. Središče države je bila Mazovija na severovzhodu Kraljevine Poljske, njena prestolnica pa je bila v času obstoja v Płocku, Czersku in Varšavi. Nastala je leta 1138 na ozemlju Kraljevine Poljske ob njeni razdrobitvi, ki jo je sprožila oporoka Boleslava III. Krivoustega. Država je obstajala v letih 1138–1275, 1294–1310, 1370–1381 in 1495–1526, vmes pa se je njeno ozemlje drobilo na manjše vojvodine in znova združevalo. Med razdrobitvijo so nastale vojvodine Kujavija, Dobrzyń, Czersk, Płock, Varšava, Rawa in Belz. Leta 1526 je bila država priključena Kraljevini Poljski."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Duchy of Masovia",
+    "rev": 1334437647,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Duchy of Masovia was a district principality and a fiefdom of the Kingdom of Poland, existing during the Middle Ages. The state was centered in Mazovia in the northeastern Kingdom of Poland, and during its existence, its capital was located in Płock, Czersk and Warsaw. It was formed in 1138 from the territories of the Kingdom of Poland, following its fragmentation, that was started by the testament of Bolesław III Wrymouth. The country existed in the years: 1138–1275, 1294–1310, 1370–1381, and 1495–1526, between that time, going through fragmentations of its territory into smaller duchies and its unification. The states formed during its fragmentation were duchies of Kuyavia, Dobrzyń, Czersk, Płock, Warsaw, Rawa and Belz. In 1526, the country was incorporated into the Kingdom of Poland."
+    ]
+   },
+   "records": [
+    "duchy-of-masovia"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Duchy of Mecklenburg": {
+   "headline": "Vojvodina Mecklenburg",
+   "paragraphs": [
+    "Vojvodina Mecklenburg je bila vojvodina v Svetem rimskem cesarstvu v pokrajini Mecklenburg. Obstajala je v poznem srednjem veku in zgodnjem novem veku, od leta 1471 do 1520 ter od 1695 do 1701. Prestolnica je bila v Schwerinu.",
+    "Država je nastala leta 1471, ko je vojvoda Henrik IV. združil vojvodini Mecklenburg-Stargard in Mecklenburg-Schwerin. Obstajala je do 7. maja 1520, ko so jo razdelili na vojvodini Mecklenburg-Güstrow in Mecklenburg-Schwerin. Znova je nastala leta 1695 z združitvijo Mecklenburg-Güstrowa in Mecklenburg-Schwerina; vojvoda je postal Friderik Viljem. Leta 1701 so jo razdelili na vojvodini Mecklenburg-Schwerin in Mecklenburg-Strelitz."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Duchy of Mecklenburg",
+    "rev": 1328665008,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Duchy of Mecklenburg was a duchy within the Holy Roman Empire, located in the region of Mecklenburg. It existed during the Late Middle Ages and the early modern period, from 1471 to 1520, as well as 1695 to 1701. Its capital was Schwerin.",
+     "The state was formed in 1471, when duke Henry IV, had united the duchies of Mecklenburg-Stargard and Mecklenburg-Schwerin. The state existed until 7 May 1520, when it was partitioned into the duchies of Mecklenburg-Güstrow and Mecklenburg-Schwerin. It was again reestablished in 1695, with the unification of Mecklenburg-Güstrow and Mecklenburg-Schwerin. Frederick William became the duke. In 1701, it was partitioned into the duchies of Mecklenburg-Schwerin and Mecklenburg-Strelitz."
+    ]
+   },
+   "records": [
+    "duchy-of-mecklenburg"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Duchy of Nassau": {
+   "paragraphs": [
+    "Vojvodina Nassau (nemško: Herzogtum Nassau) je bila med letoma 1806 in 1866 samostojna država na območju današnjih nemških zveznih dežel Porenje-Pfalška in Hessen. Bila je članica Renske zveze in pozneje Nemške zveze. Vladajoča dinastija, pozneje izumrla, je bila rodbina Nassau. Ime je dobila po gradu Nassau, ta pa po svojem zgodovinskem središču, mestu Nassau, čeprav prestolnica ni bila v Nassauu, temveč v Wiesbadnu. Leta 1865 je imela Vojvodina Nassau 465.636 prebivalcev. Potem ko jo je Kraljevina Prusija po avstrijsko-pruski vojni leta 1866 zasedla in priključila, je postala del province Hessen-Nassau. Območje je zemljepisna in zgodovinska pokrajina Nassau, Nassau pa je tudi ime naravnega parka Nassau v mejah nekdanje vojvodine."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Duchy of Nassau",
+    "rev": 1376162646,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Duchy of Nassau (German: Herzogtum Nassau) was an independent state between 1806 and 1866, located in what became the German states of Rhineland-Palatinate and Hesse. It was a member of the Confederation of the Rhine and later of the German Confederation. Its ruling dynasty, later extinct, was the House of Nassau. The duchy was named after the Nassau Castle, itself after its historical core city, Nassau, although Wiesbaden rather than Nassau was its capital. In 1865, the Duchy of Nassau had 465,636 inhabitants. After being occupied and annexed into the Kingdom of Prussia in 1866 following the Austro-Prussian War, it was incorporated into the Province of Hesse-Nassau. The area is a geographical and historical region, Nassau, and Nassau is also the name of the Nassau Nature Park within the borders of the former duchy."
+    ]
+   },
+   "records": [
+    "duchy-of-nassau"
+   ],
+   "translated": "2026-10-24"
+  },
   "Duchy of Normandy": {
    "paragraphs": [
     "Vojvodina Normandija je nastala s pogodbo iz Saint-Clair-sur-Epte leta 911 med zahodnofrankovskim kraljem Karlom III. in vikinškim voditeljem Rollonom. Vojvodina je dobila ime po svojih prebivalcih, Normanih.",
@@ -8135,6 +8455,166 @@
     "duchy-of-normandy"
    ],
    "translated": "2026-10-23"
+  },
+  "Duchy of Oldenburg": {
+   "paragraphs": [
+    "Vojvodina Oldenburg (nemško: Herzogtum Oldenburg), imenovana po prestolnici, mestu Oldenburg, je bila država na severozahodu današnje Nemčije.",
+    "Ko je leta 1667 umrl grof Anton Günther, je grofijo Oldenburg podedoval danski kralj Friderik III., član danske veje rodbine Oldenburg. Leta 1773 je pogodba iz Carskega Sela grofijo prenesla na Friderika Avgusta I. iz mlajše veje Holstein-Gottorp. Grofija je bila nato povzdignjena v vojvodino.",
+    "Po priključitvi Francoskemu cesarstvu leta 1810 je bila vojvodina leta 1815 obnovljena kot velika vojvodina. Vojvoda Peter I. je naslov velikega vojvode Oldenburga prevzel leta 1823."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Duchy of Oldenburg",
+    "rev": 1345895241,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Duchy of Oldenburg (German: Herzogtum Oldenburg), named for its capital, the town of Oldenburg, was a state in the north-west of present-day Germany.",
+     "On the death of Count Anthony Günther in 1667, the county of Oldenburg was inherited by King Frederick III of Denmark, a member of the Danish line of the House of Oldenburg. In 1773, the Treaty of Tsarskoye Selo transferred the county to Frederick August I of the junior Holstein-Gottorp branch. Subsequently, the county was elevated to a duchy.",
+     "After annexation by the French Empire in 1810, the duchy was restored as a grand duchy in 1815. Duke Peter I assumed the title of Grand Duke of Oldenburg in 1823."
+    ]
+   },
+   "records": [
+    "duchy-of-oldenburg"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Duchy of Opole": {
+   "headline": "Vojvodina Opole",
+   "paragraphs": [
+    "Vojvodina Opole (poljsko: Księstwo opolskie; češko: Opolské knížectví; nemško: Herzogtum Oppeln) je bila ena od šlezijskih vojvodin, ki ji je vladala veja poljske dinastije Piastov, nastala pa je med srednjeveško razdrobitvijo Poljske na pokrajinske vojvodine. Prestolnica je bila v Opolu v Zgornji Šleziji."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Duchy of Opole",
+    "rev": 1358213384,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Duchy of Opole (Polish: Księstwo opolskie; Czech: Opolské knížectví; German: Herzogtum Oppeln) was one of the duchies of Silesia ruled by the branch of Polish Piast dynasty, formed during the medieval fragmentation of Poland into provincial duchies. Its capital was Opole in Upper Silesia."
+    ]
+   },
+   "records": [
+    "duchy-of-opole"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Duchy of Prussia": {
+   "paragraphs": [
+    "Vojvodina Prusija (nemško: Herzogtum Preußen, poljsko: Księstwo Pruskie, litovsko: Prūsijos kunigaikštystė) ali vojvodska Prusija (nemško: Herzogliches Preußen; poljsko: Prusy Książęce) je bila vojvodina v pokrajini Prusiji, ki je nastala s sekularizacijo samostanske Prusije, ozemlja, ki je bilo do protestantske reformacije leta 1525 pod oblastjo države Tevtonskega reda."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Duchy of Prussia",
+    "rev": 1362718373,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Duchy of Prussia (German: Herzogtum Preußen, Polish: Księstwo Pruskie, Lithuanian: Prūsijos kunigaikštystė) or Ducal Prussia (German: Herzogliches Preußen; Polish: Prusy Książęce) was a duchy in the region of Prussia established as a result of secularization of the Monastic Prussia, the territory that remained under the control of the State of the Teutonic Order until the Protestant Reformation in 1525."
+    ]
+   },
+   "records": [
+    "duchy-of-prussia"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Duchy of Racibórz": {
+   "paragraphs": [
+    "Vojvodina Racibórz (poljsko: Księstwo raciborskie, češko: Ratibořské knížectví, nemško: Herzogtum Ratibor) je bila ena od šlezijskih vojvodin, ki so nastale med srednjeveško razdrobitvijo Poljske na pokrajinske vojvodine. Prestolnica je bila v Raciborzu v Zgornji Šleziji."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Duchy of Racibórz",
+    "rev": 1379512840,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "Duchy of Racibórz (Polish: Księstwo raciborskie, Czech: Ratibořské knížectví, German: Herzogtum Ratibor) was one of the duchies of Silesia, formed during the medieval fragmentation of Poland into provincial duchies. Its capital was Racibórz in Upper Silesia."
+    ]
+   },
+   "records": [
+    "duchy-of-raciborz"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Duchy of Sandomierz": {
+   "headline": "Vojvodina Sandomierz",
+   "paragraphs": [
+    "Vojvodina Sandomierz je bila pokrajinska kneževina in fevd Kraljevine Poljske. Nastala je leta 1138 na ozemlju Kraljevine Poljske ob njeni razdrobitvi, ki jo je sprožila oporoka Boleslava III. Krivoustega. Obstajala je do leta 1320, ko je bila priključena Kraljevini Poljski. Prestolnica je bila v Sandomierzu. Ozemlje je imelo središče v sandomierski deželi v jugovzhodnem kotu Poljske, med rekami Pilica, Visla, San in Dunajec."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Duchy of Sandomierz",
+    "rev": 1358214955,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Duchy of Sandomierz was a district principality and a fiefdom of the Kingdom of Poland. It was formed in 1138 from the territories of the Kingdom of Poland, following its fragmentation, that was started by the testament of Bolesław III Wrymouth. The Duchy existed until 1320 when it was incorporated into the Kingdom of Poland. Its capital was the city of Sandomierz. The territory was centred around Sandomierz Land in the southeastern corner of Poland, between the rivers of Pilica, Vistula, San, and Dunajec."
+    ]
+   },
+   "records": [
+    "duchy-of-sandomierz"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Duchy of Silesia": {
+   "headline": "Vojvodina Šlezija",
+   "paragraphs": [
+    "Vojvodina Šlezija (poljsko: Księstwo Śląskie, nemško: Herzogtum Schlesien, češko: Slezské knížectví, šlezijsko: Ślōnski firsztyntōm) s prestolnico v Vroclavu je bila srednjeveška pokrajinska vojvodina Poljske v pokrajini Šleziji.",
+    "Kmalu po nastanku pod piastovsko dinastijo leta 1138 se je razdrobila na različne šlezijske vojvodine. Leta 1327 so preostala Vojvodina Vroclav in večina drugih vojvodin, ki so jim vladali šlezijski Piasti, kot šlezijske vojvodine prešle pod nadoblast Kraljevine Češke. Pridobitev je bila dokončana, ko se je poljski kralj Kazimir III. Veliki v trenčinski pogodbi leta 1335 odpovedal pravicam do Šlezije."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Duchy of Silesia",
+    "rev": 1370203072,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Duchy of Silesia (Polish: Księstwo Śląskie, German: Herzogtum Schlesien, Czech: Slezské knížectví, Silesian: Ślōnski firsztyntōm) with its capital at Wrocław was a medieval provincial duchy of Poland located in the region of Silesia.",
+     "Soon after it was formed under the Piast dynasty in 1138, it fragmented into various Silesian duchies. In 1327, the remaining Duchy of Wrocław as well as most other duchies ruled by the Silesian Piasts passed under the suzerainty of the Kingdom of Bohemia as the Duchies of Silesia. The acquisition was completed when King Casimir III the Great of Poland renounced his rights to Silesia in the 1335 Treaty of Trentschin."
+    ]
+   },
+   "records": [
+    "duchy-of-silesia"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Duchy of Thuringia": {
+   "headline": "Vojvodina Turingija",
+   "paragraphs": [
+    "Vojvodina Turingija, pozneje znana kot Deželna grofija Turingija, je bila politična tvorba v srednjeveški Turingiji, sprva vojvodina, nato deželna grofija. Njeno središče je bila domovina Turingov, obsegala pa je ozemlja, ki so jim prej vladali neodvisni turinški kralji. V prvi polovici 6. stoletja je Turingija prišla pod vrhovno oblast frankovskih kraljev in je bila organizirana kot vzhodna obmejna pokrajina merovinškega kraljestva Avstrazije. Kot vojvodino jo je okoli leta 631 ustanovil kralj Dagobert I., ki je za prvega turinškega vojvodo imenoval domačega turinškega plemiča Radulfa. Znova je nastala v Karolinškem cesarstvu, nato pa je pripadala Vzhodnofrankovskemu kraljestvu."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Duchy of Thuringia",
+    "rev": 1379349789,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Duchy of Thuringia, later known as the Landgraviate of Thuringia, was a polity in medieval Thuringia, initially a duchy, and then a landgraviate. It was centered in the homeland of Thuringians, encompassing territories previously ruled by independent Kings of Thuringia. During the first half of the 6th century, Thuringia came under the supreme rule of Frankish kings, and was organized as an eastern frontier region of the Merovingian kingdom of Austrasia. It was established as a duchy about 631, by King Dagobert I, who appointed a local Thuringian noble Radulf as the first Duke of Thuringia. It was recreated within the Carolingian Empire, and then belonged to the East Frankish Realm."
+    ]
+   },
+   "records": [
+    "duchy-of-thuringia"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Duchy of Wrocław": {
+   "headline": "Vojvodina Vroclav",
+   "paragraphs": [
+    "Vojvodina Šlezija (poljsko: Księstwo Śląskie, nemško: Herzogtum Schlesien, češko: Slezské knížectví, šlezijsko: Ślōnski firsztyntōm) s prestolnico v Vroclavu je bila srednjeveška pokrajinska vojvodina Poljske v pokrajini Šleziji.",
+    "Kmalu po nastanku pod piastovsko dinastijo leta 1138 se je razdrobila na različne šlezijske vojvodine. Leta 1327 so preostala Vojvodina Vroclav in večina drugih vojvodin, ki so jim vladali šlezijski Piasti, kot šlezijske vojvodine prešle pod nadoblast Kraljevine Češke. Pridobitev je bila dokončana, ko se je poljski kralj Kazimir III. Veliki v trenčinski pogodbi leta 1335 odpovedal pravicam do Šlezije."
+   ],
+   "notes": [
+    "The English title redirects to Duchy of Silesia, so the summary is the same as that record's."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Duchy of Silesia",
+    "rev": 1370203072,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Duchy of Silesia (Polish: Księstwo Śląskie, German: Herzogtum Schlesien, Czech: Slezské knížectví, Silesian: Ślōnski firsztyntōm) with its capital at Wrocław was a medieval provincial duchy of Poland located in the region of Silesia.",
+     "Soon after it was formed under the Piast dynasty in 1138, it fragmented into various Silesian duchies. In 1327, the remaining Duchy of Wrocław as well as most other duchies ruled by the Silesian Piasts passed under the suzerainty of the Kingdom of Bohemia as the Duchies of Silesia. The acquisition was completed when King Casimir III the Great of Poland renounced his rights to Silesia in the 1335 Treaty of Trentschin."
+    ]
+   },
+   "records": [
+    "duchy-of-wroclaw"
+   ],
+   "translated": "2026-10-24"
   },
   "Dumnonia": {
    "paragraphs": [
@@ -8217,6 +8697,75 @@
     "Q193689"
    ],
    "translated": "2026-10-23"
+  },
+  "Electorate of Hanover": {
+   "paragraphs": [
+    "Volilna kneževina Hannover (nemško: Kurfürstentum Hannover ali preprosto Kurhannover) je bila volilna kneževina Svetega rimskega cesarstva na severozahodu Nemčije, ki je nastala iz Kneževine Calenberg. Čeprav je bilo njeno uradno ime Volilna kneževina Braunschweig-Lüneburg (nemško: Kurfürstentum Braunschweig-Lüneburg), je za prestolnico izbrala Hannover. Večino časa je bila volilna kneževina zaradi hannovrskega nasledstva v personalni uniji z Veliko Britanijo in Irsko."
+   ],
+   "notes": [
+    "The glossary headline is the formal name, written with a spaced hyphen (Volilna kneževina Braunschweig - Lüneburg); the text uses the common name Hannover and the unspaced German form. Worth reviewing with the other spaced-hyphen names (Danska - Norveška, Saška - Weimar - Eisenach, Kneževina Hohenzollern - Sigmaringen)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Electorate of Hanover",
+    "rev": 1379140430,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Electorate of Hanover (German: Kurfürstentum Hannover or simply Kurhannover) was an electorate of the Holy Roman Empire located in northwestern Germany that arose from the Principality of Calenberg. Although formally known as the Electorate of Brunswick-Lüneburg (German: Kurfürstentum Braunschweig-Lüneburg), it made Hanover its capital city. For most of its existence, the electorate was ruled in personal union with Great Britain and Ireland following the Hanoverian Succession."
+    ]
+   },
+   "records": [
+    "electorate-of-hanover"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Electorate of Hesse": {
+   "paragraphs": [
+    "Volilna kneževina Hessen (nemško: Kurfürstentum Hessen), znana tudi kot Hessen-Kassel ali Kurhessen, je ime, ki ga je nosila nekdanja Deželna grofija Hessen-Kassel po reformi leta 1803, ko je cesar Svetega rimskega cesarstva Franc II. njenega vladarja povzdignil v volilnega kneza in mu tako dal glas pri prihodnjih volitvah cesarja. Ko je bilo leta 1806 Sveto rimsko cesarstvo odpravljeno, je hessenski volilni knez Viljem I. obdržal naslov volilnega kneza, čeprav ni bilo več cesarja, ki bi ga volil. Leta 1807 so ozemlje s tilsitskima pogodbama priključili Kraljevini Vestfaliji, leta 1814 pa je dunajski kongres volilno kneževino obnovil.",
+    "Država je bila edina volilna kneževina v Nemški zvezi. Sestavljalo jo je več ločenih ozemelj severno od Frankfurta, ki so obstajala do leta 1866, ko jo je po avstrijsko-pruski vojni priključila Prusija.",
+    "Formalni naslovi volilnega kneza so obsegali »volilni knez Hessna, knez Fulde (Fürst von Fulda), knez Hersfelda, Hanaua, Fritzlarja in Isenburga, grof Katzenelnbogna, Dietza, Ziegenhaina, Nidde in Schaumburga«."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Electorate of Hesse",
+    "rev": 1379249229,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Electorate of Hesse (German: Kurfürstentum Hessen), also known as Hesse-Kassel or Kurhessen, was the title used for the former Landgraviate of Hesse-Kassel after an 1803 reform where Francis II, Holy Roman Emperor elevated its ruler to the rank of Elector, thus giving him a vote in any future elections to the emperorship. When the Holy Roman Empire was abolished in 1806, William I, Elector of Hesse, chose to retain the title of Elector, even though there was no longer an Emperor to elect. In 1807, with the Treaties of Tilsit, the area was annexed to the Kingdom of Westphalia, but in 1814, the Congress of Vienna restored the electorate.",
+     "The state was the only electorate within the German Confederation. It consisted of several detached territories to the north of Frankfurt, which survived until the state was annexed by Prussia in 1866 following the Austro-Prussian War.",
+     "The Elector's formal titles included \"Elector of Hesse, Prince of Fulda (Fürst von Fulda), Prince of Hersfeld, Hanau, Fritzlar and Isenburg, Count of Katzenelnbogen, Dietz, Ziegenhain, Nidda, and Schaumburg.\""
+    ]
+   },
+   "records": [
+    "electorate-of-hesse"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Electorate of Trier": {
+   "paragraphs": [
+    "Elektorat Trier (nemško: Kurfürstentum Trier ali Kurtrier; francosko: Trèves) je bil cerkvena kneževina Svetega rimskega cesarstva, ki je obstajala od konca 9. do začetka 19. stoletja. Bil je posvetna posest trierskega knezonadškofa (Erzbistum Trier), ki je bil po položaju volilni knez cesarstva. Druga cerkvena volilna kneza sta bila nadškofa Kölna in Mainza (v posvetnem kontekstu imenovana preprosto volilna kneza).",
+    "Prestolnica elektorata je bila v Trierju; od 16. stoletja je bila glavna rezidenca volilnega kneza v Koblenzu. Elektorat je bil sekulariziran leta 1803 med nemško mediatizacijo.",
+    "Trierski volilni knez je kot nadškof upravljal tudi trierško nadškofijo, katere ozemlje se ni ujemalo z elektoratom."
+   ],
+   "notes": [
+    "The reference \"(see map below)\" points to the English article and is dropped.",
+    "The glossary has Elektorat Trier, while the other electorates are Volilna kneževina (Hessen, Braunschweig-Lüneburg); worth harmonising."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Electorate of Trier",
+    "rev": 1381273288,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Electorate of Trier (German: Kurfürstentum Trier or Kurtrier; French: Trèves) was an ecclesiastical principality of the Holy Roman Empire that existed from the end of the 9th to the early 19th century. It was the temporal possession of the prince-archbishop of Trier (Erzbistum Trier) who was, ex officio, a prince-elector of the empire. The other ecclesiastical electors were the archbishops (in the secular context called simply electors) of Cologne and Mainz.",
+     "The capital of the electorate was Trier; from the 16th century onward, the main residence of the Elector was in Koblenz. The electorate was secularized in 1803 in the course of the German mediatisation.",
+     "The Elector of Trier, in his capacity as archbishop, also administered the Archdiocese of Trier, whose territory did not correspond to the electorate (see map below)."
+    ]
+   },
+   "records": [
+    "electorate-of-trier"
+   ],
+   "translated": "2026-10-24"
   },
   "English Armada": {
    "headline": "Angleška armada",
@@ -8697,6 +9246,65 @@
    ],
    "translated": "2026-10-23"
   },
+  "Free City of Cracow": {
+   "paragraphs": [
+    "Svobodno mesto Krakov (poljsko: Wolne Miasto Kraków), znano tudi kot Krakovska republika (poljsko: Rzeczpospolita Krakowska), uradno Svobodno, neodvisno in strogo nevtralno mesto Krakov z okrožjem, je bilo nominalno neodvisna mestna država, ki je obstajala od leta 1815 do 1846. Ustanovil jo je dunajski kongres na ozemlju nekdanjega Varšavskega vojvodstva, ki so si ga po kongresu leta 1815 razdelili Rusko, Prusko in Avstrijsko cesarstvo. Svobodno mesto je obsegalo poljsko mesto Krakov in okoliško okrožje.",
+    "Čeprav je bilo formalno avtonomno, so svobodno mesto skupaj nadzorovale tri močnejše sosede: Rusija, Prusija in Avstrija. Bilo je središče političnega in intelektualnega delovanja za poljsko neodvisnost. Leta 1846 je Avstrija po neuspeli krakovski vstaji mestno državo enostransko priključila in jo postavila pod neposreden nadzor."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Free City of Cracow",
+    "rev": 1375636251,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Free City of Cracow (Polish: Wolne Miasto Kraków), also known as the Republic of Cracow (Polish: Rzeczpospolita Krakowska), and officially the Free, Independent, and Strictly Neutral City of Cracow and its District, was a nominally independent city-state that existed from 1815 to 1846. It was established by the Congress of Vienna using territory from the former Duchy of Warsaw, which had been divided among the Russian, Prussian and Austrian empires after the Congress in 1815. The Free City comprised the Polish city of Cracow (Kraków) and its surrounding district.",
+     "Although formally autonomous, the Free City was jointly overseen by its three more powerful neighbours: Russia, Prussia and Austria. It served as a centre of political and intellectual activity promoting Polish independence. In 1846, after the failed Kraków Uprising, Austria unilaterally annexed the city-state and brought it under direct control."
+    ]
+   },
+   "records": [
+    "free-city-of-krakow"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Free City of Frankfurt": {
+   "paragraphs": [
+    "Frankfurt je bil eno glavnih mest Svetega rimskega cesarstva: od leta 885 je bil sedež cesarskih volitev, od leta 1562 (prej so jih opravljali v svobodnem cesarskem mestu Aachen) do leta 1792 pa kraj cesarskih kronanj. Leta 1372 je bil razglašen za svobodno cesarsko mesto (Freie und Reichsstadt), kar mu je dalo status cesarske neposrednosti: neposredno je bil podrejen cesarju Svetega rimskega cesarstva in ne kateremu koli deželnemu knezu."
+   ],
+   "notes": [
+    "The record is the Free City of Frankfurt (1815–1866), but the summary describes the earlier Imperial Free City; the data link is worth checking."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Free City of Frankfurt",
+    "rev": 1381135866,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "Frankfurt was a major city of the Holy Roman Empire, serving as the seat of imperial elections since 885 and as the site of imperial coronations from 1562 (previously held in the Free Imperial City of Aachen) until 1792. Frankfurt was declared an Imperial Free City (Freie und Reichsstadt) in 1372, giving it the status of Imperial immediacy, meaning it was directly subordinate to the Holy Roman Emperor rather than to any territorial prince."
+    ]
+   },
+   "records": [
+    "free-city-of-frankfurt"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Free City of Lübeck": {
+   "paragraphs": [
+    "Svobodno in hanzeatsko mesto Lübeck (nemško: Freie und Hansestadt Lübeck) je bilo nemška mestna država od leta 1226 do 1937 na območju današnje zvezne dežele Schleswig-Holstein."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Free City of Lübeck",
+    "rev": 1364230730,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Free and Hanseatic City of Lübeck (German: Freie und Hansestadt Lübeck) was a German city-state from 1226 to 1937, in what is now the federal state of Schleswig-Holstein."
+    ]
+   },
+   "records": [
+    "free-city-of-lubeck"
+   ],
+   "translated": "2026-10-24"
+  },
   "French expedition to Ireland (1796)": {
    "headline": "Francoska odprava na Irsko (1796)",
    "paragraphs": [
@@ -8738,6 +9346,27 @@
     "Q622774"
    ],
    "translated": "2026-10-23"
+  },
+  "Frisia": {
+   "paragraphs": [
+    "Frizija je čezmejna kulturna pokrajina v severozahodni Evropi. Razteza se ob Vatskem morju in obsega sever Nizozemske ter dele severozahodne Nemčije. Širše opredelitve »Frizije« lahko vključujejo tudi otok Rømø in druge danske otoke Vatskega morja. Pokrajino tradicionalno naseljujejo Frizijci, zahodnogermanska etnična skupina."
+   ],
+   "notes": [
+    "A state record linked to the article on the modern cultural region; the data link is worth checking."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Frisia",
+    "rev": 1376170657,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "Frisia is a cross-border cultural region in Northwestern Europe. Stretching along the Wadden Sea, it encompasses the north of the Netherlands and parts of northwestern Germany. Wider definitions of \"Frisia\" may include the island of Rømø and the other Danish Wadden Sea Islands. The region is traditionally inhabited by the Frisians, a West Germanic ethnic group."
+    ]
+   },
+   "records": [
+    "frisia-kingdom"
+   ],
+   "translated": "2026-10-24"
   },
   "Frisian Kingdom": {
    "paragraphs": [
@@ -8857,6 +9486,26 @@
    ],
    "translated": "2026-10-23"
   },
+  "Grand Duchy of Baden": {
+   "paragraphs": [
+    "Velika vojvodina Baden (nemško: Großherzogtum Baden) je bila nemška država na vzhodnem bregu Rena. Sprva je bila suverena država od leta 1806 do 1871, nato pa do leta 1918 del Nemškega cesarstva.",
+    "Vojvodina je izvirala iz mejne grofije iz 12. stoletja, ki se je sčasoma razdelila na dve, Baden-Durlach in Baden-Baden, ponovno pa se je združila leta 1771. Ozemlje se je povečalo in po razpadu Svetega rimskega cesarstva dobilo vojvodski status, leta 1848 pa ga je pretresla revolucija, katere zahteve so bile leto prej oblikovane v Offenburgu na zborovanju, ki danes velja za prvi demokratični program v Nemčiji. Po propadu Nemškega cesarstva je Baden pod imenom Republika Baden postal del Weimarske republike."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Grand Duchy of Baden",
+    "rev": 1374523877,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Grand Duchy of Baden (German: Großherzogtum Baden) was a German polity on the east bank of the Rhine. It originally existed as a sovereign state from 1806 to 1871 and later as part of the German Empire until 1918.",
+     "The duchy's 12th-century origins were as a margraviate that eventually split into two, Baden-Durlach and Baden-Baden, before being reunified in 1771. The territory grew and assumed its ducal status after the dissolution of the Holy Roman Empire but suffered a revolution in 1848, whose demands had been formulated in Offenburg the previous year at a meeting now considered the first-ever democratic program in Germany. With the collapse of the German Empire it became part of the Weimar Republic under the name Republic of Baden."
+    ]
+   },
+   "records": [
+    "grand-duchy-of-baden"
+   ],
+   "translated": "2026-10-24"
+  },
   "Grand Duchy of Berg": {
    "paragraphs": [
     "Veliko vojvodstvo Berg (nemško: Großherzogtum Berg), znano tudi kot Veliko vojvodstvo Berg in Kleve, je bilo ozemeljsko veliko vojvodstvo, ki ga je leta 1806 po zmagi v bitki pri Slavkovu (1805) ustanovil Napoleon na ozemljih med Francoskim cesarstvom ob Renu in nemško Kraljevino Vestfalijo."
@@ -8970,6 +9619,26 @@
     "house-of-valois-anjou"
    ],
    "translated": "2026-10-23"
+  },
+  "Hungarian People's Republic": {
+   "paragraphs": [
+    "Ljudska republika Madžarska je bila madžarska država od 20. avgusta 1949 do ustanovitve sedanje Republike Madžarske 23. oktobra 1989. Bila je samooklicana komunistična država, ki ji je najprej vladala Madžarska delavska ljudska stranka, po madžarski revoluciji leta 1956 pa Madžarska socialistična delavska stranka. Obe vladi sta bili kot del vzhodnega bloka tesno povezani s Sovjetsko zvezo.",
+    "Država se je imela za dedinjo Madžarske sovjetske republike, ki je nastala leta 1919 kot ena prvih komunističnih držav po Ruski sovjetski federativni socialistični republiki (Ruski SFSR). Sovjetska zveza jo je v 1940. letih označila za »ljudsko demokratično republiko«. Na vzhodu je mejila na Romunijo in Sovjetsko zvezo (prek Ukrajinske SSR), na jugozahodu na Jugoslavijo (prek SR Hrvaške, Srbije in Slovenije), na severu na Češkoslovaško, na zahodu pa na Avstrijo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Hungarian People's Republic",
+    "rev": 1381556229,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Hungarian People's Republic was the Hungarian state from 20 August 1949 until the establishment of the current Republic of Hungary on 23 October 1989. It was a professed communist state, governed first by the Hungarian Working People's Party and after the Hungarian Revolution of 1956, the Hungarian Socialist Workers' Party. Both governments were closely tied to the Soviet Union as part of the Eastern Bloc.",
+     "The state considered itself the heir to the Hungarian Soviet Republic, which was formed in 1919 as one of the first communist states created after the Russian Soviet Federative Socialist Republic (Russian SFSR). It was designated a \"people's democratic republic\" by the Soviet Union in the 1940s. Geographically, it bordered Romania and the Soviet Union (via the Ukrainian SSR) to the east; Yugoslavia (via SRs Croatia, Serbia, and Slovenia) to the southwest; Czechoslovakia to the north and Austria to the west."
+    ]
+   },
+   "records": [
+    "hungarian-people-s-republic"
+   ],
+   "translated": "2026-10-24"
   },
   "Hwicce": {
    "headline": "Hwicce",
@@ -9511,6 +10180,25 @@
    ],
    "translated": "2026-10-23"
   },
+  "Kingdom of Poland": {
+   "paragraphs": [
+    "Kraljevina Poljska (poljsko: Królestwo Polskie; latinsko: Regnum Poloniae) je bila država v srednji Evropi v srednjem in zgodnjem novem veku, od leta 1025 do 1795."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Poland",
+    "rev": 1379179917,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Kingdom of Poland (Polish: Królestwo Polskie; Latin: Regnum Poloniae) was a state in Central Europe during the medieval and early modern periods from 1025 until 1795."
+    ]
+   },
+   "records": [
+    "kingdom-of-poland-1305",
+    "kingdom-of-poland-962"
+   ],
+   "translated": "2026-10-24"
+  },
   "Kingdom of Powys": {
    "paragraphs": [
     "Kraljestvo Powys (latinsko: Regnum Poysiae) je bilo valižanska država naslednica, majhno kraljestvo in kneževina, ki je nastalo v srednjem veku po koncu rimske oblasti v Britaniji. Zelo približno je obsegalo severni dve tretjini današnje grofije Powys in del današnjega angleškega West Midlandsa. Natančneje, njegove meje so temeljile na rimsko-britanskih plemenskih ozemljih Ordovikov na zahodu in Kornovijev na vzhodu ter so sprva segale od Kambrijskega gorovja na zahodu do današnje angleške regije West Midlands na vzhodu. Tam ležita rodovitni dolini rek Severn in Tern, to območje pa poznejša valižanska književnost imenuje »raj Powysa« (vzdevek, ki se je v valižanščini ohranil za današnjo britansko grofijo)."
@@ -9531,6 +10219,27 @@
     "kingdom-of-powys"
    ],
    "translated": "2026-10-23"
+  },
+  "Kingdom of Prussia": {
+   "paragraphs": [
+    "Kraljevina Prusija (nemško: Königreich Preußen) je bila nemška država, ki je obstajala od leta 1701 do 1918. Imela je pomembno vlogo pri združitvi Nemčije leta 1871 in je bila glavni sestavni del Nemškega cesarstva do njegovega razpada leta 1918. Ime je dobila po zgodovinski pokrajini Prusiji, ki jo je večinoma nadzorovala, čeprav je imela središče v Brandenburški marki, njena prestolnica pa je bila v Berlinu."
+   ],
+   "notes": [
+    "The German pronunciation in IPA is dropped."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Prussia",
+    "rev": 1377679072,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Kingdom of Prussia (German: Königreich Preußen, pronounced [ˈkøːnɪkʁaɪç ˈpʁɔʏsn̩] ) was a German state that existed from 1701 to 1918. It played a significant role in the unification of Germany in 1871 and was a major constituent of the German Empire until its dissolution in 1918. The Kingdom of Prussia took its name from the historical region of Prussia, and controlled most of said region, although it was based in the Margraviate of Brandenburg, and its capital was Berlin."
+    ]
+   },
+   "records": [
+    "kingdom-of-prussia"
+   ],
+   "translated": "2026-10-24"
   },
   "Kingdom of Scotland": {
    "paragraphs": [
@@ -9908,6 +10617,24 @@
     "Q1156738"
    ],
    "translated": "2026-10-23"
+  },
+  "Margraviate of Moravia": {
+   "paragraphs": [
+    "Moravska mejna grofija (češko: Markrabství moravské; nemško: Markgrafschaft Mähren) je bila ena od dežel češke krone v Svetem rimskem cesarstvu, Avstrijskem cesarstvu in Avstro-Ogrski, ki je obstajala od leta 1182 do 1918. Uradno jo je upravljal mejni grof v sodelovanju z deželnim zborom. Bila je bodisi dejansko neodvisna država bodisi podrejena vojvodini, pozneje Kraljevini Češki. Obsegala je zgodovinsko pokrajino Moravsko, ki leži v današnji Češki republiki."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Margraviate of Moravia",
+    "rev": 1379894919,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Margraviate of Moravia (Czech: Markrabství moravské; German: Markgrafschaft Mähren) was one of the Lands of the Bohemian Crown within the Holy Roman Empire, the Austrian Empire and Austria-Hungary, existing from 1182 to 1918. It was officially administered by a margrave in cooperation with a provincial diet. It was variously a de facto independent state, and also subject to the Duchy, later the Kingdom of Bohemia. It comprised the historical region called Moravia, which lies within the present-day Czech Republic."
+    ]
+   },
+   "records": [
+    "margraviate-of-moravia"
+   ],
+   "translated": "2026-10-24"
   },
   "Massacre at Béziers": {
    "headline": "Pokol v Béziersu",
@@ -11168,6 +11895,24 @@
    ],
    "translated": "2026-10-23"
   },
+  "Second Polish Republic": {
+   "paragraphs": [
+    "Druga poljska republika, takrat uradno Republika Poljska, je bila poljska država, ki je obstajala med 7. oktobrom 1918 in 6. oktobrom 1939, ustanovljena v zadnji fazi prve svetovne vojne. Leta 1939, na predvečer njene enaindvajsete obletnice, so jo zasedli, potem ko so vanjo vdrle nacistična Nemčija, Sovjetska zveza in Slovaška republika, s čimer se je začelo evropsko bojišče druge svetovne vojne. Poljska vlada v izgnanstvu je bila ustanovljena v Parizu, po padcu Francije leta 1940 pa v Londonu."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Second Polish Republic",
+    "rev": 1381563273,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Second Polish Republic, officially known at the time as the Republic of Poland, was the Polish state that existed between 7 October 1918 and 6 October 1939 after being established in the final stage of World War I. The Second Republic was taken over in 1939 on the eve of its twenty-first anniversary, after it was invaded by Nazi Germany, the Soviet Union, and the Slovak Republic, marking the beginning of the European theatre of the Second World War. The Polish government-in-exile was established in Paris and later London after the fall of France in 1940."
+    ]
+   },
+   "records": [
+    "second-polish-republic"
+   ],
+   "translated": "2026-10-24"
+  },
   "Second Treaty of London": {
    "headline": "Druga londonska pogodba (1359)",
    "paragraphs": [
@@ -12305,6 +13050,45 @@
    ],
    "translated": "2026-10-23"
   },
+  "Swedish Empire": {
+   "paragraphs": [
+    "Švedski imperij, na Švedskem imenovan obdobje velesile (švedsko: stormaktstiden), je bil obdobje švedske zgodovine, ki je obsegalo velik del 17. in začetek 18. stoletja, ko je bila Švedska evropska velesila in je nadzorovala velik del baltskega območja. V tem času je imela tudi ozemlja ob Severnem morju in čezmorske kolonije, kot je bila Nova Švedska. Za začetek obdobja navadno štejejo vladavino Gustava II. Adolfa, ki je prestol zasedel leta 1611, za konec pa izgubo ozemelj leta 1721 po veliki severni vojni.",
+    "Po smrti Gustava II. Adolfa leta 1632 je imperij dolga obdobja nadzoroval del visokega plemstva, na primer rodbina Oxenstierna, ki je vladala kot regent za mladoletne vladarje."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Swedish Empire",
+    "rev": 1371018815,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Swedish Empire, referred to in Sweden as the Great Power Era (Swedish: stormaktstiden), was the period in Swedish history spanning much of the 17th and early 18th centuries during which Sweden was a European great power that exercised territorial control over much of the Baltic region. During this period, it also held territories on the North Sea including overseas colonies, such as New Sweden. The beginning of the period is usually taken as the reign of Gustavus Adolphus, who ascended the throne in 1611, and its end as the loss of territories in 1721 following the Great Northern War.",
+     "After the death of Gustavus Adolphus in 1632, the empire was controlled for lengthy periods by part of the high nobility, such as the Oxenstierna family, acting as regents for under-aged monarchs."
+    ]
+   },
+   "records": [
+    "swedish-empire"
+   ],
+   "translated": "2026-10-24"
+  },
+  "Swedish invasion of Poland (1701-1706)": {
+   "headline": "Švedska invazija na Poljsko (1701–1706)",
+   "paragraphs": [
+    "Švedska invazija na Poljsko (1701–1706), znana tudi kot invazija Karla XII. na Poljsko ali poljska fronta velike severne vojne, je bila spopad v vzhodni Evropi, ki ga je zasenčila velika severna vojna med Švedsko na eni strani ter Rusijo, Dansko-Norveško, Saško in Republiko obeh narodov na drugi. Poljska fronta je bila pomemben del širšega spopada in je obsegala nekaj odločilnih bitk v korist Švedov, ki so prispevale k dolžini vojne (21 let)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Swedish invasion of Poland (1701–1706)",
+    "rev": 1370749189,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The Swedish invasion of Poland (1701–1706), also known as Charles XII's invasion of Poland or the Polish front of the Great Northern War, was a conflict in eastern Europe overshadowed by the ongoing Great Northern War fought between Sweden, on the one side, and Russia, Denmark-Norway, Saxony and the Polish–Lithuanian Commonwealth on the other side. The Polish front was a major part of the greater conflict, and it included some decisive battles in favor of the Swedes that contributed to the length of the war (21 years)."
+    ]
+   },
+   "records": [
+    "pro-swedish-poland"
+   ],
+   "translated": "2026-10-24"
+  },
   "Taifa of Albarracín": {
    "headline": "Taifa Albarracín",
    "paragraphs": [
@@ -12770,6 +13554,25 @@
     "Q1657839"
    ],
    "translated": "2026-10-23"
+  },
+  "Testament of Bolesław III Wrymouth": {
+   "headline": "Oporoka Boleslava III. Krivoustega",
+   "paragraphs": [
+    "Oporoka piastovskega vojvode Boleslava III. Krivoustega je določila pravila, po katerih naj bi po njegovi smrti Poljskemu kraljestvu vladali njegovi štirje preživeli sinovi. Boleslav je z njo hotel zagotoviti, da se dediči ne bi bojevali med seboj in bi ohranili enotnost njegovih dežel pod piastovsko dinastijo. Kmalu po njegovi smrti pa so se sinovi spopadli med seboj in Poljska je vstopila v obdobje razdrobljenosti, ki je trajalo približno 200 let."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Testament of Bolesław III Wrymouth",
+    "rev": 1358931616,
+    "retrieved": "2026-10-24",
+    "paragraphs": [
+     "The last will and testament of the Piast duke Bolesław III Wrymouth of Poland, established rules for governance of the Polish kingdom by his four surviving sons after his death. By issuing it, Bolesław planned to guarantee that his heirs would not fight among themselves, and would preserve the unity of his lands under the Piast dynasty. However, soon after his death his sons fought each other, and Poland entered a period of fragmentation lasting about 200 years."
+    ]
+   },
+   "records": [
+    "duchies-of-poland"
+   ],
+   "translated": "2026-10-24"
   },
   "Third Battle of Artois": {
    "headline": "Tretja bitka v Artoisu",
