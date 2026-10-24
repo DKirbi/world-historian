@@ -9,6 +9,8 @@ interface Props {
   onClose: () => void;
   /** Focus moves to the title when this changes (not on every title update). */
   focusKey?: string;
+  /** Accessible name of the close button, in the reader's language. */
+  closeLabel?: string;
   children: ReactNode;
 }
 
@@ -16,7 +18,7 @@ interface Props {
  * Non-modal side panel on wide screens, bottom sheet on phones. The chart stays
  * usable behind it. Escape closes; focus moves to the title when it opens.
  */
-export function Sheet({ title, subtitle, onClose, focusKey, children }: Props) {
+export function Sheet({ title, subtitle, onClose, focusKey, closeLabel = 'Close panel', children }: Props) {
   const headingId = useId();
   const heading = useRef<HTMLHeadingElement>(null);
 
@@ -39,7 +41,7 @@ export function Sheet({ title, subtitle, onClose, focusKey, children }: Props) {
           </h2>
           {subtitle && <p className={s.subtitle}>{subtitle}</p>}
         </div>
-        <IconButton icon="close" label="Close panel" onClick={onClose} />
+        <IconButton icon="close" label={closeLabel} onClick={onClose} />
       </header>
       <div className={s.body}>{children}</div>
     </aside>

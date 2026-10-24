@@ -1,9 +1,8 @@
 import { useId, useMemo, useRef, useState } from 'react';
 import type { HistEvent, Polity, RegionData } from '@/data/types';
-import { formatEventDate, formatRange } from '@/lib/format';
-import { EVENT_TYPE_LABEL } from '@/lib/events';
-import { regionMeta } from '@/data/regions';
 import { useTimeline } from '@/state/store';
+import { useI18n } from '@/i18n/useI18n';
+import { regionText } from '@/i18n/regionText';
 import { Icon } from '@/components/ui/Icon';
 import s from './FilterBar.module.scss';
 
@@ -23,10 +22,18 @@ function matchRank(name: string, needle: string): number {
   return i === 0 ? 0 : name[i - 1] === ' ' ? 1 : 2;
 }
 
-/** Find a polity or key event by name; a polity is highlighted and zoomed to, an event opens its panel. */
+/** Best match of `needle` in a record's names: the reader's language first, then the data's English. */
+const bestRank = (names: string[], needle: string) =>
+  names.reduce((best, n) => {
+    const m = matchRank(n.toLowerCase(), needle);
+    return m >= 0 && (best < 0 || m < best) ? m : best;
+  }, -1);
+
+/** Find a state or key event by name and open its story, zoomed to its years. */
 export function PolitySearch({ region }: { region: RegionData }) {
-  const selectPolity = useTimeline((st) => st.selectPolity);
-  const openPanel = useTimeline((st) => st.openPanel);
+  const i18n = useI18n();
+  const { t, fmt } = i18n;
+  const openStory = useTimeline((st) => st.openStory);
   const zoomTo = useTimeline((st) => st.zoomTo);
   const [q, setQ] = useState('');
   const [open, setOpen] = useState(false);
@@ -41,7 +48,7 @@ export function PolitySearch({ region }: { region: RegionData }) {
     const scored: Array<{ r: Result; rank: number }> = [];
     for (const p of Object.values(region.polities)) {
       if (!region.appearances[p.id]) continue;
-      const m = matchRank(p.name.toLowerCase(), needle);
+      const m = bestRank([i18n.polity(p), p.name], needle);
       if (m >= 0)
         scored.push({
           r: { kind: 'polity', p },
@@ -50,8 +57,8 @@ export function PolitySearch({ region }: { region: RegionData }) {
     }
     // Events rank after states with an equally good match, so state names stay easy to reach.
     for (const { event: e } of Object.values(region.events)) {
-      const name = e.name.toLowerCase();
-      let m = matchRank(name, needle);
+      const name = i18n.event(e).toLowerCase();
+      let m = bestRank([i18n.event(e), e.name], needle);
       // "hastings" should find "Battle of Hastings" as readily as a name that starts with it
       if (
         m === 1 &&
@@ -69,23 +76,20 @@ export function PolitySearch({ region }: { region: RegionData }) {
       .sort((a, b) => a.rank - b.rank)
       .slice(0, 10)
       .map((x) => x.r);
-  }, [q, region]);
+  }, [q, region, i18n]);
 
   const choose = (r: Result) => {
     if (r.kind === 'polity') {
-      selectPolity(r.p.id);
+      openStory({ kind: 'polity', id: r.p.id });
       const years = regionYears(region, r.p.id);
       if (years) zoomTo({ type: 'years', years });
     } else {
       const { e } = r;
       const end = e.to ?? e.year;
       const pad = Math.max(10, Math.round((end - e.year) * 0.3));
-      openPanel({ kind: 'event', id: e.id });
-      zoomTo({
-        type: 'years',
-        years: [e.year - pad, end + pad],
-        laneId: region.events[e.id]?.laneIds[0],
-      });
+      const laneId = region.events[e.id]?.laneIds[0];
+      openStory({ kind: 'event', id: e.id, lane: laneId });
+      zoomTo({ type: 'years', years: [e.year - pad, end + pad], laneId });
     }
     setQ('');
     setOpen(false);
@@ -106,8 +110,8 @@ export function PolitySearch({ region }: { region: RegionData }) {
         aria-controls={listId}
         aria-autocomplete="list"
         aria-activedescendant={showList && results[active] ? `${listId}-${active}` : undefined}
-        aria-label={hasEvents ? 'Find a state, empire or event' : 'Find a state or empire'}
-        placeholder={hasEvents ? 'Find a state or event' : 'Find a state or empire'}
+        aria-label={t(hasEvents ? 'search.label' : 'search.labelNoEvents')}
+        placeholder={t(hasEvents ? 'search.placeholder' : 'search.placeholderNoEvents')}
         value={q}
         autoComplete="off"
         onChange={(e) => {
@@ -134,20 +138,18 @@ export function PolitySearch({ region }: { region: RegionData }) {
         }}
       />
       {showList && (
-        <ul id={listId} role="listbox" className={s.results} aria-label="Matches">
+        <ul id={listId} role="listbox" className={s.results} aria-label={t('search.matches')}>
           {results.length === 0 && (
-            <li className={s.noResult}>
-              Nothing {regionMeta(region.id).inLabel} matches “{q.trim()}”.
-            </li>
+            <li className={s.noResult}>{t('search.none', { in: regionText(i18n, region.id).in, q: q.trim() })}</li>
           )}
           {results.map((r, i) => {
             const key = r.kind === 'polity' ? r.p.id : r.e.id;
-            const name = r.kind === 'polity' ? r.p.name : r.e.name;
+            const name = r.kind === 'polity' ? i18n.polity(r.p) : i18n.event(r.e);
             let meta: string;
             if (r.kind === 'polity') {
               const years = regionYears(region, r.p.id)!;
-              meta = formatRange(years[0], years[1]);
-            } else meta = `${EVENT_TYPE_LABEL[r.e.type]}, ${formatEventDate(r.e)}`;
+              meta = fmt.range(years[0], years[1]);
+            } else meta = `${t(`event.${r.e.type}`)}, ${fmt.eventDate(r.e)}`;
             return (
               <li
                 key={key}

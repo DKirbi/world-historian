@@ -2,7 +2,6 @@ import { memo } from 'react';
 import type { PlacedSpan } from '@/lib/pack';
 import type { TimeScale } from '@/lib/time';
 import { LINE_H, wrapLabel } from '@/lib/labels';
-import type { HighlightSlot } from '@/state/store';
 import { blockColors } from './colors';
 import s from './Timeline.module.scss';
 
@@ -13,7 +12,10 @@ interface Props {
   scale: TimeScale;
   viewH: number;
   charW: number;
-  slot?: HighlightSlot;
+  /** Name in the reader's language. */
+  name: string;
+  /** The state whose story is open: painted in the selection colour. */
+  selected: boolean;
   ringed: boolean;
   dimmed: boolean;
   onEnter: (p: PlacedSpan, e: React.PointerEvent) => void;
@@ -29,7 +31,8 @@ export const SpanBlock = memo(function SpanBlock({
   scale,
   viewH,
   charW,
-  slot,
+  name,
+  selected,
   ringed,
   dimmed,
   onEnter,
@@ -45,7 +48,7 @@ export const SpanBlock = memo(function SpanBlock({
   const gy = h > 4 ? 1 : 0;
   const gx = w > 6 ? 1 : 0;
   const rx = h > 8 && w > 8 ? 3 : 0;
-  const { fill, ink } = blockColors(span, slot);
+  const { fill, ink } = blockColors(span, selected);
 
   // Label sits at the top of the visible part of the block, so long spans stay named while scrolling.
   const visTop = Math.max(top, 0);
@@ -53,10 +56,10 @@ export const SpanBlock = memo(function SpanBlock({
   const visH = visBottom - visTop;
   let label: JSX.Element | null = null;
   if (w >= 30 && visH >= 15) {
-    const lines = wrapLabel(span.name, Math.floor((w - 10) / charW), Math.min(3, Math.floor((visH - 4) / LINE_H)));
+    const lines = wrapLabel(name, Math.floor((w - 10) / charW), Math.min(3, Math.floor((visH - 4) / LINE_H)));
     const y = Math.min(visTop, visBottom - lines.length * LINE_H - 4) + 13;
     label = (
-      <text className={s.blockLabel} x={x + 6} y={y} style={{ fill: ink }} data-strong={slot ? '' : undefined}>
+      <text className={s.blockLabel} x={x + 6} y={y} style={{ fill: ink }} data-strong={selected ? '' : undefined}>
         {lines.map((l, i) => (
           <tspan key={i} x={x + 6} dy={i ? LINE_H : 0}>
             {l}
@@ -65,7 +68,7 @@ export const SpanBlock = memo(function SpanBlock({
       </text>
     );
   } else if (w >= 14 && visH >= 72) {
-    const [line] = wrapLabel(span.name, Math.floor((visH - 12) / charW), 1);
+    const [line] = wrapLabel(name, Math.floor((visH - 12) / charW), 1);
     const cx = x + w / 2 - 4;
     const cy = visTop + 6;
     label = line ? (

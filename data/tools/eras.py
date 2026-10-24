@@ -24,6 +24,39 @@ def _slug(s):
     return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")
 
 
+_ARTICLE_STOP = {"period", "age", "era", "the", "of", "and", "in", "early", "late", "middle"}
+_LINK = re.compile(r"\[\[([^\]|#]*)(?:#([^\]|]*))?(?:\|([^\]]*))?\]\]")
+
+
+def _words(s):
+    return {w for w in re.findall(r"[a-zà-ž]+", s.lower()) if w not in _ARTICLE_STOP}
+
+
+def article_of(row_text, name):
+    """The era's own Wikipedia article, read from the wikilink in its pinned row: {title, section?}.
+
+    The first link is taken only when it is about the period: its title shares a significant word
+    with the era's name. A list that links "Bronze Age" to "Nubia", or "Iron Age" to "Ghana Empire",
+    points at an example, not at the period, so no article is given (the app then tells the story
+    from the quoted row). A link to a section ("Woodland period#Early Woodland period (1000–1 BCE)")
+    keeps the section heading.
+    """
+    m = _LINK.search(row_text or "")
+    if not m:
+        return None
+    title, section = m.group(1).strip(), (m.group(2) or "").strip()
+    if not title or title.lower().startswith(("file:", "image:", "category:")):
+        return None
+    # "Late Period" has no significant word of its own: then the title must start with the name
+    # ("Late Period of Egypt")
+    if not (_words(name) & (_words(title) | _words(section))) and not title.lower().startswith(name.lower()):
+        return None
+    out = {"title": title}
+    if section:
+        out["section"] = section
+    return out
+
+
 def _languages(rec):
     return (rec.get("wd") or {}).get("languages") or (rec.get("culture") or {}).get("languages") or 0
 
@@ -88,6 +121,9 @@ def build(region_id, cfg, lane_rows, per_lane, registry, eras_cfg=None, snap=Non
                     era["approx"] = True
                 if rec.get("text"):
                     era["cite"]["text"] = rec["text"]
+                art = article_of(e.get("row") or e.get("find"), e["name"])
+                if art:
+                    era["article"] = art
                 other = (periodo or {}).get("eras", {}).get(
                     f"{region_id}|{area['id']}|{e['page']}|{e.get('row') or e.get('find')}")
                 if other:
