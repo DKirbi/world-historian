@@ -1,0 +1,872 @@
+{
+ "lang": "sl",
+ "region": "asia",
+ "method": "machine",
+ "translator": "Claude Opus 5.5 (claude-opus-5-5) and Claude Sonnet 5.5 (claude-sonnet-5-5) with the slovene-newspaper-translation skill",
+ "translated": "2026-10-26",
+ "reviewed": false,
+ "licence": "CC BY-SA 4.0: translations of English Wikipedia text, attributed to each article and revision",
+ "units": {
+  "1920 Ganja revolt": {
+   "headline": "Upor v Gandži leta 1920",
+   "paragraphs": [
+    "Upor v Gandži leta 1920 (azerbajdžansko: Gəncə üsyanı) je bil ljudska vstaja proti sovjetski okupaciji, ki je v Gandži potekala od 26. do 31. maja 1920. Cilj vstaje je bil strmoglaviti sovjetsko oblast v Azerbajdžanu. To je bil največji upor proti sovjetski oblasti v Azerbajdžanu v 20. stoletju in je terjal največ žrtev. Organizatorji in vodilna sila vstaje so bili častniki vojske nekdanje Azerbajdžanske demokratične republike."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "1920 Ganja revolt",
+    "rev": 1381234093,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The 1920 Ganja revolt (Azerbaijani: Gəncə üsyanı) was a popular uprising against the Soviet occupation that took place in Ganja on 26 to 31 May 1920. The goal of the uprising was to overthrow the Soviet government in Azerbaijan. This was the largest rebellion against Soviet rule in Azerbaijan in the 20th century, and caused the most losses. The organizers and leading force of the uprising were officers of the army of the former Azerbaijan Democratic Republic."
+    ]
+   },
+   "records": [
+    "Q386955"
+   ],
+   "translated": "2026-10-26"
+  },
+  "1991–1992 Georgian coup d'état": {
+   "headline": "Državni udar v Gruziji 1991–1992",
+   "paragraphs": [
+    "Državni udar v Gruziji 1991–1992, znan tudi kot tbilisijska vojna ali puč 1991–1992, je bil notranji vojaški spopad v novo neodvisni Republiki Gruziji po razpadu Sovjetske zveze, od 22. decembra 1991 do 6. januarja 1992. V udaru, ki je sprožil gruzijsko državljansko vojno, so se frakcije nacionalne garde, zveste predsedniku Zviadu Gamsahurdiji, spopadle z več paravojaškimi organizacijami, ki so se konec leta 1991 združile pod vodstvom vojskovodij Tengiza Kitovanija, Džabe Ioselianija in Tengiza Sigue."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "1991–1992 Georgian coup d'état",
+    "rev": 1375680656,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The 1991–1992 Georgian coup d'état, also known as the Tbilisi War, or the Putsch of 1991–1992, was an internal military conflict that took place in the newly independent Republic of Georgia following the fall of the Soviet Union, from 22 December 1991 to 6 January 1992. The coup, which triggered the Georgian Civil War, pitted factions of the National Guard loyal to President Zviad Gamsakhurdia against several paramilitary organizations unified at the end of 1991 under the leadership of warlords Tengiz Kitovani, Jaba Ioseliani and Tengiz Sigua."
+    ]
+   },
+   "records": [
+    "Q60820213"
+   ],
+   "translated": "2026-10-26"
+  },
+  "1993 Azerbaijani coup d'état": {
+   "headline": "Državni udar v Azerbajdžanu leta 1993",
+   "paragraphs": [
+    "Državni udar v Azerbajdžanu leta 1993, znan tudi kot gandžanska vstaja, je bil vojaški udar pod vodstvom azerbajdžanskega vojaškega poveljnika Surata Husejnova. Husejnove sile so 4. junija 1993 krenile na pohod iz Gandže proti azerbajdžanski prestolnici Baku, da bi strmoglavile predsednika Abulfaza Elčibeja, izvoljenega na prvih svobodnih volitvah v neodvisnem Azerbajdžanu leta 1992.",
+    "Udar, ki ga je podpirala Rusija, je odstavil Elčibeja in na predsedniški položaj postavil Hejdarja Alijeva. Kmalu zatem je Rusija začela podpirati poskuse udara proti Alijevu, denimo udar leta 1994."
+   ],
+   "notes": [
+    "Izpuščena je oznaka opombe [1]."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "1993 Azerbaijani coup d'état",
+    "rev": 1376673422,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The 1993 Azeri coup d'état, also known as the Ganja Uprising, was a military coup led by Azerbaijani military commander Surat Huseynov. On June 4, 1993, Huseynov's forces led a march from the city of Ganja to the Azerbaijani capital of Baku in order to overthrow President Abulfaz Elchibey who was elected in independent Azerbaijan's first free election in 1992.",
+     "The Russia-backed coup ousted Elchibey and installed Heydar Aliyev as president. Shortly afterwards, Russia would begin supporting coup attempts against Aliyev, such as the 1994 coup.[1]"
+    ]
+   },
+   "records": [
+    "Q20744392"
+   ],
+   "translated": "2026-10-26"
+  },
+  "1995 Azerbaijani coup attempt": {
+   "headline": "Poskus državnega udara v Azerbajdžanu leta 1995",
+   "paragraphs": [
+    "Poskus državnega udara v Azerbajdžanu leta 1995, znan tudi kot turški udar v Bakuju, so izvedli pripadniki azerbajdžanske vojske pod vodstvom polkovnika Rovšana Džavadova, ki je vodil odred posebne policijske enote (OPON). Skupina je hotela prevzeti oblast od predsednika Hejdarja Alijeva in znova postaviti nekdanjega predsednika Abulfaza Elčibeja. Udar je spodletel, ko je turški predsednik Süleyman Demirel izvedel, da zaroto podpirajo nekateri krogi v Turčiji, in Alijeva po telefonu posvaril. Enote azerbajdžanskih oboroženih sil so 17. marca 1995 obkolile tabor upornikov in ga napadle, pri čemer je bil ubit polkovnik Džavadov. Poročila v Turčiji po aferi Susurluk leta 1996 so podrobneje razkrila, kako so udar podpirali krogi v Turčiji."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "1995 Azerbaijani coup attempt",
+    "rev": 1379201338,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The 1995 Azerbaijani coup d'état attempt, also known as the Turkish coup in Baku, was a coup d'état attempt by members of the Azerbaijani military, led by Colonel Rovshan Javadov at the head of a detachment of Special Purpose Police Unit (OPON). The group aimed to take control of the country from president Heydar Aliyev and reinstall former president Abulfaz Elchibey. The coup was foiled when the Turkish President Süleyman Demirel became aware of elements in Turkey supporting the plot, and called Aliyev to warn him. On 17 March 1995, units of the Azerbaijani Armed Forces surrounded the insurgents' camp and assaulted it, killing Colonel Javadov. Reports in Turkey following the 1996 Susurluk scandal elaborated on support for the coup from elements in Turkey."
+    ]
+   },
+   "records": [
+    "Q16156196"
+   ],
+   "translated": "2026-10-26"
+  },
+  "2010 Kyrgyz Revolution": {
+   "headline": "Kirgiška revolucija leta 2010",
+   "paragraphs": [
+    "Kirgiška revolucija leta 2010, znana tudi kot druga kirgiška revolucija, melonska revolucija, aprilski dogodki ali uradno ljudska aprilska revolucija (kirgiško: Апрель Элдик революциясы), se je začela aprila 2010 z odstavitvijo kirgiškega predsednika Kurmanbeka Bakijeva v prestolnici Biškek. Sledile so ji vse večje etnične napetosti med Kirgizi in Uzbeki na jugu države, ki so junija 2010 prerasle v nasilje. Nasilje je nazadnje privedlo do utrditve novega parlamentarnega sistema v Kirgizistanu.",
+    "Izgnanci iz uzbeške manjšine trdijo, da so jih v splošnem kaosu napadali in pregnali v Uzbekistan, okoli 400.000 državljanov Kirgizistana pa je postalo notranje razseljenih. Žrtve, s katerimi so govorili novinarji in humanitarni delavci, pričajo o množičnih pobojih, skupinskih posilstvih in mučenju. Tedanja vodja začasne vlade Roza Otunbajeva je navedla, da je smrtnih žrtev desetkrat več, kot so poročali prej, s čimer se število mrtvih povzpne na 2000."
+   ],
+   "notes": [
+    "Izpuščena je latinična transliteracija kirgiškega imena."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "2010 Kyrgyz Revolution",
+    "rev": 1370024063,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The 2010 Kyrgyz Revolution, also known as the Second Kyrgyz Revolution, the Melon Revolution, the April Events, or officially as the People's April Revolution (Kyrgyz: Апрель Элдик революциясы, romanized: Aprel Yeldik revolyutsiyasy), began in April 2010 with the ousting of Kyrgyz president Kurmanbek Bakiyev in the capital Bishkek. It was followed by increased ethnic tension involving Kyrgyz people and Uzbeks in the south of the country, which escalated in June 2010. The violence ultimately led to the consolidation of a new parliamentary system in Kyrgyzstan.",
+     "During the general mayhem, exiles from the Uzbek minority claim they were assaulted and driven to Uzbekistan, with some 400,000 Kyrgyzstani citizens becoming internally displaced. Victims interviewed by media and aid workers testify to mass killing, gang rape and torture. Then-head of the Interim government Roza Otunbayeva indicated that the death toll is tenfold higher than was previously reported, which brings the number of the dead to 2,000 people."
+    ]
+   },
+   "records": [
+    "Q236023"
+   ],
+   "translated": "2026-10-26"
+  },
+  "2020 Nagorno-Karabakh ceasefire agreement": {
+   "headline": "Sporazum o premirju v Gorskem Karabahu leta 2020",
+   "paragraphs": [
+    "Sporazum o premirju v Gorskem Karabahu leta 2020 je bil sporazum o prekinitvi ognja, s katerim se je končala vojna v Gorskem Karabahu leta 2020. Podpisali so ga 9. novembra azerbajdžanski predsednik Ilham Alijev, armenski predsednik vlade Nikol Pašinjan in ruski predsednik Vladimir Putin, vse sovražnosti v Gorskem Karabahu pa so se končale 10. novembra 2020 ob 00.00 po moskovskem času. V prekinitev sovražnosti je privolil tudi predsednik odcepljene Republike Arcah Arajik Harutjunjan."
+   ],
+   "notes": [
+    "Druga vojna v Gorskem Karabahu je poimenovana po glosarju (Vojna v Gorskem Karabahu leta 2020)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "2020 Nagorno-Karabakh ceasefire agreement",
+    "rev": 1344476312,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The 2020 Nagorno-Karabakh ceasefire agreement was an armistice agreement that ended the Second Nagorno-Karabakh War. It was signed on 9 November by the President of Azerbaijan Ilham Aliyev, the Prime Minister of Armenia Nikol Pashinyan and the President of Russia Vladimir Putin, and ended all hostilities in the Nagorno-Karabakh region from 00:00, on 10 November 2020 Moscow time. The president of the breakaway Republic of Artsakh, Arayik Harutyunyan, also agreed to an end of hostilities."
+    ]
+   },
+   "records": [
+    "Q101429497"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Anushtegin dynasty": {
+   "paragraphs": [
+    "Anuštegini ali dinastija Anuštegin (perzijsko: خاندان انوشتکین), znani tudi kot horezmijska dinastija (perzijsko: خوارزمشاهیان), so bili sunitska muslimanska dinastija turškega mameluškega porekla iz klana Bekdili oguških Turkov. Anuštegini so vladali Horezmijskemu cesarstvu, ki je obsegalo velik del današnje Srednje Azije, Afganistana in Irana, približno od leta 1077 do 1231, najprej kot vazali Seldžukov in Kara Kitajev (Zahodnega Ljaa), pozneje pa kot samostojni vladarji, vse do mongolske osvojitve Horezmijskega cesarstva v 13. stoletju.",
+    "Dinastijo je ustanovil poveljnik Anuštegin Garčaj, nekdanji turški suženj seldžuških sultanov, ki so ga imenovali za upravitelja Horezma. Njegov sin Kutb ad-Din Mohamed I. je postal prvi dedni horezmijski šah. Anuštegin je morda pripadal plemenu Begdili oguških Turkov ali pa Čigilom, Halajem, Kipčakom, Kanglijem ali Ujgurom."
+   ],
+   "notes": [
+    "Izpuščen je prazen oklepaj (»English:«) iz vira."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Anushtegin dynasty",
+    "rev": 1356368807,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Anushtegin dynasty or Anushteginids (English:, Persian: خاندان انوشتکین), also known as the Khwarazmian dynasty (Persian: خوارزمشاهیان) was a Sunni Muslim dynasty of Turkic mamluk origin from the Bekdili clan of the Oghuz Turks. The Anushteginid dynasty ruled the Khwarazmian Empire, consisting in large parts of present-day Central Asia, Afghanistan and Iran in the approximate period of 1077 to 1231, first as vassals of the Seljuks and the Qara Khitai (Western Liao), and later as independent rulers, up until the Mongol conquest of the Khwarazmian Empire in the 13th century.",
+     "The dynasty was founded by commander Anushtegin Gharchai, a former Turkic slave of the Seljuq sultans, who was appointed as governor of Khwarazm. His son, Qutb ad-Din Muhammad I, became the first hereditary Shah of Khwarazm. Anush Tigin may have belonged to either the Begdili tribe of the Oghuz Turks or to Chigil, Khalaj, Qipchaq, Qangly, or Uyghurs."
+    ]
+   },
+   "records": [
+    "khwarezmid-dynasty"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Balasagan": {
+   "headline": "Balasagan",
+   "paragraphs": [
+    "Balasagan (iranski toponim, ki pomeni »dežela Balasa«; armensko: Bałasakan, prebivalci Bałasičkʻ; arabsko: Balāsajān/Balāšajān), znan tudi kot Bazgan, je bil pokrajina na območju rek Kura in Araks ob Kaspijskem jezeru. Na jugu je mejil na Atropateno oziroma Adurbadagan in Gilan. Približno se je ujemal z armensko provinco Pajtakaran, vendar je segal dlje proti severu. Po nekaterih domnevah se je pod Sasanidi raztezal vse do trdnjave Derbent, kar pa ostaja sporno. Osrčje Balasagana je bila ravnina Dašt i-Bałasakan (»Balasaganska ravnina«), ki ustreza Muganski ravnini. V poznem sasanidskem obdobju je bil Balasagan vključen v severni kvadrant (kust) Adurbadagana."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Balasagan",
+    "rev": 1378852744,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "Balāsagān (an Iranian toponym meaning \"country of Balas\"; Armenian: Bałasakan, the inhabitants known as Bałasičkʻ, Arabic: Balāsajān/Balāšajān), also known as Bazgan, was a region located in the area of the Kura and Aras rivers, adjacent to the Caspian Sea. To the south, it bordered Atropatene/Adurbadagan and Gilan. It roughly corresponded to the Armenian province of Paytakaran, albeit extending farther into the north. It has been suggested that under the Sasanians the region extended as far as the stronghold of Derbent, albeit this remains disputed. The heartland of Balasagan was the Dasht i-Bałasakan (\"Balasagan plain\") which corresponds to the Mughan plain. During the late Sasanian era, Balasagan was included in the northern quadrant (kust) of Adurbadagan."
+    ]
+   },
+   "records": [
+    "balasagan"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Durrani Empire": {
+   "paragraphs": [
+    "Duranski imperij, pogovorno znan tudi kot Kraljevina Afganistan, Afganski imperij ali Sadozajsko kraljestvo, je bil afganski imperij, ki ga je leta 1747 ustanovil Ahmad Šah Durani iz paštunskega plemena Durani. Segal je čez dele Srednje Azije, Iranske planote in Indijske podceline. Na vrhuncu je obsegal današnji Afganistan, velik del Pakistana, dele severovzhodnega in jugovzhodnega Irana, vzhodni Turkmenistan in severozahodno Indijo. Duranski imperij velja ob Osmanskem cesarstvu za enega najpomembnejših islamskih imperijev druge polovice 18. stoletja."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Durrani Empire",
+    "rev": 1381940241,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Durrani Empire, colloquially known as the Kingdom of Afghanistan, the Afghan Empire, or the Sadozai Kingdom, was an Afghan empire founded in 1747 by Ahmad Shah Durrani, of the Pashtun Durrani tribe. The empire spanned parts of Central Asia, the Iranian plateau, and the Indian subcontinent. At its peak, it ruled over present-day Afghanistan, much of Pakistan, parts of northeastern and southeastern Iran, eastern Turkmenistan, and northwestern India. Alongside the Ottoman Empire, the Durrani Empire is considered one of the most significant Islamic empires of the second half of the 18th century."
+    ]
+   },
+   "records": [
+    "durrani-empire"
+   ],
+   "translated": "2026-10-26"
+  },
+  "East Turkestan": {
+   "paragraphs": [
+    "Vzhodni Turkestan (ujgursko: شەرقىي تۈركىستان, Шәрқий Туркистан) je ohlapno opredeljena geografska regija na severozahodu Ljudske republike Kitajske, na stičišču Vzhodne in Srednje Azije. Izraz so v 19. stoletju skovali ruski turkologi, med njimi Nikita Bičurin, ki so z njim hoteli nadomestiti običajni zahodni izraz za regijo, »Kitajski Turkestan«, ki se je nanašal na Tarimsko kotlino na jugu Šinjianga. Od 17. stoletja je bilo ujgursko ime za Tarimsko kotlino Altišahr, kar v ujgurščini pomeni »šest mest«. Ujguri so Tarimsko kotlino imenovali tudi »Yettishar« (»sedem mest«) in celo »Sekkizshahr« (»osem mest«). Kitajske dinastije od dinastije Han do dinastije Tang so delno prekrivajoče se območje imenovale »Zahodne pokrajine«."
+   ],
+   "notes": [
+    "Izpuščen je latinični zapis ujgurskega imena (ULY)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "East Turkestan",
+    "rev": 1373735810,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "East Turkestan or East Turkistan (Uyghur: شەرقىي تۈركىستان, ULY: Sherqiy Türkistan, UKY: Шәрқий Туркистан) is a loosely defined geographical region in the northwestern part of the People's Republic of China, on the cross roads of East and Central Asia. The term was coined in the 19th century by Russian Turkologists, including Nikita Bichurin, who intended the name to replace the common Western term for the region, \"Chinese Turkestan\", which referred to the Tarim Basin in Southern Xinjiang. Beginning in the 17th century, Altishahr, which means \"Six Cities\" in Uyghur, became the Uyghur name for the Tarim Basin. Uyghurs also called the Tarim Basin \"Yettishar,\" which means \"Seven Cities,\" and even \"Sekkizshahr\", which means \"Eight Cities\" in Uyghur. Chinese dynasties from the Han dynasty to the Tang dynasty had called an overlapping area the \"Western Regions\"."
+    ]
+   },
+   "records": [
+    "east-turkestan",
+    "east-turkestan-republic"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Georgia": {
+   "headline": "Gruzija",
+   "paragraphs": [
+    "Angleško ime Georgia se najpogosteje nanaša na:",
+    "Gruzijo, državo na južnem Kavkazu,",
+    "Georgio, zvezno državo na jugovzhodu ZDA."
+   ],
+   "notes": [
+    "Zapis je povezan z razločitveno stranjo; prevedeno je kot seznam, kot stoji."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Georgia",
+    "rev": 1375599382,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "Georgia most commonly refers to:",
+     "Georgia (country), in the South Caucasus",
+     "Georgia (U.S. state), a state in the Southeastern US"
+    ]
+   },
+   "records": [
+    "georgia-1918",
+    "georgia-1992",
+    "georgia-567",
+    "georgia-724"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Jin dynasty (1115-1234)": {
+   "headline": "Dinastija Džin (1115–1234)",
+   "paragraphs": [
+    "Dinastija Džin (kitajsko: 金朝), uradno Veliki Džin (大金), je bila cesarska dinastija Kitajske pod vodstvom Džurčenov in cesarstvo, ki mu je vladal klan Vanjen, obstajala pa je od leta 1115 do 1234. Po vladajočem ljudstvu jo pogosto imenujejo tudi džurčenska dinastija ali džurčenski Džin. Na vrhuncu je cesarstvo segalo od Zunanje Mandžurije na severu do črte Činling–Huajhe na jugu.",
+    "Dinastija Džin je nastala z uporom Vanjena Agude proti dinastiji Ljao (916–1125), ki je obvladovala severno Kitajsko, dokler je mladi Džin ni pregnal v Zahodne pokrajine, kjer je v kitajskem zgodovinopisju znana kot Zahodni Ljao. Po osvojitvi ozemlja Ljaa je Džin začel stoletje dolg pohod proti dinastiji Song (960–1279) s središčem na jugu Kitajske, katere vladarji so bili po narodnosti Hani. Džinski cesarji so se med vladavino prilagodili hanskim šegam in celo utrdili Kitajski zid proti vzpenjajočemu se Mongolskemu cesarstvu. Džin je spodbujal tudi vrsto kulturnih dosežkov v državi, denimo oživitev konfucianizma."
+   ],
+   "notes": [
+    "Izpuščen je zapis v pinjinu; kitajska pismenka ostaja."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Jin dynasty (1115–1234)",
+    "rev": 1381322354,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Jin dynasty (Chinese: 金朝; pinyin: Jīn cháo), officially the Great Jin (大金; Dà Jīn), was a Jurchen-led imperial dynasty of China and empire ruled by the Wanyan clan that existed between 1115 and 1234. It is also often called the Jurchen dynasty or the Jurchen Jin after the ruling Jurchen people. At its peak, the empire extended from Outer Manchuria in the north to the Qinling–Huaihe Line in the south.",
+     "The Jin dynasty emerged from Wanyan Aguda's rebellion against the Liao dynasty (916–1125), which held sway over northern China until being driven by the nascent Jin to the Western Regions, where they would become known in Chinese historiography as the Western Liao. After conquering the Liao territory, the Jin launched a century-long campaign against the Song dynasty (960–1279) based in southern China, whose rulers were ethnically Han Chinese. Over the course of the Jin's rule, their emperors adapted to Han customs and even fortified the Great Wall against the ascendant Mongol Empire. The Jin also oversaw a number of internal cultural advances, such as the revival of Confucianism."
+    ]
+   },
+   "records": [
+    "great-jin"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Kidarites": {
+   "headline": "Kidariti",
+   "paragraphs": [
+    "Kidariti ali kidarski Huni so bili dinastija, ki je v 4. in 5. stoletju vladala Baktriji in sosednjim delom Srednje Azije in Pakistana. Kidariti so pripadali zapleteni skupini ljudstev, ki so jo v dolini Inda skupaj imenovali Huna, v Evropi pa Hioniti (po iranskih imenih Xwn/Xyon), in jih morda lahko celo enačimo s Hioniti. Bizantinski zgodovinar Prisk iz 5. stoletja jih je imenoval kidaritski Huni oziroma »Huni, ki so Kidariti«. Kitajski anali so jih imenovali Ta Yüeh-chih ali Mali Yüeh-chih. Plemena Huna oziroma Hionitov pogosto, čeprav sporno, povezujejo s Huni, ki so v istem obdobju vdrli v vzhodno Evropo. S Heftaliti, ki so jih zamenjali približno stoletje pozneje, nimajo nič skupnega."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kidarites",
+    "rev": 1381394228,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Kidarites, or Kidara Huns, were a dynasty that ruled Bactria and adjoining parts of Central Asia and Pakistan in the 4th and 5th centuries. The Kidarites belonged to a complex group of peoples known collectively in the Indus Valley as the Huna, and in Europe as the Chionites (from the Iranian names Xwn/Xyon), and may even be considered as identical to the Chionites. The 5th century Byzantine historian Priscus called them Kidarite Huns, or \"Huns who are Kidarites\". Chinese annals referred to them as the Ta Yüeh-chih, or Lesser Yüeh-chih. The Huna/Xionite tribes are often linked, albeit controversially, to the Huns who invaded Eastern Europe around the same period. They are entirely different from the Hephthalites, who replaced them about a century later."
+    ]
+   },
+   "records": [
+    "kidarites"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Kingdom of Kakheti": {
+   "paragraphs": [
+    "Kraljestvo Kahetija (gruzijsko: კახეთის სამეფო; tudi Kaxet'i ali Kakhetia), poznosrednjeveška in zgodnjenovoveška monarhija v vzhodni Gruziji, je imelo središče v pokrajini Kahetija, prestolnico pa najprej v Gremiju in nato v Telaviju. Nastalo je ob tridelni razdelitvi Kraljestva Gruzije leta 1466 in z več kratkimi prekinitvami obstajalo do leta 1762, ko sta se Kahetija in sosednje gruzijsko kraljestvo Kartli z dinastičnim nasledstvom združila pod kahetijsko vejo dinastije Bagrationi. Večino tega časa je bilo kraljestvo vazal zaporednih iranskih dinastij, krajši čas pa Osmanskega cesarstva, vendar je občasno, zlasti po letu 1747, uživalo večjo neodvisnost."
+   ],
+   "notes": [
+    "Izpuščena je latinična transliteracija gruzijskega imena. Vir postavlja tridelno razdelitev Gruzije tu v leto 1466, v povzetku o Kartliju pa v leto 1478; prevedeno je, kot stoji."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Kakheti",
+    "rev": 1368766061,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Kingdom of Kakheti (Georgian: კახეთის სამეფო, romanized: k'akhetis samepo; also spelled Kaxet'i or Kakhetia) was a late medieval and early modern monarchy in eastern Georgia, centered at the province of Kakheti, with its capital first at Gremi and then at Telavi. It emerged in the process of a tripartite division of the Kingdom of Georgia in 1466 and existed, with several brief intermissions, until 1762 when Kakheti and the neighboring Georgian kingdom of Kartli were merged through a dynastic succession under the Kakhetian branch of the Bagrationi dynasty. Through much of this period, the kingdom was a vassal of the successive dynasties of Iran, and to a much shorter period Ottoman Empire, but enjoyed intermittent periods of greater independence, especially after 1747."
+    ]
+   },
+   "records": [
+    "kingdom-of-kakheti-1468",
+    "kingdom-of-kakheti-1706"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Kingdom of Kartli": {
+   "paragraphs": [
+    "Kraljestvo Kartli (gruzijsko: ქართლის სამეფო), poznosrednjeveška in zgodnjenovoveška monarhija v vzhodni Gruziji, je imelo središče v pokrajini Kartli in prestolnico v Tbilisiju. Nastalo je ob tridelni razdelitvi Kraljestva Gruzije leta 1478 in z več kratkimi prekinitvami obstajalo do leta 1762, ko sta se Kartli in sosednje gruzijsko kraljestvo Kahetija z dinastičnim nasledstvom združila pod kahetijsko vejo dinastije Bagrationi. Večino tega časa je bilo kraljestvo vazal zaporednih iranskih dinastij, krajši čas pa Osmanskega cesarstva, vendar je občasno, zlasti po letu 1747, uživalo večjo neodvisnost."
+   ],
+   "notes": [
+    "Izpuščena je latinična transliteracija gruzijskega imena."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Kartli",
+    "rev": 1375678518,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Kingdom of Kartli (Georgian: ქართლის სამეფო, romanized: kartlis samepo) was a late medieval and early modern monarchy in eastern Georgia, centred on the province of Kartli, with its capital at Tbilisi. It emerged in the process of a tripartite division of the Kingdom of Georgia in 1478 and existed, with several brief intervals, until 1762 when Kartli and the neighbouring Georgian kingdom of Kakheti were merged through dynastic succession under the Kakhetian branch of the Bagrationi dynasty. Through much of this period, the kingdom was a vassal of the successive dynasties of Iran, and to a much shorter period Ottoman Empire, but enjoyed intermittent periods of greater independence, especially after 1747."
+    ]
+   },
+   "records": [
+    "kingdom-of-kartli-1463",
+    "kingdom-of-kartli-1612"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Kingdom of Khotan": {
+   "headline": "Kraljestvo Hotan",
+   "paragraphs": [
+    "Kraljestvo Hotan, imenovano tudi kraljestvo Jutjan (kitajsko: 于闐), je bilo starodavno budistično saško kraljestvo na veji svilne poti, ki je potekala ob južnem robu puščave Taklamakan v Tarimski kotlini (današnji Šinjiang na Kitajskem). Starodavna prestolnica je sprva stala zahodno od današnjega Hotana v Jotkanu. Od dinastije Han vsaj do dinastije Tang so ga Kitajci imenovali Jutjan. To pretežno budistično kraljestvo je obstajalo več kot tisoč let, dokler ga leta 1006 med islamizacijo in turkizacijo Šinjianga ni osvojil muslimanski Karahanidski kanat."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Khotan",
+    "rev": 1373281557,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Kingdom of Khotan, also called the Kingdom of Yutian (Chinese: 于闐), was an ancient Buddhist Saka kingdom located on the branch of the Silk Road that ran along the southern edge of the Taklamakan Desert in the Tarim Basin (modern-day Xinjiang, China). The ancient capital was originally sited to the west of modern-day Hotan at Yotkan. From the Han dynasty until at least the Tang dynasty it was known in Chinese as Yutian. This largely Buddhist kingdom existed for over a thousand years until it was conquered by the Muslim Kara-Khanid Khanate in 1006, during the Islamization and Turkicization of Xinjiang."
+    ]
+   },
+   "records": [
+    "kingdom-of-khotan"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Kushano-Sasanian Kingdom": {
+   "headline": "Kušansko-sasanidsko kraljestvo",
+   "paragraphs": [
+    "Kušansko-sasanidsko kraljestvo, znano tudi kot indo-sasanidsko kraljestvo, je Sasanidsko cesarstvo v 3. in 4. stoletju vzpostavilo v Baktriji. Sasanidsko cesarstvo je po vrsti vojn leta 225 n. št. propadajočemu Kušanskemu cesarstvu odvzelo province Sogdijano, Baktrijo in Gandharo. Tamkajšnji sasanidski upravitelji so nato prevzeli naslov kušanšah (v baktrijskem jeziku KΟÞANΟ ÞAΟ ali Koshano Shao), »kralj Kušanov«, in kovali denar. Včasih jih štejejo za »podkraljestvo« znotraj Sasanidskega cesarstva.",
+    "Ta uprava je trajala do let 360–370, ko so Kušano-Sasanidi velik del ozemlja izgubili proti Kidaritom, ki so vdrli v deželo, preostanek pa je Sasanidsko cesarstvo priključilo neposredno. Kidarite so pozneje izpodrinili Heftaliti.",
+    "Kušanšahe poznamo predvsem po kovancih. Kovali so jih v Kabulu, Balhu, Heratu in Mervu, kar priča o obsegu njihovega kraljestva."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kushano-Sasanian Kingdom",
+    "rev": 1360027022,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Kushano-Sasanian Kingdom also known as the Indo-Sasanian Kingdom was a polity established by the Sasanian Empire in Bactria during the 3rd and 4th centuries. The Sasanian Empire captured the provinces of Sogdia, Bactria and Gandhara from the declining Kushan Empire following a series of wars in 225 CE. The local Sasanian governors then went on to take the title of Kushanshah (KΟÞANΟ ÞAΟ or Koshano Shao in the Bactrian language) or \"King of the Kushans\", and to mint coins. They are sometimes considered as forming a \"sub-kingdom\" inside the Sasanian Empire.",
+     "This administration continued until 360–370, when the Kushano-Sasanians lost much of their domains to the invading Kidarites; the remainder was incorporated into the Sasanian Empire proper. Later, the Kidarites were in turn displaced by the Hephthalites.",
+     "The Kushanshahs are mainly known through their coins. Their coins were minted at Kabul, Balkh, Herat, and Merv, attesting the extent of their realm."
+    ]
+   },
+   "records": [
+    "indo-sasanian-empire"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Lazica": {
+   "headline": "Lazika",
+   "paragraphs": [
+    "Kraljestvo Lazika (gruzijsko: ეგრისი; lazijsko: ლაზიკა; starogrško: Λαζική), včasih imenovano Lazijsko cesarstvo, je bilo država na ozemlju zahodne Gruzije v rimskem obdobju, od približno 1. stoletja pr. n. št. Nastalo je, ko je razpadlo kraljestvo Kolhida in so plemenske ozemeljske enote v njem leta 131 n. št. dosegle neodvisnost."
+   ],
+   "notes": [
+    "Izpuščene so latinične transliteracije gruzijskega, lazijskega in grškega imena.",
+    "Drugi stavek vira nima glavnega glagola; dopolnjen je po smislu. Vir postavlja začetek države v 1. stoletje pr. n. št., njeno nastanje pa v leto 131 n. št.; prevedeno je, kot stoji."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Lazica",
+    "rev": 1377984609,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Kingdom of Lazica (Georgian: ეგრისი, romanized: Egrisi; Laz: ლაზიკა, romanized: Laziǩa; Ancient Greek: Λαζική, romanized: Lazikḗ), sometimes called Lazian Empire, was a state in the territory of west Georgia in the Roman period, from about the 1st century BC. Created as a result of the collapse of the kingdom of Colchis and the gaining of independence by the tribal-territorial units included in it in 131 AD."
+    ]
+   },
+   "records": [
+    "kingdom-of-lazica",
+    "lazica"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Lohara dynasty": {
+   "headline": "Dinastija Lohara",
+   "paragraphs": [
+    "Dinastija Lohara je od leta 1003 do približno 1175 vladala Kašmirju in okoliškim območjem na severozahodu Indijske podceline. Zgodnjo zgodovino dinastije opisuje Radžatarangini (»Kronika kraljev«), delo, ki ga je sredi 12. stoletja napisal Kalhana in na katerem temelji veliko raziskav o prvih 150 letih dinastije. Poznejša poročila, ki segajo do konca dinastije in čez, sta zapisala Džonaradža in Šrivara. Poznejše vladarje dinastije so imeli za šibke. V tem obdobju so bili pogosti notranji spori in korupcija, ki so jih le občasno prekinila kratka obdobja stabilnosti. Ti dejavniki so dinastijo naredili ranljivo za širjenje islamskih osvajanj v regiji."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Lohara dynasty",
+    "rev": 1380562873,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Lohara dynasty was a dynasty that ruled over Kashmir and surrounding regions in the northwestern part of the Indian subcontinent between 1003 and approximately 1175. The early history of the dynasty was described in the Rajatarangini (Chronicle of Kings), a work written by Kalhana in the mid-12th century, upon which many studies of the first 150 years of the dynasty depend. Subsequent accounts which provide information up to and beyond the end of the dynasty come from Jonarāja and Śrīvara. The later rulers of the dynasty were perceived as weak. Internal conflicts and instances of corruption were prevalent during this era, occasionally interrupted by short periods of stability. These factors contributed to the dynasty's susceptibility to the expansion of Islamic conquests in the region."
+    ]
+   },
+   "records": [
+    "lohara-dynasty"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Moghulistan": {
+   "headline": "Mogulistan",
+   "paragraphs": [
+    "Mogulistan, imenovan tudi Mogulski kanat ali Vzhodni čagatajski kanat, je bil turško-mongolski muslimanski kanat, ki se je odcepil od Čagatajskega kanata, in zgodovinsko geografsko območje severno od gorovja Tengri Tag na meji med Srednjo in Vzhodno Azijo. Območje danes obsega dele Kazahstana, Kirgizistana in severozahodnega Šinjianga. Kanat je temu območju nominalno vladal od sredine 14. do konca 17. stoletja.",
+    "Od sredine 14. stoletja je v porečju reke Ili nastal nov kanat v obliki nomadske plemenske konfederacije, ki jo je vodil član Čagatajeve rodbine. Zato velja za nadaljevanje Čagatajskega kanata, imenujejo pa ga tudi Mogulski kanat."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Moghulistan",
+    "rev": 1380959217,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "Moghulistan, also called the Moghul Khanate or the Eastern Chagatai Khanate, was a Turco-Mongol, Muslim, breakaway khanate of the Chagatai Khanate and a historical geographic area north of the Tengri Tagh mountain range, on the border of Central Asia and East Asia. That area today includes parts of Kazakhstan, Kyrgyzstan, and northwest Xinjiang. The khanate nominally ruled over the area from the mid-14th century until the late 17th century.",
+     "Beginning in the mid-14th century a new khanate, in the form of a nomadic tribal confederacy headed by a member of the family of Chagatai, arose in the region of the Ili River. It is therefore considered to be a continuation of the Chagatai Khanate, but it is also referred to as the Moghul Khanate."
+    ]
+   },
+   "records": [
+    "eastern-chagatai-khanate",
+    "eastern-moghulistan",
+    "moghulistan",
+    "western-moghulistan"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Mongol invasion of Central Asia": {
+   "headline": "Mongolski pohodi v Srednji Aziji",
+   "paragraphs": [
+    "Mongolsko cesarstvo je po združitvi mongolskih in turških plemen na Mongolski planoti leta 1206 izvedlo več pohodov v Srednji Aziji. Med manjše vojaške operacije sodita uničenje preživelih Merkitov in Najmanov (ki je vključevalo vpade v Kumanijo) in osvojitev Kara Kitaja. Sledil je velik pohod proti Horezmu. Širjenje v Srednjo Azijo se je začelo leta 1209, ko je Džingis-kan poslal odpravo, da bi zasledovala tekmece, ki so pobegnili v to območje in ogrožali njegovo novo cesarstvo. Ujgursko kraljestvo Kočo in voditelji Karlukov so se Mongolskemu cesarstvu podredili prostovoljno in se poročili v cesarsko družino. Do leta 1218 so Mongoli nadzorovali ves Šinjiang, do leta 1221 pa vsa ozemlja nekdanjega Horezmijskega cesarstva. Leta 1236 so Mongoli porazili vzhodne dele Kumanije in vdrli v vzhodno Evropo."
+   ],
+   "notes": [
+    "Naslov »Mongol invasion of Central Asia« preusmeri na članek »Mongol campaigns in Central Asia«."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Mongol campaigns in Central Asia",
+    "rev": 1381722844,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Mongol Empire conducted several campaigns in Central Asia after the unification of the Mongol and Turkic tribes on the Mongolian Plateau in 1206. Smaller military operations included the destruction of surviving Merkit and Naimans (which involved forays into Cumania) and the conquest of Qara Khitai. These were followed by a major campaign against Khwarazm. Expansion into Central Asia began in 1209 as Genghis Khan sent an expedition to pursue rivals who had fled to the region and threatened his new empire. The Uyghur kingdom Qocho and leaders of the Karluks submitted voluntarily to the Mongol Empire and married into the imperial family. By 1218 the Mongols controlled all of Xinjiang and by 1221 all the territories of the former Khwarazmian Empire. In 1236, the Mongols defeated the eastern portions of Cumania and swept into Eastern Europe."
+    ]
+   },
+   "records": [
+    "qarlugs"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Mongol khanate": {
+   "paragraphs": [
+    "Izraz mongolski kanat se lahko nanaša na:",
+    "kanat Hamag Mongol (10. stoletje–1206),",
+    "Mongolsko cesarstvo (1206–1368)."
+   ],
+   "notes": [
+    "Zapis je povezan z razločitveno stranjo; prevedeno je kot seznam, kot stoji."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Mongol khanate",
+    "rev": 1231771109,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "Mongol khanate or Mongolian khanate can refer to:",
+     "Khanate of the Khamag Mongol (10th century–1206)",
+     "Mongol Empire (1206-1368)"
+    ]
+   },
+   "records": [
+    "mongol-khanate"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Northern Yuan": {
+   "paragraphs": [
+    "Severni Juan je bil dinastična država, ki ji je vladal mongolski klan Bordžigin s središčem na Mongolski planoti. Obstajal je kot okrnjena država po propadu dinastije Juan leta 1368 in trajal do leta 1635, ko ga je osvojila pozna dinastija Džin pod vodstvom Džurčenov, pozneje preimenovana v dinastijo Čing. Dinastija Severni Juan se je začela z umikom juanskega cesarskega dvora pod vodstvom Togona Temürja (cesarja Huejcunga iz dinastije Juan) v mongolsko stepo. Obdobje so zaznamovali boji med frakcijami in pogosto le nominalna vloga velikega kana."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Northern Yuan",
+    "rev": 1381478696,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Northern Yuan was a dynastic state ruled by the Mongol Borjigin clan based in the Mongolian Plateau. It existed as a rump state after the collapse of the Yuan dynasty in 1368 and lasted until its conquest by the Jurchen-led Later Jin dynasty in 1635, which was later renamed as the Qing dynasty. The Northern Yuan dynasty began with the retreat of the Yuan imperial court led by Toghon Temür (Emperor Huizong of Yuan) to the Mongolian steppe. This period featured factional struggles and the often only nominal role of the Great Khan."
+    ]
+   },
+   "records": [
+    "northern-yuan"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Oghuz Khagan": {
+   "headline": "Oguz kagan",
+   "paragraphs": [
+    "Oguz kagan ali Oguz kan (turško: Oğuz Kağan ali Oğuz Han; azerbajdžansko: Oğuz Xan ali Oğuz Xaqan; turkmensko: Oguz Han) je legendarni kan turških ljudstev in eponimni prednik oguških Turkov. Nekatere turške kulture z legendo o Oguz kanu opisujejo svoj etnični in plemenski izvor. Različice pripovedi, ohranjene v številnih rokopisih, so izšle v mnogih jezikih. Pripovedi o njem pogosto nosijo naslov Oguzname; obstaja več izročil, ki opisujejo njegove številne podvige in osvajanja, nekatera pa se prekrivajo z drugimi turškimi epskimi izročili, kot sta Seldžukname in Knjiga Dede Korkuta. Oguz kan je izhajal iz plemena Balga, bil je sin Kara Beja (Oguz Beja) in je pozneje postal kan."
+   ],
+   "notes": [
+    "Izpuščena je napotitev na seznam virov (»as listed in the references below«)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Oghuz Khagan",
+    "rev": 1378856527,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "Oghuz Khagan or Oğuz Khan (Turkish: Oğuz Kağan or Oğuz Han; Azerbaijani: Oğuz Xan or Oğuz Xaqan; Turkmen: Oguz Han) is a legendary khan of the Turkic people and an eponymous ancestor of the Oghuz Turks. Some Turkic cultures use the legend of Oghuz Khan to describe their ethnic and tribal origins. The various versions of the narrative preserved in many different manuscripts have been published in numerous languages, as listed in the references below. The narratives about him are often entitled Oghuzname, of which there are several traditions describing his many feats and conquests; some of these tend to overlap with other Turkic epic traditions, such as the Seljukname and The Book of Dede Korkut. Oğuz Khan was from the Balga tribe, the son of Qara Bey (Oğuz Bey), and later became a khan."
+    ]
+   },
+   "records": [
+    "oghuz-turks"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Oirat Confederation": {
+   "headline": "Ojratska konfederacija",
+   "paragraphs": [
+    "Ojratska konfederacija ali Štirje Ojrati (pisna ojratščina: ᡑᡈᠷᡋᡈᠨᡆᡕᡅᠷᠠᡑ; mongolsko: Дөрвөн Ойрад; kitajsko: 四衛拉特), nekoč znana kot Elevti, je bila konfederacija ojratskih plemen, s katero so se v zgodovini Mongolske planote povzpeli zahodni Mongoli.",
+    "Čeprav vzhodni Mongoli in Ojrati izraz »Štirje Ojrati« splošno uporabljajo in so ga zgodovinarji že večkrat razlagali, o tem, katera so bila prvotna štiri plemena, ni soglasja. Splošno velja, da izraz označuje plemena Čoros, Torgut, Dörbet in Hošut, po eni od teorij pa Ojrati niso bili krvno sorodne enote, temveč politično-etnične enote iz številnih rodov po moški liniji. V zgodnjem obdobju je konfederaciji pripadalo tudi pleme Kergüd."
+   ],
+   "notes": [
+    "Izpuščeni so latinični zapisi ojratskega in mongolskega imena ter izgovarjava (IPA)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Oirat Confederation",
+    "rev": 1366970557,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Four Oirats (Written Oirat: ᡑᡈᠷᡋᡈᠨᡆᡕᡅᠷᠠᡑ, Dörbön Oyirad; Mongolian: Дөрвөн Ойрад, romanized: Dörvön Oirad, pronounced [ˈtɵrw̜ʊ̈ɴ ˈɞe̯ɾ(ə)t]; Chinese: 四衛拉特) or Oirat Confederation, formerly known as the Eleuths, was the confederation of the Oirat tribes which marked the rise of the Western Mongols in the history of the Mongolian Plateau.",
+     "Despite the universal currency of the term \"Four Oirat\" among Eastern Mongols, Oirats, and numerous explanations by historians, no consensus has been reached on the identity of the original four tribes. While it is believed that the term Four Oirats refers to the Choros, Torghut, Dörbet, and Khoshut tribes, there is a theory that the Oirats were not consanguineous units, but political-ethnic units composed of many patrilineages. In the early period, the Kergüd tribe also belonged to the confederation."
+    ]
+   },
+   "records": [
+    "four-oirats",
+    "oirat-confederation"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Principality of Abkhazia": {
+   "headline": "Kneževina Abhazija",
+   "paragraphs": [
+    "Kneževina Abhazija je nastala kot samostojna fevdalna tvorba v 15. in 16. stoletju sredi državljanskih vojn v Kraljestvu Gruziji, ki so se končale z razpadom enotne gruzijske monarhije. Kneževina je pod osmansko in nato rusko oblastjo ohranila nekaj avtonomije, vendar jo je Ruski imperij leta 1864 po kavkaški vojni dokončno priključil."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Principality of Abkhazia",
+    "rev": 1378066768,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Principality of Abkhazia emerged as a separate feudal entity in the 15th–16th centuries, amid the civil wars in the Kingdom of Georgia that concluded with the dissolution of the unified Georgian monarchy. The principality retained a degree of autonomy under Ottoman and then Russian rule, but was eventually absorbed into the Russian Empire in 1864, following the Caucasian War."
+    ]
+   },
+   "records": [
+    "principality-of-abkhazia"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Principality of Guria": {
+   "paragraphs": [
+    "Kneževina Gurija (gruzijsko: გურიის სამთავრო) je bila zgodovinska država v Gruziji. S središčem v današnji Guriji, jugozahodni gruzijski pokrajini, je ležala med Črnim morjem in Malim Kavkazom, od 1460. let do leta 1829 pa ji je vladalo dvaindvajset zaporednih knezov iz rodbine Gurieli. Kneževina je nastala med razpadanjem enotnega Kraljestva Gruzije. Njene meje so se spreminjale v nenehnih spopadih s sosednjimi gruzijskimi vladarji in Osmanskim cesarstvom, uživala pa je različno stopnjo avtonomije, dokler je leta 1829 ni priključila cesarska Rusija."
+   ],
+   "notes": [
+    "Izpuščena je latinična transliteracija gruzijskega imena."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Principality of Guria",
+    "rev": 1372233034,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Principality of Guria (Georgian: გურიის სამთავრო, romanized: guriis samtavro) was a historical state in Georgia. Centered on modern-day Guria, a southwestern region in Georgia, it was located between the Black Sea and Lesser Caucasus, and was ruled by a succession of twenty-two princes of the House of Gurieli from the 1460s to 1829. The principality emerged during the process of fragmentation of a unified Kingdom of Georgia. Its boundaries fluctuated in the course of permanent conflicts with neighboring Georgian rulers and the Ottoman Empire, and the principality enjoyed various degrees of autonomy until being annexed by Imperial Russia in 1829."
+    ]
+   },
+   "records": [
+    "principality-of-guria"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Principality of Iberia": {
+   "paragraphs": [
+    "Iberska kneževina je bila zgodnjesrednjeveška aristokratska ureditev v osrednji gruzijski pokrajini Kartli, ki so jo antični avtorji imenovali Iberija. Razcvetela se je v obdobju medvladja med 6. in 9. stoletjem, ko so vodilno politično oblast izvajali zaporedni knezi. Kneževino so ustanovili kmalu po tem, ko so Sasanidi okoli leta 580 odpravili tamkajšnjo kraljevsko dinastijo Hosroidov; trajala je do leta 888, ko je član dinastije Bagrationi obnovil kraljevsko oblast. Njene meje so se močno spreminjale, saj so se iberski knezi v tem obdobju spopadali s Perzijci, Bizantinci, Hazari, Arabci in sosednjimi kavkaškimi vladarji."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Principality of Iberia",
+    "rev": 1358248964,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Principality of Iberia was an early medieval aristocratic regime in a core Georgian region of Kartli, called Iberia by classical authors. It flourished in the period of interregnum between the sixth and ninth centuries, when the leading political authority was exercised by a succession of princes. The principality was established shortly after the Sassanid suppression of the local royal Chosroid dynasty, around 580; it lasted until 888, when the kingship was restored by a member of the Bagrationi dynasty. Its borders fluctuated greatly as the presiding princes of Iberia confronted the Persians, Byzantines, Khazars, Arabs, and neighboring Caucasian rulers throughout this period."
+    ]
+   },
+   "records": [
+    "principality-of-iberia"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Principality of Mingrelia": {
+   "paragraphs": [
+    "Kneževina Mingrelija (gruzijsko: სამეგრელოს სამთავრო), znana tudi kot Odiši in Samegrelo, je bila zgodovinska država v Gruziji, ki ji je vladala dinastija Dadiani."
+   ],
+   "notes": [
+    "Izpuščena je latinična transliteracija gruzijskega imena."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Principality of Mingrelia",
+    "rev": 1363468679,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Principality of Mingrelia (Georgian: სამეგრელოს სამთავრო, romanized: samegrelos samtavro), also known as Odishi and as Samegrelo, was a historical state in Georgia ruled by the Dadiani dynasty."
+    ]
+   },
+   "records": [
+    "principality-of-mingrelia"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Principality of Svaneti": {
+   "paragraphs": [
+    "Kneževina Svaneti (gruzijsko: სვანეთის სამთავრო) je bila majhna kneževina (samtavro) v pokrajini Svaneti v gorovju Veliki Kavkaz, ki je nastala po razpadu Kraljestva Gruzije konec 15. stoletja. Zaporedoma sta ji vladali rodbini Gelovani in Dadeškeliani, leta 1858 pa so jo priključili Ruskemu imperiju."
+   ],
+   "notes": [
+    "Izpuščena je latinična transliteracija gruzijskega imena."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Principality of Svaneti",
+    "rev": 1319442080,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Principality of Svaneti (Georgian: სვანეთის სამთავრო, romanized: svanetis samtavro) was a small principality (samtavro) in the Svaneti region of the Greater Caucasus mountains that emerged following the breakup of the Kingdom of Georgia in the late 15th century. It was ruled successively by the houses of Gelovani and Dadeshkeliani, and was annexed to the Russian Empire in 1858."
+    ]
+   },
+   "records": [
+    "principality-of-svaneti"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Protectorate of the Western Regions": {
+   "headline": "Protektorat Zahodnih pokrajin",
+   "paragraphs": [
+    "Protektorat Zahodnih pokrajin (poenostavljeno kitajsko: 西域都护府; tradicionalno kitajsko: 西域都護府), cesarska uprava v Zahodnih pokrajinah, je s presledki deloval pod kitajsko dinastijo Han in njenimi naslednicami od leta 59 ali 60 pr. n. št. do konca obdobja šestnajstih kraljestev leta 439 n. št. Zahodne pokrajine so območja zahodno od prelaza Jumen, zlasti Tarimska kotlina na jugu Šinjianga. Turško govoreča ljudstva so ta območja pozneje imenovala Altišahr (južni Šinjiang brez Džungarije). Izraz »zahodne pokrajine« so Kitajci uporabljali tudi širše za Srednjo Azijo.",
+    "Protektorat je bil prva neposredna oblast kitajske vlade na tem območju. Sestavljale so ga različne vazalne države in hanske garnizije pod oblastjo generalnega protektorja Zahodnih pokrajin, ki ga je imenoval hanski dvor."
+   ],
+   "notes": [
+    "Izpuščena sta zapisa v pinjinu in po Wade-Gilesu."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Protectorate of the Western Regions",
+    "rev": 1380664175,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Protectorate of the Western Regions (simplified Chinese: 西域都护府; traditional Chinese: 西域都護府; pinyin: Xīyù Dūhù Fǔ; Wade–Giles: Hsi1-yü4 Tu1-hu4 Fu3) was an imperial administration (a protectorate) situated in the Western Regions administered by Han dynasty China and its successors on and off from 59 or 60 BCE until the end of the Sixteen Kingdoms period in 439 AD. The \"Western Regions\" refers to areas west of Yumen Pass, especially the Tarim Basin in southern Xinjiang. These areas would later be termed Altishahr (southern Xinjiang, excluding Dzungaria) by Turkic-speaking peoples. The term \"western regions\" was also used by the Chinese more generally to refer to Central Asia.",
+     "The protectorate was the first direct rule by a Chinese government of the area. It consisted of various vassal states and Han garrisons placed under the authority of a protector-general of the Western Regions, who was appointed by the Han court."
+    ]
+   },
+   "records": [
+    "protectorate-of-the-western-regions-117",
+    "protectorate-of-the-western-regions-306"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Provisional Priamurye Government": {
+   "headline": "Začasna priamurska vlada",
+   "paragraphs": [
+    "Začasna priamurska vlada (rusko: Приамурский земский край) je obstajala v Priamurju na ruskem Daljnem vzhodu od 27. maja 1921 do 16. junija 1923. Bila je zadnja enklava Ruske države v ruski državljanski vojni."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Provisional Priamurye Government",
+    "rev": 1357154555,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Provisional Priamurye Government or Provisional Priamur Government (Russian: Приамурский земский край) existed in the region of Priamurye of the Russian Far East between May 27, 1921 and June 16, 1923. It was the last Russian State enclave during the Russian Civil War."
+    ]
+   },
+   "records": [
+    "provisional-priamurye-government"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Shirvan": {
+   "paragraphs": [
+    "Širvan (perzijsko: شروان ali شیروان; azerbajdžansko in tatsko: Şirvan) je zgodovinska iranska pokrajina na vzhodnem Kavkazu, kot je bila znana v predislamskem sasanidskem in zgodnjem islamskem obdobju. Danes je pokrajina industrijsko in kmetijsko razvit del Republike Azerbajdžan med zahodno obalo Kaspijskega jezera in reko Kuro s središčem na Širvanski ravnini."
+   ],
+   "notes": [
+    "Izpuščeni so latinični zapisi klasične in iranske perzijske oblike imena; perzijska pisava ostaja."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Shirvan",
+    "rev": 1374165784,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "Shirvan (from Classical Persian شروان Shirwān or شیروان Shīrwān [Iranian Persian: شروان Shervân or شیروان Shirvân]; Azerbaijani: Şirvan; Tat: Şirvan) is a historical Iranian region in the eastern Caucasus, as known both during the pre-Islamic Sasanian Era and the early Islamic period. Today, the region is an industrially and agriculturally developed part of the Republic of Azerbaijan that stretches between the western shores of the Caspian Sea and the Kura River, centered on the Shirvan Plain."
+    ]
+   },
+   "records": [
+    "shirvan-1344",
+    "shirvan-825"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Tibetan Empire": {
+   "paragraphs": [
+    "Tibetanski imperij (tibetansko: བོད་ཆེན་པོ, dobesedno »Veliki Tibet«) je imel središče na Tibetanski planoti in je nastal v 7. stoletju z osvajanji pod Songcenom Gampom, 33. kraljem dinastije Jarlung. Še bolj se je razširil pod Trisongom Decenom, največji obseg pa je dosegel pod Tricugom Decenom, ko je segal na vzhodu do Čang'ana, na zahodu čez današnji Afganistan, na jugu pa v današnjo Indijo in do Bengalskega zaliva. Kitajski viri ga imenujejo Tufan ali Tubo (吐蕃)."
+   ],
+   "notes": [
+    "Izpuščena je transliteracija po Wylieju."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Tibetan Empire",
+    "rev": 1380632047,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Tibetan Empire (Tibetan: བོད་ཆེན་པོ, Wylie: bod chen po, lit. 'Great Tibet') was centered on the Tibetan Plateau and formed as a result of expansions under the Yarlung dynasty's 33rd king, Songtsen Gampo, in the 7th century. It expanded further under Trisong Detsen and reached its greatest extent under Tritsuk Detsen, stretching east to Chang'an, west beyond modern Afghanistan, south into modern India and the Bay of Bengal. It is referred to as Tufan or Tubo (吐蕃) in Chinese sources."
+    ]
+   },
+   "records": [
+    "tibetan-empire"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Tumed": {
+   "headline": "Tümedi",
+   "paragraphs": [
+    "Tümedi so mongolska podskupina. Živijo predvsem na območju okoli mesta Hohhot, denimo v praporih Levi Tumed in Desni Tumed (v Baotouju) na Kitajskem. Večinoma se ukvarjajo s stalnim poljedelstvom v mešanih skupnostih. Druga skupina Tümedov živi v Čaojangu v provinci Liaoning. Manjše število Tümedov živi v ajmagu Ömnögovi v Mongoliji.",
+    "Od začetka 9. do začetka 13. stoletja so Hori-Tümedi živeli ob zahodni strani Bajkalskega jezera, na območju današnje južne Irkutske oblasti, v delih Tuve in na jugozahodu Burjatije. Džingis-kan je leta 1207 po osvojitvi Hori-Tümedov sklenil nekatere od teh skupin preseliti na jug, kjer so se nazadnje naselili v južnih delih velike puščave Gobi."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Tumed",
+    "rev": 1377931878,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Tümed are a Mongol subgroup. Tümed Mongols mainly live in the region around the city of Hohhot, such as Tumed Left Banner and Tumed Right Banner (in Baotou) in China. Most engage in sedentary agriculture in mixed communities. Another Tümed group live in Chaoyang, Liaoning. There are a small number of Tümeds in Ömnögovi Aimag, Mongolia.",
+     "From the beginning of the 9th century to the beginning of the 13th century, the Khori-Tumed lived near the western side of Lake Baikal. They lived in what is now southern Irkutsk Oblast, in some parts of Tuva and in southwestern Buryatia. In 1207, Genghis Khan, after conquering the Khori-Tumed, decided to move some of these groups south and these people eventually settled in the southern parts of the Great Gobi Desert."
+    ]
+   },
+   "records": [
+    "tumed"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Turk": {
+   "headline": "Turki",
+   "paragraphs": [
+    "Turk ali Turki se lahko nanaša na:"
+   ],
+   "notes": [
+    "Zapis je povezan z razločitveno stranjo; seznam pomenov v povzetku ni ohranjen."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Turk",
+    "rev": 1376062506,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "Turk or Turks may refer to:"
+    ]
+   },
+   "records": [
+    "turks"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Utpala dynasty": {
+   "headline": "Dinastija Utpala",
+   "paragraphs": [
+    "Dinastija Utpala je bila srednjeveška kašmirska hindujska dinastija, ki je Kašmirju vladala od 9. do 10. stoletja. Ustanovil jo je Avantivarman leta 855, nadomestila pa je dinastijo Karkota. Nastala je na severu Indijske podceline. Med njeno vladavino so ustanovili mesti Avantipur (Avantipora) in Sujapur (Sopore) ter zgradili številne hindujske templje, posvečene Višnuju in Šivi, in budistične samostane, med katerimi izstopata templja Avantišvara in Avantisvami."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Utpala dynasty",
+    "rev": 1368949382,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Utpala Dynasty was a medieval Kashmiri Hindu dynasty that ruled over Kashmir from the 9th to 10th centuries. Founded by Avantivarman in 855, it replaced the Karkota dynasty. It came into existence in the northern region of the Indian subcontinent. The cities of Avantipur (Awantipora) and Suyapur (Sopore) were founded during the reign, and many Hindu temples dedicated to both Vishnu and Shiva, and Buddhist monasteries were built, notable of which is the Avantiswara and Avantiswami temples."
+    ]
+   },
+   "records": [
+    "utpala-dynasty"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Wusun": {
+   "headline": "Usuni",
+   "paragraphs": [
+    "Usuni so bili starodavno polnomadsko stepsko ljudstvo, ki ga kitajski zapisi omenjajo od 2. stoletja pr. n. št. do 5. stoletja n. št.",
+    "Usuni so sprva živeli med gorovjem Čilian in Dunhuangom (Gansu) v bližini Jüedžijev. Okoli leta 176 pr. n. št. je ljudstvo Šiungnu napadlo dežele Jüedžijev, ti pa so nato napadli Usune, ubili njihovega kralja in jim vzeli zemljo. Šiungnu so posvojili preživelega usunskega princa in ga postavili za enega svojih generalov in voditelja Usunov. Okoli leta 162 pr. n. št. so bili Jüedžiji pregnani v dolino reke Ili v Žetisuju, Džungariji in Tjanšanu, kjer so prej živeli Saki. Usuni so se nato kot vazali ljudstva Šiungnu znova naselili v Gansuju. V letih 133–132 pr. n. št. so Usuni pregnali Jüedžije iz doline Ili in se tam naselili.",
+    "Usuni so nato postali tesni zavezniki dinastije Han in več stoletij ostali močna sila v regiji. Kitajci jih nazadnje omenjajo v 5. stoletju n. št., ko so se zaradi pritiska Rouranov naselili v Pamirju. Morda so se pozneje vključili med Heftalite."
+   ],
+   "notes": [
+    "Izpuščen je angleški zapis izgovarjave."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Wusun",
+    "rev": 1376913661,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Wusun ( WOO-sun) were an ancient semi-nomadic steppe people mentioned in Chinese records from the 2nd century BC to the 5th century AD.",
+     "The Wusun originally lived between the Qilian Mountains and Dunhuang (Gansu) near the Yuezhi. Around 176 BC the Xiongnu raided the lands of the Yuezhi, who subsequently attacked the Wusun, killing their king and seizing their land. The Xiongnu adopted the surviving Wusun prince and made him one of their generals and leader of the Wusun. Around 162 BC the Yuezhi were driven into the Ili River Valley in Zhetysu, Dzungaria and Tian Shan, which had formerly been inhabited by the Saka. The Wusun then resettled in Gansu as vassals of the Xiongnu. In 133–132 BC, the Wusun drove the Yuezhi out of the Ili Valley and settled the area.",
+     "The Wusun then became close allies of the Han dynasty and remained a powerful force in the region for several centuries. The Wusun are last mentioned by the Chinese as having settled in the Pamir Mountains in the 5th century AD due to pressure from the Rouran. They possibly became subsumed into the later Hephthalites."
+    ]
+   },
+   "records": [
+    "wusun-170bce",
+    "wusun-66bce"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Yuan dynasty": {
+   "paragraphs": [
+    "Dinastija Juan, uradno Veliki Juan, je bila cesarska dinastija Kitajske pod vodstvom Mongolov in naslednica Mongolskega cesarstva po njegovi razdelitvi. Ustanovil jo je Kublaj (cesar Šidzu ali Secen kan), peti kagan-cesar Mongolskega cesarstva iz klana Bordžigin, trajala pa je od leta 1271 do 1368 n. št. V kitajski zgodovini je dinastija Juan sledila dinastiji Song in bila predhodnica dinastije Ming."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Yuan dynasty",
+    "rev": 1379512616,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Yuan dynasty, officially the Great Yuan, was a Mongol-led imperial dynasty of China and a successor state to the Mongol Empire after its division. It was established by Kublai (Emperor Shizu or Setsen Khan), the fifth khagan-emperor of the Mongol Empire from the Borjigin clan, and lasted from 1271 to 1368 CE. In Chinese history, the Yuan dynasty followed the Song dynasty and preceded the Ming dynasty."
+    ]
+   },
+   "records": [
+    "great-mongol-state",
+    "great-yuan",
+    "yuan-dynasty"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Yuezhi": {
+   "headline": "Jüedžiji",
+   "paragraphs": [
+    "Jüedžiji so bili starodavno ljudstvo, ki ga kitajske kronike v 1. tisočletju pr. n. št. prvič opisujejo kot nomadske pastirje na sušnem travnatem območju v zahodnem delu današnje kitajske province Gansu. Po hudem porazu proti ljudstvu Šiungnu leta 176 pr. n. št. so se razdelili v dve skupini, ki sta se selili v različne smeri: Velike Jüedžije in Male Jüedžije. S tem se je začel zapleten domino učinek, ki se je širil na vse strani in za stoletja zaznamoval zgodovino velikega dela Azije."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Yuezhi",
+    "rev": 1376567268,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Yuezhi were an ancient people first described in Chinese histories as nomadic pastoralists living in an arid grassland area in the western part of the modern Chinese province of Gansu, during the 1st millennium BC. After a major defeat at the hands of the Xiongnu in 176 BC, the Yuezhi split into two groups migrating in different directions: the Greater Yuezhi and Lesser Yuezhi. This started a complex domino effect that radiated in all directions and, in the process, set the course of history for much of Asia for centuries to come."
+    ]
+   },
+   "records": [
+    "yuezhi"
+   ],
+   "translated": "2026-10-26"
+  }
+ }
+}
