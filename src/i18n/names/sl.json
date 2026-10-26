@@ -762,8 +762,8 @@
   "kyrgyzstan": "Kirgizistan",
   "lakhmid-kingdom": "Lahmidi",
   "late-pallava-empire": "Palava",
-  "later-jin": "Pozna dinastija Džin",
-  "later-jin-dynasty": "Kasnejši Džin",
+  "later-jin": "Kasnejši Džin",
+  "later-jin-dynasty": "Pozna dinastija Džin",
   "later-liang": "Pozni Ljang",
   "later-liang-dynasty": "Kasnejši Ljang",
   "later-qin": "Pozni Čin",
@@ -1117,7 +1117,7 @@
   "southern-han": "Južni Han",
   "southern-qi": "Južni Či",
   "southern-tang": "Južni Tang",
-  "southern-xiongnu": "Šiongnu",
+  "southern-xiongnu": "Južni Šiungnu",
   "southern-yan": "Južni Jan",
   "sovereign-principality-of-the-united-netherlands": "Suverena kneževina Združena Nizozemska",
   "spanish-empire": "Španski imperij",
@@ -3170,7 +3170,10 @@
    "sultanate-of-sukadana": "Sultanat Sukadana",
    "sunda-kingdom": "Kraljestvo Sunda",
    "tarumanagara": "Tarumanagara",
-   "tondo": "Tondo"
+   "tondo": "Tondo",
+   "later-jin": "Kasnejši Džin",
+   "later-jin-dynasty": "Pozna dinastija Džin",
+   "southern-xiongnu": "Južni Šiungnu"
   },
   "events": {
    "Q1366688": "Transpacifiško partnerstvo",
