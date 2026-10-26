@@ -102,10 +102,13 @@ const seeded = { polities: 0, events: 0, eras: 0, skipped: [] };
   const laterPath = `${dir}/_later.json`;
   const wrong = new Set(existsSync(laterPath) ? JSON.parse(readFileSync(laterPath, 'utf8'))['wrong-article'].map((u) => u.title) : []);
   const groups = [['polities', p.list, polities], ['events', e.list, events], ['eras', r.list, eras]];
-  const used = new Map(); // name → English names already carrying it
+  // group + name → English names already carrying it; a state, an event and an era may share a name
+  // (the era "Sovjetska zveza" and the state), two records of one group with different English names may not
+  const used = new Map();
+  const at = (key, name) => `${key}\u0000${name}`;
   for (const [key, list, english] of groups)
     for (const [id, name] of [...Object.entries(list), ...Object.entries(out.overrides?.[key] ?? {})])
-      if (id !== '_note') (used.get(name) ?? used.set(name, new Set()).get(name)).add(english[id]?.name);
+      if (id !== '_note') (used.get(at(key, name)) ?? used.set(at(key, name), new Set()).get(at(key, name))).add(english[id]?.name);
   const files = existsSync(dir) ? readdirSync(dir).filter((f) => f.endsWith('.json') && !f.startsWith('_')) : [];
   for (const f of files.sort()) {
     for (const [title, unit] of Object.entries(JSON.parse(readFileSync(`${dir}/${f}`, 'utf8')).units)) {
@@ -116,7 +119,7 @@ const seeded = { polities: 0, events: 0, eras: 0, skipped: [] };
       if (!group) continue;
       const [key, list, english] = group;
       const en = english[id].name;
-      const free = (n) => ![...(used.get(n) ?? [])].some((other) => other !== en);
+      const free = (n) => ![...(used.get(at(key, n)) ?? [])].some((other) => other !== en);
       // the headline without its bracket when that name is free, else with it (two Treaties of Paris)
       const name = [strip(unit.headline), unit.headline].find(free);
       if (!name) {
@@ -124,9 +127,9 @@ const seeded = { polities: 0, events: 0, eras: 0, skipped: [] };
         continue;
       }
       if (name === en) continue;
-      const others = used.get(name);
+      const others = used.get(at(key, name));
       list[id] = name;
-      (others ?? used.set(name, new Set()).get(name)).add(en);
+      (others ?? used.set(at(key, name), new Set()).get(at(key, name))).add(en);
       seeded[key] += 1;
     }
   }

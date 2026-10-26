@@ -9907,6 +9907,66 @@
     "Portuguese forces under the command of King John I conquered the North African city of Ceuta from the Marinid Sultanate on 21 August 1415. The city's defenses fell under Portuguese control after a carefully prepared attack, and the successful capture of the city marked the beginning of the Portuguese Empire. Ceuta remained under Portuguese control until it was transferred to Spain in 1668."
    ]
   },
+  "Pre-Islamic Arabia#Bronze Age (3000 – 1300 BCE)": {
+   "kind": "era",
+   "priority": "era",
+   "records": [
+    "eastern-arabia-bronze-age"
+   ],
+   "retrieved": "2026-10-26",
+   "article": "Pre-Islamic Arabia",
+   "section": "Bronze Age (3000 – 1300 BCE)",
+   "rev": 1381588874,
+   "url": "https://en.wikipedia.org/wiki/Pre-Islamic_Arabia#Bronze_Age_(3000_–_1300_BCE)",
+   "paragraphs": [
+    "During the Bronze Age, most of Eastern Arabia was part of the land of Dilmun, including modern-day Kuwait, Bahrain, Qatar and the adjacent coast of Saudi Arabia. Its capital was located in Bahrain. Dilmun, the earliest recorded civilization from Eastern Arabia, is mentioned in written records in the 3rd millennium BCE, with archaeological evidence indicating activity from the 4th to the 1st millennia BCE; its importance faltered after 1800. Dilmun is regarded as one of the oldest ancient civilizations in the Middle East in general."
+   ]
+  },
+  "Pre-Islamic Arabia#Byzantine/Sasanian period (240 CE – 630 CE)": {
+   "kind": "era",
+   "priority": "era",
+   "records": [
+    "eastern-arabia-byzantine-sasanian-period"
+   ],
+   "retrieved": "2026-10-26",
+   "article": "Pre-Islamic Arabia",
+   "section": "Byzantine/Sasanian period (240 CE – 630 CE)",
+   "rev": 1381588874,
+   "url": "https://en.wikipedia.org/wiki/Pre-Islamic_Arabia#Byzantine/Sasanian_period_(240_CE_–_630_CE)",
+   "paragraphs": [
+    "A major shift in dynamics accompanied the replacement of the Parthian dynasty in Persian lands by the Sasanians, leading to the rise of the Sasanian Empire around 240 CE. Seizing the moment, Ardashir I, the first ruler of the dynasty marched down the Persian Gulf to Oman and Bahrain and defeated Sanatruq II (or Satiran), probably the Parthian governor of Eastern Arabia. He appointed his son Shapur I as governor of Eastern Arabia. Shapur constructed a new city there and named it Vahman Ardashir after his father. Eastern Arabia then incorporated the southern Sasanian province covering the Persian Gulf's southern shore plus the archipelago of Bahrain. The southern province of the Sasanians was subdivided into the three districts of Haggar (Hofuf, Saudi Arabia), Vahman Ardashir (al-Qatif province, Saudi Arabia), and Mishmahig (Muharraq, Bahrain; also referred to as Samahij), which included the Bahrain archipelago that was earlier called Aval."
+   ]
+  },
+  "Pre-Islamic Arabia#Greco-Roman/Parthian period (330 BCE – 240 CE)": {
+   "kind": "era",
+   "priority": "era",
+   "records": [
+    "eastern-arabia-greco-roman-parthian-period"
+   ],
+   "retrieved": "2026-10-26",
+   "article": "Pre-Islamic Arabia",
+   "section": "Greco-Roman/Parthian period (330 BCE – 240 CE)",
+   "rev": 1381588874,
+   "url": "https://en.wikipedia.org/wiki/Pre-Islamic_Arabia#Greco-Roman/Parthian_period_(330_BCE_–_240_CE)",
+   "paragraphs": [
+    "After Alexander the Great returned from his conquests that reached India, settling in Babylonia, it is said by the historian Arrian that he was turning his attention towards an invasion of the Arabian peninsula. Although he died too soon for the campaign to take place, Alexander dispatched three intelligence-gathering missions to gather knowledge about the peninsula. Those missions greatly enhanced information about the peninsula to the Hellenistic world. Alexander and his Seleucid successors, who controlled of the relevant region near Arabia after his death, took an interest in Arabia because trade happening there involved luxury products."
+   ]
+  },
+  "Pre-Islamic Arabia#Iron Age (1300 – 330 BCE)": {
+   "kind": "era",
+   "priority": "era",
+   "records": [
+    "eastern-arabia-iron-age"
+   ],
+   "retrieved": "2026-10-26",
+   "article": "Pre-Islamic Arabia",
+   "section": "Iron Age (1300 – 330 BCE)",
+   "rev": 1381588874,
+   "url": "https://en.wikipedia.org/wiki/Pre-Islamic_Arabia#Iron_Age_(1300_–_330_BCE)",
+   "paragraphs": [
+    "Upon the Late Bronze Age collapse, the major powers across the Near East lost much of their power, which allowed many smaller and far-flung states to become more independent and a number of minor states to emerge. In addition, new scripts and alphabets were developed, which were very useful to merchants to produce contracts and conduct other and related economic affairs. In turn, the Middle Assyrian Empire became much more prominent and undertook an aggressively expansionist policy. In the second half of the 13th century BCE, Tukulti-Ninurta I took on the title \"king of Dilmun and Meluhha\"."
+   ]
+  },
   "Pretoria Convention": {
    "kind": "event",
    "priority": "event",
@@ -13218,6 +13278,9 @@
   "Early Dynastic Period (Egypt)": "Zgodnje dinastično obdobje (Egipt)"
  },
  "missing": [
-  "Dutch Cape Coast"
+  "Dutch Cape Coast",
+  "List of archaeological periods#Bronze Age (3500 – 600 BCE)",
+  "List of archaeological periods#Classic Middle Ages (c. 700 – 1700 CE)",
+  "List of archaeological periods#Iron Age (550 BC – 700 CE)"
  ]
 }

@@ -2,8 +2,8 @@
  "lang": "sl",
  "region": "oceania",
  "method": "machine",
- "translator": "Claude Opus 5.5 (claude-opus-5-5) with the slovene-newspaper-translation skill",
- "translated": "2026-10-22",
+ "translator": "Claude Opus 5.5 (claude-opus-5-5) and Claude Sonnet 5.5 (claude-sonnet-5-5) with the slovene-newspaper-translation skill",
+ "translated": "2026-10-26",
  "reviewed": false,
  "licence": "CC BY-SA 4.0: translations of English Wikipedia text, attributed to each article and revision",
  "units": {
@@ -889,6 +889,71 @@
    "records": [
     "Q2394303"
    ]
+  },
+  "Māori history#Archaic period (c. 1280 – c. 1500)": {
+   "headline": "Arhaično obdobje",
+   "paragraphs": [
+    "Najzgodnejše obdobje maorske naselitve imenujejo »kolonizacijska faza«, »vzhodnopolinezijska« faza, »arhaično« obdobje ali obdobje lovcev na moe. Vzhodnopolinezijski predniki Maorov so prispeli v gozdnato deželo z obilico ptic, med njimi več danes izumrlih vrst moe, ki so tehtale od 20 do 250 kilogramov. Med drugimi danes izumrlimi vrstami so bili novozelandski labod, novozelandska gos in velikanski Haastov orel, ki je lovil moe. Obale so preplavljali morski sesalci, zlasti tjulnji, in dokazi kažejo, da so bile obalne kolonije veliko severneje kot danes. Ob ustju reke Waitaki med Timarujem in Oamarujem na vzhodni obali Južnega otoka so našli ogromno kosti moe, po ocenah od 29.000 do 90.000 ptic. Južneje, ob ustju reke Waihemo/Shag, dokazi kažejo, da so ljudje v razmeroma kratkem času pobili vsaj 6000 moe."
+   ],
+   "notes": [
+    "Izpuščeni sta pretvorbi v funte."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Māori history",
+    "section": "Archaic period (c. 1280 – c. 1500)",
+    "rev": 1368885425,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The earliest period of Māori settlement has been called the \"Colonisation phase\", \"East Polynesian\" phase, the \"Archaic\" period, and the \"Moahunter\" period. The eastern Polynesian ancestors of the Māori arrived in a forested land with abundant birdlife, including several now extinct moa species weighing between 20 kilograms (44 lb) and 250 kg (550 lb) each. Other species, also now extinct, included the New Zealand swan, the New Zealand goose and the giant Haast's eagle, which preyed upon the moa. Marine mammals – seals in particular – thronged the coasts, with evidence of coastal colonies much further north than those that remain today. Huge numbers of moa bones – estimated to be from between 29,000 and 90,000 birds – have been found at the mouth of the Waitaki River, between Timaru and Oamaru on the east coast of the South Island. Further south, at the mouth of the Waihemo / Shag River, evidence suggests that at least 6,000 moa were slaughtered by humans over a relatively short period of time."
+    ]
+   },
+   "records": [
+    "new-zealand-archaic-period"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Māori history#Classic period (c. 1500 – 1768)": {
+   "headline": "Klasično obdobje",
+   "paragraphs": [
+    "Podrobna dendrokronološka raziskava pri Hokitiki potrjuje, da se je podnebje okoli leta 1500 občutno, nenadoma in za dolgo ohladilo. Ohladitev se je ujemala z nizom silovitih potresov na Alpskem prelomu na Južnem otoku, z velikim potresom okoli leta 1460 na območju Wellingtona, s cunamiji, ki so uničili številna obalna naselja, in z izumrtjem moe in drugih vrst, s katerimi so se ljudje prehranjevali. Vse to je verjetno pripeljalo do korenitih sprememb v kulturi, iz katere se je razvila »klasična« maorska kultura, kakršno so ob prvih stikih srečali Evropejci.",
+    "Za to obdobje so značilni skrbno izdelano orožje in okraski iz pounamuja (zelenega kamna), bogato izrezljani kanuji – izročilo, ki se je pozneje preneslo na bogato izrezljane hiše srečanj, imenovane wharenui, in se v njih nadaljevalo – ter srdita bojevniška kultura. Maori so gradili utrjena naselja na vzpetinah, imenovana pā, izvajali kanibalizem in izdelovali nekatere največje vojne kanuje (waka taua), kar jih je kdaj nastalo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Māori history",
+    "section": "Classic period (c. 1500 – 1768)",
+    "rev": 1368885425,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The cooling of the climate, confirmed by a detailed tree-ring study near Hokitika, shows a significant, sudden and long-lasting cooler period from about 1500. This coincided with a series of massive earthquakes in the South Island Alpine fault, a major earthquake in about 1460 in the Wellington area, tsunamis that destroyed many coastal settlements, and the extinction of the moa and other food species. These were likely factors that led to sweeping changes in the culture, which developed into the \"Classic\" Māori culture that was in place at the time of European contact.",
+     "This period is characterised by finely made pounamu (greenstone) weapons and ornaments, elaborately carved canoes – a tradition that was later extended to and continued in elaborately carved meeting houses called wharenui – and a fierce warrior culture. They developed hillforts known as pā, practised cannibalism, and built some of the largest war canoes (waka taua) ever made."
+    ]
+   },
+   "records": [
+    "new-zealand-classic-period"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Māori history#Early European contact (1769–1840)": {
+   "headline": "Zgodnji stiki z Evropejci",
+   "paragraphs": [
+    "Novozelandski zgodovinar Michael King Maore opisuje kot »zadnjo veliko človeško skupnost na Zemlji, ki se je širni svet ni dotaknil in ni nanjo vplival«. Če odštejemo kratek spopad z Abelom Tasmanom pred obalo leta 1642, je do prvega srečanja z zunanjim svetom prišlo leta 1769 s posadko kapitana Cooka na njegovi prvi plovbi, sledila pa sta stika leta 1773 in 1777 med drugo in tretjo plovbo. Cook je leta 1769 kartiral otoke in se srečeval z Maori, zlasti leta 1777 v zalivih Marlborough Sounds. Cook in njegova posadka so svoje vtise o Maorih tudi zapisali. Ti zgodnji stiki so bili težavni in včasih usodni: nekatere Evropejce so pojedli."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Māori history",
+    "section": "Early European contact (1769–1840)",
+    "rev": 1368885425,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The New Zealand historian, Michael King, describes the Māori as \"the last major human community on earth untouched and unaffected by the wider world\". Besides a brief offshore skirmish with Abel Tasman in 1642, the first encounter with the outside world took place with Captain Cook's party on his first voyage in 1769, followed by later contact in 1773 and 1777 during the second and third voyages. Cook spent time mapping the islands in 1769 and meeting Māori, particularly in the Marlborough Sounds in 1777. Cook and his crew recorded their impressions of Māori at the time. This early contact proved problematic and sometimes fatal, with some Europeans being cannibalised."
+    ]
+   },
+   "records": [
+    "new-zealand-early-european-contact"
+   ],
+   "translated": "2026-10-26"
   },
   "Musket Wars": {
    "headline": "Mušketne vojne",

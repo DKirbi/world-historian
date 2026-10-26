@@ -15,8 +15,8 @@ What it flags:
   wrong-article   translated units whose record links to the wrong English article and has no better one
                   ("unresolved" in data/sources/link-fixes.json), or whose translator flagged a wrong link that
                   link-fixes.json does not handle yet
-  section-eras    eras read by a section heading that only resembles their name (sectionLike); they have no
-                  translation key, so the drawer shows the English section in every language
+  section-eras    eras read by a section heading that only resembles their name (sectionLike) that have no
+                  translation yet; for most the page has no such heading and the story is told from the data
   wikidata-only   records linked by Wikidata alone; no English title, so nothing in the worklist
   chart-labels    events and states with no <lang> name in the glossary; the chart and the drawer's lists
                   show their English name. `seed` is the headline of the record's translated summary, when
@@ -45,15 +45,15 @@ NO_SOURCE = {
     "Cambodia Middle Period": "No English article.",
     "id.wikipedia.org/wiki/Kesultanan_Sambaliung": "Linked to the Indonesian Wikipedia only.",
 }
-# Worklist units the fetch tool's language-link check found to have an article in <lang> after the names
-# snapshot was taken (fetch_translation_sources.py prints them as "already in <lang>").
-OWN_ARTICLE = {
-    "Mississippian culture", "Early Dynastic Period (Egypt)", "Western Liang (555–587)",
-    "Minsk II", "Sulla's first civil war",
-    # after the link fixes of 26 October 2026 (data/sources/link-fixes.json)
-    "Georgia (country)", "Duchy of Estonia (1219–1346)", "Later Han (Five Dynasties)", "Yang Wu",
-    "Angles (tribe)", "Thuringi",
-}
+# Worklist units the fetch tool's language-link check found to have an article in <lang> (fetch_translation_sources.py
+# keeps them under "inLanguage" in _sources/<region>.json), and units it found no English text for ("missing").
+IN_LANG, MISSING = {}, set()
+for region in REGIONS:
+    path = os.path.join(base, "_sources", f"{region}.json")
+    if os.path.exists(path):
+        src = json.load(open(path, encoding="utf-8"))
+        IN_LANG.update(src.get("inLanguage", {}))
+        MISSING.update(src.get("missing", []))
 # Records linked to the wrong English article: data/sources/link-fixes.json corrects what has a better
 # article ("polities", "events"), accepts a few ("accepted") and lists the rest ("unresolved").
 LINKS = json.load(open(os.path.join("data", "sources", "link-fixes.json"), encoding="utf-8"))
@@ -94,9 +94,15 @@ for w in worklist:
     key = f"{w['title']}#{w['section']}" if w.get("section") else w["title"]
     if key in units:
         continue
-    entry = {"tag": TAG, "title": w["title"], "kind": w["kind"], "regions": w["regions"], "records": w["records"]}
-    if w["title"] in OWN_ARTICLE:
-        later["own-article"].append({**entry, "why": f"Has a {lang} article now; store it with the {lang} snapshot."})
+    entry = {"tag": TAG, "title": w["title"], **({"section": w["section"]} if w.get("section") else {}),
+             "kind": w["kind"], "regions": w["regions"], "records": w["records"]}
+    if w.get("loose"):
+        why = ("No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+               if key in MISSING else "Not fetched or translated yet.")
+        later["section-eras"].append({**entry, "why": why})
+    elif w["title"] in IN_LANG:
+        later["own-article"].append({**entry, "own": IN_LANG[w["title"]],
+                                     "why": f"Has a {lang} article now; store it with the {lang} snapshot."})
     else:
         later["no-source"].append({**entry, "why": NO_SOURCE.get(w["title"], "Not translated yet.")})
 
@@ -127,11 +133,6 @@ for title, (region, unit) in units.items():
 
 names = load(os.path.join("src", "i18n", "names", f"{lang}.json"))
 for region in REGIONS:
-    eras = load(os.path.join("data", region, "_eras.json"))
-    for era in eras.get("eras") or [e for area in eras.get("areas", []) for e in area.get("eras", [])]:
-        if era.get("basis") != "period-bin" and era.get("cite") and not era.get("article"):
-            later["section-eras"].append({"tag": TAG, "id": era["id"], "region": region, "name": era.get("name"),
-                                          "page": era["cite"]["page"], "heading": era["cite"].get("quote")})
     P = polities(region)
     events, spans = {}, set()
     for f in glob.glob(os.path.join("data", region, "*", "*.json")):

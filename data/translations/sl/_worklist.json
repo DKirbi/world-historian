@@ -3,29 +3,29 @@
  "from": "2026-10-21",
  "summary": {
   "europe": {
-   "articles": 3056,
+   "articles": 3128,
    "inLanguage": 872,
-   "toTranslate": 2184
+   "toTranslate": 2256
   },
   "americas": {
-   "articles": 609,
+   "articles": 630,
    "inLanguage": 153,
-   "toTranslate": 456
+   "toTranslate": 477
   },
   "oceania": {
-   "articles": 90,
+   "articles": 96,
    "inLanguage": 27,
-   "toTranslate": 63
+   "toTranslate": 69
   },
   "africa-middle-east": {
-   "articles": 1272,
+   "articles": 1279,
    "inLanguage": 351,
-   "toTranslate": 921
+   "toTranslate": 928
   },
   "asia": {
-   "articles": 1145,
+   "articles": 1159,
    "inLanguage": 226,
-   "toTranslate": 919
+   "toTranslate": 933
   }
  },
  "units": [
@@ -51,6 +51,1196 @@
    ],
    "records": [
     "scandinavia-germanic-iron-age"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Bosnia and Herzegovina",
+   "section": "Ottoman Era (1463–1878)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "bosnia-ottoman-era"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Bosnia and Herzegovina",
+   "section": "Habsburg occupation (1878–1918)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "bosnia-habsburg-occupation"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Bosnia and Herzegovina",
+   "section": "Kingdom of Yugoslavia (1918–1941)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "bosnia-kingdom-of-yugoslavia"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Bosnia and Herzegovina",
+   "section": "World War II (1941–1945)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "bosnia-world-war-ii"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Bosnia and Herzegovina",
+   "section": "Socialist Yugoslavia (1945–1992)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "bosnia-socialist-yugoslavia"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Bosnia and Herzegovina",
+   "section": "Independence and Bosnian War (1992–1995)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "bosnia-independence-and-bosnian-war"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Bosnia and Herzegovina",
+   "section": "Post-war Bosnia and Herzegovina (1995–present)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "bosnia-post-war-bosnia-and-herzegovina"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Bulgaria",
+   "section": "First Bulgarian Empire (681–1018)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "bulgaria-first-bulgarian-empire"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Bulgaria",
+   "section": "Bulgaria under Byzantine rule (1018–1185)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "bulgaria-bulgaria-under-byzantine-rule"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Bulgaria",
+   "section": "Second Bulgarian Empire (1185–1396)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "bulgaria-second-bulgarian-empire"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Bulgaria",
+   "section": "Bulgaria under Ottoman rule (1396–1878)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "bulgaria-bulgaria-under-ottoman-rule"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Bulgaria",
+   "section": "Third Bulgarian State (1878–1946)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "bulgaria-third-bulgarian-state"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Bulgaria",
+   "section": "People's Republic of Bulgaria (1946–1991)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "bulgaria-people-s-republic-of-bulgaria"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Croatia",
+   "section": "Duchy of Croatia (800–925)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "croatia-duchy-of-croatia"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Croatia",
+   "section": "Kingdom of Croatia (925–1102)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "croatia-kingdom-of-croatia"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Croatia",
+   "section": "Personal union with Hungary (1102–1527)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "croatia-personal-union-with-hungary"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Croatia",
+   "section": "Croatia in the Habsburg monarchy (1527–1918)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "croatia-croatia-in-the-habsburg-monarchy"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Croatia",
+   "section": "Croats inside the first Yugoslavia (1918–1941)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "croatia-croats-inside-the-first-yugoslavia"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Croatia",
+   "section": "World War II and the Independent State of Croatia (1941–1945)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "croatia-world-war-ii-and-the-independent-state-of-croatia"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Croatia",
+   "section": "Socialist Yugoslavia (1945–1991)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "croatia-socialist-yugoslavia"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Croatia",
+   "section": "Republic of Croatia (1991–present)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "croatia-republic-of-croatia"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of France",
+   "section": "Frankish kingdoms (486–987)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "france-frankish-kingdoms"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of France",
+   "section": "State building into the Kingdom of France (987–1453)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "france-state-building-into-the-kingdom-of-france"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of France",
+   "section": "Early Modern France (1453–1789)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "france-early-modern-france"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of France",
+   "section": "Revolutionary France (1789–1799)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "france-revolutionary-france"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of France",
+   "section": "Napoleonic France (1799–1815)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "france-napoleonic-france"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Greece",
+   "section": "Neolithic Period to Bronze Age (7000–1100 BC)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "greece-neolithic-period-to-bronze-age"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Greece",
+   "section": "Ancient Greece (1100–146 BC)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "greece-ancient-greece"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Greece",
+   "section": "Roman Greece (146 BC – AD 324)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "greece-roman-greece"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Greece",
+   "section": "Byzantine rule (324–1204)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "greece-byzantine-rule"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Greece",
+   "section": "Venetian and Ottoman rule (15th century – 1821)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "greece-venetian-and-ottoman-rule"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Greece",
+   "section": "Modern Greek nation state (1821 – present)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "greece-modern-greek-nation-state"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Iceland",
+   "section": "Settlement (874–930)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "iceland-settlement"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Iceland",
+   "section": "Commonwealth (930–1262)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "iceland-commonwealth"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Iceland",
+   "section": "Iceland under Norwegian and Danish kings (1262–1944)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "iceland-iceland-under-norwegian-and-danish-kings"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Iceland",
+   "section": "Republic of Iceland (1944–present)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "iceland-republic-of-iceland"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Ireland",
+   "section": "Prehistory (10,500 BC–600 BC)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "ireland-prehistory"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Ireland",
+   "section": "Iron Age (600 BC–400 AD)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "ireland-iron-age"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Ireland",
+   "section": "Early Christian Ireland (400–795)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "ireland-early-christian-ireland"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Ireland",
+   "section": "Early medieval and Viking era (795–1169)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "ireland-early-medieval-and-viking-era"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Ireland",
+   "section": "Anglo-Norman Ireland (1169–1536)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "ireland-anglo-norman-ireland"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Ireland",
+   "section": "Early modern Ireland (1536–1691)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "ireland-early-modern-ireland"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Ireland",
+   "section": "Protestant ascendancy (1691–1800)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "ireland-protestant-ascendancy"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Ireland",
+   "section": "Union with Great Britain (1801–1912)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "ireland-union-with-great-britain"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Ireland",
+   "section": "Home Rule, Easter Rising and War of Independence (1912–1922)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "ireland-home-rule-easter-rising-and-war-of-independence"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Ireland",
+   "section": "Free State and Republic (1922–present)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "ireland-free-state-and-republic"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Japan",
+   "section": "Kofun period (c. 250–538)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "japan-kofun-period"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Japan",
+   "section": "Asuka period (538–710)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "japan-asuka-period"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Japan",
+   "section": "Nara period (710–794)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "japan-nara-period"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Japan",
+   "section": "Heian period (794–1185)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "japan-heian-period"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Japan",
+   "section": "Kamakura period (1185–1333)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "japan-kamakura-period"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Japan",
+   "section": "Muromachi period (1333–1568)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "japan-muromachi-period"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Japan",
+   "section": "Azuchi–Momoyama period (1568–1600)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "japan-azuchi-momoyama-period"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Japan",
+   "section": "Edo period (1600–1868)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "japan-edo-period"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Japan",
+   "section": "Meiji period (1868–1912)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "japan-meiji-period"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Japan",
+   "section": "Taishō period (1912–1926)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "japan-taish-period"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Japan",
+   "section": "Shōwa period (1926–1989)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "japan-sh-wa-period"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Japan",
+   "section": "Heisei period (1989–2019)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "japan-heisei-period"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Japan",
+   "section": "Reiwa period (2019–present)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "japan-reiwa-period"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Moldova",
+   "section": "Principality of Moldavia (1346–1862)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "moldova-principality-of-moldavia"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Moldova",
+   "section": "Bessarabia under the Russian Empire (1812–1917)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "moldova-bessarabia-under-the-russian-empire"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Moldova",
+   "section": "Moldavian Democratic Republic (1917–1918)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "moldova-moldavian-democratic-republic"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Moldova",
+   "section": "Union with Romania and the Interwar Period (1918–1940)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "moldova-union-with-romania-and-the-interwar-period"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Moldova",
+   "section": "World War II and Soviet era (1940–1991)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "moldova-world-war-ii-and-soviet-era"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Moldova",
+   "section": "Republic of Moldova (1991–present)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "moldova-republic-of-moldova"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Russia",
+   "section": "Kievan Rus' (862–1240)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "russia-kievan-rus"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Russia",
+   "section": "Mongol invasion and vassalage (1223–1480)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "russia-mongol-invasion-and-vassalage"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Russia",
+   "section": "Grand Duchy of Moscow (1283–1547)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "russia-grand-duchy-of-moscow"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Russia",
+   "section": "Tsardom of Russia (1547–1721)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "russia-tsardom-of-russia"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Russia",
+   "section": "Russian Empire (1721–1917)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "russia-russian-empire"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Russia",
+   "section": "Russian Civil War (1917–1922)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "russia-russian-civil-war"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Russia",
+   "section": "Soviet Union (1922–1991)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "russia-soviet-union"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Russia",
+   "section": "Russian Federation (1991–present)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "russia-russian-federation"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Switzerland",
+   "section": "Old Confederacy (1300–1798)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "switzerland-old-confederacy"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Switzerland",
+   "section": "Napoleonic period and aftermath (1798–1848)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "switzerland-napoleonic-period-and-aftermath"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of Switzerland",
+   "section": "Modern Switzerland (1848–present)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "switzerland-modern-switzerland"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of the Netherlands",
+   "section": "Roman era (57 BC – 410 AD)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "netherlands-roman-era"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of the Netherlands",
+   "section": "Early Middle Ages (411–1000)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "netherlands-early-middle-ages"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of the Netherlands",
+   "section": "High and Late Middle Ages (1000–1433)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "netherlands-high-and-late-middle-ages"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of the Netherlands",
+   "section": "Burgundian and Habsburg period (1433–1567)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "netherlands-burgundian-and-habsburg-period"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of the Netherlands",
+   "section": "The Eighty Years' War (1568–1648)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "netherlands-the-eighty-years-war"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of the Netherlands",
+   "section": "Dutch Republic: Regents and Stadholders (1649–1794)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "netherlands-dutch-republic"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of the Netherlands",
+   "section": "Batavian Republic (1795–1806)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "netherlands-batavian-republic"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of the Netherlands",
+   "section": "Kingdom of Holland to William I (1806–1815)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "netherlands-kingdom-of-holland"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "History of the Netherlands",
+   "section": "United Kingdom of the Netherlands (1815–1839)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "netherlands-united-kingdom-of-the-netherlands"
    ]
   },
   {
@@ -91,6 +1281,114 @@
   },
   {
    "kind": "era",
+   "title": "List of archaeological periods",
+   "section": "Indigenous Period (60,000 BCE – 1606 CE)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "oceania"
+   ],
+   "records": [
+    "australia-indigenous-period"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "List of archaeological periods",
+   "section": "European-Contact Pre-Settlement Period (1606 – 1788 CE)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "oceania"
+   ],
+   "records": [
+    "australia-pre-settlement-period"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "List of archaeological periods",
+   "section": "Settlement / Pre-Industrial Period (1788 – 1820 CE)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "oceania"
+   ],
+   "records": [
+    "australia-settlement-pre-industrial"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "List of archaeological periods",
+   "section": "Bronze Age (3500 – 600 BCE)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "africa-middle-east"
+   ],
+   "records": [
+    "nubia-bronze-age"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "List of archaeological periods",
+   "section": "Iron Age (550 BC – 700 CE)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "africa-middle-east"
+   ],
+   "records": [
+    "nubia-iron-age",
+    "ssa-central-iron-age",
+    "ssa-east-iron-age",
+    "ssa-horn-iron-age",
+    "ssa-southern-iron-age",
+    "ssa-west-iron-age"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "List of archaeological periods",
+   "section": "Classic Middle Ages (c. 700 – 1700 CE)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "africa-middle-east"
+   ],
+   "records": [
+    "nubia-classic-middle-ages",
+    "ssa-central-classic-middle-ages",
+    "ssa-east-classic-middle-ages",
+    "ssa-horn-classic-middle-ages",
+    "ssa-southern-classic-middle-ages",
+    "ssa-west-classic-middle-ages"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "List of archaeological periods",
+   "section": "Protohistoric period c. 300 BCE – 300/400 CE",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "korea-protohistoric-period"
+   ]
+  },
+  {
+   "kind": "era",
    "title": "List of Neolithic cultures of China",
    "priority": "era",
    "editions": 0,
@@ -99,6 +1397,231 @@
    ],
    "records": [
     "china-neolithic-period"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "List of pre-Columbian cultures",
+   "section": "Late Ceramic Age, c. AD 600-1500",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "antilles-late-ceramic-age",
+    "bahamas-late-ceramic-age"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "List of pre-Columbian cultures",
+   "section": "Lithic/Archaic Age, c. 5500—200 BC",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "antilles-lithic-archaic-age"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "List of pre-Columbian cultures",
+   "section": "Early Ceramic Age, c. 500 BC—AD 600",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "antilles-early-ceramic-age"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "Māori history",
+   "section": "Archaic period (c. 1280 – c. 1500)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "oceania"
+   ],
+   "records": [
+    "new-zealand-archaic-period"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "Māori history",
+   "section": "Classic period (c. 1500 – 1768)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "oceania"
+   ],
+   "records": [
+    "new-zealand-classic-period"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "Māori history",
+   "section": "Early European contact (1769–1840)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "oceania"
+   ],
+   "records": [
+    "new-zealand-early-european-contact"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "Mesoamerican chronology",
+   "section": "Archaic | 3500–2000 BCE",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-archaic"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "Mesoamerican chronology",
+   "section": "Early Preclassic | 2000–1000 BCE",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-early-preclassic"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "Mesoamerican chronology",
+   "section": "Middle Preclassic | 950–400 BCE",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-middle-preclassic"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "Mesoamerican chronology",
+   "section": "Late Preclassic | 400 BCE–250 CE",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-late-preclassic"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "Mesoamerican chronology",
+   "section": "Early Classic | 250–600",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-early-classic"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "Mesoamerican chronology",
+   "section": "Late Classic | 600–900",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-late-classic"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "Mesoamerican chronology",
+   "section": "Early Postclassic | 900–1200",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-early-postclassic"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "Mesoamerican chronology",
+   "section": "Late Postclassic | 1200–1521",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-late-postclassic"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "Mesoamerican chronology",
+   "section": "Colonial | 1521–1821",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-colonial"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "Mesoamerican chronology",
+   "section": "Postcolonial | 1821–present",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-postcolonial"
    ]
   },
   {
@@ -151,6 +1674,118 @@
   },
   {
    "kind": "era",
+   "title": "Periodization of pre-Columbian Peru",
+   "section": "Period V | 4200 BCE – 2500 BCE",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "andes-period-v-preceramic"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "Periodization of pre-Columbian Peru",
+   "section": "Period VI (Cotton Pre-ceramic) | 2500 BCE – 1800 BCE",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "andes-period-vi-cotton-preceramic"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "Periodization of pre-Columbian Peru",
+   "section": "Initial Period (also called Formative Period) | 1800 BCE – 900 BCE",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "andes-initial-period"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "Periodization of pre-Columbian Peru",
+   "section": "Early Horizon (Also called Formative Period) | 900 BCE – 200 BCE",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "andes-early-horizon"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "Periodization of pre-Columbian Peru",
+   "section": "Early Intermediate | 200 BCE – 600 CE",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "andes-early-intermediate"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "Periodization of pre-Columbian Peru",
+   "section": "Middle Horizon | 600 CE – 1000 CE",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "andes-middle-horizon"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "Periodization of pre-Columbian Peru",
+   "section": "Late Intermediate | 1000 CE – 1476 CE",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "andes-late-intermediate"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "Periodization of pre-Columbian Peru",
+   "section": "Late Horizon | 1476 CE – 1534 CE",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "andes-late-horizon"
+   ]
+  },
+  {
+   "kind": "era",
    "title": "Post-medieval archaeology",
    "priority": "era",
    "editions": 0,
@@ -159,6 +1794,62 @@
    ],
    "records": [
     "scandinavia-post-medieval-period"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "Pre-Islamic Arabia",
+   "section": "Bronze Age (3000 – 1300 BCE)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "africa-middle-east"
+   ],
+   "records": [
+    "eastern-arabia-bronze-age"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "Pre-Islamic Arabia",
+   "section": "Iron Age (1300 – 330 BCE)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "africa-middle-east"
+   ],
+   "records": [
+    "eastern-arabia-iron-age"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "Pre-Islamic Arabia",
+   "section": "Greco-Roman/Parthian period (330 BCE – 240 CE)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "africa-middle-east"
+   ],
+   "records": [
+    "eastern-arabia-greco-roman-parthian-period"
+   ]
+  },
+  {
+   "kind": "era",
+   "title": "Pre-Islamic Arabia",
+   "section": "Byzantine/Sasanian period (240 CE – 630 CE)",
+   "loose": true,
+   "priority": "era",
+   "editions": 0,
+   "regions": [
+    "africa-middle-east"
+   ],
+   "records": [
+    "eastern-arabia-byzantine-sasanian-period"
    ]
   },
   {

@@ -7,10 +7,10 @@
   "no-source": 5,
   "own-article": 11,
   "wrong-article": 13,
-  "section-eras": 131,
+  "section-eras": 28,
   "wikidata-only": 10,
-  "chart-labels": 200,
-  "chart-labels with a seed": 27
+  "chart-labels": 0,
+  "chart-labels with a seed": 0
  },
  "no-source": [
   {
@@ -85,6 +85,7 @@
    "records": [
     "eastern-north-america-mississippian"
    ],
+   "own": "Misisipijska kultura",
    "why": "Has a sl article now; store it with the sl snapshot."
   },
   {
@@ -97,6 +98,7 @@
    "records": [
     "early-dynastic-period-of-egypt"
    ],
+   "own": "Zgodnje dinastično obdobje (Egipt)",
    "why": "Has a sl article now; store it with the sl snapshot."
   },
   {
@@ -109,6 +111,7 @@
    "records": [
     "georgia-1992"
    ],
+   "own": "Gruzija",
    "why": "Has a sl article now; store it with the sl snapshot."
   },
   {
@@ -121,6 +124,7 @@
    "records": [
     "danish-magnates"
    ],
+   "own": "Danska Estonija",
    "why": "Has a sl article now; store it with the sl snapshot."
   },
   {
@@ -133,6 +137,7 @@
    "records": [
     "later-han"
    ],
+   "own": "Kasnejši Han",
    "why": "Has a sl article now; store it with the sl snapshot."
   },
   {
@@ -145,6 +150,7 @@
    "records": [
     "southern-wu"
    ],
+   "own": "Vu (deset kraljestev)",
    "why": "Has a sl article now; store it with the sl snapshot."
   },
   {
@@ -157,6 +163,7 @@
    "records": [
     "later-western-liang"
    ],
+   "own": "Zahodni Ljang (555-587)",
    "why": "Has a sl article now; store it with the sl snapshot."
   },
   {
@@ -169,6 +176,7 @@
    "records": [
     "angles"
    ],
+   "own": "Angli",
    "why": "Has a sl article now; store it with the sl snapshot."
   },
   {
@@ -181,6 +189,7 @@
    "records": [
     "kingdom-of-thuringia"
    ],
+   "own": "Turingi",
    "why": "Has a sl article now; store it with the sl snapshot."
   },
   {
@@ -193,6 +202,7 @@
    "records": [
     "Q19249259"
    ],
+   "own": "Sporazumi iz Minska",
    "why": "Has a sl article now; store it with the sl snapshot."
   },
   {
@@ -205,6 +215,7 @@
    "records": [
     "Q2734925"
    ],
+   "own": "Sulova državljanska vojna",
    "why": "Has a sl article now; store it with the sl snapshot."
   }
  ],
@@ -343,1051 +354,378 @@
  "section-eras": [
   {
    "tag": "L10N-LATER",
-   "id": "australia-indigenous-period",
-   "region": "oceania",
-   "name": "Indigenous Period",
-   "page": "List of archaeological periods",
-   "heading": "Indigenous Period (60,000 BCE – 1606 CE)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "australia-pre-settlement-period",
-   "region": "oceania",
-   "name": "Pre-Settlement Period",
-   "page": "List of archaeological periods",
-   "heading": "European-Contact Pre-Settlement Period (1606 – 1788 CE)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "australia-settlement-pre-industrial",
-   "region": "oceania",
-   "name": "Settlement / Pre-Industrial",
-   "page": "List of archaeological periods",
-   "heading": "Settlement / Pre-Industrial Period (1788 – 1820 CE)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "new-zealand-archaic-period",
-   "region": "oceania",
-   "name": "Archaic period",
-   "page": "Māori history",
-   "heading": "Archaic period (c. 1280 – c. 1500)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "new-zealand-classic-period",
-   "region": "oceania",
-   "name": "Classic period",
-   "page": "Māori history",
-   "heading": "Classic period (c. 1500 – 1768)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "new-zealand-early-european-contact",
-   "region": "oceania",
-   "name": "Early European contact",
-   "page": "Māori history",
-   "heading": "Early European contact (1769–1840)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "mesoamerica-archaic",
-   "region": "americas",
-   "name": "Archaic",
-   "page": "Mesoamerican chronology",
-   "heading": "Archaic | 3500–2000 BCE"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "mesoamerica-early-preclassic",
-   "region": "americas",
-   "name": "Early Preclassic",
-   "page": "Mesoamerican chronology",
-   "heading": "Early Preclassic | 2000–1000 BCE"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "mesoamerica-middle-preclassic",
-   "region": "americas",
-   "name": "Middle Preclassic",
-   "page": "Mesoamerican chronology",
-   "heading": "Middle Preclassic | 950–400 BCE"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "mesoamerica-late-preclassic",
-   "region": "americas",
-   "name": "Late Preclassic",
-   "page": "Mesoamerican chronology",
-   "heading": "Late Preclassic | 400 BCE–250 CE"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "mesoamerica-early-classic",
-   "region": "americas",
-   "name": "Early Classic",
-   "page": "Mesoamerican chronology",
-   "heading": "Early Classic | 250–600"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "mesoamerica-late-classic",
-   "region": "americas",
-   "name": "Late Classic",
-   "page": "Mesoamerican chronology",
-   "heading": "Late Classic | 600–900"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "mesoamerica-early-postclassic",
-   "region": "americas",
-   "name": "Early Postclassic",
-   "page": "Mesoamerican chronology",
-   "heading": "Early Postclassic | 900–1200"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "mesoamerica-late-postclassic",
-   "region": "americas",
-   "name": "Late Postclassic",
-   "page": "Mesoamerican chronology",
-   "heading": "Late Postclassic | 1200–1521"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "mesoamerica-colonial",
-   "region": "americas",
-   "name": "Colonial",
-   "page": "Mesoamerican chronology",
-   "heading": "Colonial | 1521–1821"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "mesoamerica-postcolonial",
-   "region": "americas",
-   "name": "Postcolonial",
-   "page": "Mesoamerican chronology",
-   "heading": "Postcolonial | 1821–present"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "bahamas-late-ceramic-age",
-   "region": "americas",
-   "name": "Late Ceramic Age",
-   "page": "List of pre-Columbian cultures",
-   "heading": "Late Ceramic Age, c. AD 600-1500"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "antilles-lithic-archaic-age",
-   "region": "americas",
-   "name": "Lithic/Archaic Age",
-   "page": "List of pre-Columbian cultures",
-   "heading": "Lithic/Archaic Age, c. 5500—200 BC"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "antilles-early-ceramic-age",
-   "region": "americas",
-   "name": "Early Ceramic Age",
-   "page": "List of pre-Columbian cultures",
-   "heading": "Early Ceramic Age, c. 500 BC—AD 600"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "antilles-late-ceramic-age",
-   "region": "americas",
-   "name": "Late Ceramic Age",
-   "page": "List of pre-Columbian cultures",
-   "heading": "Late Ceramic Age, c. AD 600-1500"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "andes-period-v-preceramic",
-   "region": "americas",
-   "name": "Period V (Preceramic)",
-   "page": "Periodization of pre-Columbian Peru",
-   "heading": "Period V | 4200 BCE – 2500 BCE"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "andes-period-vi-cotton-preceramic",
-   "region": "americas",
-   "name": "Period VI (Cotton Preceramic)",
-   "page": "Periodization of pre-Columbian Peru",
-   "heading": "Period VI (Cotton Pre-ceramic) | 2500 BCE – 1800 BCE"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "andes-initial-period",
-   "region": "americas",
-   "name": "Initial Period",
-   "page": "Periodization of pre-Columbian Peru",
-   "heading": "Initial Period (also called Formative Period) | 1800 BCE – 900 BCE"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "andes-early-horizon",
-   "region": "americas",
-   "name": "Early Horizon",
-   "page": "Periodization of pre-Columbian Peru",
-   "heading": "Early Horizon (Also called Formative Period) | 900 BCE – 200 BCE"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "andes-early-intermediate",
-   "region": "americas",
-   "name": "Early Intermediate",
-   "page": "Periodization of pre-Columbian Peru",
-   "heading": "Early Intermediate | 200 BCE – 600 CE"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "andes-middle-horizon",
-   "region": "americas",
-   "name": "Middle Horizon",
-   "page": "Periodization of pre-Columbian Peru",
-   "heading": "Middle Horizon | 600 CE – 1000 CE"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "andes-late-intermediate",
-   "region": "americas",
-   "name": "Late Intermediate",
-   "page": "Periodization of pre-Columbian Peru",
-   "heading": "Late Intermediate | 1000 CE – 1476 CE"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "andes-late-horizon",
-   "region": "americas",
-   "name": "Late Horizon",
-   "page": "Periodization of pre-Columbian Peru",
-   "heading": "Late Horizon | 1476 CE – 1534 CE"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "eastern-arabia-bronze-age",
-   "region": "africa-middle-east",
-   "name": "Bronze Age",
-   "page": "Pre-Islamic Arabia",
-   "heading": "Bronze Age (3000 – 1300 BCE)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "eastern-arabia-iron-age",
-   "region": "africa-middle-east",
-   "name": "Iron Age",
-   "page": "Pre-Islamic Arabia",
-   "heading": "Iron Age (1300 – 330 BCE)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "eastern-arabia-greco-roman-parthian-period",
-   "region": "africa-middle-east",
-   "name": "Greco-Roman/Parthian period",
-   "page": "Pre-Islamic Arabia",
-   "heading": "Greco-Roman/Parthian period (330 BCE – 240 CE)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "eastern-arabia-byzantine-sasanian-period",
-   "region": "africa-middle-east",
-   "name": "Byzantine/Sasanian period",
-   "page": "Pre-Islamic Arabia",
-   "heading": "Byzantine/Sasanian period (240 CE – 630 CE)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "nubia-bronze-age",
-   "region": "africa-middle-east",
-   "name": "Bronze Age",
-   "page": "List of archaeological periods",
-   "heading": "Bronze Age (3500 – 600 BCE)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "nubia-iron-age",
-   "region": "africa-middle-east",
-   "name": "Iron Age",
-   "page": "List of archaeological periods",
-   "heading": "Iron Age (550 BC – 700 CE)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "nubia-classic-middle-ages",
-   "region": "africa-middle-east",
-   "name": "Classic Middle Ages",
-   "page": "List of archaeological periods",
-   "heading": "Classic Middle Ages (c. 700 – 1700 CE)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "ssa-horn-iron-age",
-   "region": "africa-middle-east",
-   "name": "Iron Age",
-   "page": "List of archaeological periods",
-   "heading": "Iron Age (550 BC – 700 CE)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "ssa-horn-classic-middle-ages",
-   "region": "africa-middle-east",
-   "name": "Classic Middle Ages",
-   "page": "List of archaeological periods",
-   "heading": "Classic Middle Ages (c. 700 – 1700 CE)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "ssa-west-iron-age",
-   "region": "africa-middle-east",
-   "name": "Iron Age",
-   "page": "List of archaeological periods",
-   "heading": "Iron Age (550 BC – 700 CE)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "ssa-west-classic-middle-ages",
-   "region": "africa-middle-east",
-   "name": "Classic Middle Ages",
-   "page": "List of archaeological periods",
-   "heading": "Classic Middle Ages (c. 700 – 1700 CE)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "ssa-central-iron-age",
-   "region": "africa-middle-east",
-   "name": "Iron Age",
-   "page": "List of archaeological periods",
-   "heading": "Iron Age (550 BC – 700 CE)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "ssa-central-classic-middle-ages",
-   "region": "africa-middle-east",
-   "name": "Classic Middle Ages",
-   "page": "List of archaeological periods",
-   "heading": "Classic Middle Ages (c. 700 – 1700 CE)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "ssa-east-iron-age",
-   "region": "africa-middle-east",
-   "name": "Iron Age",
-   "page": "List of archaeological periods",
-   "heading": "Iron Age (550 BC – 700 CE)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "ssa-east-classic-middle-ages",
-   "region": "africa-middle-east",
-   "name": "Classic Middle Ages",
-   "page": "List of archaeological periods",
-   "heading": "Classic Middle Ages (c. 700 – 1700 CE)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "ssa-southern-iron-age",
-   "region": "africa-middle-east",
-   "name": "Iron Age",
-   "page": "List of archaeological periods",
-   "heading": "Iron Age (550 BC – 700 CE)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "ssa-southern-classic-middle-ages",
-   "region": "africa-middle-east",
-   "name": "Classic Middle Ages",
-   "page": "List of archaeological periods",
-   "heading": "Classic Middle Ages (c. 700 – 1700 CE)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "france-frankish-kingdoms",
-   "region": "europe",
-   "name": "Frankish kingdoms",
-   "page": "History of France",
-   "heading": "Frankish kingdoms (486–987)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "france-state-building-into-the-kingdom-of-france",
-   "region": "europe",
-   "name": "State building into the Kingdom of France",
-   "page": "History of France",
-   "heading": "State building into the Kingdom of France (987–1453)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "france-early-modern-france",
-   "region": "europe",
-   "name": "Early Modern France",
-   "page": "History of France",
-   "heading": "Early Modern France (1453–1789)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "france-revolutionary-france",
-   "region": "europe",
-   "name": "Revolutionary France",
-   "page": "History of France",
-   "heading": "Revolutionary France (1789–1799)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "france-napoleonic-france",
-   "region": "europe",
-   "name": "Napoleonic France",
-   "page": "History of France",
-   "heading": "Napoleonic France (1799–1815)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "ireland-prehistory",
-   "region": "europe",
-   "name": "Prehistory",
-   "page": "History of Ireland",
-   "heading": "Prehistory (10,500 BC–600 BC)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "ireland-iron-age",
-   "region": "europe",
-   "name": "Iron Age",
-   "page": "History of Ireland",
-   "heading": "Iron Age (600 BC–400 AD)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "ireland-early-christian-ireland",
-   "region": "europe",
-   "name": "Early Christian Ireland",
-   "page": "History of Ireland",
-   "heading": "Early Christian Ireland (400–795)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "ireland-early-medieval-and-viking-era",
-   "region": "europe",
-   "name": "Early medieval and Viking era",
-   "page": "History of Ireland",
-   "heading": "Early medieval and Viking era (795–1169)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "ireland-anglo-norman-ireland",
-   "region": "europe",
-   "name": "Anglo-Norman Ireland",
-   "page": "History of Ireland",
-   "heading": "Anglo-Norman Ireland (1169–1536)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "ireland-early-modern-ireland",
-   "region": "europe",
-   "name": "Early modern Ireland",
-   "page": "History of Ireland",
-   "heading": "Early modern Ireland (1536–1691)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "ireland-protestant-ascendancy",
-   "region": "europe",
-   "name": "Protestant ascendancy",
-   "page": "History of Ireland",
-   "heading": "Protestant ascendancy (1691–1800)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "ireland-union-with-great-britain",
-   "region": "europe",
-   "name": "Union with Great Britain",
-   "page": "History of Ireland",
-   "heading": "Union with Great Britain (1801–1912)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "ireland-home-rule-easter-rising-and-war-of-independence",
-   "region": "europe",
-   "name": "Home Rule, Easter Rising and War of Independence",
-   "page": "History of Ireland",
-   "heading": "Home Rule, Easter Rising and War of Independence (1912–1922)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "ireland-free-state-and-republic",
-   "region": "europe",
-   "name": "Free State and Republic",
-   "page": "History of Ireland",
-   "heading": "Free State and Republic (1922–present)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "netherlands-roman-era",
-   "region": "europe",
-   "name": "Roman era",
-   "page": "History of the Netherlands",
-   "heading": "Roman era (57 BC – 410 AD)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "netherlands-early-middle-ages",
-   "region": "europe",
-   "name": "Early Middle Ages",
-   "page": "History of the Netherlands",
-   "heading": "Early Middle Ages (411–1000)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "netherlands-high-and-late-middle-ages",
-   "region": "europe",
-   "name": "High and Late Middle Ages",
-   "page": "History of the Netherlands",
-   "heading": "High and Late Middle Ages (1000–1433)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "netherlands-burgundian-and-habsburg-period",
-   "region": "europe",
-   "name": "Burgundian and Habsburg period",
-   "page": "History of the Netherlands",
-   "heading": "Burgundian and Habsburg period (1433–1567)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "netherlands-the-eighty-years-war",
-   "region": "europe",
-   "name": "The Eighty Years' War",
-   "page": "History of the Netherlands",
-   "heading": "The Eighty Years' War (1568–1648)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "netherlands-dutch-republic",
-   "region": "europe",
-   "name": "Dutch Republic",
-   "page": "History of the Netherlands",
-   "heading": "Dutch Republic: Regents and Stadholders (1649–1794)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "netherlands-batavian-republic",
-   "region": "europe",
-   "name": "Batavian Republic",
-   "page": "History of the Netherlands",
-   "heading": "Batavian Republic (1795–1806)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "netherlands-kingdom-of-holland",
-   "region": "europe",
-   "name": "Kingdom of Holland",
-   "page": "History of the Netherlands",
-   "heading": "Kingdom of Holland to William I (1806–1815)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "netherlands-united-kingdom-of-the-netherlands",
-   "region": "europe",
-   "name": "United Kingdom of the Netherlands",
-   "page": "History of the Netherlands",
-   "heading": "United Kingdom of the Netherlands (1815–1839)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "switzerland-old-confederacy",
-   "region": "europe",
-   "name": "Old Confederacy",
-   "page": "History of Switzerland",
-   "heading": "Old Confederacy (1300–1798)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "switzerland-napoleonic-period-and-aftermath",
-   "region": "europe",
-   "name": "Napoleonic period and aftermath",
-   "page": "History of Switzerland",
-   "heading": "Napoleonic period and aftermath (1798–1848)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "switzerland-modern-switzerland",
-   "region": "europe",
-   "name": "Modern Switzerland",
-   "page": "History of Switzerland",
-   "heading": "Modern Switzerland (1848–present)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "croatia-duchy-of-croatia",
-   "region": "europe",
-   "name": "Duchy of Croatia",
-   "page": "History of Croatia",
-   "heading": "Duchy of Croatia (800–925)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "croatia-kingdom-of-croatia",
-   "region": "europe",
-   "name": "Kingdom of Croatia",
-   "page": "History of Croatia",
-   "heading": "Kingdom of Croatia (925–1102)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "croatia-personal-union-with-hungary",
-   "region": "europe",
-   "name": "Personal union with Hungary",
-   "page": "History of Croatia",
-   "heading": "Personal union with Hungary (1102–1527)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "croatia-croatia-in-the-habsburg-monarchy",
-   "region": "europe",
-   "name": "Croatia in the Habsburg monarchy",
-   "page": "History of Croatia",
-   "heading": "Croatia in the Habsburg monarchy (1527–1918)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "croatia-croats-inside-the-first-yugoslavia",
-   "region": "europe",
-   "name": "Croats inside the first Yugoslavia",
-   "page": "History of Croatia",
-   "heading": "Croats inside the first Yugoslavia (1918–1941)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "croatia-world-war-ii-and-the-independent-state-of-croatia",
-   "region": "europe",
-   "name": "World War II and the Independent State of Croatia",
-   "page": "History of Croatia",
-   "heading": "World War II and the Independent State of Croatia (1941–1945)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "croatia-socialist-yugoslavia",
-   "region": "europe",
-   "name": "Socialist Yugoslavia",
-   "page": "History of Croatia",
-   "heading": "Socialist Yugoslavia (1945–1991)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "croatia-republic-of-croatia",
-   "region": "europe",
-   "name": "Republic of Croatia",
-   "page": "History of Croatia",
-   "heading": "Republic of Croatia (1991–present)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "bosnia-ottoman-era",
-   "region": "europe",
-   "name": "Ottoman Era",
-   "page": "History of Bosnia and Herzegovina",
-   "heading": "Ottoman Era (1463–1878)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "bosnia-habsburg-occupation",
-   "region": "europe",
-   "name": "Habsburg occupation",
-   "page": "History of Bosnia and Herzegovina",
-   "heading": "Habsburg occupation (1878–1918)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "bosnia-kingdom-of-yugoslavia",
-   "region": "europe",
-   "name": "Kingdom of Yugoslavia",
-   "page": "History of Bosnia and Herzegovina",
-   "heading": "Kingdom of Yugoslavia (1918–1941)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "bosnia-world-war-ii",
-   "region": "europe",
-   "name": "World War II",
-   "page": "History of Bosnia and Herzegovina",
-   "heading": "World War II (1941–1945)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "bosnia-socialist-yugoslavia",
-   "region": "europe",
-   "name": "Socialist Yugoslavia",
-   "page": "History of Bosnia and Herzegovina",
-   "heading": "Socialist Yugoslavia (1945–1992)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "bosnia-independence-and-bosnian-war",
-   "region": "europe",
-   "name": "Independence and Bosnian War",
-   "page": "History of Bosnia and Herzegovina",
-   "heading": "Independence and Bosnian War (1992–1995)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "bosnia-post-war-bosnia-and-herzegovina",
-   "region": "europe",
-   "name": "Post-war Bosnia and Herzegovina",
-   "page": "History of Bosnia and Herzegovina",
-   "heading": "Post-war Bosnia and Herzegovina (1995–present)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "greece-neolithic-period-to-bronze-age",
-   "region": "europe",
-   "name": "Neolithic Period to Bronze Age",
-   "page": "History of Greece",
-   "heading": "Neolithic Period to Bronze Age (7000–1100 BC)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "greece-ancient-greece",
-   "region": "europe",
-   "name": "Ancient Greece",
-   "page": "History of Greece",
-   "heading": "Ancient Greece (1100–146 BC)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "greece-roman-greece",
-   "region": "europe",
-   "name": "Roman Greece",
-   "page": "History of Greece",
-   "heading": "Roman Greece (146 BC – AD 324)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "greece-byzantine-rule",
-   "region": "europe",
-   "name": "Byzantine rule",
-   "page": "History of Greece",
-   "heading": "Byzantine rule (324–1204)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "greece-venetian-and-ottoman-rule",
-   "region": "europe",
-   "name": "Venetian and Ottoman rule",
-   "page": "History of Greece",
-   "heading": "Venetian and Ottoman rule (15th century – 1821)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "greece-modern-greek-nation-state",
-   "region": "europe",
-   "name": "Modern Greek nation state",
-   "page": "History of Greece",
-   "heading": "Modern Greek nation state (1821 – present)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "bulgaria-first-bulgarian-empire",
-   "region": "europe",
-   "name": "First Bulgarian Empire",
-   "page": "History of Bulgaria",
-   "heading": "First Bulgarian Empire (681–1018)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "bulgaria-bulgaria-under-byzantine-rule",
-   "region": "europe",
-   "name": "Bulgaria under Byzantine rule",
-   "page": "History of Bulgaria",
-   "heading": "Bulgaria under Byzantine rule (1018–1185)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "bulgaria-second-bulgarian-empire",
-   "region": "europe",
-   "name": "Second Bulgarian Empire",
-   "page": "History of Bulgaria",
-   "heading": "Second Bulgarian Empire (1185–1396)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "bulgaria-bulgaria-under-ottoman-rule",
-   "region": "europe",
-   "name": "Bulgaria under Ottoman rule",
-   "page": "History of Bulgaria",
-   "heading": "Bulgaria under Ottoman rule (1396–1878)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "bulgaria-third-bulgarian-state",
-   "region": "europe",
-   "name": "Third Bulgarian State",
-   "page": "History of Bulgaria",
-   "heading": "Third Bulgarian State (1878–1946)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "bulgaria-people-s-republic-of-bulgaria",
-   "region": "europe",
-   "name": "People's Republic of Bulgaria",
-   "page": "History of Bulgaria",
-   "heading": "People's Republic of Bulgaria (1946–1991)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "moldova-principality-of-moldavia",
-   "region": "europe",
-   "name": "Principality of Moldavia",
-   "page": "History of Moldova",
-   "heading": "Principality of Moldavia (1346–1862)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "moldova-bessarabia-under-the-russian-empire",
-   "region": "europe",
-   "name": "Bessarabia under the Russian Empire",
-   "page": "History of Moldova",
-   "heading": "Bessarabia under the Russian Empire (1812–1917)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "moldova-moldavian-democratic-republic",
-   "region": "europe",
-   "name": "Moldavian Democratic Republic",
-   "page": "History of Moldova",
-   "heading": "Moldavian Democratic Republic (1917–1918)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "moldova-union-with-romania-and-the-interwar-period",
-   "region": "europe",
-   "name": "Union with Romania and the Interwar Period",
-   "page": "History of Moldova",
-   "heading": "Union with Romania and the Interwar Period (1918–1940)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "moldova-world-war-ii-and-soviet-era",
-   "region": "europe",
-   "name": "World War II and Soviet era",
-   "page": "History of Moldova",
-   "heading": "World War II and Soviet era (1940–1991)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "moldova-republic-of-moldova",
-   "region": "europe",
-   "name": "Republic of Moldova",
-   "page": "History of Moldova",
-   "heading": "Republic of Moldova (1991–present)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "iceland-settlement",
-   "region": "europe",
-   "name": "Settlement",
-   "page": "History of Iceland",
-   "heading": "Settlement (874–930)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "iceland-commonwealth",
-   "region": "europe",
-   "name": "Commonwealth",
-   "page": "History of Iceland",
-   "heading": "Commonwealth (930–1262)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "iceland-iceland-under-norwegian-and-danish-kings",
-   "region": "europe",
-   "name": "Iceland under Norwegian and Danish kings",
-   "page": "History of Iceland",
-   "heading": "Iceland under Norwegian and Danish kings (1262–1944)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "iceland-republic-of-iceland",
-   "region": "europe",
-   "name": "Republic of Iceland",
-   "page": "History of Iceland",
-   "heading": "Republic of Iceland (1944–present)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "russia-kievan-rus",
-   "region": "europe",
-   "name": "Kievan Rus'",
-   "page": "History of Russia",
-   "heading": "Kievan Rus' (862–1240)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "russia-mongol-invasion-and-vassalage",
-   "region": "europe",
-   "name": "Mongol invasion and vassalage",
-   "page": "History of Russia",
-   "heading": "Mongol invasion and vassalage (1223–1480)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "russia-grand-duchy-of-moscow",
-   "region": "europe",
-   "name": "Grand Duchy of Moscow",
-   "page": "History of Russia",
-   "heading": "Grand Duchy of Moscow (1283–1547)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "russia-tsardom-of-russia",
-   "region": "europe",
-   "name": "Tsardom of Russia",
-   "page": "History of Russia",
-   "heading": "Tsardom of Russia (1547–1721)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "russia-russian-empire",
-   "region": "europe",
-   "name": "Russian Empire",
-   "page": "History of Russia",
-   "heading": "Russian Empire (1721–1917)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "russia-russian-civil-war",
-   "region": "europe",
-   "name": "Russian Civil War",
-   "page": "History of Russia",
-   "heading": "Russian Civil War (1917–1922)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "russia-soviet-union",
-   "region": "europe",
-   "name": "Soviet Union",
-   "page": "History of Russia",
-   "heading": "Soviet Union (1922–1991)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "russia-russian-federation",
-   "region": "europe",
-   "name": "Russian Federation",
-   "page": "History of Russia",
-   "heading": "Russian Federation (1991–present)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "korea-protohistoric-period",
-   "region": "asia",
-   "name": "Protohistoric period",
-   "page": "List of archaeological periods",
-   "heading": "Protohistoric period c. 300 BCE – 300/400 CE"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "japan-kofun-period",
-   "region": "asia",
-   "name": "Kofun period",
-   "page": "History of Japan",
-   "heading": "Kofun period (c. 250–538)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "japan-asuka-period",
-   "region": "asia",
-   "name": "Asuka period",
-   "page": "History of Japan",
-   "heading": "Asuka period (538–710)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "japan-nara-period",
-   "region": "asia",
-   "name": "Nara period",
-   "page": "History of Japan",
-   "heading": "Nara period (710–794)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "japan-heian-period",
-   "region": "asia",
-   "name": "Heian period",
-   "page": "History of Japan",
-   "heading": "Heian period (794–1185)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "japan-kamakura-period",
-   "region": "asia",
-   "name": "Kamakura period",
-   "page": "History of Japan",
-   "heading": "Kamakura period (1185–1333)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "japan-muromachi-period",
-   "region": "asia",
-   "name": "Muromachi period",
-   "page": "History of Japan",
-   "heading": "Muromachi period (1333–1568)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "japan-azuchi-momoyama-period",
-   "region": "asia",
-   "name": "Azuchi–Momoyama period",
-   "page": "History of Japan",
-   "heading": "Azuchi–Momoyama period (1568–1600)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "japan-edo-period",
-   "region": "asia",
-   "name": "Edo period",
-   "page": "History of Japan",
-   "heading": "Edo period (1600–1868)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "japan-meiji-period",
-   "region": "asia",
-   "name": "Meiji period",
-   "page": "History of Japan",
-   "heading": "Meiji period (1868–1912)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "japan-taish-period",
-   "region": "asia",
-   "name": "Taishō period",
-   "page": "History of Japan",
-   "heading": "Taishō period (1912–1926)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "japan-sh-wa-period",
-   "region": "asia",
-   "name": "Shōwa period",
-   "page": "History of Japan",
-   "heading": "Shōwa period (1926–1989)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "japan-heisei-period",
-   "region": "asia",
-   "name": "Heisei period",
-   "page": "History of Japan",
-   "heading": "Heisei period (1989–2019)"
-  },
-  {
-   "tag": "L10N-LATER",
-   "id": "japan-reiwa-period",
-   "region": "asia",
-   "name": "Reiwa period",
-   "page": "History of Japan",
-   "heading": "Reiwa period (2019–present)"
+   "title": "List of archaeological periods",
+   "section": "Indigenous Period (60,000 BCE – 1606 CE)",
+   "kind": "era",
+   "regions": [
+    "oceania"
+   ],
+   "records": [
+    "australia-indigenous-period"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "List of archaeological periods",
+   "section": "European-Contact Pre-Settlement Period (1606 – 1788 CE)",
+   "kind": "era",
+   "regions": [
+    "oceania"
+   ],
+   "records": [
+    "australia-pre-settlement-period"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "List of archaeological periods",
+   "section": "Settlement / Pre-Industrial Period (1788 – 1820 CE)",
+   "kind": "era",
+   "regions": [
+    "oceania"
+   ],
+   "records": [
+    "australia-settlement-pre-industrial"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "List of archaeological periods",
+   "section": "Bronze Age (3500 – 600 BCE)",
+   "kind": "era",
+   "regions": [
+    "africa-middle-east"
+   ],
+   "records": [
+    "nubia-bronze-age"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "List of archaeological periods",
+   "section": "Iron Age (550 BC – 700 CE)",
+   "kind": "era",
+   "regions": [
+    "africa-middle-east"
+   ],
+   "records": [
+    "nubia-iron-age",
+    "ssa-central-iron-age",
+    "ssa-east-iron-age",
+    "ssa-horn-iron-age",
+    "ssa-southern-iron-age",
+    "ssa-west-iron-age"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "List of archaeological periods",
+   "section": "Classic Middle Ages (c. 700 – 1700 CE)",
+   "kind": "era",
+   "regions": [
+    "africa-middle-east"
+   ],
+   "records": [
+    "nubia-classic-middle-ages",
+    "ssa-central-classic-middle-ages",
+    "ssa-east-classic-middle-ages",
+    "ssa-horn-classic-middle-ages",
+    "ssa-southern-classic-middle-ages",
+    "ssa-west-classic-middle-ages"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "List of archaeological periods",
+   "section": "Protohistoric period c. 300 BCE – 300/400 CE",
+   "kind": "era",
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "korea-protohistoric-period"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "List of pre-Columbian cultures",
+   "section": "Late Ceramic Age, c. AD 600-1500",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "antilles-late-ceramic-age",
+    "bahamas-late-ceramic-age"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "List of pre-Columbian cultures",
+   "section": "Lithic/Archaic Age, c. 5500—200 BC",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "antilles-lithic-archaic-age"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "List of pre-Columbian cultures",
+   "section": "Early Ceramic Age, c. 500 BC—AD 600",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "antilles-early-ceramic-age"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Mesoamerican chronology",
+   "section": "Archaic | 3500–2000 BCE",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-archaic"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Mesoamerican chronology",
+   "section": "Early Preclassic | 2000–1000 BCE",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-early-preclassic"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Mesoamerican chronology",
+   "section": "Middle Preclassic | 950–400 BCE",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-middle-preclassic"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Mesoamerican chronology",
+   "section": "Late Preclassic | 400 BCE–250 CE",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-late-preclassic"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Mesoamerican chronology",
+   "section": "Early Classic | 250–600",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-early-classic"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Mesoamerican chronology",
+   "section": "Late Classic | 600–900",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-late-classic"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Mesoamerican chronology",
+   "section": "Early Postclassic | 900–1200",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-early-postclassic"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Mesoamerican chronology",
+   "section": "Late Postclassic | 1200–1521",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-late-postclassic"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Mesoamerican chronology",
+   "section": "Colonial | 1521–1821",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-colonial"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Mesoamerican chronology",
+   "section": "Postcolonial | 1821–present",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-postcolonial"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Periodization of pre-Columbian Peru",
+   "section": "Period V | 4200 BCE – 2500 BCE",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "andes-period-v-preceramic"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Periodization of pre-Columbian Peru",
+   "section": "Period VI (Cotton Pre-ceramic) | 2500 BCE – 1800 BCE",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "andes-period-vi-cotton-preceramic"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Periodization of pre-Columbian Peru",
+   "section": "Initial Period (also called Formative Period) | 1800 BCE – 900 BCE",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "andes-initial-period"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Periodization of pre-Columbian Peru",
+   "section": "Early Horizon (Also called Formative Period) | 900 BCE – 200 BCE",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "andes-early-horizon"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Periodization of pre-Columbian Peru",
+   "section": "Early Intermediate | 200 BCE – 600 CE",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "andes-early-intermediate"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Periodization of pre-Columbian Peru",
+   "section": "Middle Horizon | 600 CE – 1000 CE",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "andes-middle-horizon"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Periodization of pre-Columbian Peru",
+   "section": "Late Intermediate | 1000 CE – 1476 CE",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "andes-late-intermediate"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Periodization of pre-Columbian Peru",
+   "section": "Late Horizon | 1476 CE – 1534 CE",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "andes-late-horizon"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
   }
  ],
  "wikidata-only": [
@@ -1462,1606 +800,5 @@
    "name": "Siege of Avaricum"
   }
  ],
- "chart-labels": [
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "samoa",
-   "region": "oceania",
-   "name": "Samoa",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "tonga",
-   "region": "oceania",
-   "name": "Tonga",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "vanuatu",
-   "region": "oceania",
-   "name": "Vanuatu",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q185407",
-   "region": "americas",
-   "name": "La Violencia",
-   "seed": "La Violencia"
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q2590269",
-   "region": "americas",
-   "name": "Cabanagem",
-   "seed": "Cabanagem"
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q295875",
-   "region": "americas",
-   "name": "ANZUS",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "barbados",
-   "region": "americas",
-   "name": "Barbados",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "belize",
-   "region": "americas",
-   "name": "Belize",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "bracamoros",
-   "region": "americas",
-   "name": "Bracamoros",
-   "seed": "Bracamoros"
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "brazilian-republic",
-   "region": "americas",
-   "name": "Brazilian Republic",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "canari",
-   "region": "americas",
-   "name": "Cañari",
-   "seed": "Cañari"
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "chimor",
-   "region": "americas",
-   "name": "Chimor",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "chimu-empire",
-   "region": "americas",
-   "name": "Chimu Empire",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "communist-cuba",
-   "region": "americas",
-   "name": "Communist Cuba",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "cundinamarca",
-   "region": "americas",
-   "name": "Cundinamarca",
-   "seed": "Cundinamarca"
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "federated-republic-of-brazil",
-   "region": "americas",
-   "name": "Federated Republic of Brazil",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "gran-cocle",
-   "region": "americas",
-   "name": "Gran Coclé",
-   "seed": "Gran Coclé"
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "grenada",
-   "region": "americas",
-   "name": "Grenada",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "haiti",
-   "region": "americas",
-   "name": "Haiti",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "hohokam",
-   "region": "americas",
-   "name": "Hohokam",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "honduras",
-   "region": "americas",
-   "name": "Honduras",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "huanca",
-   "region": "americas",
-   "name": "Huanca",
-   "seed": "Huanca"
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "later-mayan-city-states",
-   "region": "americas",
-   "name": "Later Mayan City-States",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "lupaca",
-   "region": "americas",
-   "name": "Lupaca",
-   "seed": "Lupaca"
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "mayan-city-states",
-   "region": "americas",
-   "name": "Mayan City-States",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "michoacan",
-   "region": "americas",
-   "name": "Michoacán",
-   "seed": "Michoacán"
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "oneota",
-   "region": "americas",
-   "name": "Oneota",
-   "seed": "Oneota"
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "patayan",
-   "region": "americas",
-   "name": "Patayan",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "puebloans-aztec-regional-system",
-   "region": "americas",
-   "name": "Puebloans - Aztec Regional System",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "puebloans-chaco-regional-system",
-   "region": "americas",
-   "name": "Puebloans - Chaco Regional System",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "quimbaya",
-   "region": "americas",
-   "name": "Quimbaya",
-   "seed": "Quimbaya"
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "republic-of-brazil",
-   "region": "americas",
-   "name": "Republic of Brazil",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "republic-of-cuba",
-   "region": "americas",
-   "name": "Republic of Cuba",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "republic-of-haiti",
-   "region": "americas",
-   "name": "Republic of Haiti",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "republic-of-venezuela",
-   "region": "americas",
-   "name": "Republic of Venezuela",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "rio-de-la-plata",
-   "region": "americas",
-   "name": "Río de la Plata",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "tenochtitlan",
-   "region": "americas",
-   "name": "Tenochtitlan",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "texcoco",
-   "region": "americas",
-   "name": "Texcoco",
-   "seed": "Texcoco"
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "unitary-state-of-brazil",
-   "region": "americas",
-   "name": "Unitary State of Brazil",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "venezuela",
-   "region": "americas",
-   "name": "Venezuela",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q1723036",
-   "region": "africa-middle-east",
-   "name": "West Africa Campaign",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q1837308",
-   "region": "africa-middle-east",
-   "name": "Rus'–Byzantine War of 941–944",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q2510511",
-   "region": "africa-middle-east",
-   "name": "Second Battle of Abukir",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q2707090",
-   "region": "africa-middle-east",
-   "name": "Rus'–Byzantine War of 907",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q34103",
-   "region": "africa-middle-east",
-   "name": "Second Syrian War",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q34145",
-   "region": "africa-middle-east",
-   "name": "Third Syrian War",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q3544805",
-   "region": "africa-middle-east",
-   "name": "Partitio terrarum imperii Romaniae",
-   "seed": "Partitio terrarum imperii Romaniae"
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q50822331",
-   "region": "africa-middle-east",
-   "name": "African Continental Free Trade Agreement",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q778800",
-   "region": "africa-middle-east",
-   "name": "First Battle of Abukir",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q815161",
-   "region": "africa-middle-east",
-   "name": "Conquest of Jerusalem",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "abbasid-caliphate-buyid-dynasty",
-   "region": "africa-middle-east",
-   "name": "Abbasid Caliphate/Buyid Dynasty",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "adal-sultanate",
-   "region": "africa-middle-east",
-   "name": "Adal Sultanate",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "arab-republic-of-egypt",
-   "region": "africa-middle-east",
-   "name": "Arab Republic of Egypt",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "ba-athist-syria",
-   "region": "africa-middle-east",
-   "name": "Ba'athist Syria",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "beylik-of-isfendiyar",
-   "region": "africa-middle-east",
-   "name": "Beylik of Isfendiyar",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "beylik-of-sinop",
-   "region": "africa-middle-east",
-   "name": "Beylik of Sinop",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "bornu-empire",
-   "region": "africa-middle-east",
-   "name": "Bornu Empire",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "buganda",
-   "region": "africa-middle-east",
-   "name": "Buganda",
-   "seed": "Buganda"
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "bunyoro",
-   "region": "africa-middle-east",
-   "name": "Bunyoro",
-   "seed": "Bunyoro"
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "burkina-faso",
-   "region": "africa-middle-east",
-   "name": "Burkina Faso",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "cyprus-condominium",
-   "region": "africa-middle-east",
-   "name": "Cyprus Condominium",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "dutch-cape-colony",
-   "region": "africa-middle-east",
-   "name": "Dutch Cape Colony",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "eastern-roman-empire",
-   "region": "africa-middle-east",
-   "name": "Eastern Roman Empire",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "elam-2200bce",
-   "region": "africa-middle-east",
-   "name": "Elam",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "elam-3200bce",
-   "region": "africa-middle-east",
-   "name": "Elam",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "empire-of-kanem",
-   "region": "africa-middle-east",
-   "name": "Empire of Kanem",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "gabon",
-   "region": "africa-middle-east",
-   "name": "Gabon",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "iraqi-republic",
-   "region": "africa-middle-east",
-   "name": "Iraqi Republic",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "kaabu",
-   "region": "africa-middle-east",
-   "name": "Kaabu",
-   "seed": "Kaabu"
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "kastamonu",
-   "region": "africa-middle-east",
-   "name": "Kastamonu",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "kingdom-of-bahrain",
-   "region": "africa-middle-east",
-   "name": "Kingdom of Bahrain",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "makuria-kingdom",
-   "region": "africa-middle-east",
-   "name": "Makuria Kingdom",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "mauretania",
-   "region": "africa-middle-east",
-   "name": "Mauretania",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "mauritania",
-   "region": "africa-middle-east",
-   "name": "Mauritania",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "mossi-kingdoms",
-   "region": "africa-middle-east",
-   "name": "Mossi Kingdoms",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "phoenician-empire",
-   "region": "africa-middle-east",
-   "name": "Phoenician Empire",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "portuguese-africa",
-   "region": "africa-middle-east",
-   "name": "Portuguese Africa",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "qatar-dynasty",
-   "region": "africa-middle-east",
-   "name": "Qatar Dynasty",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "republic-of-cyprus",
-   "region": "africa-middle-east",
-   "name": "Republic of Cyprus",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "republic-of-egypt",
-   "region": "africa-middle-east",
-   "name": "Republic of Egypt",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "republic-of-iraq",
-   "region": "africa-middle-east",
-   "name": "Republic of Iraq",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "republic-of-syria",
-   "region": "africa-middle-east",
-   "name": "Republic of Syria",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "sierra-leone",
-   "region": "africa-middle-east",
-   "name": "Sierra Leone",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "state-of-kuwait",
-   "region": "africa-middle-east",
-   "name": "State of Kuwait",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "state-of-qatar",
-   "region": "africa-middle-east",
-   "name": "State of Qatar",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "sultanate-of-harar",
-   "region": "africa-middle-east",
-   "name": "Sultanate of Harar",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "swaziland",
-   "region": "africa-middle-east",
-   "name": "Swaziland",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "takrur",
-   "region": "africa-middle-east",
-   "name": "Takrur",
-   "seed": "Takrur"
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "togo",
-   "region": "africa-middle-east",
-   "name": "Togo",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q1044829",
-   "region": "europe",
-   "name": "Polish–Muscovite War",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q111032447",
-   "region": "europe",
-   "name": "Battle of Trostianets",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q1139887",
-   "region": "europe",
-   "name": "Russo-Persian War of 1804–13",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q1187969",
-   "region": "europe",
-   "name": "START II",
-   "seed": "START II"
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q126528",
-   "region": "europe",
-   "name": "Reichskonkordat",
-   "seed": "Reichskonkordat"
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q1322711",
-   "region": "europe",
-   "name": "Treaty of Madrid",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q1355145",
-   "region": "europe",
-   "name": "Italian War of 1494–1495",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q1366196",
-   "region": "europe",
-   "name": "Gothic War of 376–382",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q1473722",
-   "region": "europe",
-   "name": "Dekemvriana",
-   "seed": "Dekemvriana"
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q15542964",
-   "region": "europe",
-   "name": "Italian War of 1542–46 Un penesote",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q1837308",
-   "region": "europe",
-   "name": "Rus'–Byzantine War of 941–944",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q19249259",
-   "region": "europe",
-   "name": "Minsk II",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q2452024",
-   "region": "europe",
-   "name": "Italian War of 1536–1538",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q249960",
-   "region": "europe",
-   "name": "Chouannerie",
-   "seed": "Chouannerie"
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q26799687",
-   "region": "europe",
-   "name": "Austro-Turkish War of 1716–1718",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q2707090",
-   "region": "europe",
-   "name": "Rus'–Byzantine War of 907",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q2730371",
-   "region": "europe",
-   "name": "Bellum Siculum",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q2734925",
-   "region": "europe",
-   "name": "Sulla's First Civil War",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q34103",
-   "region": "europe",
-   "name": "Second Syrian War",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q34145",
-   "region": "europe",
-   "name": "Third Syrian War",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q3544805",
-   "region": "europe",
-   "name": "Partitio terrarum imperii Romaniae",
-   "seed": "Partitio terrarum imperii Romaniae"
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q3564426",
-   "region": "europe",
-   "name": "Noemvriana",
-   "seed": "Noemvriana"
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q4087405",
-   "region": "europe",
-   "name": "Siege of Avaricum",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q631799",
-   "region": "europe",
-   "name": "First Russo-Turkish War",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q637320",
-   "region": "europe",
-   "name": "Third Battle of the Isonzo",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q660004",
-   "region": "europe",
-   "name": "Second Russo-Turkish War",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q697625",
-   "region": "europe",
-   "name": "German invasion of Belgium",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q698281",
-   "region": "europe",
-   "name": "Italian War of 1521–1526",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q724496",
-   "region": "europe",
-   "name": "Treaty of Paris",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q792340",
-   "region": "europe",
-   "name": "German invasion of Belgium (1914)",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q829104",
-   "region": "europe",
-   "name": "Third Russo-Turkish War",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q846708",
-   "region": "europe",
-   "name": "Pruth River Campaign",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q931492",
-   "region": "europe",
-   "name": "START I",
-   "seed": "START I"
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "angevins",
-   "region": "europe",
-   "name": "Angevins",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "angles",
-   "region": "europe",
-   "name": "Angles",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "antigonid-macedonia",
-   "region": "europe",
-   "name": "Antigonid Macedonia",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "beylik-of-isfendiyar",
-   "region": "europe",
-   "name": "Beylik of Isfendiyar",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "beylik-of-sinop",
-   "region": "europe",
-   "name": "Beylik of Sinop",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "brythonic-kingdoms",
-   "region": "europe",
-   "name": "Brythonic Kingdoms",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "brythons",
-   "region": "europe",
-   "name": "Brythons",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "carolingian-empire",
-   "region": "europe",
-   "name": "Carolingian Empire",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "cornwall",
-   "region": "europe",
-   "name": "Cornwall",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "county-of-nevers-1010",
-   "region": "europe",
-   "name": "County of Nevers",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "county-of-nevers-1407",
-   "region": "europe",
-   "name": "County of Nevers",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "cyprus-condominium",
-   "region": "europe",
-   "name": "Cyprus Condominium",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "dal-riata",
-   "region": "europe",
-   "name": "Dál Riata",
-   "seed": "Dál Riata"
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "danelaw",
-   "region": "europe",
-   "name": "Danelaw",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "domain-of-rhodes",
-   "region": "europe",
-   "name": "Domain of Rhodes",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "eastern-roman-empire",
-   "region": "europe",
-   "name": "Eastern Roman Empire",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "eire",
-   "region": "europe",
-   "name": "Éire",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "electorate-of-brandenburg",
-   "region": "europe",
-   "name": "Electorate of Brandenburg",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "galicia-volhynia",
-   "region": "europe",
-   "name": "Galicia-Volhynia",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "great-principality-of-duklja",
-   "region": "europe",
-   "name": "Great Principality of Duklja",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "halych-volhynia-occupation",
-   "region": "europe",
-   "name": "Halych-Volhynia occupation",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "house-of-anjou-sicily",
-   "region": "europe",
-   "name": "House of Anjou-Sicily",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "house-of-jagiellon",
-   "region": "europe",
-   "name": "House of Jagiellon",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "hungarian-nationalists-1849",
-   "region": "europe",
-   "name": "Hungarian Nationalists",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "hungarian-nationalists-1956",
-   "region": "europe",
-   "name": "Hungarian Nationalists",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "hungarian-republic",
-   "region": "europe",
-   "name": "Hungarian Republic",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "hunnic-empire",
-   "region": "europe",
-   "name": "Hunnic Empire",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "hwicce",
-   "region": "europe",
-   "name": "Hwicce",
-   "seed": "Hwicce"
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "italian-republic",
-   "region": "europe",
-   "name": "Italian Republic",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "kastamonu",
-   "region": "europe",
-   "name": "Kastamonu",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "kingdom-of-duklja",
-   "region": "europe",
-   "name": "Kingdom of Duklja",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "kingdom-of-lower-burgundy",
-   "region": "europe",
-   "name": "Kingdom of Lower Burgundy",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "kingdom-of-mann",
-   "region": "europe",
-   "name": "Kingdom of Mann",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "kingdom-of-norway-1814",
-   "region": "europe",
-   "name": "Kingdom of Norway",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "kingdom-of-norway-1905",
-   "region": "europe",
-   "name": "Kingdom of Norway",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "kingdom-of-pamplona",
-   "region": "europe",
-   "name": "Kingdom of Pamplona",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "kingdom-of-the-franks",
-   "region": "europe",
-   "name": "Kingdom of the Franks",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "kingdom-of-the-isles",
-   "region": "europe",
-   "name": "Kingdom of the Isles",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "kingdom-of-thuringia",
-   "region": "europe",
-   "name": "Kingdom of Thuringia",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "kosovo",
-   "region": "europe",
-   "name": "Kosovo",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "malta",
-   "region": "europe",
-   "name": "Malta",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "merovingian-empire",
-   "region": "europe",
-   "name": "Merovingian Empire",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "nitra",
-   "region": "europe",
-   "name": "Nitra",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "norse",
-   "region": "europe",
-   "name": "Norse",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "norway-denmark",
-   "region": "europe",
-   "name": "Norway-Denmark",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "phoenician-empire",
-   "region": "europe",
-   "name": "Phoenician Empire",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "polish-lithuania-kingdom",
-   "region": "europe",
-   "name": "Polish-Lithuania Kingdom",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "principality-of-capua-840",
-   "region": "europe",
-   "name": "Principality of Capua",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "principality-of-capua-990",
-   "region": "europe",
-   "name": "Principality of Capua",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "principality-of-galicia-volhynia",
-   "region": "europe",
-   "name": "Principality of Galicia-Volhynia",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "principality-of-pinsk",
-   "region": "europe",
-   "name": "Principality of Pinsk",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "principality-of-rostov-suzdal",
-   "region": "europe",
-   "name": "Principality of Rostov-Suzdal",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "principality-of-turov-and-pinsk",
-   "region": "europe",
-   "name": "Principality of Turov and Pinsk",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "principality-of-vladimir-suzdal",
-   "region": "europe",
-   "name": "Principality of Vladimir-Suzdal",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "republic-of-albania",
-   "region": "europe",
-   "name": "Republic of Albania",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "republic-of-cyprus",
-   "region": "europe",
-   "name": "Republic of Cyprus",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "republic-of-estonia",
-   "region": "europe",
-   "name": "Republic of Estonia",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "republic-of-italy",
-   "region": "europe",
-   "name": "Republic of Italy",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "republic-of-serbia",
-   "region": "europe",
-   "name": "Republic of Serbia",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "rugiland",
-   "region": "europe",
-   "name": "Rugiland",
-   "seed": "Rugiland"
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "taifa-of-algeciras-1147",
-   "region": "europe",
-   "name": "Taifa of Algeciras",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "taifa-of-almeria-1015",
-   "region": "europe",
-   "name": "Taifa of Almería",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "taifa-of-almeria-1236",
-   "region": "europe",
-   "name": "Taifa of Almería",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "taifa-of-denia-1010",
-   "region": "europe",
-   "name": "Taifa of Dénia",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "taifa-of-denia-1236",
-   "region": "europe",
-   "name": "Taifa of Dénia",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "taifa-of-murcia-1015",
-   "region": "europe",
-   "name": "Taifa of Murcia",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "taifa-of-murcia-1147",
-   "region": "europe",
-   "name": "Taifa of Murcia",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "taifa-of-murcia-1236",
-   "region": "europe",
-   "name": "Taifa of Murcia",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "taifa-of-niebla-1015",
-   "region": "europe",
-   "name": "Taifa of Niebla",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "taifa-of-niebla-1236",
-   "region": "europe",
-   "name": "Taifa of Niebla",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "taifa-of-silves-1147",
-   "region": "europe",
-   "name": "Taifa of Silves",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "taifa-of-valencia-1236",
-   "region": "europe",
-   "name": "Taifa of Valencia",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "tver",
-   "region": "europe",
-   "name": "Tver",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "upper-burgundy-and-italy",
-   "region": "europe",
-   "name": "Upper Burgundy and Italy",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q1420115",
-   "region": "asia",
-   "name": "Russo-Persian War of 1826–28",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q184928",
-   "region": "asia",
-   "name": "Russian Revolution of 1905",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "event",
-   "id": "Q8729",
-   "region": "asia",
-   "name": "Russian Revolution",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "eastern-roman-empire",
-   "region": "asia",
-   "name": "Eastern Roman Empire",
-   "seed": null
-  }
- ]
+ "chart-labels": []
 }
