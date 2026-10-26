@@ -4,12 +4,12 @@
  "generated": "2026-10-26",
  "note": "What still shows untranslated, to settle at the end of the localisation. Made by scripts/l10n-later.py; run it again after each step. See docs/i18n.md, 'Flagged for later'.",
  "counts": {
-  "no-source": 6,
-  "own-article": 5,
-  "wrong-article": 47,
+  "no-source": 5,
+  "own-article": 11,
+  "wrong-article": 13,
   "section-eras": 131,
   "wikidata-only": 10,
-  "chart-labels": 205,
+  "chart-labels": 200,
   "chart-labels with a seed": 27
  },
  "no-source": [
@@ -72,18 +72,6 @@
     "sultanate-of-sambaliung"
    ],
    "why": "Linked to the Indonesian Wikipedia only."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Battle of Konotop (2022)",
-   "kind": "event",
-   "regions": [
-    "europe"
-   ],
-   "records": [
-    "Q111018339"
-   ],
-   "why": "The English article no longer exists."
   }
  ],
  "own-article": [
@@ -113,6 +101,54 @@
   },
   {
    "tag": "L10N-LATER",
+   "title": "Georgia (country)",
+   "kind": "state",
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "georgia-1992"
+   ],
+   "why": "Has a sl article now; store it with the sl snapshot."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Duchy of Estonia (1219–1346)",
+   "kind": "state",
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "danish-magnates"
+   ],
+   "why": "Has a sl article now; store it with the sl snapshot."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Later Han (Five Dynasties)",
+   "kind": "state",
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "later-han"
+   ],
+   "why": "Has a sl article now; store it with the sl snapshot."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Yang Wu",
+   "kind": "state",
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "southern-wu"
+   ],
+   "why": "Has a sl article now; store it with the sl snapshot."
+  },
+  {
+   "tag": "L10N-LATER",
    "title": "Western Liang (555–587)",
    "kind": "state",
    "regions": [
@@ -120,6 +156,30 @@
    ],
    "records": [
     "later-western-liang"
+   ],
+   "why": "Has a sl article now; store it with the sl snapshot."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Angles (tribe)",
+   "kind": "state",
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "angles"
+   ],
+   "why": "Has a sl article now; store it with the sl snapshot."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Thuringi",
+   "kind": "state",
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "kingdom-of-thuringia"
    ],
    "why": "Has a sl article now; store it with the sl snapshot."
   },
@@ -151,216 +211,23 @@
  "wrong-article": [
   {
    "tag": "L10N-LATER",
-   "title": "Angevin",
-   "region": "europe",
-   "records": [
-    "angevins"
-   ],
-   "source": "Angevin",
-   "why": "Disambiguation page."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Angles",
-   "region": "europe",
-   "records": [
-    "angles"
-   ],
-   "source": "Angles",
-   "why": "Disambiguation page."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Bali",
-   "region": "asia",
-   "records": [
-    "bali"
-   ],
-   "source": "Bali",
-   "why": "Translator's note: Zapis za zgodovinsko politično tvorbo je povezan s člankom o današnjem otoku in provinci; prevedeno je, kot stoji. Izpuščena je izgovarjava."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Basina of Thuringia",
-   "region": "europe",
-   "records": [
-    "kingdom-of-thuringia"
-   ],
-   "source": "Basina of Thuringia",
-   "why": "A person, for the Kingdom of Thuringia."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Battle of Ivankiv",
-   "region": "europe",
-   "records": [
-    "Q111014898"
-   ],
-   "source": "Northern front of the Russian invasion of Ukraine",
-   "why": "Redirects to the northern front of the 2022 invasion."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Battle of Kreminna",
-   "region": "europe",
-   "records": [
-    "Q112206624"
-   ],
-   "source": "Battle of Donbas (2022)",
-   "why": "Redirects to the Battle of Donbas (2022)."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Battle of Okhtyrka",
-   "region": "europe",
-   "records": [
-    "Q111032201"
-   ],
-   "source": "Northern front of the Russian invasion of Ukraine",
-   "why": "Redirects to the northern front of the 2022 invasion."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Battle of Trostianets",
-   "region": "europe",
-   "records": [
-    "Q111032447"
-   ],
-   "source": "Northern front of the Russian invasion of Ukraine",
-   "why": "Redirects to the northern front of the 2022 invasion."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Battle of Vasylkiv",
-   "region": "europe",
-   "records": [
-    "Q111018336"
-   ],
-   "source": "Northern front of the Russian invasion of Ukraine",
-   "why": "Redirects to a section of the northern front article; the fetch tool can now take that section."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Berga",
-   "region": "europe",
-   "records": [
-    "county-of-berga"
-   ],
-   "source": "Berga",
-   "why": "The modern town, for the medieval county."
-  },
-  {
-   "tag": "L10N-LATER",
    "title": "Bretons",
    "region": "europe",
    "records": [
     "breton-kingdoms"
    ],
    "source": "Bretons",
-   "why": "The article on the people, for the Breton kingdoms."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Champasak",
-   "region": "asia",
-   "records": [
-    "kingdom-of-champasak"
-   ],
-   "source": "Champasak",
-   "why": "Translator's note: Zapis je povezan z razločitveno stranjo; prevedeno je kot seznam, kot stoji."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Christopher II of Denmark",
-   "region": "europe",
-   "records": [
-    "danish-magnates"
-   ],
-   "source": "Christopher II of Denmark",
-   "why": "Translator's note: Zapis je na zemljevidu Danski velikaši (1333–1351), povezan pa je s člankom o Krištofu II."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Dongye",
-   "region": "asia",
-   "records": [
-    "dongye"
-   ],
-   "source": "Dongye",
-   "why": "Translator's note: Zapis je povezan z razločitveno stranjo; prevedeno je kot seznam, kot stoji."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Duchy of Wrocław",
-   "region": "europe",
-   "records": [
-    "duchy-of-wroclaw"
-   ],
-   "source": "Duchy of Silesia",
-   "why": "Redirects to the Duchy of Silesia."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Earl of Desmond",
-   "region": "europe",
-   "records": [
-    "earldom-of-desmond"
-   ],
-   "source": "Earl of Desmond",
-   "why": "The title, for the earldom."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Free City of Frankfurt",
-   "region": "europe",
-   "records": [
-    "free-city-of-frankfurt"
-   ],
-   "source": "Free City of Frankfurt",
-   "why": "The earlier imperial city."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Frisia",
-   "region": "europe",
-   "records": [
-    "frisia-kingdom"
-   ],
-   "source": "Frisia",
-   "why": "The modern region, for the Frisian kingdom."
+   "why": "Breton Kingdoms (587–824) is linked to the article on the Bretons; the kingdoms (Domnonée, Cornouaille, Bro Waroch) have separate articles and none covers all."
   },
   {
    "tag": "L10N-LATER",
    "title": "Georgia",
    "region": "asia",
    "records": [
-    "georgia-1918",
-    "georgia-1992",
-    "georgia-567",
     "georgia-724"
    ],
    "source": "Georgia",
-   "why": "Translator's note: Zapis je povezan z razločitveno stranjo; prevedeno je kot seznam, kot stoji."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Kabul Shahi",
-   "region": "asia",
-   "records": [
-    "turk-shahis"
-   ],
-   "source": "Kabul Shahi",
-   "why": "Translator's note: Zapis je povezan z razločitveno stranjo; prevedeno je kot seznam, kot stoji."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Kalinga",
-   "region": "asia",
-   "records": [
-    "kalinga"
-   ],
-   "source": "Kalinga",
-   "why": "Translator's note: Zapis je povezan z razločitveno stranjo; seznam pomenov v povzetku ni ohranjen."
+   "why": "Georgia (724–1009, Georgia and Azerbaijan columns) is linked to a disambiguation page; no single article fits (the Principality of Iberia, Kakheti, Hereti and Abkhazia overlap these years)."
   },
   {
    "tag": "L10N-LATER",
@@ -370,7 +237,7 @@
     "kannauj-varman-dynasty"
    ],
    "source": "Kannauj",
-   "why": "Translator's note: Izpuščena je izgovarjava (IPA). Zapis kraljestva Kannaudž je povezan s člankom o mestu."
+   "why": "Kannauj-Varman Dynasty (732–771) is linked to the modern city; there is no article on the dynasty, only on Yashovarman."
   },
   {
    "tag": "L10N-LATER",
@@ -380,7 +247,7 @@
     "kapisa"
    ],
    "source": "Kapisa",
-   "why": "Translator's note: Zapis je povezan z razločitveno stranjo; prevedeno je kot seznam, kot stoji."
+   "why": "Kapisa (1475–1506, Afghanistan) is linked to a disambiguation page; its Kingdom of Kapisa is of the 1st millennium."
   },
   {
    "tag": "L10N-LATER",
@@ -390,7 +257,7 @@
     "kastamonu"
    ],
    "source": "Kastamonu",
-   "why": "The modern city."
+   "why": "Kastamonu (1305–1343) is linked to the modern city; the beylik is either the Chobanids (to 1309) or the Candar dynasty (from about 1309), which the record's years straddle."
   },
   {
    "tag": "L10N-LATER",
@@ -400,27 +267,7 @@
     "kelantan"
    ],
    "source": "Kelantan",
-   "why": "Translator's note: Zapis za zgodovinsko politično tvorbo je povezan s člankom o današnji zvezni državi; prevedeno je, kot stoji. Izpuščena je izgovarjava."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Later Han",
-   "region": "asia",
-   "records": [
-    "later-han"
-   ],
-   "source": "Later Han",
-   "why": "Translator's note: Zapis je povezan z razločitveno stranjo; prevedeno je kot seznam, kot stoji."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Livonian language",
-   "region": "europe",
-   "records": [
-    "livonian-conference"
-   ],
-   "source": "Livonian language",
-   "why": "Translator's note: Zapis je na zemljevidu Livonska konfederacija (1422–1563), povezan pa je s člankom »Livonian language«; prevedeno je besedilo, kot stoji."
+   "why": "Kelantan (1762–1904) is linked to the modern state; Kelantan Sultanate redirects to the modern office."
   },
   {
    "tag": "L10N-LATER",
@@ -430,17 +277,7 @@
     "kingdom-of-pajana"
    ],
    "source": "Lontara script",
-   "why": "Translator's note: Zapis je na zemljevidu Kraljestvo Pajana, povezan pa je s člankom o pisavi lontara; prevedeno je besedilo, kot stoji."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Mahan",
-   "region": "asia",
-   "records": [
-    "mahan"
-   ],
-   "source": "Mahan",
-   "why": "Translator's note: Zapis je povezan z razločitveno stranjo; seznam pomenov v povzetku ni ohranjen."
+   "why": "Kingdom of Pajana (1572–1587) is linked to the Lontara script; no English article on the kingdom was found."
   },
   {
    "tag": "L10N-LATER",
@@ -450,17 +287,7 @@
     "malaya"
    ],
    "source": "Malaya",
-   "why": "Translator's note: Zapis je povezan z razločitveno stranjo; seznam pomenov v povzetku ni ohranjen."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Mongol khanate",
-   "region": "asia",
-   "records": [
-    "mongol-khanate"
-   ],
-   "source": "Mongol khanate",
-   "why": "Translator's note: Zapis je povezan z razločitveno stranjo; prevedeno je kot seznam, kot stoji."
+   "why": "Malaya (1294–1351, Malaysia and Singapore) is linked to a disambiguation page; the Melayu Kingdom lay in Sumatra."
   },
   {
    "tag": "L10N-LATER",
@@ -470,7 +297,7 @@
     "negeri-sembilan"
    ],
    "source": "Negeri Sembilan",
-   "why": "Translator's note: Zapis za zgodovinsko politično tvorbo je povezan s člankom o današnji zvezni državi; prevedeno je, kot stoji. Izpuščena je izgovarjava."
+   "why": "Negeri Sembilan (1775–1894) is linked to the modern state; no article on the historical confederacy."
   },
   {
    "tag": "L10N-LATER",
@@ -480,37 +307,7 @@
     "norse"
    ],
    "source": "Norse",
-   "why": "Translator's note: Vir je razločitvena stran; seznam pomenov, ki sledi zadnjemu stavku, v povzetku ni ohranjen."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Omanis",
-   "region": "africa-middle-east",
-   "records": [
-    "omani-slave-coast"
-   ],
-   "source": "Omanis",
-   "why": "The article on the people, for the Omani slave coast."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Pallars Jussà",
-   "region": "europe",
-   "records": [
-    "county-of-pallars-jussa"
-   ],
-   "source": "Pallars Jussà",
-   "why": "The modern comarca, for the medieval county."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Pallars Sobirà",
-   "region": "europe",
-   "records": [
-    "county-of-pallars-sobira"
-   ],
-   "source": "Pallars Sobirà",
-   "why": "The modern comarca, for the medieval county."
+   "why": "Norse (161–499, Denmark and Norway) is linked to a disambiguation page; the Norsemen article is about the Viking Age."
   },
   {
    "tag": "L10N-LATER",
@@ -520,57 +317,7 @@
     "kedah-perlis-district"
    ],
    "source": "Perlis",
-   "why": "Translator's note: Zapis za zgodovinsko politično tvorbo je povezan s člankom o današnji zvezni državi; prevedeno je, kot stoji."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Portuguese Africa",
-   "region": "africa-middle-east",
-   "records": [
-    "portuguese-africa"
-   ],
-   "source": "Portuguese Africa",
-   "why": "Disambiguation page."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Southern Wu",
-   "region": "asia",
-   "records": [
-    "southern-wu"
-   ],
-   "source": "Southern Wu",
-   "why": "Translator's note: Zapis je povezan z razločitveno stranjo; prevedeno je kot seznam, kot stoji."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Strathclyde",
-   "region": "europe",
-   "records": [
-    "strathclyde"
-   ],
-   "source": "Strathclyde",
-   "why": "The modern council area, for the medieval kingdom."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Sultan of Perak",
-   "region": "asia",
-   "records": [
-    "sultanate-of-perak"
-   ],
-   "source": "Sultan of Perak",
-   "why": "Translator's note: Zapis za Sultanat Perak je povezan s člankom o perakškem sultanu; prevedeno je, kot stoji."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Sultan of Selangor",
-   "region": "asia",
-   "records": [
-    "sultanate-of-selangor"
-   ],
-   "source": "Sultan of Selangor",
-   "why": "Translator's note: Zapis za Sultanat Selangor je povezan s člankom o selangorskem sultanu; prevedeno je, kot stoji."
+   "why": "Kedah-Perlis District (1842–1910) is linked to the modern state of Perlis; no article on the district."
   },
   {
    "tag": "L10N-LATER",
@@ -580,7 +327,7 @@
     "sultanate-of-terengganu"
    ],
    "source": "Sultan of Terengganu",
-   "why": "Translator's note: Zapis za Sultanat Terengganu je povezan s člankom o terengganujskem sultanu; prevedeno je, kot stoji."
+   "why": "Terengganu Sultanate redirects to the modern office (Sultan of Terengganu); History of Malaysia has no section on it."
   },
   {
    "tag": "L10N-LATER",
@@ -590,37 +337,7 @@
     "turks"
    ],
    "source": "Turk",
-   "why": "Translator's note: Zapis je povezan z razločitveno stranjo; seznam pomenov v povzetku ni ohranjen."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Xia",
-   "region": "asia",
-   "records": [
-    "xia"
-   ],
-   "source": "Xia",
-   "why": "Translator's note: Zapis je povezan z razločitveno stranjo; seznam pomenov v povzetku ni ohranjen."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Zhongshan",
-   "region": "asia",
-   "records": [
-    "zhongshan"
-   ],
-   "source": "Zhongshan",
-   "why": "Translator's note: Zapis za starodavno državo Džongšan je povezan s člankom o današnjem mestu; prevedeno je, kot stoji. Izpuščena je izgovarjava (IPA)."
-  },
-  {
-   "tag": "L10N-LATER",
-   "title": "Zululand",
-   "region": "africa-middle-east",
-   "records": [
-    "zululand"
-   ],
-   "source": "Zululand",
-   "why": "Disambiguation page."
+   "why": "Turks (666–756, Central Asia and China) is linked to a disambiguation page and to Wikidata's Oghuz Khagan; neither the Western nor the Second Turkic Khaganate matches the years."
   }
  ],
  "section-eras": [
@@ -2349,14 +2066,6 @@
   {
    "tag": "L10N-LATER",
    "kind": "state",
-   "id": "omani-slave-coast",
-   "region": "africa-middle-east",
-   "name": "Omani Slave Coast",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
    "id": "phoenician-empire",
    "region": "africa-middle-east",
    "name": "Phoenician Empire",
@@ -2464,14 +2173,6 @@
    "id": "togo",
    "region": "africa-middle-east",
    "name": "Togo",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "zululand",
-   "region": "africa-middle-east",
-   "name": "Zululand",
    "seed": null
   },
   {
@@ -2861,22 +2562,6 @@
   {
    "tag": "L10N-LATER",
    "kind": "state",
-   "id": "duchy-of-wroclaw",
-   "region": "europe",
-   "name": "Duchy of Wrocław",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "earldom-of-desmond",
-   "region": "europe",
-   "name": "Earldom of Desmond",
-   "seed": null
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
    "id": "eastern-roman-empire",
    "region": "europe",
    "name": "Eastern Roman Empire",
@@ -3233,14 +2918,6 @@
    "region": "europe",
    "name": "Rugiland",
    "seed": "Rugiland"
-  },
-  {
-   "tag": "L10N-LATER",
-   "kind": "state",
-   "id": "strathclyde",
-   "region": "europe",
-   "name": "Strathclyde",
-   "seed": null
   },
   {
    "tag": "L10N-LATER",

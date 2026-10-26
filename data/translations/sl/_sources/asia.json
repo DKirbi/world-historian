@@ -936,21 +936,6 @@
     "Balāsagān (an Iranian toponym meaning \"country of Balas\"; Armenian: Bałasakan, the inhabitants known as Bałasičkʻ, Arabic: Balāsajān/Balāšajān), also known as Bazgan, was a region located in the area of the Kura and Aras rivers, adjacent to the Caspian Sea. To the south, it bordered Atropatene/Adurbadagan and Gilan. It roughly corresponded to the Armenian province of Paytakaran, albeit extending farther into the north. It has been suggested that under the Sasanians the region extended as far as the stronghold of Derbent, albeit this remains disputed. The heartland of Balasagan was the Dasht i-Bałasakan (\"Balasagan plain\") which corresponds to the Mughan plain. During the late Sasanian era, Balasagan was included in the northern quadrant (kust) of Adurbadagan."
    ]
   },
-  "Bali": {
-   "kind": "state",
-   "priority": "detail",
-   "records": [
-    "bali"
-   ],
-   "retrieved": "2026-10-26",
-   "article": "Bali",
-   "rev": 1381159784,
-   "url": "https://en.wikipedia.org/wiki/Bali",
-   "paragraphs": [
-    "Bali (English:; Indonesian: ['bali]; Balinese: ᬩᬮᬶ) is an Indonesian island and province and the westernmost of the Lesser Sunda Islands. East of Java and west of Lombok, the province includes the island of Bali and a few smaller offshore islands, notably Nusa Penida, Nusa Lembongan, and Nusa Ceningan to the southeast. The provincial capital, Denpasar, is the most populous city in the Lesser Sunda Islands and the second-largest, after Makassar, in Eastern Indonesia. The Denpasar metropolitan area is the extended metropolitan area around Denpasar. The upland town of Ubud in Greater Denpasar is considered as Bali's cultural centre. The province is Indonesia's main tourist destination, with a significant rise in tourism since the 1980s, and has become the country's area of overtourism. Tourism-related business makes up 80% of the Bali economy.",
-    "The island is considered a tourist hotspot."
-   ]
-  },
   "Bali Kingdom": {
    "kind": "state",
    "priority": "detail",
@@ -4371,22 +4356,6 @@
     "The Chalukya dynasty (Kannada: [tʃaːlukjɐ]) was a Classical Indian dynasty that ruled large parts of southern and central India between the 6th and the 12th centuries. During this period, they ruled as three related yet individual dynasties. The earliest dynasty, known as the \"Badami Chalukyas\", ruled from Vatapi (modern Badami) from the middle of the 6th century. The Badami Chalukyas began to assert their independence at the decline of the Kadamba kingdom of Banavasi and rapidly rose to prominence during the reign of Pulakeshin II. After the death of Pulakeshin II, the Eastern Chalukyas became an independent kingdom in the eastern Deccan. They ruled from Vengi until about the 11th century. In the western Deccan, the rise of the Rashtrakutas in the middle of the 8th century eclipsed the Chalukyas of Badami before being revived by their descendants, the Western Chalukyas, in the late 10th century. These Western Chalukyas ruled from Kalyani (modern Basavakalyan) until the end of the 12th century."
    ]
   },
-  "Champasak": {
-   "kind": "state",
-   "priority": "detail",
-   "records": [
-    "kingdom-of-champasak"
-   ],
-   "retrieved": "2026-10-26",
-   "article": "Champasak",
-   "rev": 1270383506,
-   "url": "https://en.wikipedia.org/wiki/Champasak",
-   "paragraphs": [
-    "Champasak may refer to these in Laos:",
-    "Champasak province, a province in southwestern Laos",
-    "Champasak (town)"
-   ]
-  },
   "Chandelas of Jejakabhukti": {
    "kind": "state",
    "priority": "detail",
@@ -4796,19 +4765,18 @@
     "Although it lasted only a little more than a century, the sultanate played an important role in the establishment of Islam in Indonesia, especially on Java and neighboring areas."
    ]
   },
-  "Dongye": {
+  "Democratic Republic of Georgia": {
    "kind": "state",
-   "priority": "detail",
+   "priority": "leader",
    "records": [
-    "dongye"
+    "georgia-1918"
    ],
    "retrieved": "2026-10-26",
-   "article": "Dongye",
-   "rev": 1015731362,
-   "url": "https://en.wikipedia.org/wiki/Dongye",
+   "article": "Democratic Republic of Georgia",
+   "rev": 1378003587,
+   "url": "https://en.wikipedia.org/wiki/Democratic_Republic_of_Georgia",
    "paragraphs": [
-    "Dongye may refer to:",
-    "Eastern Ye, chiefdom in northeastern Korean peninsula from roughly 3rd-century BC to around early 5th-century AD"
+    "The Democratic Republic of Georgia (DRG; Georgian: საქართველოს დემოკრატიული რესპუბლიკა, romanized: sakartvelos demok'rat'iuli resp'ublik'a) was the first modern establishment of a republic of Georgia, which existed from May 1918 to March 1921. Recognized by all major European powers of the time, DRG was created in the wake of the Russian Revolution of 1917, which led to the collapse of the Russian Empire and allowed territories formerly under Russia's rule to assert independence. In contrast to Bolshevik Russia, DRG was governed by a moderate, multi-party political system led by the Georgian Social Democratic Party (Mensheviks)."
    ]
   },
   "Dungan Revolt (1862–1877)": {
@@ -4951,6 +4919,20 @@
    "url": "https://en.wikipedia.org/wiki/Eastern_Ganga_dynasty",
    "paragraphs": [
     "The Eastern Ganga dynasty (also known as Purba Gangas, Rudhi Gangas or Prachya Gangas) were a large medieval era dynasty that reigned from Kalinga from as early as the 5th century to the mid 20th century. They are known as \"Eastern Gangas\" to distinguish them from the Western Gangas who ruled over Karnataka. The territory ruled by the dynasty consisted of the whole of the modern-day Indian state of Odisha, as well as major parts of north Andhra Pradesh, parts of Chhattisgarh and some southern districts of West Bengal. Eastern Gangas ruled much of the modern region of Odisha in three different phases by the passage of time, known as Early Eastern Gangas (493–1077), Imperial Eastern Gangas (1077–1436) and Khemundi Gangas (1436–1947). Odia language became the official and court language of Eastern Gangas. The early rulers of the dynasty ruled from Dantapura (modern Dantapuram in the Srikakulam district in Andhra Pradesh), the capital was later moved to Kalinganagara (modern Mukhilinga in Andhra Pradesh), and ultimately to Kataka (modern Cuttack in Odisha) and then to Paralakhemundi (in Odisha)."
+   ]
+  },
+  "Eastern Ye": {
+   "kind": "state",
+   "priority": "detail",
+   "records": [
+    "dongye"
+   ],
+   "retrieved": "2026-10-26",
+   "article": "Eastern Ye",
+   "rev": 1379305374,
+   "url": "https://en.wikipedia.org/wiki/Eastern_Ye",
+   "paragraphs": [
+    "Ye (Korean: 예; Hanja: 濊) or Dongye (동예; 東濊), which means the Eastern Ye, was a Korean chiefdom which occupied portions of the northeastern Korean peninsula from roughly the 3rd-century BC to around early 5th-century AD. It bordered Goguryeo and Okjeo to the north, Jinhan to the south, and China's Lelang Commandery to the west. Today, this territory consists of the provinces of South Hamgyŏng and Kangwon in North Korea, and Gangwon in South Korea."
    ]
   },
   "Eighteen Kingdoms": {
@@ -5553,9 +5535,6 @@
    "kind": "state",
    "priority": "leader",
    "records": [
-    "georgia-1918",
-    "georgia-1992",
-    "georgia-567",
     "georgia-724"
    ],
    "retrieved": "2026-10-26",
@@ -5868,6 +5847,36 @@
    "url": "https://en.wikipedia.org/wiki/Heiji_rebellion",
    "paragraphs": [
     "The Heiji rebellion (平治の乱, Heiji no ran; January 19 – February 5, 1160) was a short civil war between rival subjects of the cloistered Emperor Go-Shirakawa of Japan in 1160 fought in order to resolve a dispute about political power. It was preceded by the Hōgen Rebellion in 1156. Heiji no ran is seen as a direct outcome of the earlier armed dispute; but unlike Hōgen no ran, which was a dispute between Emperors in which members of the same clan fought on different sides, this was rather a struggle for power between two rival samurai clans. It is also seen as a precursor of a broader civil war."
+   ]
+  },
+  "History of Malaysia#Perak Sultanate": {
+   "kind": "state",
+   "priority": "detail",
+   "records": [
+    "sultanate-of-perak"
+   ],
+   "retrieved": "2026-10-26",
+   "article": "History of Malaysia",
+   "section": "Perak Sultanate",
+   "rev": 1381603362,
+   "url": "https://en.wikipedia.org/wiki/History_of_Malaysia#Perak_Sultanate",
+   "paragraphs": [
+    "Based on the Perak Royal Genealogy (\"Salasilah Raja-Raja Perak\"), the Perak Sultanate was formed in the early 16th century on the banks of the Perak River by the eldest son of Malaccan Sultan Mahmud Shah. He ascended to the throne as Muzaffar Shah I (1528–1549), first Sultan of Perak, after surviving the capture of Malacca by the Portuguese in 1511 and living quietly in Siak for a period. He became sultan through the efforts of Tun Saban, a local leader and trader between Perak and Klang. There had been no sultans in Perak when Tun Saban first arrived in the area from Kampar in Sumatra. Most of the area's residents were traders from Malacca, Selangor and Sumatra. Perak's administration became more organised after the Sultanate was established. With the opening up of Perak in the 16th century, the state became a source of tin ore. It appears that anyone was free to trade in the commodity, although the tin trade did not attract significant attention until the 1610s."
+   ]
+  },
+  "History of Malaysia#Selangor Sultanate": {
+   "kind": "state",
+   "priority": "detail",
+   "records": [
+    "sultanate-of-selangor"
+   ],
+   "retrieved": "2026-10-26",
+   "article": "History of Malaysia",
+   "section": "Selangor Sultanate",
+   "rev": 1381603362,
+   "url": "https://en.wikipedia.org/wiki/History_of_Malaysia#Selangor_Sultanate",
+   "paragraphs": [
+    "During the 17th century Johor-Jambi war, Sultan Abdul Jalil Shah III (r. 1623–1677) of Johor engaged the help of Bugis mercenaries from Sulawesi to fight against Jambi. After Johor won in 1679, the Bugis decided to stay and asserted their power in the region. Many Bugis began to migrate and settle along the coast of Selangor such as the estuaries of the Selangor and Klang rivers. Some Minangkabaus may have also settled in Selangor by the 17th century, perhaps earlier. The Bugis and the Minangkabaus from Sumatra struggled for control of Johor. Raja Kecil, backed by the Minangkabaus, invaded Selangor but were driven off by the Bugis in 1742. To establish a power base, the Bugis led by Raja Salehuddin (1705–1788) founded the present hereditary Selangor Sultanate with its capital at Kuala Selangor in 1766. Selangor is unique as it is the only state on the Malay Peninsula that was founded by the Bugis."
    ]
   },
   "Hokuzan": {
@@ -6670,22 +6679,6 @@
     "The decisive battle of the conflict was fought at Uji in 1221, the third year of the Jōkyū era, just outside the imperial capital of Kyōto. It was the third battle to be fought there in less than half a century."
    ]
   },
-  "Kabul Shahi": {
-   "kind": "state",
-   "priority": "states",
-   "records": [
-    "turk-shahis"
-   ],
-   "retrieved": "2026-10-26",
-   "article": "Kabul Shahi",
-   "rev": 1368214342,
-   "url": "https://en.wikipedia.org/wiki/Kabul_Shahi",
-   "paragraphs": [
-    "Kabul Shahi is a term used to denote two former non-Muslim dynasties based in Kabul:",
-    "Turk Shahis (665–822 CE)",
-    "Hindu Shahis (822–1026 CE)"
-   ]
-  },
   "Kachin conflict": {
    "kind": "event",
    "priority": "event",
@@ -6757,18 +6750,18 @@
     "The Kalabhra dynasty (also called Kaḷabrar, Kaḷappirar, Kallupura or Kalvar) were rulers of all or parts of Tamil region sometime between the 3rd century and 6th century CE, after the ancient dynasties of the early Cholas, the early Pandyas and Chera. Information about the origin and reign of the Kalabhras is uncertain and scarce. It is believed that they were once the feudatories of the Pallavas. Prof. M. S. Ramaswami Aiyangar, in his 1922 book \"Studies in South Indian Jainism\" asserted that the Kalabhra period was 'The Augustan age of Tamil literature\". He also noted that many Pallava and Pandya records describe how the Kalabhras defeated the Cholas, Pandyas, and Cheras and established their rule. The Kalabhra era is sometimes referred to as the \"dark period\" of Tamil history, and information about it is generally inferred from any mentions in the literature and inscriptions that are dated many centuries after their era ended."
    ]
   },
-  "Kalinga": {
+  "Kalinga (region)": {
    "kind": "state",
    "priority": "states",
    "records": [
     "kalinga"
    ],
    "retrieved": "2026-10-26",
-   "article": "Kalinga",
-   "rev": 1316804004,
-   "url": "https://en.wikipedia.org/wiki/Kalinga",
+   "article": "Kalinga (region)",
+   "rev": 1380904025,
+   "url": "https://en.wikipedia.org/wiki/Kalinga_(region)",
    "paragraphs": [
-    "Kalinga may refer to:"
+    "Kalinga (Sanskrit: [kɐliŋɡɐ]) is a historical region of India. It is generally defined as the eastern coastal region between the Ganges and the Godavari rivers, although its boundaries have fluctuated with the territory of its rulers. The core territory of Kalinga now encompasses all of Odisha and some part of northern Andhra Pradesh. At its widest extent, the Kalinga region also included parts of present-day Chhattisgarh, extending up to Amarkantak in the west. In the ancient period it extended until the bank of the Ganges river."
    ]
   },
   "Kamakura shogunate": {
@@ -7121,6 +7114,21 @@
     "Like the small kingdoms that preceded it, Ava may have been led by Bamarised Shan kings who claimed descent from the kings of Pagan. Scholars debate that the Shan ethnicity of Avan kings comes from mistranslation, particularly from a record of the Avan kings' ancestors ruling a Shan village in central Burma prior to their rise or prominence."
    ]
   },
+  "Kingdom of Champasak": {
+   "kind": "state",
+   "priority": "detail",
+   "records": [
+    "kingdom-of-champasak"
+   ],
+   "retrieved": "2026-10-26",
+   "article": "Kingdom of Champasak",
+   "rev": 1360699853,
+   "url": "https://en.wikipedia.org/wiki/Kingdom_of_Champasak",
+   "paragraphs": [
+    "The Kingdom of Champasak (Lao: ຈຳປາສັກ [tɕàmpàːsák]) or Bassac, (1713–1904) was a Lao kingdom that emerged under King Nokasad, a grandson of King Sourigna Vongsa, the last king of Lan Xang. Bassac and the neighboring principalities of Attapeu and Stung Treng emerged as power centers as a mandala.",
+    "The kingdom was sited on the eastern or Left Bank of the Mekong, south of the Right Bank principality of Khong Chiam where the Mun River joins; and east of where the Mekong makes a sharp bend to the west to return abruptly and flow southeasterly down to what is now Cambodia."
+   ]
+  },
   "Kingdom of Dambadeniya": {
    "kind": "state",
    "priority": "detail",
@@ -7448,22 +7456,6 @@
     "Later Paekche or Later Baekje (Korean: 후백제; Hanja: 後百濟) was one of the Later Three Kingdoms of Korea, along with Taebong and Silla. Later Paekche was a Korean dynastic kingdom founded by the disaffected Silla general Kyŏn Hwŏn in 900, whom led the local gentry and populace that were in large Paekche descent holding onto their collective consciousness until the twilight days of Later Silla. With the former Silla general declaring the revival of the Paekche kingdom of old, the Paekche refugees from the old territories and a portion of the Rank Six Nobility from Silla seeking the opportunity of rising up the ranks gathered under his leadership. Led by the charismatic and capable Kyŏn Hwŏn who was also a competent field commander, Later Paekche in its early days was advantageous in the power game against the newly found kingdom Goryeo and the declining Silla. However, despite its fertile territories in the Jeolla Province and capable military prowess, it eventually fell to Wang Kŏn's Goryeo army in 936 due to political strife and Kyŏn Hwŏn's defection towards Goryeo. Its capital was at Jeonju, in present-day North Jeolla province."
    ]
   },
-  "Later Han": {
-   "kind": "state",
-   "priority": "states",
-   "records": [
-    "later-han"
-   ],
-   "retrieved": "2026-10-26",
-   "article": "Later Han",
-   "rev": 1038071319,
-   "url": "https://en.wikipedia.org/wiki/Later_Han",
-   "paragraphs": [
-    "Later Han (後漢) may refer to two dynastic states in imperial China:",
-    "Eastern Han (25–220), the second period of the Han dynasty, also called Later Han",
-    "Later Han (947–951), a dynasty during the Five Dynasties and Ten Kingdoms period"
-   ]
-  },
   "Later Jin (Five Dynasties)": {
    "kind": "state",
    "priority": "states",
@@ -7740,18 +7732,18 @@
     "South Kosala was later conquered by Gautamiputra Satakarni of the Satavahana dynasty in the early part of the 2nd century CE and remained in their possession up to the second half of the 2nd century CE. It was during the second and third century CE, the Meghas or Meghavahanas reappeared in the political scene and regained their suzerainty over South Kosala. Samudragupta during his Dakshinapatha expedition, defeated Mahendra of Dakshina Kosala who probably belonged to the Megha dynasty according to a speculation. As a result, the South Kosala during the fourth century A.D, became a part of the Gupta empire."
    ]
   },
-  "Mahan": {
+  "Mahan confederacy": {
    "kind": "state",
    "priority": "leader",
    "records": [
     "mahan"
    ],
    "retrieved": "2026-10-26",
-   "article": "Mahan",
-   "rev": 1352777356,
-   "url": "https://en.wikipedia.org/wiki/Mahan",
+   "article": "Mahan confederacy",
+   "rev": 1373504443,
+   "url": "https://en.wikipedia.org/wiki/Mahan_confederacy",
    "paragraphs": [
-    "Mahan or Mahaan may refer to:"
+    "Mahan (Korean: 마한; Hanja: 馬韓) was a tribal grouping in southwestern Korea described in Chinese sources from the 3rd century. It was the largest of the 'three Hans' (the Samhan), along with Byeonhan and Jinhan. During the 4th century, the kingdom of Paekche rose in the territory of Mahan and became one of the Three Kingdoms of Korea."
    ]
   },
   "Maitraka dynasty": {
@@ -8214,22 +8206,6 @@
    "url": "https://en.wikipedia.org/wiki/Mongol_invasions_of_Vietnam",
    "paragraphs": [
     "Four major military campaigns were launched by the Mongol Empire, and later the Yuan dynasty, against the kingdom of Đại Việt (modern-day northern Vietnam) ruled by the Trần dynasty and the kingdom of Champa (modern-day central Vietnam) in 1258, 1282–1284, 1285, and 1287–1288. The campaigns are treated by a number of scholars as a success due to the establishment of tributary relations with Đại Việt despite the Mongols suffering major military defeats. In contrast, modern Vietnamese historiography regards the war as a major victory against the foreign invaders."
-   ]
-  },
-  "Mongol khanate": {
-   "kind": "state",
-   "priority": "leader",
-   "records": [
-    "mongol-khanate"
-   ],
-   "retrieved": "2026-10-26",
-   "article": "Mongol khanate",
-   "rev": 1231771109,
-   "url": "https://en.wikipedia.org/wiki/Mongol_khanate",
-   "paragraphs": [
-    "Mongol khanate or Mongolian khanate can refer to:",
-    "Khanate of the Khamag Mongol (10th century–1206)",
-    "Mongol Empire (1206-1368)"
    ]
   },
   "Mongolian People's Republic": {
@@ -10812,22 +10788,6 @@
     "The Southern Tang was founded by Li Bian in 937, when he overthrew emperor Yang Pu of Wu. He largely maintained peaceable relations with neighboring states. His son Li Jing did not follow this foreign policy, conquering the Min and Ma Chu dynasties in 945 and 951 respectively."
    ]
   },
-  "Southern Wu": {
-   "kind": "state",
-   "priority": "states",
-   "records": [
-    "southern-wu"
-   ],
-   "retrieved": "2026-10-26",
-   "article": "Southern Wu",
-   "rev": 1037682755,
-   "url": "https://en.wikipedia.org/wiki/Southern_Wu",
-   "paragraphs": [
-    "Southern Wu may refer to",
-    "Southern branch of Wu Chinese languages",
-    "Yang Wu, a state in China"
-   ]
-  },
   "Southern Yan": {
    "kind": "state",
    "priority": "states",
@@ -10987,35 +10947,6 @@
    "paragraphs": [
     "The Sukhothai Kingdom was a post-classical Siamese kingdom (maṇḍala) in Mainland Southeast Asia surrounding the ancient capital city of Sukhothai in present-day north-central Thailand. The kingdom was founded by Si Inthrathit in 1238 and existed as an independent polity until 1438, when it fell under the influence of the neighboring Ayutthaya after the death of Borommapan (Maha Thammaracha IV).",
     "Sukhothai was originally a trade center in Lavo—itself under the suzerainty of the Khmer Empire—when Central Thai people led by Pho Khun Bang Klang Hao, a local leader, revolted and gained their independence. Bang Klang Hao took the regnal name of Si Inthrathit and became the first monarch of the Phra Ruang dynasty."
-   ]
-  },
-  "Sultan of Perak": {
-   "kind": "state",
-   "priority": "detail",
-   "records": [
-    "sultanate-of-perak"
-   ],
-   "retrieved": "2026-10-26",
-   "article": "Sultan of Perak",
-   "rev": 1375566113,
-   "url": "https://en.wikipedia.org/wiki/Sultan_of_Perak",
-   "paragraphs": [
-    "The Sultan of Perak (Malay: Sultan Perak, Jawi: سلطان ڤيراق) is the constitutional monarch and head of state of the Malaysian state of Perak. It is one of the oldest hereditary seats among the Malay states. The current sultan of Perak, Sultan Nazrin Muizzuddin Shah, has been in office since 29 May 2014.",
-    "When the Malacca Sultanate fell to Portugal in 1511, Sultan Mahmud Shah retreated to Kampar, Sumatra, and died there in 1528. He left behind two princes, Alauddin Riayat Shah II and Muzaffar Shah. The former established the Sultanate of Johor. Muzaffar Shah was invited to rule Perak, of which he became the first sultan."
-   ]
-  },
-  "Sultan of Selangor": {
-   "kind": "state",
-   "priority": "detail",
-   "records": [
-    "sultanate-of-selangor"
-   ],
-   "retrieved": "2026-10-26",
-   "article": "Sultan of Selangor",
-   "rev": 1371527578,
-   "url": "https://en.wikipedia.org/wiki/Sultan_of_Selangor",
-   "paragraphs": [
-    "Sultan of Selangor (سلطان سلاڠور) is the title of the constitutional ruler of Selangor, Malaysia who is the head of state and head of the Islamic religion in Selangor. The current monarch, Sultan Sharafuddin Idris Shah ascended the throne on the death of his father, on 22 November 2001."
    ]
   },
   "Sultan of Terengganu": {
@@ -11992,6 +11923,20 @@
     "Turk or Turks may refer to:"
    ]
   },
+  "Turk Shahis": {
+   "kind": "state",
+   "priority": "states",
+   "records": [
+    "turk-shahis"
+   ],
+   "retrieved": "2026-10-26",
+   "article": "Turk Shahis",
+   "rev": 1381467710,
+   "url": "https://en.wikipedia.org/wiki/Turk_Shahis",
+   "paragraphs": [
+    "The Turk Shahis were a dynastyHephthalite origin, that ruled from Kabul and Kapisa to Gandhara in the 7th to 9th centuries CE. They may have been of Khalaj ethnicity. The Gandhara territory may have been bordering the Kashmir kingdom to the east. From the 560s, the Western Turks had gradually expanded southeasterward from Transoxiana, and occupied Bactria and the Hindu Kush region, forming largely independent polities. The Turk Shahis may have been a political extension of the neighbouring Western Turk Yabghus of Tokharistan. In the Hindu Kush region, they replaced the Nezak Huns – the last dynasty of Bactrian rulers with origins among the Xwn (Xionite) and/or Huna peoples (who are sometimes also referred to as \"Huns\" who invaded Eastern Europe during a similar period)."
+   ]
+  },
   "Turkish invasion of Armenia": {
    "kind": "event",
    "priority": "event",
@@ -12382,18 +12327,18 @@
     "The Xi'an Incident was a Chinese political crisis that lasted from 12 to 26 December 1936. Generals Zhang Xueliang and Yang Hucheng seized Chiang Kai-shek in Xi'an, demanding the Nationalist government end the Chinese Civil War and ally with the Chinese Communist Party (CCP) against Japanese expansionism, resulting in the Second United Front."
    ]
   },
-  "Xia": {
+  "Xia (Sixteen Kingdoms)": {
    "kind": "state",
    "priority": "states",
    "records": [
     "xia"
    ],
    "retrieved": "2026-10-26",
-   "article": "Xia",
-   "rev": 1367803014,
-   "url": "https://en.wikipedia.org/wiki/Xia",
+   "article": "Xia (Sixteen Kingdoms)",
+   "rev": 1368387659,
+   "url": "https://en.wikipedia.org/wiki/Xia_(Sixteen_Kingdoms)",
    "paragraphs": [
-    "Xia (Hsia in Wade–Giles) may refer to:"
+    "Xia (Chinese: 夏; pinyin: Xià), known in historiography as Hu Xia (胡夏), Xiongnu Xia (匈奴夏), Helian Xia (赫連夏) or the Great Xia (大夏), was a dynastic state of China ruled by the Helian clan of Tiefu-Xiongnu ethnicity during the Sixteen Kingdoms period. Prior to establishing the Xia, the imperial clan existed as a tribal entity known as the Tiefu (simplified Chinese: 铁弗; traditional Chinese: 鐵弗; pinyin: Tiěfú)."
    ]
   },
   "Xu (state)": {
@@ -12556,19 +12501,18 @@
     "Zheng (Chinese: 鄭; Old Chinese: *[d]reng-s) was a vassal state in China during the Zhou dynasty (1046–221 BCE) located in the centre of ancient China in modern-day Henan Province on the North China Plain about 75 miles (121 km) east of the royal capital at Luoyang. It was the most powerful of the vassal states at the beginning of the Eastern Zhou (771–701 BCE), and was the first state to clearly establish a code of law in its late period of 543 BCE. Its ruling house had the ancestral name Ji (姬), making them a branch of the Zhou royal house, who held the rank of Bo (伯), a kinship term meaning \"elder\"."
    ]
   },
-  "Zhongshan": {
+  "Zhongshan (state)": {
    "kind": "state",
    "priority": "detail",
    "records": [
     "zhongshan"
    ],
    "retrieved": "2026-10-26",
-   "article": "Zhongshan",
-   "rev": 1381348220,
-   "url": "https://en.wikipedia.org/wiki/Zhongshan",
+   "article": "Zhongshan (state)",
+   "rev": 1328901767,
+   "url": "https://en.wikipedia.org/wiki/Zhongshan_(state)",
    "paragraphs": [
-    "Zhongshan (Chinese: 中山 [ʈʂʊ́ŋ ʂán]), alternately romanized via Cantonese as Chungshan or Jungsaan, is a prefecture-level city in the south of the Pearl River Delta in Guangdong province, China. As of the 2020 census, the whole city with 4,418,060 inhabitants is now part of the Guangzhou–Shenzhen conurbation with 65,565,622 inhabitants. The city-core subdistricts used to be called Shiqi or Shekki (Chinese: 石岐).",
-    "Zhongshan is one of the few Chinese cities to be named after a person. It was originally named Xiangshan (香山, \"Fragrant Mountain\"; Cantonese: Heung-saan), but was renamed in 1925 in honor of Sun Yat-sen, who is known in China as \"Sun Zhongshan\". Sun, a local of the area, was the founding father of the Republic of China who is also regarded positively by the People's Republic."
+    "Zhongshan (Chinese: 中山; pinyin: Zhōngshān) was an ancient state that existed during the Warring States period, which managed to survive for almost 120 years despite its small size. The origins of its founder are a matter of contention between scholars."
    ]
   },
   "Zhu (state)": {
@@ -12616,7 +12560,14 @@
   }
  },
  "inLanguage": {
-  "Western Liang (555–587)": "Zahodni Ljang (555-587)"
+  "Georgia (country)": "Gruzija",
+  "Later Han (Five Dynasties)": "Kasnejši Han",
+  "Western Liang (555–587)": "Zahodni Ljang (555-587)",
+  "Yang Wu": "Vu (deset kraljestev)"
  },
- "missing": []
+ "missing": [
+  "Cambodia Middle Period",
+  "Uryankhay Republic",
+  "id.wikipedia.org/wiki/Kesultanan_Sambaliung"
+ ]
 }

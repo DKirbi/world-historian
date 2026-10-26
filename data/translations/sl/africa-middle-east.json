@@ -2,8 +2,8 @@
  "lang": "sl",
  "region": "africa-middle-east",
  "method": "machine",
- "translator": "Claude Opus 5.5 (claude-opus-5-5) with the slovene-newspaper-translation skill",
- "translated": "2026-10-23",
+ "translator": "Claude Opus 5.5 (claude-opus-5-5) and Claude Sonnet 5.5 (claude-sonnet-5-5) with the slovene-newspaper-translation skill",
+ "translated": "2026-10-26",
  "reviewed": false,
  "licence": "CC BY-SA 4.0: translations of English Wikipedia text, attributed to each article and revision",
  "units": {
@@ -12973,29 +12973,24 @@
    ],
    "translated": "2026-10-23"
   },
-  "Omanis": {
-   "headline": "Omanci",
+  "Omani Empire": {
+   "headline": "Omansko cesarstvo",
    "paragraphs": [
-    "Omanci (arabsko: الشعب العماني, ash-shaʿb al-ʿUmāniyy) so državljani Sultanata Oman na jugovzhodni obali Arabskega polotoka. Omanci so živeli na ozemlju današnjega Omana. V 18. stoletju je zavezništvo trgovcev in vladarjev Maskat (prestolnico Omana) spremenilo v vodilno pristanišče Perzijskega zaliva. Omansko ljudstvo je etnično raznoliko; omansko državljanstvo ima veliko različnih etničnih skupin. Večino prebivalstva sestavljajo Arabci, ki govorijo omansko arabščino in jih imenujejo Omanci.",
-    "Poleg tega živijo v Omanu etnične manjšine, kot so Luri, Mehri in govorci svahilija, ki so se vrnili s svahilske obale, zlasti iz Zanzibarja, ter manjšina iz južne Azije, na primer Lavati, Zadžali in drugi. V Dofarju, Suru in Maskatu živijo tudi Afroomanci, potomci sužnjev, ki so jih pred stoletji pripeljali iz Afrike."
-   ],
-   "notes": [
-    "The record is a state (Omani rule in East Africa), but its link points to the article on the Omani people; the data link is worth checking."
+    "Omansko cesarstvo je bilo pomorski imperij, ki se je s Portugalsko in Britanijo potegoval za trgovino in vpliv v Perzijskem zalivu in Indijskem oceanu. V 18. stoletju je postalo regionalna sila, na vrhuncu v 19. stoletju pa sta njegov vpliv in oblast segala prek Hormuške ožine do današnjega Irana in Pakistana ter na jug vse do rta Delgado v današnjem Mozambiku. Po smrti Saida bin Sultana leta 1856 so cesarstvo razdelili med njegova sinova na dva sultanata: afriški del (Zanzibarski sultanat) je prevzel Madžid bin Said, azijski (Sultanat Maskat in Oman) pa Tuvaini bin Said."
    ],
    "source": {
     "wiki": "en",
-    "title": "Omanis",
-    "rev": 1377930871,
-    "retrieved": "2026-10-23",
+    "title": "Omani Empire",
+    "rev": 1381015129,
+    "retrieved": "2026-10-26",
     "paragraphs": [
-     "Omanis (Arabic: الشعب العماني, romanized: ash-shaʿb al-ʿUmāniyy) are the nationals of Sultanate of Oman, located in the southeastern coast of the Arabian Peninsula. Omanis have inhabited the territory that is now Oman. In the eighteenth century, an alliance of traders and rulers transformed Muscat (Oman's capital) into the leading port of the Persian Gulf. Omani people are ethnically diverse; the Omani citizen population consists of many different ethnic groups. The majority of the population consists of Arabs who speak Omani Arabic, and known as Omanis.",
-     "Additionally, there are ethnic minorities such as Lurs, Mehri, and Swahili speakers who are returnees from the Swahili Coast, particularly Zanzibar, and a minority from South Asia like the Lawatis, Zadjalis, and others. Moreover, in Dhofar, Sur and Muscat, Afro-Omanis can be found. They are the descendants of the slaves who were brought from Africa centuries ago."
+     "The Omani Empire was a maritime empire, vying with Portugal and Britain for trade and influence in the Persian Gulf and Indian Ocean. After rising as a regional power in the 18th century, the empire at its peak in the 19th century saw its influence or control extend across the Strait of Hormuz to modern-day Iran and Pakistan, and as far south as Cape Delgado in what is now Mozambique. After the death of Said bin Sultan in 1856 the empire was divided between his sons into two sultanates, an African section (Sultanate of Zanzibar) ruled by Majid bin Said and an Asian section (Sultanate of Muscat and Oman) ruled by Thuwaini bin Said."
     ]
    },
    "records": [
     "omani-slave-coast"
    ],
-   "translated": "2026-10-23"
+   "translated": "2026-10-26"
   },
   "Operation Nasr": {
    "headline": "Operacija Nasr",
@@ -13553,32 +13548,6 @@
    },
    "records": [
     "Q65091887"
-   ],
-   "translated": "2026-10-23"
-  },
-  "Portuguese Africa": {
-   "headline": "Portugalska Afrika",
-   "paragraphs": [
-    "Portugalska Afrika se lahko nanaša na:",
-    "afriška ozemlja Portugalskega imperija:",
-    "portugalski Zelenortski otoki"
-   ],
-   "notes": [
-    "The record links to an English disambiguation page, so the summary is a list fragment; the data link is worth fixing (for example to the Portuguese Empire's African territories)."
-   ],
-   "source": {
-    "wiki": "en",
-    "title": "Portuguese Africa",
-    "rev": 1262558293,
-    "retrieved": "2026-10-23",
-    "paragraphs": [
-     "Portuguese Africa may refer to:",
-     "African territories of the Portuguese Empire:",
-     "Portuguese Cape Verde"
-    ]
-   },
-   "records": [
-    "portuguese-africa"
    ],
    "translated": "2026-10-23"
   },
@@ -18091,31 +18060,29 @@
    ],
    "translated": "2026-10-23"
   },
-  "Zululand": {
-   "headline": "Zululand",
+  "Zulu Kingdom": {
+   "headline": "Zulujsko kraljestvo",
    "paragraphs": [
-    "Zululand (zulujsko: KwaZulu) se lahko nanaša na:",
-    "Kraljestvo Zulujev (1818–1897)",
-    "KwaZulu, bantustan v Južni Afriki (1981–1994)"
+    "Zulujsko kraljestvo (zulujsko: KwaZulu), včasih imenovano tudi Zulujsko cesarstvo, je bilo monarhija v južni Afriki. Šaka je v 1810. letih ustanovil stalno vojsko, s katero je združil tekmujoča plemena in si pridobil številne privržence; njegovo kraljestvo je vladalo obsežnemu delu južne Afrike vzdolž obale Indijskega oceana od reke Tugela na jugu do reke Pongola na severu, s središčem v današnji južnoafriški provinci KwaZulu-Natal.",
+    "Sredi 19. stoletja je izbruhnila državljanska vojna, ki se je leta 1856 končala z bitko pri Ndondakusuki med bratoma Cetšvajem in Mbujazijem. Leta 1879 je britanska vojska vdrla v Zululand in začela anglo-zulujsko vojno. Po začetni zulujski zmagi pri Isandlvani januarja so se Britanci znova zbrali in julija v bitki pri Ulundiju porazili Zuluje, s čimer se je vojna končala. Ozemlje so priključili koloniji Natal, pozneje pa je postalo del Južnoafriške unije. Sedanji zulujski kralj je Misuzulu Sinqobile, monarh južnoafriške province KwaZulu-Natal."
    ],
    "notes": [
-    "The record links to an English disambiguation page, so the summary is a list fragment; the data link is worth fixing (Zulu Kingdom)."
+    "Izpuščen je angleški zapis izgovarjave."
    ],
    "source": {
     "wiki": "en",
-    "title": "Zululand",
-    "rev": 1328572847,
-    "retrieved": "2026-10-23",
+    "title": "Zulu Kingdom",
+    "rev": 1381171525,
+    "retrieved": "2026-10-26",
     "paragraphs": [
-     "Zululand (Zulu: KwaZulu) may refer to:",
-     "Zulu Kingdom (1818–1897)",
-     "KwaZulu, a Bantustan in South Africa (1981–1994)"
+     "The Zulu Kingdom ( ZOO-loo; Zulu: KwaZulu), sometimes referred to as the Zulu Empire, was a monarchy in Southern Africa. During the 1810s, Shaka established a standing army that consolidated rival clans and built a large following which ruled a wide expanse of Southern Africa that extended along the coast of the Indian Ocean from the Tugela River in the south to the Pongola River in the north, centred on the present KwaZulu-Natal province of South Africa.",
+     "A civil war in the mid-19th century erupted which culminated in the 1856 Battle of Ndondakusuka between the brothers Cetshwayo and Mbuyazi. In 1879, a British force invaded Zululand, beginning the Anglo-Zulu War. After an initial Zulu victory at the Battle of Isandlwana in January, the British regrouped and defeated the Zulus in July during the Battle of Ulundi, ending the war. The area was absorbed into the Colony of Natal and later became part of the Union of South Africa. The current Zulu king is Misuzulu Sinqobile, who serves as the monarch of South Africa's KwaZulu-Natal province."
     ]
    },
    "records": [
     "zululand"
    ],
-   "translated": "2026-10-23"
+   "translated": "2026-10-26"
   },
   "Zurayids": {
    "headline": "Zurajidi",

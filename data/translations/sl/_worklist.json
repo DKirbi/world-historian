@@ -3,9 +3,9 @@
  "from": "2026-10-21",
  "summary": {
   "europe": {
-   "articles": 3060,
+   "articles": 3056,
    "inLanguage": 872,
-   "toTranslate": 2188
+   "toTranslate": 2184
   },
   "americas": {
    "articles": 609,
@@ -18,9 +18,9 @@
    "toTranslate": 63
   },
   "africa-middle-east": {
-   "articles": 1273,
+   "articles": 1272,
    "inLanguage": 351,
-   "toTranslate": 922
+   "toTranslate": 921
   },
   "asia": {
    "articles": 1145,
@@ -301,18 +301,6 @@
   },
   {
    "kind": "state",
-   "title": "Livonian language",
-   "priority": "leader",
-   "editions": 90,
-   "regions": [
-    "europe"
-   ],
-   "records": [
-    "livonian-conference"
-   ]
-  },
-  {
-   "kind": "state",
    "title": "Joseon",
    "priority": "leader",
    "editions": 83,
@@ -380,9 +368,6 @@
     "asia"
    ],
    "records": [
-    "georgia-1918",
-    "georgia-1992",
-    "georgia-567",
     "georgia-724"
    ]
   },
@@ -2128,6 +2113,7 @@
     "asia"
    ],
    "records": [
+    "mongol-khanate",
     "northern-yuan"
    ]
   },
@@ -3565,18 +3551,6 @@
   },
   {
    "kind": "state",
-   "title": "Omanis",
-   "priority": "leader",
-   "editions": 14,
-   "regions": [
-    "africa-middle-east"
-   ],
-   "records": [
-    "omani-slave-coast"
-   ]
-  },
-  {
-   "kind": "state",
    "title": "Saudeleur dynasty",
    "priority": "leader",
    "editions": 14,
@@ -3705,18 +3679,6 @@
    ],
    "records": [
     "illyrian-kingdom"
-   ]
-  },
-  {
-   "kind": "state",
-   "title": "Mahan",
-   "priority": "leader",
-   "editions": 12,
-   "regions": [
-    "asia"
-   ],
-   "records": [
-    "mahan"
    ]
   },
   {
@@ -4314,18 +4276,6 @@
   },
   {
    "kind": "state",
-   "title": "Mongol khanate",
-   "priority": "leader",
-   "editions": 1,
-   "regions": [
-    "asia"
-   ],
-   "records": [
-    "mongol-khanate"
-   ]
-  },
-  {
-   "kind": "state",
    "title": "Point Peninsula complex",
    "priority": "leader",
    "editions": 1,
@@ -4338,18 +4288,6 @@
   },
   {
    "kind": "state",
-   "title": "Portuguese Africa",
-   "priority": "leader",
-   "editions": 1,
-   "regions": [
-    "africa-middle-east"
-   ],
-   "records": [
-    "portuguese-africa"
-   ]
-  },
-  {
-   "kind": "state",
    "title": "Thracian kingdom",
    "priority": "leader",
    "editions": 1,
@@ -4358,6 +4296,30 @@
    ],
    "records": [
     "thracian-kingdom"
+   ]
+  },
+  {
+   "kind": "state",
+   "title": "Democratic Republic of Georgia",
+   "priority": "leader",
+   "editions": 0,
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "georgia-1918"
+   ]
+  },
+  {
+   "kind": "state",
+   "title": "Georgia (country)",
+   "priority": "leader",
+   "editions": 0,
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "georgia-1992"
    ]
   },
   {
@@ -4386,6 +4348,18 @@
   },
   {
    "kind": "state",
+   "title": "Mahan confederacy",
+   "priority": "leader",
+   "editions": 0,
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "mahan"
+   ]
+  },
+  {
+   "kind": "state",
    "title": "Malaya",
    "priority": "leader",
    "editions": 0,
@@ -4410,6 +4384,18 @@
   },
   {
    "kind": "state",
+   "title": "Omani Empire",
+   "priority": "leader",
+   "editions": 0,
+   "regions": [
+    "africa-middle-east"
+   ],
+   "records": [
+    "omani-slave-coast"
+   ]
+  },
+  {
+   "kind": "state",
    "title": "People's Republic of Zanzibar",
    "priority": "leader",
    "editions": 0,
@@ -4418,6 +4404,19 @@
    ],
    "records": [
     "people-s-republic-of-zanzibar"
+   ]
+  },
+  {
+   "kind": "state",
+   "title": "Terra Mariana",
+   "section": "Livonian Confederation",
+   "priority": "leader",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "livonian-conference"
    ]
   },
   {
@@ -4516,18 +4515,6 @@
    "records": [
     "east-turkestan",
     "east-turkestan-republic"
-   ]
-  },
-  {
-   "kind": "state",
-   "title": "Frisia",
-   "priority": "states",
-   "editions": 54,
-   "regions": [
-    "europe"
-   ],
-   "records": [
-    "frisia-kingdom"
    ]
   },
   {
@@ -4817,18 +4804,6 @@
    ],
    "records": [
     "sukhothai-kingdom"
-   ]
-  },
-  {
-   "kind": "state",
-   "title": "Christopher II of Denmark",
-   "priority": "states",
-   "editions": 37,
-   "regions": [
-    "europe"
-   ],
-   "records": [
-    "danish-magnates"
    ]
   },
   {
@@ -5159,18 +5134,6 @@
    ],
    "records": [
     "former-qin"
-   ]
-  },
-  {
-   "kind": "state",
-   "title": "Frisian Kingdom",
-   "priority": "states",
-   "editions": 28,
-   "regions": [
-    "europe"
-   ],
-   "records": [
-    "magna-frisia"
    ]
   },
   {
@@ -5800,18 +5763,6 @@
   },
   {
    "kind": "state",
-   "title": "Kalinga",
-   "priority": "states",
-   "editions": 18,
-   "regions": [
-    "asia"
-   ],
-   "records": [
-    "kalinga"
-   ]
-  },
-  {
-   "kind": "state",
    "title": "Khoshut Khanate",
    "priority": "states",
    "editions": 18,
@@ -5916,18 +5867,6 @@
    ],
    "records": [
     "early-ly-dynasty"
-   ]
-  },
-  {
-   "kind": "state",
-   "title": "Kabul Shahi",
-   "priority": "states",
-   "editions": 16,
-   "regions": [
-    "asia"
-   ],
-   "records": [
-    "turk-shahis"
    ]
   },
   {
@@ -6355,18 +6294,6 @@
   },
   {
    "kind": "state",
-   "title": "Later Han",
-   "priority": "states",
-   "editions": 3,
-   "regions": [
-    "asia"
-   ],
-   "records": [
-    "later-han"
-   ]
-  },
-  {
-   "kind": "state",
    "title": "Cundinamarca",
    "priority": "states",
    "editions": 2,
@@ -6391,18 +6318,6 @@
   },
   {
    "kind": "state",
-   "title": "Southern Wu",
-   "priority": "states",
-   "editions": 1,
-   "regions": [
-    "asia"
-   ],
-   "records": [
-    "southern-wu"
-   ]
-  },
-  {
-   "kind": "state",
    "title": "Cambodia Middle Period",
    "priority": "states",
    "editions": 0,
@@ -6415,7 +6330,68 @@
   },
   {
    "kind": "state",
-   "title": "Xia",
+   "title": "Duchy of Estonia (1219–1346)",
+   "priority": "states",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "danish-magnates"
+   ]
+  },
+  {
+   "kind": "state",
+   "title": "Frisian Kingdom",
+   "priority": "states",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "frisia-kingdom",
+    "magna-frisia"
+   ]
+  },
+  {
+   "kind": "state",
+   "title": "Kalinga (region)",
+   "priority": "states",
+   "editions": 0,
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "kalinga"
+   ]
+  },
+  {
+   "kind": "state",
+   "title": "Later Han (Five Dynasties)",
+   "priority": "states",
+   "editions": 0,
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "later-han"
+   ]
+  },
+  {
+   "kind": "state",
+   "title": "Turk Shahis",
+   "priority": "states",
+   "editions": 0,
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "turk-shahis"
+   ]
+  },
+  {
+   "kind": "state",
+   "title": "Xia (Sixteen Kingdoms)",
    "priority": "states",
    "editions": 0,
    "regions": [
@@ -6423,6 +6399,18 @@
    ],
    "records": [
     "xia"
+   ]
+  },
+  {
+   "kind": "state",
+   "title": "Yang Wu",
+   "priority": "states",
+   "editions": 0,
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "southern-wu"
    ]
   },
   {
@@ -6496,18 +6484,6 @@
    ],
    "records": [
     "cao"
-   ]
-  },
-  {
-   "kind": "state",
-   "title": "Zhongshan",
-   "priority": "detail",
-   "editions": 63,
-   "regions": [
-    "asia"
-   ],
-   "records": [
-    "zhongshan"
    ]
   },
   {
@@ -6641,18 +6617,6 @@
    ],
    "records": [
     "duchy-of-parma-and-piacenza"
-   ]
-  },
-  {
-   "kind": "state",
-   "title": "Berga",
-   "priority": "detail",
-   "editions": 51,
-   "regions": [
-    "europe"
-   ],
-   "records": [
-    "county-of-berga"
    ]
   },
   {
@@ -7524,18 +7488,6 @@
   },
   {
    "kind": "state",
-   "title": "Pallars Sobirà",
-   "priority": "detail",
-   "editions": 27,
-   "regions": [
-    "europe"
-   ],
-   "records": [
-    "county-of-pallars-sobira"
-   ]
-  },
-  {
-   "kind": "state",
    "title": "Principality of Capua",
    "priority": "detail",
    "editions": 27,
@@ -7606,18 +7558,6 @@
    ],
    "records": [
     "taifa-of-zaragoza"
-   ]
-  },
-  {
-   "kind": "state",
-   "title": "Basina of Thuringia",
-   "priority": "detail",
-   "editions": 25,
-   "regions": [
-    "europe"
-   ],
-   "records": [
-    "kingdom-of-thuringia"
    ]
   },
   {
@@ -7715,18 +7655,6 @@
    ],
    "records": [
     "janapada-of-malla"
-   ]
-  },
-  {
-   "kind": "state",
-   "title": "Pallars Jussà",
-   "priority": "detail",
-   "editions": 25,
-   "regions": [
-    "europe"
-   ],
-   "records": [
-    "county-of-pallars-jussa"
    ]
   },
   {
@@ -8289,18 +8217,6 @@
   },
   {
    "kind": "state",
-   "title": "Angles",
-   "priority": "detail",
-   "editions": 19,
-   "regions": [
-    "europe"
-   ],
-   "records": [
-    "angles"
-   ]
-  },
-  {
-   "kind": "state",
    "title": "Chen (state)",
    "priority": "detail",
    "editions": 19,
@@ -8481,6 +8397,7 @@
     "asia"
    ],
    "records": [
+    "bali",
     "balinese-kingdom",
     "early-balinese-kingdoms"
    ]
@@ -8573,18 +8490,6 @@
    ],
    "records": [
     "samtskhe-saatabago"
-   ]
-  },
-  {
-   "kind": "state",
-   "title": "Sultan of Perak",
-   "priority": "detail",
-   "editions": 16,
-   "regions": [
-    "asia"
-   ],
-   "records": [
-    "sultanate-of-perak"
    ]
   },
   {
@@ -8731,6 +8636,7 @@
     "europe"
    ],
    "records": [
+    "angevins",
     "county-of-anjou-1294",
     "county-of-anjou-990"
    ]
@@ -8855,18 +8761,6 @@
    ],
    "records": [
     "sulayhid-dynasty"
-   ]
-  },
-  {
-   "kind": "state",
-   "title": "Sultan of Selangor",
-   "priority": "detail",
-   "editions": 14,
-   "regions": [
-    "asia"
-   ],
-   "records": [
-    "sultanate-of-selangor"
    ]
   },
   {
@@ -9416,18 +9310,6 @@
   },
   {
    "kind": "state",
-   "title": "Champasak",
-   "priority": "detail",
-   "editions": 10,
-   "regions": [
-    "asia"
-   ],
-   "records": [
-    "kingdom-of-champasak"
-   ]
-  },
-  {
-   "kind": "state",
    "title": "Chorrera culture",
    "priority": "detail",
    "editions": 10,
@@ -9580,18 +9462,6 @@
    ],
    "records": [
     "viru-culture"
-   ]
-  },
-  {
-   "kind": "state",
-   "title": "Zululand",
-   "priority": "detail",
-   "editions": 10,
-   "regions": [
-    "africa-middle-east"
-   ],
-   "records": [
-    "zululand"
    ]
   },
   {
@@ -10221,18 +10091,6 @@
   },
   {
    "kind": "state",
-   "title": "Angevin",
-   "priority": "detail",
-   "editions": 3,
-   "regions": [
-    "europe"
-   ],
-   "records": [
-    "angevins"
-   ]
-  },
-  {
-   "kind": "state",
    "title": "Bracamoros",
    "priority": "detail",
    "editions": 3,
@@ -10437,18 +10295,6 @@
   },
   {
    "kind": "state",
-   "title": "Dongye",
-   "priority": "detail",
-   "editions": 1,
-   "regions": [
-    "asia"
-   ],
-   "records": [
-    "dongye"
-   ]
-  },
-  {
-   "kind": "state",
    "title": "Lamar mounds and village site",
    "priority": "detail",
    "editions": 1,
@@ -10545,14 +10391,14 @@
   },
   {
    "kind": "state",
-   "title": "Bali",
+   "title": "Angles (tribe)",
    "priority": "detail",
    "editions": 0,
    "regions": [
-    "asia"
+    "europe"
    ],
    "records": [
-    "bali"
+    "angles"
    ]
   },
   {
@@ -10581,6 +10427,42 @@
   },
   {
    "kind": "state",
+   "title": "Counts of Berga",
+   "priority": "detail",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "county-of-berga"
+   ]
+  },
+  {
+   "kind": "state",
+   "title": "County of Pallars Jussà",
+   "priority": "detail",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "county-of-pallars-jussa"
+   ]
+  },
+  {
+   "kind": "state",
+   "title": "County of Pallars Sobirà",
+   "priority": "detail",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "county-of-pallars-sobira"
+   ]
+  },
+  {
+   "kind": "state",
    "title": "Duchy of Mecklenburg",
    "priority": "detail",
    "editions": 0,
@@ -10589,6 +10471,18 @@
    ],
    "records": [
     "duchy-of-mecklenburg"
+   ]
+  },
+  {
+   "kind": "state",
+   "title": "Eastern Ye",
+   "priority": "detail",
+   "editions": 0,
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "dongye"
    ]
   },
   {
@@ -10605,6 +10499,32 @@
   },
   {
    "kind": "state",
+   "title": "History of Malaysia",
+   "section": "Perak Sultanate",
+   "priority": "detail",
+   "editions": 0,
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "sultanate-of-perak"
+   ]
+  },
+  {
+   "kind": "state",
+   "title": "History of Malaysia",
+   "section": "Selangor Sultanate",
+   "priority": "detail",
+   "editions": 0,
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "sultanate-of-selangor"
+   ]
+  },
+  {
+   "kind": "state",
    "title": "Kambojas",
    "priority": "detail",
    "editions": 0,
@@ -10613,6 +10533,30 @@
    ],
    "records": [
     "janapada-of-kamboja"
+   ]
+  },
+  {
+   "kind": "state",
+   "title": "Kingdom of Champasak",
+   "priority": "detail",
+   "editions": 0,
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "kingdom-of-champasak"
+   ]
+  },
+  {
+   "kind": "state",
+   "title": "Kingdom of Strathclyde",
+   "priority": "detail",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "strathclyde"
    ]
   },
   {
@@ -10665,18 +10609,6 @@
   },
   {
    "kind": "state",
-   "title": "Strathclyde",
-   "priority": "detail",
-   "editions": 0,
-   "regions": [
-    "europe"
-   ],
-   "records": [
-    "strathclyde"
-   ]
-  },
-  {
-   "kind": "state",
    "title": "Taifa of Córdoba",
    "priority": "detail",
    "editions": 0,
@@ -10685,6 +10617,42 @@
    ],
    "records": [
     "taifa-of-cordoba-1236"
+   ]
+  },
+  {
+   "kind": "state",
+   "title": "Thuringi",
+   "priority": "detail",
+   "editions": 0,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "kingdom-of-thuringia"
+   ]
+  },
+  {
+   "kind": "state",
+   "title": "Zhongshan (state)",
+   "priority": "detail",
+   "editions": 0,
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "zhongshan"
+   ]
+  },
+  {
+   "kind": "state",
+   "title": "Zulu Kingdom",
+   "priority": "detail",
+   "editions": 0,
+   "regions": [
+    "africa-middle-east"
+   ],
+   "records": [
+    "zululand"
    ]
   },
   {
@@ -17614,18 +17582,6 @@
   },
   {
    "kind": "event",
-   "title": "Battle of Vasylkiv",
-   "priority": "event",
-   "editions": 29,
-   "regions": [
-    "europe"
-   ],
-   "records": [
-    "Q111018336"
-   ]
-  },
-  {
-   "kind": "event",
    "title": "Battles of Narvik",
    "priority": "event",
    "editions": 29,
@@ -17826,6 +17782,19 @@
    ],
    "records": [
     "Q2002064"
+   ]
+  },
+  {
+   "kind": "event",
+   "title": "Northern front of the Russian invasion of Ukraine",
+   "section": "Vasylkiv",
+   "priority": "event",
+   "editions": 29,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "Q111018336"
    ]
   },
   {
@@ -21536,18 +21505,6 @@
   },
   {
    "kind": "event",
-   "title": "Battle of Konotop (2022)",
-   "priority": "event",
-   "editions": 24,
-   "regions": [
-    "europe"
-   ],
-   "records": [
-    "Q111018339"
-   ]
-  },
-  {
-   "kind": "event",
    "title": "Battle of Kulm",
    "priority": "event",
    "editions": 24,
@@ -21640,18 +21597,6 @@
    ],
    "records": [
     "Q7885422"
-   ]
-  },
-  {
-   "kind": "event",
-   "title": "Battle of Okhtyrka",
-   "priority": "event",
-   "editions": 24,
-   "regions": [
-    "europe"
-   ],
-   "records": [
-    "Q111032201"
    ]
   },
   {
@@ -22086,6 +22031,21 @@
    ],
    "records": [
     "Q1568837"
+   ]
+  },
+  {
+   "kind": "event",
+   "title": "Northern front of the Russian invasion of Ukraine",
+   "section": "Operations in other northern regions",
+   "priority": "event",
+   "editions": 24,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "Q111018339",
+    "Q111032201",
+    "Q111032447"
    ]
   },
   {
@@ -24589,18 +24549,6 @@
   },
   {
    "kind": "event",
-   "title": "Battle of Ivankiv",
-   "priority": "event",
-   "editions": 21,
-   "regions": [
-    "europe"
-   ],
-   "records": [
-    "Q111014898"
-   ]
-  },
-  {
-   "kind": "event",
    "title": "Battle of Karnal",
    "priority": "event",
    "editions": 21,
@@ -25308,6 +25256,19 @@
    ],
    "records": [
     "Q2022139"
+   ]
+  },
+  {
+   "kind": "event",
+   "title": "Northern front of the Russian invasion of Ukraine",
+   "section": "Russian advance on Kyiv",
+   "priority": "event",
+   "editions": 21,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "Q111014898"
    ]
   },
   {
@@ -34012,6 +33973,19 @@
   },
   {
    "kind": "event",
+   "title": "Battle of Donbas (2022)",
+   "section": "Luhansk Oblast",
+   "priority": "event",
+   "editions": 16,
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "Q112206624"
+   ]
+  },
+  {
+   "kind": "event",
    "title": "Battle of Dornach",
    "priority": "event",
    "editions": 16,
@@ -34325,18 +34299,6 @@
    ],
    "records": [
     "Q641183"
-   ]
-  },
-  {
-   "kind": "event",
-   "title": "Battle of Kreminna",
-   "priority": "event",
-   "editions": 16,
-   "regions": [
-    "europe"
-   ],
-   "records": [
-    "Q112206624"
    ]
   },
   {
@@ -41450,18 +41412,6 @@
    ],
    "records": [
     "Q233344"
-   ]
-  },
-  {
-   "kind": "event",
-   "title": "Battle of Trostianets",
-   "priority": "event",
-   "editions": 14,
-   "regions": [
-    "europe"
-   ],
-   "records": [
-    "Q111032447"
    ]
   },
   {

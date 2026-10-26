@@ -57,6 +57,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import enrich  # noqa: E402
 import cultures  # noqa: E402
 import eras as eras_mod  # noqa: E402
+import link_fixes  # noqa: E402
 
 GENERATED = "2026-10-17"
 SOURCE = {
@@ -832,6 +833,13 @@ if __name__ == "__main__":
     region_id, clio_path, ne_path, out_dir = sys.argv[1:5]
     lanes, per_lane, registry, review, per_events, notes = build(region_id, clio_path, ne_path,
                                                                  os.path.join(out_dir, "sources"))
+    # hand corrections to Wikipedia links (sources/link-fixes.json), after everything that reads them
+    fixes = link_fixes.load(os.path.join(out_dir, "sources", "link-fixes.json"))
+    for pid, rec in registry.items():
+        link_fixes.apply_polity(pid, rec, fixes)
+    for evs in (per_events or {}).values():
+        for e in evs:
+            link_fixes.apply_event(e, fixes)
     write(region_id, out_dir, lanes, per_lane, registry, review, per_events, notes)
     for n in notes.get("supplementSkipped", []):
         print("  supplement skipped:", n)

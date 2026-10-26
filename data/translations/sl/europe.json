@@ -725,58 +725,6 @@
    ],
    "translated": "2026-10-23"
   },
-  "Angevin": {
-   "headline": "Angevin",
-   "paragraphs": [
-    "Izraz Angevin ali hiša Anžu se lahko nanaša na:",
-    "grofijo Anžu ali vojvodino Anžu, zgodovinsko grofijo in pozneje vojvodino v Franciji;",
-    "anžujščino, tradicionalni jezik langue d'oïl, ki so ga govorili v Anžuju."
-   ],
-   "notes": [
-    "The record links to an English disambiguation page, so the summary is a list fragment; the data link is worth fixing (for example to the County of Anjou or the Angevin Empire)."
-   ],
-   "source": {
-    "wiki": "en",
-    "title": "Angevin",
-    "rev": 1374593027,
-    "retrieved": "2026-10-23",
-    "paragraphs": [
-     "Angevin or House of Anjou may refer to:",
-     "County of Anjou or Duchy of Anjou, a historical county, and later Duchy, in France",
-     "Angevin (language), the traditional langue d'oïl spoken in Anjou"
-    ]
-   },
-   "records": [
-    "angevins"
-   ],
-   "translated": "2026-10-23"
-  },
-  "Angles": {
-   "headline": "Angli",
-   "paragraphs": [
-    "Izraz Angles se najpogosteje nanaša na:",
-    "Angle (pleme), germansko govoreče ljudstvo, ki je ime dobilo po kulturni pokrajini Angeln v Nemčiji;",
-    "kot, geometrijski lik, ki ga tvorita poltraka s skupnim izhodiščem."
-   ],
-   "notes": [
-    "The record links to an English disambiguation page, so the summary is a list fragment (one entry is the geometric angle); the data link should point to Angles (tribe)."
-   ],
-   "source": {
-    "wiki": "en",
-    "title": "Angles",
-    "rev": 1376917870,
-    "retrieved": "2026-10-24",
-    "paragraphs": [
-     "Angles most commonly refers to:",
-     "Angles (tribe), a Germanic-speaking people that took their name from the Angeln cultural region in Germany",
-     "Angle, a geometric figure formed by two rays meeting at a common point"
-    ]
-   },
-   "records": [
-    "angles"
-   ],
-   "translated": "2026-10-24"
-  },
   "Anglo-Dutch Treaty of 1824": {
    "headline": "Angleško-nizozemska pogodba iz leta 1824",
    "paragraphs": [
@@ -1458,28 +1406,6 @@
    },
    "records": [
     "Q672112"
-   ],
-   "translated": "2026-10-24"
-  },
-  "Basina of Thuringia": {
-   "headline": "Bazina Turinška",
-   "paragraphs": [
-    "Bazina ali Basine (ok. 438–477) je bila po spominu poznejših avtorjev, predvsem Gregorja iz Toursa, sredi 5. stoletja kraljica Turingije. Ker pa je Gregor kraljestvo Turingijo njene družine opisal kot ležeče na galski ali zahodni strani Rena, nekateri menijo, da gre za Civitas Tungrorum na ozemlju današnje Belgije."
-   ],
-   "notes": [
-    "A state record linked to the article on a person (Queen Basina); the data link is worth checking."
-   ],
-   "source": {
-    "wiki": "en",
-    "title": "Basina of Thuringia",
-    "rev": 1358905686,
-    "retrieved": "2026-10-24",
-    "paragraphs": [
-     "Basina or Basine (c. 438 – 477) was remembered as a queen of Thuringia in the middle of the fifth century, by much later authors such as especially Gregory of Tours. However, because Gregory described her family's kingdom of Thuringia as being on the Gaulish or western side of the river Rhine, it is sometimes thought to be the Civitas Tungrorum, which is now Belgium."
-    ]
-   },
-   "records": [
-    "kingdom-of-thuringia"
    ],
    "translated": "2026-10-24"
   },
@@ -5397,6 +5323,32 @@
    ],
    "translated": "2026-10-26"
   },
+  "Battle of Donbas (2022)#Luhansk Oblast": {
+   "paragraphs": [
+    "Ruske in separatistične sile so Kremino zavzele v noči s 17. na 18. april; to je bilo prvo mesto, ki je padlo od začetka ofenzive. Ukrajinski uradniki so 25. aprila sporočili, da so ruski vojaki umrli v eksploziji plina v mestni hiši v Kremini, ki so jo zasedli Rusi.",
+    "Ruske sile in sile LPR so 24. aprila zavzele manjše kraje Popivka, Piščane in Žitlivka severozahodno od Severodonecka in vzpostavile mostišče čez reko Krasna, vendar je ISW ocenil, da ruske čete na tem območju verjetno še ne bodo mogle sprožiti večjih ofenzivnih operacij. Južno od Severskega Donca je ukrajinska vojska sporočila, da je 27. aprila padlo Novotoškivske.",
+    "Ruske sile so med 19. in 20. aprilom napredovale v Rubižnem. Konec aprila je ISW sporočil, da skušajo obkoliti in povsem zavzeti Rubižne, ki je padlo 12. maja."
+   ],
+   "notes": [
+    "Zapis za bitko za Kremino je bil prej povezan s preusmeritvijo na članek o bitki za Donbas; zdaj ga vodi razdelek o Luganski oblasti (data/sources/link-fixes.json). Kratici LPR (Luganska ljudska republika) in ISW (Inštitut za preučevanje vojne) sta ohranjeni."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Donbas (2022)",
+    "section": "Luhansk Oblast",
+    "rev": 1381915978,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "Kreminna was captured by Russian and separatist forces overnight between 17 and 18 April, becoming the first city to fall since the beginning of the offensive. Ukrainian officials reported on 25 April that Russian forces were killed in a gas explosion in the Russian-occupied Kreminna City Hall.",
+     "On 24 April, Russian and LPR forces seized the small towns of Popivka, Pishchane, and Zhytlivka northwest of Sievierodonetsk, establishing a bridgehead over the Krasna River, though ISW assessed that Russian troops in the region remained unlikely to be able to launch large offensive operations. South of the Seversky Donets river, the Ukrainian military announced that Novotoshkivske fell on 27 April.",
+     "Russian forces advanced in Rubizhne between 19 and 20 April. In late April, ISW said that Russian forces were pushing to encircle and fully capture Rubizhne, which fell on 12 May."
+    ]
+   },
+   "records": [
+    "Q112206624"
+   ],
+   "translated": "2026-10-26"
+  },
   "Battle of Dornach": {
    "headline": "Bitka pri Dornachu",
    "paragraphs": [
@@ -8158,29 +8110,6 @@
    ],
    "translated": "2026-10-26"
   },
-  "Battle of Ivankiv": {
-   "paragraphs": [
-    "Ruska vojska je 24. februarja 2022 v okviru ruske invazije na Ukrajino prestopila rusko-ukrajinsko in belorusko-ukrajinsko mejo ter vdrla na sever Ukrajine, v Kijevsko, Černigovsko, Sumsko in Žitomirsko oblast. Ruske operacije na severu Ukrajine so se sprva začele kot poskus zavzetja Kijeva, ukrajinske prestolnice in sedeža ukrajinske vlade.",
-    "Ruske sile so sprva zavzele več mest, vendar so njihovo napredovanje ustavili logistične in oskrbovalne težave, trdovraten ukrajinski odpor in slaba morala. Ker so imele velike izgube in niso mogle več napredovati, je Rusija konec marca in v začetku aprila 2022 umaknila svoje sile iz Kijevske, Žitomirske, Černigovske in Sumske oblasti, nadzor pa so znova prevzele ukrajinske sile."
-   ],
-   "notes": [
-    "The record's article now leads to the summary of the northern Ukraine campaign, which does not mention Ivankiv; translated as it stands."
-   ],
-   "source": {
-    "wiki": "en",
-    "title": "Northern front of the Russian invasion of Ukraine",
-    "rev": 1378818763,
-    "retrieved": "2026-10-26",
-    "paragraphs": [
-     "On 24 February 2022, as part of the 2022 Russian invasion of Ukraine, the Russian military crossed the Russia–Ukraine and Belarus–Ukraine borders into northern Ukraine, entering the oblasts (regions) of Kyiv, Chernihiv, Sumy, and Zhytomyr. The Russian operations in northern Ukraine were initially launched as an attempt to capture Kyiv, the capital of Ukraine and the seat of the Ukrainian government.",
-     "Russian forces initially captured several towns and cities, but logistical and supply failures, stiff Ukrainian resistance, and poor morale caused their advance to stall. With heavy losses and the inability to make further progress, Russia withdrew its forces from Kyiv, Zhytomyr, Chernihiv and Sumy oblasts in late March and early April 2022, and Ukrainian forces retook control."
-    ]
-   },
-   "records": [
-    "Q111014898"
-   ],
-   "translated": "2026-10-26"
-  },
   "Battle of Izium (2022)": {
    "headline": "Bitka za Izjum (2022)",
    "paragraphs": [
@@ -8976,29 +8905,6 @@
     "Q663450"
    ],
    "translated": "2026-10-24"
-  },
-  "Battle of Kreminna": {
-   "paragraphs": [
-    "Bitka za Donbas je bila vojaška ofenziva, del širše vzhodne fronte rusko-ukrajinske vojne. Ofenziva za nadzor nad regijo Donbas se je med oboroženimi silami Rusije in Ukrajine začela 18. aprila 2022. Vojaški analitiki menijo, da je bila druga strateška faza invazije, po začetnem ruskem napadu na Ukrajino v treh smereh.",
-    "Ruska strategija v tem sektorju je bila obkoliti ukrajinske čete v Donbasu ter vso Doneško in Lugansko oblast priključiti separatističnima državama pod rusko zaščito, Doneški ljudski republiki (DLR) in Luganski ljudski republiki (LLR). Rusija je trdila, da je do 23. junija 2022 nadzorovala 55 % Doneške oblasti in do 3. julija 2022 vso Lugansko oblast, ruske in separatistične sile pa so nadzorovale mesta Mariupol, Severodoneck, Lisičansk, Rubižne in mnoga druga."
-   ],
-   "notes": [
-    "The record's article now leads to the Battle of Donbas, so the text is the same as that unit's and does not mention Kreminna."
-   ],
-   "source": {
-    "wiki": "en",
-    "title": "Battle of Donbas (2022)",
-    "rev": 1381915978,
-    "retrieved": "2026-10-26",
-    "paragraphs": [
-     "The Battle of Donbas was a military offensive that was part of the wider eastern front of the Russo-Ukrainian war. The offensive began on 18 April 2022 between the armed forces of Russia and Ukraine for control of the Donbas region. Military analysts consider the campaign to have been the second strategic phase of the invasion, after Russia's initial three-pronged attack into Ukraine.",
-     "Russia's strategy in the sector was to encircle Ukrainian troops in the Donbas and to annexe the entire Donetsk and Luhansk oblasts to the Russian-backed separatist states of the Donetsk People's Republic (DPR) and Luhansk People's Republic (LPR). Russia claimed to have controlled 55% of Donetsk Oblast by 23 June 2022 and all of Luhansk Oblast by 3 July 2022, with Russian and separatist forces controlling the cities of Mariupol, Sievierodonetsk, Lysychansk, Rubizhne, and many others."
-    ]
-   },
-   "records": [
-    "Q112206624"
-   ],
-   "translated": "2026-10-26"
   },
   "Battle of Krivolak": {
    "headline": "Bitka pri Krivolaku",
@@ -12656,30 +12562,6 @@
     "Q975376"
    ],
    "translated": "2026-10-24"
-  },
-  "Battle of Okhtyrka": {
-   "paragraphs": [
-    "Ruska vojska je 24. februarja 2022 v okviru ruske invazije na Ukrajino prestopila rusko-ukrajinsko in belorusko-ukrajinsko mejo ter vdrla na sever Ukrajine, v Kijevsko, Černigovsko, Sumsko in Žitomirsko oblast. Ruske operacije na severu Ukrajine so se sprva začele kot poskus zavzetja Kijeva, ukrajinske prestolnice in sedeža ukrajinske vlade.",
-    "Ruske sile so sprva zavzele več mest, vendar so njihovo napredovanje ustavili logistične in oskrbovalne težave, trdovraten ukrajinski odpor in slaba morala. Ker so imele velike izgube in niso mogle več napredovati, je Rusija konec marca in v začetku aprila 2022 umaknila svoje sile iz Kijevske, Žitomirske, Černigovske in Sumske oblasti, nadzor pa so znova prevzele ukrajinske sile."
-   ],
-   "notes": [
-    "The record's article now leads to the summary of the northern Ukraine campaign, which does not mention Okhtyrka; translated as it stands.",
-    "The glossary had Bitka za Oktirko; an override now gives Bitka za Ohtirko."
-   ],
-   "source": {
-    "wiki": "en",
-    "title": "Northern front of the Russian invasion of Ukraine",
-    "rev": 1378818763,
-    "retrieved": "2026-10-26",
-    "paragraphs": [
-     "On 24 February 2022, as part of the 2022 Russian invasion of Ukraine, the Russian military crossed the Russia–Ukraine and Belarus–Ukraine borders into northern Ukraine, entering the oblasts (regions) of Kyiv, Chernihiv, Sumy, and Zhytomyr. The Russian operations in northern Ukraine were initially launched as an attempt to capture Kyiv, the capital of Ukraine and the seat of the Ukrainian government.",
-     "Russian forces initially captured several towns and cities, but logistical and supply failures, stiff Ukrainian resistance, and poor morale caused their advance to stall. With heavy losses and the inability to make further progress, Russia withdrew its forces from Kyiv, Zhytomyr, Chernihiv and Sumy oblasts in late March and early April 2022, and Ukrainian forces retook control."
-    ]
-   },
-   "records": [
-    "Q111032201"
-   ],
-   "translated": "2026-10-26"
   },
   "Battle of Öland": {
    "headline": "Bitka pri Ölandu",
@@ -17830,30 +17712,6 @@
    ],
    "translated": "2026-10-23"
   },
-  "Battle of Trostianets": {
-   "headline": "Bitka za Trostjanec",
-   "paragraphs": [
-    "Ruska vojska je 24. februarja 2022 v okviru ruske invazije na Ukrajino prestopila rusko-ukrajinsko in belorusko-ukrajinsko mejo ter vdrla na sever Ukrajine, v Kijevsko, Černigovsko, Sumsko in Žitomirsko oblast. Ruske operacije na severu Ukrajine so se sprva začele kot poskus zavzetja Kijeva, ukrajinske prestolnice in sedeža ukrajinske vlade.",
-    "Ruske sile so sprva zavzele več mest, vendar so njihovo napredovanje ustavili logistične in oskrbovalne težave, trdovraten ukrajinski odpor in slaba morala. Ker so imele velike izgube in niso mogle več napredovati, je Rusija konec marca in v začetku aprila 2022 umaknila svoje sile iz Kijevske, Žitomirske, Černigovske in Sumske oblasti, nadzor pa so znova prevzele ukrajinske sile."
-   ],
-   "notes": [
-    "The record's article now leads to the summary of the northern Ukraine campaign, which does not mention Trostianets; translated as it stands."
-   ],
-   "source": {
-    "wiki": "en",
-    "title": "Northern front of the Russian invasion of Ukraine",
-    "rev": 1378818763,
-    "retrieved": "2026-10-26",
-    "paragraphs": [
-     "On 24 February 2022, as part of the 2022 Russian invasion of Ukraine, the Russian military crossed the Russia–Ukraine and Belarus–Ukraine borders into northern Ukraine, entering the oblasts (regions) of Kyiv, Chernihiv, Sumy, and Zhytomyr. The Russian operations in northern Ukraine were initially launched as an attempt to capture Kyiv, the capital of Ukraine and the seat of the Ukrainian government.",
-     "Russian forces initially captured several towns and cities, but logistical and supply failures, stiff Ukrainian resistance, and poor morale caused their advance to stall. With heavy losses and the inability to make further progress, Russia withdrew its forces from Kyiv, Zhytomyr, Chernihiv and Sumy oblasts in late March and early April 2022, and Ukrainian forces retook control."
-    ]
-   },
-   "records": [
-    "Q111032447"
-   ],
-   "translated": "2026-10-26"
-  },
   "Battle of Trzciana": {
    "headline": "Bitka pri Trzciani",
    "paragraphs": [
@@ -18131,29 +17989,6 @@
     "Q4411"
    ],
    "translated": "2026-10-23"
-  },
-  "Battle of Vasylkiv": {
-   "paragraphs": [
-    "Ruska vojska je 24. februarja 2022 v okviru ruske invazije na Ukrajino prestopila rusko-ukrajinsko in belorusko-ukrajinsko mejo ter vdrla na sever Ukrajine, v Kijevsko, Černigovsko, Sumsko in Žitomirsko oblast. Ruske operacije na severu Ukrajine so se sprva začele kot poskus zavzetja Kijeva, ukrajinske prestolnice in sedeža ukrajinske vlade.",
-    "Ruske sile so sprva zavzele več mest, vendar so njihovo napredovanje ustavili logistične in oskrbovalne težave, trdovraten ukrajinski odpor in slaba morala. Ker so imele velike izgube in niso mogle več napredovati, je Rusija konec marca in v začetku aprila 2022 umaknila svoje sile iz Kijevske, Žitomirske, Černigovske in Sumske oblasti, nadzor pa so znova prevzele ukrajinske sile."
-   ],
-   "notes": [
-    "The record's article now leads to the summary of the northern Ukraine campaign, which does not mention Vasylkiv; translated as it stands."
-   ],
-   "source": {
-    "wiki": "en",
-    "title": "Northern front of the Russian invasion of Ukraine",
-    "rev": 1378818763,
-    "retrieved": "2026-10-26",
-    "paragraphs": [
-     "On 24 February 2022, as part of the 2022 Russian invasion of Ukraine, the Russian military crossed the Russia–Ukraine and Belarus–Ukraine borders into northern Ukraine, entering the oblasts (regions) of Kyiv, Chernihiv, Sumy, and Zhytomyr. The Russian operations in northern Ukraine were initially launched as an attempt to capture Kyiv, the capital of Ukraine and the seat of the Ukrainian government.",
-     "Russian forces initially captured several towns and cities, but logistical and supply failures, stiff Ukrainian resistance, and poor morale caused their advance to stall. With heavy losses and the inability to make further progress, Russia withdrew its forces from Kyiv, Zhytomyr, Chernihiv and Sumy oblasts in late March and early April 2022, and Ukrainian forces retook control."
-    ]
-   },
-   "records": [
-    "Q111018336"
-   ],
-   "translated": "2026-10-26"
   },
   "Battle of Vauchamps": {
    "headline": "Bitka pri Vauchampsu",
@@ -19429,28 +19264,6 @@
    ],
    "translated": "2026-10-26"
   },
-  "Berga": {
-   "paragraphs": [
-    "Berga je glavno mesto comarce (okraja) Berguedà v provinci Barcelona v Kataloniji v Španiji. Meji na občine Cercs, Olvan, Avià, Capolat in Castellar del Riu."
-   ],
-   "notes": [
-    "The Catalan pronunciation in IPA is dropped.",
-    "The record is a state, but its link points to the article on the modern town; the data link is worth checking."
-   ],
-   "source": {
-    "wiki": "en",
-    "title": "Berga",
-    "rev": 1375116111,
-    "retrieved": "2026-10-23",
-    "paragraphs": [
-     "Berga (Catalan pronunciation: [ˈbeɾɣə]) is the capital of the comarca (county) of Berguedà, in the province of Barcelona, Catalonia, Spain. It is bordered by the municipalities of Cercs, Olvan, Avià, Capolat and Castellar del Riu."
-    ]
-   },
-   "records": [
-    "county-of-berga"
-   ],
-   "translated": "2026-10-23"
-  },
   "Berke–Hulegu war": {
    "headline": "Vojna med Berkejem in Hulagujem",
    "paragraphs": [
@@ -20176,27 +19989,6 @@
    ],
    "translated": "2026-10-26"
   },
-  "Christopher II of Denmark": {
-   "paragraphs": [
-    "Krištof II. (dansko: Christoffer 2.; 29. september 1276 – 2. avgust 1332) je bil danski kralj od leta 1320 do 1326 in znova od leta 1329 do smrti. Bil je mlajši sin Erika V. Njegovo ime je povezano z narodno katastrofo, saj se je njegova vladavina končala s skoraj popolnim razpadom danske države."
-   ],
-   "notes": [
-    "Zapis je na zemljevidu Danski velikaši (1333–1351), povezan pa je s člankom o Krištofu II."
-   ],
-   "source": {
-    "wiki": "en",
-    "title": "Christopher II of Denmark",
-    "rev": 1375913326,
-    "retrieved": "2026-10-26",
-    "paragraphs": [
-     "Christopher II (Danish: Christoffer 2.; 29 September 1276 – 2 August 1332) was King of Denmark from 1320 to 1326 and again from 1329 until his death. He was a younger son of Eric V. His name is connected with national disaster, as his rule ended in a near-total dissolution of the Danish state."
-    ]
-   },
-   "records": [
-    "danish-magnates"
-   ],
-   "translated": "2026-10-26"
-  },
   "Cleomenean War": {
    "headline": "Kleomenova vojna",
    "paragraphs": [
@@ -20644,6 +20436,25 @@
    ],
    "translated": "2026-10-26"
   },
+  "Counts of Berga": {
+   "headline": "Grofje Berge",
+   "paragraphs": [
+    "Grofje Berge so bili fevdalni gospodje Berge, ene od katalonskih grofij, ki so jo leta 988 izločili iz Besalúja za mlajšega sina Olibe Cabrete. Vikonti Berge so mestu od začetka 10. stoletja, ko so vladali grofje Besalúja, vladali le po imenu."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Counts of Berga",
+    "rev": 1329258863,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The counts of Berga were the feudal lords of Berga, one of the Catalan counties created out of Besalú in 988 for a younger son of Oliba Cabreta. The viscounts of Berga ruled the city in name during the rule of the counts of Besalú from the early tenth century."
+    ]
+   },
+   "records": [
+    "county-of-berga"
+   ],
+   "translated": "2026-10-26"
+  },
   "County of Anjou": {
    "paragraphs": [
     "Grofija Anžu (latinsko: Andegavia) je bila francoska grofija, predhodnica Vojvodine Anžu. Glavno mesto je bil Angers, njeno ozemlje pa se je približno ujemalo s škofijo Angers. Anžu je na zahodu mejil na Bretanjo, na severu na Maine, na vzhodu na Touraine in na jugu na Poitou. Njen grof Godfrej iz 12. stoletja je ustvaril jedro poznejšega Anžujskega imperija. Pridevnik je anžujski (angevin), prebivalci Anžuja pa so Anžujci. Leta 1360 je bila grofija povzdignjena v Vojvodino Anžu v Kraljevini Franciji. Vojvodina je bila leta 1482 priključena francoski kraljevi domeni in je ostala provinca kraljestva do leta 1790."
@@ -20895,6 +20706,44 @@
     "county-of-pallars"
    ],
    "translated": "2026-10-23"
+  },
+  "County of Pallars Jussà": {
+   "headline": "Grofija Pallars Jussà",
+   "paragraphs": [
+    "Grofija Pallars Jussà ali Spodnji Pallars je bila grofija v Hispanski marki v 11. in 12. stoletju, dolgo potem, ko francoski kralji marke niso več dejansko upravljali. Nastala je z delitvijo grofije Pallars, ki je bila od konca 9. stoletja dejansko, morda pa tudi formalno, neodvisna. Približno se je ujemala z današnjo katalonsko comarco Pallars Jussà."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "County of Pallars Jussà",
+    "rev": 1329167605,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The County of Pallars Jussà or Lower Pallars was a county in the Hispanic March during the eleventh and twelfth centuries, long after the march had ceased to be effectively administered by the Kings of France. It was a division of the County of Pallars, which had been de facto, and possible de jure, independent since the late ninth century. It roughly corresponded with the modern Catalan comarca of Pallars Jussà."
+    ]
+   },
+   "records": [
+    "county-of-pallars-jussa"
+   ],
+   "translated": "2026-10-26"
+  },
+  "County of Pallars Sobirà": {
+   "headline": "Grofija Pallars Sobirà",
+   "paragraphs": [
+    "Grofija Pallars Sobirà ali (Pallás) Sobirá, kar pomeni Zgornji Pallars, je bila grofija v Hispanski marki v 11. in 12. stoletju, dolgo potem, ko francoski kralji marke niso več dejansko upravljali. Nastala je z delitvijo grofije Pallars, ki je bila od konca 9. stoletja dejansko, morda pa tudi formalno, neodvisna. Približno se je ujemala z današnjo katalonsko comarco Pallars Sobirà."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "County of Pallars Sobirà",
+    "rev": 1329350609,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The County of Pallars Sobirà or (Pallás) Sobirá, meaning Upper Pallars, was a county in the Hispanic Marches during the eleventh and twelfth centuries, long after the march had ceased to be effectively administered by the Kings of France. It was a division of the County of Pallars, which had been de facto, and possible de jure, independent since the late ninth century. It roughly corresponded with the modern Catalan comarca of Pallars Sobirà."
+    ]
+   },
+   "records": [
+    "county-of-pallars-sobira"
+   ],
+   "translated": "2026-10-26"
   },
   "County of Périgord": {
    "headline": "Grofija Périgord",
@@ -23719,27 +23568,6 @@
    ],
    "translated": "2026-10-23"
   },
-  "Frisia": {
-   "paragraphs": [
-    "Frizija je čezmejna kulturna pokrajina v severozahodni Evropi. Razteza se ob Vatskem morju in obsega sever Nizozemske ter dele severozahodne Nemčije. Širše opredelitve »Frizije« lahko vključujejo tudi otok Rømø in druge danske otoke Vatskega morja. Pokrajino tradicionalno naseljujejo Frizijci, zahodnogermanska etnična skupina."
-   ],
-   "notes": [
-    "A state record linked to the article on the modern cultural region; the data link is worth checking."
-   ],
-   "source": {
-    "wiki": "en",
-    "title": "Frisia",
-    "rev": 1376170657,
-    "retrieved": "2026-10-24",
-    "paragraphs": [
-     "Frisia is a cross-border cultural region in Northwestern Europe. Stretching along the Wadden Sea, it encompasses the north of the Netherlands and parts of northwestern Germany. Wider definitions of \"Frisia\" may include the island of Rømø and the other Danish Wadden Sea Islands. The region is traditionally inhabited by the Frisians, a West Germanic ethnic group."
-    ]
-   },
-   "records": [
-    "frisia-kingdom"
-   ],
-   "translated": "2026-10-24"
-  },
   "Frisian Kingdom": {
    "paragraphs": [
     "Frizijsko kraljestvo (zahodnofrizijsko: Fryske Keninkryk) je sodobno ime za porimsko frizijsko državo v zahodni Evropi v obdobju njenega največjega obsega (650–734). Tej oblasti so vladali kralji; nastala je sredi 7. stoletja in se verjetno končala z bitko na Boorni leta 734, ko je Frankovsko cesarstvo premagalo Frizijce. Ležala je predvsem na ozemlju današnje Nizozemske in je po nekaterih avtorjih iz 19. stoletja segala od Zwina pri Bruggeu v Belgiji do Wesra v Nemčiji. Središče moči je bilo mesto Utrecht.",
@@ -26224,6 +26052,25 @@
    ],
    "translated": "2026-10-23"
   },
+  "Kingdom of Strathclyde": {
+   "headline": "Kraljestvo Strathclyde",
+   "paragraphs": [
+    "Strathclyde (valižansko: Ystrad Clud, »dolina reke Clyde«), znan tudi kot Cumbria, je bil britonsko kraljestvo na severu Britanije v srednjem veku. Obsegal je dele današnje južne Škotske in severozahodne Anglije, pokrajine, ki so jo valižanska plemena imenovala Yr Hen Ogledd (»stari sever«). Na vrhuncu v 10. stoletju je segal od jezera Loch Lomond na severu do reke Eamont pri Penrithu na jugu. Kraljestvo je v 11. stoletju očitno priključilo gelsko govoreče kraljestvo Alba in postalo del nastajajočega Kraljestva Škotske."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kingdom of Strathclyde",
+    "rev": 1381466124,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "Strathclyde (Welsh: Ystrad Clud, 'Valley of the Clyde'), also known as Cumbria, was a Brittonic kingdom in northern Britain during the Middle Ages. It comprised parts of what is now southern Scotland and North West England, a region the Welsh tribes referred to as Yr Hen Ogledd ('the Old North'). At its greatest extent in the 10th century, it stretched from Loch Lomond in the north to the River Eamont at Penrith in the south. Strathclyde seems to have been annexed by the Goidelic-speaking Kingdom of Alba in the 11th century, becoming part of the emerging Kingdom of Scotland."
+    ]
+   },
+   "records": [
+    "strathclyde"
+   ],
+   "translated": "2026-10-26"
+  },
   "Kingdom of Sussex": {
    "paragraphs": [
     "Kraljestvo Južnih Sasov, danes imenovano Kraljestvo Sussex, je bilo zgodnjesrednjeveško angleško kraljestvo, eno od sedmih tradicionalnih kraljestev anglosaške Anglije. Na južni obali otoka Velika Britanija je bilo sprva saška kolonija iz 6. stoletja, pozneje pa samostojno kraljestvo.",
@@ -26747,28 +26594,6 @@
    },
    "records": [
     "Q1580896"
-   ],
-   "translated": "2026-10-26"
-  },
-  "Livonian language": {
-   "paragraphs": [
-    "Livonščina (livonsko: līvõ kēļ ali rāndakēļ) je baltskofinski jezik, ki je nastal na Livonski obali Riškega zaliva na severu polotoka Kurzeme v Latviji, nekoč pa so ga govorili tudi v dolini reke Salace. Zadnji znani materni govorec je sicer umrl leta 2013, vendar naj bi bila materna govorka livonščine deklica Kuldi Medne, rojena leta 2020; njena starša, Jānis Mednis in Renāte Medne, si prizadevata za oživitev jezika. Po poročilih okoli 40 ljudi livonščino govori kot drugi jezik, 210 pa jih jezik nekoliko pozna. Livonščino, ki je v tem med uralskimi jeziki morda edinstvena, podobno kot latvijščino in litovščino opisujejo kot jezik s tonskim naglasom (oziroma jezik z omejenim tonom)."
-   ],
-   "notes": [
-    "Zapis je na zemljevidu Livonska konfederacija (1422–1563), povezan pa je s člankom »Livonian language«; prevedeno je besedilo, kot stoji.",
-    "Izpuščena je napotitev »see below«, ki se nanaša na nadaljevanje članka."
-   ],
-   "source": {
-    "wiki": "en",
-    "title": "Livonian language",
-    "rev": 1381421887,
-    "retrieved": "2026-10-26",
-    "paragraphs": [
-     "Livonian (Livonian: līvõ kēļ or rāndakēļ) is a Finnic language that originated on the Livonian Coast of the Gulf of Riga, located in the north of the Kurzeme peninsula in Latvia but also used to be spoken in the Salaca River valley. Although its last known native speaker died in 2013, a child, Kuldi Medne, born in 2020, is reported to be a native speaker of Livonian. Her parents are Livonian language revival activists Jānis Mednis and Renāte Medne. Also, there are about 40 reported L2 speakers and 210 having reported some knowledge of the language. Possibly uniquely among the Uralic languages but similarly to Latvian and Lithuanian, Livonian has been described as a pitch-accent language (or restricted tone language, see below)."
-    ]
-   },
-   "records": [
-    "livonian-conference"
    ],
    "translated": "2026-10-26"
   },
@@ -27768,6 +27593,77 @@
    ],
    "translated": "2026-10-23"
   },
+  "Northern front of the Russian invasion of Ukraine#Operations in other northern regions": {
+   "paragraphs": [
+    "Kolona ruskih vojaških vozil je 24. februarja okoli 5.00 pri mejnem prehodu Bačivsk v Sumski oblasti prečkala državno mejo. Enote ukrajinske 58. motorizirane brigade so se z Rusi spopadle pred mestom Gluhiv in kolono ustavile. Ukrajinska vojska je trdila, da je kolono pred Gluhivom onesposobila s protitankovskimi izstrelki javelin, vendar je guverner Sumske oblasti 24. februarja ob 14.30 priznal, da ruske sile nadzorujejo vso avtocesto Kijev–Moskva v Sumski oblasti, vse do Baturina v Černigivski oblasti. Ker so ukrajinske sile pred Baturinom porušile most čez reko Sejm, so morale ruske sile do Kijeva po drugih poteh, z ovinkom prek Konotopa, Bahmača in Pliskega."
+   ],
+   "notes": [
+    "Razdelek o operacijah v drugih severnih oblasteh je skupen bitkam za Ohtirko, Trostjanec in Konotop, katerih zapisi so bili prej povezani s preusmeritvami na članek o severni fronti (data/sources/link-fixes.json)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Northern front of the Russian invasion of Ukraine",
+    "section": "Operations in other northern regions",
+    "rev": 1378818763,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "A column of Russian military vehicles crossed the international border at the Bachivsk [uk] checkpoint in the Sumy Oblast around 5:00 on 24 February. Units of Ukraine's 58th Motorized Brigade engaged the Russians outside the city of Hlukhiv, halting the column. The Ukrainian military claimed to have neutralized the column outside of Hlukhiv using Javelin anti-tank missiles, but by 14:30 on 24 February, the governor of the Sumy Oblast acknowledged that Russian forces were in control of the entire length of the Kyiv–Moscow highway in the Sumy Oblast, up until Baturyn in the Chernihiv Oblast. Due to the destruction of the bridge over the Seim River outside of Baturyn by Ukrainian forces, Russian forces were forced to use alternative routes to Kyiv, taking a detour through Konotop, Bakhmach, and Plysky."
+    ]
+   },
+   "records": [
+    "Q111018339",
+    "Q111032201",
+    "Q111032447"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Northern front of the Russian invasion of Ukraine#Russian advance on Kyiv": {
+   "paragraphs": [
+    "Rusija je 24. februarja 2022 zjutraj napadla Kijevsko oblast z topniškimi in raketnimi udari na več glavnih ciljev, med njimi na mednarodno letališče Borispil, glavno kijevsko letališče. Rusija je očitno nameravala Kijev hitro zavzeti: v mesto naj bi se vtihotapile enote specnaza, podprte z zračnodesantnimi operacijami in hitrim mehaniziranim prodorom s severa. Ruske zračnodesantne sile so skušale zavzeti dve ključni letališči pri Kijevu: najprej so izvedle zračni desant na letališče Antonov, 26. februarja pa podobno izkrcanje pri Vasilkivu, blizu letalskega oporišča Vasilkiv južno od Kijeva."
+   ],
+   "notes": [
+    "Zapis za bitko za Ivankiv je bil prej povezan s preusmeritvijo na članek o severni fronti; zdaj ga vodi razdelek o ruskem prodoru proti Kijevu (data/sources/link-fixes.json)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Northern front of the Russian invasion of Ukraine",
+    "section": "Russian advance on Kyiv",
+    "rev": 1378818763,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "On the morning of 24 February 2022, Russia initiated attacks on Kyiv Oblast with artillery and missile strikes on several primary targets, including Boryspil International Airport, Kyiv's primary airport. Russia apparently intended to rapidly seize Kyiv, with Spetsnaz infiltrating the city, supported by airborne operations and a rapid mechanised advance from the north. Russian Airborne Forces attempted to seize two key airfields near Kyiv, launching an airborne assault on Antonov Airport, followed by a similar landing at Vasylkiv, near Vasylkiv Air Base south of Kyiv, on 26 February."
+    ]
+   },
+   "records": [
+    "Q111014898"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Northern front of the Russian invasion of Ukraine#Vasylkiv": {
+   "paragraphs": [
+    "Po poročilih so ruski padalci 26. februarja 2022 začeli napad na Vasilkiv, 40 kilometrov južno od Kijeva, da bi zavzeli bližnje vojaško letalsko oporišče. Velika skupina ruskih padalskih enot naj bi kljub protiletalskemu ognju pristala pri Vasilkivu. Enote so nato prodrle proti mestu in se v hudih bojih spopadle z ukrajinsko 40. taktično letalsko brigado, ki jih je odbila. Županja Natalija Balasinovič je trdila, da je bilo v bojih ranjenih več kot 200 Ukrajincev. New York Times je navajal neimenovane ukrajinske uradnike, po katerih so bili vsaj nekateri napadalci speči agenti, ki so si mesec pred invazijo kupili stanovanja v mestu.",
+    "Pojavile so se trditve, da je ukrajinsko letalstvo sestrelilo dve ruski letali iljušin Il-76, ki sta prevažali jurišne čete. The Guardian pa poroča, da se »o dveh sestreljenih letalih ali o spustu padalcev pri Vasilkivu ni pojavil noben prepričljiv javni dokaz«. Ukrajinske enote teritorialne obrambe so preiskale gozdove in okolico, a ostankov letal niso našle."
+   ],
+   "notes": [
+    "Izpuščena je pretvorba v milje.",
+    "Zapis za bitko za Vasilkiv je zdaj povezan z razdelkom članka o severni fronti, na katerega je kazala preusmeritev (data/sources/link-fixes.json)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Northern front of the Russian invasion of Ukraine",
+    "section": "Vasylkiv",
+    "rev": 1378818763,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "It has been reported that, on 26 February 2022, Russian paratroopers began an assault on Vasylkiv, 40 kilometres (25 mi) south of Kyiv, to capture a military airbase nearby. A large group of Russian paratrooper units were alleged to have landed near Vasylkiv, despite anti-aircraft fire. The units then advanced to the city and were involved in heavy fighting with the Ukrainian 40th Tactical Aviation Brigade, and were repulsed. The city's mayor, Natalia Balasinovich, claimed over 200 Ukrainians were injured during the fight. The New York Times cited reports by unnamed Ukrainian officials, that at least part of the attackers were sleeper agents who had bought apartments in the city the month before the invasion.",
+     "Claims have been made that Ukrainian aircraft shot down two Russian Ilyushin Il-76 aircraft transporting assault troops. However, The Guardian reports \"no convincing public evidence has surfaced about the two downed planes, or about a drop of paratroopers in Vasylkiv\". Ukrainian territorial defense units combed the woods and surrounding countryside and found no plane wreckage."
+    ]
+   },
+   "records": [
+    "Q111018336"
+   ],
+   "translated": "2026-10-26"
+  },
   "Northern Seven Years' War": {
    "headline": "Severna sedemletna vojna",
    "paragraphs": [
@@ -28184,54 +28080,6 @@
     "Q2982703"
    ],
    "translated": "2026-10-24"
-  },
-  "Pallars Jussà": {
-   "paragraphs": [
-    "Pallars Jussà je comarca (okraj) v pokrajini Alt Pirineu v Kataloniji v Španiji. Kot comarca je bila ustanovljena leta 1936 iz dela stare grofije Pallars. Ime je arhaizem in pomeni »spodnji Pallars«; severovzhodno od nje, v gorah, leži Pallars Sobirà. Glavno mesto in največja občina je Tremp."
-   ],
-   "notes": [
-    "The Catalan pronunciation in IPA is dropped.",
-    "The record is a medieval state, but its link points to the article on the modern comarca; the data link is worth checking."
-   ],
-   "source": {
-    "wiki": "en",
-    "title": "Pallars Jussà",
-    "rev": 1377348469,
-    "retrieved": "2026-10-23",
-    "paragraphs": [
-     "Pallars Jussà (Western Catalan: [paˈʎa(ɾ)z ʒuˈsa]) is a comarca (county) in Alt Pirineu, Catalonia, Spain. It was established as a comarca in 1936, out of the old county of Pallars. The name is an archaism meaning \"Lower Pallars\"; to the northeast and into the mountains is Pallars Sobirà. Its capital and largest municipality is Tremp."
-    ]
-   },
-   "records": [
-    "county-of-pallars-jussa"
-   ],
-   "translated": "2026-10-23"
-  },
-  "Pallars Sobirà": {
-   "paragraphs": [
-    "Pallars Sobirà je comarca (okraj) v severozahodnem delu pokrajine Alt Pirineu v Kataloniji v Španiji. Ime pomeni »zgornji Pallars« in jo loči od bolj naseljene (in manj gorate) comarce Pallars Jussà na jugozahodu. Glavno mesto in največja občina je Sort.",
-    "Pallars Sobirà leži v osrednjih Pirenejih in se razteza od juga proti severu, od soteske Collegats do vasi Alós d'Isil, ob toku reke Noguera Pallaresa. Po površini je četrta največja comarca v Kataloniji in ima eno najnižjih gostot prebivalstva v državi, okoli 5,1 prebivalca na km². Skupaj ima približno 7000 prebivalcev.",
-    "V Pallars Sobirà ležita največje jezero v Pirenejih, jezero Certascan, in najvišji vrh Katalonije, Pica d'Estats (3143 m)."
-   ],
-   "notes": [
-    "The Catalan pronunciation in IPA is dropped.",
-    "The record is a medieval state, but its link points to the article on the modern comarca; the data link is worth checking."
-   ],
-   "source": {
-    "wiki": "en",
-    "title": "Pallars Sobirà",
-    "rev": 1377348475,
-    "retrieved": "2026-10-23",
-    "paragraphs": [
-     "Pallars Sobirà (Western Catalan: [paˈʎa(ɾ)s soβiˈɾa]) is a comarca (county) in the northwest region of Alt Pirineu, in Catalonia, Spain. The name means \"Upper Pallars\", distinguishing it from the more populous (and less mountainous) Pallars Jussà to its southwest. Its capital and largest municipality is Sort.",
-     "Located in the central Pyrenees, Pallars Sobirà stretches from south to north, starting at the gorge of Collegats to the village of Alós d'Isil, following the course of the river Noguera Pallaresa. It is the fourth biggest comarca in Catalonia in terms of surface area, and has one of the lowest densities of population in the country, about 5.1 inhabitants per km². All together, it has approximately 7,000 inhabitants.",
-     "Pallars Sobirà contains the largest lake in the Pyrenees, the lake of Certascan, and the highest peak in Catalonia, the Pica d'Estats (3,143 m)."
-    ]
-   },
-   "records": [
-    "county-of-pallars-sobira"
-   ],
-   "translated": "2026-10-23"
   },
   "Paris Agreement": {
    "paragraphs": [
@@ -33964,29 +33812,6 @@
    ],
    "translated": "2026-10-26"
   },
-  "Strathclyde": {
-   "headline": "Strathclyde",
-   "paragraphs": [
-    "Strathclyde (gelsko: Srath Chluaidh, »dolina reke Clyde«) je bila ena od devetih nekdanjih lokalnih upravnih regij Škotske. Ustanovljena je bila leta 1975 na podlagi zakona o lokalni upravi na Škotskem iz leta 1973 in odpravljena leta 1996 na podlagi zakona o lokalni upravi na Škotskem iz leta 1994. Regija Strathclyde je imela 19 okrožij. Ime je dobila po zgodnjesrednjeveškem Kraljestvu Strathclyde s središčem v Govanu, a je obsegala širše območje od svoje soimenjakinje, saj je poleg jugozahodnega jedra vključevala še Argyll in različne zahodne otoke."
-   ],
-   "notes": [
-    "The Gaelic pronunciation in IPA is dropped.",
-    "The record is the medieval Kingdom of Strathclyde, but its link points to the article on the modern local government region; the data link is worth checking."
-   ],
-   "source": {
-    "wiki": "en",
-    "title": "Strathclyde",
-    "rev": 1376152329,
-    "retrieved": "2026-10-23",
-    "paragraphs": [
-     "Strathclyde (Srath Chluaidh [s̪t̪ɾa ˈxl̪ˠɯi] in Gaelic, meaning 'strath [valley] of the River Clyde') was one of nine former local government regions of Scotland created in 1975 by the Local Government (Scotland) Act 1973 and abolished in 1996 by the Local Government etc. (Scotland) Act 1994. The Strathclyde region had 19 districts. The region was named after the early medieval Kingdom of Strathclyde centred on Govan, but covered a broader geographic area than its namesake by including Argyll and various Western islands in addition to its Southwestern core."
-    ]
-   },
-   "records": [
-    "strathclyde"
-   ],
-   "translated": "2026-10-23"
-  },
   "Supplementary Convention on the Abolition of Slavery": {
    "headline": "Dopolnilna konvencija o odpravi suženjstva",
    "paragraphs": [
@@ -34613,6 +34438,32 @@
     "Q1050440"
    ],
    "translated": "2026-10-24"
+  },
+  "Terra Mariana#Livonian Confederation": {
+   "paragraphs": [
+    "Tevtonski red je zašel v zaton, potem ko sta ga Poljska in Litva leta 1410 porazili v bitki pri Grunwaldu. Livonski red je ohranil samostojnost, saj se bitke ni udeležil in ni utrpel izgub, ker je z velikim knezom Vitovtom sklenil premirje.",
+    "Papež Martin V. je leta 1418 za rižkega nadškofa imenoval Johannesa Ambundiija, ki je postal znan kot organizator livonske konfederacije.",
+    "Med redom, škofi in mogočnimi hanzeatskimi mesti so v vsem obdobju srednjeveške Livonije pogosto izbruhali spori. Da bi notranje spore razreševali, se je na pobudo nadškofa Ambundiija leta 1419 prvič sestal livonski deželni zbor (Landtag), za njegov sedež pa so izbrali mesto Walk. V zboru so bili predstavniki Livonskega reda, livonskih škofov, vazalov in mest."
+   ],
+   "notes": [
+    "Zapis za Livonsko konfederacijo je bil prej povezan s člankom o livonščini; zdaj ga vodi razdelek članka Terra Mariana (data/sources/link-fixes.json)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Terra Mariana",
+    "section": "Livonian Confederation",
+    "rev": 1376232329,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Teutonic Order fell into decline after Poland and Lithuania defeated it in the Battle of Grunwald in 1410. The Livonian Order managed to maintain an independent existence, as it did not participate in the battle and suffered no casualties, having obtained a truce with Grand Duke Vytautas.",
+     "In 1418, Pope Martin V nominated Johannes Ambundii to the position of Archbishop of Riga. He became known as the organizer of the Livonian confederation.",
+     "Conflict commonly occurred between the Order, the bishops, and the powerful Hanseatic cities throughout the existence of medieval Livonia. To solve internal disputes, the Livonian Diet or Landtag gathered in 1419 at the initiative of Archbishop Ambundii. The city of Walk was chosen as the site of the Diet. The Diet comprised members of the Livonian Order, Livonian Bishops, vassals and city representatives."
+    ]
+   },
+   "records": [
+    "livonian-conference"
+   ],
+   "translated": "2026-10-26"
   },
   "Testament of Bolesław III Wrymouth": {
    "headline": "Oporoka Boleslava III. Krivoustega",

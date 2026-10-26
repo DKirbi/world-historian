@@ -12,8 +12,9 @@ What it flags:
   no-source       worklist units with no English text to translate (no article, another Wikipedia only)
   own-article     worklist units that have since got an article in <lang>; the drawer reads it live, so
                   they need the <lang> snapshot of the stored-stories track, not a translation
-  wrong-article   translated units whose record links to the wrong English article (a disambiguation page,
-                  the modern place, a person); retranslate once the link is fixed
+  wrong-article   translated units whose record links to the wrong English article and has no better one
+                  ("unresolved" in data/sources/link-fixes.json), or whose translator flagged a wrong link that
+                  link-fixes.json does not handle yet
   section-eras    eras read by a section heading that only resembles their name (sectionLike); they have no
                   translation key, so the drawer shows the English section in every language
   wikidata-only   records linked by Wikidata alone; no English title, so nothing in the worklist
@@ -43,36 +44,21 @@ NO_SOURCE = {
     "Uryankhay Republic": "The English article the record links to does not exist.",
     "Cambodia Middle Period": "No English article.",
     "id.wikipedia.org/wiki/Kesultanan_Sambaliung": "Linked to the Indonesian Wikipedia only.",
-    "Battle of Konotop (2022)": "The English article no longer exists.",
 }
+# Worklist units the fetch tool's language-link check found to have an article in <lang> after the names
+# snapshot was taken (fetch_translation_sources.py prints them as "already in <lang>").
 OWN_ARTICLE = {
     "Mississippian culture", "Early Dynastic Period (Egypt)", "Western Liang (555–587)",
     "Minsk II", "Sulla's first civil war",
+    # after the link fixes of 26 October 2026 (data/sources/link-fixes.json)
+    "Georgia (country)", "Duchy of Estonia (1219–1346)", "Later Han (Five Dynasties)", "Yang Wu",
+    "Angles (tribe)", "Thuringi",
 }
-# Records linked to the wrong English article, found while translating (see data/README.md, Changes).
-WRONG_ARTICLE = {
-    "Battle of Ivankiv": "Redirects to the northern front of the 2022 invasion.",
-    "Battle of Okhtyrka": "Redirects to the northern front of the 2022 invasion.",
-    "Battle of Trostianets": "Redirects to the northern front of the 2022 invasion.",
-    "Battle of Vasylkiv": "Redirects to a section of the northern front article; the fetch tool can now take that section.",
-    "Battle of Kreminna": "Redirects to the Battle of Donbas (2022).",
-    "Portuguese Africa": "Disambiguation page.",
-    "Zululand": "Disambiguation page.",
-    "Omanis": "The article on the people, for the Omani slave coast.",
-    "Kastamonu": "The modern city.",
-    "Berga": "The modern town, for the medieval county.",
-    "Pallars Jussà": "The modern comarca, for the medieval county.",
-    "Pallars Sobirà": "The modern comarca, for the medieval county.",
-    "Strathclyde": "The modern council area, for the medieval kingdom.",
-    "Earl of Desmond": "The title, for the earldom.",
-    "Angevin": "Disambiguation page.",
-    "Angles": "Disambiguation page.",
-    "Bretons": "The article on the people, for the Breton kingdoms.",
-    "Frisia": "The modern region, for the Frisian kingdom.",
-    "Basina of Thuringia": "A person, for the Kingdom of Thuringia.",
-    "Free City of Frankfurt": "The earlier imperial city.",
-    "Duchy of Wrocław": "Redirects to the Duchy of Silesia.",
-}
+# Records linked to the wrong English article: data/sources/link-fixes.json corrects what has a better
+# article ("polities", "events"), accepts a few ("accepted") and lists the rest ("unresolved").
+LINKS = json.load(open(os.path.join("data", "sources", "link-fixes.json"), encoding="utf-8"))
+UNRESOLVED = LINKS.get("unresolved", {})
+HANDLED = set(LINKS.get("polities", {})) | set(LINKS.get("events", {})) | set(LINKS.get("accepted", {}))
 # Notes written while translating that say the same (Slovenian wording of the drafts).
 WRONG_NOTE = re.compile(r"razločitven|povezan (pa )?je s člankom|je povezan s člankom", re.I)
 
@@ -114,11 +100,20 @@ for w in worklist:
     else:
         later["no-source"].append({**entry, "why": NO_SOURCE.get(w["title"], "Not translated yet.")})
 
+def wrong(unit):
+    """Why a translated unit describes the wrong thing, or None."""
+    recs = unit.get("records", [])
+    open_ = [UNRESOLVED[r] for r in recs if r in UNRESOLVED]
+    if open_:
+        return " ".join(open_)
+    if any(r in HANDLED for r in recs):
+        return None
+    note = next((n for n in unit.get("notes", []) if WRONG_NOTE.search(n)), None)
+    return note and f"Translator's note (not yet in link-fixes.json): {note}"
+
+
 for title, (region, unit) in sorted(units.items()):
-    why = WRONG_ARTICLE.get(title)
-    if not why:
-        note = next((n for n in unit.get("notes", []) if WRONG_NOTE.search(n)), None)
-        why = note and f"Translator's note: {note}"
+    why = wrong(unit)
     if why:
         later["wrong-article"].append({"tag": TAG, "title": title, "region": region, "records": unit.get("records", []),
                                        "source": unit["source"]["title"], "why": why})
@@ -127,7 +122,7 @@ for title, (region, unit) in sorted(units.items()):
 seeds = {}
 for title, (region, unit) in units.items():
     recs = unit.get("records", [])
-    if unit.get("headline") and len(recs) == 1 and title not in WRONG_ARTICLE and not any(WRONG_NOTE.search(n) for n in unit.get("notes", [])):
+    if unit.get("headline") and len(recs) == 1 and not wrong(unit) and not any(WRONG_NOTE.search(n) for n in unit.get("notes", [])):
         seeds[recs[0]] = unit["headline"]
 
 names = load(os.path.join("src", "i18n", "names", f"{lang}.json"))
