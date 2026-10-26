@@ -173,6 +173,7 @@ def strip_tags(html):
 
 sources = {}
 # 2a. introductions
+to_section = {}
 intros = [u for u in units if not u.get("section") and u["title"] not in in_lang]
 for chunk in chunks([u["title"] for u in intros], 20):
     params = {"action": "query", "titles": "|".join(chunk), "prop": "extracts|info", "exintro": 1, "explaintext": 1,
@@ -181,8 +182,13 @@ for chunk in chunks([u["title"] for u in intros], 20):
         body = wp._get(params)
         q = body.get("query", {})
         asked = resolve(q, chunk)
+        # a title that redirects to a section of another article ("Pre-Roman Iron Age" →
+        # "Archaeology of Northern Europe#Pre-Roman Iron Age") is that section, not the target's introduction
+        for r in q.get("redirects", []):
+            if r.get("tofragment") and r["from"] in chunk:
+                to_section[r["from"]] = (r["to"], r["tofragment"])
         for page in q.get("pages", []):
-            if page.get("missing") or "extract" not in page:
+            if page.get("missing") or "extract" not in page or asked[page["title"]] in to_section:
                 continue
             sources[asked[page["title"]]] = {"article": page["title"], "rev": page.get("lastrevid"), "url": page.get("fullurl"),
                                              "paragraphs": excerpt(clean(page["extract"]))}
@@ -190,10 +196,10 @@ for chunk in chunks([u["title"] for u in intros], 20):
             break
         params = {**params, **body["continue"]}
 
-# 2b. sections
-for u in [u for u in units if u.get("section")]:
-    s = wp._get({"action": "parse", "page": u["title"], "prop": "sections", "redirects": 1}).get("parse", {})
-    want = norm(u["section"])
+# 2b. sections: an era that is a section of a longer article, and a title that redirects to a section
+def fetch_section(title, section):
+    s = wp._get({"action": "parse", "page": title, "prop": "sections", "redirects": 1}).get("parse", {})
+    want = norm(section)
     # the exact heading, else the same period whose dates in brackets were edited since the data was built
     # ("Early Woodland period (1000–1 BCE)" → "Early Woodland period (1000–200 BCE)"), as fetchSection does
     stem = re.sub(r"\s*\(.*$", "", want)
@@ -201,16 +207,26 @@ for u in [u for u in units if u.get("section")]:
                   if norm(x["anchor"].replace("_", " ")) == want or norm(strip_tags(x["line"])) == want), None) or \
         next((x for x in s.get("sections", []) if re.sub(r"\s*\(.*$", "", norm(strip_tags(x["line"]))) == stem), None)
     if not found:
-        continue
+        return None
     p = wp._get({"action": "parse", "page": s["title"], "section": found["index"], "prop": "text|revid",
                  "disableeditsection": 1, "disabletoc": 1}).get("parse", {})
     html = p.get("text", "")
     html = html.get("*", "") if isinstance(html, dict) else html
     parser = Paragraphs()
     parser.feed(html)
-    sources[key(u)] = {"article": s["title"], "section": strip_tags(found["line"]), "rev": p.get("revid") or s.get("revid"),
-                       "url": "https://en.wikipedia.org/wiki/" + s["title"].replace(" ", "_") + "#" + found["anchor"],
-                       "paragraphs": excerpt(parser.out)}
+    return {"article": s["title"], "section": strip_tags(found["line"]), "rev": p.get("revid") or s.get("revid"),
+            "url": "https://en.wikipedia.org/wiki/" + s["title"].replace(" ", "_") + "#" + found["anchor"],
+            "paragraphs": excerpt(parser.out)}
+
+
+for u in [u for u in units if u.get("section")]:
+    got = fetch_section(u["title"], u["section"])
+    if got:
+        sources[key(u)] = got
+for asked_title, (target, fragment) in to_section.items():
+    got = fetch_section(target, fragment)
+    if got:
+        sources[asked_title] = got
 
 by_key = {key(u): u for u in units}
 path = os.path.join(base, "_sources", f"{region}.json")
