@@ -3211,7 +3211,7 @@
   "First Anglo-Maratha War": {
    "headline": "Prva angleško-marathska vojna",
    "paragraphs": [
-    "Prva angleško-marathska vojna (1775–1782) je bila prvi spopad med britansko Vzhodnoindijsko družbo in Marathskim imperijem v Indiji. Vojna, ki se je bila med Suratom in Puno, se je začela s suratsko pogodbo leta 1775, potem ko je Vzhodnoindijska družba privolila, da bo podprla zahtevo nedavno odstavljenega Raghunathraa po položaju pešve Marathskega imperija. Sledilo je več let občasnih in večinoma neodločenih pohodov, v katerih Vzhodnoindijska družba zelo gibljivih Marathov ni uspela odločilno poraziti. Vojna se je končala leta 1782 s pogodbo iz Salbaija. Po njej sta si strani vrnili zavzeta ozemlja, Britanci pa so umaknili podporo Raghunathrau. Britanci in Marathi so se znova spopadli šele 20 let pozneje v drugi angleško-marathski vojni."
+    "Prva angleško-marathska vojna (1775–1782) je bila prvi spopad med britansko Vzhodnoindijsko družbo in Marathskim imperijem v Indiji. Vojna, ki se je bila med Suratom in Puno, se je začela s suratsko pogodbo leta 1775, potem ko je Vzhodnoindijska družba privolila, da bo podprla zahtevo nedavno odstavljenega Raghunathraa po položaju pešve Marathskega imperija. Sledilo je več let občasnih in večinoma neodločenih pohodov, v katerih Vzhodnoindijska družba zelo gibljivih Marathov ni uspela odločilno poraziti. Vojna se je končala leta 1782 z mirom v Salbaiju. Po njej sta si strani vrnili zavzeta ozemlja, Britanci pa so umaknili podporo Raghunathrau. Britanci in Marathi so se znova spopadli šele 20 let pozneje v drugi angleško-marathski vojni."
    ],
    "source": {
     "wiki": "en",
@@ -6523,6 +6523,27 @@
    ],
    "translated": "2026-10-26"
   },
+  "Republican insurgency in Afghanistan": {
+   "headline": "Republikansko uporništvo v Afganistanu",
+   "paragraphs": [
+    "Republikansko uporništvo v Afganistanu je trajajoč spopad, ki ga oborožene frakcije, zveste nekdanji Islamski republiki Afganistan, bijejo proti Islamskemu emiratu Afganistan pod vodstvom talibanov. Spopad se je začel takoj po padcu Kabula avgusta 2021, uporništvo pa je nadaljevanje desetletja dolgega afganistanskega konflikta. Uporništvo vodijo predvsem nekdanji pripadniki varnostnih sil afganistanske vlade, krajevne milice ter politične in vojaške organizacije, ki hočejo nasprotovati talibanski oblasti ali jo strmoglaviti.",
+    "Glavni protitalibanski organizaciji v uporništvu sta Narodna fronta odpora Afganistana (NRF) in Fronta svobode Afganistana (AFF), poleg njiju pa še več manjših skupin odpora in krajevnih milic. Boji potekajo v več delih Afganistana, zlasti na severu in severovzhodu, med drugim v provincah Pandžšir, Baglan, Badahšan, Tahar in Kunduz, pa tudi v Kabulu in okolici."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Republican insurgency in Afghanistan",
+    "rev": 1381951236,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Republican insurgency in Afghanistan is an ongoing conflict waged by armed factions loyal to the defunct Islamic Republic of Afghanistan against the Taliban-led Islamic Emirate of Afghanistan. The conflict started immediately following the fall of Kabul in August 2021, and the insurgency represents the continuation of the decades-long Afghan conflict. The insurgency is primarily conducted by former Afghan government security personnel, local militias, and political and military organizations seeking to oppose or overturn Taliban rule.",
+     "The principal anti-Taliban organizations involved in the insurgency include the National Resistance Front of Afghanistan (NRF) and the Afghanistan Freedom Front (AFF), alongside a number of smaller resistance groups and local militias. Fighting has occurred in several parts of Afghanistan, particularly in the north and northeast, including Panjshir, Baghlan, Badakhshan, Takhar and Kunduz provinces, as well as in and around Kabul."
+    ]
+   },
+   "records": [
+    "Q108137226"
+   ],
+   "translated": "2026-10-26"
+  },
   "Revolution in the Kingdom of Poland": {
    "headline": "Revolucija v Kraljevini Poljski",
    "paragraphs": [
@@ -6542,6 +6563,24 @@
    },
    "records": [
     "Q7318712"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Rohingya conflict": {
+   "paragraphs": [
+    "Vstaja Rohingov v zahodnem Mjanmaru oziroma konflikt z Rohingi je trajajoč spopad na severu zvezne države Rakhine v Mjanmaru (nekdaj Arakan v Burmi), ki ga zaznamujejo versko nasilje med muslimansko skupnostjo Rohingov in budistično skupnostjo Rakhincev, to, da mjanmarske varnostne sile vojaško zatirajo rohinške civiliste, in oboroženi napadi rohinških upornikov v okrožjih Buthidaung, Maungdaw in Rathedaung ob meji z Bangladešem."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Rohingya conflict",
+    "rev": 1370728671,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Rohingya conflict is an ongoing conflict in the northern part of Rakhine State, Myanmar (formerly known as Arakan, Burma), characterised by sectarian violence between the Rohingya Muslim and Rakhine Buddhist communities, a military crackdown on Rohingya civilians by Myanmar's security forces, and militant attacks by Rohingya insurgents in Buthidaung, Maungdaw, and Rathedaung Townships, which border Bangladesh."
+    ]
+   },
+   "records": [
+    "Q7359741"
    ],
    "translated": "2026-10-26"
   },
@@ -6586,6 +6625,30 @@
    ],
    "translated": "2026-10-26"
   },
+  "Santhal rebellion": {
+   "headline": "Santalski upor",
+   "paragraphs": [
+    "Santalski upor, znan tudi kot Santal Hul, je bil upor Santalov proti Vzhodnoindijski družbi (EIC) in zamindarskemu sistemu na območju današnjega Džarkhanda. Začel se je 30. junija 1855, 10. novembra 1855 pa je Vzhodnoindijska družba razglasila vojno stanje, ki je trajalo do 3. januarja 1856, ko so ga preklicali; vojske prezidentur so upor nazadnje zatrle. Veljal je za najpomembnejše oboroženo gibanje odpora proti vladavini družbe pred indijskim uporom leta 1857.",
+    "Upor so vodili štirje bratje, Sidhu, Kanhu, Čand in Bhairav, ki je bil glavni voditelj santalskega plemena, ter njune sestri Phoolo in Džhano, ki sta v boju padli."
+   ],
+   "notes": [
+    "Vir na tem mestu zapleteno navaja vodjo plemena (»who was the main leader«); prevedeno je, kot stoji."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Santhal rebellion",
+    "rev": 1381355288,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Santhal Rebellion, also known as the Santhal Hool, was a rebellion in present-day Jharkhand against the East India Company (EIC) and zamindari system by the Santals. It started on 30 June 1855, and on 10 November 1855, martial law was proclaimed by the East India Company which lasted until 3 January 1856, when martial law was suspended and the rebellion was eventually suppressed by the presidency armies. It was considered the most significant armed resistance movement against Company rule prior to the Indian Rebellion of 1857.",
+     "The rebellion was led by the four sibling brothers, Sidhu, Kanhu, Chand and Bhairav, who was the main leader of the Santhal Tribe, and their two sisters Phoolo and Jhano, who were killed in the cause."
+    ]
+   },
+   "records": [
+    "Q185263"
+   ],
+   "translated": "2026-10-26"
+  },
   "Satavahana dynasty": {
    "paragraphs": [
     "Satavahane (Sādavāhana ali Sātavāhana), v puranah imenovani tudi Andhre (tudi Andhra-bhṛtja ali Andhra-džatija), so bili starodavna indijska dinastija. Večina sodobnih raziskovalcev meni, da se je satavahanska vladavina začela konec 2. stoletja pr. n. št. in trajala do začetka 3. stoletja n. št., nekateri pa njen začetek na podlagi puran postavljajo že v 3. stoletje pr. n. št., česar arheološki dokazi ne potrjujejo. Satavahansko kraljestvo je obsegalo predvsem današnje zvezne države Andhra Pradeš, Telangana in Maharaštra. V različnih obdobjih je njihova oblast segala tudi v dele današnjega Gudžarata, Madhja Pradeša in Karnatake. Dinastija je imela v različnih obdobjih različne prestolnice, med njimi Pratišthano (Paithan) in Amaravati (Dharanikota)."
@@ -6607,6 +6670,25 @@
    ],
    "translated": "2026-10-26"
   },
+  "Saur Revolution": {
+   "headline": "Saurska revolucija",
+   "paragraphs": [
+    "Saurska revolucija, znana tudi kot aprilska revolucija ali aprilski udar, je bila nasilen državni udar in vstaja, ki ju je 27. in 28. aprila 1978 izvedla Ljudska demokratična stranka Afganistana (PDPA) in z njima strmoglavila afganistanskega predsednika Mohameda Dauda kana, ki je sam prišel na oblast z državnim udarom leta 1973 in v državi vzpostavil avtokratski enopartijski sistem. Dauda in večino njegove družine so v predsedniški palači Arg v prestolnici Kabul usmrtili halkistični častniki (iz frakcije PDPA), nato pa so očistili in pobili tudi njegove privržence. Uspešna vstaja PDPA je pripeljala do socialistične afganistanske vlade, tesno povezane s Sovjetsko zvezo, generalni sekretar PDPA in vodja revolucionarnega sveta pa je postal Nur Mohamed Taraki. Saur (tudi Sowr) je darijsko ime drugega meseca sončnega hidžrskega koledarja, v katerem so se dogodki zgodili."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Saur Revolution",
+    "rev": 1381923276,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Saur Revolution, also known as the April Revolution or the April Coup, was a violent coup d'état and uprising staged on 27 and 28 April 1978 by the People's Democratic Party of Afghanistan (PDPA), which overthrew Afghan president Mohammad Daoud Khan, who had himself taken power in the 1973 Afghan coup d'état and established an autocratic one-party system in the country. Daoud and most of his family were executed at the Arg presidential palace in the capital city of Kabul by Khalqist (a PDPA faction) military officers, after which his supporters were also purged and killed. The successful PDPA uprising resulted in the creation of a socialist Afghan government that was closely aligned with the Soviet Union, with Nur Muhammad Taraki serving as the PDPA's General Secretary of the Revolutionary Council. Saur (also rendered Sowr) is the Dari-language name for the second month of the Solar Hijri calendar, during which the events took place."
+    ]
+   },
+   "records": [
+    "Q1341539"
+   ],
+   "translated": "2026-10-26"
+  },
   "Sayyid dynasty": {
    "headline": "Dinastija Sajid",
    "paragraphs": [
@@ -6623,6 +6705,132 @@
    },
    "records": [
     "sayyid-dynasty"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Second Anglo-Afghan War": {
+   "paragraphs": [
+    "Druga angleško-afganistanska vojna je bila vojaški spopad med Britansko Indijo in Afganistanskim emiratom od leta 1878 do 1880, ko je emiratu vladal Šer Ali kan iz dinastije Barakzaj, sin nekdanjega emirja Dosta Mohameda kana. Vojna je bila del velike igre med Britanskim in Ruskim imperijem.",
+    "Vojna je potekala v dveh pohodih: prvi se je začel novembra 1878 z britansko invazijo na Afganistan iz Indije. Šer Ali kan se je odločil zapustiti Kabul, da bi poiskal politično in vojaško pomoč pri Ruskem imperiju, a je umrl v Mazar-i-Šarifu na poti k ruski meji, prestol pa je prepustil sinu Mohamedu Jakubu kanu. Alijev naslednik Jakub je takoj zaprosil za mir in 26. maja 1879 so podpisali mir v Gandamaku. Britanci so v Kabul poslali odposlanca in misijo pod vodstvom sira Louisa Cavagnarija, ki pa so jo 3. septembra pobili, spopad pa je znova razplamtel Ajub kan, kar je privedlo do abdikacije njegovega brata Jakuba."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Second Anglo-Afghan War",
+    "rev": 1380690892,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Second Anglo-Afghan War was a military conflict fought between the British Raj and the Emirate of Afghanistan from 1878 to 1880, when the latter was ruled by Sher Ali Khan of the Barakzai dynasty, the son of former Emir Dost Mohammad Khan. The war was part of the Great Game between the British and Russian empires.",
+     "The war was split into two campaigns – the first began in November 1878 with the British invasion of Afghanistan from India. Sher Ali Khan opted to leave Kabul in order to seek political and military aid from the Russian Empire, and died in Mazar-e Sharif trying to reach the Russian border, leaving the throne to his son Mohammad Yaqub Khan. Ali's successor Yaqub immediately sued for peace and the Treaty of Gandamak was then signed on 26 May 1879. The British sent an envoy and mission led by Sir Louis Cavagnari to Kabul, but on 3 September this mission was massacred and the conflict was reignited by Ayub Khan which led to the abdication of his brother Yaqub."
+    ]
+   },
+   "records": [
+    "Q233507"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Second Anglo-Burmese War": {
+   "headline": "Druga angleško-burmanska vojna",
+   "paragraphs": [
+    "Druga angleško-burmanska vojna ali druga burmanska vojna (burmansko: ဒုတိယအင်္ဂလိပ်-မြန်မာစစ်; 5. april 1852 – 20. januar 1853) je bila druga od treh vojn med Burmanskim in Britanskim imperijem v 19. stoletju. Končala se je z britansko zmago, Britanska Indija pa si je priključila še več burmanskega ozemlja."
+   ],
+   "notes": [
+    "Izpuščena je izgovarjava (IPA)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Second Anglo-Burmese War",
+    "rev": 1370787401,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Second Anglo-Burmese War or the Second Burma War (Burmese: ဒုတိယအင်္ဂလိပ်-မြန်မာစစ် [dṵtḭja̰ ɪ́ɰ̃ɡəleɪʔ mjəmà sɪʔ]; 5 April 1852 – 20 January 1853) was the second of the three wars fought between the Burmese Empire and British Empire during the 19th century. The war resulted in a British victory with more Burmese territory being annexed to British India."
+    ]
+   },
+   "records": [
+    "Q233500"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Second Anglo-Mysore War": {
+   "paragraphs": [
+    "Druga angleško-misorska vojna je bila spopad med Misorskim kraljestvom in britansko Vzhodnoindijsko družbo od leta 1780 do 1784. Misor je bil tedaj ključni francoski zaveznik v Indiji, na angleško-misorske sovražnosti v Indiji pa je vplival spopad Velike Britanije s Francozi in Nizozemci v ameriški vojni za neodvisnost. Veliko večino vojakov na strani družbe je družba novačila, urila, plačevala in jim poveljevala sama, ne britanska vlada. Delovanje družbe pa so okrepile tudi kraljeve čete, poslane iz Velike Britanije, in čete iz Hannovra, ki mu je prav tako vladal britanski kralj Jurij III."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Second Anglo-Mysore War",
+    "rev": 1381346601,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Second Anglo-Mysore War was a conflict between the Kingdom of Mysore and the British East India Company from 1780 to 1784. At the time, Mysore was a key French ally in India, and the conflict between Britain against the French and Dutch in the American Revolutionary War influenced Anglo-Mysorean hostilities in India. The great majority of soldiers on the company side were raised, trained, paid and commanded by the company, not the British government. However, the company's operations were also bolstered by Crown troops sent from Great Britain, and by troops from Hanover, which was also ruled by Great Britain's King George III."
+    ]
+   },
+   "records": [
+    "Q233663"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Second Anglo-Sikh War": {
+   "headline": "Druga angleško-sikhovska vojna",
+   "paragraphs": [
+    "Druga angleško-sikhovska vojna je bila vojaški spopad med Sikhovskim imperijem in Vzhodnoindijsko družbo, ki je potekal od leta 1848 do 1849. Končala se je s padcem Sikhovskega imperija in s tem, da si je Vzhodnoindijska družba priključila Pandžab in poznejšo Severozahodno obmejno provinco."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Second Anglo-Sikh War",
+    "rev": 1380520880,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Second Anglo-Sikh War was a military conflict fought between the Sikh Empire and the East India Company, which took place from 1848 to 1849. It resulted in the fall of the Sikh Empire, and the annexation of the Punjab and what subsequently became the North-West Frontier Province, by the East India Company."
+    ]
+   },
+   "records": [
+    "Q243590"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Second Battle of Panipat": {
+   "headline": "Druga bitka pri Panipatu",
+   "paragraphs": [
+    "Druga bitka pri Panipatu se je 5. novembra 1556 bila med Moguli pod vodstvom Akbarja in kraljem Hemujem, z naslovom Hemčandra Vikramaditja. Hemčandra je nekaj tednov prej osvojil Delhi in Agro, ko je v bitki pri Delhiju porazil mogulske sile pod vodstvom Tardija Beg kana. V Purana Kili v Delhiju se je okronal za Vikramaditjo.",
+    "Ko sta Akbar in njegov skrbnik Bajram kan izvedela za izgubo, sta krenila, da bi ozemlja znova osvojila. Vojski sta se spopadli pri Panipatu, nedaleč od kraja prve bitke pri Panipatu leta 1526.",
+    "Med bitko je Hemčandro zadela puščica in je izgubil zavest. Ko je njegova vojska videla, da je voditelj padel, jo je zajela panika in se je razkropila. Nezavestnega in skoraj mrtvega Hemuja so ujeli, nato pa mu je Akbar, ki je prevzel naslov gazi, dal odsekati glavo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Second Battle of Panipat",
+    "rev": 1381440681,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Second Battle of Panipat was fought on 5 November 1556, between the Mughals under Akbar and king Hemu, titularly known as Hemchandra Vikramaditya. Hemchandra had conquered Delhi and Agra a few weeks earlier by defeating Mughal forces under Tardi Beg Khan in the Battle of Delhi. He crowned himself Vikramaditya at Purana Quila in Delhi.",
+     "On learning of the loss, Akbar and his guardian Bairam Khan marched to reclaim those territories. The two armies clashed at Panipat, not far from the site of the First Battle of Panipat of 1526.",
+     "During the battle, Hemchandra was wounded by an arrow and fell unconscious. Seeing their leader going down, his army panicked and dispersed. Unconscious and almost dead, Hemu was captured and subsequently beheaded by Akbar who assumed the title of Ghazi."
+    ]
+   },
+   "records": [
+    "Q233414"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Second Battle of Tarain": {
+   "headline": "Druga bitka pri Tarainu",
+   "paragraphs": [
+    "Druga bitka pri Tarainu ali druga bitka pri Tararoiju se je leta 1192 bila med guridskimi silami Mohameda Gurija in radžputsko konfederacijo Prithviradža Čauhana. Potekala je pri Tarainu (današnji Taraori), 110 kilometrov severno od Delhija. Bitka se je končala z odločilno zmago vdirajočih Guridov, ki so uspešno prodrli na severnoindijsko nižino.",
+    "Bitka velja za prelomen dogodek v zgodovini srednjeveške Indije, saj je za nekaj časa uničila radžputsko moč in postavila temelje muslimanske vladavine v severni Indiji, ki je privedla do ustanovitve Delhijskega sultanata."
+   ],
+   "notes": [
+    "Izpuščena je pretvorba v milje."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Second Battle of Tarain",
+    "rev": 1370736642,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Second Battle of Tarain or Second Battle of Tararoi was fought in 1192 between the Ghurid forces of Muhammad Ghuri and the Rajput Confederacy of Prithviraj Chauhan. It took place near Tarain (modern Taraori), which is 110 kilometres (68 mi), north of Delhi. The battle ended in a decisive victory for the invading Ghurids and their successful penetration into the north Indian plain.",
+     "The battle is regarded as a watershed event in Medieval India history as it led to the destruction of Rajput powers for a while and laid the foundation of Muslim rule in North India, which led to the establishment of Delhi Sultanate."
+    ]
+   },
+   "records": [
+    "Q2890128"
    ],
    "translated": "2026-10-26"
   },
@@ -6768,6 +6976,124 @@
    ],
    "translated": "2026-10-26"
   },
+  "Siege of Cannanore (1507)": {
+   "headline": "Obleganje Kannanurja (1507)",
+   "paragraphs": [
+    "Obleganje Kannanurja je bilo štirimesečno obleganje od 27. aprila do 27. avgusta 1507, ko so čete krajevnega vladarja (kolatirijskega radže iz Kannanurja) ob podpori zamorina iz Kalikata oblegale portugalsko posadko v trdnjavi sv. Angela v Kannanurju v današnji indijski zvezni državi Kerala. Sledilo je bitki pri Kannanurju, v kateri so Portugalci porazili zamorinovo ladjevje."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Siege of Cannanore (1507)",
+    "rev": 1370740021,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The siege of Cannanore was a four-month siege, from 27 April 1507 to 27 August 1507, when troops of the local ruler (the Kōlattiri Raja of Cannanore), supported by the Zamorin of Calicut besieged the Portuguese garrison at St. Angelo Fort in Cannanore, in what is now the Indian state of Kerala. It followed the Battle of Cannanore, in which the fleet of the Zamorin was defeated by the Portuguese."
+    ]
+   },
+   "records": [
+    "Q4337382"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Siege of Cawnpore": {
+   "headline": "Obleganje Kanpurja",
+   "paragraphs": [
+    "Obleganje Kanpurja je bilo ključna epizoda indijskega upora leta 1857. Uporniške sile pod vodstvom Nane Sahiba so oblegane sile Vzhodnoindijske družbe in civiliste v Cawnporu (danes Kanpur) zavedle z lažnim zagotovilom o varnem odhodu v Alahabad. Njihova evakuacija iz Kanpurja se je zato sprevrgla v pokol: večino moških so pobili, ženske in otroke pa odpeljali v bližnjo hišo, znano kot Bibi Ghar. Ko se je Kanpurju bližala reševalna vojska Vzhodnoindijske družbe iz Alahabada, so uporniki pobili približno 200 ujetih britanskih žensk in otrok v tako imenovanem pokolu v Bibi Gharju, njihove trupe pa vrgli v bližnji vodnjak. Ko so sile družbe Kanpur znova zavzele in odkrile pokol, so se ogorčene obsežno maščevale ujetim uporniškim vojakom in krajevnim civilistom. Umori so britanske vojake močno razjezili proti uporniškim sipajem in navdihnili bojni klic »Spomnite se Cawnporja!«."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Siege of Cawnpore",
+    "rev": 1381034548,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The siege of Cawnpore was a key episode in the Indian Rebellion of 1857. The besieged East India Company forces and civilians in Cawnpore (now Kanpur) were duped into a false assurance of a safe passage to Allahabad by the rebel forces under Nana Sahib. Their evacuation from Cawnpore thus turned into a massacre; most of the men were killed, while women and children were taken to a nearby dwelling known as Bibi Ghar. As an East India Company rescue force from Allahabad approached Cawnpore, around 200 British women and children captured by the rebels were butchered in what came to be known as the Bibi Ghar massacre, their remains then thrown down a nearby well. Following the recapture of Cawnpore and the discovery of the massacre, the angry Company forces engaged in widespread retaliation against captured rebel soldiers and local civilians. The murders greatly enraged the British rank-and-file against the sepoy rebels and inspired the war cry \"Remember Cawnpore!\"."
+    ]
+   },
+   "records": [
+    "Q627881"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Siege of Delhi (1857)": {
+   "headline": "Obleganje Delhija (1857)",
+   "paragraphs": [
+    "Obleganje Delhija je bilo odločilni spopad indijskega upora leta 1857. Upor proti oblasti Vzhodnoindijske družbe se je razširil po velikem delu severne Indije, sprožila pa ga je predvsem množična vstaja sipajev bengalske vojske, ki jo je družba sama novačila v Bengalski prezidenturi (ta je dejansko obsegala obsežno območje od Asama do meja Delhija). Prvi uporni sipaji so iskali simbol, okoli katerega bi se zbrali, in so hoteli obnoviti oblast Mogulskega cesarstva, ki je v prejšnjih stoletjih vladalo velikemu delu Indijske podceline. Ker ni bilo enotnega vodstva, so se v Delhi zgrnili tudi mnogi, ki so se uprli pozneje."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Siege of Delhi (1857)",
+    "rev": 1380233517,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The siege of Delhi was a decisive conflict of the Indian Rebellion of 1857. The rebellion against the authority of the East India Company was widespread through much of Northern India, but was essentially sparked by the mass uprising by the sepoys of the Bengal Army, which the company had itself raised in its Bengal Presidency (which actually covered a vast area from Assam to the borders of Delhi). Seeking a symbol around which to rally, the first sepoys to rebel sought to reinstate the power of the Mughal Empire, which had ruled much of the Indian subcontinent in the previous centuries. Lacking overall direction, many who subsequently rebelled also flocked to Delhi."
+    ]
+   },
+   "records": [
+    "Q2343263"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Siege of Lal Masjid": {
+   "headline": "Obleganje Rdeče mošeje",
+   "paragraphs": [
+    "Obleganje Lal Masdžida (urdujsko: لال مسجد محاصرہ; kodno ime operacija Sončni vzhod, prvotno operacija Tišina) je bilo oborožen spopad julija 2007 med islamistično fundamentalistično zasebno milico in pakistansko vlado pod vodstvom predsednika Perveza Mušarafa in predsednika vlade Šaukata Aziza. Središči operacije sta bili Lal Masdžid (»Rdeča mošeja«) in kompleks medrese Džamia Hafsa v Islamabadu v Pakistanu."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Siege of Lal Masjid",
+    "rev": 1381183202,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The siege of Lal Masjid (Urdu: لال مسجد محاصرہ; code-named Operation Sunrise initially code-named as Operation Silence) was an armed confrontation in July 2007 between a Islamist fundamentalist private militia and the government of Pakistan, led by president Pervez Musharraf and prime minister Shaukat Aziz. The focal points of the operation were the Lal Masjid (\"Red Mosque\") and the Jamia Hafsa madrasah complex in Islamabad, Pakistan."
+    ]
+   },
+   "records": [
+    "Q2621757"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Siege of Lucknow": {
+   "headline": "Obleganje Lakhnauja",
+   "paragraphs": [
+    "Med obleganjem Lakhnauja so med indijskim uporom leta 1857 v mestu Lakhnau dolgo branili britansko rezidenco pred upornimi sipaji (indijskimi vojaki v vojski britanske Vzhodnoindijske družbe). Ko sta do mesta prišla dva zaporedna reševalna poskusa, so branilce in civiliste evakuirali iz rezidence, ki so jo nato zapustili."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Siege of Lucknow",
+    "rev": 1381286793,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The siege of Lucknow was the prolonged defence of the British Residency within the city of Lucknow from rebel sepoys (Indian soldiers in the British East India Company's Army) during the Indian Rebellion of 1857. After two successive relief attempts had reached the city, the defenders and civilians were evacuated from the Residency, which was then abandoned."
+    ]
+   },
+   "records": [
+    "Q815165"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Siege of Malakand": {
+   "paragraphs": [
+    "Obleganje Malakanda je bilo obleganje britanske garnizije v pokrajini Malakand v Severozahodni obmejni provinci kolonialne Britanske Indije od 26. julija do 2. avgusta 1897. Britanci so se spopadli s paštunskimi plemeni, katerih plemenske dežele je presekala Durandova črta, 2445 km dolga meja med Afganistanom in Britansko Indijo, ki so jo začrtali ob koncu angleško-afganistanskih vojn, da bi zajezili širjenje vpliva Ruskega imperija proti Indijski podcelini, ki so se ga bali Britanci.",
+    "Nemiri zaradi te razdelitve paštunskih dežel Afganije so privedli do vzpona Saidulaha, paštunskega fakirja, ki je proti britanski garniziji v Malakandu povedel veliko vojsko najmanj 10.000 pripadnikov krajevnih plemen Jusufzaj, Mohmand, Uthmankhel, Bunerval, Svati in drugih. Čeprav so bile britanske sile razdeljene na več slabo branjenih položajev, sta se majhna garnizija v taboru Južni Malakand in majhna utrdba v Čakdari šest dni upirali precej večji paštunski vojski."
+   ],
+   "notes": [
+    "Izpuščena je navedba v miljah."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Siege of Malakand",
+    "rev": 1370743214,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The siege of Malakand was the 26 July – 2 August 1897 siege of the British garrison in the Malakand region of colonial British India's North West Frontier Province. The British faced a force of Pashtun tribesmen whose tribal lands had been bisected by the Durand Line, the 1,519 mile (2,445 km) border between Afghanistan and British India drawn up at the end of the Anglo-Afghan wars to help hold back what the British feared to be the Russian Empire's spread of influence towards the Indian subcontinent.",
+     "The unrest caused by this division of the Pashtun lands of Afghania led to the rise of Saidullah, a Pashtun faqir who led a great army of at least 10,000 tribesmen of the regional Yusufzai, Mohmand, Uthmankhel, Bunerwal, Swati tribes among others against the British garrison in Malakand. Although the British forces were divided among a number of poorly defended positions, the small garrison at the camp of Malakand South and the small fort at Chakdara were both able to hold out for six days against the much larger Pashtun army."
+    ]
+   },
+   "records": [
+    "Q64879"
+   ],
+   "translated": "2026-10-26"
+  },
   "Siege of Petropavlovsk": {
    "headline": "Obleganje Petropavlovska",
    "paragraphs": [
@@ -6787,6 +7113,27 @@
    ],
    "translated": "2026-10-26"
   },
+  "Siege of Seringapatam (1799)": {
+   "headline": "Obleganje Seringapatama (1799)",
+   "paragraphs": [
+    "Obleganje Seringapatama (5. april – 4. maj 1799) je bilo zadnji spopad četrte angleško-misorske vojne med britansko Vzhodnoindijsko družbo in Misorskim kraljestvom, ki mu je po očetovi smrti vladal Tipu Sultan. Britanci so z zavezniki, Nizamom Alijem kanom, 2. hajderabadskim nizamom, in Marathskim imperijem, dosegli odločilno zmago, ko so prebili obzidje trdnjave Seringapatam in naskočili citadelo.",
+    "Vojna se je končala s porazom in smrtjo Tipuja Sultana v bitki. Britanci so po zmagi s pogodbo o subsidiarnem zavezništvu na oblast vrnili dinastijo Vadijar in Krišnaradža Vodejar III. je bil kronan za misorskega kralja. Posredni nadzor (britansko vrhovno oblast) nad zunanjimi zadevami kraljestva pa so obdržali."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Siege of Seringapatam (1799)",
+    "rev": 1381152210,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The siege of Seringapatam (5 April – 4 May 1799) was the final confrontation of the Fourth Anglo-Mysore War between the British East India Company and the Kingdom of Mysore led by Tipu Sultan who ruled after the death of his father. The British, with the allied Nizam Ali Khan, 2nd Nizam of Hyderabad and Maratha Empire, achieved a decisive victory after breaching the walls of the fortress at Seringapatam and storming the citadel.",
+     "The war came to an end with the defeat and death of Tipu Sultan in the battle. The British restored the Wadiyar dynasty back to power after the victory through a treaty of subsidiary alliance and Krishnaraja Wodeyar III was crowned the King of Mysore. However, they retained indirect control (British paramountcy) of the kingdom's external affairs."
+    ]
+   },
+   "records": [
+    "Q815204"
+   ],
+   "translated": "2026-10-26"
+  },
   "Siege of the Sogdian Rock": {
    "headline": "Obleganje Sogdijske skale",
    "paragraphs": [
@@ -6803,6 +7150,87 @@
    },
    "records": [
     "Q1887690"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Simla Agreement": {
+   "headline": "Sporazum iz Šimle",
+   "paragraphs": [
+    "Sporazum iz Šimle (tudi Simle) je dvostranska mirovna pogodba in okvirni sporazum, ki sta ga Indija in Pakistan podpisala 2. julija 1972 v Šimli, prestolnici indijske zvezne države Himačal Pradeš. Sledil je pakistanskemu porazu v indijsko-pakistanski vojni leta 1971, ki se je začela, ko je Indija v bangladeški osvobodilni vojni v Vzhodnem Pakistanu posredovala na strani Mukti Bahini proti pakistanskim oboroženim silam.",
+    "Uradni namen pogodbe je, da bi obe državi »končali spopade in soočenja, ki so doslej kvarili njune odnose«, in zasnovali korake za nadaljnjo normalizacijo indijsko-pakistanskih odnosov, hkrati pa določili načela, po katerih naj bi se ravnali v prihodnje.",
+    "S pogodbo je Indija Pakistanu vrnila več kot 13.000 km² ozemlja, ki ga je indijska vojska med vojno zasedla v Pakistanu, obdržala pa je nekaj strateških območij, med njimi Turtuk, Dhothang, Tjakši (prej Tiaqsi) in Čalunko v dolini Čorbat, skupaj več kot 883 km²."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Simla Agreement",
+    "rev": 1374143583,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Simla Agreement, also spelled Shimla Agreement, is a bilateral peace treaty and framework agreement signed between India and Pakistan on 2 July 1972 in Shimla, the capital of the Indian state of Himachal Pradesh. It followed Pakistan's defeat in the India–Pakistan war of 1971, which began after India intervened in the Bangladesh Liberation War in East Pakistan on Mukti Bahini's side against Pakistan Armed Forces.",
+     "The treaty's official purpose is stated to serve as a way for both countries to \"put an end to the conflict and confrontation that have hitherto marred their relations\" and to conceive the steps to be taken for further normalization of India–Pakistan relations while also laying down the principles that should govern their future interactions.",
+     "The treaty gave back more than 13,000 km2 of land that the Indian Army had seized in Pakistan during the war, though India retained a few strategic areas, including Turtuk, Dhothang, Tyakshi (earlier called Tiaqsi) and Chalunka in the Chorbat Valley,, comprising more than 883 km2."
+    ]
+   },
+   "records": [
+    "Q1470998"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Sino-Burmese War": {
+   "headline": "Kitajsko-burmanska vojna",
+   "paragraphs": [
+    "Kitajsko-burmanska vojna (kitajsko: 清緬戰爭; burmansko: တရုတ်-မြန်မာ စစ်ပွဲများ), znana tudi kot čingovske invazije na Burmo ali mjanmarski pohod dinastije Čing, je bila vojna med kitajsko dinastijo Čing in burmansko (mjanmarsko) dinastijo Konbaung. Čingi so pod cesarjem Čjanlungom med letoma 1765 in 1769 štirikrat vdrli v Burmo, kar so šteli za enega od njegovih desetih velikih pohodov. Vojno, ki je terjala življenja več kot 70.000 čingovskih vojakov in štirih poveljnikov, pa včasih opisujejo kot »najbolj katastrofalno obmejno vojno, kar jih je dinastija Čing kdaj vodila«, in kot vojno, ki je »zagotovila burmansko neodvisnost«. Uspešna burmanska obramba je postavila temelje sedanje meje med državama."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Sino-Burmese War",
+    "rev": 1378638379,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Sino-Burmese War (Chinese: 清緬戰爭; Burmese: တရုတ်-မြန်မာ စစ်ပွဲများ), also known as the Qing invasions of Burma or the Myanmar campaign of the Qing dynasty, was a war fought between the Qing dynasty of China and the Konbaung dynasty of Burma (Myanmar). The Qing under the Qianlong Emperor launched four invasions of Burma between 1765 and 1769, which were considered one of his Ten Great Campaigns. Nonetheless, the war, which claimed the lives of over 70,000 Qing soldiers and four commanders, is sometimes described as \"the most disastrous frontier war that the Qing dynasty had ever waged\", and one that \"assured Burmese independence\". Burma's successful defense laid the foundation for the present-day boundary between the two countries."
+    ]
+   },
+   "records": [
+    "Q3237019"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Sino-Indian War": {
+   "paragraphs": [
+    "Kitajsko-indijska vojna, znana tudi kot indijsko-kitajska vojna, je bila oborožen spopad med Kitajsko in Indijo, ki je potekal od oktobra do novembra 1962. Bila je vojaška zaostritev kitajsko-indijskega mejnega spora. Boji so se zgoščali na dveh krajih ob indijsko-kitajski meji, v Severovzhodni obmejni agenciji (NESA) in na območju Aksaj Čin, ki sta bila približno 1000 km narazen. Spopad je nastal zaradi kitajskih zahtev po Aksaj Činu in NESA, pri čemer sta se državi sklicevali na različne zgodovinske mejne dogovore. Indija je priznavala Johnsonovo črto na zahodu in McMahonovo črto na vzhodu, Kitajska pa ju ni priznavala."
+   ],
+   "notes": [
+    "Izpuščena je pretvorba v milje. Glosarsko ime (Indijsko-kirajska vojna) ima tipkarsko napako in je popravljeno."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Sino-Indian War",
+    "rev": 1381986803,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Sino-Indian War, also known as the China–India War or the Indo-China War, was an armed conflict between China and India that took place from October to November 1962. It was a military escalation of the Sino-Indian border dispute. The fighting was concentrated in two locations along the India-China border, the North-East Frontier Agency (NESA), and the Aksai Chin region, which were roughly 1,000 km (620 mi) apart. The conflict arose due to China's claims over the Aksai Chin and NESA, with both countries relying on different historical border agreements. India recognised the Johnson Line in the west and the McMahon Line in the east, while China did not recognise them."
+    ]
+   },
+   "records": [
+    "Q208694"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Sino-Vietnamese War": {
+   "paragraphs": [
+    "Kitajsko-vietnamska vojna (znana tudi pod drugimi imeni) je bila vojna med Kitajsko in Vietnamom v začetku leta 1979. Kitajska je sprožila ofenzivo, domnevno kot odgovor na vietnamsko invazijo in zasedbo Kambodže leta 1978, ki je končala vladavino Rdečih Kmerov. Spopad je trajal približno mesec dni, Kitajska pa je marca 1979 umaknila svoje čete."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Sino-Vietnamese War",
+    "rev": 1380856412,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Sino-Vietnamese War (also known by other names) was a war which occurred in early 1979 between China and Vietnam. China launched an offensive ostensibly in response to Vietnam's invasion and occupation of Cambodia in 1978, which ended the rule of the Khmer Rouge. The conflict lasted for about a month, with China withdrawing its troops in March 1979."
+    ]
+   },
+   "records": [
+    "Q623171"
    ],
    "translated": "2026-10-26"
   },
@@ -6920,6 +7348,26 @@
    },
    "records": [
     "Q22082249"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Sri Lankan civil war": {
+   "paragraphs": [
+    "Šrilanška državljanska vojna je bila oborožen spopad na Šrilanki od leta 1983 do 2009. Od 23. julija 1983 so Osvobodilni tigri tamilskega Eelama (LTTE, znani tudi kot tamilski tigri) pod vodstvom Velupilaja Prabhakarana s presledki vodili uporništvo proti vladi. LTTE se je bojeval za neodvisno tamilsko državo Tamil Eelam na severovzhodu otoka kot odgovor na nenehno diskriminacijo in nasilno preganjanje, ki ju je nad šrilanškimi Tamilci izvajala pretežno sinhalska šrilanška vlada.",
+    "Nasilno preganjanje je izbruhnilo v protitamilskih pogromih v letih 1956, 1958, 1977, 1981 in 1983 ter v požigu javne knjižnice v Jafni leta 1981. Izvajale so jih sinhalske večinske tolpe, pogosto z državno podporo, v letih po osamosvojitvi Šrilanke od Britanskega imperija leta 1948. Kmalu po osamosvojitvi je bila sinhalščina priznana za edini uradni jezik države. Po 26-letnem vojaškem pohodu je šrilanška vojska maja 2009 porazila tamilske tigre in končala državljansko vojno."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Sri Lankan civil war",
+    "rev": 1381745956,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Sri Lankan civil war was an armed conflict fought in Sri Lanka from 1983 to 2009. Beginning on 23 July 1983, it was an intermittent insurgency against the government by the Liberation Tigers of Tamil Eelam (LTTE, also known as the Tamil Tigers) led by Velupillai Prabhakaran. The LTTE fought to create an independent Tamil state called Tamil Eelam in the north-east of the island in response to continuous discrimination and violent persecution against Sri Lankan Tamils by the predominantly Sinhalese government of Sri Lanka.",
+     "Violent persecution erupted in the form of the 1956, 1958, 1977, 1981 and 1983 anti-Tamil pogroms, as well as the 1981 burning of the Jaffna Public Library. These were carried out by the majority Sinhalese mobs, often with state support, in the years following Sri Lanka's independence from the British Empire in 1948. Shortly after gaining independence, Sinhalese was recognised as the sole official language of the nation. After a 26-year military campaign, the Sri Lankan military defeated the Tamil Tigers in May 2009, bringing the civil war to an end."
+    ]
+   },
+   "records": [
+    "Q213394"
    ],
    "translated": "2026-10-26"
   },
@@ -7061,6 +7509,28 @@
    ],
    "translated": "2026-10-26"
   },
+  "Taliban insurgency": {
+   "paragraphs": [
+    "Talibansko uporništvo se je začelo, potem ko je skupina med vojno v Afganistanu leta 2001 izgubila oblast. Talibanske sile so se bojevale proti afganistanski vladi pod vodstvom predsednika Hamida Karzaja, pozneje predsednika Ašrafa Ganija, in proti koaliciji pod vodstvom Združenih držav, v kateri so bile vse članice Nata; talibanska ofenziva leta 2021 je povzročila zlom vlade Ašrafa Ganija. Pakistan je talibanom dajal finančno in vojaško pomoč.",
+    "Uporništvo se je deloma razširilo čez mejo v sosednji Pakistan, zlasti v Hajber Pahtunhvo. Talibani so se bojevali proti afganistanskim narodnim varnostnim silam in njihovim Natovim zaveznikom ter napadali civilne cilje. Države v regiji, zlasti Pakistan, Iran, Kitajsko in Rusijo, so pogosto obtoževali, da financirajo in podpirajo uporniške skupine.",
+    "Del talibanskega uporništva so bili tudi zavezniška mreža Hakani, Hezb-e Islami Gulbudin (do leta 2016) in manjše skupine Al Kaide."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Taliban insurgency",
+    "rev": 1381586069,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Taliban insurgency began after the group's fall from power during the 2001 war in Afghanistan. The Taliban forces fought against the Afghan government, led by President Hamid Karzai, and later by President Ashraf Ghani, and against a United States-led coalition of forces that has included all members of NATO; the 2021 Taliban offensive resulted in the collapse of the government of Ashraf Ghani. Pakistan extended financial and military aid to the Taliban.",
+     "The insurgency had spread to some degree over the border to neighboring Pakistan, in particular Khyber Pakhtunkhwa. The Taliban conducted warfare against Afghan National Security Forces and their NATO allies, as well as against civilian targets. Regional countries, particularly Pakistan, Iran, China and Russia, were often accused of funding and supporting the insurgent groups.",
+     "The allied Haqqani Network, Hezb-e Islami Gulbuddin (until 2016), and smaller al-Qaeda groups had also been part of the Taliban insurgency."
+    ]
+   },
+   "records": [
+    "Q1752743"
+   ],
+   "translated": "2026-10-26"
+  },
   "Talpur dynasty": {
    "headline": "Dinastija Talpur",
    "paragraphs": [
@@ -7123,6 +7593,46 @@
    ],
    "translated": "2026-10-26"
   },
+  "Telangana Rebellion": {
+   "headline": "Telanganski upor",
+   "paragraphs": [
+    "Telanganski upor v letih 1946–1951 je bil kmečka vstaja pod komunističnim vodstvom proti kneževski državi Hajderabad v pokrajini Telangana, ki je prerasla iz nemirov v letih 1944–1946.",
+    "Hajderabad je bil fevdalna monarhija, v kateri je bila v Telangani večina zemlje v rokah zemljiških aristokratov, imenovanih »durre« ali »dore«. Fevdalno izkoriščanje je bilo v regiji hujše kot drugod v Indiji; durre so imeli nad kmeti popolno oblast in so jih lahko podvrgli kmetijskemu suženjstvu. Razmere so se v 1930. letih poslabšale zaradi velike gospodarske krize in prehoda na tržne kulture. V 1940. letih so se kmetje začeli obračati h komunizmu, se organizirali v Andhra Mahasabhi in začeli gibanje za pravice. Gibanje, ki ga je pospešila prehranska kriza po koncu druge svetovne vojne, je preraslo v upor, ko sta ga uprava in durre poskušali zatreti."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Telangana Rebellion",
+    "rev": 1379283006,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Telangana Rebellion of 1946–1951 was a communist-led insurrection of peasants against the princely state of Hyderabad in the region of Telangana that escalated out of agitations in 1944–1946.",
+     "Hyderabad was a feudal monarchy where most of the land was concentrated in the hands of landed aristocrats known as \"Durras\" or \"Doras\" in Telangana. Feudal exploitation in the region was more severe compared to others of India; the Durras had complete power over the peasants and could subject them to agricultural slavery. Conditions worsened during the 1930s due to the Great Depression and a transition towards commercial crops. In the 1940s, the peasants started turning towards communism, organised themselves through the Andhra Mahasabha and began a rights movement. Catalysed by a food crisis that affected the region following the end of the Second World War, the movement escalated into a rebellion after the administration and the durras attempted to suppress it."
+    ]
+   },
+   "records": [
+    "Q3380689"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Tet Offensive": {
+   "headline": "Ofenziva Tet",
+   "paragraphs": [
+    "Ofenziva Tet je bila velika zaostritev vietnamske vojne in eden največjih vojaških pohodov v njej. Severnovietnamska Vietnamska ljudska armada (PAVN) in Vietkong (VC) sta 30. in 31. januarja 1968 izvedla presenetljiv napad na sile južnovietnamske Vojske Republike Vietnam (ARVN), oboroženih sil Združenih držav in njihovih zaveznikov ter na vojaška in civilna poveljniška središča po vsem Južnem Vietnamu. Ime je skrajšana oblika vietnamskega imena praznika lunarnega novega leta, Tết Nguyên Đán, ko je bila večina pripadnikov ARVN na dopustu. Severnovietnamski politbiro in voditelj Lê Duẩn sta hotela povzročiti politično nestabilnost in sta upala, da bodo množični oboroženi napadi na mesta sprožili prebege in vstaje."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Tet Offensive",
+    "rev": 1381489705,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Tet Offensive was both a major escalation and one of the largest military campaigns of the Vietnam War. The North Vietnamese People's Army of Vietnam (PAVN) and the Viet Cong (VC) launched a surprise attack on 30 and 31 January 1968 against the forces of the South Vietnamese Army of the Republic of Vietnam (ARVN), the United States Armed Forces and their allies, targeting military and civilian command and control centers throughout South Vietnam. The name is the truncated version of the Lunar New Year festival name in Vietnamese, Tết Nguyên Đán, a holiday period when most ARVN personnel were on leave. The North Vietnamese Politburo and leader Lê Duẩn intended to trigger political instability and hoped that mass armed assaults on urban centers would trigger defections and uprisings."
+    ]
+   },
+   "records": [
+    "Q82542"
+   ],
+   "translated": "2026-10-26"
+  },
   "Thanjavur Maratha Kingdom": {
    "paragraphs": [
     "Tandžavursko marathsko kraljestvo, južnoindijska monarhija pod dinastijo Bhonsle, je od leta 1675 do 1855 vladalo delti reke Kaveri. Ustanovil ga je marathski general Ekodži I. (Vjankodži Bhosale) s prestolnico v Tandžavurju. Kraljevi dvor je podpiral umetnost in književnost, tandžavurska marathščina pa se je razvila kot narečje upravne elite."
@@ -7156,6 +7666,109 @@
    },
    "records": [
     "nayaks-of-thanjavur"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Third Anglo-Afghan War": {
+   "paragraphs": [
+    "Tretja angleško-afganistanska vojna, znana tudi kot tretja afganistanska vojna, britansko-afganistanska vojna leta 1919, v Afganistanu pa kot osvobodilna vojna, je bila kratka vojna, ki se je začela 3. maja in končala 8. avgusta 1919. Novi emir Afganistanskega emirata Amanulah kan je Britancem napovedal sveto vojno, džihad, v upanju, da bo razglasil popolno neodvisnost in utrdil lastno legitimnost. Amanulahove sile so izkoristile nemire v Indiji in na treh frontah vdrle v Britansko Indijo, da bi zavzele stare afganistanske province zahodno od Inda."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Third Anglo-Afghan War",
+    "rev": 1370750279,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Third Anglo-Afghan War, also known as the Third Afghan War, the British-Afghan War of 1919, and in Afghanistan as the War of Liberation, was a short war which began on 3 May and ended on 8 August 1919. The new Emir of the Emirate of Afghanistan Amanullah Khan declared the holy war of Jihad against the British in the hope to proclaim full independence, as well as to strengthen his own legitimacy. Amanullah's forces invaded British India on three fronts taking advantage of the unrest in India, in an effort to seize the old Afghan provinces west of the Indus River."
+    ]
+   },
+   "records": [
+    "Q1259237"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Third Anglo-Burmese War": {
+   "headline": "Tretja angleško-burmanska vojna",
+   "paragraphs": [
+    "Tretja angleško-burmanska vojna (burmansko: တတိယအင်္ဂလိပ်–မြန်မာစစ်), znana tudi kot tretja burmanska vojna (7.–29. novembra 1885, posamezni odpor pa je trajal do leta 1887), je bila zadnja od treh vojn med Burmanci in Britanci v 19. stoletju. V njej je neodvisna Burma pod dinastijo Konbaung izgubila suverenost; njena oblast je bila že prej omejena na ozemlje, znano kot Gornja Burma, saj so si Britanci Spodnjo Burmo priključili leta 1853 po drugi angleško-burmanski vojni.",
+    "Po vojni je Burma prišla pod oblast Britanske Indije kot ena njenih provinc. Uradna vojna je trajala od 7. do 29. novembra 1885, protibritanske vstaje pa so trajale še desetletje. Od leta 1937 so Britanci Burmo upravljali kot ločeno kolonijo, dokler ni Burma leta 1948 kot republika dobila neodvisnosti."
+   ],
+   "notes": [
+    "Izpuščena je latinična transliteracija burmanskega imena."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Third Anglo-Burmese War",
+    "rev": 1370750284,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Third Anglo-Burmese War (Burmese: တတိယအင်္ဂလိပ်–မြန်မာစစ်, romanized: Tatiya Ingaleik–Myanma Sit), also known as the Third Burma War (7–29 November 1885, with sporadic resistance continuing into 1887), was the final of three wars fought in the 19th century between the Burmese and the British. The war saw the loss of sovereignty of an independent Burma under the Konbaung dynasty, whose rule had already been reduced to the territory known as Upper Burma, the region of Lower Burma having been annexed by the British in 1853, following the Second Anglo-Burmese War.",
+     "Following the war, Burma came under the rule of the British Raj as one of its provinces. While the official war lasted from 7–29 November 1885, anti-British uprisings would last for another decade. From 1937, the British governed Burma as a separate colony until Burma achieved independence as a republic in 1948."
+    ]
+   },
+   "records": [
+    "Q1209946"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Third Anglo-Maratha War": {
+   "paragraphs": [
+    "Tretja angleško-marathska vojna (1817–1819) je bila zadnji in odločilni spopad med britansko Vzhodnoindijsko družbo in Marathskim imperijem. Po vojni je imela družba v rokah večino Indije. Začela se je z vdorom čet Vzhodnoindijske družbe na marathsko ozemlje; čeprav so bili Britanci številčno šibkejši, je bila marathska vojska zdesetkana. Čete je vodil generalni guverner Hastings, podpirala pa jih je vojska pod poveljstvom generala Thomasa Hislopa. Operacije so se začele proti Pindarijem, skupini krajevnih plačancev in Marathov iz osrednje Indije."
+   ],
+   "notes": [
+    "Glosarsko ime (Tretja angleško-maratska vojna) je usklajeno z obliko marathski, ki jo uporabljajo drugi povzetki."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Third Anglo-Maratha War",
+    "rev": 1370750299,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Third Anglo-Maratha War (1817–1819) was the final and decisive conflict between the British East India Company and the Maratha Empire. The war left the Company in control of most of India. It began with an invasion of Maratha territory by East India Company troops, and although the British were outnumbered, the Maratha army was decimated. The troops were led by Governor General Hastings, supported by a force under General Thomas Hislop. Operations began against the Pindaris, a band of local mercenaries and Marathas from central India."
+    ]
+   },
+   "records": [
+    "Q617210"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Third Anglo-Mysore War": {
+   "paragraphs": [
+    "Tretja angleško-misorska vojna (1789–1792) je bila vojaški spopad v južni Indiji med Misorskim sultanatom na eni strani ter Vzhodnoindijsko družbo, Marathskim imperijem, Kraljestvom Travankor in hajderabadskim nizamom na drugi. Bila je tretja od štirih angleško-misorskih vojn."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Third Anglo-Mysore War",
+    "rev": 1370750303,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Third Anglo-Mysore War (1789–1792) was a military conflict in Southern India between the Sultanate of Mysore and the East India Company, Maratha Empire, Kingdom of Travancore and the Nizam of Hyderabad. It was the third of four Anglo-Mysore Wars."
+    ]
+   },
+   "records": [
+    "Q617350"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Third Battle of Panipat": {
+   "headline": "Tretja bitka pri Panipatu",
+   "paragraphs": [
+    "Tretja bitka pri Panipatu se je 14. januarja 1761 bila med Marathskim imperijem in vdirajočo vojsko Duranskega imperija. Potekala je v mestu Panipat in okolici, približno 97 kilometrov severno od Delhija. Afganistance so podpirali trije ključni zavezniki v Indiji: Nadžib ud-Daula, ki je pridobil podporo rohilskih poglavarjev, deli propadajočega Mogulskega cesarstva in, najdragocenejši, država Oudh pod Šudžo ud-Daulo. Marathsko vojsko je vodil Sadašivrao Bhau, tretji najvišji predstavnik oblasti v Marathski konfederaciji za čatrapatijem in pešvo. Glavnina marathske vojske je bila s pešvo nameščena na Dekanski planoti."
+   ],
+   "notes": [
+    "Izpuščena je pretvorba v milje."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Third Battle of Panipat",
+    "rev": 1382040646,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Third Battle of Panipat took place on 14 January 1761 between the Maratha Empire and the invading army of the Durrani Empire. The battle took place in and around the city of Panipat, approximately 97 kilometres (60 mi) north of Delhi. The Afghans were supported by three key allies in India: Najib-ud-Daula who persuaded the support of the Rohilla chiefs, elements of the declining Mughal Empire, and most prized the Oudh State under Shuja-ud-Daula. The Maratha army was led by Sadashivrao Bhau, who was third-highest authority of the Maratha Confederacy after the Chhatrapati and the Peshwa. The bulk of the Maratha army was stationed in the Deccan Plateau with the Peshwa."
+    ]
+   },
+   "records": [
+    "Q1259218"
    ],
    "translated": "2026-10-26"
   },
@@ -7245,6 +7858,89 @@
    ],
    "translated": "2026-10-26"
   },
+  "Treaty of Allahabad": {
+   "headline": "Alahabadska pogodba",
+   "paragraphs": [
+    "Alahabadsko pogodbo sta 16. avgusta 1765 po bitki pri Buksarju 22. oktobra 1764 podpisala mogulski cesar Šah Alam II., sin pokojnega cesarja Alamgirja II., in Robert Clive iz Vzhodnoindijske družbe. Pogodbo je na roko napisal I'tisam-ud-Din, bengalski muslimanski pisar in diplomat v službi Mogulskega cesarstva."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Allahabad",
+    "rev": 1368931189,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Treaty of Allahabad was signed on 16 August 1765, between the Mughal Emperor Shah Alam II, son of the late Emperor Alamgir II, and Robert Clive, of the East India Company, in the aftermath of the Battle of Buxar of 22 October 1764. The treaty was handwritten by I'tisam-ud-Din, a Bengali Muslim scribe and diplomat to the Mughal Empire."
+    ]
+   },
+   "records": [
+    "Q4062556"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Treaty of Gandamak": {
+   "headline": "Mir v Gandamaku",
+   "paragraphs": [
+    "Mir v Gandamaku je uradno končal prvo fazo druge angleško-afganistanske vojne. Afganistanski emir Mohamed Jakub kan je Britanski Indiji odstopil več obmejnih območij in nadzor nad afganistanskimi zunanjimi zadevami.",
+    "Podpisala sta ga 26. maja 1879 afganistanski kralj Mohamed Jakub kan in sir Louis Cavagnari iz britanske vlade Indije v britanskem vojaškem taboru pri vasi Gandamak, približno 110 km vzhodno od Kabula. Podkralj Indije lord Edward Robert Bulwer-Lytton ga je ratificiral 30. maja 1879.",
+    "Večina zgodovinskih del mir v Gandamaku šteje za uvod v drugo fazo druge angleško-afganistanske vojne v letih 1879–1880. Po britanski zmagi v bitki pri Kandaharju leta 1880 so pogodbo znova potrdili, Britanci pa so za afganistanskega emirja postavili Abdur Rahmana, britanskega nasprotnika. Abdur Rahman je med vladavino Britancem nenehno nasprotoval in jih prisilil, da so popustili in ga podpirali v zunanji politiki in notranji vladavini."
+   ],
+   "notes": [
+    "Izpuščena je navedba v miljah."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Gandamak",
+    "rev": 1380441219,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Treaty of Gandamak officially ended the first phase of the Second Anglo-Afghan War. The Afghan emir Mohammad Yaqub Khan ceded various frontier areas as well as Afghanistan's control of its foreign affairs to the British Raj.",
+     "It was signed on 26 May 1879 by King Mohammad Yaqub Khan of Afghanistan and Sir Louis Cavagnari of the British Government of India at a British army camp near the village of Gandamak, about 70 miles (110 km) east of Kabul. The treaty was ratified by Lord Edward Robert Bulwer-Lytton, Viceroy of India, on 30 May 1879.",
+     "Most historical writings consider the Treaty of Gandamak as the prelude to the second phase of the Second Anglo-Afghan War, 1879–1880. As result of the British victory at the Battle of Kandahar in 1880 the treaty was reaffirmed and the British appointed Abdur Rahman, a British opponent, as Emir of Afghanistan. Later during Abdur Rahman's reign, he constantly opposed the British and forced them to concede and support him in his foreign policy and internal rule."
+    ]
+   },
+   "records": [
+    "Q259430"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Treaty of Huế (1883)": {
+   "headline": "Pogodba iz Huếja (1883)",
+   "paragraphs": [
+    "Pogodba iz Huếja (vietnamsko: Hòa ước Harmand, Hòa ước Quý Mùi), sklenjena 25. avgusta 1883 med Vietnamom (dinastijo Nguyễn) in Francijo, je priznala francoski protektorat nad Vietnamom, razdeljenim na Annam in Tonkin. Vietnamcem jo je narekoval francoski upravitelj François-Jules Harmand po tem, ko je francoska vojska zavzela utrdbe Thuận An, zato jo pogosto imenujejo »Harmandova pogodba«. V francoskih diplomatskih krogih so jo imeli za prestrogo, zato je Francija nikoli ni ratificirala, 6. junija 1884 pa jo je nadomestil nekoliko milejši »Patenôtrov sporazum« ali »pogodba o protektoratu«, ki je bil podlaga francoske vladavine v Vietnamu do elizejskih sporazumov, ki sta jih leta 1949 podpisala Francija in cesar Bảo Đại."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Huế (1883)",
+    "rev": 1379536580,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Treaty of Huế, (Vietnamese: Hòa ước Harmand, Hòa ước Quý Mùi) concluded on 25 August 1883 between Vietnam (Nguyễn dynasty) and France, recognising a French protectorate over Vietnam being divided into Annam and Tonkin. Dictated to the Vietnamese by the French administrator François-Jules Harmand in the wake of the French military seizure of the Thuận An forts, the treaty is often known as the 'Harmand Treaty'. Considered overly harsh in French diplomatic circles, the treaty was never ratified in France, and was replaced on 6 June 1884 with the slightly milder 'Patenôtre Accords' or 'Treaty of Protectorate', which formed the basis for French rule in Vietnam until the 1949 Élysée Accords signed between France and emperor Bảo Đại."
+    ]
+   },
+   "records": [
+    "Q3032218"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Treaty of Huế (1884)": {
+   "headline": "Pogodba iz Huếja (1884)",
+   "paragraphs": [
+    "Pogodba iz Huếja ali pogodba o protektoratu (vietnamsko: Hòa ước Giáp Thân 1884, Hòa ước Patenotre ali Hòa ước Patơnốt) je bila sklenjena 6. junija 1884 med Francijo in Đại Namom (Vietnamom oziroma dinastijo Nguyễn). Povzela je glavna določila kaznovalne Harmandove pogodbe s 25. avgusta 1883, vendar je omilila nekatera njena strožja določila. Pogodba je ustanovila protektorata Annam (osrednji Vietnam) in Tonkin (severni Vietnam). Bila je podlaga francoske kolonialne vladavine v Vietnamu naslednjih sedem desetletij, izpogajal pa jo je Jules Patenôtre, francoski minister na Kitajskem, zato jo pogosto imenujejo Patenôtrova pogodba. Na vietnamski strani sta jo podpisala Phạm Thận Duật in Tôn Thất Phan, predstavnika dvora cesarja Tự Đứca. S pogodbo je dinastija Nguyễn drugič sprejela francoski protektorat nad osrednjim in severnim Vietnamom, razveljavili pa so jo s podpisom elizejskih sporazumov 8. marca 1949."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Huế (1884)",
+    "rev": 1353882322,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Treaty of Huế or Protectorate Treaty (Vietnamese: Hòa ước Giáp Thân 1884, or Hòa ước Patenotre, or Hòa ước Patơnốt) was concluded on 6 June 1884 between France and Đại Nam (Vietnam/Nguyễn dynasty). It restated the main tenets of the punitive Harmand Treaty of 25 August 1883, but softened some of the harsher provisions of this treaty. The treaty created the protectorates of Annam (central Vietnam) and Tonkin (northern Vietnam). It formed the basis of French colonial rule in Vietnam during the next seven decades and was negotiated by Jules Patenôtre, France's minister to China; it is often known as the Patenôtre Treaty. The treaty was signed on the Vietnamese side by Phạm Thận Duật and Tôn Thất Phan, representatives of the emperor Tự Đức’s court. The treaty marked the Nguyễn dynasty's second acceptance of French protectorate in central and northern Vietnam, but it was canceled when the Élysée Accords was signed on 8 March 1949."
+    ]
+   },
+   "records": [
+    "Q3536812"
+   ],
+   "translated": "2026-10-26"
+  },
   "Treaty of Kyakhta (1727)": {
    "headline": "Kjahtinska pogodba (1727)",
    "paragraphs": [
@@ -7303,6 +7999,73 @@
    },
    "records": [
     "Q696094"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Treaty of Saigon (1862)": {
+   "headline": "Mir v Saigonu (1862)",
+   "paragraphs": [
+    "Mir v Saigonu (francosko: Traité de Saïgon; vietnamsko: Hòa ước Nhâm Tuất, po letu »vodnega psa« v šestdesetletnem ciklu) so 5. junija 1862 podpisali predstavniki kolonialnih sil Francije in Španije ter zadnji predkolonialni cesar dinastije Nguyễn Tự Đức po invaziji koalicije med kampanjo v Kočinčini. Podpisniki so bili Louis Adolphe Bonard (Francija), Carlos Palanca Gutiérrez (Španija) in Phan Thanh Giản (Vietnam). Po določilih sporazuma je Tự Đức Francozom odstopil Saigon, otok Poulo Condor in tri južne province poznejše Kočinčine (Bien Hoa, Gia Dinh in Dinh Tuong). Pogodbo je potrdila pogodba iz Huếja, podpisana 14. aprila 1863."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Saigon (1862)",
+    "rev": 1304320800,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Treaty of Saigon (French: Traité de Saïgon, Vietnamese: Hòa ước Nhâm Tuất, referring to the year of \"Water Dog\" in the sexagenary cycle) was signed on 5 June 1862 between representatives of the colonial powers, France and Spain, and the last precolonial emperor of the Nguyễn dynasty, Emperor Tự Đức after the coalition's invasion during the Cochinchina campaign. The signatories were Louis Adolphe Bonard (France), Carlos Palanca Gutiérrez (Spain) and Phan Thanh Giản (Vietnam). Based on the terms of the accord, Tự Đức ceded Saigon, the island of Poulo Condor and three southern provinces of what was to become known as Cochinchina (Bien Hoa, Gia Dinh, and Dinh Tuong) to the French. The treaty was confirmed by the Treaty of Huế signed on 14 April 1863."
+    ]
+   },
+   "records": [
+    "Q2572351"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Treaty of Salbai": {
+   "headline": "Mir v Salbaiju",
+   "paragraphs": [
+    "Mir v Salbaiju so 17. maja 1782 po dolgih pogajanjih o izidu prve angleško-marathske vojne podpisali predstavniki Marathske konfederacije in britanske Vzhodnoindijske družbe; podpisan je bil med Warrenom"
+   ],
+   "notes": [
+    "Povzetek vira se konča sredi stavka (»it was signed between Warren«); prevedeno je, kot stoji."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Salbai",
+    "rev": 1375500475,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Treaty of Salbai was signed on 17 May 1782, by representatives of the Maratha Confederacy and the British East India Company after long negotiations to settle the outcome of the First Anglo-Maratha War it was signed between Warren"
+    ]
+   },
+   "records": [
+    "Q2985337"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Treaty of Yandabo": {
+   "headline": "Mir v Jandabu",
+   "paragraphs": [
+    "Mir v Jandabu (burmansko: ရန္တပိုစာချုပ်) je bil mirovni sporazum, s katerim se je končala prva angleško-burmanska vojna. Podpisala sta ga 24. februarja 1826, skoraj dve leti po formalnem izbruhu vojne 5. marca 1824, general sir Archibald Campbell na britanski strani in upravitelj Legainga Maha Min Hla Kjaw Htin na burmanski strani, brez dovoljenja in soglasja kraljestva Ahom, kraljestva Kačari ali drugih ozemelj, ki jih je pogodba zadevala. Ker je bila britanska vojska v vasi Jandabo le 80 km od prestolnice Ava, so morali Burmanci britanske pogoje sprejeti brez razprave.",
+    "Po pogodbi so Burmanci privolili, da:",
+    "Britancem odstopijo Asam, Manipur, Rakhine (Arakan) in obalo Tanintharji (Tenaserim)."
+   ],
+   "notes": [
+    "Izpuščeni sta izgovarjava (IPA) in navedba v miljah. Seznam določil se v povzetku konča po prvi točki."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Treaty of Yandabo",
+    "rev": 1381669833,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Treaty of Yandabo (Burmese: ရန္တပိုစာချုပ် [jàɰ̃dəbò sàdʑoʊʔ]) was the peace treaty that ended the First Anglo-Burmese War. The treaty was signed on 24 February 1826, nearly two years after the war formally broke out on 5 March 1824, by General Sir Archibald Campbell on the British side, and the Governor of Legaing Maha Min Hla Kyaw Htin from the Burmese side, without any due permission and consent of the Ahom kingdom, Kachari kingdo, m or the other territories covered in the treaty. With the British army at Yandabo village, only 80 km (50 mi) from the capital Ava, the Burmese were forced to accept the British terms without discussion.",
+     "According to the treaty, the Burmese agreed to:",
+     "Cede to the British Assam, Manipur, Rakhine (Arakan), and the Tanintharyi (Tenasserim) coast."
+    ]
+   },
+   "records": [
+    "Q2639320"
    ],
    "translated": "2026-10-26"
   },
@@ -7428,6 +8191,27 @@
    ],
    "translated": "2026-10-26"
   },
+  "Umayyad campaigns in India": {
+   "headline": "Omajadski pohodi v Indijo",
+   "paragraphs": [
+    "V prvi polovici 8. stoletja se je na Indijski podcelini zvrstila vrsta bitk med Omajadskim kalifatom in indijskimi kraljestvi vzhodno od Inda, začenši z arabsko osvojitvijo Sinda (današnji Pakistan) v letih 711–713.",
+    "Rašidunski kalifat (632–661) je izvedel nekaj vpadov v Indijo, večjega pohoda pa ni bilo. Drugi val vojaškega širjenja Omajadskega kalifata je trajal od leta 692 do 718. V času vladanja al-Valida I. (705–715) so Omajadi v komaj desetih letih dosegli najveličastnejša osvajanja: Arabci so si podredili in osvojili Severno Afriko, Hispanijo, Transoksanijo in Sind. Sind, ki mu je vladal kralj Dahir iz brahmanske dinastije Čač, je zavzel omajadski general Mohamed ibn al-Kasim; postal je provinca kalifata druge ravni (iklim) in primerno oporišče za pohode v Indijo, vendar so po Ibn al-Kasimovem odhodu leta 715 indijski kralji večino njegovih osvojenih ozemelj znova zavzeli."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Umayyad campaigns in India",
+    "rev": 1374680875,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "During the first half of the 8th century, a series of battles took place in the Indian subcontinent between the Umayyad Caliphate and Indian kingdoms situated to the east of the Indus River, beginning with the Arab conquest of Sindh (present day Pakistan) during 711–713.",
+     "The Rashidun Caliphate (632–661) launched a few raids into India, but no larger campaign took place. The second wave of military expansion of the Umayyad Caliphate lasted from 692 to 718. The reign of Al-Walid I (705–715) saw the most dramatic Umayyad conquests in a period of barely ten years; North Africa, Hispania, Transoxiana, and Sindh were subdued and conquered by the Arabs. Sindh, ruled by King Dahir of the Brahmin Chach dynasty, was captured by the Umayyad general Muhammad ibn al-Qasim, which became a second-level province of the Caliphate (iqlim) and a suitable base for excursions into India, but, after Ibn al-Qasim's departure in 715 most of his captured territories were recaptured by Indian kings."
+    ]
+   },
+   "records": [
+    "Q4087317"
+   ],
+   "translated": "2026-10-26"
+  },
   "Utpala dynasty": {
    "headline": "Dinastija Utpala",
    "paragraphs": [
@@ -7523,6 +8307,43 @@
    },
    "records": [
     "vijayanagara-empire"
+   ],
+   "translated": "2026-10-26"
+  },
+  "War in Afghanistan (2001–2021)": {
+   "paragraphs": [
+    "Vojna v Afganistanu je bila dolgotrajen oborožen spopad od leta 2001 do 2021. Začela se je z invazijo koalicije pod vodstvom Združenih držav z imenom operacija Trajna svoboda kot odgovor na napade 11. septembra (9/11), ki jih je izvedla s talibani povezana Al Kaida s sedežem v Afganistanu. Sile pod ameriškim vodstvom, ki so podpirale protitalibansko Severno zavezništvo, so talibane pregnale iz večjih mest in s tem strmoglavile talibanski Islamski emirat. Leta 2004 je bila ustanovljena Islamska republika, ki so jo podpirale ZDA, vendar so se talibani pod vodstvom ustanovitelja mule Omarja tedaj že reorganizirali in začeli uporništvo proti afganistanski vladi in koalicijskim silam. Spopad se je končal, ko je talibanska ofenziva leta 2021 znova vzpostavila Islamski emirat. Bila je najdaljša vojna v vojaški zgodovini Združenih držav, saj je vietnamsko vojno presegla za šest mesecev."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "War in Afghanistan (2001–2021)",
+    "rev": 1379094332,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The war in Afghanistan was a prolonged armed conflict from 2001 to 2021. It began with an invasion by a United States–led coalition under the name Operation Enduring Freedom in response to the September 11 attacks (9/11) carried out by the Taliban-allied and Afghanistan-based al-Qaeda. The Taliban were expelled from major population centers by American-led forces supporting the anti-Taliban Northern Alliance, thus toppling the Taliban-ruled Islamic Emirate. In 2004, the U.S.-backed Islamic Republic was established, but by then, the Taliban, led by founder Mullah Omar, had reorganized and begun an insurgency against the Afghan government and coalition forces. The conflict ended as the 2021 Taliban offensive reestablished the Islamic Emirate. It was the longest war in United States military history, surpassing the Vietnam War by six months."
+    ]
+   },
+   "records": [
+    "Q182865"
+   ],
+   "translated": "2026-10-26"
+  },
+  "War in southern Vietnam (1945–1946)": {
+   "headline": "Vojna v južnem Vietnamu (1945–1946)",
+   "paragraphs": [
+    "Vojna v južnem Vietnamu 1945–1946, ki so jo Britanci imenovali operacija Masterdom, Vietnamci pa južna odporniška vojna (vietnamsko: Nam Bộ kháng chiến), je bila oborožen spopad v Vietnamu južno od 16. vzporednika, v katerem so britansko-indijske in francoske sile zatirale vietnamska osamosvojitvena gibanja, med njimi nekomunistične nacionaliste, trockiste in stalinistično frontno organizacijo Viet Minh, da bi prevzele nadzor nad južno polovico države. Začela se je kmalu po koncu druge svetovne vojne, natančneje po brezpogojni vdaji Japonske."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "War in southern Vietnam (1945–1946)",
+    "rev": 1381183007,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The 1945–1946 War in Southern Vietnam, codenamed Operation Masterdom by the British, and also known as the Southern Resistance War (Vietnamese: Nam Bộ kháng chiến) by the Vietnamese, was an armed conflict in Vietnam south of the 16th parallel during which British-Indian and French forces fought to suppress Vietnamese independence movements, which included non-communist nationalists, Trotskyists, and the Stalinist-front Viet Minh, to take control of the southern half of the country. It began shortly after the end of World War II, specifically the unconditional surrender of Japan."
+    ]
+   },
+   "records": [
+    "Q3365438"
    ],
    "translated": "2026-10-26"
   },
