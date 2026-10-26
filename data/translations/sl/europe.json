@@ -3,7 +3,7 @@
  "region": "europe",
  "method": "machine",
  "translator": "Claude Opus 5.5 (claude-opus-5-5) and Claude Sonnet 5.5 (claude-sonnet-5-5) with the slovene-newspaper-translation skill",
- "translated": "2026-10-24",
+ "translated": "2026-10-26",
  "reviewed": false,
  "licence": "CC BY-SA 4.0: translations of English Wikipedia text, attributed to each article and revision",
  "units": {
@@ -146,6 +146,25 @@
    ],
    "translated": "2026-10-24"
   },
+  "1940–1944 insurgency in Chechnya": {
+   "headline": "Upor v Čečeniji 1940–1944",
+   "paragraphs": [
+    "Upor v Čečeniji v letih 1940–1944 (rusko: Восстание Хасана Исраилова) je bil samostojen upor proti sovjetski oblasti v Čečensko-inguški avtonomni sovjetski socialistični republiki. Začel se je v začetku leta 1940 pod vodstvom Hasana Israilova, vrhunec je dosegel leta 1942 med nemškim vdorom na Severni Kavkaz, končal pa se je v začetku leta 1944 z množičnim zbiranjem in deportacijo vajnaških ljudstev (Čečenov in Ingušev) z njihove domače zemlje in iz krajev po vsej ZSSR; umrlo je najmanj 144.000 civilistov. Razpršen odpor v gorah se je kljub temu nadaljeval še leta."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "1940–1944 insurgency in Chechnya",
+    "rev": 1370279204,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The 1940–1944 insurgency in Chechnya (Russian: Восстание Хасана Исраилова) was an autonomous revolt against the Soviet authorities in the Chechen-Ingush Autonomous Soviet Socialist Republic. Beginning in early 1940 under Hasan Israilov, it peaked in 1942 during the German invasion of North Caucasus and ended in the beginning of 1944 with the wholesale concentration and deportation of the Vainakh peoples (Chechens and Ingushes) from their native lands as well as from the locations across the USSR, resulting in the death of at least 144,000 civilians. However, scattered resistance in the mountains continued for years."
+    ]
+   },
+   "records": [
+    "Q714706"
+   ],
+   "translated": "2026-10-26"
+  },
   "1944 Bulgarian coup d'état": {
    "headline": "Bolgarski državni udar leta 1944",
    "paragraphs": [
@@ -202,6 +221,27 @@
    ],
    "translated": "2026-10-23"
   },
+  "1983 Soviet nuclear false alarm incident": {
+   "paragraphs": [
+    "Sovjetski sistem zgodnjega opozarjanja na jedrski napad Oko je 26. septembra 1983, med hladno vojno, sporočil, da so iz Združenih držav izstrelili eno medcelinsko balistično raketo, za njo pa še štiri. Stanislav Petrov (1939–2017), inženir sovjetske protizračne obrambe, ki je bil dežuren v poveljniškem središču sistema, je posumil, da gre za lažne alarme. Namesto da bi opozorilo takoj sporočil višje po poveljniški verigi, se je odločil počakati na potrditev, ki je ni bilo. Velja, da je s to odločitvijo preprečil povračilni jedrski napad na Združene države in njihove zaveznice v Natu, ki bi verjetno sprožil vsesplošno jedrsko vojno. Preiskava satelitskega opozorilnega sistema je pozneje ugotovila, da je sistem res odpovedal."
+   ],
+   "notes": [
+    "The English opens without a definition sentence; kept as in the source."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "1983 Soviet nuclear false alarm incident",
+    "rev": 1381403237,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "On 26 September 1983, during the Cold War, the Soviet nuclear early warning system Oko reported the launch of one intercontinental ballistic missile with four more missiles behind it, from the United States. These missile attack warnings were suspected to be false alarms by Stanislav Petrov (1939–2017), an engineer of the Soviet Air Defence Forces on duty at the command center of the early-warning system. He decided to wait for corroborating evidence—of which none arrived—rather than immediately relaying the warning up the chain of command. This decision is seen as having prevented a retaliatory nuclear strike against the United States and its NATO allies, which would likely have resulted in a full-scale nuclear war. Investigation of the satellite warning system later determined that the system had indeed malfunctioned."
+    ]
+   },
+   "records": [
+    "Q4581203"
+   ],
+   "translated": "2026-10-26"
+  },
   "1991 Paris Peace Agreements": {
    "headline": "Pariški mirovni sporazumi (1991)",
    "paragraphs": [
@@ -250,6 +290,24 @@
    ],
    "translated": "2026-10-24"
   },
+  "1993 Russian constitutional crisis": {
+   "paragraphs": [
+    "Ruska ustavna kriza leta 1993 je izbruhnila septembra in oktobra 1993 v Ruski federaciji zaradi spora med tedanjim ruskim predsednikom Borisom Jelcinom in parlamentom. Jelcin je izvedel samoudar, razpustil parlament in uvedel vladanje z dekreti. Kriza se je končala, ko je Jelcin z vojaško silo napadel moskovski Dom sovjetov in dal aretirati poslance. V Rusiji so dogodki znani kot »oktobrski puč« (rusko: Октябрьский путч) ali »črni oktober« (Чëрный октябрь)."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "1993 Russian constitutional crisis",
+    "rev": 1382039884,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "In September and October 1993, a constitutional crisis arose in the Russian Federation from a conflict between the then Russian president Boris Yeltsin and the country's parliament. Yeltsin performed a self-coup, dissolving parliament and instituting a presidential rule by decree system. The crisis ended with Yeltsin using military force to attack Moscow's House of Soviets and arrest the lawmakers. In Russia, the events are known as the \"October Coup\" (Russian: Октябрьский путч, romanized: Oktyabr'skiy putch) or \"Black October\" (Чëрный октябрь, Chornyi Oktyabr')."
+    ]
+   },
+   "records": [
+    "Q862099"
+   ],
+   "translated": "2026-10-26"
+  },
   "1994 Serb J-21 Jastreb shootdown": {
    "headline": "Sestrelitev srbskih letal J-21 Jastreb leta 1994",
    "paragraphs": [
@@ -268,6 +326,45 @@
     "Q1984410"
    ],
    "translated": "2026-10-24"
+  },
+  "1998 Gali clashes": {
+   "headline": "Spopadi v Galiju leta 1998",
+   "paragraphs": [
+    "Spopadi v Galiju leta 1998 so potekali v okraju Gali v Abhaziji, potem ko so etnični Gruzijci začeli upor proti abhaški separatistični vladi. Spopad včasih imenujejo šestdnevna vojna v Abhaziji, vendar to ime zajema le abhaško ofenzivo, ki je trajala od 20. do 26. maja 1998, sovražnosti in napadi upornikov pa so se zgodili že prej."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "1998 Gali clashes",
+    "rev": 1370280024,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The 1998 Gali clashes took place in the Gali district of Abkhazia, after ethnic Georgians launched an insurgency against the Abkhazian separatist government. The conflict is sometimes referred to as the Six-Day War of Abkhazia; however, this name only takes into account the Abkhazian offensive that lasted from 20 to 26 May 1998, while hostilities and insurgent attacks had already occurred before that date."
+    ]
+   },
+   "records": [
+    "Q959303"
+   ],
+   "translated": "2026-10-26"
+  },
+  "1999 war in Dagestan": {
+   "paragraphs": [
+    "Invazija Dagestana ali vojna v Dagestanu leta 1999, znana tudi kot vpadi v Dagestan (rusko: Война в Дагестане), je bila oborožen spopad, ki se je začel, ko je islamistična skupina Mednarodna islamska mirovna brigada (IIPB) s sedežem v Ičkeriji, ki so jo vodili Šamil Basajev, Ibn al-Hatab, Ramzan Ahmadov in Arbi Barajev, 7. avgusta 1999 vdrla v sosednjo rusko republiko Dagestan. To je storila v podporo separatističnim upornikom Šure Dagestana.",
+    "Vojna se je končala z veliko zmago Ruske federacije in Republike Dagestan ter umikom IIPB. Vdor v Dagestan je bil skupaj z vrsto bombnih napadov na stanovanjske bloke septembra 1999 glavni povod (casus belli) za drugo čečensko vojno."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "1999 war in Dagestan",
+    "rev": 1381748363,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The 1999 war in Dagestan, also known as the Dagestan incursions (Russian: Война в Дагестане), was an armed conflict that began when the Ichkerian-based Islamic International Peacekeeping Brigade (IIPB), an Islamist group led by Shamil Basayev, Ibn al-Khattab, Ramzan Akhmadov and Arbi Barayev, invaded the neighboring Russian republic of Dagestan on 7 August 1999. They did so in support of the Shura of Dagestan separatist rebels.",
+     "The war ended with a major victory for the Russian Federation and the Republic of Dagestan, and the retreat of the IIPB. The invasion of Dagestan, alongside a series of apartment bombings in September 1999, served as the main casus belli for the Second Chechen War."
+    ]
+   },
+   "records": [
+    "Q643925"
+   ],
+   "translated": "2026-10-26"
   },
   "2001 insurgency in Macedonia": {
    "headline": "Upor v Makedoniji leta 2001",
@@ -306,6 +403,24 @@
     "Q14605366"
    ],
    "translated": "2026-10-23"
+  },
+  "2014 pro-Russian unrest in Ukraine": {
+   "paragraphs": [
+    "Proruski protesti v Ukrajini leta 2014 so se začeli konec februarja 2014, po evromajdanu in revoluciji dostojanstva, ki sta pripeljala do odstavitve proruskega ukrajinskega predsednika Viktorja Janukoviča. Na Krimu ter v Donecku, Lugansku, Harkovu in Odesi so tedaj potekale demonstracije skupin, ki jih je podpirala Rusija, proruskih in protivladnih skupin (pa tudi demonstracije v podporo vladi). Nemiri, ki so jih podpirale ruska vojska in obveščevalne službe, sodijo v zgodnjo fazo rusko-ukrajinske vojne."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "2014 pro-Russian unrest in Ukraine",
+    "rev": 1381972344,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "From the end of February 2014, in the aftermath of the Euromaidan and the Revolution of Dignity, which resulted in the ousting of Russian-leaning Ukrainian president Viktor Yanukovych, demonstrations by Russian-backed, pro-Russian, and anti-government groups (as well as pro-government demonstrations) took place in Crimea, Donetsk, Luhansk, Kharkiv, and Odesa. The unrest, which was supported by the Russian military and intelligence services, belongs to the early stages of the Russo-Ukrainian war."
+    ]
+   },
+   "records": [
+    "Q15871713"
+   ],
+   "translated": "2026-10-26"
   },
   "28 May 1926 coup d'état": {
    "headline": "Državni udar 28. maja 1926",
@@ -741,6 +856,25 @@
    ],
    "translated": "2026-10-23"
   },
+  "Anti-Ballistic Missile Treaty": {
+   "headline": "Pogodba o protibalističnih raketah",
+   "paragraphs": [
+    "Pogodba o protibalističnih raketah (angleška kratica ABM ali ABMT) je bila pogodba o nadzoru oborožitve iz leta 1972 med Združenimi državami in Sovjetsko zvezo o omejitvi protibalističnih raketnih sistemov (ABM), s katerimi se branijo območja pred strateškimi balističnimi raketami za prenos jedrskega orožja. Njen namen je bil zmanjšati pritisk na gradnjo novega jedrskega orožja za ohranjanje odvračanja. Podpisana leta 1972 je veljala naslednjih 30 let. Združene države so se pod administracijo Georgea W. Busha junija 2002 enostransko umaknile iz pogodbe z utemeljitvijo, da jim domnevno grozi jedrsko izsiljevanje odpadniških držav, in pogodba je prenehala veljati. Za obrambo pred medcelinskimi balističnimi raketami ZDA odtlej uporabljajo kopenski sistem Ground-Based Midcourse Defense na Aljaski in v Kaliforniji ter pomorski sistem Aegis Ballistic Missile Defense. Rusija vzdržuje protiraketni sistem A-135 okoli Moskve in je razvila raketni sistem S-500."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Anti-Ballistic Missile Treaty",
+    "rev": 1369091885,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Anti-Ballistic Missile Treaty, also known as the ABM Treaty or ABMT, was a 1972 arms control treaty between the United States and the Soviet Union on the limitation of the anti-ballistic missile (ABM) systems used in defending areas against strategic ballistic missiles, which are used to deliver nuclear weapons It was intended to reduce pressures to build more nuclear weapons to maintain deterrence. Signed in 1972, it was in force for the next 30 years. Citing purported risks of nuclear blackmail from a rogue state, the United States under the George W. Bush administration unilaterally withdrew from the treaty in June 2002, leading to its termination. In ICBM defense, the US has subsequently operated the Ground-Based Midcourse Defense ABM system based in Alaska and California, as well as the sea-based Aegis Ballistic Missile Defense System. Russia maintains the A-135 ABM system around Moscow, and has developed the S-500 missile system."
+    ]
+   },
+   "records": [
+    "Q287422"
+   ],
+   "translated": "2026-10-26"
+  },
   "Anti-Comintern Pact": {
    "paragraphs": [
     "Antikominternski pakt, uradno Sporazum proti Komunistični internacionali, je bil protikomunistični pakt, ki sta ga 25. novembra 1936 sklenili nacistična Nemčija in Japonsko cesarstvo in je bil usmerjen proti Komunistični internacionali (Kominterni). Podpisala sta ga nemški veleposlanik s posebnimi pooblastili Joachim von Ribbentrop in japonski veleposlanik v Nemčiji Kintomo Mušanokodži. Italija se je pridružila leta 1937 (pred tem je podpisala italijansko-sovjetski pakt, delno usmerjen proti Hitlerju), a je bila po pogojih pristopa pravno priznana kot prvotna podpisnica. Španija in Madžarska sta se pridružili leta 1939. Druge države so pristopile med drugo svetovno vojno.",
@@ -919,6 +1053,27 @@
    ],
    "translated": "2026-10-24"
   },
+  "Attacks in Russia during the Russo-Ukrainian war (2022–present)": {
+   "paragraphs": [
+    "Od ruske invazije na Ukrajino 24. februarja 2022 je bilo v celinski Rusiji zaradi rusko-ukrajinske vojne več napadov. Glavni cilji so bili vojska, orožarska industrija in naftna industrija. Mnogi napadi so bili napadi z droni, požigi in sabotaže na železnici. Ukrajinske obveščevalne službe so priznale, da so izvedle nekatere od teh napadov, druge so izvedli protivojni aktivisti v Rusiji. Prišlo je tudi do čezmejnega obstreljevanja, raketnih napadov in prikritih vpadov iz Ukrajine, predvsem v Belgorodski, Kurski in Brjanski oblasti. Paravojaške enote s sedežem v Ukrajini so večkrat vdrle v Rusijo, zavzele obmejne vasi in se bojevale z rusko vojsko. Te enote so večinoma sestavljali ruski emigranti. Ukrajina je kopenske vpade podpirala, neposredno vpletenost pa je zanikala."
+   ],
+   "notes": [
+    "The glossary headline (Napad v zahodni Rusiji v letih 2022–2023) is narrower than the English article, which covers attacks in Russia from 2022 on."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Attacks in Russia during the Russo-Ukrainian war (2022–present)",
+    "rev": 1380224455,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "There have been attacks in mainland Russia as a result of the Russo-Ukrainian war since its invasion of Ukraine on 24 February 2022. The main targets have been the military, the arms industry and the oil industry. Many of the attacks have been drone strikes, firebombing, and rail sabotage. The Ukrainian intelligence services have acknowledged carrying out some of these attacks. Others have been carried out by anti-war activists in Russia. There have also been cross-border shelling, missile strikes, and covert raids from Ukraine, mainly in Belgorod, Kursk, and Bryansk oblasts. Several times, Ukrainian-based paramilitaries launched incursions into Russia, captured border villages and battled the Russian military. These were carried out by units made up mainly of Russian emigrants. While Ukraine supported these ground incursions, it denied direct involvement."
+    ]
+   },
+   "records": [
+    "Q111607033"
+   ],
+   "translated": "2026-10-26"
+  },
   "Austro-Hungarian campaign in Bosnia and Herzegovina in 1878": {
    "paragraphs": [
     "Pohod za vzpostavitev avstro-ogrske oblasti v Bosni in Hercegovini je trajal od 29. julija do 20. oktobra 1878. Naperjen je bil proti krajevnim upornikom, muslimanom in pravoslavnim Srbom, ki so jih neuradno podpirale čete Osmanskega cesarstva. Avstro-ogrska vojska je v pokrajino vkorakala v dveh velikih smereh: ena s severa v Bosno, druga z juga v Hercegovino. Vrsta avgustovskih bitk se je končala s padcem Sarajeva 19. avgusta, po dnevu uličnih bojev. Na hribovitem podeželju se je gverilsko bojevanje nadaljevalo, dokler po zajetju voditelja upornikov ni padlo njihovo zadnje oporišče."
@@ -1001,6 +1156,25 @@
    ],
    "translated": "2026-10-23"
   },
+  "Azov campaigns (1695–1696)": {
+   "headline": "Azovska pohoda (1695–1696)",
+   "paragraphs": [
+    "Azovska pohoda v letih 1695–1696 (rusko: Азо́вские похо́ды) sta bila ruska vojaška pohoda med rusko-turško vojno 1686–1700, ki ju je vodil Peter Veliki; njun cilj je bil zavzeti turško trdnjavo Azov (s posadko 7000 mož) in tako nadzorovati južno ustje Dona ter pridobiti dostop do Azovskega morja in vhod v Črno morje. Rusi pod vodstvom generala Šeremetjeva so po neuspelem obleganju leta 1695 kljub trdovratnemu odporu in hudim izgubam ob podpori pomorskih sil julija 1696 trdnjavo zavzeli; to je bila prva velika ruska zmaga nad Turki."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Azov campaigns (1695–1696)",
+    "rev": 1379875245,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Azov campaigns of 1695–1696 (Russian: Азо́вские похо́ды, romanized: Azovskiye Pokhody) were two Russian military campaigns during the Russo-Turkish War of 1686–1700, led by Peter the Great and aimed at capturing the Turkish fortress of Azov (garrison – 7,000 men) with the aim of controlling the southern mouth of the Don River gaining access to the Sea of Azov and entrance to the Black Sea. Despite stubborn resistance and heavy casualties, the Russians under General Sheremetev after a failed siege in 1695 managed to capture the fort, accompanied by a naval force, in July 1696, marking the first major Russian victory against the Turks."
+    ]
+   },
+   "records": [
+    "Q1763834"
+   ],
+   "translated": "2026-10-26"
+  },
   "Balkans campaign (World War II)": {
    "paragraphs": [
     "Balkanska kampanja druge svetovne vojne se je začela z italijansko invazijo na Grčijo 28. oktobra 1940. V prvih mesecih leta 1941 je italijanska ofenziva zastala, grška protiofenziva pa je prodrla v Albanijo. Nemčija je Italiji želela pomagati, zato je čete namestila v Romuniji in Bolgariji ter Grčijo napadla z vzhoda. Medtem so Britanci izkrcali vojake in letala, da bi okrepili grško obrambo. Po državnem udaru v Jugoslaviji 27. marca je Adolf Hitler ukazal osvojitev te države.",
@@ -1042,6 +1216,25 @@
    ],
    "translated": "2026-10-24"
   },
+  "Baranovichi offensive": {
+   "headline": "Baranoviška ofenziva",
+   "paragraphs": [
+    "Baranoviška ofenziva je bila bitka na vzhodni fronti prve svetovne vojne med rusko armado ter silami Nemčije in Avstro-Ogrske julija 1916."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Baranovichi offensive",
+    "rev": 1371105554,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Baranovichi offensive was a battle fought on the Eastern Front during World War I between an army of Russia and the forces of Germany and Austria-Hungary in July 1916."
+    ]
+   },
+   "records": [
+    "Q4077792"
+   ],
+   "translated": "2026-10-26"
+  },
   "Barcelona Convention": {
    "headline": "Barcelonska konvencija",
    "paragraphs": [
@@ -1062,6 +1255,25 @@
     "Q2118997"
    ],
    "translated": "2026-10-23"
+  },
+  "Barents Region": {
+   "headline": "Barentsova regija",
+   "paragraphs": [
+    "Barentsova regija je ime, ki so ga zagovorniki mednarodnega sodelovanja po razpadu Sovjetske zveze dali ozemlju ob obali Barentsovega morja, od okrožja Nordland na Norveškem do polotoka Kola v Rusiji in naprej vse do Urala in Nove Zemlje, na jugu pa do Botnijskega zaliva v Baltskem morju ter velikih jezer Ladoga in Onega. Med projekti je Barentsova cesta od Bodøja na Norveškem prek Haparande na Švedskem in Finske do Murmanska v Rusiji. Regija ima šest milijonov prebivalcev na 1,75 milijona km²; Rusiji pripadajo tri četrtine obojega."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Barents Region",
+    "rev": 1374984024,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Barents Region is a name given, by advocates of establishing international cooperation after the fall of the Soviet Union, to the land along the coast of the Barents Sea, from Nordland county in Norway to the Kola Peninsula in Russia and beyond all the way to the Ural Mountains and Novaya Zemlya, and south to the Gulf of Bothnia of the Baltic Sea and the great lakes Ladoga and Onega. Among the projects is the Barents Road from Bodø in Norway through Haparanda in Sweden and Finland to Murmansk in Russia. The region has six million inhabitants on 1.75 million km2; three quarters of both belong to Russia."
+    ]
+   },
+   "records": [
+    "Q808091"
+   ],
+   "translated": "2026-10-26"
   },
   "Basic Treaty, 1972": {
    "paragraphs": [
@@ -1147,6 +1359,25 @@
     "Q696823"
    ],
    "translated": "2026-10-23"
+  },
+  "Battle for Height 776": {
+   "headline": "Bitka za višino 776",
+   "paragraphs": [
+    "Bitka za višino 776, del širše bitke pri Ulus-Kertu, je bila spopad v drugi čečenski vojni med boji za nadzor nad sotesko reke Argun v visokogorskem Šatojskem okraju v osrednji Čečeniji, med vasema Ulus-Kert in Selmentauzen."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle for Height 776",
+    "rev": 1372673028,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Battle for Height 776, part of the larger Battle of Ulus-Kert, was an engagement in the Second Chechen War that took place during fighting for control of the Argun River gorge in the highland Shatoysky District of central Chechnya, between the villages of Ulus-Kert and Selmentauzen."
+    ]
+   },
+   "records": [
+    "Q1530585"
+   ],
+   "translated": "2026-10-26"
   },
   "Battle of Aachen": {
    "paragraphs": [
@@ -2092,6 +2323,28 @@
    ],
    "translated": "2026-10-23"
   },
+  "Battle of Avdiivka (2023–2024)": {
+   "paragraphs": [
+    "Bitka za Avdijivko je bila velika bitka med ruskimi in ukrajinskimi oboroženimi silami za nadzor nad Avdijivko, mestom v Doneški oblasti, med rusko-ukrajinsko vojno (od leta 2022). Po več kot letu in pol občasnih bojev na obrobju mesta so ruske sile 10. oktobra 2023 začele ofenzivo za zavzetje Avdijivke, ki je veljala za eno najbolj krvavih in najsrditejših bitk vojne.",
+    "Avdijivka je bila eno najbolj utrjenih naselij v Ukrajini in so jo opisovali kot »vrata« do bližnjega pokrajinskega središča Doneck. Ukrajinski nadzor nad Avdijivko je ruskim silam preprečeval, da bi Doneck in njegove vire uporabljale kot komunikacijsko vozlišče, in onemogočal ruske preboje na tej smeri.",
+    "Vrhovni poveljnik Oleksandr Sirski je 17. februarja 2024, ko so bile zadnje ukrajinske oskrbovalne poti v mesto resno ogrožene, sporočil, da ukrajinske sile umikajo iz mesta, »da bi se izognili obkolitvi ter ohranili življenje in zdravje vojakov«."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Avdiivka (2023–2024)",
+    "rev": 1378237508,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Battle of Avdiivka was a major battle between the Russian and Ukrainian Armed Forces for control of Avdiivka, a city in Donetsk Oblast, during the Russo-Ukrainian war (2022–present). After more than a year and a half of intermittent fighting along the city's outskirts, Russian forces launched an offensive to capture Avdiivka on 10 October 2023, resulting in what was considered one of the bloodiest and fiercest battles of the war.",
+     "Avdiivka was one of the most fortified settlements in Ukraine and had been described as a \"gateway\" to the nearby provincial capital of Donetsk. Ukraine's control of Avdiivka had prevented Russian forces from using Donetsk and its resources as a communications hub and prevented Russian breakthroughs on this axis.",
+     "On 17 February 2024, with the last Ukrainian supply routes into the city under serious threat, commander-in-chief Oleksandr Syrskyi announced that Ukrainian forces were being withdrawn from the city \"to avoid encirclement and preserve the lives and health of service personnel.\""
+    ]
+   },
+   "records": [
+    "Q111383245"
+   ],
+   "translated": "2026-10-26"
+  },
   "Battle of Badajoz (1936)": {
    "headline": "Bitka za Badajoz (1936)",
    "paragraphs": [
@@ -2150,6 +2403,45 @@
     "Q728550"
    ],
    "translated": "2026-10-23"
+  },
+  "Battle of Bakhmach": {
+   "headline": "Bitka pri Bahmaču",
+   "paragraphs": [
+    "Bitka pri Bahmaču (češko: Bitva u Bachmače) je bila ena zadnjih bitk na vzhodni fronti prve svetovne vojne; češkoslovaška legija, ki jo je podpirala antanta, in sovjetska Rusija sta se v njej spopadli s centralnimi silami, ki so po brestlitovskem miru zasedale Ukrajino. Trajala je od 8. do 13. marca 1918, boji pa so se vrteli okoli mesta Bahmač; za Sovjete je bil to zadnji spopad v prvi svetovni vojni. Po zmagi legije so se Nemci pogajali za premirje."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Bakhmach",
+    "rev": 1370433042,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "Battle of Bakhmach (Bitva u Bachmače in Czech), was one of the last battles on the Eastern Front in World War I between the Entente-backed Czechoslovak Legion, Soviet Russia and the Central Powers occupying Ukraine after the Treaty of Brest-Litovsk. The battle lasted from March 8 to March 13, 1918, over the city of Bakhmach and was the last engagement in World War I for the Soviets. Following a Legion victory, the Germans negotiated a truce."
+    ]
+   },
+   "records": [
+    "Q2537219"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Battle of Bakhmut": {
+   "paragraphs": [
+    "Bitka za Bahmut je bila velika bitka med ruskimi in ukrajinskimi oboroženimi silami za nadzor nad mestom Bahmut na vzhodni fronti, bojišču rusko-ukrajinske vojne. Nekateri vojaški analitiki menijo, da je bila to najbolj krvava bitka po drugi svetovni vojni.",
+    "Obstreljevanje Bahmuta se je začelo maja 2022, ruske ofenzive na oddaljenih dostopih do mesta pa v začetku julija. Glavni napad na samo mesto se je začel, ko so ruske sile po umiku Ukrajincev s te fronte napredovale iz smeri Popasne. Glavnino napadalnih sil so sestavljali najemniki ruske paravojaške organizacije Wagner, podpirale pa so jih redne ruske čete in po poročilih tudi enote milice Doneške ljudske republike."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Bakhmut",
+    "rev": 1378412763,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Battle of Bakhmut was a major battle between the Russian Armed Forces and the Ukrainian Armed Forces for control of the city of Bakhmut, during the eastern front, a theatre of the Russo-Ukrainian war. It is regarded by some military analysts to be the bloodiest battle since World War II.",
+     "The shelling of Bakhmut began in May 2022, and Russian offensives on the distant approaches to the city began in early July. The main assault towards the city itself started after Russian forces advanced from the direction of Popasna following a Ukrainian withdrawal from that front. The main assault force consisted primarily of mercenaries from the Russian paramilitary organization Wagner Group, supported by regular Russian troops and reportedly Donetsk People's Republic militia elements."
+    ]
+   },
+   "records": [
+    "Q112114958"
+   ],
+   "translated": "2026-10-26"
   },
   "Battle of Bannockburn": {
    "headline": "Bitka pri Bannockburnu",
@@ -2469,6 +2761,25 @@
    ],
    "translated": "2026-10-24"
   },
+  "Battle of Berezina": {
+   "headline": "Bitka na Berezini",
+   "paragraphs": [
+    "Bitka na Berezini je potekala od 26. do 29. novembra 1812 med Napoleonovo veliko armado in rusko cesarsko vojsko pod vodstvom feldmaršala Wittgensteina in admirala Čičagova. Napoleon se je po spodleteli zasedbi Moskve v kaosu umikal proti Poljski in skušal pri Borisovu prečkati reko Berezino. Izid bitke je bil neodločen, saj je Napoleonu kljub hudim izgubam uspelo prečkati reko in nadaljevati umik s preživelimi ostanki vojske."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Berezina",
+    "rev": 1370107724,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Battle of (the) Berezina (or Beresina) took place from 26 to 29 November 1812, between Napoleon's Grande Armée and the Imperial Russian Army under Field Marshal Wittgenstein and Admiral Chichagov. Napoleon was retreating toward Poland in chaos after the aborted occupation of Moscow and trying to cross the Berezina River at Borisov. The outcome of the battle was inconclusive as, despite heavy losses, Napoleon managed to cross the river and continue his retreat with the surviving remnants of his army."
+    ]
+   },
+   "records": [
+    "Q555839"
+   ],
+   "translated": "2026-10-26"
+  },
   "Battle of Bergen (1759)": {
    "headline": "Bitka pri Bergnu (1759)",
    "paragraphs": [
@@ -2664,6 +2975,25 @@
     "Q581401"
    ],
    "translated": "2026-10-23"
+  },
+  "Battle of Blue Waters": {
+   "headline": "Bitka pri Modrih vodah",
+   "paragraphs": [
+    "Bitka pri Modrih vodah je potekala nekega dne jeseni 1362 ali 1363 na bregovih reke Sinjuha, levega pritoka Južnega Buga; vojski Velike kneževine Litve in Kneževine Moldavije sta se v njej spopadli z Zlato hordo. Litovci so dosegli odločilno zmago in dokončali osvojitev Kijevske kneževine, Moldavci pa so se otresli odvisnosti od Zlate horde."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Blue Waters",
+    "rev": 1374115605,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Battle of Blue Waters was fought at some time in the autumn of 1362 or 1363 on the banks of the Syniukha River, a left tributary of the Southern Bug, between the armies of the Grand Duchy of Lithuania and Principality of Moldavia against the Golden Horde. The Lithuanians won a decisive victory and finalized their conquest of the Principality of Kiev, while the Moldavians managed to end their dependence on the Golden Horde."
+    ]
+   },
+   "records": [
+    "Q954356"
+   ],
+   "translated": "2026-10-26"
   },
   "Battle of Blumenau": {
    "headline": "Bitka pri Blumenauu",
@@ -2923,6 +3253,50 @@
    ],
    "translated": "2026-10-23"
   },
+  "Battle of Brody (1941)": {
+   "headline": "Bitka pri Brodih (1941)",
+   "paragraphs": [
+    "Bitka pri Brodih (imenovana tudi bitka pri Dubnu, bitka pri Rovnem ali bitka pri Rovnem in Brodih) je bila tankovska bitka med III. armadnim korpusom in XLVIII. (motoriziranim) armadnim korpusom 1. tankovske skupine ter petimi mehaniziranimi korpusi sovjetske 5. in 6. armade v trikotniku med mesti Dubno, Luck in Brodi od 23. do 30. junija 1941. Bila je ena najsrditejših oklepnih bitk v začetni fazi operacije Barbarossa, nekateri pa trdijo, da je morda presegla celo bolj znano bitko pri Prohorovki. V njej je sodelovalo daleč največ tankov (bitko pri Prohorovki, del bitke pri Kursku, napačno štejejo za največjo tankovsko bitko). V sovjetskem zgodovinopisju je znana kot ena od »obmejnih obrambnih bitk«. Enote Rdeče armade so Nemcem prizadejale hude izgube, vendar so jih Nemci izmanevrirali in so izgubile ogromno tankov. Slaba sovjetska logistika, nemška zračna premoč in popoln zlom poveljevanja v Rdeči armadi so Wehrmachtu kljub veliki številčni in tehnični premoči Rdeče armade zagotovili zmago."
+   ],
+   "notes": [
+    "Dubna and Dubno are two English spellings of one name; the Slovenian gives it once."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Brody (1941)",
+    "rev": 1375126696,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Battle of Brody (other names in use include Battle of Dubna, Battle of Dubno, Battle of Rovne, Battle of Rovne-Brody) was a tank battle fought between the 1st Panzer Group's III Army Corps and XLVIII Army Corps (Motorized) and five mechanized corps of the Soviet 5th Army and 6th Army in the triangle formed by the towns of Dubno, Lutsk and Brody between 23 and 30 June 1941. It was one of the most intense armored engagements in the opening phase of Operation Barbarossa, and some say that it may surpass the more famous Battle of Prokhorovka. It is by far the battle with the largest number of tanks participating (incorrectly, the Battle of Prokhorovka, part of the Battle of Kursk, is seen as the biggest tank battle). It is known in Soviet historiography as one of the \"border defensive battles\". Although the Red Army formations inflicted heavy losses on the German forces, they were outmanoeuvred and suffered enormous losses in tanks. Poor Soviet logistics, German air supremacy and a total breakdown in Red Army command and control ensured victory for the Wehrmacht despite overwhelming Red Army numerical and technological superiority."
+    ]
+   },
+   "records": [
+    "Q708213"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Battle of Brovary": {
+   "headline": "Bitka za Brovari",
+   "paragraphs": [
+    "Med rusko invazijo na Ukrajino je prišlo do spopada v Brovarih, vzhodnem predmestju ukrajinske prestolnice Kijeva. Ruske sile so napredovale proti zahodu z juga Černigovske oblasti, kjer so se spopadle z ukrajinskimi silami. Z območja so se umaknile do 1. ali 2. aprila 2022."
+   ],
+   "notes": [
+    "The English opens without a definition sentence; kept as in the source."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Brovary",
+    "rev": 1378429806,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "During the Russian invasion of Ukraine, a military engagement took place at Brovary, an eastern suburb of Kyiv, the capital city of Ukraine. Russian forces advanced west from southern Chernihiv Oblast and were engaged by Ukrainian forces. Russian forces withdrew from the area by 1-2 April 2022."
+    ]
+   },
+   "records": [
+    "Q111213399"
+   ],
+   "translated": "2026-10-26"
+  },
   "Battle of Brunanburh": {
    "headline": "Bitka pri Brunanburhu",
    "paragraphs": [
@@ -2963,6 +3337,64 @@
     "Q2060419"
    ],
    "translated": "2026-10-23"
+  },
+  "Battle of Bryansk": {
+   "headline": "Bitka pri Brjansku",
+   "paragraphs": [
+    "Bitka pri Brjansku (30. septembra – 21. oktobra 1941) je bila bitka druge svetovne vojne v Brjanski oblasti, del širšega moskovskega pohoda. Heinz Guderian je po vrnitvi iz kijevske operacije napadel v nepričakovani smeri, z majhnimi izgubami zavzel Brjansk in Orjol ter obkolil dve sovjetski armadi, 13. in 3. armado. Tretjo sovjetsko armado, 50., je severno od Brjanska obkolila pehota nemške 2. armade. Obkoljene enote Rdeče armade so se kljub temu bojevale naprej in pohod na Moskvo zadržale za dva tedna. Ta zamuda in izgube, ki jih je Wehrmacht utrpel pri uničevanju obkoljenih žepov, sta prispevali k nemškemu zlomu pred vrati Moskve. Gl. tudi: obkolitvi pri Vjazmi in Brjansku. Po tej bitki so Nemci Brjansk zasedali, dokler jih 17. septembra 1943 v okviru smolenske ofenzive ni pregnala Rdeča armada."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Bryansk",
+    "rev": 1370435358,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Battle of Bryansk (30 September – 21 October 1941) was a battle during World War II conducted in the Bryansk Oblast as a part of the overall Moscow campaign. Returning from the Kiev operation, Heinz Guderian attacked in an unexpected direction capturing Bryansk and Oryol with few casualties thereby encircling two Soviet formations, the 13th Army and 3rd Army. A third Soviet formation, the 50th Army was encircled by infantry of the German 2nd Army north of Bryansk. However the encircled Red Army units continued fighting, delaying the drive on Moscow for two weeks. This delay, as well as the casualties taken by the Wehrmacht liquidating the pockets contributed to the German collapse at the gates of Moscow. See also: Vyazma and Bryansk pockets. As a result of this battle, the Germans occupied Bryansk until they were expelled by the Red Army on 17 September 1943 as a part of the Smolensk campaign."
+    ]
+   },
+   "records": [
+    "Q4870577"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Battle of Brześć Litewski": {
+   "headline": "Bitka pri Brześću Litewskem",
+   "paragraphs": [
+    "Bitka pri Brześću Litewskem (znana tudi kot obleganje Brześća, bitka pri Brest-Litovsku ali preprosto bitka pri Brześću) je bila bitka druge svetovne vojne med nemškimi in poljskimi silami od 14. do 17. septembra 1939 blizu mesta Brześć Litewski na Poljskem (danes Brest v Belorusiji). Po treh dneh hudih bojev za utrdbo v mestu so Nemci trdnjavo zavzeli, Poljaki pa so se umaknili."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Brześć Litewski",
+    "rev": 1381958952,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Battle of Brześć Litewski (also known as the siege of Brześć, the battle of Brest-Litovsk or simply the battle of Brześć) was a World War II battle involving German and Polish forces that took place between 14 and 17 September 1939, near the town of Brześć Litewski, Poland (now Brest, Belarus). After three days of heavy fights for the stronghold in the town of Brześć, the Germans captured the fortress and the Poles withdrew."
+    ]
+   },
+   "records": [
+    "Q694416"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Battle of Bucha": {
+   "paragraphs": [
+    "Bitka za Bučo je bila del kijevske ofenzive v ruski invaziji na Ukrajino, boj za nadzor nad mestom Buča. Spopadle so se enote ruskih oboroženih sil in ukrajinske kopenske vojske. Bitka je trajala od 27. februarja do 31. marca 2022 in se končala z umikom ruskih sil. Bila je del širše taktike obkolitve Kijeva, ukrajinske prestolnice.",
+    "Ukrajinske oborožene sile so se ruskemu napredovanju upirale v zahodnih predmestjih prestolnice, Irpinu, Buči in Hostomelu. Kijevska oblastna državna uprava je Bučo navedla med najnevarnejšimi kraji v Kijevski oblasti. Ko so se ruske sile iz Buče umaknile in so ukrajinske sile spet prevzele nadzor nad mestom, so odkrita grozodejstva ruske vojske, znana kot pokol v Buči, pritegnila mednarodno pozornost."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Bucha",
+    "rev": 1370435447,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Battle of Bucha was part of the Kyiv offensive in the Russian invasion of Ukraine for control of the city of Bucha. The combatants were elements of the Russian Armed Forces and Ukrainian Ground Forces. The battle lasted from 27 February to 31 March 2022 and ended with the withdrawal of Russian forces. The battle was part of a larger tactic to encircle Kyiv, the capital city of Ukraine.",
+     "The armed forces of Ukraine resisted the Russian advance in the capital's western suburbs of Irpin, Bucha, and Hostomel. Bucha was among the locations that the Kyiv Oblast State Administration named as the most dangerous places in the Kyiv Oblast. After Russian forces withdrew from Bucha and Ukrainian forces regain the city's control, the uncovered atrocities committed by the Russian military, known as Bucha massacre, attracted international attention."
+    ]
+   },
+   "records": [
+    "Q111154781"
+   ],
+   "translated": "2026-10-26"
   },
   "Battle of Bucharest": {
    "headline": "Bitka za Bukarešto",
@@ -3826,6 +4258,27 @@
    ],
    "translated": "2026-10-23"
   },
+  "Battle of Chasiv Yar": {
+   "headline": "Bitka za Časiv Jar",
+   "paragraphs": [
+    "Bitka za Časiv Jar je spopad v rusko-ukrajinski vojni med ruskimi oboroženimi silami in oboroženimi silami Ukrajine za nadzor nad mestom Časiv Jar in okoliškimi vasmi. Začela se je 4. aprila 2024 s prvim neposrednim ruskim napadom na mesto; doslej so ruske sile zavzele del mesta vzhodno od kanala, ki teče skozenj, prečkale kanal in v začetku avgusta 2025 trdile, da so mesto zavzele. Decembra 2025 je Inštitut za preučevanje vojne poročal o nadaljnjih bojih v mestu.",
+    "Zaradi vzpetega terena, ki ga je lahko braniti, in strateške lege v Doneški oblasti velja Časiv Jar za ključno pokrajinsko mesto za obe vojski. Po mnenju analitikov bi rusko zavzetje Časiv Jara verjetno omogočilo nadaljnje napredovanje proti mestoma Kramatorsk in Slovjansk, največjima naseljema Doneške oblasti, ki nista pod rusko okupacijo. Avgusta 2026 sta bili ti mesti še pod ukrajinskim nadzorom, čeprav pod ruskim obstreljevanjem."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Chasiv Yar",
+    "rev": 1378315957,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Battle of Chasiv Yar is a military engagement in the Russo-Ukrainian war between the Russian Armed Forces and the Armed Forces of Ukraine for control of the city of Chasiv Yar and surrounding villages. The battle began on 4 April 2024 with the first direct assault on the city by Russian forces, and has thus far seen the capture of the district east of a canal passing through the city, the crossing of the canal, and the claimed capture of the city as of early August 2025. As of December 2025, the Institute for the Study of War reported continued fighting in the city",
+     "Due to its defensible elevated terrain and strategic location in Donetsk Oblast, Chasiv Yar is regarded as a pivotal provincial city for either army to control. According to analysts, a Russian capture of Chasiv Yar would likely allow further advances towards the cities of Kramatorsk and Sloviansk, the two largest settlements in Donetsk Oblast not under Russian occupation. However, as of August 2026, these cities remain under Ukrainian control, although subject to Russian shelling."
+    ]
+   },
+   "records": [
+    "Q125119195"
+   ],
+   "translated": "2026-10-26"
+  },
   "Battle of Château-Thierry (1814)": {
    "headline": "Bitka pri Château-Thierryju (1814)",
    "paragraphs": [
@@ -4396,6 +4849,29 @@
    ],
    "translated": "2026-10-24"
   },
+  "Battle of Debaltseve": {
+   "paragraphs": [
+    "Bitka za Debalcevo je bila vojaški spopad, ki se je začel sredi januarja 2015 med vojno v Donbasu, v mestu Debalcevo v Doneški oblasti, med proruskimi separatističnimi silami Doneške ljudske republike (DLR) in Luganske ljudske republike (LLR) ter ukrajinskimi oboroženimi silami. Ruske sile, ki so jih večinoma sestavljali vojaki »skupine Wagner«, so znova zavzele Debalcevo, ki je bilo pod ukrajinskim nadzorom od protiofenzive vladnih sil julija 2014. Mesto je ležalo v »klinu« ozemlja pod ukrajinskim nadzorom, ki ga je na eni strani obdajala DLR, na drugi pa LLR, in je bilo pomembno cestno in železniško križišče.",
+    "Separatistične in ruske sile so si 16. in 17. januarja začele usklajeno prizadevati, da bi ukrajinske vojake pregnale iz mesta, in s tem sprožile bitko. Hudi boji so trajali do 18. februarja 2015, ko so se ukrajinske sile iz Debalceva umaknile v Artemivsk (današnji Bahmut)."
+   ],
+   "notes": [
+    "DPR and LPR are given by their Slovenian abbreviations DLR and LLR."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Debaltseve",
+    "rev": 1381915954,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Battle of Debaltseve was a military confrontation in the city of Debaltseve, Donetsk Oblast, between the pro-Russian separatist forces of the Donetsk People's Republic (DPR) and Luhansk People's Republic (LPR), and the Ukrainian Armed Forces, starting in mid-January 2015 during the war in the Donbas region. The Russian forces composed mostly of \"Wagner Group\" soldiers recaptured Debaltseve, which had been under Ukrainian control since a counter-offensive by government forces in July 2014. The city lay in a \"wedge\" of Ukrainian-held territory bordered by the DPR on one side, and the LPR on the other, and was a vital road and railway junction.",
+     "Separatist and Russian forces began a concerted effort to force Ukrainian troops out of the city on 16–17 January, sparking the battle. Heavy fighting went on until 18 February 2015, when Ukrainian forces retreated from Debaltseve to Artemivsk (present-day Bakhmut)."
+    ]
+   },
+   "records": [
+    "Q18920465"
+   ],
+   "translated": "2026-10-26"
+  },
   "Battle of Decimomannu": {
    "headline": "Bitka pri Decimomannu",
    "paragraphs": [
@@ -4637,6 +5113,26 @@
     "Q331725"
    ],
    "translated": "2026-10-24"
+  },
+  "Battle of Donbas (2022)": {
+   "paragraphs": [
+    "Bitka za Donbas je bila vojaška ofenziva, del širše vzhodne fronte rusko-ukrajinske vojne. Ofenziva za nadzor nad regijo Donbas se je med oboroženimi silami Rusije in Ukrajine začela 18. aprila 2022. Vojaški analitiki menijo, da je bila druga strateška faza invazije, po začetnem ruskem napadu na Ukrajino v treh smereh.",
+    "Ruska strategija v tem sektorju je bila obkoliti ukrajinske čete v Donbasu ter vso Doneško in Lugansko oblast priključiti separatističnima državama pod rusko zaščito, Doneški ljudski republiki (DLR) in Luganski ljudski republiki (LLR). Rusija je trdila, da je do 23. junija 2022 nadzorovala 55 % Doneške oblasti in do 3. julija 2022 vso Lugansko oblast, ruske in separatistične sile pa so nadzorovale mesta Mariupol, Severodoneck, Lisičansk, Rubižne in mnoga druga."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Donbas (2022)",
+    "rev": 1381915978,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Battle of Donbas was a military offensive that was part of the wider eastern front of the Russo-Ukrainian war. The offensive began on 18 April 2022 between the armed forces of Russia and Ukraine for control of the Donbas region. Military analysts consider the campaign to have been the second strategic phase of the invasion, after Russia's initial three-pronged attack into Ukraine.",
+     "Russia's strategy in the sector was to encircle Ukrainian troops in the Donbas and to annexe the entire Donetsk and Luhansk oblasts to the Russian-backed separatist states of the Donetsk People's Republic (DPR) and Luhansk People's Republic (LPR). Russia claimed to have controlled 55% of Donetsk Oblast by 23 June 2022 and all of Luhansk Oblast by 3 July 2022, with Russian and separatist forces controlling the cities of Mariupol, Sievierodonetsk, Lysychansk, Rubizhne, and many others."
+    ]
+   },
+   "records": [
+    "Q111655119"
+   ],
+   "translated": "2026-10-26"
   },
   "Battle of Dornach": {
    "headline": "Bitka pri Dornachu",
@@ -5611,6 +6107,24 @@
    ],
    "translated": "2026-10-24"
   },
+  "Battle of Friedland": {
+   "paragraphs": [
+    "Bitka pri Friedlandu (14. junija 1807) je bila velik spopad napoleonskih vojn med vojskama Francoskega cesarstva in Ruskega cesarstva, ki sta ju vodila Napoleon I. in general Levin August von Bennigsen. Napoleon in Francozi so dosegli odločilno zmago in pognali v beg velik del ruske vojske, ki se je do konca bojev v neredu umaknila čez reko Alle. Bojišče leži v današnji Kaliningrajski oblasti blizu mesta Pravdinsk v Rusiji."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Friedland",
+    "rev": 1380768427,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Battle of Friedland (14 June 1807) was a major engagement of the Napoleonic Wars between the armies of the French Empire and the Russian Empire, led by Napoleon I and General Levin August von Bennigsen respectively. Napoleon and the French obtained a decisive victory that routed much of the Russian army, which retreated chaotically over the Alle river by the end of the fighting. The battlefield is located in modern-day Kaliningrad Oblast, near the town of Pravdinsk, Russia."
+    ]
+   },
+   "records": [
+    "Q241108"
+   ],
+   "translated": "2026-10-26"
+  },
   "Battle of Friedlingen": {
    "headline": "Bitka pri Friedlingnu",
    "paragraphs": [
@@ -5671,6 +6185,24 @@
     "Q708866"
    ],
    "translated": "2026-10-24"
+  },
+  "Battle of Galicia": {
+   "paragraphs": [
+    "Bitka v Galiciji, znana tudi kot velika bitka v Galiciji, je bila velika bitka med Rusijo in Avstro-Ogrsko v začetni fazi prve svetovne vojne leta 1914. Avstro-ogrske armade so bile v več spopadih hudo poražene in pregnane iz Galicije, Rusi pa so zavzeli Lemberg (danes Lvov) in približno devet mesecev vladali vzhodni Galiciji, dokler niso bili poraženi pri Gorlicah in Tarnówu. Bitka v Galiciji je razkrila slabosti tedanje avstro-ogrske vojske, hkrati pa je bila ena velikih zmag ruske cesarske vojske v tej vojni."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Galicia",
+    "rev": 1370441222,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Battle of Galicia, also known as the Great Battle of Galicia, was a major battle between Russia and Austria-Hungary during the early stages of World War I in 1914. In the course of the battle, the Austro-Hungarian armies were severely defeated in several encounters and forced out of Galicia, while the Russians captured Lemberg (now Lviv) and, for approximately nine months, ruled Eastern Galicia until their defeat at Gorlice and Tarnów. The Battle of Galicia showed weaknesses of the Austro-Hungarian Army during that period and at the same time was one of the formidable victories of the Imperial Russian Army in the war."
+    ]
+   },
+   "records": [
+    "Q659246"
+   ],
+   "translated": "2026-10-26"
   },
   "Battle of Garigliano (1503)": {
    "headline": "Bitka ob Garigliano",
@@ -6039,6 +6571,27 @@
     "Q1028247"
    ],
    "translated": "2026-10-23"
+  },
+  "Battle of Gross-Jägersdorf": {
+   "headline": "Bitka pri Gross-Jägersdorfu",
+   "paragraphs": [
+    "Bitka pri Gross-Jägersdorfu (30. avgusta 1757) je bila zmaga ruske vojske pod vodstvom feldmaršala Stepana Fjodoroviča Apraksina nad manjšo prusko vojsko pod poveljstvom feldmaršala Hansa von Lehwaldta v sedemletni vojni. To je bila prva bitka, v kateri je Rusija sodelovala v sedemletni vojni.",
+    "Kljub taktičnemu uspehu je zaradi težav z oskrbo nadaljnje uspešno prodiranje v Vzhodno Prusijo postalo neizvedljivo. Apraksin se je odločil, da Königsberga ne bo zavzel, in kmalu po bitki ukazal umik. Ruska cesarica Elizabeta je posumila, da se je Apraksin dogovarjal s kanclerjem Aleksejem Bestužev-Rjuminom, ki je invaziji nasprotoval, zato je Apraksina odstavila, Bestužev-Rjumina postavila pred sodišče zaradi izdaje, za poveljnika vojske pa imenovala Williama Fermorja. Fermor je vojsko naslednje leto spet popeljal v Vzhodno Prusijo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Battle of Gross-Jägersdorf",
+    "rev": 1370442091,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Battle of Gross Jägersdorf (Gross-Jägersdorf; 30 August 1757) was a victory for the Russian force under Field Marshal Stepan Fyodorovich Apraksin over a smaller Prussian force commanded by Field Marshal Hans von Lehwaldt, during the Seven Years' War. This was the first battle in which Russia engaged during the Seven Years' War.",
+     "Despite the tactical success, supply problems made a successful advance further into East Prussia impractical. Apraksin decided not to take Königsberg and ordered a withdrawal soon after the battle. Suspecting collusion between Apraksin and Chancellor Alexey Bestuzhev-Ryumin, who had opposed the invasion, Elizabeth of Russia removed Apraksin from command, ordered Bestuzhev-Ryumin to face trial for treason, and appointed William Fermor as the head of the army. Femor led the army back into East Prussia in the following year."
+    ]
+   },
+   "records": [
+    "Q696689"
+   ],
+   "translated": "2026-10-26"
   },
   "Battle of Großbeeren": {
    "headline": "Bitka pri Großbeerenu",
@@ -16445,6 +16998,29 @@
    ],
    "translated": "2026-10-23"
   },
+  "Caucasian Imamate": {
+   "paragraphs": [
+    "Kavkaški imamat, znan tudi kot Severnokavkaški imamat (arabsko: إمامة شمال القوقاز), je bil islamska država, ki so jo muslimanski imami v prvi polovici 19. stoletja ustanovili v Dagestanu in Čečeniji. Po združitvi čečenskih in avarskih plemen je nastal med kavkaško vojno (1817–1864) kot odporniško gibanje proti širjenju Ruskega cesarstva v regijo. Imamat je skušal raznolika ljudstva Severnega Kavkaza združiti pod osrednjo islamsko oblastjo in uvedel šeriatsko pravo, da bi utrdil politični in vojaški odpor proti ruski oblasti.",
+    "Rusija je hotela zavarovati svoje južne meje in utrditi poti do na novo pridobljenih ozemelj na Južnem Kavkazu (današnje Gruzije, Armenije in Azerbajdžana), zato je skušala priključiti Severni Kavkaz. Imamat je bil glavna sila, ki se je temu osvajanju upirala; desetletja je vzdržal v spopadih, dokler ni po zajetju zadnjega voditelja, imama Šamila, leta 1859 razpadel."
+   ],
+   "notes": [
+    "The glossary had the typo Kavkaški imanat; an override now gives Kavkaški imamat."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Caucasian Imamate",
+    "rev": 1380940295,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Caucasian Imamate, also known as the North Caucasian Imamate (Arabic: إمامة شمال القوقاز, romanized: Imāmat Shamal al-Qawqāz), was a state founded by Muslim imams in the early-to-mid 19th century across Dagestan and Chechnya. After uniting Chechen and Avar tribes It emerged during the Caucasian War (1817–1864) as a resistance movement against the Russian Empire's expansion into the region. The Imamate sought to unify the diverse peoples of the North Caucasus under a centralized Islamic governance structure, implementing sharia law to consolidate political and military opposition to Russian rule.",
+     "Russia, aiming to secure its southern frontiers and stabilize communication routes to its newly acquired territories in the South Caucasus (modern-day Georgia, Armenia, and Azerbaijan), sought to annex the North Caucasus. The Imamate became the primary force opposing this conquest, enduring decades of conflict before its eventual dissolution following the capture of its final leader, Imam Shamil, in 1859."
+    ]
+   },
+   "records": [
+    "caucasian-imamate"
+   ],
+   "translated": "2026-10-26"
+  },
   "Celtiberian Wars": {
    "headline": "Keltiberske vojne",
    "paragraphs": [
@@ -21107,6 +21683,48 @@
    ],
    "translated": "2026-10-23"
   },
+  "Khanate of Sibir": {
+   "paragraphs": [
+    "Sibirski kanat (sibirskotatarsko: Себер ҡанныҡ; rusko: Сибирское ханство, Сибирский юрт) je bil sibirskotatarska država v zahodni Sibiriji. Nastal je konec 15. stoletja po razpadu Zlate horde. V vsej zgodovini kanata so se pripadniki dinastij Šajbanidov in Tajbugidov pogosto potegovali za oblast; obe tekmujoči plemeni sta bili po moški liniji neposredni potomki Džingiskana, prek njegovega najstarejšega sina Džočija in Džočijevega petega sina Šajbana (Šibana) (umrl 1266). Območje kanata je bilo nekoč sestavni del Mongolskega cesarstva; pozneje je prišlo pod nadzor Bele horde, od leta 1242 do 1468 pa pod Zlato hordo.",
+    "Sibirski kanat je imel etnično raznoliko prebivalstvo: turška ljudstva, sibirske Tatare, in različna uralska ljudstva, med njimi Hante, Mansije in Selkupe. Bil je najsevernejša muslimanska država v zapisani zgodovini."
+   ],
+   "notes": [
+    "The romanizations are left out."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Khanate of Sibir",
+    "rev": 1381107259,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Khanate of Sibir (Siberian Tatar: Себер ҡанныҡ, romanized: Seber qannïq; Russian: Сибирское ханство, Сибирский юрт, romanized: Sibirskoye khanstvo, Sibirsky yurt) was a Siberian Tatar state in western Siberia. It was founded at the end of the 15th century, following the break-up of the Golden Horde. Throughout its history, members of the Shaybanid and Taibugid dynasties often contested the rulership over the Khanate between each other; both of these competing tribes were direct patrilineal descendants of Genghis Khan through his eldest son Jochi and Jochi's fifth son Shayban (Shiban) (died 1266). The area of the Khanate had once formed an integral part of the Mongol Empire; it later came under the control of the White Horde, and under the Golden Horde from 1242 to 1468.",
+     "The Khanate of Sibir had an ethnically diverse population of Turkic peoples – Siberian Tatars and various Uralic peoples – including the Khanty, the Mansi, and the Selkup. The Sibir Khanate was the northernmost Muslim state in recorded history."
+    ]
+   },
+   "records": [
+    "khanate-of-sibir"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Kimek-Kipchak confederation": {
+   "headline": "Kimaško-kipčaška konfederacija",
+   "paragraphs": [
+    "Kimaško-kipčaška konfederacija je bila srednjeveška turška država, ki jo je sestavljalo sedem ljudstev, med njimi Kimaki in Kipčaki, na območju med rekama Ob in Irtiš."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Kimak–Kipchak confederation",
+    "rev": 1359567517,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Kimak–Kipchak confederation was a medieval Turkic state formed by seven peoples, including the Kimaks and Kipchaks, in the area between the Ob and Irtysh rivers."
+    ]
+   },
+   "records": [
+    "kimek-kipchak-confederation"
+   ],
+   "translated": "2026-10-26"
+  },
   "Kingdom of Alba": {
    "headline": "Kraljestvo Alba",
    "paragraphs": [
@@ -22476,6 +23094,25 @@
    ],
    "translated": "2026-10-24"
   },
+  "Nalyvaiko Uprising": {
+   "headline": "Nalivajkova vstaja",
+   "paragraphs": [
+    "Nalivajkova vstaja (poljsko: powstanie Nalewajki; ukrajinsko: повстання Наливайка) je bila kozaška vstaja proti Poljsko-litovski republiki. Vodil jo je Severin Nalivajko, trajala pa je od leta 1594 do 1596. Bila je druga v dolgi vrsti kozaških vstaj; zmagala je poljska krona, toda dve leti vojskovanja in taktika požgane zemlje, ki sta jo uporabljali obe strani, sta velik del desnobrežne Ukrajine pustili v ruševinah."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Nalyvaiko Uprising",
+    "rev": 1370629207,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Nalyvaiko Uprising (Polish: powstanie Nalewajki, Ukrainian: повстання Наливайка) was a Cossack rebellion against the Polish–Lithuanian Commonwealth. Headed by Severyn Nalyvaiko, it lasted from 1594 to 1596. The second in a long series of Cossack uprisings, the conflict was ultimately won by the Crown of Poland, but two years of warfare and scorched-earth tactics employed by both sides left much of Right-bank Ukraine in ruins."
+    ]
+   },
+   "records": [
+    "nalyvaiko-uprising"
+   ],
+   "translated": "2026-10-26"
+  },
   "Nationalist faction (Spanish Civil War)": {
    "paragraphs": [
     "Nacionalistična frakcija (špansko: Bando nacional), imenovana tudi uporniška frakcija (Bando sublevado) in frankistična frakcija (Bando franquista), je bila glavna stran v španski državljanski vojni v letih 1936–1939. Sestavljale so jo različne desničarske politične skupine, ki so podprle španski državni udar julija 1936 proti drugi španski republiki in republikanski strani ter hotele odstaviti Manuela Azaño. Vključevala je Falange Española de las JONS, CEDA (»Španska konfederacija avtonomne desnice«) in dve monarhistični skupini, ki sta podpirali tekmeca za prestol: alfonsistično Renovación Española (Španska prenova) in karlistično Comunión Tradicionalista (Tradicionalistično občestvo). Dekret o združitvi je leta 1937 vse te skupine združil v FET y de las JONS. Med vojno so se nacionalistične skupine, ki so kazale nekatere »fašizoidne« in »predfašistične« težnje, poenotile okoli novega ideološkega projekta, ki sta ga zaznamovala sodoben ultranacionalizem in cilj narod očistiti in preroditi v »grmadi« vojne ter po zgledu italijanskega fašizma ustvariti španskega »novega človeka«."
@@ -23652,6 +24289,29 @@
    ],
    "translated": "2026-10-24"
   },
+  "Principality of Beloozero": {
+   "headline": "Kneževina Beloozero",
+   "paragraphs": [
+    "Kneževina Beloozero (rusko: Белозерское княжество) je bila ruska kneževina, ki je med 13. in 15. stoletjem cvetela na ruskem severu.",
+    "Njena prestolnica je bil Beloozero (danes Belozersk), eno od petih prvotnih mest, ki jih omenja Povest minulih let. Po današnji upravni razdelitvi Rusije je kneževina ležala na zahodu Vologodske oblasti, okoli južnega dela Belega jezera.",
+    "Tesno je bila povezana z Rostovom, dokler se leta 1238 med mongolskimi vpadi ni osamosvojila. Dmitrij Donski si je zagotovil nadzor nad Beloozerom in ga prepustil potomcem; Moskvi jo je formalno priključil Ivan III."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Principality of Beloozero",
+    "rev": 1370764379,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Principality of Beloozero (Russian: Белозерское княжество, romanized: Belozerskoye knyazhestvo) was a Russian principality which flourished between the 13th and 15th centuries in the Russian North.",
+     "Its capital was Beloozero (now Belozersk), one of the five original towns mentioned in the Primary Chronicle. In terms of the current administrative division of Russia, the principality was located in the west of Vologda Oblast, around the south of Lake Beloye.",
+     "It was closely associated with Rostov until it became independent in 1238 during the Mongol invasions. Dmitry Donskoy secured control over Beloozero and passed it to his descendants; it was formally annexed to Moscow by Ivan III."
+    ]
+   },
+   "records": [
+    "principality-of-beloozero"
+   ],
+   "translated": "2026-10-26"
+  },
   "Principality of Capua": {
    "headline": "Kneževina Capua",
    "paragraphs": [
@@ -23671,6 +24331,48 @@
     "principality-of-capua-990"
    ],
    "translated": "2026-10-24"
+  },
+  "Principality of Chernigov": {
+   "paragraphs": [
+    "Kneževina Černigov ali Černihiv je bila ena največjih in najmočnejših držav v Kijevski Rusiji. Nekaj časa je bila po moči druga, takoj za Kijevsko kneževino. Nastala je v 10. stoletju in nekaj svojih posebnosti ohranila do 16. stoletja. Obsegala je območja današnje Ukrajine, Belorusije in Rusije."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Principality of Chernigov",
+    "rev": 1380721440,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Principality of Chernigov or Chernihiv was one of the largest and most powerful states within Kievan Rus'. For a time the principality was the second most powerful after the Principality of Kiev. The principality was formed in the 10th century and maintained some of its distinctiveness until the 16th century. The Principality of Chernigov consisted of regions of modern-day Ukraine, Belarus, and Russia."
+    ]
+   },
+   "records": [
+    "principality-of-chernigov"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Principality of Drutsk": {
+   "headline": "Kneževina Druck",
+   "paragraphs": [
+    "Kneževina Druck (belorusko: Княства Друцкае) je bila majhna apanaža Polocke kneževine s središčem v mestu Druck. Ležala je na stičišču Vitebske, Minske in Mogiljovske regije v današnji Belorusiji.",
+    "Apanažna Kneževina Druck je nastala po smrti polockega kneza Vseslava leta 1101, ko so si Vseslavovi sinovi razdelili polocko ozemlje. Druck je dobil Rogvolod-Boris. Kmalu je njeno ozemlje prevzela druga polocka apanažna kneževina, Minska kneževina, ki ji je vladal Gleb Vseslavič. Leta 1116 je Kneževino Druck prevzela Kijevska velika kneževina pod Vladimirjem Monomahom, a jo je do 1150. let vrnila Minski kneževini. Nazadnje jo je v drugi polovici 13. stoletja v celoti prevzela Minska kneževina, v začetku 14. stoletja pa še ena polocka apanažna kneževina, Vitebska kneževina."
+   ],
+   "notes": [
+    "The English obsolete spelling Druck is the Slovenian transcription itself and is not repeated. The garbled \"three way stick\" is read as the meeting point of the three regions."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Principality of Drutsk",
+    "rev": 1331095540,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Principality of Drutsk (Belarusian: Княства Друцкае; obsolete spelling: Druck) was a small appanage of the Principality of Polotsk, centred in the city of Drutsk. It was located on a three way stick between Vitebsk, Minsk and Mogilev regions in modern Belarus.",
+     "The appanage principality of Drutsk was established after the death of Vseslav, the Prince of Polotsk, in 1101 and the division of the Polatsk territory between Vseslav's sons. Drutsk was given to Rogvolod-Boris. Soon its territory was taken over by another appanage duchy of Polotsk, Principality of Minsk governed by Gleb Vseslavich. In 1116, the Principality of Drutsk was taken over by the Grand Principality of Kiev governed by Volodymyr Monomakh, but by 1150s it was returned to Principality of Minsk. Eventually Drutsk was entirely taken over by the Principality of Minsk in the second half of the 13th century and in early 14th century by another appanage duchy of Polotsk, Principality of Vitebsk."
+    ]
+   },
+   "records": [
+    "principality-of-drutsk"
+   ],
+   "translated": "2026-10-26"
   },
   "Principality of Halych": {
    "paragraphs": [
@@ -23740,6 +24442,43 @@
    ],
    "translated": "2026-10-23"
   },
+  "Principality of Peremyshl": {
+   "headline": "Kneževina Peremišl",
+   "paragraphs": [
+    "Kneževina Peremišl je bila srednjeveška kneževina s središčem v Peremišlu (staro vzhodnoslovansko: Перемышль; danes Przemyśl na Poljskem), ki je obsegala Przemyślsko deželo v zgodovinski pokrajini Rdeča Rusija (Červenska dežela ali Rdeča Rutenija). Bila je ena od več manjših kneževin v Haliču (srednjeveški Galiciji), na skrajnem zahodu pokrajine, in je zato mejila na srednjeveško poljsko državo. Od 11. do 13. stoletja so Peremišlu večinoma vladali krajevni knezi iz stranskih vej dinastije Rurikovičev (vladarske rodbine Kijevske Rusije), večkrat pa je prišel tudi pod vpliv sosednjih poljskih ali ogrskih vladarjev. Do 14. stoletja je regija prišla pod trden poljski nadzor."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Principality of Peremyshl",
+    "rev": 1349837330,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Principality of Peremyshl was a medieval principality centered on Peremyshl (Old East Slavic: Перемышль; now Przemyśl, Poland), and encompassing the Przemyśl Land, in the historical region of Red Rus' (Cherven land, or Red Ruthenia). It was one of several minor principalities within Halychyna (medieval Galicia), situated in the most western part of the region, and thus bordering the medieval Polish state. From the 11th and up to the 13th century, Peremyshl was ruled mostly by local princes from collateral branches of the Riurikid dynasty (ruling house of the Kievan Rus'), but on several occasions it also came under influence of neighboring Polish or Hungarian rulers. By the 14th century, the region came under firm Polish control."
+    ]
+   },
+   "records": [
+    "principality-of-peremyshl"
+   ],
+   "translated": "2026-10-26"
+  },
+  "Principality of Pereyaslavl": {
+   "paragraphs": [
+    "Kneževina Perejaslavl (ukrajinsko: Переяславське князівство; rusko: Переяславское княжество) je bila regionalna kneževina Kijevske Rusije od konca 9. stoletja do leta 1323 s središčem v mestu Perejaslavl (danes Perejaslav) ob reki Trubiž."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Principality of Pereyaslavl",
+    "rev": 1347579544,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Principality of Pereyaslavl (Ukrainian: Переяславське князівство; Russian: Переяславское княжество) was a regional principality of Kievan Rus' from the end of 9th century until 1323, based in the city of Pereyaslavl (now Pereiaslav) on the river Trubizh."
+    ]
+   },
+   "records": [
+    "principality-of-pereyaslavl"
+   ],
+   "translated": "2026-10-26"
+  },
   "Principality of Reuss-Gera": {
    "paragraphs": [
     "Kneževina Reuss-Gera (nemško: Fürstentum Reuß-Gera), po letu 1848 uradno Kneževina Reuss mlajše linije (nemško: Fürstentum Reuß jüngerer Linie), je bila suverena država na ozemlju današnje Nemčije, ki so ji vladali člani rodbine Reuss. Bila je ena od naslednic cesarske grofije Reuss. Grofje Reuss s prestolnicami in rezidencami v Geri, Schleizu, Lobensteinu, Köstritzu in Ebersdorfu so bili leta 1806 vsi povzdignjeni v kneze (Fürst). Ta naslov so nosili poglavarji njihovih naslednjih vej, mlajši člani pa so bili vsak zase princi (Prinz). Vsi moški člani rodbine so se tako pravilno imenovali »princ Heinrich (rimska številka) Reuss, J. L.« brez plemiškega predloga, čeprav so imena vej zaradi priročnosti ostala v pogovorni rabi (na primer »princ Heinrich I. Reuss iz Köstritza«)."
@@ -23757,6 +24496,27 @@
     "principality-of-reuss-gera"
    ],
    "translated": "2026-10-24"
+  },
+  "Principality of Ryazan": {
+   "headline": "Kneževina Rjazan",
+   "paragraphs": [
+    "Kneževina Rjazan, pozneje znana kot Velika kneževina Rjazan, je bila ruska kneževina od leta 1129 do 1521. Njena prestolnica je bilo mesto Rjazan, danes znano kot Stari Rjazan, ki so ga leta 1237 med mongolskimi vpadi uničili. Prestolnico so preselili v Perejaslavl Rjazanski, ki so ga pozneje preimenovali v Rjazan.",
+    "Sprva je bila del Muromske kneževine, od Kneževine Černigov pa se je kot Murom-Rjazan povsem odcepila do leta 1129. Murom je leta 1392 prevzela Moskva, Rjazan pa je pozneje postal od Moskve odvisen; leta 1521 ga je formalno prevzel Vasilij in ga vključil v centralizirano rusko državo. Formalno neodvisnost je ohranil dlje kot katera koli druga ruska kneževina."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Principality of Ryazan",
+    "rev": 1360231434,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "The Principality of Ryazan, later known as the Grand Principality of Ryazan, was a Russian principality from 1129 to 1521. Its capital was the city of Ryazan, now known as Old Ryazan, which was destroyed in 1237 during the Mongol invasions. The capital was moved to Pereyaslavl-Ryazansky, later renamed Ryazan.",
+     "Initially a part of the Principality of Murom, it fully split off from the Principality of Chernigov by 1129 as Murom-Ryazan. Murom was taken by Moscow in 1392, while Ryazan later became dependent on Moscow and was formally taken over by Vasili in 1521, and incorporated into the centralized Russian state. It maintained its formal independence longer than any other Russian principality."
+    ]
+   },
+   "records": [
+    "principality-of-ryazan"
+   ],
+   "translated": "2026-10-26"
   },
   "Principality of Salerno": {
    "headline": "Kneževina Salerno",
@@ -24153,6 +24913,24 @@
     "republic-of-pisa"
    ],
    "translated": "2026-10-23"
+  },
+  "Republics of the Soviet Union": {
+   "paragraphs": [
+    "Zvezna republika (rusko: Сою́зная Респу́блика), neuradno republika ZSSR ali republika Sovjetske zveze, je bila v Sovjetski zvezi sestavna federalna politična enota s sovjetsko ureditvijo, ki jo je ustava iz leta 1977 uradno opredelila kot »suvereno sovjetsko socialistično državo, ki se je z drugimi sovjetskimi republikami združila v Zvezo sovjetskih socialističnih republik«; njeno suverenost je omejevalo članstvo v zvezi. Zaradi statusa suverene države je imela zvezna republika de iure pravico vzpostavljati odnose s tujimi državami, z njimi sklepati pogodbe, izmenjevati diplomatske in konzularne predstavnike ter sodelovati v dejavnostih mednarodnih organizacij (vključno s članstvom v njih). Zvezne republike so veljale za upravne enote Zveze sovjetskih socialističnih republik (ZSSR), oblikovane po narodnostnem načelu."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Republics of the Soviet Union",
+    "rev": 1380465105,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "In the Soviet Union, a Union Republic (Russian: Сою́зная Респу́блика, romanized: Soyúznaya Respúblika) or unofficially a Republic of the USSR was a constituent federated political entity with a system of government called a Soviet republic, which was officially defined in the 1977 constitution as \"a sovereign Soviet socialist state which has united with the other Soviet republics to form the Union of Soviet Socialist Republics\" and whose sovereignty is limited by membership in the Union. As a result of its status as a sovereign state, the Union Republic de jure had the right to enter into relations with foreign states, conclude treaties with them and exchange diplomatic and consular representatives and participate in the activities of international organizations (including membership in international organizations). The Union Republics were perceived as national-based administrative units of the Union of Soviet Socialist Republics (USSR)."
+    ]
+   },
+   "records": [
+    "republics-of-the-soviet-union"
+   ],
+   "translated": "2026-10-26"
   },
   "Revolt of Horea, Cloșca, and Crișan": {
    "headline": "Upor Horee, Cloșce in Crișana",
@@ -27437,6 +28215,25 @@
     "Q580417"
    ],
    "translated": "2026-10-24"
+  },
+  "Sloboda Ukraine": {
+   "headline": "Slobodska Ukrajina",
+   "paragraphs": [
+    "Slobodska Ukrajina, v krajevni rabi tudi Slobožanščina, je zgodovinska pokrajina na severovzhodu Ukrajine in jugozahodu Rusije. Razvila se je iz belgorodskega razrjada in cvetela v 17. in 18. stoletju na jugozahodni meji Ruskega carstva. Leta 1765 so jo preoblikovali v Slobodskoukrajinsko gubernijo."
+   ],
+   "source": {
+    "wiki": "en",
+    "title": "Sloboda Ukraine",
+    "rev": 1376874118,
+    "retrieved": "2026-10-26",
+    "paragraphs": [
+     "Sloboda Ukraine, also known locally as Slobozhanshchyna or Slobozhanshchina, is a historical region in northeastern Ukraine and southwestern Russia. It developed from Belgorod Razriad and flourished in the 17th and 18th centuries on the southwestern frontier of the Tsardom of Russia. In 1765, it was converted into the Sloboda Ukraine Governorate."
+    ]
+   },
+   "records": [
+    "sloboda-ukraine"
+   ],
+   "translated": "2026-10-26"
   },
   "Slovak invasion of Poland": {
    "paragraphs": [
