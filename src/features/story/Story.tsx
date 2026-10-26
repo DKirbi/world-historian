@@ -48,15 +48,15 @@ export function Story({ model, region, full }: Props) {
   const headingRef = useRef<HTMLHeadingElement>(null);
 
   // A stored translation stands in for the English summary when the reader's language has no article.
-  // It is keyed by the English title, or "<title>#<section>" for an era that is a section of an article;
-  // eras read by a heading that only resembles their name (sectionLike) have none.
-  // L10N-LATER: so those eras show the English section in every language ("section-eras" in
-  // data/translations/<lang>/_later.json); they need a stored key (title#heading) and a translation.
+  // It is keyed by the English title, or "<title>#<heading>" for an era that is a section of an article,
+  // whether by its exact heading (section) or by a heading that resembles its name (sectionLike: the
+  // cited row, as data/tools/fetch_translation_sources.py matched it).
+  const sectionKey = model.article?.section ?? model.article?.sectionLike;
   const translationKey =
-    model.kind === 'stack' || model.article?.sectionLike || !model.article?.enTitle
+    model.kind === 'stack' || !model.article?.enTitle
       ? undefined
-      : model.article.section
-        ? `${model.article.enTitle}#${model.article.section}`
+      : sectionKey
+        ? `${model.article.enTitle}#${sectionKey}`
         : model.article.enTitle;
   const stored = useStoredTranslation(i18n.meta.id, translationKey);
   const noOwnArticle = ready?.fallback || article.status === 'error' || article.status === 'none';

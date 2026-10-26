@@ -93,15 +93,21 @@ for (const r of REGIONS) {
     u.records.add(e.id);
   }
   for (const e of J(`data/${r}/_eras.json`).eras) {
-    if (!e.article) continue;
-    const u = unit(`era:${e.article.title}#${e.article.section ?? ''}`, {
+    // an era with its own article (or section of one); else, when cited, the section whose heading resembles
+    // its row (src/features/story/templates.ts, sectionLike), which only the English article has
+    const loose = !e.article && e.cite && e.basis !== 'period-bin';
+    if (!e.article && !loose) continue;
+    const title = e.article ? e.article.title : e.cite.page;
+    const section = e.article ? e.article.section : e.cite.quote;
+    const u = unit(`era:${title}#${section ?? ''}`, {
       kind: 'era',
-      title: e.article.title,
-      ...(e.article.section ? { section: e.article.section } : {}),
+      title,
+      ...(section ? { section } : {}),
+      ...(loose ? { loose: true } : {}),
       priority: 'era',
       editions: 0,
     });
-    u.has ||= snap.eras?.[e.id]?.title ?? null;
+    if (!loose) u.has ||= snap.eras?.[e.id]?.title ?? null;
     u.regions.add(r);
     u.records.add(e.id);
   }

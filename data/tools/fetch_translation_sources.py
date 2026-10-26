@@ -197,15 +197,18 @@ for chunk in chunks([u["title"] for u in intros], 20):
         params = {**params, **body["continue"]}
 
 # 2b. sections: an era that is a section of a longer article, and a title that redirects to a section
-def fetch_section(title, section):
+def fetch_section(title, section, loose=False):
     s = wp._get({"action": "parse", "page": title, "prop": "sections", "redirects": 1}).get("parse", {})
     want = norm(section)
     # the exact heading, else the same period whose dates in brackets were edited since the data was built
-    # ("Early Woodland period (1000–1 BCE)" → "Early Woodland period (1000–200 BCE)"), as fetchSection does
+    # ("Early Woodland period (1000–1 BCE)" → "Early Woodland period (1000–200 BCE)"), else, for an era read
+    # by a heading that resembles its row (loose, sectionLike in the app), a heading that starts with the
+    # name; as fetchSection does
     stem = re.sub(r"\s*\(.*$", "", want)
     found = next((x for x in s.get("sections", [])
                   if norm(x["anchor"].replace("_", " ")) == want or norm(strip_tags(x["line"])) == want), None) or \
-        next((x for x in s.get("sections", []) if re.sub(r"\s*\(.*$", "", norm(strip_tags(x["line"]))) == stem), None)
+        next((x for x in s.get("sections", []) if re.sub(r"\s*\(.*$", "", norm(strip_tags(x["line"]))) == stem), None) or \
+        (next((x for x in s.get("sections", []) if norm(strip_tags(x["line"])).startswith(stem)), None) if loose else None)
     if not found:
         return None
     p = wp._get({"action": "parse", "page": s["title"], "section": found["index"], "prop": "text|revid",
@@ -220,7 +223,7 @@ def fetch_section(title, section):
 
 
 for u in [u for u in units if u.get("section")]:
-    got = fetch_section(u["title"], u["section"])
+    got = fetch_section(u["title"], u["section"], u.get("loose", False))
     if got:
         sources[key(u)] = got
 for asked_title, (target, fragment) in to_section.items():

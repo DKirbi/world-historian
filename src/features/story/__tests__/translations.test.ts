@@ -30,7 +30,9 @@ const laneFiles = import.meta.glob<{ events?: Array<{ id: string; wiki?: string;
 });
 
 /** English article title of every record the stories can open. */
-const eraFiles = import.meta.glob<{ eras: Array<{ id: string; article?: { title: string; section?: string } }> }>(
+const eraFiles = import.meta.glob<{
+  eras: Array<{ id: string; article?: { title: string; section?: string }; cite?: { page: string; quote: string }; basis?: string }>;
+}>(
   '/data/*/_eras.json',
   { eager: true, import: 'default' },
 );
@@ -45,6 +47,7 @@ for (const f of Object.values(laneFiles)) for (const e of f.events ?? []) if (e.
 for (const f of Object.values(eraFiles))
   for (const e of f.eras)
     if (e.article) titleOf.set(e.id, e.article.section ? `${e.article.title}#${e.article.section}` : e.article.title);
+    else if (e.cite && e.basis !== 'period-bin') titleOf.set(e.id, `${e.cite.page}#${e.cite.quote}`);
 
 // the calques the Slovenian style sheet bans (docs/research/slovenian-newspaper-style.md)
 const BANNED: Record<string, RegExp[]> = {
