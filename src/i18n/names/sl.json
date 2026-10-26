@@ -1257,7 +1257,8 @@
   "zhu": "Džu",
   "zimbabwe-rhodesia": "Zimbabvejska Rodezija",
   "ziyarid-dynasty": "Zijaridi",
-  "holy-roman-empire-minor-states": "Manjše države Svetega rimskega cesarstva"
+  "holy-roman-empire-minor-states": "Manjše države Svetega rimskega cesarstva",
+  "north-sea-empire": "Severnomorsko cesarstvo"
  },
  "events": {
   "Q1000658": "Budimpeški memorandum",
@@ -2780,7 +2781,8 @@
    "livonian-conference": "Livonska konfederacija",
    "old-kingdom-of-norway": "Kraljevina Norveška",
    "scandinavian-minor-kingdoms-800": "Skandinavska mala kraljestva",
-   "denmark-norway": "Danska-Norveška"
+   "denmark-norway": "Danska-Norveška",
+   "north-sea-empire": "Severnomorsko cesarstvo"
   },
   "events": {
    "Q1366688": "Transpacifiško partnerstvo",
