@@ -362,7 +362,7 @@
   "democratic-republic-of-the-congo": "Vzhodni Kongo",
   "democratic-republic-of-vietnam": "Severni Vietnam",
   "denmark": "Danska",
-  "denmark-norway": "Danska - Norveška",
+  "denmark-norway": "Danska-Norveška",
   "despotate-of-epirus": "Epirski despotat",
   "diquis-culture": "Kultura Diquís",
   "dominican-republic": "Dominikanska republika",
@@ -1640,7 +1640,7 @@
   "Q165425": "Bitka pri Lepantu",
   "Q165549": "Bitka pri Bzuri",
   "Q165755": "Bukareški mir",
-  "Q166001": "Nordijska vojna",
+  "Q166001": "Skanska vojna",
   "Q1661917": "Pogodba o vodah Inda",
   "Q1669285": "Oplenitev Amorija",
   "Q1672808": "Irske konfederacijske vojne",
@@ -2779,7 +2779,8 @@
    "danish-magnates": "Danski velikaši",
    "livonian-conference": "Livonska konfederacija",
    "old-kingdom-of-norway": "Kraljevina Norveška",
-   "scandinavian-minor-kingdoms-800": "Skandinavska mala kraljestva"
+   "scandinavian-minor-kingdoms-800": "Skandinavska mala kraljestva",
+   "denmark-norway": "Danska-Norveška"
   },
   "events": {
    "Q1366688": "Transpacifiško partnerstvo",
@@ -2800,7 +2801,8 @@
    "Q644021": "Bitka pri Krutih",
    "Q111986066": "Bitka ob Severskem Donecu",
    "Q111032201": "Bitka za Ohtirko",
-   "Q114500533": "Kampanja v Luganski oblasti"
+   "Q114500533": "Kampanja v Luganski oblasti",
+   "Q166001": "Skanska vojna"
   }
  }
 }
