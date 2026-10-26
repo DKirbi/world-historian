@@ -44,8 +44,11 @@ sources/
   wikipedia-cultures.json    the culture lists' rows, their Wikidata items and article leads (CC BY-SA 4.0 / CC0)
   names-<lang>.json          names of states, events and eras in another language: the English article's language
                              link, else the Wikidata label (CC BY-SA 4.0 / CC0); read by scripts/gen-names.mjs
+  link-fixes.json            hand corrections to the Wikipedia article (and section) a record links to, each with the
+                             link it replaces and why; accepted links and the ones still without a better article
 tools/build_region.py    python3 build_region.py <region> <cliopatria.geojson> <ne_countries.geojson> <out_dir>
 tools/enrich.py          the cited layers (link check, added states, events), used by build_region.py
+tools/link_fixes.py      applies sources/link-fixes.json; used by build_region.py, or `python3 link_fixes.py <data_dir>` on a built folder
 tools/cultures.py        cultures from the Wikipedia lists; tools/eras.py the Eras level
 tools/wikipedia.py, wikitext.py, fetch_eras.py, fetch_cultures.py, fetch_periodo.py   Wikipedia and PeriodO snapshots
 tools/verify_region.py   independent checks against the raw sources and snapshots
@@ -56,6 +59,7 @@ translations/<lang>/
   _worklist.json           articles with no version in <lang>, by priority (scripts/translation-worklist.mjs)
   _sources/<region>.json   the English introductions to translate, with revision ids (CC BY-SA 4.0)
   <region>.json            the translations the drawer shows, each with its English source (CC BY-SA 4.0)
+  _later.json              what <lang> still shows in English, tagged L10N-LATER (scripts/l10n-later.py)
 tools/fetch_translation_sources.py   python3 fetch_translation_sources.py <data_dir> <lang> <region>
 ```
 
@@ -292,6 +296,10 @@ They read the snapshots in `sources/` (retrieved 2026-10-17: Wikidata and Period
 
 ## Changes
 
+- **2026-10-26, Wikipedia links corrected (link fixes).**
+  - `sources/link-fixes.json`, new: 35 records that linked to the wrong English article now link to the one about them: 29 states (*Angevin* → *County of Anjou*, *Basina of Thuringia* → *Thuringi*, *Christopher II of Denmark* → *Duchy of Estonia (1219–1346)*, *Livonian language* → *Terra Mariana*, section *Livonian Confederation*, *Sultan of Perak* and *Sultan of Selangor* → sections of *History of Malaysia*, three Georgias by period, and others) and 6 events of 2022 whose articles became redirects into longer ones (Ivankiv, Okhtyrka, Trostianets, Vasylkiv and Konotop → sections of *Northern front of the Russian invasion of Ukraine*; Kreminna → *Battle of Donbas (2022)*, section *Luhansk Oblast*). Three links are accepted as they are (Duchy of Wrocław, Free City of Frankfurt, Earldom of Desmond) and 13 have no better article; both lists are in the file, with reasons.
+  - `tools/link_fixes.py`, new, applies them: `build_region.py` calls it on every build, and run on its own it patched the five regions' files line by line (35 records; nothing else changed). A corrected record gains `linkFix` (the link it replaced) and, for a section, `wikipediaSection` or `wikiSection`. The app reads that section, and for a corrected state no longer falls back to the Wikidata item that was chosen for the old link. `scripts/translation-worklist.mjs` makes such a section its own unit.
+  - Translations: the 31 summaries made from the wrong articles are removed, with their sources; 21 new summaries of the right articles are translated (9 Europe, 2 Africa & Middle East, 10 Asia; about 2,200 English words, revisions of 26 October 2026; Okhtyrka, Trostianets and Konotop share one section and one summary), and 9 of the new articles turned out to have a Slovenian article, which the drawer shows instead (among them *Georgia (country)*, *Thuringi*, *Yang Wu*). The Georgia unit now serves only the record still without a better article. Totals: Europe 1,928 units, Africa & Middle East 917, Asia 866; `translations/sl/_later.json` regenerated (13 wrong-article entries left, all in the unresolved list).
 - **2026-10-26, Slovenian names on the chart from the translated headlines.**
   - `src/i18n/names/sl.json`: `scripts/gen-names.mjs` now gives each record without a name in the snapshot the headline of its translated summary, below the snapshot and the overrides: 2,554 events, 244 states and 10 eras. Summaries shared by several records, and the 47 flagged as from the wrong article, are not used; a headline's bracketed year is kept only where another record already has the name without it. Five era names shortened or corrected as overrides (*Neolitik*, *Postsrednjeveško obdobje*, *Pozno obdobje*, *Tretje vmesno obdobje*, *Rimska železna doba*). The names file now has 1,548 states, 4,042 events and 28 eras; 205 records still show an English name (`translations/sl/_later.json`, "chart-labels").
 - **2026-10-26, flagged for later (L10N-LATER).**
