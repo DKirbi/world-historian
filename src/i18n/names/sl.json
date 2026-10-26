@@ -289,7 +289,7 @@
   "catalan-company": "Katalonska kompanija",
   "caucasian-albania": "Kavkaška Albanija",
   "caucasian-iberia": "Kavkaška Iberija",
-  "caucasian-imamate": "Kavkaški imanat",
+  "caucasian-imamate": "Kavkaški imamat",
   "central-african-republic": "Srednjeafriška republika",
   "centralist-mexico": "Centralistična republika Mehika",
   "chagatai-khanate": "Čagatajski kanat",
@@ -569,7 +569,7 @@
   "ilkhanate": "Ilkanat",
   "illyrian-kingdom": "Ilirsko kraljestvo",
   "imamate-of-oman": "Imamat Oman",
-  "imamate-of-yemen": "Imam Jemna",
+  "imamate-of-yemen": "Jemenski imami",
   "inca-empire": "Inkovski imperij",
   "independent-state-of-croatia": "Neodvisna država Hrvaška",
   "indo-greeks": "Indo-grško kraljestvo",
@@ -2773,7 +2773,9 @@
    "north-yemen": "Severni Jemen",
    "kingdom-of-hanover": "Kraljevina Hannover",
    "holy-roman-empire-minor-states": "Manjše države Svetega rimskega cesarstva",
-   "thebans": "Tebe"
+   "thebans": "Tebe",
+   "caucasian-imamate": "Kavkaški imamat",
+   "imamate-of-yemen": "Jemenski imami"
   },
   "events": {
    "Q1366688": "Transpacifiško partnerstvo",
