@@ -1365,7 +1365,7 @@
   "Q1140492": "Smolenska vojna",
   "Q1143379": "Vojna v Južni Osetiji",
   "Q114341504": "Državni udar v Burkini Faso septembra 2022",
-  "Q114500533": "Kampanja v Luhanski oblasti",
+  "Q114500533": "Kampanja v Luganski oblasti",
   "Q1145682": "Ilindenska-preobrazbena vstaja",
   "Q114717": "Obleganje Pavie",
   "Q1148862": "Bitka pri Fariskurju",
@@ -2795,7 +2795,8 @@
    "Q661764": "Bitka pri Wimpfnu",
    "Q644021": "Bitka pri Krutih",
    "Q111986066": "Bitka ob Severskem Donecu",
-   "Q111032201": "Bitka za Ohtirko"
+   "Q111032201": "Bitka za Ohtirko",
+   "Q114500533": "Kampanja v Luganski oblasti"
   }
  }
 }
