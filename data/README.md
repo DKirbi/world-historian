@@ -292,6 +292,8 @@ They read the snapshots in `sources/` (retrieved 2026-10-17: Wikidata and Period
 
 ## Changes
 
+- **2026-10-26, Slovenian names on the chart from the translated headlines.**
+  - `src/i18n/names/sl.json`: `scripts/gen-names.mjs` now gives each record without a name in the snapshot the headline of its translated summary, below the snapshot and the overrides: 2,554 events, 244 states and 10 eras. Summaries shared by several records, and the 47 flagged as from the wrong article, are not used; a headline's bracketed year is kept only where another record already has the name without it. Five era names shortened or corrected as overrides (*Neolitik*, *Postsrednjeveško obdobje*, *Pozno obdobje*, *Tretje vmesno obdobje*, *Rimska železna doba*). The names file now has 1,548 states, 4,042 events and 28 eras; 205 records still show an English name (`translations/sl/_later.json`, "chart-labels").
 - **2026-10-26, flagged for later (L10N-LATER).**
   - `translations/sl/_later.json`, new: what the Slovenian version still shows in English, every entry tagged `L10N-LATER`: 6 worklist units with no English source, 5 that have a Slovenian article read live, 47 translated units whose record links to the wrong article, 131 section eras without a translation key, 10 Wikidata-only records and 3232 events and states without a Slovenian name (3054 with a translated headline to seed one). Made by `scripts/l10n-later.py`; not bundled into the app.
 - **2026-10-26, translated summaries (Asia, part 4 of 4).**

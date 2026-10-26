@@ -89,6 +89,48 @@ function names(records, english) {
 const p = names(snap.polities, polities);
 const e = names(snap.events, events);
 const r = names(snap.eras ?? {}, eras);
+// A record with no name from the snapshot takes the headline of its translated summary
+// (data/translations/<lang>/<region>.json), which the translator wrote because the glossary had none.
+// Only a summary about that one record counts: not one shared by several records, and not one the
+// L10N-LATER list (data/translations/<lang>/_later.json, "wrong-article") says came from the wrong
+// article. The headline's bracketed qualifier is dropped ("Bitka za Peking (1900)" → "Bitka za Peking")
+// unless another record already uses that name under a different English name, in which case the
+// qualifier stays ("Pariška pogodba (1303)"); a headline taken even so is skipped, so the rule above holds.
+const seeded = { polities: 0, events: 0, eras: 0, skipped: [] };
+{
+  const dir = `data/translations/${lang}`;
+  const laterPath = `${dir}/_later.json`;
+  const wrong = new Set(existsSync(laterPath) ? JSON.parse(readFileSync(laterPath, 'utf8'))['wrong-article'].map((u) => u.title) : []);
+  const groups = [['polities', p.list, polities], ['events', e.list, events], ['eras', r.list, eras]];
+  const used = new Map(); // name → English names already carrying it
+  for (const [key, list, english] of groups)
+    for (const [id, name] of [...Object.entries(list), ...Object.entries(out.overrides?.[key] ?? {})])
+      if (id !== '_note') (used.get(name) ?? used.set(name, new Set()).get(name)).add(english[id]?.name);
+  const files = existsSync(dir) ? readdirSync(dir).filter((f) => f.endsWith('.json') && !f.startsWith('_')) : [];
+  for (const f of files.sort()) {
+    for (const [title, unit] of Object.entries(JSON.parse(readFileSync(`${dir}/${f}`, 'utf8')).units)) {
+      const recs = unit.records ?? [];
+      if (!unit.headline || recs.length !== 1 || wrong.has(title)) continue;
+      const id = recs[0];
+      const group = groups.find(([key, list, english]) => english[id] && !(id in list) && !(id in (out.overrides?.[key] ?? {})));
+      if (!group) continue;
+      const [key, list, english] = group;
+      const en = english[id].name;
+      const free = (n) => ![...(used.get(n) ?? [])].some((other) => other !== en);
+      // the headline without its bracket when that name is free, else with it (two Treaties of Paris)
+      const name = [strip(unit.headline), unit.headline].find(free);
+      if (!name) {
+        seeded.skipped.push(`${id} "${unit.headline}"`);
+        continue;
+      }
+      if (name === en) continue;
+      const others = used.get(name);
+      list[id] = name;
+      (others ?? used.set(name, new Set()).get(name)).add(en);
+      seeded[key] += 1;
+    }
+  }
+}
 // Hand corrections, kept in the names file under "overrides" so a rebuild keeps them: a Wikidata label
 // that names the wrong thing (the 2016 Trans-Pacific Partnership labelled as its 2005 predecessor).
 const over = out.overrides ?? {};
@@ -104,5 +146,7 @@ out.retrieved = snap.retrieved;
 writeFileSync(outPath, JSON.stringify(out, null, 1) + '\n');
 console.log(
   `${outPath}: ${Object.keys(out.polities).length} states, ${Object.keys(out.events).length} events, ${Object.keys(out.eras).length} eras ` +
-    `(shared names resolved in ${p.resolved + e.resolved + r.resolved} groups; retrieved ${snap.retrieved})`,
+    `(shared names resolved in ${p.resolved + e.resolved + r.resolved} groups; retrieved ${snap.retrieved}); ` +
+    `from translated headlines: ${seeded.polities} states, ${seeded.events} events, ${seeded.eras} eras` +
+    (seeded.skipped.length ? `; skipped as taken: ${seeded.skipped.join(', ')}` : ''),
 );
