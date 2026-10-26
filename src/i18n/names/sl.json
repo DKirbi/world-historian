@@ -2169,7 +2169,7 @@
   "Q40144": "Bitka pri Coronelu",
   "Q403416": "Bitka pri Pliski",
   "Q404517": "Kargilska vojna",
-  "Q4060496": "Alandskootoška konvencija",
+  "Q4060496": "Alandska konvencija",
   "Q4077534": "Veliki jamajški upor sužnjev",
   "Q4087410": "Bitka pri Ardabilu",
   "Q4110453": "Zavzetje Melake",
@@ -2802,7 +2802,8 @@
    "Q111986066": "Bitka ob Severskem Donecu",
    "Q111032201": "Bitka za Ohtirko",
    "Q114500533": "Kampanja v Luganski oblasti",
-   "Q166001": "Skanska vojna"
+   "Q166001": "Skanska vojna",
+   "Q4060496": "Alandska konvencija"
   }
  }
 }
