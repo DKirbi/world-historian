@@ -20,11 +20,11 @@ const batches = import.meta.glob<Batch>(['/data/translations/*/*.json', '!/data/
   eager: true,
   import: 'default',
 });
-const polities = import.meta.glob<{ polities: Array<{ id: string; wikipedia?: string }> }>('/data/*/_polities.json', {
+const polities = import.meta.glob<{ polities: Array<{ id: string; wikipedia?: string; wikipediaSection?: string }> }>('/data/*/_polities.json', {
   eager: true,
   import: 'default',
 });
-const laneFiles = import.meta.glob<{ events?: Array<{ id: string; wiki?: string }> }>('/data/*/*/*.json', {
+const laneFiles = import.meta.glob<{ events?: Array<{ id: string; wiki?: string; wikiSection?: string }> }>('/data/*/*/*.json', {
   eager: true,
   import: 'default',
 });
@@ -35,10 +35,13 @@ const eraFiles = import.meta.glob<{ eras: Array<{ id: string; article?: { title:
   { eager: true, import: 'default' },
 );
 
-/** The key a record's story looks its translation up by: the English title, or "<title>#<section>" for an era. */
+/** The key a record's story looks its translation up by: the English title, or "<title>#<section>" for an era
+ *  or a record whose link was corrected to a section (data/sources/link-fixes.json). */
 const titleOf = new Map<string, string>();
-for (const f of Object.values(polities)) for (const p of f.polities) if (p.wikipedia) titleOf.set(p.id, p.wikipedia);
-for (const f of Object.values(laneFiles)) for (const e of f.events ?? []) if (e.wiki) titleOf.set(e.id, e.wiki);
+const key = (title: string, section?: string) => (section ? `${title}#${section}` : title);
+for (const f of Object.values(polities))
+  for (const p of f.polities) if (p.wikipedia) titleOf.set(p.id, key(p.wikipedia, p.wikipediaSection));
+for (const f of Object.values(laneFiles)) for (const e of f.events ?? []) if (e.wiki) titleOf.set(e.id, key(e.wiki, e.wikiSection));
 for (const f of Object.values(eraFiles))
   for (const e of f.eras)
     if (e.article) titleOf.set(e.id, e.article.section ? `${e.article.title}#${e.article.section}` : e.article.title);

@@ -238,7 +238,9 @@ function polityStory(ref: Extract<StoryRef, { kind: 'polity' }>, ctx: StoryCtx):
     dateline: t('story.dateline', { place: lane, when: fmt.spanRange({ from: here[0].from, to: here[here.length - 1].to, approx: main.approx }) }),
     dek,
     facts,
-    article: polity.wikipedia || wdId ? { enTitle: polity.wikipedia, qid: wdId } : null,
+    article: polity.wikipedia || wdId
+      ? { enTitle: polity.wikipedia, section: polity.wikipediaSection, qid: polity.linkFix ? undefined : wdId }
+      : null,
     sources,
     related,
     zoom: { years: [here[0].from, here[here.length - 1].to], laneId },
@@ -331,7 +333,7 @@ function eventStory(ref: Extract<StoryRef, { kind: 'event' }>, ctx: StoryCtx): S
     ],
     // L10N-LATER: an event linked by Wikidata alone (no e.wiki) has no worklist entry and no translation
     // ("wikidata-only" in data/translations/<lang>/_later.json).
-    article: { enTitle: e.wiki, qid: e.id },
+    article: { enTitle: e.wiki, section: e.wikiSection, qid: e.id },
     sources,
     related,
     zoom: { years: [e.year - pad, (e.to ?? e.year) + pad], laneId },

@@ -2,7 +2,8 @@
 //
 //   node scripts/translation-worklist.mjs sl      → data/translations/sl/_worklist.json
 //
-// A unit is one English article (or article section, for eras): translated once, used in every region.
+// A unit is one English article (or article section: eras, and records whose link was corrected to a section
+// in data/sources/link-fixes.json): translated once, used in every region.
 // Whether <lang> has an article comes from the names snapshot (data/sources/names-<lang>.json); the fetch
 // step (data/tools/fetch_translation_sources.py) checks again before anything is translated.
 //
@@ -63,16 +64,31 @@ for (const r of REGIONS) {
   for (const [id, cls] of Object.entries(best)) {
     const p = polities[id];
     if (!p?.wikipedia) continue;
-    const u = unit(`state:${p.wikipedia}`, { kind: 'state', title: p.wikipedia, priority: cls, editions: p.wd?.languages ?? 0 });
+    const sec = p.wikipediaSection;
+    const u = unit(`state:${p.wikipedia}#${sec ?? ''}`, {
+      kind: 'state',
+      title: p.wikipedia,
+      ...(sec ? { section: sec } : {}),
+      priority: cls,
+      editions: p.linkFix ? 0 : (p.wd?.languages ?? 0),
+    });
     if (ORDER[cls] < ORDER[u.priority]) u.priority = cls;
-    u.has ||= snap.polities[id]?.title ?? null;
+    // a corrected link (data/sources/link-fixes.json) makes the snapshot's title, found through the old link, moot
+    if (!p.linkFix && !sec) u.has ||= snap.polities[id]?.title ?? null;
     u.regions.add(r);
     u.records.add(id);
   }
   for (const e of Object.values(events)) {
     if (!e.wiki) continue;
-    const u = unit(`event:${e.wiki}`, { kind: 'event', title: e.wiki, priority: 'event', editions: e.links ?? 0 });
-    u.has ||= snap.events[e.id]?.title ?? null;
+    const u = unit(`event:${e.wiki}#${e.wikiSection ?? ''}`, {
+      kind: 'event',
+      title: e.wiki,
+      ...(e.wikiSection ? { section: e.wikiSection } : {}),
+      priority: 'event',
+      editions: e.links ?? 0,
+    });
+    // a section exists only in the English article, so a section unit is always translated
+    if (!e.wikiSection && !e.linkFix) u.has ||= snap.events[e.id]?.title ?? null;
     u.regions.add(r);
     u.records.add(e.id);
   }

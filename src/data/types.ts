@@ -223,6 +223,10 @@ export interface HistEvent {
   by: 'coordinates' | 'location' | 'country';
   /** English Wikipedia title. */
   wiki?: string;
+  /** Section of that article, when the event is told in a section of a longer page (link-fixes.json). */
+  wikiSection?: string;
+  /** The link a hand correction replaced (data/sources/link-fixes.json). */
+  linkFix?: string;
 }
 
 export interface Polity {
@@ -231,6 +235,11 @@ export interface Polity {
   years: [Year, Year];
   wikidata?: string;
   wikipedia?: string;
+  /** Section of that article, when the state is told in a section of a longer page (link-fixes.json). */
+  wikipediaSection?: string;
+  /** The link a hand correction replaced (data/sources/link-fixes.json); the Wikidata item no longer
+   *  stands in for the article, since it was chosen for the old link. */
+  linkFix?: string;
   seshat?: string[];
   realmOnly?: boolean;
   wd?: WikidataCheck;
