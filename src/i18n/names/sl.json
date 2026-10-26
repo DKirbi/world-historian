@@ -770,9 +770,9 @@
   "later-shu": "Pozni Šu",
   "later-tang": "Kasnejši Tang",
   "later-yan": "Pozni Jan",
-  "later-zhao": "Kasnejši Džao",
-  "later-zhou-750bce": "Kasnejši Džov",
-  "later-zhou-960": "Kasnejši Džov",
+  "later-zhao": "Pozni Džao",
+  "later-zhou-750bce": "Kasnejši Džou",
+  "later-zhou-960": "Kasnejši Džou",
   "latin-empire": "Latinsko cesarstvo",
   "lebanon": "Libanon",
   "lesotho": "Lesoto",
@@ -872,7 +872,7 @@
   "north-german-confederation": "Severnonemška konfederacija",
   "north-yemen": "Severni Jemen",
   "northern-han": "Severni Han",
-  "northern-liang": "Severni Liang",
+  "northern-liang": "Severni Ljang",
   "northern-qi": "Severni Či",
   "northern-wei": "Severna dinastija Vej",
   "northern-yan": "Severni Jan",
@@ -1252,8 +1252,8 @@
   "zayyanid-dynasty": "Zajanidi",
   "zengid-dynasty": "Zengidi",
   "zhao": "Džao",
-  "zhongshan": "Žongšan",
-  "zhou-dynasty": "Dinastija Džov",
+  "zhongshan": "Džongšan",
+  "zhou-dynasty": "Dinastija Džou",
   "zhu": "Džu",
   "zimbabwe-rhodesia": "Zimbabvejska Rodezija",
   "ziyarid-dynasty": "Zijaridi",
@@ -1444,7 +1444,10 @@
   "sultanate-of-sukadana": "Sultanat Sukadana",
   "sunda-kingdom": "Kraljestvo Sunda",
   "tarumanagara": "Tarumanagara",
-  "tondo": "Tondo"
+  "tondo": "Tondo",
+  "later-han": "Kasnejši Han",
+  "former-liang": "Zgodnji Ljang",
+  "former-jin": "Zgodnji Džin"
  },
  "events": {
   "Q1000658": "Budimpeški memorandum",
@@ -1771,7 +1774,7 @@
   "Q154860": "Obleganje Sevastopola",
   "Q154940": "Laponska vojna",
   "Q155103": "Obleganje Budimpešte",
-  "Q1551794": "Japonska invazija na Madžurijo",
+  "Q1551794": "Japonska invazija na Mandžurijo",
   "Q15553019": "Vstaja v Anbarju",
   "Q15562333": "Sedma pandemija kolere",
   "Q1560445": "Upori leta 1837",
@@ -2709,7 +2712,7 @@
   "Q702189": "Niški sporazum",
   "Q703081": "Passavski sporazum",
   "Q703763": "Ščečinski mir",
-  "Q703942": "Japonska invazija na Tajvan",
+  "Q703942": "Japonska odprava na Tajvan (1874)",
   "Q704248": "Bitka pri Termopilah",
   "Q705189": "Tiencinska pogodba",
   "Q705571": "Vojna v kolonijah",
@@ -2730,7 +2733,7 @@
   "Q714777": "Zavezniška invazija na Italijo",
   "Q716562": "Bitka za Hakodate",
   "Q717346": "Windsorski dogovor",
-  "Q717373": "Japonska invazija na Tajvan",
+  "Q717373": "Japonska invazija na Tajvan (1895)",
   "Q719252": "Bitka pri Antietamu",
   "Q721168": "Andrusovsko premirje",
   "Q723608": "Trajanovi dačanski vojni",
@@ -2933,7 +2936,7 @@
   "Q98457371": "Državni udar v Maliju leta 2020",
   "Q989092": "Prva angleško-afganistanska vojna",
   "Q989115": "Prva italijansko-abesinska vojna",
-  "Q992318": "Vstaja žetve",
+  "Q992318": "Jesenska žetvena vstaja",
   "Q99659280": "Vojna v Gorskem Karabahu leta 2020"
  },
  "eras": {
@@ -3173,7 +3176,16 @@
    "tondo": "Tondo",
    "later-jin": "Kasnejši Džin",
    "later-jin-dynasty": "Pozna dinastija Džin",
-   "southern-xiongnu": "Južni Šiungnu"
+   "southern-xiongnu": "Južni Šiungnu",
+   "zhongshan": "Džongšan",
+   "northern-liang": "Severni Ljang",
+   "zhou-dynasty": "Dinastija Džou",
+   "later-zhou-750bce": "Kasnejši Džou",
+   "later-zhou-960": "Kasnejši Džou",
+   "later-zhao": "Pozni Džao",
+   "later-han": "Kasnejši Han",
+   "former-liang": "Zgodnji Ljang",
+   "former-jin": "Zgodnji Džin"
   },
   "events": {
    "Q1366688": "Transpacifiško partnerstvo",
@@ -3200,7 +3212,11 @@
    "Q957586": "Turško-armenska vojna",
    "Q208694": "Kitajsko-indijska vojna",
    "Q617210": "Tretja angleško-marathska vojna",
-   "Q698226": "Kampanja v Nizozemski Vzhodni Indiji"
+   "Q698226": "Kampanja v Nizozemski Vzhodni Indiji",
+   "Q703942": "Japonska odprava na Tajvan (1874)",
+   "Q717373": "Japonska invazija na Tajvan (1895)",
+   "Q992318": "Jesenska žetvena vstaja",
+   "Q1551794": "Japonska invazija na Mandžurijo"
   }
  }
 }
