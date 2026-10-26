@@ -235,6 +235,8 @@ export async function loadArticle(ref: ArticleRef, lang: string, signal?: AbortS
     return fetchIntro(l, title, signal);
   };
   if (lang !== 'en') {
+    // L10N-LATER: an article in the reader's language is still read live; the stored-stories track stores
+    // it ("own-article" in data/translations/<lang>/_later.json, docs/patterns/story-drawer.md).
     const title = await resolveTitle(ref, lang, signal);
     // a section heading only exists in the English article; another language's intro would be about the whole page
     if (title && !ref.section && !ref.sectionLike) {

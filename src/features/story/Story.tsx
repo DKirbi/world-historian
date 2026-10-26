@@ -50,6 +50,8 @@ export function Story({ model, region, full }: Props) {
   // A stored translation stands in for the English summary when the reader's language has no article.
   // It is keyed by the English title, or "<title>#<section>" for an era that is a section of an article;
   // eras read by a heading that only resembles their name (sectionLike) have none.
+  // L10N-LATER: so those eras show the English section in every language ("section-eras" in
+  // data/translations/<lang>/_later.json); they need a stored key (title#heading) and a translation.
   const translationKey =
     model.kind === 'stack' || model.article?.sectionLike || !model.article?.enTitle
       ? undefined

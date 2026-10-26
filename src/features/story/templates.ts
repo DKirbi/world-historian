@@ -329,6 +329,8 @@ function eventStory(ref: Extract<StoryRef, { kind: 'event' }>, ctx: StoryCtx): S
       { label: t('story.fact.place'), value: places },
       { label: t('story.fact.known'), value: t('story.fact.knownValue', { n: e.links }) },
     ],
+    // L10N-LATER: an event linked by Wikidata alone (no e.wiki) has no worklist entry and no translation
+    // ("wikidata-only" in data/translations/<lang>/_later.json).
     article: { enTitle: e.wiki, qid: e.id },
     sources,
     related,

@@ -292,6 +292,8 @@ They read the snapshots in `sources/` (retrieved 2026-10-17: Wikidata and Period
 
 ## Changes
 
+- **2026-10-26, flagged for later (L10N-LATER).**
+  - `translations/sl/_later.json`, new: what the Slovenian version still shows in English, every entry tagged `L10N-LATER`: 6 worklist units with no English source, 5 that have a Slovenian article read live, 47 translated units whose record links to the wrong article, 131 section eras without a translation key, 10 Wikidata-only records and 3232 events and states without a Slovenian name (3054 with a translated headline to seed one). Made by `scripts/l10n-later.py`; not bundled into the app.
 - **2026-10-26, translated summaries (Asia, part 4 of 4).**
   - `translations/sl/_sources/asia.json`: the English intros of the last 346 units, shown in the China, Mongolia, Taiwan, North and South Korea and Japan columns (35,377 words, revisions of 26 October 2026), fetched with `--groups east-asia`. Western Liang (555–587) has a Slovenian article and needs no translation.
   - `translations/sl/asia.json`: all 346 translated in nine parts (4 eras, 91 states, 251 events; 30,568 words), marked as machine translations, not yet reviewed. Asia is complete: 869 units, 79,290 words. With it every unit that has an English source is translated in all five regions: 4,237 units, 383,563 words.

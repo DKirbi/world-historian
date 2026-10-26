@@ -108,6 +108,8 @@ export function createI18n(locale: Locale): I18n {
         .sort((a, b) => Number(a.slice(prefix.length)) - Number(b.slice(prefix.length)))
         .map((k) => format(k)),
     lane: (l) => names.lanes?.[l.id] ?? l.label,
+    // L10N-LATER: a polity or event without a name in the glossary falls back to the data's English name
+    // (data/translations/<lang>/_later.json, "chart-labels", lists them; scripts/l10n-later.py).
     polity: (p) => names.polities?.[p.id] ?? p.name,
     event: (e) => names.events?.[e.id] ?? e.name,
     era: (e) => names.eras?.[e.id] ?? e.name,
