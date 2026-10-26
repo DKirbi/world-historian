@@ -1319,7 +1319,7 @@
   "Q111018339": "Bitka za Konotop",
   "Q111025771": "Vzhodnoukrajinska ofenziva",
   "Q111030201": "Južna fronta ruske invazije na Ukrajino",
-  "Q111032201": "Bitka za Oktirko",
+  "Q111032201": "Bitka za Ohtirko",
   "Q111037776": "Bitka za Energodar",
   "Q111064027": "Gorlivška ofenziva",
   "Q111078529": "Bitka za Severodoneck",
@@ -1331,7 +1331,7 @@
   "Q111607033": "Napad v zahodni Rusiji v letih 2022–2023",
   "Q111655119": "Bitka za Donbas",
   "Q111835493": "Bitka za Popasno",
-  "Q111986066": "Bitka za Siverskji Donec",
+  "Q111986066": "Bitka ob Severskem Donecu",
   "Q1121044": "Krevska unija",
   "Q112114958": "Bitka za Bahmut",
   "Q112114966": "Bitka za Lisičansk",
@@ -2793,7 +2793,9 @@
    "Q697306": "Bitka pri Wissembourgu",
    "Q306150": "Poljsko-avstrijska vojna",
    "Q661764": "Bitka pri Wimpfnu",
-   "Q644021": "Bitka pri Krutih"
+   "Q644021": "Bitka pri Krutih",
+   "Q111986066": "Bitka ob Severskem Donecu",
+   "Q111032201": "Bitka za Ohtirko"
   }
  }
 }
