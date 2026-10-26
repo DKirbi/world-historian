@@ -828,7 +828,7 @@
   "moche-culture": "Močejska kultura",
   "mogollon-culture": "Mogollon",
   "mongol-empire": "Mongolsko cesarstvo",
-  "mongol-khanate": "Mongol khanate",
+  "mongol-khanate": "Mongolski kanat",
   "mongolia": "Mongolija",
   "mongolian-people-s-republic": "Mongolska ljudska republika",
   "montenegro-1853": "Črna gora",
@@ -2731,7 +2731,7 @@
   "Q956429": "Suvalški sporazum",
   "Q957186": "Bitka pri Covadongi",
   "Q957532": "Tretja karlistična vojna",
-  "Q957586": "Turško-armenska vojn",
+  "Q957586": "Turško-armenska vojna",
   "Q960723": "Bitka pri White Plains",
   "Q961430": "Osmansko-beneška vojna v letih od 1570 do 1573",
   "Q963303": "Lublinska unija",
@@ -2782,7 +2782,8 @@
    "old-kingdom-of-norway": "Kraljevina Norveška",
    "scandinavian-minor-kingdoms-800": "Skandinavska mala kraljestva",
    "denmark-norway": "Danska-Norveška",
-   "north-sea-empire": "Severnomorsko cesarstvo"
+   "north-sea-empire": "Severnomorsko cesarstvo",
+   "mongol-khanate": "Mongolski kanat"
   },
   "events": {
    "Q1366688": "Transpacifiško partnerstvo",
@@ -2805,7 +2806,8 @@
    "Q111032201": "Bitka za Ohtirko",
    "Q114500533": "Kampanja v Luganski oblasti",
    "Q166001": "Skanska vojna",
-   "Q4060496": "Alandska konvencija"
+   "Q4060496": "Alandska konvencija",
+   "Q957586": "Turško-armenska vojna"
   }
  }
 }
