@@ -2385,7 +2385,7 @@
   "Q642117": "Obleganje Nikeje",
   "Q643925": "Invazija Dagestana",
   "Q643987": "Peruzinska vojna",
-  "Q644021": "Bitka pri Krutiju",
+  "Q644021": "Bitka pri Krutih",
   "Q6445763": "Kurdski upori v Turčiji",
   "Q644589": "Vojna toyot",
   "Q644960": "Bitka pri reki Boyne",
@@ -2792,7 +2792,8 @@
    "Q1348955": "Vojna žanjcev",
    "Q697306": "Bitka pri Wissembourgu",
    "Q306150": "Poljsko-avstrijska vojna",
-   "Q661764": "Bitka pri Wimpfnu"
+   "Q661764": "Bitka pri Wimpfnu",
+   "Q644021": "Bitka pri Krutih"
   }
  }
 }
