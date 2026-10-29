@@ -11,6 +11,10 @@ interface Props {
   laneW: number;
   scale: TimeScale;
   charW: number;
+  /** Event name in the reader's language. */
+  nameOf: (e: HistEvent) => string;
+  /** The lane is faded back while a story about another country is open. */
+  dimmed: boolean;
   /** Lanes this narrow get markers only; labels need room beside the polity names. */
   showLabels: boolean;
   activeId?: string;
@@ -28,6 +32,8 @@ export const EventMarkers = memo(function EventMarkers({
   laneW,
   scale,
   charW,
+  nameOf,
+  dimmed,
   showLabels,
   activeId,
   onEnter,
@@ -37,7 +43,7 @@ export const EventMarkers = memo(function EventMarkers({
   const cx = laneX + laneW - 8;
   const maxChars = Math.floor((laneW - 30) / charW);
   return (
-    <g className={s.events}>
+    <g className={s.events} data-dimmed={dimmed || undefined}>
       {shown.map(({ event, y, labeled }) => {
         const yEnd = event.to !== undefined ? scale(event.to + 1) : y;
         const active = event.id === activeId;
@@ -59,7 +65,7 @@ export const EventMarkers = memo(function EventMarkers({
             <circle className={s.eventDot} cx={cx} cy={y} r={active ? R + 1.5 : R} />
             {showLabels && labeled && maxChars >= 6 && (
               <text className={s.eventLabel} x={cx - R - 5} y={y + 4} textAnchor="end">
-                {truncate(event.name, maxChars)}
+                {truncate(nameOf(event), maxChars)}
               </text>
             )}
           </g>

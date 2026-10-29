@@ -1,0 +1,12 @@
+{
+ "version": "2026.10",
+ "date": "2026-10-29",
+ "about": "The data release: the chart's records, the stored story texts (stories/) and translations (translations/). A new release gets the next version (YYYY.MM, or YYYY.MM.N for a second release in a month) and an entry at the top of `releases`, with its line in data/README.md (Changes).",
+ "releases": [
+  {
+   "version": "2026.10",
+   "date": "2026-10-29",
+   "notes": "First release with stored stories: the English Wikipedia text of every story, read 29 October 2026, and 4,237 Slovenian translations, both served per region next to the page."
+  }
+ ]
+}

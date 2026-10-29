@@ -1,0 +1,62 @@
+{
+ "note": "Hand corrections to the English Wikipedia article a record links to, applied by tools/link_fixes.py (also called by build_region.py, so a rebuild keeps them). A polity's link comes from Cliopatria's Wikipedia column, an event's from its Wikidata enwiki sitelink; where that leads to a disambiguation page, the modern place, a person or a redirect into a longer article, the record gets the article (and section) about it. Every entry says why. Found while translating the summaries (data/README.md, Changes, 26 October 2026). Checked against English Wikipedia on 26 October 2026.",
+ "polities": {
+  "angevins": {"wikipedia": "County of Anjou", "was": "Angevin", "why": "Angevin is a disambiguation page; the record (1126–1146, France) is the county the Angevins ruled."},
+  "angles": {"wikipedia": "Angles (tribe)", "was": "Angles", "why": "Angles is a disambiguation page."},
+  "bali": {"wikipedia": "Bali Kingdom", "was": "Bali", "why": "Bali is the modern island and province; the record (1687–1907) is the Balinese kingdoms."},
+  "kingdom-of-thuringia": {"wikipedia": "Thuringi", "was": "Basina of Thuringia", "why": "Basina of Thuringia is a queen; the Thuringi article covers their kingdom (to 531)."},
+  "county-of-berga": {"wikipedia": "Counts of Berga", "was": "Berga", "why": "Berga is the modern town; there is no article on the county, the one on its counts covers it."},
+  "danish-magnates": {"wikipedia": "Duchy of Estonia (1219–1346)", "was": "Christopher II of Denmark", "why": "The record (1333–1351) sits in the Estonia column, which Denmark ruled until 1346; Christopher II is a king."},
+  "kingdom-of-champasak": {"wikipedia": "Kingdom of Champasak", "was": "Champasak", "why": "Champasak is a disambiguation page."},
+  "dongye": {"wikipedia": "Eastern Ye", "was": "Dongye", "why": "Dongye is a disambiguation page; Eastern Ye (Dongye) is the Korean chiefdom."},
+  "frisia-kingdom": {"wikipedia": "Frisian Kingdom", "was": "Frisia", "why": "Frisia is the modern region."},
+  "georgia-1918": {"wikipedia": "Democratic Republic of Georgia", "was": "Georgia", "why": "Georgia is a disambiguation page; 1918–1921 is the Democratic Republic."},
+  "georgia-1992": {"wikipedia": "Georgia (country)", "was": "Georgia", "why": "Georgia is a disambiguation page."},
+  "georgia-567": {"wikipedia": "Kingdom of Iberia", "was": "Georgia", "why": "Georgia is a disambiguation page; in 567–576 the Georgian kingdom was Iberia (Kartli), abolished in 580."},
+  "turk-shahis": {"wikipedia": "Turk Shahis", "was": "Kabul Shahi", "why": "Kabul Shahi is a disambiguation page."},
+  "kalinga": {"wikipedia": "Kalinga (region)", "was": "Kalinga", "why": "Kalinga is a disambiguation page."},
+  "later-han": {"wikipedia": "Later Han (Five Dynasties)", "was": "Later Han", "why": "Later Han is a disambiguation page; the record is 947–959."},
+  "livonian-conference": {"wikipedia": "Terra Mariana", "section": "Livonian Confederation", "was": "Livonian language", "why": "The record is the Livonian Confederation (1422–1563), a section of Terra Mariana; Livonian language is the language."},
+  "mahan": {"wikipedia": "Mahan confederacy", "was": "Mahan", "why": "Mahan is a disambiguation page."},
+  "mongol-khanate": {"wikipedia": "Northern Yuan", "was": "Mongol khanate", "why": "Mongol khanate is a disambiguation page; the Mongol state of 1468–1635 is the Northern Yuan."},
+  "omani-slave-coast": {"wikipedia": "Omani Empire", "was": "Omanis", "why": "Omanis is the article on the people; the record (1814–1855, Somalia and Tanzania) is the Omani Empire's East African coast."},
+  "county-of-pallars-jussa": {"wikipedia": "County of Pallars Jussà", "was": "Pallars Jussà", "why": "Pallars Jussà is the modern comarca."},
+  "county-of-pallars-sobira": {"wikipedia": "County of Pallars Sobirà", "was": "Pallars Sobirà", "why": "Pallars Sobirà is the modern comarca."},
+  "portuguese-africa": {"wikipedia": "Portuguese Empire", "was": "Portuguese Africa", "why": "Portuguese Africa is a disambiguation page; the record (1507–1581) covers Cape Verde, São Tomé and Bioko, for which the Portuguese Empire is the common article."},
+  "southern-wu": {"wikipedia": "Yang Wu", "was": "Southern Wu", "why": "Southern Wu is a disambiguation page; Yang Wu, also called Southern Wu, is the Ten Kingdoms state."},
+  "strathclyde": {"wikipedia": "Kingdom of Strathclyde", "was": "Strathclyde", "why": "Strathclyde is the modern council region."},
+  "sultanate-of-perak": {"wikipedia": "History of Malaysia", "section": "Perak Sultanate", "was": "Sultan of Perak", "why": "Sultan of Perak is the modern office; the sultanate has a section in History of Malaysia."},
+  "sultanate-of-selangor": {"wikipedia": "History of Malaysia", "section": "Selangor Sultanate", "was": "Sultan of Selangor", "why": "Sultan of Selangor is the modern office; Selangor Sultanate redirects to this section."},
+  "xia": {"wikipedia": "Xia (Sixteen Kingdoms)", "was": "Xia", "why": "Xia is a disambiguation page; the record (410–438) is the Sixteen Kingdoms Xia (Hu Xia)."},
+  "zhongshan": {"wikipedia": "Zhongshan (state)", "was": "Zhongshan", "why": "Zhongshan is the modern city."},
+  "zululand": {"wikipedia": "Zulu Kingdom", "was": "Zululand", "why": "Zululand is a disambiguation page."}
+ },
+ "events": {
+  "Q111014898": {"wiki": "Northern front of the Russian invasion of Ukraine", "section": "Russian advance on Kyiv", "was": "Battle of Ivankiv", "why": "Battle of Ivankiv redirects to the northern front article, whose section on the advance on Kyiv tells the battle."},
+  "Q111032201": {"wiki": "Northern front of the Russian invasion of Ukraine", "section": "Operations in other northern regions", "was": "Battle of Okhtyrka", "why": "Battle of Okhtyrka redirects to the northern front article; Okhtyrka is told in this section."},
+  "Q111032447": {"wiki": "Northern front of the Russian invasion of Ukraine", "section": "Operations in other northern regions", "was": "Battle of Trostianets", "why": "Battle of Trostianets redirects to the northern front article; Trostianets is told in this section."},
+  "Q111018336": {"wiki": "Northern front of the Russian invasion of Ukraine", "section": "Vasylkiv", "was": "Battle of Vasylkiv", "why": "Battle of Vasylkiv redirects to this section."},
+  "Q112206624": {"wiki": "Battle of Donbas (2022)", "section": "Luhansk Oblast", "was": "Battle of Kreminna", "why": "Battle of Kreminna redirects to the Battle of Donbas; Kreminna is told in its Luhansk Oblast section."},
+  "Q111018339": {"wiki": "Northern front of the Russian invasion of Ukraine", "section": "Operations in other northern regions", "was": "Battle of Konotop (2022)", "why": "Battle of Konotop (2022) redirects to the northern front article; the Russian detour through Konotop is told in this section."}
+ },
+ "accepted": {
+  "duchy-of-wroclaw": "Duchy of Wrocław redirects to Duchy of Silesia, which covers the duchy of Wrocław; no article of its own.",
+  "free-city-of-frankfurt": "The article covers the free city of 1815–1866 as well as the imperial city before it.",
+  "earldom-of-desmond": "Earldom of Desmond redirects to Earl of Desmond; no article on the earldom."
+ },
+ "unresolved": {
+  "georgia-724": "Georgia (724–1009, Georgia and Azerbaijan columns) is linked to a disambiguation page; no single article fits (the Principality of Iberia, Kakheti, Hereti and Abkhazia overlap these years).",
+  "turks": "Turks (666–756, Central Asia and China) is linked to a disambiguation page and to Wikidata's Oghuz Khagan; neither the Western nor the Second Turkic Khaganate matches the years.",
+  "kapisa": "Kapisa (1475–1506, Afghanistan) is linked to a disambiguation page; its Kingdom of Kapisa is of the 1st millennium.",
+  "malaya": "Malaya (1294–1351, Malaysia and Singapore) is linked to a disambiguation page; the Melayu Kingdom lay in Sumatra.",
+  "norse": "Norse (161–499, Denmark and Norway) is linked to a disambiguation page; the Norsemen article is about the Viking Age.",
+  "breton-kingdoms": "Breton Kingdoms (587–824) is linked to the article on the Bretons; the kingdoms (Domnonée, Cornouaille, Bro Waroch) have separate articles and none covers all.",
+  "kastamonu": "Kastamonu (1305–1343) is linked to the modern city; the beylik is either the Chobanids (to 1309) or the Candar dynasty (from about 1309), which the record's years straddle.",
+  "kannauj-varman-dynasty": "Kannauj-Varman Dynasty (732–771) is linked to the modern city; there is no article on the dynasty, only on Yashovarman.",
+  "kelantan": "Kelantan (1762–1904) is linked to the modern state; Kelantan Sultanate redirects to the modern office.",
+  "negeri-sembilan": "Negeri Sembilan (1775–1894) is linked to the modern state; no article on the historical confederacy.",
+  "kedah-perlis-district": "Kedah-Perlis District (1842–1910) is linked to the modern state of Perlis; no article on the district.",
+  "sultanate-of-terengganu": "Terengganu Sultanate redirects to the modern office (Sultan of Terengganu); History of Malaysia has no section on it.",
+  "kingdom-of-pajana": "Kingdom of Pajana (1572–1587) is linked to the Lontara script; no English article on the kingdom was found."
+ }
+}

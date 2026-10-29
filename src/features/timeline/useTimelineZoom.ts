@@ -25,6 +25,8 @@ interface Dims {
   /** Widest a lane gets when zoomed in, px (a share of the plot, so its neighbours stay in view). */
   maxLaneW: number;
   nLanes: number;
+  /** Width covered by a drawer at the right of the plot, px: the lanes can scroll out from under it. */
+  occludeRight: number;
 }
 
 /** Time zoom at which the lanes start to widen, and how fast they widen after it. */
@@ -89,9 +91,9 @@ export function useTimelineZoom(ref: RefObject<HTMLDivElement>, dims: Dims) {
   const lastCentre = useRef<number | null>(null);
 
   const clampTx = useCallback((tx: number, kx = viewRef.current.kx) => {
-    const { plotW, baseLaneW, nLanes } = dimsRef.current;
+    const { plotW, baseLaneW, nLanes, occludeRight } = dimsRef.current;
     const contentW = baseLaneW * kx * nLanes;
-    return Math.min(0, Math.max(Math.min(0, plotW - contentW), tx));
+    return Math.min(0, Math.max(Math.min(0, plotW - occludeRight - contentW), tx));
   }, []);
 
   const commit = useCallback(() => {
@@ -182,7 +184,7 @@ export function useTimelineZoom(ref: RefObject<HTMLDivElement>, dims: Dims) {
     const kx = laneZoom(viewRef.current.k, dims.baseLaneW, dims.maxLaneW);
     viewRef.current = { ...viewRef.current, kx, tx: clampTx(viewRef.current.tx, kx) };
     commit();
-  }, [dims.plotW, dims.baseLaneW, dims.maxLaneW, dims.nLanes, clampTx, commit]);
+  }, [dims.plotW, dims.baseLaneW, dims.maxLaneW, dims.nLanes, dims.occludeRight, clampTx, commit]);
 
   const apply = useCallback(
     (t: ZoomTransform, duration: number) => {
@@ -240,13 +242,15 @@ export function useTimelineZoom(ref: RefObject<HTMLDivElement>, dims: Dims) {
     [ref, clampTx, commit],
   );
 
-  /** Scroll lanes so the lane starting at `x` (content px) is centred. */
+  /**
+   * Scroll lanes so the lane starting at `x` (content px) is centred in the first `viewW` px of the
+   * plot (the part a drawer leaves uncovered; the whole plot by default). A lane wider than that
+   * view is aligned to its left edge instead.
+   */
   const panToX = useCallback(
-    (x: number, width: number) => {
-      viewRef.current = {
-        ...viewRef.current,
-        tx: clampTx(-(x + width / 2 - dimsRef.current.plotW / 2)),
-      };
+    (x: number, width: number, viewW = dimsRef.current.plotW) => {
+      const tx = width >= viewW ? -x : -(x + width / 2 - viewW / 2);
+      viewRef.current = { ...viewRef.current, tx: clampTx(tx) };
       commit();
     },
     [clampTx, commit],

@@ -195,6 +195,15 @@ if os.path.exists(eras_path):
             if not r: errors.append(f"era {e['id']}: cited row not in the snapshot")
             elif (max(r["from"], -3400), min(r["to"], 2024)) != (e["from"], e["to"]): errors.append(f"era {e['id']}: years differ from the cited row")
             if "oldid=" not in e["cite"]["permalink"]: errors.append(f"era {e['id']}: no revision link")
+            if "article" in e:
+                # the article must be a link target written in the cited row itself (snapshot key text)
+                targets = [k.split("|", 1)[1] for k, r in wp_eras.items()
+                           if r["page"] == e["cite"]["page"] and r["quote"] == e["cite"]["quote"]]
+                want = "[[" + e["article"]["title"] + ("#" + e["article"]["section"] if e["article"].get("section") else "")
+                if not any(want in t for t in targets):
+                    errors.append(f"era {e['id']}: article {e['article']} is not linked in its cited row")
+        elif "article" in e:
+            errors.append(f"era {e['id']}: article without a cited row")
         elif e.get("basis") != "period-bin":
             errors.append(f"era {e['id']}: neither cited nor a period bin")
         elif not e["leaders"]:

@@ -1,8 +1,8 @@
 import type { CSSProperties } from 'react';
 import type { Era, Lane, Span, Year } from '@/data/types';
-import { groupLabel } from '@/data/regions';
 import { spansAt } from '@/lib/spans';
-import type { HighlightSlot } from '@/state/store';
+import { useI18n } from '@/i18n/useI18n';
+import { groupName } from '@/i18n/regionText';
 import { blockColors } from './colors';
 import s from './Timeline.module.scss';
 
@@ -16,7 +16,11 @@ interface Props {
   groupH: number;
   headH: number;
   cursorYear: Year;
-  slotOf: Map<string, HighlightSlot>;
+  /** The state whose story is open. */
+  selectedId: string | null;
+  /** The column the open story is told from. */
+  focusLaneId?: string;
+  eraName: (era: Era) => string;
   onSelect: (polityId: string, laneId: string) => void;
   /** At the Eras level, each head names the period of its column at the year marker instead. */
   eraFor?: (laneId: string) => Era | undefined;
@@ -37,11 +41,15 @@ export function LaneHeaders({
   groupH,
   headH,
   cursorYear,
-  slotOf,
+  selectedId,
+  focusLaneId,
+  eraName,
   onSelect,
   eraFor,
   onEra,
 }: Props) {
+  const i18n = useI18n();
+  const { t } = i18n;
   const groups: Array<{ id: string; start: number; count: number }> = [];
   lanes.forEach((l, i) => {
     const last = groups[groups.length - 1];
@@ -70,7 +78,7 @@ export function LaneHeaders({
                 paddingLeft: 8 + Math.max(0, Math.min(-tx - g.start * laneW, g.count * laneW - 90)),
               }}
             >
-              <span>{groupLabel(g.id)}</span>
+              <span>{groupName(i18n, g.id)}</span>
             </div>
           ))}
         </div>
@@ -78,18 +86,21 @@ export function LaneHeaders({
           {lanes.map((lane, i) => {
             const era = eraFor?.(lane.id);
             const [ruler, ...others] = eraFor ? [] : spansAt(spansByLane[lane.id] ?? [], cursorYear);
-            const colors = ruler ? blockColors(ruler, slotOf.get(ruler.id)) : null;
+            const colors = ruler ? blockColors(ruler, selectedId === ruler.id) : null;
+            const name = i18n.lane(lane);
+            const rulerName = ruler ? i18n.polity(ruler) : '';
             return (
-              <div key={lane.id} className={s.lane} style={{ left: i * laneW, width: laneW }}>
+              <div
+                key={lane.id}
+                className={s.lane}
+                data-focus={focusLaneId === lane.id || undefined}
+                style={{ left: i * laneW, width: laneW }}
+              >
                 <div
                   className={s.laneName}
-                  title={
-                    lane.naturalEarth && lane.naturalEarth.length > 1
-                      ? `${lane.label}: ${lane.naturalEarth.join(', ')}`
-                      : lane.label
-                  }
+                  title={lane.naturalEarth && lane.naturalEarth.length > 1 ? `${name}: ${lane.naturalEarth.join(', ')}` : name}
                 >
-                  {lane.label}
+                  {name}
                 </div>
                 {eraFor ? (
                   era ? (
@@ -97,18 +108,18 @@ export function LaneHeaders({
                       type="button"
                       className={s.ruler}
                       onClick={() => onEra?.(era, lane.id)}
-                      title={`${era.name}${era.leaders.length ? `: ${era.leaders.map((l) => l.name).join(', ')}` : ''}`}
+                      title={`${eraName(era)}${era.leaders.length ? `: ${i18n.fmt.list(era.leaders.map((l) => i18n.polity(l)))}` : ''}`}
                     >
                       <span
                         className={s.rulerSwatch}
                         style={{ '--swatch': 'var(--era-2)' } as CSSProperties}
                         aria-hidden="true"
                       />
-                      <span className={s.rulerName}>{era.name}</span>
+                      <span className={s.rulerName}>{eraName(era)}</span>
                     </button>
                   ) : (
-                    <div className={s.rulerNone} title="No period of this column is recorded in this year">
-                      No era recorded
+                    <div className={s.rulerNone} title={t('timeline.noEraTitle')}>
+                      {t('timeline.noEra')}
                     </div>
                   )
                 ) : ruler ? (
@@ -116,19 +127,19 @@ export function LaneHeaders({
                     type="button"
                     className={s.ruler}
                     onClick={() => onSelect(ruler.id, lane.id)}
-                    title={`${ruler.name}${others.length ? ` and ${others.length} more` : ''}`}
+                    title={others.length ? t('timeline.andMore', { name: rulerName, n: others.length }) : rulerName}
                   >
                     <span
                       className={s.rulerSwatch}
                       style={{ '--swatch': colors!.fill } as CSSProperties}
                       aria-hidden="true"
                     />
-                    <span className={s.rulerName}>{ruler.name}</span>
+                    <span className={s.rulerName}>{rulerName}</span>
                     {others.length > 0 && <span className={s.rulerMore}>+{others.length}</span>}
                   </button>
                 ) : (
-                  <div className={s.rulerNone} title="The source data maps no state here in this year">
-                    No state in the data
+                  <div className={s.rulerNone} title={t('timeline.noStateTitle')}>
+                    {t('timeline.noState')}
                   </div>
                 )}
               </div>

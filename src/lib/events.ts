@@ -1,17 +1,4 @@
-import type { EventType, HistEvent, Year } from '@/data/types';
-
-export const EVENT_TYPE_LABEL: Record<EventType, string> = {
-  battle: 'Battle',
-  siege: 'Siege',
-  invasion: 'Invasion',
-  campaign: 'Military campaign',
-  war: 'War',
-  revolution: 'Revolution',
-  rebellion: 'Rebellion',
-  coup: 'Coup',
-  treaty: 'Treaty',
-  pandemic: 'Pandemic',
-};
+import type { HistEvent, Year } from '@/data/types';
 
 export interface ShownEvent {
   event: HistEvent;

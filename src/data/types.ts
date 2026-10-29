@@ -135,6 +135,8 @@ export interface Era {
   /** source: the records the cited row names; data: computed from the chart's spans. */
   leadersBy: 'source' | 'data' | null;
   cite?: Cite;
+  /** The period's own Wikipedia article, read from the link in its cited row (a section when given). */
+  article?: { title: string; section?: string };
   basis?: 'period-bin';
   approx?: boolean;
   clippedFrom?: Year;
@@ -221,6 +223,10 @@ export interface HistEvent {
   by: 'coordinates' | 'location' | 'country';
   /** English Wikipedia title. */
   wiki?: string;
+  /** Section of that article, when the event is told in a section of a longer page (link-fixes.json). */
+  wikiSection?: string;
+  /** The link a hand correction replaced (data/sources/link-fixes.json). */
+  linkFix?: string;
 }
 
 export interface Polity {
@@ -229,6 +235,11 @@ export interface Polity {
   years: [Year, Year];
   wikidata?: string;
   wikipedia?: string;
+  /** Section of that article, when the state is told in a section of a longer page (link-fixes.json). */
+  wikipediaSection?: string;
+  /** The link a hand correction replaced (data/sources/link-fixes.json); the Wikidata item no longer
+   *  stands in for the article, since it was chosen for the old link. */
+  linkFix?: string;
   seshat?: string[];
   realmOnly?: boolean;
   wd?: WikidataCheck;

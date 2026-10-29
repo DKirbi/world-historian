@@ -16,6 +16,7 @@
     "d3-selection": "3.0.0",
     "d3-transition": "3.0.1",
     "d3-zoom": "3.0.0",
+    "intl-messageformat": "10.7.18",
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "zustand": "4.5.5"

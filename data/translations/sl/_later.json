@@ -1,0 +1,804 @@
+{
+ "tag": "L10N-LATER",
+ "lang": "sl",
+ "generated": "2026-10-26",
+ "note": "What still shows untranslated, to settle at the end of the localisation. Made by scripts/l10n-later.py; run it again after each step. See docs/i18n.md, 'Flagged for later'.",
+ "counts": {
+  "no-source": 5,
+  "own-article": 11,
+  "wrong-article": 13,
+  "section-eras": 28,
+  "wikidata-only": 10,
+  "chart-labels": 0,
+  "chart-labels with a seed": 0
+ },
+ "no-source": [
+  {
+   "tag": "L10N-LATER",
+   "title": "Late Archaic",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "eastern-north-america-late-archaic"
+   ],
+   "why": "No English article; the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Dutch Cape Coast",
+   "kind": "state",
+   "regions": [
+    "africa-middle-east"
+   ],
+   "records": [
+    "dutch-cape-colony"
+   ],
+   "why": "No English article."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Uryankhay Republic",
+   "kind": "state",
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "republic-of-uryankhay"
+   ],
+   "why": "The English article the record links to does not exist."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Cambodia Middle Period",
+   "kind": "state",
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "cambodia"
+   ],
+   "why": "No English article."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "id.wikipedia.org/wiki/Kesultanan_Sambaliung",
+   "kind": "state",
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "sultanate-of-sambaliung"
+   ],
+   "why": "Linked to the Indonesian Wikipedia only."
+  }
+ ],
+ "own-article": [
+  {
+   "tag": "L10N-LATER",
+   "title": "Mississippian culture",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "eastern-north-america-mississippian"
+   ],
+   "own": "Misisipijska kultura",
+   "why": "Has a sl article now; store it with the sl snapshot."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Early Dynastic Period (Egypt)",
+   "kind": "state",
+   "regions": [
+    "africa-middle-east"
+   ],
+   "records": [
+    "early-dynastic-period-of-egypt"
+   ],
+   "own": "Zgodnje dinastično obdobje (Egipt)",
+   "why": "Has a sl article now; store it with the sl snapshot."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Georgia (country)",
+   "kind": "state",
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "georgia-1992"
+   ],
+   "own": "Gruzija",
+   "why": "Has a sl article now; store it with the sl snapshot."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Duchy of Estonia (1219–1346)",
+   "kind": "state",
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "danish-magnates"
+   ],
+   "own": "Danska Estonija",
+   "why": "Has a sl article now; store it with the sl snapshot."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Later Han (Five Dynasties)",
+   "kind": "state",
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "later-han"
+   ],
+   "own": "Kasnejši Han",
+   "why": "Has a sl article now; store it with the sl snapshot."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Yang Wu",
+   "kind": "state",
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "southern-wu"
+   ],
+   "own": "Vu (deset kraljestev)",
+   "why": "Has a sl article now; store it with the sl snapshot."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Western Liang (555–587)",
+   "kind": "state",
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "later-western-liang"
+   ],
+   "own": "Zahodni Ljang (555-587)",
+   "why": "Has a sl article now; store it with the sl snapshot."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Angles (tribe)",
+   "kind": "state",
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "angles"
+   ],
+   "own": "Angli",
+   "why": "Has a sl article now; store it with the sl snapshot."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Thuringi",
+   "kind": "state",
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "kingdom-of-thuringia"
+   ],
+   "own": "Turingi",
+   "why": "Has a sl article now; store it with the sl snapshot."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Minsk II",
+   "kind": "event",
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "Q19249259"
+   ],
+   "own": "Sporazumi iz Minska",
+   "why": "Has a sl article now; store it with the sl snapshot."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Sulla's first civil war",
+   "kind": "event",
+   "regions": [
+    "europe"
+   ],
+   "records": [
+    "Q2734925"
+   ],
+   "own": "Sulova državljanska vojna",
+   "why": "Has a sl article now; store it with the sl snapshot."
+  }
+ ],
+ "wrong-article": [
+  {
+   "tag": "L10N-LATER",
+   "title": "Bretons",
+   "region": "europe",
+   "records": [
+    "breton-kingdoms"
+   ],
+   "source": "Bretons",
+   "why": "Breton Kingdoms (587–824) is linked to the article on the Bretons; the kingdoms (Domnonée, Cornouaille, Bro Waroch) have separate articles and none covers all."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Georgia",
+   "region": "asia",
+   "records": [
+    "georgia-724"
+   ],
+   "source": "Georgia",
+   "why": "Georgia (724–1009, Georgia and Azerbaijan columns) is linked to a disambiguation page; no single article fits (the Principality of Iberia, Kakheti, Hereti and Abkhazia overlap these years)."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Kannauj",
+   "region": "asia",
+   "records": [
+    "kannauj-varman-dynasty"
+   ],
+   "source": "Kannauj",
+   "why": "Kannauj-Varman Dynasty (732–771) is linked to the modern city; there is no article on the dynasty, only on Yashovarman."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Kapisa",
+   "region": "asia",
+   "records": [
+    "kapisa"
+   ],
+   "source": "Kapisa",
+   "why": "Kapisa (1475–1506, Afghanistan) is linked to a disambiguation page; its Kingdom of Kapisa is of the 1st millennium."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Kastamonu",
+   "region": "africa-middle-east",
+   "records": [
+    "kastamonu"
+   ],
+   "source": "Kastamonu",
+   "why": "Kastamonu (1305–1343) is linked to the modern city; the beylik is either the Chobanids (to 1309) or the Candar dynasty (from about 1309), which the record's years straddle."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Kelantan",
+   "region": "asia",
+   "records": [
+    "kelantan"
+   ],
+   "source": "Kelantan",
+   "why": "Kelantan (1762–1904) is linked to the modern state; Kelantan Sultanate redirects to the modern office."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Lontara script",
+   "region": "asia",
+   "records": [
+    "kingdom-of-pajana"
+   ],
+   "source": "Lontara script",
+   "why": "Kingdom of Pajana (1572–1587) is linked to the Lontara script; no English article on the kingdom was found."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Malaya",
+   "region": "asia",
+   "records": [
+    "malaya"
+   ],
+   "source": "Malaya",
+   "why": "Malaya (1294–1351, Malaysia and Singapore) is linked to a disambiguation page; the Melayu Kingdom lay in Sumatra."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Negeri Sembilan",
+   "region": "asia",
+   "records": [
+    "negeri-sembilan"
+   ],
+   "source": "Negeri Sembilan",
+   "why": "Negeri Sembilan (1775–1894) is linked to the modern state; no article on the historical confederacy."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Norse",
+   "region": "europe",
+   "records": [
+    "norse"
+   ],
+   "source": "Norse",
+   "why": "Norse (161–499, Denmark and Norway) is linked to a disambiguation page; the Norsemen article is about the Viking Age."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Perlis",
+   "region": "asia",
+   "records": [
+    "kedah-perlis-district"
+   ],
+   "source": "Perlis",
+   "why": "Kedah-Perlis District (1842–1910) is linked to the modern state of Perlis; no article on the district."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Sultan of Terengganu",
+   "region": "asia",
+   "records": [
+    "sultanate-of-terengganu"
+   ],
+   "source": "Sultan of Terengganu",
+   "why": "Terengganu Sultanate redirects to the modern office (Sultan of Terengganu); History of Malaysia has no section on it."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Turk",
+   "region": "asia",
+   "records": [
+    "turks"
+   ],
+   "source": "Turk",
+   "why": "Turks (666–756, Central Asia and China) is linked to a disambiguation page and to Wikidata's Oghuz Khagan; neither the Western nor the Second Turkic Khaganate matches the years."
+  }
+ ],
+ "section-eras": [
+  {
+   "tag": "L10N-LATER",
+   "title": "List of archaeological periods",
+   "section": "Indigenous Period (60,000 BCE – 1606 CE)",
+   "kind": "era",
+   "regions": [
+    "oceania"
+   ],
+   "records": [
+    "australia-indigenous-period"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "List of archaeological periods",
+   "section": "European-Contact Pre-Settlement Period (1606 – 1788 CE)",
+   "kind": "era",
+   "regions": [
+    "oceania"
+   ],
+   "records": [
+    "australia-pre-settlement-period"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "List of archaeological periods",
+   "section": "Settlement / Pre-Industrial Period (1788 – 1820 CE)",
+   "kind": "era",
+   "regions": [
+    "oceania"
+   ],
+   "records": [
+    "australia-settlement-pre-industrial"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "List of archaeological periods",
+   "section": "Bronze Age (3500 – 600 BCE)",
+   "kind": "era",
+   "regions": [
+    "africa-middle-east"
+   ],
+   "records": [
+    "nubia-bronze-age"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "List of archaeological periods",
+   "section": "Iron Age (550 BC – 700 CE)",
+   "kind": "era",
+   "regions": [
+    "africa-middle-east"
+   ],
+   "records": [
+    "nubia-iron-age",
+    "ssa-central-iron-age",
+    "ssa-east-iron-age",
+    "ssa-horn-iron-age",
+    "ssa-southern-iron-age",
+    "ssa-west-iron-age"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "List of archaeological periods",
+   "section": "Classic Middle Ages (c. 700 – 1700 CE)",
+   "kind": "era",
+   "regions": [
+    "africa-middle-east"
+   ],
+   "records": [
+    "nubia-classic-middle-ages",
+    "ssa-central-classic-middle-ages",
+    "ssa-east-classic-middle-ages",
+    "ssa-horn-classic-middle-ages",
+    "ssa-southern-classic-middle-ages",
+    "ssa-west-classic-middle-ages"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "List of archaeological periods",
+   "section": "Protohistoric period c. 300 BCE – 300/400 CE",
+   "kind": "era",
+   "regions": [
+    "asia"
+   ],
+   "records": [
+    "korea-protohistoric-period"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "List of pre-Columbian cultures",
+   "section": "Late Ceramic Age, c. AD 600-1500",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "antilles-late-ceramic-age",
+    "bahamas-late-ceramic-age"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "List of pre-Columbian cultures",
+   "section": "Lithic/Archaic Age, c. 5500—200 BC",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "antilles-lithic-archaic-age"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "List of pre-Columbian cultures",
+   "section": "Early Ceramic Age, c. 500 BC—AD 600",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "antilles-early-ceramic-age"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Mesoamerican chronology",
+   "section": "Archaic | 3500–2000 BCE",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-archaic"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Mesoamerican chronology",
+   "section": "Early Preclassic | 2000–1000 BCE",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-early-preclassic"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Mesoamerican chronology",
+   "section": "Middle Preclassic | 950–400 BCE",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-middle-preclassic"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Mesoamerican chronology",
+   "section": "Late Preclassic | 400 BCE–250 CE",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-late-preclassic"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Mesoamerican chronology",
+   "section": "Early Classic | 250–600",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-early-classic"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Mesoamerican chronology",
+   "section": "Late Classic | 600–900",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-late-classic"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Mesoamerican chronology",
+   "section": "Early Postclassic | 900–1200",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-early-postclassic"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Mesoamerican chronology",
+   "section": "Late Postclassic | 1200–1521",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-late-postclassic"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Mesoamerican chronology",
+   "section": "Colonial | 1521–1821",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-colonial"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Mesoamerican chronology",
+   "section": "Postcolonial | 1821–present",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "mesoamerica-postcolonial"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Periodization of pre-Columbian Peru",
+   "section": "Period V | 4200 BCE – 2500 BCE",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "andes-period-v-preceramic"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Periodization of pre-Columbian Peru",
+   "section": "Period VI (Cotton Pre-ceramic) | 2500 BCE – 1800 BCE",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "andes-period-vi-cotton-preceramic"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Periodization of pre-Columbian Peru",
+   "section": "Initial Period (also called Formative Period) | 1800 BCE – 900 BCE",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "andes-initial-period"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Periodization of pre-Columbian Peru",
+   "section": "Early Horizon (Also called Formative Period) | 900 BCE – 200 BCE",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "andes-early-horizon"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Periodization of pre-Columbian Peru",
+   "section": "Early Intermediate | 200 BCE – 600 CE",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "andes-early-intermediate"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Periodization of pre-Columbian Peru",
+   "section": "Middle Horizon | 600 CE – 1000 CE",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "andes-middle-horizon"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Periodization of pre-Columbian Peru",
+   "section": "Late Intermediate | 1000 CE – 1476 CE",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "andes-late-intermediate"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  },
+  {
+   "tag": "L10N-LATER",
+   "title": "Periodization of pre-Columbian Peru",
+   "section": "Late Horizon | 1476 CE – 1534 CE",
+   "kind": "era",
+   "regions": [
+    "americas"
+   ],
+   "records": [
+    "andes-late-horizon"
+   ],
+   "why": "No heading of the page resembles the era's cited row, so the drawer tells the era's story from the data."
+  }
+ ],
+ "wikidata-only": [
+  {
+   "tag": "L10N-LATER",
+   "kind": "event",
+   "id": "Q1207604",
+   "region": "africa-middle-east",
+   "name": "Namibian War of Independence"
+  },
+  {
+   "tag": "L10N-LATER",
+   "kind": "event",
+   "id": "Q1723036",
+   "region": "africa-middle-east",
+   "name": "West Africa Campaign"
+  },
+  {
+   "tag": "L10N-LATER",
+   "kind": "event",
+   "id": "Q34103",
+   "region": "africa-middle-east",
+   "name": "Second Syrian War"
+  },
+  {
+   "tag": "L10N-LATER",
+   "kind": "event",
+   "id": "Q34145",
+   "region": "africa-middle-east",
+   "name": "Third Syrian War"
+  },
+  {
+   "tag": "L10N-LATER",
+   "kind": "event",
+   "id": "Q50822331",
+   "region": "africa-middle-east",
+   "name": "African Continental Free Trade Agreement"
+  },
+  {
+   "tag": "L10N-LATER",
+   "kind": "state",
+   "id": "mossi-kingdoms",
+   "region": "africa-middle-east",
+   "name": "Mossi Kingdoms"
+  },
+  {
+   "tag": "L10N-LATER",
+   "kind": "event",
+   "id": "Q14150415",
+   "region": "europe",
+   "name": "Capture of Granada"
+  },
+  {
+   "tag": "L10N-LATER",
+   "kind": "event",
+   "id": "Q34103",
+   "region": "europe",
+   "name": "Second Syrian War"
+  },
+  {
+   "tag": "L10N-LATER",
+   "kind": "event",
+   "id": "Q34145",
+   "region": "europe",
+   "name": "Third Syrian War"
+  },
+  {
+   "tag": "L10N-LATER",
+   "kind": "event",
+   "id": "Q4087405",
+   "region": "europe",
+   "name": "Siege of Avaricum"
+  }
+ ],
+ "chart-labels": []
+}
