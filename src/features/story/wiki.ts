@@ -26,6 +26,8 @@ export interface WikiImage {
   height: number;
   /** File name without the "File:" prefix. */
   file?: string;
+  /** Author and licence, when stored with the text (no request to Commons). */
+  credit?: ImageCredit;
 }
 
 export interface WikiArticle {

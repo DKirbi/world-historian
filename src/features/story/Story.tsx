@@ -353,7 +353,8 @@ function WikiSource({
 function Figure({ article }: { article: WikiArticle }): ReactNode {
   const { t } = useI18n();
   const img = article.image!;
-  const credit = useImageCredit(article.lang, img.file);
+  const live = useImageCredit(article.lang, img.credit ? undefined : img.file); // stored with the text, else asked for
+  const credit = img.credit ?? live;
   const ratio = img.width && img.height ? img.width / img.height : 1.5;
   // an image that cannot be loaded (offline, or a file since removed) leaves no empty plate behind
   const [broken, setBroken] = useState<string | null>(null);

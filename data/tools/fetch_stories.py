@@ -25,6 +25,7 @@ re-translate; the new translation is unreviewed).
 """
 import datetime
 import glob
+import html
 import json
 import os
 import sys
@@ -240,7 +241,53 @@ for asked_title, (target, fragment) in to_section.items():
             read[en_title] = {"title": got["article"], "url": got["url"], "rev": got["rev"], "section": got["section"],
                               "paragraphs": wpt.excerpt(got["paragraphs"], MAX_PARAGRAPHS, MAX_CHARS)}
 
-# 5. one file per region
+# 5. the lead images' credits (author, licence, Commons page), 50 files to a request, for every stored image without
+#    one, as src/features/story/wiki.ts fetchImageCredit reads them; `free` marks the freely licensed files the image packs may store (English Wikipedia's local
+#    copies are often fair use, marked NonFree; some are protected copies of free Commons files)
+def strip_tags(markup):
+    return " ".join(html.unescape(wpt.strip_tags(markup or "")).split())
+
+
+def image_credits(files):
+    out = {}
+    for chunk in chunks(sorted(files), 50):
+        body = get({"action": "query", "titles": "|".join(f"File:{f}" for f in chunk), "prop": "imageinfo",
+                    "iiprop": "extmetadata|url",
+                    "iiextmetadatafilter": "Artist|LicenseShortName|LicenseUrl|AttributionRequired|NonFree"})
+        q = body.get("query", {})
+        back = {n["to"]: n["from"] for n in q.get("normalized", [])}
+        for page in q.get("pages", []):
+            info = (page.get("imageinfo") or [None])[0]
+            if not info:
+                continue
+            meta = {k: v.get("value") for k, v in (info.get("extmetadata") or {}).items()}
+            name = back.get(page["title"], page["title"]).removeprefix("File:")
+            licence = strip_tags(meta.get("LicenseShortName")) or None
+            nonfree = str(meta.get("NonFree", "")).lower() in ("true", "1") or (licence or "").lower().startswith(("fair use", "non-free"))
+            credit = {"page": info.get("descriptionurl") or f"https://commons.wikimedia.org/wiki/File:{name.replace(' ', '_')}",
+                      "repo": "commons" if page.get("imagerepository") == "shared" else "local",
+                      "free": bool(licence) and not nonfree}
+            artist = strip_tags(meta.get("Artist"))[:160]
+            if artist:
+                credit["artist"] = artist
+            if licence:
+                credit["licence"] = licence
+            if meta.get("LicenseUrl"):
+                credit["licenceUrl"] = meta["LicenseUrl"]
+            out[name] = credit
+    return out
+
+
+fresh_images = [r["image"] for r in read.values() if r.get("image", {}).get("file")]
+held_images = fresh_images + [r["image"] for r in old.values() if r.get("image", {}).get("file")]
+need = {i["file"] for i in fresh_images} | {i["file"] for i in held_images if "credit" not in i}
+credits = image_credits(need) if need else {}
+for img in held_images:
+    if img["file"] in credits:
+        img["credit"] = credits[img["file"]]
+print(f"image credits: {len(credits)} of {len(need)} files read", flush=True)
+
+# 6. one file per region
 os.makedirs(out_dir, exist_ok=True)
 missing = sorted(k for k in todo if k not in read and (lang == "en" or k in titles or units[k].get("section")))
 for region in regions:
@@ -250,7 +297,7 @@ for region in regions:
     for key, u in wanted.items():
         if region not in u["regions"]:
             continue
-        rec = read.get(key) if key in read else prev.get(key) or old.get(key)
+        rec = read.get(key) if key in read else old.get(key) or prev.get(key)
         if not rec:
             continue
         if key in read:

@@ -5,7 +5,7 @@
  * Wikipedia; one pack per region, loaded when a story of that region first opens.
  */
 import { storyLangs } from 'virtual:story-packs';
-import type { ArticleRef, WikiArticle } from './wiki';
+import type { ArticleRef, ImageCredit, WikiArticle } from './wiki';
 
 export interface StoredSummary {
   title: string;
@@ -15,7 +15,7 @@ export interface StoredSummary {
   /** The section read, when not the introduction. */
   section?: string;
   paragraphs: string[];
-  image?: { file?: string; src: string; width: number; height: number };
+  image?: { file?: string; src: string; width: number; height: number; credit?: ImageCredit & { free?: boolean; repo?: string } };
   /** Day the text was read from Wikipedia. */
   retrieved?: string;
 }
@@ -88,6 +88,9 @@ export function storyKey(ref: ArticleRef | null | undefined): string | undefined
   return section ? `${ref.enTitle}#${section}` : ref.enTitle;
 }
 
+const credit = (c: (ImageCredit & { free?: boolean; repo?: string }) | undefined): ImageCredit | undefined =>
+  c && { artist: c.artist, licence: c.licence, licenceUrl: c.licenceUrl, page: c.page };
+
 /** A stored summary in the shape the drawer renders. */
 export function storedArticle(s: StoredSummary, lang: string, fallback: boolean): WikiArticle {
   return {
@@ -97,7 +100,7 @@ export function storedArticle(s: StoredSummary, lang: string, fallback: boolean)
     revision: s.rev,
     description: s.description,
     paragraphs: s.paragraphs,
-    image: s.image ? { src: s.image.src, width: s.image.width, height: s.image.height, file: s.image.file } : undefined,
+    image: s.image ? { src: s.image.src, width: s.image.width, height: s.image.height, file: s.image.file, credit: credit(s.image.credit) } : undefined,
     fallback,
     section: s.section,
     retrieved: s.retrieved,

@@ -178,7 +178,14 @@ describe('Wikipedia requests', () => {
 
 describe('stored summaries', () => {
   const pack = (units: Record<string, unknown>) => new Response(JSON.stringify({ units }));
-  const ueno = { title: 'Battle of Ueno', url: 'https://en.wikipedia.org/wiki/Battle_of_Ueno', rev: 1, paragraphs: ['Stored text.'] };
+  const ueno = {
+    title: 'Battle of Ueno',
+    url: 'https://en.wikipedia.org/wiki/Battle_of_Ueno',
+    rev: 1,
+    retrieved: '2026-10-29',
+    paragraphs: ['Stored text.'],
+    image: { file: 'Ueno.jpg', src: 'https://example.org/u.jpg', width: 960, height: 640, credit: { page: 'https://commons.wikimedia.org/wiki/File:Ueno.jpg', licence: 'Public domain', free: true, repo: 'commons' } },
+  };
   const notStored = { title: 'Nowhere', url: 'https://en.wikipedia.org/wiki/Nowhere', rev: 1, paragraphs: ['Elsewhere.'] };
   const live = () => {
     const calls: string[] = [];
@@ -197,6 +204,8 @@ describe('stored summaries', () => {
     const a = await loadArticle({ enTitle: 'Battle of Ueno' }, 'en', undefined, 'asia');
     expect(a?.paragraphs).toEqual(['Stored text.']);
     expect(a?.fallback).toBe(false);
+    expect(a?.retrieved).toBe('2026-10-29');
+    expect(a?.image?.credit).toEqual({ page: 'https://commons.wikimedia.org/wiki/File:Ueno.jpg', licence: 'Public domain', artist: undefined, licenceUrl: undefined });
     expect(calls).toEqual([]);
   });
 
