@@ -4,8 +4,8 @@ import { hasTranslations, loadTranslations, type StoredTranslation } from './tra
 
 export type TranslationState = { status: 'none' | 'loading' } | { status: 'ready'; translation: StoredTranslation };
 
-/** The stored translation of the English article `enTitle` into `lang`, when there is one. */
-export function useStoredTranslation(lang: string, enTitle: string | undefined): TranslationState {
+/** The stored translation of the story `enTitle` (its story key) into `lang`, from the pack of `region`. */
+export function useStoredTranslation(lang: string, enTitle: string | undefined, region: string): TranslationState {
   const wanted = !!enTitle && hasTranslations(lang);
   const [state, setState] = useState<TranslationState>({ status: wanted ? 'loading' : 'none' });
   useEffect(() => {
@@ -15,7 +15,7 @@ export function useStoredTranslation(lang: string, enTitle: string | undefined):
     }
     let live = true;
     setState({ status: 'loading' });
-    loadTranslations(lang)
+    loadTranslations(lang, region)
       .then((all) => {
         const tr = all.get(enTitle);
         if (live) setState(tr ? { status: 'ready', translation: tr } : { status: 'none' });
@@ -24,7 +24,7 @@ export function useStoredTranslation(lang: string, enTitle: string | undefined):
     return () => {
       live = false;
     };
-  }, [lang, enTitle, wanted]);
+  }, [lang, enTitle, region, wanted]);
   return state;
 }
 
@@ -36,8 +36,11 @@ export type ArticleState =
 
 const refKey = (ref: ArticleRef | null) => (ref ? JSON.stringify(ref) : '');
 
-/** The story's Wikipedia article in `lang`, loaded when the story opens; cancelled when it changes. */
-export function useArticle(ref: ArticleRef | null, lang: string): ArticleState & { retry: () => void } {
+/**
+ * The story's Wikipedia article in `lang`, loaded when the story opens and cancelled when it changes: from the
+ * stored pack of `region` when there, else live.
+ */
+export function useArticle(ref: ArticleRef | null, lang: string, region?: string): ArticleState & { retry: () => void } {
   const [state, setState] = useState<ArticleState>(() => (ref ? { status: 'loading' } : { status: 'none' }));
   const [attempt, setAttempt] = useState(0);
   const key = refKey(ref);
@@ -49,7 +52,7 @@ export function useArticle(ref: ArticleRef | null, lang: string): ArticleState &
     }
     const ctrl = new AbortController();
     setState({ status: 'loading' });
-    loadArticle(ref, lang, ctrl.signal)
+    loadArticle(ref, lang, ctrl.signal, region)
       .then((article) => !ctrl.signal.aborted && setState(article ? { status: 'ready', article } : { status: 'none' }))
       .catch((e: Error) => {
         if (!ctrl.signal.aborted && e.name !== 'AbortError') setState({ status: 'error' });
@@ -57,7 +60,7 @@ export function useArticle(ref: ArticleRef | null, lang: string): ArticleState &
     return () => ctrl.abort();
     // `key` stands for `ref`, whose identity changes on every render
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [key, lang, attempt]);
+  }, [key, lang, region, attempt]);
 
   const retry = useCallback(() => setAttempt((n) => n + 1), []);
   return { ...state, retry };

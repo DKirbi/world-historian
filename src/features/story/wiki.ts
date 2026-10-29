@@ -39,6 +39,10 @@ export interface WikiArticle {
   image?: WikiImage;
   /** True when the reader's language had no article and this is the English one. */
   fallback: boolean;
+  /** True when the fallback is because the reader's Wikipedia could not be reached, not because it lacks the article. */
+  unreachable?: boolean;
+  /** Day the text was read, when it comes from the stored snapshot rather than a live request. */
+  retrieved?: string;
   /** The section read, when not the intro. */
   section?: string;
 }
@@ -49,6 +53,9 @@ export interface ImageCredit {
   licenceUrl?: string;
   page: string;
 }
+
+import { loadStoredPack, storedArticle, storyKey } from './stored';
+import { hasTranslations, loadTranslations } from './translations';
 
 export const API_USER_AGENT = 'WorldHistoryTimeline/0.2 (https://github.com/DKirbi/world-historian)';
 
@@ -226,17 +233,50 @@ export async function fetchSection(
 /**
  * The story's article in the reader's language, or the English one when that language has none.
  * Resolves null when no article is linked or none can be found.
+ *
+ * The stored packs come first (stored.ts): with `region`, the reader's-language summary when that language
+ * is snapshotted, else the English one, which also stands under a stored translation. Wikipedia is asked only
+ * for what is not stored: an article in the reader's language when that language has no pack yet and the
+ * story has no translation (so it may have an article of its own), or a record missing from the packs.
  */
-export async function loadArticle(ref: ArticleRef, lang: string, signal?: AbortSignal): Promise<WikiArticle | null> {
+export async function loadArticle(
+  ref: ArticleRef,
+  lang: string,
+  signal?: AbortSignal,
+  region?: string,
+): Promise<WikiArticle | null> {
   if (!ref.enTitle && !ref.qid) return null;
+  const key = storyKey(ref);
+  let storedEn: WikiArticle | null = null;
+  if (region && key) {
+    const [ownPack, enPack] = await Promise.all([lang === 'en' ? null : loadStoredPack(lang, region), loadStoredPack('en', region)]);
+    const own = ownPack?.get(key);
+    if (own) return storedArticle(own, lang, false);
+    const en = enPack?.get(key);
+    if (en) {
+      storedEn = storedArticle(en, 'en', lang !== 'en');
+      // English readers, readers of a snapshotted language without an article here, and stories with a
+      // stored translation (made because the language had no article) need nothing live
+      if (lang === 'en' || ownPack || (hasTranslations(lang) && (await loadTranslations(lang, region)).has(key))) return storedEn;
+    }
+  }
+  try {
+    return await loadLive(ref, lang, signal);
+  } catch (e) {
+    if (storedEn && (e as Error).name !== 'AbortError') return { ...storedEn, unreachable: lang !== 'en' };
+    throw e;
+  }
+}
+
+async function loadLive(ref: ArticleRef, lang: string, signal?: AbortSignal): Promise<WikiArticle | null> {
   const read = async (l: string, title: string) => {
     if (ref.section) return fetchSection(l, title, ref.section, signal);
     if (ref.sectionLike) return fetchSection(l, title, ref.sectionLike, signal, true);
     return fetchIntro(l, title, signal);
   };
   if (lang !== 'en') {
-    // L10N-LATER: an article in the reader's language is still read live; the stored-stories track stores
-    // it ("own-article" in data/translations/<lang>/_later.json, docs/patterns/story-drawer.md).
+    // L10N-LATER: an article in the reader's language is read live until that language is snapshotted
+    // (data/tools/fetch_stories.py <lang>; "own-article" in data/translations/<lang>/_later.json).
     const title = await resolveTitle(ref, lang, signal);
     // a section heading only exists in the English article; another language's intro would be about the whole page
     if (title && !ref.section && !ref.sectionLike) {

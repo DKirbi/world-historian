@@ -4,6 +4,7 @@ import { useTimeline } from '@/state/store';
 import { useI18n } from '@/i18n/useI18n';
 import { regionText } from '@/i18n/regionText';
 import { Icon } from '@/components/ui/Icon';
+import { dataVersion } from 'virtual:story-packs';
 import s from './details.module.scss';
 
 /** Name a missing column; list its Natural Earth units only when it would have combined several. */
@@ -15,7 +16,7 @@ const laneName = (l: OmittedLane) => (l.naturalEarth.length > 1 ? `${l.label} ($
  */
 export function SourcesPanel({ region }: { region: RegionData }) {
   const i18n = useI18n();
-  const { t, fmt } = i18n;
+  const { t, fmt, meta } = i18n;
   const en = i18n.locale === 'en' ? undefined : 'en';
   const text = regionText(i18n, region.id);
   const openStory = useTimeline((st) => st.openStory);
@@ -194,7 +195,12 @@ export function SourcesPanel({ region }: { region: RegionData }) {
       )}
       <section className={s.section}>
         <h3 className={s.h3}>{t('sources.stories')}</h3>
-        <p className={s.note}>{t('sources.storiesNote')}</p>
+        <p className={s.note}>
+          {t('sources.storiesNote', {
+            version: dataVersion.version,
+            date: new Date(dataVersion.date).toLocaleDateString(meta.tag, { day: 'numeric', month: 'long', year: 'numeric' }),
+          })}
+        </p>
       </section>
       <section className={s.section}>
         <h3 className={s.h3}>{t('sources.data')}</h3>

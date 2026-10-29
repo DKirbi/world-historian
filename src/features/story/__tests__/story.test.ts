@@ -1,4 +1,4 @@
-import { describe, expect, it } from 'vitest';
+import { afterEach, describe, expect, it } from 'vitest';
 import { assembleRegion } from '@/data/source';
 import { files } from '@/data/bundles/europe';
 import { createI18n } from '@/i18n/i18n';
@@ -6,7 +6,8 @@ import { capColumns, maxColumns, packLane } from '@/lib/pack';
 import type { Span } from '@/data/types';
 import { decodeHash, encodeHash, sameStory, type StoryRef } from '@/state/url';
 import { buildStory } from '../templates';
-import { headlineFromTitle, paragraphs, resolveTitle, setWikiFetch } from '../wiki';
+import { headlineFromTitle, loadArticle, paragraphs, resolveTitle, setWikiFetch } from '../wiki';
+import { setStoredFetch, storyKey } from '../stored';
 
 const europe = assembleRegion('europe', (p) => files[`/data/${p}`]);
 const en = { region: europe, i18n: createI18n('en') };
@@ -172,5 +173,79 @@ describe('Wikipedia requests', () => {
     const b = resolveTitle({ enTitle: 'Woodland period' }, 'sl', new AbortController().signal);
     await expect(a).rejects.toThrow();
     await expect(b).resolves.toBe('Gozdno obdobje');
+  });
+});
+
+describe('stored summaries', () => {
+  const pack = (units: Record<string, unknown>) => new Response(JSON.stringify({ units }));
+  const ueno = { title: 'Battle of Ueno', url: 'https://en.wikipedia.org/wiki/Battle_of_Ueno', rev: 1, paragraphs: ['Stored text.'] };
+  const notStored = { title: 'Nowhere', url: 'https://en.wikipedia.org/wiki/Nowhere', rev: 1, paragraphs: ['Elsewhere.'] };
+  const live = () => {
+    const calls: string[] = [];
+    setWikiFetch(async (url) => {
+      calls.push(String(url));
+      const body = { query: { pages: [{ title: 'Battle of Ueno', extract: 'Live text.', fullurl: 'https://en.wikipedia.org/wiki/Battle_of_Ueno' }] } };
+      return new Response(JSON.stringify(body));
+    });
+    return calls;
+  };
+  afterEach(() => setStoredFetch(null));
+
+  it('give English readers the stored text, with no request to Wikipedia', async () => {
+    const calls = live();
+    setStoredFetch(async (url) => (String(url).includes('/en/') ? pack({ 'Battle of Ueno': ueno }) : new Response('', { status: 404 })));
+    const a = await loadArticle({ enTitle: 'Battle of Ueno' }, 'en', undefined, 'asia');
+    expect(a?.paragraphs).toEqual(['Stored text.']);
+    expect(a?.fallback).toBe(false);
+    expect(calls).toEqual([]);
+  });
+
+  it('stand the stored English under a stored translation, with no request to Wikipedia', async () => {
+    const calls = live();
+    const translated = { paragraphs: ['Prevod.'], source: { wiki: 'en', title: 'Battle of Ueno', rev: 1, retrieved: '2026-10-01', paragraphs: [] } };
+    setStoredFetch(async (url) => {
+      const u = String(url);
+      if (u.includes('/stories/en/')) return pack({ 'Battle of Ueno': ueno });
+      if (u.endsWith('/translations/sl/asia.json')) return pack({ 'Battle of Ueno': translated });
+      return new Response('', { status: 404 });
+    });
+    const a = await loadArticle({ enTitle: 'Battle of Ueno' }, 'sl', undefined, 'asia');
+    expect(a?.paragraphs).toEqual(['Stored text.']);
+    expect(a?.fallback).toBe(true);
+    expect(calls).toEqual([]);
+  });
+
+  it('ask Wikipedia for an article the packs do not hold', async () => {
+    const calls = live();
+    setStoredFetch(async (url) => (String(url).includes('/en/') ? pack({ Nowhere: notStored }) : new Response('', { status: 404 })));
+    const a = await loadArticle({ enTitle: 'Battle of Ueno' }, 'en', undefined, 'asia');
+    expect(a?.paragraphs).toEqual(['Live text.']);
+    expect(calls.length).toBe(1);
+  });
+
+  it('fall back to the stored English, marked unreachable, when the reader\'s Wikipedia cannot be reached', async () => {
+    setWikiFetch(async () => {
+      throw new TypeError('Failed to fetch');
+    });
+    setStoredFetch(async (url) => (String(url).includes('/stories/en/') ? pack({ 'Battle of Ueno': ueno }) : new Response('', { status: 404 })));
+    const a = await loadArticle({ enTitle: 'Battle of Ueno' }, 'sl', undefined, 'asia');
+    expect(a?.paragraphs).toEqual(['Stored text.']);
+    expect(a?.fallback).toBe(true);
+    expect(a?.unreachable).toBe(true);
+  });
+
+  it('prefer the reader-language pack once that language is snapshotted', async () => {
+    live();
+    const own = { ...ueno, title: 'Bitka pri Uenu', paragraphs: ['Shranjeno besedilo.'] };
+    setStoredFetch(async (url) => pack(String(url).includes('/sl/') ? { 'Battle of Ueno': own } : { 'Battle of Ueno': ueno }));
+    const a = await loadArticle({ enTitle: 'Battle of Ueno' }, 'sl', undefined, 'asia');
+    expect(a?.paragraphs).toEqual(['Shranjeno besedilo.']);
+    expect(a?.fallback).toBe(false);
+  });
+
+  it('key sections by title and heading, or by the cited row', () => {
+    expect(storyKey({ enTitle: 'Terra Mariana', section: 'Livonian Confederation' })).toBe('Terra Mariana#Livonian Confederation');
+    expect(storyKey({ enTitle: 'History of Japan', sectionLike: 'Edo period (1600–1868)' })).toBe('History of Japan#Edo period (1600–1868)');
+    expect(storyKey({ qid: 'Q1' })).toBeUndefined();
   });
 });

@@ -1,9 +1,10 @@
 /**
  * Stored translations of Wikipedia summaries, for stories whose article has no version in the reader's
- * language. Each batch is data/translations/<lang>/<region>.json, written by scripts/merge-translations.mjs
- * and loaded on demand (one chunk per batch); a unit is found by the English article's title, so one
- * translation serves every region the article appears in.
+ * language. The batches are data/translations/<lang>/<region>.json, written by scripts/merge-translations.mjs;
+ * the app reads them as one pack per region of the stories it opens, served next to the page.
  */
+import { translationLangs } from 'virtual:story-packs';
+import { loadPackFile, onStoredReset } from './stored';
 
 export interface StoredTranslation {
   /** English title, the lookup key. */
@@ -22,53 +23,26 @@ export interface StoredTranslation {
   reviewed: false | { by: string; date: string };
 }
 
-interface Batch {
-  lang: string;
-  region: string;
-  method: StoredTranslation['method'];
-  translator: string;
-  translated: string;
-  reviewed: StoredTranslation['reviewed'];
-  units: Record<
-    string,
-    Omit<StoredTranslation, 'title' | 'lang' | 'method' | 'translator' | 'translated' | 'reviewed'> & {
-      reviewed?: StoredTranslation['reviewed'];
-      translated?: string;
-    }
-  >;
-}
+const packs = new Map<string, Promise<Map<string, StoredTranslation>>>();
+onStoredReset(() => packs.clear());
 
-const BATCHES = import.meta.glob<Batch>(['/data/translations/*/*.json', '!/data/translations/*/_*.json'], {
-  import: 'default',
-});
-
-const byLang = new Map<string, Promise<Map<string, StoredTranslation>>>();
-
-/** Every stored translation in `lang`, by English title. Loaded once per language. */
-export function loadTranslations(lang: string): Promise<Map<string, StoredTranslation>> {
-  let p = byLang.get(lang);
+/**
+ * The stored translations in `lang` that the stories of `region` can show, by story key: the region's pack
+ * (translations/<lang>/<region>.json, cut by vite.config.ts from data/translations/<lang>/*.json), loaded
+ * once per region. Empty when the pack cannot be read; that is tried again next time.
+ */
+export function loadTranslations(lang: string, region: string): Promise<Map<string, StoredTranslation>> {
+  const id = `${lang}/${region}`;
+  let p = packs.get(id);
   if (!p) {
-    const paths = Object.keys(BATCHES).filter((k) => k.startsWith(`/data/translations/${lang}/`));
-    p = Promise.all(paths.map((k) => BATCHES[k]())).then((batches) => {
-      const out = new Map<string, StoredTranslation>();
-      for (const b of batches)
-        for (const [title, u] of Object.entries(b.units))
-          out.set(title, {
-            ...u,
-            title,
-            lang: b.lang,
-            method: b.method,
-            translator: b.translator,
-            translated: u.translated ?? b.translated,
-            reviewed: u.reviewed ?? b.reviewed,
-          });
-      return out;
+    p = loadPackFile<{ units: Record<string, Omit<StoredTranslation, 'title'>> }>(`translations/${id}.json`).then((b) => {
+      if (!b) packs.delete(id);
+      return new Map(Object.entries(b?.units ?? {}).map(([title, u]) => [title, { ...u, title }]));
     });
-    p.catch(() => byLang.delete(lang)); // a failed load is tried again next time
-    byLang.set(lang, p);
+    packs.set(id, p);
   }
   return p;
 }
 
-/** Languages with at least one stored batch, so English readers never load anything. */
-export const hasTranslations = (lang: string) => Object.keys(BATCHES).some((k) => k.startsWith(`/data/translations/${lang}/`));
+/** Languages with stored translations, so English readers never load anything. */
+export const hasTranslations = (lang: string) => translationLangs.includes(lang);

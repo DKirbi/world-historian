@@ -6,6 +6,7 @@ import { Icon } from '@/components/ui/Icon';
 import type { StoryModel } from './templates';
 import { useArticle, useImageCredit, useStoredTranslation } from './useArticle';
 import { articleUrl, headlineFromTitle, type WikiArticle } from './wiki';
+import { storyKey } from './stored';
 import type { StoredTranslation } from './translations';
 import { EraRecord, EventRecord, PolityRecord } from './Records';
 import s from './story.module.scss';
@@ -43,7 +44,7 @@ export function Story({ model, region, full }: Props) {
   const i18n = useI18n();
   const { t } = i18n;
   const openStory = useTimeline((st) => st.openStory);
-  const article = useArticle(model.article, i18n.meta.wiki);
+  const article = useArticle(model.article, i18n.meta.wiki, region.id);
   const ready = article.status === 'ready' ? article.article : null;
   const headingRef = useRef<HTMLHeadingElement>(null);
 
@@ -51,14 +52,8 @@ export function Story({ model, region, full }: Props) {
   // It is keyed by the English title, or "<title>#<heading>" for an era that is a section of an article,
   // whether by its exact heading (section) or by a heading that resembles its name (sectionLike: the
   // cited row, as data/tools/fetch_translation_sources.py matched it).
-  const sectionKey = model.article?.section ?? model.article?.sectionLike;
-  const translationKey =
-    model.kind === 'stack' || !model.article?.enTitle
-      ? undefined
-      : sectionKey
-        ? `${model.article.enTitle}#${sectionKey}`
-        : model.article.enTitle;
-  const stored = useStoredTranslation(i18n.meta.id, translationKey);
+  const translationKey = model.kind === 'stack' ? undefined : storyKey(model.article);
+  const stored = useStoredTranslation(i18n.meta.id, translationKey, region.id);
   const noOwnArticle = ready?.fallback || article.status === 'error' || article.status === 'none';
   const translation = stored.status === 'ready' && noOwnArticle ? stored.translation : null;
   const waiting = stored.status === 'loading' && !!ready?.fallback; // no flash of English before the translation
@@ -307,7 +302,7 @@ function Summary({
   const a = state.article;
   return (
     <>
-      {a.fallback && <p className={s.note}>{t(a.section ? 'story.sectionFallback' : 'story.fallback')}</p>}
+      {a.fallback && <p className={s.note}>{t(a.unreachable ? 'story.fallbackUnreachable' : a.section ? 'story.sectionFallback' : 'story.fallback')}</p>}
       {paras(a.lang)}
     </>
   );
@@ -343,9 +338,10 @@ function WikiSource({
     const permalink = a.revision ? `https://${a.lang}.wikipedia.org/w/index.php?oldid=${a.revision}` : a.url;
     return (
       <a href={permalink} target="_blank" rel="noreferrer">
-        {t('story.cite.wikipedia', {
+        {t(a.retrieved ? 'story.cite.wikipediaStored' : 'story.cite.wikipedia', {
           title,
           edition: t(a.lang === 'sl' ? 'wiki.edition.sl' : 'wiki.edition.en'),
+          date: a.retrieved ? new Date(a.retrieved).toLocaleDateString(meta.tag, { day: 'numeric', month: 'numeric', year: 'numeric' }) : '',
           rev: a.revision ? fmt.number(a.revision).replace(/[\s., ]/g, '') : '–',
         })}
       </a>
@@ -359,10 +355,21 @@ function Figure({ article }: { article: WikiArticle }): ReactNode {
   const img = article.image!;
   const credit = useImageCredit(article.lang, img.file);
   const ratio = img.width && img.height ? img.width / img.height : 1.5;
+  // an image that cannot be loaded (offline, or a file since removed) leaves no empty plate behind
+  const [broken, setBroken] = useState<string | null>(null);
+  if (broken === img.src) return null;
   return (
     <figure className={s.figure} data-tall={ratio < 0.9 || undefined}>
       <div className={s.plate}>
-        <img src={img.src} width={img.width} height={img.height} alt="" loading="lazy" decoding="async" />
+        <img
+          src={img.src}
+          width={img.width}
+          height={img.height}
+          alt=""
+          loading="lazy"
+          decoding="async"
+          onError={() => setBroken(img.src)}
+        />
       </div>
       <figcaption className={s.caption}>
         {credit ? (
