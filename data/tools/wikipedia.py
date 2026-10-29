@@ -11,13 +11,20 @@ import json, os, time, hashlib, urllib.parse, urllib.request, urllib.error
 UA = "WorldHistoryTimeline/0.1 (non-commercial educational timeline; data snapshot build) python-urllib"
 CACHE = os.environ.get("WP_CACHE", os.path.join(os.getcwd(), ".wp_cache"))
 API = "https://en.wikipedia.org/w/api.php"
+_fresh_since = 0.0
 
 
-def _get(params, tries=8):
+def fresh_since(epoch):
+    """Ignore cached responses older than `epoch` (seconds), so a revision check sees today's Wikipedia."""
+    global _fresh_since
+    _fresh_since = epoch
+
+
+def _get(params, tries=8, api=API):
     os.makedirs(CACHE, exist_ok=True)
-    url = API + "?" + urllib.parse.urlencode({**params, "format": "json", "formatversion": 2, "maxlag": 5})
+    url = api + "?" + urllib.parse.urlencode({**params, "format": "json", "formatversion": 2, "maxlag": 5})
     path = os.path.join(CACHE, hashlib.sha1(url.encode()).hexdigest() + ".json")
-    if os.path.exists(path):
+    if os.path.exists(path) and os.path.getmtime(path) >= _fresh_since:
         return json.load(open(path))
     delay = 2.0
     for attempt in range(tries):
@@ -43,6 +50,12 @@ def _get(params, tries=8):
             if attempt < tries - 1:
                 time.sleep(delay); delay = min(delay * 2, 60); continue
             raise
+
+
+def getter(lang):
+    """_get for another language edition of Wikipedia."""
+    api = API if lang == "en" else f"https://{lang}.wikipedia.org/w/api.php"
+    return lambda params, tries=8: _get(params, tries, api)
 
 
 def page(title, revid=None):

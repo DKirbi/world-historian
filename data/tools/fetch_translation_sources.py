@@ -19,10 +19,10 @@ region can be translated part by part: a unit shared by two parts goes with the 
 Adds to <data_dir>/translations/<lang>/_sources/<region>.json (units already there are kept). A section unit
 is keyed "<title>#<section>". The text is CC BY-SA 4.0 (Wikipedia).
 """
-import sys, os, re, json, glob, datetime, unicodedata
-from html.parser import HTMLParser
+import sys, os, json, glob, datetime
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import wikipedia as wp  # noqa: E402
+import wptext as wpt  # noqa: E402
 
 data, lang, region = sys.argv[1], sys.argv[2], sys.argv[3]
 priorities = None
@@ -100,75 +100,11 @@ for chunk in chunks(sorted({u["title"] for u in units if not u.get("section")}),
 
 
 def clean(extract):
-    out = []
-    for p in re.split(r"\n+", extract or ""):
-        p = re.sub(r"\(\s*listen\s*\)", "", p, flags=re.I)
-        p = re.sub(r"\(\s*[;,]\s*", "(", p)
-        p = re.sub(r"\s*[;,]\s*\)", ")", p)
-        p = re.sub(r"\(\s*\)", "", p)
-        p = re.sub(r"\s+([,.;:])", r"\1", p)
-        p = re.sub(r"\s{2,}", " ", p).strip()
-        # template residue left in the extract, such as "|campaignbox = campaignbox =" (Battle of Clavijo)
-        if len(p) > 1 and not p.startswith("|"):
-            out.append(p)
-    return out
+    return wpt.clean(extract)
 
 
 def excerpt(paragraphs):
-    shown, chars = [], 0
-    for p in paragraphs:
-        if len(shown) >= MAX_PARAGRAPHS or (shown and chars + len(p) > MAX_CHARS):
-            break
-        shown.append(p)
-        chars += len(p)
-    return shown
-
-
-class Paragraphs(HTMLParser):
-    """Text of each <p>, without reference marks, tables and figures (as htmlParagraphs in wiki.ts)."""
-    SKIP = {"sup", "style", "table", "figure"}
-    SKIP_CLASSES = {"mw-ref", "reference", "thumb", "hatnote", "navbox", "mw-empty-elt"}
-    VOID = {"br", "img", "wbr", "hr", "input", "meta", "link"}
-
-    def __init__(self):
-        super().__init__()
-        self.out, self.buf, self.in_p, self.skip = [], [], 0, []
-
-    def handle_starttag(self, tag, attrs):
-        if tag in self.VOID:
-            return
-        classes = set((dict(attrs).get("class") or "").split())
-        if self.skip or tag in self.SKIP or classes & self.SKIP_CLASSES:
-            self.skip.append(tag)
-            return
-        if tag == "p":
-            self.in_p += 1
-
-    def handle_endtag(self, tag):
-        if self.skip:
-            if self.skip[-1] == tag:
-                self.skip.pop()
-            return
-        if tag == "p" and self.in_p:
-            self.in_p -= 1
-            text = re.sub(r"\[\d+\]", "", re.sub(r"\s+", " ", "".join(self.buf))).strip()
-            if len(text) > 1:
-                self.out.append(text)
-            self.buf = []
-
-    def handle_data(self, d):
-        if self.in_p and not self.skip:
-            self.buf.append(d)
-
-
-def norm(s):
-    s = unicodedata.normalize("NFKC", s)
-    s = re.sub(r"[‐-―]", "-", s)
-    return re.sub(r"\s+", " ", s).strip().lower()
-
-
-def strip_tags(html):
-    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", html)).strip()
+    return wpt.excerpt(paragraphs, MAX_PARAGRAPHS, MAX_CHARS)
 
 
 sources = {}
@@ -198,28 +134,8 @@ for chunk in chunks([u["title"] for u in intros], 20):
 
 # 2b. sections: an era that is a section of a longer article, and a title that redirects to a section
 def fetch_section(title, section, loose=False):
-    s = wp._get({"action": "parse", "page": title, "prop": "sections", "redirects": 1}).get("parse", {})
-    want = norm(section)
-    # the exact heading, else the same period whose dates in brackets were edited since the data was built
-    # ("Early Woodland period (1000–1 BCE)" → "Early Woodland period (1000–200 BCE)"), else, for an era read
-    # by a heading that resembles its row (loose, sectionLike in the app), a heading that starts with the
-    # name; as fetchSection does
-    stem = re.sub(r"\s*\(.*$", "", want)
-    found = next((x for x in s.get("sections", [])
-                  if norm(x["anchor"].replace("_", " ")) == want or norm(strip_tags(x["line"])) == want), None) or \
-        next((x for x in s.get("sections", []) if re.sub(r"\s*\(.*$", "", norm(strip_tags(x["line"]))) == stem), None) or \
-        (next((x for x in s.get("sections", []) if norm(strip_tags(x["line"])).startswith(stem)), None) if loose else None)
-    if not found:
-        return None
-    p = wp._get({"action": "parse", "page": s["title"], "section": found["index"], "prop": "text|revid",
-                 "disableeditsection": 1, "disabletoc": 1}).get("parse", {})
-    html = p.get("text", "")
-    html = html.get("*", "") if isinstance(html, dict) else html
-    parser = Paragraphs()
-    parser.feed(html)
-    return {"article": s["title"], "section": strip_tags(found["line"]), "rev": p.get("revid") or s.get("revid"),
-            "url": "https://en.wikipedia.org/wiki/" + s["title"].replace(" ", "_") + "#" + found["anchor"],
-            "paragraphs": excerpt(parser.out)}
+    got = wpt.section(wp._get, "en", title, section, loose)
+    return got and {**got, "paragraphs": excerpt(got["paragraphs"])}
 
 
 for u in [u for u in units if u.get("section")]:
