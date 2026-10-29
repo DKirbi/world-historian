@@ -78,12 +78,14 @@ At full width the article becomes a page: the summary sets in two newspaper colu
 
 | State | Shown |
 |---|---|
-| Loading | "Fetching the article from Wikipedia…" over three grey type lines |
+| Loading | "Fetching the article from Wikipedia…" over three grey type lines (a stored story shows almost at once: one pack per region) |
 | Ready | Summary paragraphs, drop cap, [1] at the end |
 | Reader's language has no article, a stored translation exists | The translation, under a **PREVOD UI / AI translation** tag (sparkle icon + text) and a note that it was translated by AI and not yet reviewed; **Show the English original** swaps in the English text it was made from. Source [1] cites the translated revision and the date |
 | Reader's language has no article | English summary with `lang="en"` and a note saying so |
+| Reader's Wikipedia cannot be reached, the English text is stored | The stored English summary with a note that the reader's Wikipedia could not be reached (not that it has no article) |
 | No article linked (or a list of "+N") | A note that the story is told from the data (none for "+N") |
-| Offline / error | "Wikipedia could not be reached…" with **Try again**; the data story stays |
+| Offline / error, nothing stored | "Wikipedia could not be reached…" with **Try again**; the data story stays |
+| Lead image cannot be loaded | No figure at all: no empty plate, no caption |
 
 ### AI translations
 
@@ -118,7 +120,25 @@ The drawer is moving off live requests. Wikipedia articles change slowly, so ask
 - **Every drawer keeps the Wikipedia link and the numbered sources**, citing the revision the text came from.
 - **A monthly revision check** compares the stored revisions with Wikipedia in batches and re-fetches only what changed. Changes ship as a versioned data update; changed translations are re-translated and marked unreviewed.
 
-Until the stored data covers every story, the client below remains the fallback. The plan and its tasks are in the translation to-do (project doc `translation-todo.md`).
+### What is stored now (29 October 2026)
+
+- **English text, every story.** `data/stories/en/<region>.json` (`data/tools/fetch_stories.py data en`) holds what the drawer shows for each story key: the intro as plain text, or the section's paragraphs, up to 5 paragraphs and 2,200 characters, with title, URL, revision, short description, lead image (file, thumbnail URL, author, licence, file page) and the day it was read. 5,710 keys, read on 29 October 2026; 36 have no text and tell their story from the data.
+- **Citation.** A stored story's source [1] says the day the text was read: *Wikipedia, “Republic of Venice” (English edition), revision 1381773460, read on 10/29/2026.* A stored image credit needs no request to Commons.
+- **Pack size.** Europe's English pack is the largest, 5.5 MB (1.6 MB compressed), loaded with the first European story; split it by column group if that first open feels slow.
+- **Packs per region, next to the page.** The build (`vite.config.ts`, `storyPacks`) writes `stories/<lang>/<region>.json` and `translations/<lang>/<region>.json` beside `index.html`; the dev server serves the same paths. A story loads its region's packs once (`stored.ts`, `translations.ts`), so the page carries no Wikipedia text: the single-file artifact went from 9 MB to 2.7 MB.
+- **Story key.** The English title, or `<title>#<section>` for a section (exact heading, or the cited row of an era read by a resembling heading); the same key finds the stored text and the stored translation (`storyKey`).
+
+**Which text a story shows**
+
+1. The reader's-language pack, when that language is snapshotted and has the key.
+2. Else the stored English text, when the reader is English, the language is snapshotted (so no article exists), or a stored translation exists (made because the language had no article). The translation is laid over it as before.
+3. Else the live client below, as today; if it fails and English is stored, the stored English with the "could not be reached" note.
+
+**Still live** (tagged `L10N-LATER` in `wiki.ts`): Slovenian articles until `fetch_stories.py data sl` runs on a host that can reach sl.wikipedia.org; the lead image pixels (from upload.wikimedia.org) until the image packs exist; a story whose key is not in the packs.
+
+**Monthly revision check.** `fetch_stories.py data en --check` asks for the current revision of every stored article, re-reads only the newer ones and writes `data/stories/en/_changes.json` (texts that changed, translations to redo). A release then gets the next version in `data/version.json`.
+
+**Images: the artifact limits decide the format.** An artifact version holds at most 511 files and 16 MB per text file (15 MB per binary file), so one file per image (about 5,700) does not fit and a region's images base64-encoded in JSON would pass 16 MB for Europe. The format is decided when the image tool is written; the candidates are small binary packs per group of lanes (480 px grayscale WebP concatenated, with an index of offsets) or the artifact's asset store.
 
 ## Wikipedia client
 

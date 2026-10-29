@@ -61,6 +61,14 @@ translations/<lang>/
   <region>.json            the translations the drawer shows, each with its English source (CC BY-SA 4.0)
   _later.json              what <lang> still shows in English, tagged L10N-LATER (scripts/l10n-later.py)
 tools/fetch_translation_sources.py   python3 fetch_translation_sources.py <data_dir> <lang> <region>
+version.json       the data release: version, date and release notes, newest first
+stories/<lang>/
+  <region>.json            the Wikipedia text each story of the region shows, by story key: intro or section paragraphs,
+                           title, URL, revision, description, lead image, day read (CC BY-SA 4.0)
+tools/fetch_stories.py   python3 fetch_stories.py <data_dir> <lang> [--regions r1,r2] [--refresh | --check]: the stories
+                         snapshot; --check, the monthly revision check, also writes stories/<lang>/_changes.json
+tools/wptext.py          Wikipedia text as the app reads it (plain intro, a section's paragraphs, the excerpt);
+                         shared by fetch_stories.py and fetch_translation_sources.py
 ```
 
 Regions: `europe`, `americas`, `oceania`, `africa-middle-east`, `asia`.
@@ -296,6 +304,11 @@ They read the snapshots in `sources/` (retrieved 2026-10-17: Wikidata and Period
 
 ## Changes
 
+- **2026-10-29, stored stories (data release 2026.10).**
+  - `stories/en/<region>.json`, new: the English Wikipedia text every story shows, read on 29 October 2026 by `tools/fetch_stories.py`: 5,710 story keys (a key shared by regions is in each region's file, 6,250 entries), 1,103,570 words, each with title, URL, revision, short description and the day it was read; 113 are sections. 5,541 lead images with their author, licence and file page (4,722 files, all freely licensed: the page-image API offers free files only). 36 keys have no text: 28 eras citing a table row with no heading, 5 records with no English article, and 3 titles that now redirect to a section without paragraphs (*Han (state)*, *Middle Archaic*, *Minaeans*); their drawers tell the story from the data.
+  - `tools/fetch_stories.py`, new: 20 introductions to a request, sections as the app reads them (`tools/wptext.py`, now shared with `fetch_translation_sources.py`), credits 50 files to a request; another language stores its own articles (`fetch_stories.py data sl`, on a host that can reach that Wikipedia). `--check` is the monthly revision check: current revisions 50 titles to a request, only newer ones re-read, and `stories/<lang>/_changes.json` lists the texts that changed and the translations whose English text is no longer the stored one (on 29 October: 1, *Kingdom of Samoa*).
+  - `version.json`, new: the data release (`2026.10`), named in the app's Sources panel; each release adds an entry at its top.
+  - The app reads these files instead of Wikipedia, one pack per region served next to the page (`stories/…`, `translations/…`); the single-file page went from 9 MB to 2.7 MB.
 - **2026-10-26, section eras translated; every chart label in Slovenian.**
   - An era read by a heading that only resembles its cited row (`sectionLike`) now has a stored key, `<page>#<row>`: `scripts/translation-worklist.mjs` lists it (`loose: true`), `tools/fetch_translation_sources.py` matches the heading as the app does (exact, then without the bracketed dates, then a heading that starts with the name), and `Story.tsx` looks the translation up by that key. 120 new units: 92 fetched (11,650 English words, revisions of 26 October 2026) and translated (72 Europe, 13 Asia, 4 Africa & Middle East, 3 Oceania; 10,200 Slovenian words); 28 cite table rows with no matching heading and keep their data story. Totals: Europe 2,000 units, Asia 879, Africa & Middle East 921, Oceania 66.
   - `src/i18n/names/sl.json`: overrides for the last 143 states and 44 events without a Slovenian name; the era headlines name 97 eras on the chart (`gen-names.mjs` now keeps the no-shared-name rule within a group, so an era may share a name with a state). `Old Kingdom of Norway` is *Kraljestvo Norveška*, the modern kingdom *Kraljevina Norveška*. `translations/sl/_later.json`: 0 chart labels, 28 section eras, and the own-article and missing lists read from the `_sources` files instead of being kept by hand.
