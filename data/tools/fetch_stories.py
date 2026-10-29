@@ -29,6 +29,7 @@ import html
 import json
 import os
 import sys
+import urllib.parse
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import wikipedia as wp  # noqa: E402
@@ -146,16 +147,16 @@ print(f"{len(wanted)} units in {', '.join(regions)}; {len(todo)} to read", flush
 
 
 def resolve(q, chunk):
-    """{page title as returned: title as asked} through normalisation and redirects."""
-    back = {}
-    for n in q.get("normalized", []) + q.get("redirects", []):
-        back[n["to"]] = back.get(n["from"], n["from"])
+    """{page title as returned: [titles as asked]} through normalisation and redirects; two asked titles can
+    lead to one page (a title and a redirect to it)."""
+    fwd = {n["from"]: n["to"] for n in q.get("normalized", []) + q.get("redirects", [])}
     found = {}
-    for page in q.get("pages", []):
-        src = page["title"]
-        while src in back and src not in chunk:
-            src = back[src]
-        found[page["title"]] = src
+    for t in chunk:
+        x, seen = t, set()
+        while x in fwd and x not in seen:
+            seen.add(x)
+            x = fwd[x]
+        found.setdefault(x, []).append(t)
     return found
 
 
@@ -175,7 +176,8 @@ else:
             asked = resolve(q, chunk)
             for page in q.get("pages", []):
                 for ll in page.get("langlinks", []):
-                    titles[asked[page["title"]]] = ll["title"]
+                    for t in asked.get(page["title"], []):
+                        titles[t] = ll["title"]
             if "continue" not in body:
                 break
             params = {**params, **body["continue"]}
@@ -206,12 +208,12 @@ for chunk in chunks(sorted(by_lang_title), 20):
             for k, v in page.items():
                 if v not in (None, "", [], {}):
                     cur.setdefault(k, v)
-            cur["_asked"] = asked.get(page["title"], page["title"])
+            cur["_asked"] = asked.get(page["title"], [page["title"]])
         if "continue" not in body:
             break
         params = {**params, **body["continue"]}
     for page in pages.values():
-        if page.get("missing") or page.get("invalid") or page["_asked"] in to_section or "extract" not in page:
+        if page.get("missing") or page.get("invalid") or "extract" not in page:
             continue
         rec = {"title": page["title"], "url": page.get("fullurl"), "rev": page.get("lastrevid"),
                **({"description": page["description"]} if page.get("description") else {}),
@@ -221,8 +223,11 @@ for chunk in chunks(sorted(by_lang_title), 20):
             rec["image"] = {"file": page.get("pageimage"), "src": thumb["source"],
                             "width": thumb["width"], "height": thumb["height"]}
         if rec["paragraphs"]:
-            for en_title in by_lang_title[page["_asked"]]:
-                read[en_title] = rec
+            for asked_title in page["_asked"]:
+                if asked_title in to_section:
+                    continue
+                for en_title in by_lang_title[asked_title]:
+                    read[en_title] = rec
     done += len(chunk)
     if done % 400 < 20:
         print(f"  introductions: {done} of {len(by_lang_title)}", flush=True)
@@ -248,9 +253,18 @@ def strip_tags(markup):
     return " ".join(html.unescape(wpt.strip_tags(markup or "")).split())
 
 
+def short(chunk, limit=6000):
+    """A chunk split in halves until its titles fit a URL (long file names otherwise give 414 URI Too Long)."""
+    if len(chunk) < 2 or len(urllib.parse.quote("|".join(chunk))) <= limit:
+        return [chunk]
+    mid = len(chunk) // 2
+    return short(chunk[:mid], limit) + short(chunk[mid:], limit)
+
+
 def image_credits(files):
     out = {}
-    for chunk in chunks(sorted(files), 50):
+    for chunk in (part for c in chunks(sorted(files), 50) for part in short([f"File:{f}" for f in c])):
+        chunk = [t.removeprefix("File:") for t in chunk]
         body = get({"action": "query", "titles": "|".join(f"File:{f}" for f in chunk), "prop": "imageinfo",
                     "iiprop": "extmetadata|url",
                     "iiextmetadatafilter": "Artist|LicenseShortName|LicenseUrl|AttributionRequired|NonFree"})
@@ -316,7 +330,7 @@ for region in regions:
         f.write("\n")
     words = sum(len(" ".join(r["paragraphs"]).split()) for r in mine.values())
     print(f"{path}: {len(mine)} units, {words} words", flush=True)
-print(f"read {len(read)} of {len(todo)}; missing {len(missing)}: {missing[:30]}")
+print(f"read {len(read)} of {len(todo)}; missing {len(missing)}: {missing}")
 
 if check:
     # what the new revisions changed: the text, and so the translations made from the old English text
