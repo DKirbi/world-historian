@@ -710,7 +710,7 @@
   "kingdom-of-navarre": "Kraljevina Navarra",
   "kingdom-of-neustria": "Nevstrija",
   "kingdom-of-northumbria": "Northumbrija",
-  "kingdom-of-numidia": "Jugurta",
+  "kingdom-of-numidia": "Numidija",
   "kingdom-of-osroene": "Osroena",
   "kingdom-of-pajana": "Kraljestvo Pajana",
   "kingdom-of-pergamon": "Kraljestvo Pergamon",
@@ -6524,7 +6524,8 @@
    "taifa-of-niebla-1236": "Taifa Niebla",
    "taifa-of-silves-1147": "Taifa Silves",
    "taifa-of-valencia-1236": "Taifa Valencia",
-   "napoleonic-batavia-republic": "Batavska republika na Kapu"
+   "napoleonic-batavia-republic": "Batavska republika na Kapu",
+   "kingdom-of-numidia": "Numidija"
   },
   "events": {
    "Q1366688": "Transpacifiško partnerstvo",
