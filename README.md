@@ -26,7 +26,10 @@ npm run dev             # http://localhost:5173
 npm test                # unit tests for scales, packing, ticks, formatting, data assembly
 npm run build           # typecheck + production build in dist/
 npm run build:artifact  # one self-contained page in dist-artifact/ (React & d3 from cdnjs)
+npm run build:replay    # the replay prototype, one self-contained page in dist-replay/
 ```
+
+**Replay (prototype).** `replay.html` plays Rome's wars, 343–30 BCE, as a Civilization-style replay: Cliopatria's borders as hexagons, Wikidata's events at their recorded place and date with the stored Wikipedia text, and the chart, cut down to the countries involved, as the minimap. See [docs/patterns/replay.md](docs/patterns/replay.md).
 
 ## How to use the chart
 
