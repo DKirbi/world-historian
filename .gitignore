@@ -1,6 +1,7 @@
 node_modules/
 dist/
 dist-artifact/
+dist-replay/
 .wp_cache/
 .wd_cache/
 __pycache__/

@@ -97,6 +97,13 @@ function storyPacks(): Plugin {
 
 export default defineConfig(({ mode }) => {
   const artifact = mode === 'artifact';
+  // The replay prototype (replay.html): one self-contained page, everything bundled, data included.
+  if (mode === 'replay')
+    return {
+      plugins: [react(), viteSingleFile()],
+      resolve: { alias: { '@': r('./src') } },
+      build: { outDir: 'dist-replay', rollupOptions: { input: r('./replay.html') } },
+    };
   return {
     plugins: [react(), storyPacks(), ...(artifact ? [viteSingleFile()] : [])],
     resolve: {

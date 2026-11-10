@@ -1,0 +1,698 @@
+/* Replay prototype. Same tokens as the chart (styles/tokens.scss): colour only for the selection (Rome),
+   stone greys for everything else; the event card is printed like the story drawer. */
+
+.rp {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  grid-template-rows: auto minmax(0, 1fr) auto;
+  grid-template-areas:
+    'head head'
+    'stage side'
+    'foot side';
+  height: 100%;
+  background: var(--page);
+}
+
+.rp-header {
+  grid-area: head;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-3);
+  padding: var(--space-2) var(--space-4);
+  border-bottom: 1px solid var(--hairline);
+  background: var(--surface);
+
+  h1 {
+    margin: 0;
+    font-family: var(--font-headline);
+    font-size: var(--fs-lg);
+    font-weight: 700;
+    letter-spacing: -0.01em;
+
+    span {
+      font-family: var(--font-ui);
+      font-size: var(--fs-md);
+      font-weight: 500;
+      color: var(--ink-2);
+      margin-left: var(--space-2);
+    }
+  }
+}
+
+.rp-header__title,
+.rp-header__end {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+}
+
+.rp-tag {
+  font-size: var(--fs-xs);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  border: 1px solid var(--axis);
+  border-radius: 999px;
+  padding: 1px 8px;
+  color: var(--ink-2);
+}
+
+.rp-stage {
+  grid-area: stage;
+  position: relative;
+  min-height: 0;
+  overflow: hidden;
+}
+
+.rp-board {
+  position: absolute;
+  inset: 0;
+}
+
+/* The event on the card, pulsing where it happened. */
+.rp-now {
+  position: absolute;
+  left: 0;
+  top: 0;
+  pointer-events: none;
+
+  &__dot,
+  &__ring {
+    position: absolute;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  &__dot {
+    width: 12px;
+    height: 12px;
+    background: var(--ink);
+    box-shadow: 0 0 0 2px var(--surface);
+  }
+
+  &__ring {
+    width: 12px;
+    height: 12px;
+    border: 2px solid var(--ink);
+    animation: rp-pulse 1.6s ease-out infinite;
+  }
+
+  &__label {
+    position: absolute;
+    left: 12px;
+    top: -9px;
+    white-space: nowrap;
+    font-family: var(--font-headline);
+    font-weight: 600;
+    font-size: var(--fs-md);
+    color: var(--ink);
+    text-shadow:
+      0 0 3px var(--surface),
+      0 0 3px var(--surface),
+      0 0 6px var(--surface);
+  }
+}
+
+@keyframes rp-pulse {
+  from {
+    width: 12px;
+    height: 12px;
+    opacity: 0.9;
+  }
+  to {
+    width: 64px;
+    height: 64px;
+    opacity: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .rp-now__ring {
+    animation: none;
+    width: 26px;
+    height: 26px;
+  }
+}
+
+/* The card: the story drawer's newspaper type, as a notification. */
+.rp-card {
+  position: absolute;
+  top: var(--space-4);
+  left: var(--space-4);
+  width: min(380px, calc(100% - 2 * var(--space-4)));
+  max-height: calc(100% - 2 * var(--space-4) - 48px);
+  overflow: auto;
+  background: var(--surface);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow);
+  padding: var(--space-4) var(--space-4) var(--space-3);
+  font-family: var(--font-story);
+
+  &__progress {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 3px;
+    background: var(--sel);
+    transform-origin: left;
+  }
+
+  &__head {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+
+  &__kicker {
+    margin: 0;
+    font-family: var(--font-ui);
+    font-size: var(--fs-xs);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--ink-2);
+  }
+
+  &__x {
+    border: 0;
+    background: none;
+    font-size: 22px;
+    line-height: 1;
+    cursor: pointer;
+    color: var(--ink-2);
+    padding: 0 2px;
+    margin: -4px -4px 0 0;
+  }
+
+  &__headline {
+    margin: var(--space-1) 0 var(--space-1);
+    font-family: var(--font-headline);
+    font-size: 1.5rem;
+    line-height: 1.15;
+    font-weight: 700;
+  }
+
+  &__dateline {
+    margin: 0 0 var(--space-3);
+    font-family: var(--font-ui);
+    font-size: var(--fs-sm);
+    font-weight: 500;
+    color: var(--ink);
+  }
+
+  &__note {
+    color: var(--muted);
+    font-weight: 400;
+  }
+
+  &__conflict {
+    margin: calc(-1 * var(--space-2)) 0 var(--space-3);
+    font-family: var(--font-ui);
+    font-size: var(--fs-xs);
+    color: var(--ink-2);
+
+    &::before {
+      content: '≠ ';
+      font-weight: 600;
+    }
+  }
+
+  &__body p {
+    margin: 0 0 var(--space-2);
+    font-size: 0.9375rem;
+    line-height: 1.55;
+  }
+
+  &__desc {
+    font-style: italic;
+  }
+
+  &__muted {
+    font-family: var(--font-ui);
+    font-size: var(--fs-xs) !important;
+    color: var(--muted);
+  }
+
+  &__sides {
+    margin: var(--space-2) 0;
+    font-family: var(--font-ui);
+    font-size: var(--fs-xs);
+    color: var(--ink-2);
+
+    span {
+      font-weight: 600;
+    }
+  }
+
+  &__foot {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: var(--space-3);
+    border-top: 1px solid var(--hairline);
+    padding-top: var(--space-2);
+    margin-top: var(--space-2);
+  }
+
+  &__source {
+    margin: 0;
+    font-family: var(--font-ui);
+    font-size: var(--fs-xs);
+    color: var(--muted);
+
+    a {
+      color: var(--ink-2);
+    }
+  }
+
+  &__ai {
+    display: block;
+    color: var(--ink-2);
+    font-weight: 600;
+    margin-bottom: 2px;
+
+    &::before {
+      content: '✦ ';
+    }
+  }
+}
+
+.rp-legend {
+  position: absolute;
+  left: var(--space-4);
+  bottom: var(--space-3);
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-1) var(--space-3);
+  margin: 0;
+  padding: 6px 10px;
+  list-style: none;
+  background: rgba(252, 252, 251, 0.88);
+  border-radius: var(--radius-sm);
+  font-size: var(--fs-xs);
+  color: var(--ink-2);
+
+  li {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+
+  .sw {
+    display: inline-block;
+    width: 14px;
+    height: 10px;
+    border-radius: 2px;
+  }
+
+  .sw--rome {
+    background: var(--sel);
+  }
+
+  .sw--state {
+    background: #b8b3a6;
+    box-shadow: inset 0 0 0 1px #52514e;
+  }
+
+  .sw--none {
+    background: radial-gradient(circle, #a09b8f 1px, #efede7 1.2px) 0 0 / 5px 5px;
+    box-shadow: inset 0 0 0 1px var(--axis);
+  }
+
+  .sw--event {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--ink);
+    box-shadow: 0 0 0 1.5px var(--surface);
+  }
+
+  .sw--now {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    border: 2px solid var(--ink);
+  }
+}
+
+.rp-about {
+  position: absolute;
+  right: var(--space-4);
+  top: var(--space-4);
+  width: min(420px, calc(100% - 2 * var(--space-4)));
+  background: var(--surface);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow);
+  padding: var(--space-3) var(--space-4);
+  font-size: var(--fs-sm);
+
+  ul {
+    padding-left: 18px;
+    margin: var(--space-2) 0;
+  }
+
+  li {
+    margin-bottom: 4px;
+  }
+}
+
+/* The minimap: the chart, cut down. */
+.rp-side {
+  grid-area: side;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  border-left: 1px solid var(--hairline);
+  background: var(--surface);
+  padding: var(--space-2) var(--space-2) 0;
+
+  &__title {
+    margin: 0 0 var(--space-1) 4px;
+    font-size: var(--fs-xs);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+  }
+}
+
+.rp-mini {
+  flex: 1;
+  min-height: 0;
+  overflow: hidden;
+
+  svg {
+    display: block;
+    touch-action: none;
+    cursor: ns-resize;
+  }
+
+  &__head {
+    font-size: 10px;
+    fill: var(--ink-2);
+    font-weight: 500;
+  }
+
+  &__grid {
+    stroke: var(--grid);
+    stroke-width: 1;
+  }
+
+  &__tick {
+    font-size: 10px;
+    fill: var(--muted);
+  }
+
+  &__lane {
+    fill: var(--band);
+  }
+
+  &__span {
+    stroke: var(--surface);
+    stroke-width: 0.5;
+  }
+
+  &__war {
+    fill: var(--era-2);
+    stroke: var(--surface);
+    stroke-width: 0.5;
+    cursor: pointer;
+
+    &.is-on {
+      fill: var(--tier-1);
+    }
+
+    &:hover {
+      fill: var(--tier-2);
+    }
+  }
+
+  &__ev {
+    fill: var(--surface);
+    stroke: var(--ink);
+    stroke-width: 1;
+    cursor: pointer;
+
+    &.is-past {
+      fill: var(--ink);
+    }
+
+    &.is-on {
+      fill: var(--sel);
+      stroke: var(--surface);
+      stroke-width: 1.5;
+    }
+  }
+
+  &__head-line {
+    pointer-events: none;
+
+    line {
+      stroke: var(--cursor);
+      stroke-width: 1.5;
+    }
+
+    rect {
+      fill: var(--cursor);
+    }
+
+    text {
+      fill: var(--cursor-ink);
+      font-size: 10px;
+      font-weight: 600;
+    }
+  }
+}
+
+.rp-foot {
+  grid-area: foot;
+  border-top: 1px solid var(--hairline);
+  background: var(--surface);
+}
+
+.rp-transport {
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+  padding: var(--space-2) var(--space-4);
+  flex-wrap: wrap;
+
+  &__buttons,
+  &__settings {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+  }
+
+  &__settings {
+    margin-left: auto;
+    flex-wrap: wrap;
+  }
+
+  &__year {
+    display: flex;
+    align-items: baseline;
+    gap: var(--space-3);
+    min-width: 0;
+  }
+
+  &__wars {
+    display: flex;
+    gap: var(--space-1);
+    min-width: 0;
+    overflow: hidden;
+  }
+}
+
+.rp-year {
+  font-family: var(--font-headline);
+  font-size: var(--fs-xl);
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  min-width: 7.5ch;
+}
+
+.rp-chip {
+  border: 1px solid var(--axis);
+  background: var(--surface-2);
+  border-radius: 999px;
+  padding: 2px 10px;
+  font-size: var(--fs-sm);
+  white-space: nowrap;
+  cursor: pointer;
+
+  &:hover {
+    border-color: var(--ink-2);
+  }
+}
+
+.rp-play {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  height: 38px;
+  padding: 0 16px 0 12px;
+  border: 0;
+  border-radius: 999px;
+  background: var(--ink);
+  color: var(--surface);
+  font-weight: 600;
+  cursor: pointer;
+  font-size: var(--fs-md);
+}
+
+.rp-icon {
+  width: 34px;
+  height: 34px;
+  border: 1px solid var(--axis);
+  border-radius: 50%;
+  background: var(--surface);
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.rp-btn {
+  white-space: nowrap;
+  height: 30px;
+  padding: 0 12px;
+  border: 1px solid var(--axis);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  cursor: pointer;
+  font-size: var(--fs-sm);
+
+  &.is-on {
+    border-color: var(--ink-2);
+    background: var(--surface-2);
+  }
+
+  &--primary {
+    background: var(--ink);
+    border-color: var(--ink);
+    color: var(--surface);
+  }
+}
+
+.rp-seg {
+  display: inline-flex;
+  border: 1px solid var(--axis);
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+
+  button {
+    border: 0;
+    background: var(--surface);
+    padding: 0 10px;
+    height: 28px;
+    cursor: pointer;
+    font-size: var(--fs-sm);
+
+    & + button {
+      border-left: 1px solid var(--axis);
+    }
+
+    &[aria-pressed='true'] {
+      background: var(--ink);
+      color: var(--surface);
+    }
+  }
+}
+
+.rp-link {
+  border: 0;
+  background: none;
+  padding: 0;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  cursor: pointer;
+  font-family: var(--font-ui);
+  font-size: var(--fs-sm);
+  color: var(--ink-2);
+}
+
+.rp-muted {
+  color: var(--muted);
+  font-size: var(--fs-sm);
+}
+
+/* Phones: the board fills the screen above a compact transport; the chart opens as a sheet from the bottom. */
+.rp-only-phone {
+  display: none;
+}
+
+@media (max-width: 760px) {
+  .rp {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto minmax(0, 1fr) auto;
+    grid-template-areas: 'head' 'stage' 'foot';
+  }
+
+  .rp-header {
+    padding: 6px var(--space-3);
+
+    h1 {
+      font-size: var(--fs-md);
+
+      span {
+        display: none;
+      }
+    }
+  }
+
+  .rp-side {
+    display: none;
+  }
+
+  .rp.show-chart .rp-side {
+    display: flex;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 46vh;
+    z-index: 5;
+    border-left: 0;
+    border-top: 1px solid var(--hairline);
+    box-shadow: var(--shadow);
+    overflow-x: auto;
+  }
+
+  .rp-only-phone {
+    display: inline-block;
+  }
+
+  .rp-hide-phone,
+  .rp-transport__wars,
+  .rp-legend {
+    display: none;
+  }
+
+  .rp-transport {
+    gap: var(--space-2);
+    padding: 6px var(--space-3);
+
+    &__settings {
+      margin-left: 0;
+      width: 100%;
+      gap: 6px;
+    }
+  }
+
+  .rp-year {
+    font-size: var(--fs-lg);
+    min-width: 0;
+  }
+
+  .rp-card {
+    top: auto;
+    bottom: var(--space-2);
+    left: var(--space-2);
+    width: calc(100% - 2 * var(--space-2));
+    max-height: 48%;
+    padding: var(--space-3);
+
+    &__headline {
+      font-size: 1.25rem;
+    }
+  }
+}
