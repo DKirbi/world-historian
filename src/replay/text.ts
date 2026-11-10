@@ -28,7 +28,7 @@ const STRINGS = {
     yearOnly: 'year only',
     monthOnly: 'month only',
     noPlace: 'place not recorded',
-    dateConflict: (d: string) => `Wikidata gives this date; the Wikipedia text below gives ${d}.`,
+    dateConflict: (d: string) => `Wikidata gives this date; the Wikipedia text below gives ${d}${d.endsWith('.') ? '' : '.'}`,
     atSea: 'at sea',
     machine: 'AI translation, not reviewed',
     added: 'Added by the editors',
@@ -59,6 +59,7 @@ const STRINGS = {
       event: 'Event',
     } as Record<string, string>,
     months: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
+    monthsOf: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
   },
   sl: {
     prototype: 'Prototip',
@@ -83,7 +84,7 @@ const STRINGS = {
     yearOnly: 'znano le leto',
     monthOnly: 'znan le mesec',
     noPlace: 'kraj ni zabeležen',
-    dateConflict: (d: string) => `Datum je z Wikipodatkov; besedilo Wikipedije spodaj navaja ${d}.`,
+    dateConflict: (d: string) => `Datum je z Wikipodatkov; besedilo Wikipedije spodaj navaja ${d}${d.endsWith('.') ? '' : '.'}`,
     atSea: 'na morju',
     machine: 'Strojni prevod, ni pregledan',
     added: 'Dodalo uredništvo',
@@ -114,6 +115,8 @@ const STRINGS = {
       event: 'Dogodek',
     } as Record<string, string>,
     months: ['januar', 'februar', 'marec', 'april', 'maj', 'junij', 'julij', 'avgust', 'september', 'oktober', 'november', 'december'],
+    /** After a day number Slovenian takes the genitive: "2. avgusta 216 pr. n. št." */
+    monthsOf: ['januarja', 'februarja', 'marca', 'aprila', 'maja', 'junija', 'julija', 'avgusta', 'septembra', 'oktobra', 'novembra', 'decembra'],
   },
 };
 
@@ -130,7 +133,7 @@ export function formatDate(d: WdDate, locale: Locale): { text: string; note: str
   const [y, m, day, prec] = d;
   const year = fmt.year(y);
   if (prec >= 11 && m && day) {
-    return { text: locale === 'sl' ? `${day}. ${t.months[m - 1]} ${year}` : `${day} ${t.months[m - 1]} ${year}`, note: null };
+    return { text: locale === 'sl' ? `${day}. ${t.monthsOf[m - 1]} ${year}` : `${day} ${t.months[m - 1]} ${year}`, note: null };
   }
   if (prec === 10 && m) return { text: `${t.months[m - 1]} ${year}`, note: t.monthOnly };
   return { text: year, note: t.yearOnly };

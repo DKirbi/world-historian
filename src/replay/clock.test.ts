@@ -81,3 +81,13 @@ describe('frameAt', () => {
     expect(frameAt(frames, -400)).toBe(0);
   });
 });
+
+describe('formatDate', () => {
+  it('prints a date as precise as it is recorded, in each language', async () => {
+    const { formatDate } = await import('./text');
+    expect(formatDate([-216, 8, 2, 11, 'julian'], 'en').text).toBe('2 August 216 BCE');
+    expect(formatDate([-216, 8, 2, 11, 'julian'], 'sl').text).toBe('2. avgusta 216 pr. n. št.');
+    expect(formatDate([-218, 11, 1, 10, 'julian'], 'sl')).toEqual({ text: 'november 218 pr. n. št.', note: 'znan le mesec' });
+    expect(formatDate([-249, 0, 0, 9, 'julian'], 'en')).toEqual({ text: '249 BCE', note: 'year only' });
+  });
+});
