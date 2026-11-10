@@ -62,6 +62,11 @@ translations/<lang>/
   _later.json              what <lang> still shows in English, tagged L10N-LATER (scripts/l10n-later.py)
 tools/fetch_translation_sources.py   python3 fetch_translation_sources.py <data_dir> <lang> <region>
 version.json       the data release: version, date and release notes, newest first
+replay/<id>.json   a replay pack (docs/patterns/replay.md): hexagon board, events, wars, minimap columns
+sources/replay-<id>.json            editorial definition of a replay: years, box, anchors, additions and removals
+sources/replay-<id>-wikidata.json   its Wikidata snapshot: part of, participants, exact dates (CC0)
+tools/fetch_replay.py    python3 fetch_replay.py <data_dir> <id>: the replay's Wikidata snapshot
+tools/build_replay.py    python3 build_replay.py <data_dir> <id> <cliopatria.geojson> <ne_50m_land.geojson> [<ne_50m_rivers.geojson>]
 stories/<lang>/
   <region>.json            the Wikipedia text each story of the region shows, by story key: intro or section paragraphs,
                            title, URL, revision, description, lead image, day read (CC BY-SA 4.0)
@@ -303,6 +308,12 @@ They read the snapshots in `sources/` (retrieved 2026-10-17: Wikidata and Period
 - Post-1945 occupation zones appear as the occupying power.
 
 ## Changes
+
+- **2026-11-10, replay prototype: Rome's wars, 343–30 BCE.**
+  - `sources/replay-rome.json`, new: the editorial definition. An event of the key-events snapshot belongs to the replay when Wikidata lists Rome (the Roman Republic, Ancient Rome, the Roman Kingdom or the Roman Empire) among its participants or among those of a conflict it is part of, followed upwards. Five anchors bring in what Wikidata files under lists or eras (the Roman civil wars, the crisis of the Republic, Augustus's wars, the conquests of Hispania and Britain). Four additions (the Jugurthine War, the crossing of the Rubicon, the treaties of Apamea and Dardanos) and three removals (the Mercenary War and the Battle of the Saw, Carthage against its mercenaries; the Battle of Mantinea of 207 BCE, Greek leagues without Rome) each carry a quotation from the stored Wikipedia text or the Wikidata description; the build stops if one is missing.
+  - `tools/fetch_replay.py`, new, and `sources/replay-rome-wikidata.json` (retrieved 10 November 2026): 276 items, the 235 candidate events and their ancestors, with P361, P710, Slovenian labels and titles, and the dates as recorded (year, month, day, precision, calendar).
+  - `tools/build_replay.py`, new, and `replay/rome.json`: 125 events (59 with 20 or more Wikipedia editions), 51 wars, 8 minimap columns. Board: Cliopatria's 426 rows in the box and years as H3 cells by cell centre, clipped to Natural Earth land; 909 cells at resolution 3 and 6,200 at resolution 4, 58 frames (Cliopatria's change years). A polity smaller than a hexagon keeps the cell at its representative point (Rome before 338 BCE). 121 events have stored English text and 106 a Slovenian translation. One date disagreement is carried to the card: the Battle of Arausio is 5 October 105 BCE on Wikidata, 6 October in the English article.
+  - `src/i18n/names/sl.json`: the Kingdom of Numidia was named *Jugurta* (Cliopatria links it to the article on the king); it is *Numidija* now, as an override.
 
 - **2026-10-29, stored stories (data release 2026.10).**
   - `stories/en/<region>.json`, new: the English Wikipedia text every story shows, read on 29 October 2026 by `tools/fetch_stories.py`: 5,710 story keys (a key shared by regions is in each region's file, 6,250 entries), 1,103,570 words, each with title, URL, revision, short description and the day it was read; 113 are sections. 5,541 lead images with their author, licence and file page (4,722 files, all freely licensed: the page-image API offers free files only). 36 keys have no text: 28 eras citing a table row with no heading, 5 records with no English article, and 3 titles that now redirect to a section without paragraphs (*Han (state)*, *Middle Archaic*, *Minaeans*); their drawers tell the story from the data.

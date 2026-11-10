@@ -1,0 +1,101 @@
+{
+  "_note": "Editorial definition of the replay 'Rome's wars'. Events come from the key-events snapshot (wikidata-events.json, at least 12 Wikipedia editions); tools/fetch_replay.py adds what Wikidata says each is part of (P361) and who took part (P710). An event belongs to the replay when Rome took part in it or in a conflict it is part of (P361, followed upwards), or when such a conflict is one of the anchors. 'add' and 'drop' correct Wikidata where it is silent or too broad; each says why, with a quotation from the stored Wikipedia text (data/stories/en) or the item's Wikidata description, checked by tools/build_replay.py.",
+  "id": "rome",
+  "title": {
+    "en": "Rome's wars",
+    "sl": "Rimske vojne"
+  },
+  "range": [
+    -343,
+    -30
+  ],
+  "bbox": [
+    -11,
+    27,
+    47,
+    57
+  ],
+  "rome": {
+    "Q17167": "Roman Republic",
+    "Q1747689": "Ancient Rome",
+    "Q201038": "Roman Kingdom",
+    "Q2277": "Roman Empire"
+  },
+  "anchors": [
+    {
+      "id": "Q1747183",
+      "label": "list of Roman civil wars and revolts",
+      "why": "Wikidata files the civil wars (Sulla, Caesar, the Liberators, Actium) as part of this list; their participants are Roman factions, not Rome."
+    },
+    {
+      "id": "Q3395322",
+      "label": "Crisis of the Roman Republic",
+      "why": "Parent of the Sertorian War, whose participants are Roman factions and their allies."
+    },
+    {
+      "id": "Q7970863",
+      "label": "Wars of Augustus",
+      "why": "Parent of Octavian's wars (Mutina, Perusia, Sicily, the final war)."
+    },
+    {
+      "id": "Q2422375",
+      "label": "Roman conquest of Hispania",
+      "why": "Parent of the Celtiberian and Lusitanian wars."
+    },
+    {
+      "id": "Q1258062",
+      "label": "Roman conquest of Britain",
+      "why": "Parent of Caesar's invasions of Britain."
+    }
+  ],
+  "add": [
+    {
+      "id": "Q827612",
+      "label": "Jugurthine War",
+      "basis": "wikidata-description",
+      "quote": "war between Kingdom of Numidia and the Roman Republic",
+      "why": "Wikidata gives it no participants and no 'part of'; its description names the two sides."
+    },
+    {
+      "id": "Q25238182",
+      "label": "Crossing the Rubicon",
+      "basis": "story",
+      "quote": "crossing of the Rubicon river by Julius Caesar in January 49 BC",
+      "why": "The act that began Caesar's Civil War; Wikidata links it to no war."
+    },
+    {
+      "id": "Q1259381",
+      "label": "Treaty of Apamea",
+      "basis": "story",
+      "quote": "between the Roman Republic and Antiochus III",
+      "why": "Ended the Roman–Seleucid War; Wikidata links it to no war."
+    },
+    {
+      "id": "Q1266649",
+      "label": "Treaty of Dardanos",
+      "basis": "story",
+      "quote": "between Rome and Pontus",
+      "why": "Ended the First Mithridatic War; Wikidata links it to no war."
+    }
+  ],
+  "drop": [
+    {
+      "id": "Q1132393",
+      "label": "Mercenary War",
+      "quote": "a mutiny by troops that were employed by Carthage",
+      "why": "Wikidata files it under the Punic Wars, but Rome took no part."
+    },
+    {
+      "id": "Q2890774",
+      "label": "Battle of the Saw",
+      "quote": "between a Carthaginian army led by Hamilcar Barca and a rebel force",
+      "why": "A battle of the Mercenary War."
+    },
+    {
+      "id": "Q2330778",
+      "label": "Battle of Mantinea (207 BC)",
+      "quote": "between Sparta under the tyrant Machanidas",
+      "why": "Part of the First Macedonian War on Wikidata, fought between Greek leagues without Rome."
+    }
+  ]
+}
